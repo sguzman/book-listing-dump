@@ -1,0 +1,1143 @@
+[
+  {
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "179"
+    ],
+    "publisher": [
+      "ROBERTS, Thinking Recursively, John Wiley & Sons"
+    ],
+    "title": [
+      "Two books giving thorough introductions to recursion, with many examples, and serving as excellent supplements to this book are: ERIC S"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "W.O.O.D."
+      }
+    ],
+    "container-title": [
+      "Journal of Recreational Math"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "17–24"
+    ],
+    "title": [
+      "The Towers of Hanoi is quite well known and appears in many textbooks. A survey of related papers is D",
+      "The Towers of Brahma and Hanoi revisited"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BROWN",
+        "given": "D.G.R.I.E.S."
+      },
+      {
+        "family": "SZYMANSKI",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "SIAM Journal on Computing"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "242–268"
+    ],
+    "title": [
+      "The proof that stacks may be eliminated by the introduction of recursion appears in S",
+      "Program schemes with pushdown stores"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "WIRTH, Algorithms + Data Structures = Programs"
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Consult the references at the end of the previous chapter for several good sources for examples and applications of recursion. One of the earlier books containing algorithms for both the knight’s tour and eight-queens problems is N"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "IGOR RIVIN",
+        "particle": "see"
+      },
+      {
+        "family": "VARDI",
+        "given": "I.L.A.N."
+      },
+      {
+        "family": "ZIMMERMANN",
+        "given": "P.A.U.L."
+      }
+    ],
+    "container-title": [
+      "The American Mathematical Monthly"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "629–639"
+    ],
+    "title": [
+      "For a general discussion of the n-queens problem, including a proof that the number of solutions cannot be bounded by any polynomial in",
+      "The n -Queens Problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "n",
+      "101"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H.O.R.O.W.I.T.Z."
+      },
+      {
+        "family": "SAHNI",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "This book"
+    ],
+    "date": [
+      "1978",
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "626",
+      "290–302"
+    ],
+    "publisher": [
+      "Computer Science Press",
+      "S. BIRD, Programs and Machines, John Wiley"
+    ],
+    "title": [
+      "Many other applications of recursion appear in books such as E",
+      "Fundamentals of Computer Algorithms",
+      "contains more extensive discussion and analysis of game trees and look-ahead programs. The general theory of recursion forms a research topic. A readable presentation from a theoretical approach is R"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Lists and Strings"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "third"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "note": [
+      "For details regarding the C++ standard string implementation and library, see Chapter 20 of B. STROUSTRUP, The C++ Programming Language,"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The references given for stacks and queues continue to be appropriate for the current chapter. In particular, for many topics concerning list manipulation, the best source for additional information, historical notes, and mathematical analysis is KNUTH",
+      "This book, however, does not take the principles of data abstraction into account"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "note": [
+      "see: SCOTT MEYERS, Effective C++,"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "For a careful discussion of the advantages and drawbacks of the various implementation strategies for a conversion from strings to C-strings"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "TOPOR",
+        "given": "R.W."
+      }
+    ],
+    "container-title": [
+      "SIGCSE Bulletin",
+      "Computing Surveys",
+      "Computer Journal"
+    ],
+    "date": [
+      "1982-02",
+      "1977",
+      "1982"
+    ],
+    "editor": [
+      {
+        "family": "addenda",
+        "given": "ibid"
+      }
+    ],
+    "pages": [
+      "92–96",
+      "137–164",
+      "314–317",
+      "257–263"
+    ],
+    "title": [
+      "The algorithm that generates permutations by insertion into a linked list was published in the ACM",
+      "Useful surveys of many methods for generating permutations are R. SEDGEWICK, “Permutation generation methods",
+      "Functional programs for generating permutations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14",
+      "9",
+      "25"
+    ]
+  },
+  {
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "Cambridge, England"
+    ],
+    "note": [
+      "Searching"
+    ],
+    "pages": [
+      "451–479"
+    ],
+    "publisher": [
+      "J. BUDDEN, The Fascination of Groups, Cambridge University Press"
+    ],
+    "title": [
+      "The applications of permutations to campanology (change ringing of bells) produce interesting problems amenable to computer study. An excellent source for further information is F"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "GOTLIEB",
+        "given": "C.C."
+      },
+      {
+        "family": "GOTLIEB",
+        "given": "L.R."
+      },
+      {
+        "family": "Types",
+        "given": "Data"
+      },
+      {
+        "family": "Structures",
+        "given": "Prentice Hall"
+      },
+      {
+        "family": "Englewood Cliffs",
+        "given": "N.J."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "133–135"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "O",
+        "given": "Θ."
+      },
+      {
+        "given": "Ω."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "presented in entertaining style: GREGORY J. E. RAWLINS, Compared to What? An Introduction to the Analysis of Algorithms, Computer Science Press (imprint of W. H. Freeman),",
+      "Sorting"
+    ],
+    "pages": [
+      "38–77"
+    ],
+    "title": [
+      "The following book gives further information on the asymptotic relations o"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "GOTLIEB",
+        "given": "C.C."
+      },
+      {
+        "family": "GOTLIEB",
+        "given": "L.R."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Data Types and Structures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MCKENZIE",
+        "given": "R.H.A.R.R.I.E.S."
+      },
+      {
+        "family": "BELL",
+        "given": "T.C."
+      }
+    ],
+    "container-title": [
+      "J",
+      "Software Practice and Experience"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "209–224"
+    ],
+    "title": [
+      "An interesting study of hash functions and the choice of constants used is: B",
+      "Selecting a hashing algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KLAMKIN",
+        "given": "S."
+      },
+      {
+        "family": "NEWMAN",
+        "given": "D.J."
+      }
+    ],
+    "container-title": [
+      "Journal of Combinatorial Theory"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "279–282"
+    ],
+    "title": [
+      "Extensions of the birthday surprise are considered in M"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "A thorough and informative analysis of hashing appears in Chapter 8 of ROBERT SEDGEWICK and PHILIPPE FLAJOLET, An Introduction to the Analysis of Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "The proof of Theorem 10.2 is from"
+    ],
+    "note": [
+      "A mathematical analysis of the behavior of AVL trees appears in E. M. REINGOLD, J. NIEVERGELT, and N. DEO, Combinatorial Algorithms: Theory and Practice, Prentice Hall, Englewood Cliffs, N. J., 1977."
+    ],
+    "pages": [
+      "422–480,",
+      "427"
+    ],
+    "title": [
+      "One of the most comprehensive source of information on binary trees is the series of books by KNUTH. The properties of binary trees, other classes of trees, traversal, path length, and history, altogether occupy pages 305–405 of",
+      "discusses binary search trees, AVL trees, and related topics"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1. Volume 3",
+      "3"
+    ]
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The following book presents many interesting empirical studies and other analyses of various data structures, including binary trees: ROBERT SEDGEWICK and PHILIPPE FLAJOLET, An Introduction to the Analysis of Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ADEL’SON-VEL’SKII",
+        "given": "M."
+      },
+      {
+        "family": "LANDIS",
+        "given": "E.M."
+      },
+      {
+        "given": "Dokl"
+      }
+    ],
+    "container-title": [
+      "Nauk SSSR"
+    ],
+    "date": [
+      "1962",
+      "1962"
+    ],
+    "note": [
+      "English translation: Soviet Math. (Dokl."
+    ],
+    "pages": [
+      "263–266",
+      "1259–1263"
+    ],
+    "title": [
+      "The original reference for AVL trees is G",
+      "Akad"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "146",
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "IYENGAR",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "695–702"
+    ],
+    "title": [
+      "Several algorithms for constructing a balanced binary search tree are discussed in HSI CHANG and S",
+      "Efficient algorithms to globally balance a binary search tree"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SLEATOR",
+        "given": "D."
+      },
+      {
+        "family": "TARJAN",
+        "given": "R.E."
+      }
+    ],
+    "container-title": [
+      "Journal of the ACM"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "652–686"
+    ],
+    "title": [
+      "The notions of splay trees and amortized algorithm analysis, together with the derivation of the algorithm we present, are due to: D",
+      "Self-adjusting binary search trees"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "509"
+    ],
+    "publisher": [
+      "LEWIS and LARRY DENENBERG, Data Structures & Their Algorithms, Harper-Collins"
+    ],
+    "title": [
+      "Good sources for more advanced presentations of topics related to this chapter are: HARRY R"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BAYER",
+        "given": "R."
+      },
+      {
+        "family": "MCCREIGHT",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Acta Informatica"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "173–189"
+    ],
+    "title": [
+      "Organization and maintenance of large ordered indexes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C.O.M.E.R."
+      }
+    ],
+    "container-title": [
+      "Computing Surveys"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "121–137"
+    ],
+    "title": [
+      "An interesting survey of applications and variations of B-trees is D",
+      "The ubiquitous B-tree"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CORMEN",
+        "given": "C.H.A.R.L.E.S.E.L.E.I.S.E.R.S.O.N."
+      },
+      {
+        "family": "RIVEST",
+        "given": "R.O.N.A.L.D.L."
+      },
+      {
+        "family": "Algorithms",
+        "given": "M.I.T.Press",
+        "particle": "Introduction to"
+      },
+      {
+        "family": "Cambridge",
+        "given": "Mass"
+      },
+      {
+        "family": "McGraw-Hill",
+        "given": "New York"
+      }
+    ],
+    "date": [
+      "1990",
+      "1993"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "note": [
+      "appears in DERICK WOOD, Data Structures, Algorithms, and Performance,"
+    ],
+    "pages": [
+      "1028",
+      "353–366"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "For an alternative treatment of red-black trees, including a removal algorithm, see: THOMAS H",
+      "This book gives comprehensive coverage of many different kinds of algorithms. Another outline of a removal algorithm for red-black trees, with more extensive mathematical analysis"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "E. TARJAN, Data Structures and Network Algorithms, Society for Industrial and Applied Mathematics, Philadelphia"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "131"
+    ],
+    "title": [
+      "The study of graphs and algorithms for their processing is a large subject and one that involves both mathematics and computing science. Three books, each of which contains many interesting algorithms, are R"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "SHIMON",
+        "given": "E.V.E.N."
+      },
+      {
+        "family": "Algorithms",
+        "given": "Graph"
+      },
+      {
+        "family": "Press",
+        "given": "Computer Science"
+      },
+      {
+        "family": "Rockville",
+        "given": "Md"
+      },
+      {
+        "family": "REINGOLD",
+        "given": "E.M."
+      },
+      {
+        "family": "NIEVERGELT",
+        "given": "J."
+      },
+      {
+        "family": "DEO",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Englewood Cliffs, N. J"
+    ],
+    "date": [
+      "1979",
+      "1977"
+    ],
+    "pages": [
+      "249",
+      "433"
+    ],
+    "title": [
+      "Combinatorial Algorithms: Theory and Practice, Prentice-Hall"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DIJKSTRA",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "269–271"
+    ],
+    "title": [
+      "The original reference for the greedy algorithm determining the shortest paths in a graph is E",
+      "A note on two problems in connexion with graphs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PRIM",
+        "given": "C."
+      },
+      {
+        "family": "J. B. KRUSKAL",
+        "given": "Kruskal’s",
+        "particle": "algorithm is described in"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the American Mathematical Society",
+      "Bell System Technical Journal"
+    ],
+    "date": [
+      "1957",
+      "1956"
+    ],
+    "pages": [
+      "1389–1401",
+      "48–50"
+    ],
+    "title": [
+      "Prim’s algorithm for minimal spanning trees is reported in R",
+      "Shortest connection networks and some generalizations",
+      "On the shortest spanning tree of a graph and the traveling salesman problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36",
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIJKSTRA",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Indagationes Mathematicæ"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "196–199"
+    ],
+    "title": [
+      "The original reference for Dijkstra’s algorithm for minimal spanning trees is E",
+      "Some theorems on spanning subtrees of a graph"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIJKSTRA",
+        "given": "E.W."
+      },
+      {
+        "family": "C. L. HAMBLIN",
+        "particle": "to"
+      },
+      {
+        "family": "E. W. DIJKSTRA",
+        "particle": "appears in"
+      }
+    ],
+    "container-title": [
+      "Automatic Programming Information",
+      "reprinted in Annual Revue of Automatic Programming"
+    ],
+    "date": [
+      "1961-05",
+      "1963"
+    ],
+    "pages": [
+      "347–356"
+    ],
+    "title": [
+      "Making a translator for ALGOL 60"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "number 7",
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HAMBLIN",
+        "given": "C.L."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "210–213"
+    ],
+    "title": [
+      "Translation to and from Polish notation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "REINGOLD",
+        "given": "E.D.W.A.R.D.M."
+      }
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1981"
+    ],
+    "note": [
+      "Mathematical Methods A"
+    ],
+    "pages": [
+      "288"
+    ],
+    "title": [
+      "The recursive algorithm for evaluation of postfix expressions is derived, albeit from a rather different point of view, and for binary operators only",
+      "A comment on the evaluation of Polish postfix expressions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "container-title": [
+      "American Mathematical Monthly"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "1–7"
+    ],
+    "publisher": [
+      "DAVID MERMIN"
+    ],
+    "title": [
+      "More extensive discussions of proof by induction, the summation notation, sums of powers of integers, and logarithms appear in many algebra textbooks. These books will also provide examples and exercises on these topics. An excellent discussion of the importance of logarithms and of logarithms the subtle art of approximate calculation is N",
+      "Logarithms!"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "87"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H.O.F.S.T.A.D.T.E.R."
+      }
+    ],
+    "container-title": [
+      "Scientific American"
+    ],
+    "date": [
+      "1982-05"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "20–34"
+    ],
+    "title": [
+      "Several interesting examples of estimating large numbers and thinking of them logarithmically are discussed in DOUGLAS R",
+      "Metamagical themas"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "246"
+    ]
+  },
+  {
+    "citation-number": [
+      "666"
+    ],
+    "container-title": [
+      "Two-Year College Mathematics Journal",
+      "KNUTH"
+    ],
+    "date": [
+      "1980",
+      "1730"
+    ],
+    "note": [
+      "Two elementary textbooks containing many further developments of the ideas introduced here are GERALD BERMAN and K. D. FRYER, Introduction to Combinatorics, Academic Press, 1972."
+    ],
+    "pages": [
+      "82–89",
+      "108–111,",
+      "137"
+    ],
+    "title": [
+      "Appendix A • Mathematical Methods harmonic numbers Several surprising and amusing applications of harmonic numbers are given in the nontechnical article RALPH BOAS, “Snowfalls and elephants, pop bottles and π",
+      "The detailed estimates for both harmonic numbers and factorials (Stirling’s approximation) are quoted from KNUTH",
+      "where detailed proofs may be found",
+      "is also an excellent source for further information regarding permutations, combinations, and related topics. The original reference for Stirling’s approximation is factorials JAMES STIRLING, Methodus Differentialis",
+      "The branch of mathematics concerned with the enumeration of various sets or combinatorics classes of objects is called combinatorics. This science of counting can be introduced on a very simple level or studied with great sophistication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11",
+      "1",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TUCKER",
+        "given": "A.L.A.N."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Applied Combinatorics"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "The appearance of Fibonacci numbers in nature is illustrated in PETER STEVENS, Patterns in Nature"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "pages": [
+      "78–86,"
+    ],
+    "publisher": [
+      "Little, Brown"
+    ],
+    "title": [
+      "Fibonacci numbers The derivation of the Fibonacci numbers will appear in almost any book on combinatorics, as well as in KNUTH",
+      "who includes some interesting history as well as many related exercises"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "title": [
+      "Many hundreds of other properties of Fibonacci numbers have been and continue to be found; these are often published in the research journal Fibonacci Quarterly"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "BROWN",
+        "given": "G."
+      },
+      {
+        "given": "S.E.G.N.E.R."
+      }
+    ],
+    "container-title": [
+      "KNUTH",
+      "American Mathematical Monthly",
+      "Scientific American",
+      "J. A",
+      "Novi Commentarii Academiæ Scientiarum Imperialis Petropolitanæ"
+    ],
+    "date": [
+      "1965",
+      "1976-06",
+      "1758"
+    ],
+    "editor": [
+      {
+        "given": "B.E.R.M.A.N."
+      },
+      {
+        "given": "F.R.Y.E.R."
+      }
+    ],
+    "issue": [
+      "6"
+    ],
+    "note": [
+      "E. CATALAN, “Solution nouvelle de cette question: un polygone étant donné, de combien de manieres peut-on le partager en triangles au moyen de diagonales?,”"
+    ],
+    "pages": [
+      "230–232",
+      "385–406,",
+      "973–977",
+      "120–125",
+      "203–209"
+    ],
+    "title": [
+      "Catalan numbers A derivation of the Catalan numbers (applied to triangulations of convex polygons) appears in the first of the cited books on combinatorics",
+      "enumerates several classes of trees, including the Catalan numbers applied to binary trees. A list of 46 references providing both history and applications of the Catalan numbers appears in W",
+      "Historical note on a recurrent combinatorial problem",
+      "The following article expounds many other applications of Catalan numbers: MARTIN GARDNER, “Mathematical games” (regular column",
+      "The original references for the derivation of the Catalan numbers are",
+      "Enumeratio modorum, quibus figuræ planæ rectilinæ per diagonales dividuntur in triangula"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1",
+      "72",
+      "234",
+      "v",
+      "7"
+    ]
+  },
+  {
+    "container-title": [
+      "Journal de Mathématiques Pures et Appliquées"
+    ],
+    "date": [
+      "1839"
+    ],
+    "pages": [
+      "91–94"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "K.N.U.T.H."
+      }
+    ],
+    "container-title": [
+      "Packages and Utility Functions C"
+    ],
+    "pages": [
+      "1–177,"
+    ],
+    "title": [
+      "provides one of the most comprehensive treatments of pseudorandom number generators, testing methods, and related topics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  }
+]
