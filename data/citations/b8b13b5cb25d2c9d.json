@@ -1,0 +1,308 @@
+[
+  {
+    "genre": [
+      "INTRODUCTION OUTLINE 1-1. Introduction 1-2."
+    ],
+    "publisher": [
+      "Numerical Representation"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1-3."
+    ],
+    "container-title": [
+      "Advantages of Digital Techniques 1-7. Limitations of Digital Techniques 1-8. The Future is Digital 1-9. The Binary Digits 1-10. Logic Levels"
+    ],
+    "title": [
+      "Analog Representation 1-4. Digital Representation 1-5. Digital and Analog Systems 1-6"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1-11."
+    ],
+    "container-title": [
+      "Digital Integrated Circuits Parallel Data Transfer 1-21. Memory 1-22. Digital Computers 1-23. Major Parts of a Computer 1-24. Central Processing Unit 1-25"
+    ],
+    "source": [
+      "Types of Computers 1-26. Microcomputers 1-27. Microcontrollers 1-28. Simulation Tools"
+    ],
+    "title": [
+      "Representation of a Digital Waveform 1-12. The Pulse Characteristics 1-13. Waveform Characteristics 1-14. A Digital Waveforms carries Binary Information 1-15. Timing Diagram 1-16. Data Transfer 1-17. Parallel Data Transfer 1-18. Serial Data Transfer 1-19. Comparison Between Serial and 1-20"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "FLIP - FLOPS AND RELATED DEVICES OUTLINE 5-1. Introduction 5-2. Flip-Flop (FF) 5-3. Latch 5-4. NAND Gate Latch 5-5. Alternative Representations 5-6. Application of NAND Latch to of NAND Gate Latch Debounce a Mechanical Switch 5-7. NOR Gate Latch 5-8"
+    ],
+    "note": [
+      "Clocked Signals 5-9. Clocked Flip-Flops 5-10. Set-up and Hold Times in Clocked Flip-Flops"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "5-11."
+    ],
+    "container-title": [
+      "Flip-Flop Timing Parameters Asynchronous Inputs 5-29. IC Flip-Flop Timing Values 5-30. Potential Timing Problem in Flip-Flop Circuits 5-31. Applications of Flip-Flop 5-32. Flip-Flop Synchronisation 5-33. Data Storage and Transfer 5-34. Parallel Data Transfer 5-35. Serial Data Transfer : Shift 5-36. Serial Data Transfer Between Registers Registers 5-37. Frequency Division 5-38. Counting 5-39"
+    ],
+    "editor": [
+      {
+        "family": "Latch",
+        "given": "D."
+      }
+    ],
+    "note": [
+      "Schmitt Trigger Devices 5-40. One-short (Monostable Multivibrator) 5-41. Types of One-Shots 5-42. Non-Retriggerable One-Short 5-43. Retriggerable One-Shot 5-44. Actual one-shot Devices 5-45. Clock General Circuits 5-46. Schmitt-Trigger Oscillator 5-47. 555 Timer Used as an Astables Multivibrator"
+    ],
+    "title": [
+      "Clocked S-C Flip-Flop 5-12. Internal circuitry of an Edge-Triggered S-C 5-13. Clocked J-K Flip-Flop 5-14. Internal Circuitry of an Edge-Triggered J-K 5-15. Clocked D Flip-Flop 5-16. Excitation Table of Flip-Flop 5-17. Excitation table of S-C Flip-Flop 5-18. Excitation table of JK Flip-Flop 5-19. Excitation table of D Flip- Flop 5-20. Excitation table of T Flip- Flop 5-21. Implementation of One Type of 5-22. Implementation of D Flip-Flop from a Flip-Flop to another Type of Flip-Flop J-K Flip-Flop 5-23. Parallel Transfer of Data 5-24",
+      "using D Flip-Flop 5-25. Master-Slave Flip-Flop 5-26. Clocked J-K Flip-Flop with Asynchronous Inputs 5-27. Alternative Designations for 5-28"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "7-45."
+    ],
+    "container-title": [
+      "Circuit with S-R NOR Latch 7-61. Circuit with S-R NAND Latch 7-62. Analysis of Asynchronous Sequential 7-63. Design Procedure 7-64. Primitive Flow Table 7-65. Reduction of the Primitive Flow Table 7-66. Transition Table and Logic Diagram 7-67. Hazard 7-68. Gate Delays 7-69. Generation of Spikes 7-70. Hazard in Combinational Circuits 7-71. Detection of Static Hazards 7-72. Elimination of Static Hazards 7-73. Hzards in Sequential Circuits 7-74. Faults in Combinational Logic Gates 7-75. Fault-Detection Methods 7-76. Faults Detection by Fault Tables"
+    ],
+    "title": [
+      "Analysis of Clocked Sequential Circuit 7-46. State Diagram 7-47. State Table of Synchronous 7-48. State Reduction of Synchronous Sequential Circuit Sequential Circuit 7-49. State Assignment of Synchronous 7-50. Rules for State Assignment Sequential Circuit 7-51. State Equivalence and Mnimisations 7-52. Design Procedure of Synchronous Sequential Circuit 7-53. Asynchronous Sequential Circuit 7-54. Asynchronous Sequential Machine Mode 7-55. Analysis of Asynchronous Sequential 7-56. Transition Table of Asynchronous Machines Sequential Circuit 7-57. Flow Table 7-58. Race Conditions 7-59. Circuits with Latches 7-60"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IC Logic Families"
+    ],
+    "genre": [
+      "OUTLINE 8-1. Introduction 8-2."
+    ],
+    "location": [
+      "Main"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Saturated"
+      },
+      {
+        "given": "Non-saturated"
+      }
+    ],
+    "citation-number": [
+      "8-3."
+    ],
+    "container-title": [
+      "DC Supply Voltage 8-6. TTL and CMOS Logic Levels 8-7. Noise Immunity 8-8. Noise Margin 8-9. Power Dissipation 8-10. Power Dissipation Versus Frequency"
+    ],
+    "title": [
+      "Basic operating characteristics and Logic Circuit Parameters of Logic Families 8-5"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "8-11."
+    ],
+    "container-title": [
+      "RTL Circuit 8-15. DTL Circuit 8-16. TTL Circuit 8-17. TTL Circuit with Open-Collector 8-18. TTL Circuit with Three-State output 8-19. TTL Output Sub-families 8-20. ECL Circuit 8-21. I2L Circuit 8-22. PMOS Circuit 8-23. PMOS Circuit 8-24. MOS Family 8-25. NMOS INVERTER Circuit 8-26. NMOS Circuit 8-27. CMOS Circuit 8-28. NMOS NAND Circuit 8-29. CMOS NAND Circuit 8-30. CMOS INVERTER Circuit 8-31. Interfacing ICs from different Logic 8-32. Interfacing TTL to CMOS Families 8-33. Interfacing CMOS to TTL 8-34. Level Shifting 8-35. Interfacing ECL to TTL/TTL to ECL"
+    ],
+    "title": [
+      "Propagation Delay 8-12. Speed-Power Product 8-13. Loading and Fan-out 8-14"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "OUTLINE 9-1. Introduction 9-2."
+    ],
+    "publisher": [
+      "Combinational Circuits"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9-3."
+    ],
+    "container-title": [
+      "Application of Decoder 9-10. Decoder in Timing and Sequencing Operation Circuit"
+    ],
+    "title": [
+      "Design Procedure of 9-4. Analysis Procedure of Combinational Circuit Combinational Circuit 9-5. Decoders 9-6. Decoder with Enable Input-IC 74138 9-7. BCD-to-Decimal Decoders 9-8. BCD-to-Decimal Decoder/Driver 9-9"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "9-11."
+    ],
+    "container-title": [
+      "IC 74138 Decoder as a 9-30. Applications of Demultiplexer Demultiplexer 9-31. Clock Demultiplexer 9-32. Magnitude Comparator - IC"
+    ],
+    "note": [
+      "Cascading of IC 7485 to compare 9-34. Application of Magnitude Comparator Two 8-bit Numbers."
+    ],
+    "pages": [
+      "7485 9–33"
+    ],
+    "title": [
+      "Decoder in Memory System 9-12. Decoder in Selecting Input/Output of a Computer Devices 9-13. BCD-to-Seven Segment 9-14. Encoders Decoders/Drivers 9-15. Priority Encoders 9-16. Decimal-to-BCD Encoder 9-17. Switch Encoder using 74147 9-18. Multiplexers 9-19. Two-input Multiplexer 9-20. Four-input Multiplexer 9-21. Eight-input Multiplexer 9-22. Sixteen-input Multiplexer 9-23. Quad Two-input Multiplexer 9-24. Applications of Multiplexer 9-25. Logic Function Generation 9-26. A More Efficient Method for Generating a Logic Function 9-27. Demultiplexers 9-28. 1-Line-to-8-Line Demultiplexer 9-29"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "9-35."
+    ],
+    "container-title": [
+      "Algorithmic State Machines 9-36. ASM Charts 9-37. ASM Block 9-38. Register operations 9-39. Design Example with ASM Chart 9-40. Design with Multiplexer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "OUTLINE 10-1. Introduction 10-2."
+    ],
+    "note": [
+      "Digital-to-Analog (D/A) Conversion"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10-3."
+    ],
+    "note": [
+      "Different Types of D/A Conversion 10-10. Pulse Width Modulator Method"
+    ],
+    "title": [
+      "Resolution (or Step-size) of a D/A 10-4. Percentage Resolution of D/A Converter Converter 10-5. What Does Resolution of a D/A 10-6. D/A Converter Output : Analog or Digital Converter Mean? 10-7. D/A Converter — Input Weights 10-8. D/A Converter with Bipolar Inputs 10-9"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10-11."
+    ],
+    "title": [
+      "Oversampling Method 10-12. The Binary-Weighted Method 10-13. Limitations of Binary-Weighted 10-14. The R-2R Ladder Scheme Method"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10-15."
+    ],
+    "container-title": [
+      "Successive Approximation A/D 10-24. Conversion Time of Successive Converter Approximation A/D Converter 10-25. An Actual IC : The ADC 0808 10-26. Flash A/D Converter Successive Approximation A/D Converter 10-27. Quantization Error of an A/D 10-28. Accuracy of an A/D Converter Converter 10-29. Sample and Hold Circuits 10-30. Digital Storage Oscilloscope (DSO) 10-31. Digital Signal Processor (DSP) 10-32. Multiplexing 10-33. Data Acquisition System 10-34. Reconstructing an Analog Signal from a Digital Signal"
+    ],
+    "title": [
+      "The Thermometer Coded D/A Method 10-16. The Segmented D/A Method 10-17. Hybrid Method 10-18. An Integrated Circuit D/A Converter 10-19. D/A Converter Specifications 10-20. Applications of D/A Converter 10-21. Analog-to-Digital (A/D) Conversion 10-22. Digital-Ramp A/D Converter 10-23"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "OUTLINE 12-1. Introduction 12-2."
+    ],
+    "publisher": [
+      "History of PLD"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12-3."
+    ],
+    "container-title": [
+      "PLD Symbol 12-6. PROM as a PLD 12-7. Programming the PROM 12-8. Programming Array Logic 12-9. Programming Logic Array 12-10. Application of PLAs"
+    ],
+    "title": [
+      "Programmable Logic Device 12-4. Advantages of Programmable Logic Devices 12-5"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "12-11."
+    ],
+    "publisher": [
+      "Complex Programmable Logic Devices"
+    ],
+    "title": [
+      "Generic Array Logic 12-12"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "12-13."
+    ],
+    "container-title": [
+      "Limitation of Actel Device 12-20. Advantages and Disadvantages of Antifuse Programming 12-21. Application of FPGAs 12-22. Advantages of CPLDs over FPGAs 12-23. Advantages of FPGAs over CPLDs 12-24. Design of FPGAs and Programming"
+    ],
+    "title": [
+      "Application of CPLDs 12-14. Packaging of CPLD Chip 12-15. Programming of PLDs 12-16. Field Programmable Gate Array 12-17. Logic Cell Array 12-18. Actel Device Architecture 12-19"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "OUTLINE 13-1. Introduction 13-2."
+    ],
+    "publisher": [
+      "History of Microprocessor"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13-3."
+    ],
+    "container-title": [
+      "Instruction Set of"
+    ],
+    "pages": [
+      "13–10"
+    ],
+    "publisher": [
+      "Data Transfer Operations"
+    ],
+    "title": [
+      "Basics of Microprocessor 13-4. Microprocessor Buses 13-5. Microprocessor-based System 13-6. Operation of Microprocessor 13-7. Microprocessor Instructions 13-8. Microprocessor 8085 Architecture 13-9"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8085"
+    ]
+  },
+  {
+    "citation-number": [
+      "13-11."
+    ],
+    "container-title": [
+      "Microprocessor Programming 13-18. The 8085 Interrupts 13-19. Pin Description of IC"
+    ],
+    "note": [
+      "8086 Microprocessor 13-21. Pin Description of 8086"
+    ],
+    "pages": [
+      "8085 13–20"
+    ],
+    "title": [
+      "Arithmetic Operations 13-12. Logical Operations 13-13. Branch Instructions 13-14. Stack, I/O and Machine Control Operations 13-15. Addressing Modes 13-16. 8085 Machine Cycles and Bus Timing 13-17"
+    ],
+    "type": "chapter"
+  }
+]
