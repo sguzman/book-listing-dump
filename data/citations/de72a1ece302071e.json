@@ -1,0 +1,97 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "although other versions exist."
+    ],
+    "title": [
+      "ISO/IEC 9899:1999 - Programming languages - C”, with technical corrigenda TC1 and TC2",
+      ". References are to sections of this specific version, referred to as the “C99 Specification”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.iso.org/standard/29237.html"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "References are to sections and tables of this specific version, although other versions exists."
+    ],
+    "title": [
+      "ISO/IEC 9899:2011 - Information technology - Programming languages - C”",
+      ". References are to sections of this specific version, referred to as the “C11 Specification”, although other versions exist. 3. “The OpenCL Specification, Version 3.0, Unified”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.iso.org/",
+      "https://www.khronos.org/registry/OpenCL/"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Device Queries” are defined in the OpenCL Specification for clGetDeviceInfo, and the individual queries are defined in the “OpenCL Device Queries” table (4.3) of that Specification"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Image Channel Order” is defined in the OpenCL Specification in the “Image Format Descriptor” section (5.3.1.1), and the individual channel orders are defined in the “List of supported Image Channel Order Values” table (5.6) of that Specification"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Image Channel Data Type” is defined in the OpenCL Specification in the “Image Format Descriptor” section (5.3.1.1), and the individual channel data types are defined in the \"`List of supported Image Channel Data Types\" table (5.7) of that Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "OpenCL/"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "The OpenCL Extension Specification, Version 3.0, Unified”",
+      "References are to sections and tables of this specific version, although other versions exists. 8. “IEC 61966-2-1:1999 Multimedia systems and equipment - Colour measurement and management - Part 2-1: Colour management - Default RGB colour space - sRGB”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.khronos.org/registry/",
+      "https://webstore.iec.ch/publication/6169"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "although other versions exist."
+    ],
+    "title": [
+      "ISO/IEC TR 18037:2008 Programming languages - C - Extensions to support embedded processors”",
+      ". References are to sections of this specific version, referred to as the “Embedded C Specification”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.iso.org/standard/51126.html"
+    ]
+  }
+]
