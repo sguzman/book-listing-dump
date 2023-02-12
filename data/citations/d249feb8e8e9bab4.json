@@ -1,0 +1,29 @@
+[
+  {
+    "note": [
+      "_tprintf_s(Schwefel.Elapsed()); CSchwefelMT SchwefelMT(100000); SchwefelMT.Evaluate(); _tprintf_s(SchwefelMT.Elapsed()); CSchwefelP SchwefelP(100000); SchwefelP.Evaluate(); _tprintf_s(SchwefelP.Elapsed());"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Get to grips with thread management, the Fork/ Join framework, concurrency classes, and much more in this book and e-book"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "2. Perform rapid application development with Code::Blocks. 3. Work with advanced C++ features including code debugging and GUI toolkits"
+    ],
+    "note": [
+      "Boost C++ Application Development Cookbook ISBN: 978-1-84951-488-0 Paperback: 348 pages"
+    ],
+    "title": [
+      "Please check www.PacktPub.com for information on our titles C++ Application Development with Code::Blocks ISBN: 978-1-78328-341-5 Paperback: 128 pages Develop advanced applications with Code::Blocks quickly and efficiently with this concise, hands-on guide 1. Successfully install and configure Code::Blocks for C++ development"
+    ],
+    "type": "chapter"
+  }
+]

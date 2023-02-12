@@ -1,0 +1,81 @@
+[
+  {
+    "source": [
+      "bin:x:2:2::/usr/bin: sys:x:3:3::/: adm:x:4:4:Admin:/var/adm: uucp:x:5:5:uucp Admin:/usr/lib/uucp: nuucp:x:9:9:uucp Admin:/var/spool/uucppublic:/usr/lib/uucp/uucico listen:x:37:4:Network Admin:/usr/net/nls: nobody:x:60001:60001:Nobody:/: noaccess:x:60002:60002:No Access User:/: nobody4:x:65534:65534:SunOS 4.x Nobody:/:"
+    ],
+    "type": null,
+    "url": [
+      "root:x:0:1:Super-User:/:/sbin/sh daemon:x:1:1::/:",
+      "bing:x:1001:10:Bing Feraren:/usr/users/bing:/bin/sh orion:x:1002:10:Christopher Adams:/usr/users/orion:/usr/ace/sdshell webadm:x:1130:101:Web Administrator:/usr/users/webadm:/bin/sh cadams:x:1003:10:Christopher Adams:/usr/users/cadams:/usr/ace/sdshell bartho_m:x:1004:101:Mark Bartholomew:/usr/users/bartho_m:/usr/ace/sdshell monty:x:1139:101:Monty Haymes:/usr/users/monty:/bin/sh debra:x:1148:101:Debra Reid:/usr/users/debra:/bin/sh connie:x:1149:101:Connie"
+    ]
+  },
+  {
+    "source": [
+      "beta.digitaltoes.com IP Address #1:63.149.163.41... ftp.digitaltoes.com IP Address #1:63.149.163.36... intranet.digitaltoes.com IP Address #1:65.115.201.138... mail.digitaltoes.com IP Address #1:63.149.163.42... www.digitaltoes.com IP Address #1:63.149.163.36..."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "News.com",
+        "given": "CNet"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1997-05-30"
+    ],
+    "title": [
+      "Lost World, LAPD: Hacks or Hoaxes?"
+    ],
+    "translator": [
+      {
+        "family": "Janet Kornblum",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "News.com",
+        "given": "CNet"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "by Matt Lake"
+    ],
+    "date": [
+      "1999-10-27"
+    ],
+    "title": [
+      "The Ten Most Subversive Hacks"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "191–192"
+    ],
+    "pages": [
+      "189–190"
+    ],
+    "title": [
+      "MS SQL injection attacks, protecting against, network shares, protecting, 190 191–192 password management, 189–190 network shares, protecting, 190 permissions, 188–189 password management"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Juhan, 140–143 Lockheed Martin hack, 27–28 Katsaniotis, Costa. See also Boeing hacks (Matt and SIPRNET hack, 29 Costa) White House break-in, 35–39 arrest for Boeing hack, 82–83 SIPRNET hack, 30–32 background, 69–70 Whurley current activities, 87 cold readings, 222–223 dumpster diving, 70–71 direction of approach, 223–224 hotel services, theft of, 72–73 fooling the guards, 223–224 phone phreaking, 70–71, 84–86 impersonating an employee, 226–229 prison time, 84–86 Las Vegas security audits, 222–232 punishment, 81, 82–84 phony badges, 229–230 U.S. District Court hack, 71–72, 73–74 psychology of color, 225–226"
+    ],
+    "type": null
+  }
+]
