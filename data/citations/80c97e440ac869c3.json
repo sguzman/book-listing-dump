@@ -1,0 +1,225 @@
+[
+  {
+    "director": [
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "given": "delay"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "connection = new UsbSerial(\"VID_2341\", \"PID_0043\"); arduino = new RemoteDevice(connection"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "red); arduino.analogWrite(GREEN, green); arduino.analogWrite(BLUE, blue);"
+    ],
+    "title": [
+      "// change color on RGB LED arduino.analogWrite(RED"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Margin=\"10,52,0,0\" TextWrapping=\"Wrap\" Text=\"Thermistor:\" VerticalAlignment=\"Top\"/> <TextBlock x:Name=\"textBlock1\" HorizontalAlignment=\"Left\" Margin=\"10,77,0,0\" TextWrapping=\"Wrap\" Text=\"Photo-voltaic cell:\" VerticalAlignment=\"Top\"/> <TextBlock x:Name=\"textBlock2\" HorizontalAlignment=\"Left\" Margin=\"10,102,0,0\" TextWrapping=\"Wrap\" Text=\"Potentiometer:\" VerticalAlignment=\"Top\" RenderTransformOrigin=\"-1.593,-0.469\"/> <TextBlock x:Name=\"txtThermistor\" HorizontalAlignment=\"Left\" Margin=\"163,52,0,0\" TextWrapping=\"Wrap\" Text=\"-\" VerticalAlignment=\"Top\"/> <TextBlock x:Name=\"txtPhoto\""
+    ],
+    "note": [
+      "HorizontalAlignment=\"Left\" Margin=\"163,77,0,0\" TextWrapping=\"Wrap\" Text=\"-\" VerticalAlignment=\"Top\"/>"
+    ],
+    "title": [
+      "<Grid Background=\"{ThemeResource ApplicationPageBackgroundThemeBrush}\"> <TextBlock x:Name=\"textBlock\" HorizontalAlignment=\"Left"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "HEX); void printCurrentNet() {"
+    ],
+    "producer": [
+      {
+        "literal": "address: \"); Serial.print(mac[5], HEX); Serial.print(\":\"); Serial.print(mac[4], HEX); Serial.print(\":\"); Serial.print(mac[3], HEX); Serial.print(\":\"); Serial.print(mac[2], HEX); Serial.print(\":\"); Serial.print(mac[1], HEX); Serial.print(\":\"); Serial.println(mac[0"
+      }
+    ],
+    "title": [
+      "// print your MAC address: byte mac[6]; WiFi.macAddress(mac); Serial.print(\"MAC"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "HEX); // print the received signal strength: long rssi = WiFi.RSSI(); Serial.print(\"signal strength (RSSI):\"); Serial.println(rssi);"
+    ],
+    "producer": [
+      {
+        "family": "WiFi.BSSID",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "title": [
+      "// print the SSID of the network you're attached to: Serial.print(\"SSID: \"); Serial.println(WiFi.SSID()); // print the MAC address of the router you're attached to: byte bssid[6"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "long randNumber; void setup() { Serial.begin(9600); randomSeed(analogRead(0)); void loop() { randNumber = random(20, 80); Serial.println(randNumber); delay(2000);"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Page x"
+    ],
+    "note": [
+      "HorizontalAlignment=\"Left\" Margin=\"10,20,0,0\" TextWrapping=\"Wrap\" Text=\"XBee Serial Port List\" VerticalAlignment=\"Top\"/> <Button x:Name=\"btnConnect\" Content=\"Connect\" HorizontalAlignment=\"Left\" Margin=\"10,165,0,0\" VerticalAlignment=\"Top\" Click=\"ConnectToXBee\"/> <Button x:Name=\"btnDisconnect\" Content=\"Disconnect\" HorizontalAlignment=\"Left\" Margin=\"90,165,0,0\" VerticalAlignment=\"Top\" Click=\"Disconnect\"/> <TextBlock x:Name=\"txtState\" HorizontalAlignment=\"Left\" Margin=\"188,177,0,0\" TextWrapping=\"Wrap\" Text=\"Not connected\" VerticalAlignment=\"Top\" Foreground=\"#FFCA1E1E\"/> <TextBlock x:Name=\"textBlock1\" HorizontalAlignment=\"Left\" Margin=\"10,225,0,0\" TextWrapping=\"Wrap\" Text=\"A value from XBee:\" VerticalAlignment=\"Top\"/> <TextBlock x:Name=\"txtValue\" HorizontalAlignment=\"Left\" Margin=\"154,225,0,0\" TextWrapping=\"Wrap\" Text=\"-0\" VerticalAlignment=\"Top\"/>"
+    ],
+    "publisher": [
+      "Class=\"XBeeApp.MainPage"
+    ],
+    "title": [
+      "<Grid Background=\"{ThemeResource ApplicationPageBackgroundThemeBrush}\"> <ListBox x:Name=\"listXBee\" HorizontalAlignment=\"Left\" Height=\"100\" Margin=\"10,45,0,0\" VerticalAlignment=\"Top\" Width=\"285\"> <ListBox.ItemTemplate> <DataTemplate> <TextBlock Text=\"{Binding Name}\" /> </DataTemplate> </ListBox.ItemTemplate> </ListBox> <TextBlock x:Name=\"textBlock"
+    ],
+    "type": null,
+    "url": [
+      "http://schemas.microsoft.com/winfx/2006/xaml/presentation",
+      "http://schemas.microsoft.com/winfx/2006/xaml",
+      "http://schemas.microsoft.com/expression/blend/2008",
+      "http://schemas.openxmlformats.org/markup-compatibility/2006"
+    ]
+  },
+  {
+    "note": [
+      "public MainPage() this.InitializeComponent(); listUART = new ObservableCollection<DeviceInformation>(); GetListOfXBee();"
+    ],
+    "title": [
+      "private SerialDevice serialPort = null; private DataReader dataReaderObject = null; private ObservableCollection<DeviceInformation> listUART; private CancellationTokenSource ReadCancellationTokenSource; We retrieve a list of serial ports while calling in constructor"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "var selection = listXBee.SelectedItems"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Configure serial settings serialPort.WriteTimeout = TimeSpan.FromMilliseconds(1000); serialPort.ReadTimeout = TimeSpan.FromMilliseconds(1000); serialPort.BaudRate = 9600; serialPort.Parity = SerialParity.None; serialPort.StopBits = SerialStopBitCount.One; serialPort.DataBits = 8; serialPort.Handshake = SerialHandshake.None"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ReadCancellationTokenSource = new CancellationTokenSource("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CloseXBee(); txtState.Text = \"Not connected\";"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "btnConnect.IsEnabled = true; btnDisconnect.IsEnabled = false"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "AsTask(cancellationToken"
+    ],
+    "title": [
+      "Task<UInt32> loadAsyncTask; uint ReadBufferLength = 1024; // If task cancellation was requested, comply cancellationToken.ThrowIfCancellationRequested(); dataReaderObject.InputStreamOptions = InputStreamOptions.Partial; loadAsyncTask = dataReaderObject.LoadAsync(ReadBufferLength"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "setup",
+        "particle": "void"
+      }
+    ],
+    "date": [
+      "{ Serial.begin(9600); pinMode(13, OUTPUT); gps.begin(9600); Serial.println(\"GPS On..\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "HIGH)",
+        "given": "gps_modf_get_position"
+      }
+    ],
+    "citation-number": [
+      "digitalWrite(13,"
+    ],
+    "note": [
+      "&age); print_data(\"LAT=\"); print_num_data(flat == TinyGPS::GPS_INVALID_F_ANGLE ? 0.0 : flat, 6); print_data(\" LON=\"); print_num_data(flon == TinyGPS::GPS_INVALID_F_ANGLE ? 0.0 : flon, 6); print_data(\" SAT=\"); print_num_data(gps_mod.satellites() == TinyGPS::GPS_INVALID_SATELLITES ? 0 : gps_mod.satellites()); print_data(\" PREC=\"); print_num_data(gps_mod.hdop() == TinyGPS::GPS_INVALID_HDOP ? 0 : gps_ mod.hdop());"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SSID: \"); Serial.println(ssid); while (WiFi.begin(ssid, pass) != WL_CONNECTED) { // unsuccessful, retry in 4 seconds Serial.print(\"failed ... \"); delay(4000); Serial.print(\"retrying ... \"); Serial.println(\"connected to wifi\"); KCloud.begin(thingName, userName, thingId, thingPsw, sslClient); KCloud.enableDebug(); // define the properties KCloud.addProperty(\"humidity\", FLOAT, R); KCloud.addProperty(\"temperature\", FLOAT, R); Serial.println(\"connected\"); randomSeed(analogRead(0)); void loop() { KCloud.poll(); long temp = random(10, 20); long humidity = random(20, 80); temp = temp + 0.21 * temp; humidity = humidity + 0.45 * humidity;"
+    ],
+    "title": [
+      "void setup() { Serial.begin (9600); // attempt to connect to WiFi network: Serial.print(\"Attempting to connect to WPA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "KCloudwriteProperty"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "String(temp,2"
+    ],
+    "title": [
+      "String(humidity,2)); KCloud.writeProperty(\"temperature\""
+    ],
+    "type": "book"
+  }
+]
