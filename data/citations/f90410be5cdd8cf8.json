@@ -1,0 +1,102 @@
+[
+  {
+    "author": [
+      {
+        "family": "CreateAirlineGraph",
+        "particle": "graphT"
+      }
+    ],
+    "director": [
+      {
+        "family": "AddCity",
+        "given": "AddCity"
+      },
+      {
+        "family": "AddCity",
+        "given": "AddCity"
+      },
+      {
+        "family": "AddCity",
+        "given": "AddCity"
+      },
+      {
+        "family": "AddCity",
+        "given": "AddCity"
+      },
+      {
+        "family": "AddCity",
+        "given": "AddCity"
+      },
+      {
+        "given": "AddFlight"
+      }
+    ],
+    "genre": [
+      "599);"
+    ],
+    "location": [
+      "Atlanta"
+    ],
+    "note": [
+      "\"Dallas\", 725); AddFlight(g, \"Atlanta\", \"New York\", 756); AddFlight(g, \"Boston\", \"New York\", 191); AddFlight(g, \"Boston\", \"Seattle\", 2489); AddFlight(g, \"Chicago\", \"Denver\", 907); AddFlight(g, \"Dallas\", \"Denver\", 650); AddFlight(g, \"Dallas\", \"Los Angeles\", 1240); AddFlight(g, \"Dallas\", \"San Francisco\", 1468); AddFlight(g, \"Denver\", \"San Francisco\", 954); AddFlight(g, \"Portland\", \"Seattle\", 130); AddFlight(g, \"Portland\", \"San Francisco\", 550); return g;"
+    ],
+    "publisher": [
+      "AddFlight(g"
+    ],
+    "title": [
+      "{ graphT *g = new graphT",
+      "Chicago\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void EndFilledRegion(); Library Interfaces – 613 –extgraph.h (page 2 of 10"
+    ],
+    "title": [
+      "void StartFilledRegion(double density = 1.0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "}"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "}"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "651 –scanner.h (page 6 of 6"
+    ],
+    "title": [
+      "enum stringOptionT { ScanQuotesAsPunctuation, ScanQuotesAsStrings }; void setStringOption(stringOptionT option); stringOptionT getStringOption(); Library Interfaces"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "}"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "}"
+      }
+    ],
+    "type": null
+  }
+]
