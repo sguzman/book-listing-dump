@@ -1,0 +1,1050 @@
+[
+  {
+    "author": [
+      {
+        "family": "science",
+        "particle": "puter"
+      },
+      {
+        "family": "Turing",
+        "given": "Alan"
+      },
+      {
+        "given": "Gödel"
+      },
+      {
+        "family": "Church",
+        "given": "Alonzo"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the London Mathematical Society",
+      "Monatshefte Math. Phys",
+      "American J. of Math",
+      "Alonzo Church. \"A note on the Entscheidungsproblem\", J. of Symbolic Logic"
+    ],
+    "date": [
+      "1936",
+      "1931",
+      "1936",
+      "1936"
+    ],
+    "pages": [
+      "230–265",
+      "173–198",
+      "345–363",
+      "40–41"
+    ],
+    "title": [
+      "On Computable Numbers, with an Application to the Entscheidungsproblem\"",
+      "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I\"",
+      "An unsolvable problem of elementary number theory\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series 2, Vol.42",
+      "38",
+      "58",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hobson",
+        "given": "E.W."
+      }
+    ],
+    "date": [
+      "1921"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "87–88"
+    ],
+    "title": [
+      "Theory of functions of a real variable"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Monatshefte Math. Phys",
+      "American J. of Math",
+      "J. of Symbolic Logic"
+    ],
+    "date": [
+      "1931",
+      "1936",
+      "1936"
+    ],
+    "location": [
+      "Citation 1",
+      "Citation 2"
+    ],
+    "pages": [
+      "173–198",
+      "345–363",
+      "40–41"
+    ],
+    "publisher": [
+      "Alonzo Church",
+      "Alonzo Church"
+    ],
+    "title": [
+      "Running the same test with this program gives the following output: Enter a file name (\"STOP\" to stop): paper1.txt readFile(): counting number of citations Citation 0: Gödel, \"Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I\"",
+      "An unsolvable problem of elementary number theory\"",
+      "A note on the Entscheidungsproblem\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38",
+      "58",
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "Proceedings of the London Mathematical Society"
+    ],
+    "date": [
+      "1921",
+      "1936"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Citation 3"
+    ],
+    "note": [
+      " 4 empty lines omitted for brevity ] Enter a file name (\"STOP\" to stop): STOP"
+    ],
+    "pages": [
+      "87–88",
+      "230–265"
+    ],
+    "publisher": [
+      "E.W. Hobson"
+    ],
+    "title": [
+      "Theory of functions of a real variable",
+      "Found 4 citations readFile(): reading citations readFile(): finished Alan Turing, \"On Computable Numbers, with an Application to the Entscheidungsproblem\""
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "Series 2, Vol.42"
+    ]
+  },
+  {
+    "container-title": [
+      "Monatshefte Math. Phys",
+      "American J. of Math",
+      "J. of Symbolic Logic"
+    ],
+    "date": [
+      "1931",
+      "1936",
+      "1936",
+      "1921"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "stream state is good stream state is good Citation 3:",
+      "stream state is eof"
+    ],
+    "pages": [
+      "173–198",
+      "345–363",
+      "40–41",
+      "87–88"
+    ],
+    "publisher": [
+      "E.W. Hobson"
+    ],
+    "title": [
+      "When you run your program this time, you find some interesting information: Enter a file name (\"STOP\" to stop): paper1.txt readFile(): counting number of citations stream state is good stream state is good Citation 0: Gödel, \"Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme, I\"",
+      "stream state is good stream state is good Citation 1: Alonzo Church. \"An unsolvable problem of elementary number theory\"",
+      "stream state is good stream state is good Citation 2: Alonzo Church. \"A note on the Entscheidungsproblem\"",
+      "Theory of functions of a real variable"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38",
+      "58",
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "C++"
+    ],
+    "title": [
+      "This appendix contains a list of books and online resources on various C++-related topics that were either consulted while writing this book, or are recommended for further or background reading"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2014"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "This book assumes no previous programming experience, but even so, it is also a good read for experienced programmers."
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Beginning C++ Without Previous Programming Experience ➤➤ Bjarne Stroustrup. Programming: Principles and Practice Using C++",
+      "ISBN: 0-321-99278-4. An introduction to programming in C++ by the inventor of the language"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Oualline",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "ISBN: 0-596-00419-2. An introductory C++ text that assumes no prior programming experience."
+    ],
+    "publisher": [
+      "O’Reilly Media"
+    ],
+    "title": [
+      "Practical C++ Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Savitch",
+        "given": "Walter"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "edition": [
+      "9th"
+    ],
+    "note": [
+      "ISBN: 0-133-59174-3. Assumes no prior programming experience. This book is often used as a textbook in introductory programming courses."
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Problem Solving with C++"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "Stanley B."
+      },
+      {
+        "family": "Lajoie",
+        "given": "Josée"
+      },
+      {
+        "family": "Primer",
+        "given": "Barbara E.Moo C.++"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "ISBN: 0-321-71411-3. A very thorough introduction to C++ that covers just about everything in the language in a very accessible format and in great detail"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "Andrew"
+      },
+      {
+        "family": "Moo",
+        "given": "Barbara E."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "ISBN: 0-201-70353-X. Covers the same material as C++ Primer, but in much less space, because it assumes that the reader has programmed in another language before."
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Accelerated C++: Practical Programming by Example"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "More Exceptional C++: 40 New Engineering Puzzles, Programming Problems, and Solutions",
+      "ISBN: 0-201-70434-X. Covers additional exception safety topics not covered in Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions. This book also discusses effective objectoriented programming and correct use of certain aspects of the Standard Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions",
+      "ISBN: 0-201-76042-8. Discusses generic programming, optimization, and resource management. This book also has an excellent exposition of how to write modular code in C++ by using nonmember functions and the single responsibility principle"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dewhurst",
+        "given": "Stephen C."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "ISBN: 0-321-12518-5. Provides 99 specific tips for C++ programming."
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "C++ Gotchas: Avoiding Common Problems in Coding and Design"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eckel",
+        "given": "Bruce"
+      },
+      {
+        "family": "Allison",
+        "given": "Chuck"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "ISBN: 0-130-35313-2. The second volume of Eckel’s book, which covers more advanced C++ topics. The text is also available at no cost online at www.bruceeckel.com."
+    ],
+    "publisher": [
+      "Practical Programming. Prentice Hall"
+    ],
+    "title": [
+      "Thinking in C++"
+    ],
+    "type": "webpage",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lischner",
+        "given": "Ray"
+      }
+    ],
+    "container-title": [
+      "O’Reilly"
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "C++ in a Nutshell",
+      "ISBN: 0-596-00298-X. A C++ reference covering everything from the basics to more-advanced material"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephen Prata",
+        "given": "C.++ Primer Plus"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "note": [
+      "➤➤ The C++ Reference, at www.cppreference.com. An excellent reference of C++98, C++03, C++11, C++14, and C++17."
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "ISBN: 0-321-77640-2. One of the most comprehensive C++ books available"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Network",
+        "given": "The C.++ Resources"
+      },
+      {
+        "family": "www.cplusplus.com",
+        "particle": "at"
+      }
+    ],
+    "title": [
+      "A website containing a lot of information related to C++, with a complete reference of the language, including C++17"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "The C++ Standard Library ➤➤ Peter Van Weert and Marc Gregoire."
+      },
+      {
+        "literal": "C++ Standard Library ➤➤ Nicolai M. Josuttis."
+      },
+      {
+        "literal": "C++ Standard Library. ➤➤ David R. Musser, Gillmer J. Derge, and Atul Saini."
+      }
+    ],
+    "container-title": [
+      "➤➤ Stephan T. Lavavej. Standard Template Library (STL",
+      "Shows/Going+Deep/C9-Lectures-Introduction-to-STL-with-Stephan-T-Lavavej. An interesting video lecture series on the",
+      "drdobbs.com/cpp/184403853. An excellent explanation of making function templates friends of classes",
+      "Apress",
+      "C/C++ User’s Journal"
+    ],
+    "date": [
+      "2016",
+      "2012",
+      "2001",
+      "2001",
+      "2017"
+    ],
+    "edition": [
+      "2nd",
+      "2nd",
+      "2nd"
+    ],
+    "note": [
+      "➤➤ David Vandevoorde, Nicolai M. Josuttis, and Douglas Gregor. C++ Templates: The Complete Guide,",
+      "ISBN: 0-321-71412-1. Everything you ever wanted to know (or didn’t want to know) about C++ templates. This book assumes significant background in general C++. ➤➤ David Abrahams and Aleksey Gurtovoy. C++ Template Metaprogramming: Concepts,"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "C++ Standard Library Quick Reference",
+      "ISBN: 978-1-4842-1875-4. This quick reference is a condensed guide to all essential data structures, algorithms, and functions provided by the",
+      "The C++ Standard Library: A Tutorial and Reference",
+      "ISBN: 0-321-62321-5. Covers the entire Standard Library, including I/O streams and strings as well as the containers and algorithms. This book is an excellent reference. ➤➤ Scott Meyers. Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library",
+      "ISBN: 0-201-74962-9. Written in the same spirit as the author’s Effective C++ books. This book provides targeted tips for using the Standard Library, but is not a reference or tutorial",
+      "STL Tutorial and Reference Guide: Programming with the Standard Template Library",
+      "ISBN: 0-321-70212-3. Similar to the Josuttis text, but covering only parts of the Standard Library, such as containers and algorithms. Unified Modeling Language ❘ 1067 C++ Templates ➤➤ Herb Sutter. “Sutter’s Mill: Befriending Templates"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://channel9.msdn.com/",
+      "http://"
+    ]
+  },
+  {
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "BN"
+    ],
+    "pages": [
+      "0–321–22725–5"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Tools, and Techniques from Boost and Beyond"
+    ],
+    "type": "book",
+    "volume": []
+  },
+  {
+    "title": [
+      "Delivers practical metaprogramming tools and techniques into the hands of the everyday programmer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "ALGORITHMS AND DATA STRUCTURES ➤➤ Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein."
+      },
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      },
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      },
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      },
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "container-title": [
+      "Mastering Algorithms with C: Useful Techniques from Sorting to Encryption. O’Reilly Media, 1999. ISBN: 1-565-92453-3. An approachable reference to data structures and algorithms. RANDOM NUMBERS ➤➤ Eric Bach and Jeffrey Shallit. Algorithmic Number Theory, Efficient Algorithms"
+    ],
+    "date": [
+      "2009",
+      "1997",
+      "1997",
+      "1998",
+      "2011",
+      "1996"
+    ],
+    "edition": [
+      "3rd",
+      "3rd",
+      "3rd",
+      "2nd"
+    ],
+    "issue": [
+      "BN",
+      "BN",
+      "BN"
+    ],
+    "note": [
+      "ISBN: 0-262-02405-5. ➤➤ Oded Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness."
+    ],
+    "pages": [
+      "0–201–89683–1",
+      "0–201–89684–2",
+      "0–201–89685–0"
+    ],
+    "publisher": [
+      "The MIT Press",
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "The MIT Press"
+    ],
+    "title": [
+      "Introduction to Algorithms",
+      "ISBN: 0-262-03384-4. One of the most popular introductory algorithms books, covering all the common data structures and algorithms",
+      "The Art of Computer Programming Volume 1: Fundamental Algorithms",
+      "The Art of Computer Programming Volume 2: Seminumerical Algorithms",
+      "The Art of Computer Programming Volume 3: Sorting and Searching",
+      "The Art of Computer Programming Volume 4A: Combinatorial Algorithms, Part 1",
+      "ISBN: 0-201-03804-8. Knuth’s four-volume tome on algorithms and data structures. If you enjoy mathematical rigor, there is no better text on this topic. However, it is probably inaccessible without undergraduate knowledge of mathematics or theoretical computer science. ➤➤ Kyle Loudon"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "Springer"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "ISBN: 3-642-08432-X. Two books that explain the theory of computational pseudo-randomness"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "➤➤ Wikipedia. Mersenne Twister. http://en.wikipedia.org/wiki/Mersenne_twister."
+      }
+    ],
+    "publisher": [
+      "OPEN-SOURCE SOFTWARE"
+    ],
+    "title": [
+      "A mathematical explanation of the Mersenne Twister, used to generate pseudo-random numbers"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "➤➤ The Open Source Initiative at www.opensource.org"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Software Engineering Methodology ❘ 1069"
+    ],
+    "title": [
+      "➤➤ The GNU Operating System—Free Software Foundation at www.gnu.org. Websites where the two main open-source movements explain their philosophies and provide information about obtaining open-source software and contributing to its development"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "SOFTWARE ENGINEERING METHODOLOGY ➤➤ Robert C. Martin."
+      }
+    ],
+    "container-title": [
+      "➤➤ Mike Cohn. Succeeding with Agile: Software Development Using Scrum"
+    ],
+    "date": [
+      "2013",
+      "2009"
+    ],
+    "note": [
+      "ISBN: 0-321-57936-4. An excellent guide to start with the Scrum methodology."
+    ],
+    "publisher": [
+      "Pearson",
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Agile Software Development, Principles, Patterns, and Practices",
+      "ISBN: 978-1292025940. Written for software engineers “in the trenches,” this text focuses on the technology—the principles, patterns, and process—that help software engineers effectively manage increasingly complex operating systems and applications"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "Andrew"
+      },
+      {
+        "family": "Thomas",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The Pragmatic Programmer",
+      "ISBN: 978-0201616224. A classic book, and a must read for every software engineer. Almost twenty years later, its advice is still spot on. It examines the core process—what do you do, as an individual and as a team, if you want to create software that’s easy to work with and good for your users"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boehm",
+        "given": "Barry W."
+      },
+      {
+        "family": "Group",
+        "given": "T.R.W.Defense Systems"
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "61–72,"
+    ],
+    "title": [
+      "A Spiral Model of Software Development and Enhancement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "title": [
+      "A landmark paper that described the state of software development at the time and proposed the Spiral Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "Kent"
+      },
+      {
+        "family": "Andres",
+        "given": "Cynthia"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Extreme Programming Explained: Embrace Change",
+      "ISBN: 0-321-27865-8. One of several books in a series that promote Extreme Programming as a new approach to software development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Futrell",
+        "given": "Robert T."
+      },
+      {
+        "family": "Shafer",
+        "given": "Donald F."
+      },
+      {
+        "family": "Shafer",
+        "given": "Linda Isabell"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Quality Software Project Management",
+      "ISBN: 0-130-91297-2. A guidebook for anybody who is responsible for the management of software development processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Glass",
+        "given": "Robert L."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Facts and Fallacies of Software Engineering",
+      "ISBN: 0-321-11742-5. Discusses various aspects of the software development process and exposes hidden truisms along the way"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kruchten",
+        "given": "Philippe"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The Rational Unified Process: An Introduction",
+      "ISBN: 0-321-19770-4. Provides an overview of RUP, including its mission and processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yourdon",
+        "given": "Edward"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Death March",
+      "ISBN: 0-131-43635-X. A wonderfully enlightening book about the politics and realities of software development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Scrum",
+        "given": "Wikipedia"
+      }
+    ],
+    "container-title": [
+      "Version control"
+    ],
+    "title": [
+      "A detailed discussion of the Scrum methodology. ➤➤ Manifesto for Agile Software Development",
+      "The complete Agile software development manifesto. ➤➤ Wikipedia",
+      "Explains the concepts behind revision control systems, and what kinds of solutions are available"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://en.wikipedia.org/wiki/Scrum_(software_development).",
+      "http://agilemanifesto.org/.",
+      "https://en.wikipedia.org/wiki/Version_control."
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "COMPUTER ARCHITECTURE ➤➤ David A. Patterson and John L. Hennessy."
+      },
+      {
+        "family": "Hennessy",
+        "given": "John L."
+      },
+      {
+        "family": "Patterson",
+        "given": "David A."
+      }
+    ],
+    "container-title": [
+      "EFFICIENCY ➤➤ Dov Bulka and David Mayhew"
+    ],
+    "date": [
+      "2011",
+      "2011"
+    ],
+    "edition": [
+      "4th",
+      "5th"
+    ],
+    "issue": [
+      "BN"
+    ],
+    "location": [
+      "Efficient C"
+    ],
+    "pages": [
+      "0–123–74493–8"
+    ],
+    "publisher": [
+      "Morgan Kaufmann",
+      "Morgan Kaufmann",
+      "Performance Programming Techniques"
+    ],
+    "title": [
+      "Computer Organization and Design: The Hardware/Software Interface",
+      "Computer Architecture: A Quantitative Approach",
+      "ISBN: 0-123-83872-X. Two books that provide all the information most software engineers will ever need to know about computer architecture"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "0–201–37950–3"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional",
+      "ISBN"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "One of the few books to focus exclusively on efficient C++ programming. This book covers both language-level and design-level efficiency"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "➤➤ GNU gprof, http://sourceware.org/binutils/docs/gprof/."
+      }
+    ],
+    "title": [
+      "Information about the gprof profiling tool"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dustin",
+        "given": "Elfriede"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Effective Software Testing: 50 Specific Ways to Improve Your Testing",
+      "ISBN: 0-201-79429-2. A book aimed at quality assurance professionals, although any software engineer will benefit from this book’s discussion of the software-testing process"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "DESIGN PATTERNS ➤➤ Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides."
+      },
+      {
+        "family": "Freeman",
+        "given": "Eric"
+      },
+      {
+        "family": "Bates",
+        "given": "Bert"
+      },
+      {
+        "family": "Sierra",
+        "given": "Kathy"
+      },
+      {
+        "family": "Robson",
+        "given": "Elisabeth"
+      }
+    ],
+    "date": [
+      "1994",
+      "2001",
+      "1998",
+      "2004"
+    ],
+    "note": [
+      "➤➤ Wikipedia. Software design pattern. http://en.wikipedia.org/wiki/ Design_pattern_(computer_science). Contains descriptions of a large number of design patterns used in computer programming. Multithreaded Programming ❘ 1073"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "Addison-Wesley Professional",
+      "O’Reilly Media"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "ISBN: 0-201-63361-2. Called the “Gang of Four” (GoF) book (because of its four authors), the seminal work on design patterns. ➤➤ Andrei Alexandrescu. Modern C++ Design: Generic Programming and Design Patterns Applied",
+      "ISBN: 0-201-70431-5. Offers an approach to C++ programming that employs highly reusable code and patterns. ➤➤ John Vlissides. Pattern Hatching: Design Patterns Applied",
+      "ISBN: 0-201-43293-5. A companion to the GoF book, explaining how patterns can actually be applied",
+      "Head First Design Patterns",
+      "ISBN: 0-596-00712-4. A book that goes further than just listing design patterns. The authors show good and bad examples of using patterns, and give solid reasoning behind each pattern"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "MULTITHREADED PROGRAMMING ➤➤ Anthony Williams."
+      }
+    ],
+    "container-title": [
+      "➤➤ Maurice Herlihy and Nir Shavit. The Art of Multiprocessor Programming"
+    ],
+    "date": [
+      "2012",
+      "2008",
+      "2012"
+    ],
+    "note": [
+      "ISBN: 0-123-97337-6. A great book on writing code for multiprocessor and multicore systems."
+    ],
+    "publisher": [
+      "Manning Publications",
+      "Wrox",
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "C++ Concurrency in Action: Practical Multithreading",
+      "ISBN: 1-933-98877-0. An excellent book on practical multithreaded programming, including the C++ threading library. ➤➤ Cameron Hughes and Tracey Hughes. Professional Multicore Programming: Design and Implementation for C++ Developers",
+      "ISBN: 0-470-28962-7. A book for developers of various skill levels who are making the move into multicore programming"
+    ],
+    "type": "chapter"
+  }
+]
