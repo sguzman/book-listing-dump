@@ -1,0 +1,32 @@
+[
+  {
+    "note": [
+      "AutoEventWireup=”false” Inherits=”MasterPage” %>"
+    ],
+    "title": [
+      "<%@ Master Language=”C#” CodeFile=”MasterPage.mymaster.cs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "You layout your MasterPage just as you would any other page, except that you specify ContentRegions"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Page Language=”C"
+    ],
+    "publisher": [
+      "MasterPageFile=”MySite.Master %>"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Now one of the really interesting features about MasterPages is that you can nest them. One MasterPage can derive from another one, and another one from that, and so on. To do this, you simply change the declaration to the “child” master page and nothing more"
+    ],
+    "type": null
+  }
+]
