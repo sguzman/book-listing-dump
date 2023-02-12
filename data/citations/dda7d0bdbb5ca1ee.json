@@ -1,0 +1,1562 @@
+[
+  {
+    "title": [
+      "Relation (A.8). From the definition of intersection and Figure A.1 we verify the truth of (A.8). Algebraically, we show the same thing from the basic seven axioms: From (A.4) and (A.6) we have that A ∩ B = ((A ∩ B)c )c = (Ac ∪ B c )c"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "and (A.8) yields (A.19)."
+    ],
+    "title": [
+      "Relation (A.18). Set F = Ω in (A.5) to obtain Ω ∩ Ωc = ∅, which with (A.7"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Complementing the result: (F c ∩ Ω)c = (F c )c = F (by (A.4)). Using (A.6): (F c ∩ Ω)c ="
+    ],
+    "title": [
+      "Relation (A.11). Complement (A.5), (F c ∩ F )c = ∅c , and hence, using (A.6), (F c ∪ F ) = ∅c , and finally, using (A.4) and (A.18), F c ∪ F = Ω. Relation (A.12). Using F c in (A.7): F c ∩ Ω = F c"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "PRELIMINARIES",
+        "given": "A.P.P.E.N.D.I.X.A."
+      }
+    ],
+    "citation-number": [
+      "398"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "F ∪ Ωc = F."
+      }
+    ],
+    "note": [
+      "Relation (A.19). Complement (A.20) using (A.6) and replace F c by F ."
+    ],
+    "title": [
+      "From (A.18) Ωc = ∅, yielding (A.12). Relation (A.20). Set G = F and H = F c in (A.3) to obtain F ∩ (F ∪ F ) = (F ∩ F ) ∪ (F ∩ F c ) = F ∩ F using (A.5) and (A.12). Applying (A.11) c and (A.7) to the left-hand side of this relation yields F ∩ Ω = F = F ∩ F"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ash",
+        "given": "R.B."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Real Analysis and Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Asplund",
+        "given": "E."
+      },
+      {
+        "family": "Bungart",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Holt,Rinehart and Winston"
+    ],
+    "title": [
+      "A First Course in Integration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Billingsley",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Ergodic Theory and Information"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bose",
+        "given": "A.G."
+      },
+      {
+        "family": "Stevens",
+        "given": "K.N."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper & Row"
+    ],
+    "title": [
+      "Introductory Network Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bracewell",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "The Fourier Transform and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Breiman",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "C.T."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Holt, Rinehart and Winston"
+    ],
+    "title": [
+      "Introduction to Linear System Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "K.L."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Markov Chains with Stationary Transition Probabilities"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "K.L."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "A Course in Probability Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cramer",
+        "given": "H."
+      },
+      {
+        "family": "Leadbetter",
+        "given": "M.R."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Stationary and Related Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Doob",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1953"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Drake",
+        "given": "A.W."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Fundamentals of Applied Probability Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dubins",
+        "given": "L.E."
+      },
+      {
+        "family": "Savage",
+        "given": "L.J."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Inequalities for Stochastic Processes: How to Gamble If You Must"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dynkin",
+        "given": "E.B."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Markov Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Feller",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1960"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Wiley, New York"
+    ],
+    "title": [
+      "An Introduction to Probability Theory and its Applications"
+    ],
+    "type": null,
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fine",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "IEEE Trans. Inform. Theory"
+    ],
+    "date": [
+      "1964-10"
+    ],
+    "pages": [
+      "287–296"
+    ],
+    "title": [
+      "Properties of an optimal digital system and applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gagliardi",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introduction to Communications Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gikhman",
+        "given": "I.I."
+      },
+      {
+        "family": "Skorokhod",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Saunders, Philadelphia"
+    ],
+    "title": [
+      "Introduction to the Theory of Random Processes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gnedenko",
+        "given": "B.V."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Chelsea, New York"
+    ],
+    "note": [
+      "Translated from the Russian by B. D. Seckler."
+    ],
+    "title": [
+      "The Theory of Probability"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gnedenko",
+        "given": "B.V."
+      },
+      {
+        "family": "Khinchine",
+        "given": "A.Ya"
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "note": [
+      "Translated from the 5th Russian edition by L. F. Boron."
+    ],
+    "title": [
+      "An Elementary Introduction to the Theory of Probability"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "1977-04"
+    ],
+    "genre": [
+      "ISL technical report no. 6504–1,"
+    ],
+    "note": [
+      "Available by anonymous ftp to isl.stanford.edu in the directory tt pub/gray/reports/toeplitz or via the World Wide Web at"
+    ],
+    "publisher": [
+      "Stanford University Information Systems Laboratory"
+    ],
+    "title": [
+      "Toeplitz and circulent matrices: II"
+    ],
+    "type": "report",
+    "url": [
+      "http://www-isl.stanford.edu/~gray/compression.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Probability, Random Processes, and Ergodic Properties"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "R.M."
+      },
+      {
+        "family": "Goodman",
+        "given": "J.G."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Boston, Mass"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Fourier Transforms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "R.M."
+      },
+      {
+        "family": "Kieffer",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Ann. Probab"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "962–973"
+    ],
+    "title": [
+      "Asymptotically mean stationary measures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grenander",
+        "given": "U."
+      },
+      {
+        "family": "Rosenblatt",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Statistical Analysis of Stationary Time Series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grenander",
+        "given": "U."
+      },
+      {
+        "family": "Szego",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "Berkeley and Los Angeles"
+    ],
+    "publisher": [
+      "University of California Press"
+    ],
+    "title": [
+      "Toeplitz Forms and Their Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "P.R."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "1950"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostrand Reinhold"
+    ],
+    "title": [
+      "Measure Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "P.R."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "1956"
+    ],
+    "location": [
+      "Chelsea, New York"
+    ],
+    "title": [
+      "Lectures on Ergodic Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hida",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Stationary Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Huff",
+        "given": "D."
+      },
+      {
+        "family": "Geis",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "W. W. Norton"
+    ],
+    "title": [
+      "How to Take a Chance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "container-title": [
+      "CISM Courses and Lectures"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "140"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Lectures on Wiener and Kalman Filtering"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Kemeny",
+        "given": "J.G."
+      },
+      {
+        "family": "Snell",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "D. Van Nostrand"
+    ],
+    "title": [
+      "Finite Markov Chains"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kolmogorov",
+        "given": "A.N."
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "date": [
+      "1950"
+    ],
+    "location": [
+      "Chelsea, New York"
+    ],
+    "title": [
+      "Foundations of the Theory of Probability"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lamperti",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Stochastic Processes: A Survey of the Mathematical Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liptser",
+        "given": "R.S."
+      },
+      {
+        "family": "Shiryayev",
+        "given": "A.N."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Statistics of Random Processes"
+    ],
+    "translator": [
+      {
+        "family": "Aries",
+        "given": "A.B."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Loeve",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "37"
+    ],
+    "date": [
+      "1963"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Van Nostrand"
+    ],
+    "title": [
+      "Probability Theory. D"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lukacs",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Heath, Lexington, MA"
+    ],
+    "title": [
+      "Stochastic Convergence"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Maistrov",
+        "given": "L.E."
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Probability Theory: A Historical Sketch"
+    ],
+    "translator": [
+      {
+        "family": "Kotz",
+        "given": "S."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McKean",
+        "given": "H.P.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Stochastic Integrals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Neveu",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "North-Holland"
+    ],
+    "title": [
+      "Discrete-Parameter Martingales"
+    ],
+    "translator": [
+      {
+        "family": "Speed",
+        "given": "T.P."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Newman",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "date": [
+      "1956"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Simon & Schuster"
+    ],
+    "title": [
+      "The World of Mathematics"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Papoulis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "The Fourier Integral and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Papoulis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Signal Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parthasarathy",
+        "given": "K.R."
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Probability Measures on Metric Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parzen",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "Holden Day, San Francisco"
+    ],
+    "title": [
+      "Stochastic Processes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenblatt",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "47"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Markov Processes: Structure and Asymptotic Behavior"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Royden",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "48"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rozanov",
+        "given": "Yu A."
+      }
+    ],
+    "citation-number": [
+      "49"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Holden Day, San Francisco"
+    ],
+    "title": [
+      "Stationary Random Processes"
+    ],
+    "translator": [
+      {
+        "family": "Feinstein",
+        "given": "A."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "50"
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Principles of Mathematical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Simmons",
+        "given": "G.F."
+      }
+    ],
+    "citation-number": [
+      "51"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Topology and Modern Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Steiglitz",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "52"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "An Introduction to Discrete Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sveshnikov",
+        "given": "A.A."
+      }
+    ],
+    "citation-number": [
+      "53"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Problems in Probability Theory, Mathematical Statistics,and Theory of Random Functions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Whittle",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "54"
+    ],
+    "date": [
+      "1970"
+    ],
+    "publisher": [
+      "Penguin Books, Middlesex,England"
+    ],
+    "title": [
+      "Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "55"
+    ],
+    "date": [
+      "1933"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "The Fourier Integral and Certain of Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "56"
+    ],
+    "date": [
+      "1966"
+    ],
+    "editor": [
+      {
+        "family": "T",
+        "given": "M.I."
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Time Series: Extrapolation,Interpolation,and Smoothing of Stationary Time Series with Engineering Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      },
+      {
+        "family": "Paley",
+        "given": "R.E.A.C."
+      }
+    ],
+    "citation-number": [
+      "57"
+    ],
+    "container-title": [
+      "Am. Math. Soc. Coll. Pub"
+    ],
+    "date": [
+      "1934"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "title": [
+      "Fourier Transforms in the Complex Domain"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "58"
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Introduction to Random Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yaglom",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "59"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "An Introduction to the Theory of Stationary Random Functions"
+    ],
+    "translator": [
+      {
+        "family": "Silverman",
+        "given": "R.A."
+      }
+    ],
+    "type": "book"
+  }
+]
