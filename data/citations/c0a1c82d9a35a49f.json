@@ -1,0 +1,11 @@
+[
+  {
+    "citation-number": [
+      "createM88kMCCodeEmitter);"
+    ],
+    "date": [
+      "TargetRegistry::RegisterMCInstrInfo(getTheM88kTarget(), createM88kMCInstrInfo); TargetRegistry::RegisterMCRegInfo(getTheM88kTarget(), createM88kMCRegisterInfo); TargetRegistry::RegisterMCSubtargetInfo(getTheM88kTarget(), createM88kMCSubtargetInfo); TargetRegistry::RegisterMCAsmBackend(getTheM88kTarget(), createM88kMCAsmBackend); TargetRegistry::RegisterMCInstPrinter(getTheM88kTarget(), createM88kMCInstPrinter"
+    ],
+    "type": null
+  }
+]
