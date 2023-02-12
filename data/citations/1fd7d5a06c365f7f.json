@@ -1,0 +1,17 @@
+[
+  {
+    "title": [
+      "Listing 11-7. Illustrating How to Fix the Problem //"
+    ],
+    "type": null,
+    "url": [
+      "C11:HowMany2.cpp"
+    ]
+  },
+  {
+    "note": [
+      "int main() { testDate(\"08-10-2003\"); testDate(\"8-10-2003\"); testDate(\"08 - 10 - 2003\"); testDate(\"A-10-2003\"); testDate(\"08%10/2003\"); } ///:~"
+    ],
+    "type": null
+  }
+]
