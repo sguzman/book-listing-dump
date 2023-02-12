@@ -1,0 +1,11 @@
+[
+  {
+    "container-title": [
+      "sale.deal_amount,0)) AS Africa_sales, SUM(IF(customer.region ='Europe', sale.deal_amount,0)) AS Europe_sales, SUM(IF(customer.region ='Pacific', sale.deal_amount,0)) AS Pacific_sales FROM sale,product,customer WHERE sale.product_id = product.id AND sale.customer_id = customer.id"
+    ],
+    "title": [
+      "Solution SELECT SUM(IF(product.category ='Software', sale.deal_amount,0)) AS Software_sales, SUM(IF(product.category ='Hardware', sale.deal_amount,0)) AS Hardware_sales, SUM(IF(product.category ='Consulting', sale.deal_amount,0)) AS Consulting_sales, SUM(IF(customer.region ='North America', sale.deal_amount,0)) AS North_America_sales, SUM(IF(customer.region ='South America', sale.deal_amount,0)) AS South_America_sales, SUM(IF(customer.region ='Africa'"
+    ],
+    "type": "chapter"
+  }
+]

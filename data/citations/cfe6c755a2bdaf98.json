@@ -1,0 +1,102 @@
+[
+  {
+    "title": [
+      "aREST rest = aREST("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "restset_id"
+      }
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "ADAFRUIT_CC3000_IRQ, ADAFRUIT_CC3000_VBAT,SPI_CLOCK_DIV2"
+    ],
+    "title": [
+      "// Create CC3000 instance Adafruit_CC3000 cc3000 = Adafruit_CC3000(ADAFRUIT_CC3000_CS"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Handle any multicast DNS requests mdns.update("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "that will be returned at each call of the board via the REST API: rest.set_id(\"2\"); rest.set_name(\"relay_module\");"
+    ],
+    "title": [
+      "Now, in the setup() function of the sketch, we declare the relay pin as an output: pinMode(relay_pin,OUTPUT); We can also set a name and an ID for the device"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "restServerbegin"
+      }
+    ],
+    "title": [
+      "Serial.println(F(\"Listening for connections...\")); In the loop() function of the sketch, we update the MDNS server: mdns.update(); And process any incoming connection using the aREST library: Adafruit_CC3000_ClientRef client = restServer.available(); rest.handle(client"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Module var express = require('express'); var app = express("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "var app = express(); var port = 3000;"
+    ],
+    "title": [
+      "It starts by importing the express module: var express = require('express'); Then, we create our app based on the express framework, and the set the port to 3000"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "rest.addDevice('http','192.168.1.103');"
+    ],
+    "pages": [
+      ", – 702 8"
+    ],
+    "title": [
+      "var rest = require(\"arest\")(app"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "app.listen(port); console.log(\"Listening on port \" + port);"
+    ],
+    "title": [
+      "app.get('/', function(req, res){ var devices = rest.getDevices(); res.render('interface', {devices: devices}); }); Finally, still in this app.js file, we start the app with the port we defined before, and write a message in the console"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "$.get('/devices', function( devices ) { // Update sensors and repeat every 5 seconds setTimeout(updateSensors"
+    ],
+    "type": null,
+    "volume": [
+      "500); setInterval(updateSensors, 5000"
+    ]
+  },
+  {
+    "citation-number": [
+      "});"
+    ],
+    "type": null
+  }
+]
