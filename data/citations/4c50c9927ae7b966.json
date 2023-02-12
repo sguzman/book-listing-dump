@@ -1,0 +1,580 @@
+[
+  {
+    "note": [
+      "_LIT(KStatement, \"INSERT INTO tab VALUES(123)\");"
+    ],
+    "title": [
+      "Let’s suppose that we want to insert some values into a table. So far, we have plugged the values directly into the statement descriptor"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "myDatabaseExec"
+      }
+    ],
+    "title": [
+      "This is because we are not exploiting the advantage of the RSql-Statement object. Let’s go further and change the KStatement descriptor"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "TInt rc = myStatement.Prepare(myDatabase, KStatement"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "TInt placeHolderIndex = myStatement.ParameterIndex(\":val\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "num FROM tab\");"
+    ],
+    "title": [
+      "Retrieving data Let’s prepare a statement that selects some data: LIT(KStatement,\"SELECT"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "TInt myInt = myStatement.ColumnInt(columnIndex"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Support for Visual Studio .NET 2003 is also available using Carbide.vs."
+    ],
+    "title": [
+      "are recommended – for non-commercial development, use Carbide.c++ Express Edition, which is a free download. Otherwise, Carbide.c++ Developer and Professional Editions are recommended, along with Code-Warrior"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bluetooth",
+        "given": "S.I.G."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Bluetooth Specification v2.0 + EDR"
+    ],
+    "type": null,
+    "url": [
+      "www.bluetooth.com/Bluetooth/Learn/Technology/Specifications/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Institute",
+        "given": "British Standards"
+      }
+    ],
+    "container-title": [
+      "Incorporating technical corrigendum"
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "issue": [
+      "1"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The C++ Standard"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Furber",
+        "given": "S.B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "ARM System-on-chip Architecture, Addison Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Symbian OS Platform Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Henney",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Application Development Advisor"
+    ],
+    "title": [
+      "The Miseducation of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      },
+      {
+        "family": "Mery",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "CutterIT Journal"
+    ],
+    "date": [
+      "1999",
+      "2000"
+    ],
+    "title": [
+      "MIME Encapsulation of Aggregate Documents, such as HTML (MHTML)’",
+      "Why is a different operating system needed?"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.ietf.org/rfc/rfc2557.txt"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Morris",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Symbian Press"
+    ],
+    "title": [
+      "The Symbian OS Architecture Sourcebook: Design and evolution of a mobile phone OS"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sales",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Symbian Press"
+    ],
+    "title": [
+      "Symbian OS Internals: Real-time kernel programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Operating Systems: Internals and design principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Taligent"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Taligent’s Guide to Designing Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      },
+      {
+        "family": "Woodhull",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Operating Systems: Design and implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tasker",
+        "given": "M."
+      },
+      {
+        "family": "Allin",
+        "given": "J.Dixon"
+      },
+      {
+        "family": "Forrest",
+        "given": "J."
+      },
+      {
+        "family": "J.",
+        "given": "Heath"
+      },
+      {
+        "family": "M.",
+        "given": "Richardson"
+      },
+      {
+        "given": "T."
+      },
+      {
+        "family": "Shackman",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "Professional Symbian Programming: Mobile Solutions on the EPOC Platform, Wrox. Index"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "703,"
+    ],
+    "container-title": [
+      "CleanupStack::PushL"
+    ],
+    "genre": [
+      "see also graphics context 35–6,"
+    ],
+    "note": [
+      "217–18, 322–4, CFibonacciGenerator controller 312–13,",
+      "concepts 482–4, 486–92, engine classes 333, 336–44, 495–6, 497, 509–14, 341–2, 615, 637–9 363–4 Clear 347–8, 405–6, 444–51, 531–56 graphics context 446, 450–1, 482–6, 499–502 features 486–7 482–92 CGraphicsDevice 532–56 ClientRect 426 interface principles 57–9, 196 ChangeDisplayL 410, 420 client–server architecture naming conventions 43–4, 60, ChangeMode 212–13 see also CServer2; interprocess 102 channel identifiers (CIDs) 621–32 communications; relationships 57–9, 64, 160, char..."
+    ],
+    "pages": [
+      "706 66–70, 576–82, 607 160–1,",
+      "406–8, 196–200",
+      "336–44, 493–5,",
+      "334–5",
+      "691–4 133–5, 160–1, 217–18,",
+      "93–5",
+      "516–17"
+    ],
+    "title": [
+      "681 CFileStore 225–37, 334–5 606–9 CleanupStack:: CFlashingHello 165–7, controls 424–55 PopAndDestroy 7–11, 190–4 coordinate classes 487–92 35–6, 67, 76–83, 84–5, 90, CFont 482–92, 534–56 decoding 683–5 102–3, 108, 113, 133–5, CFrameImageData 693–4 dialogs 458–60, 462–3, 209, 211, 213–14, 218, CGraphicsContext 446, 476–7 450–1, 482–4, 486–92, 227–34, 236–9, 404, 639 documents 312–13, 320–1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "320–4, 341–2, 357–8",
+      "333",
+      "7–11, 495–8, 509–14, 531–56 333",
+      "45, 67, 76–81, 99",
+      "89",
+      "RSessionBase 494"
+    ]
+  },
+  {
+    "pages": [
+      "333–55, 394–5"
+    ],
+    "title": [
+      "Character Converters 602 active objects 179–81, 183–6"
+    ],
+    "type": null,
+    "volume": [
+      "S60 313–30"
+    ]
+  },
+  {
+    "container-title": [
+      "Symbian OS CMMFControllerPlugin-525–6"
+    ],
+    "note": [
+      "758–9 SelectionParameters Column... 746–7 CompactL 230–1 662–6, 674–5 columns, SQL 718–53 Compare 138, 140 CMMFDevSound 666–72, 676–8"
+    ],
+    "pages": [
+      "552–5"
+    ],
+    "title": [
+      "CMMFControllercollation processes, descriptors sockets server 605–6, 615–32 Implementation-138–9 transport concepts 605–9 Information 662–6 color depth, bitmaps 375–6, community websites"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "534"
+    ]
+  },
+  {
+    "container-title": [
+      "resolver uses 597"
+    ],
+    "genre": [
+      "low-level plug-in code 598–9 eikon.rsg 327,"
+    ],
+    "note": [
+      "resource files 596–600, 678–9 EImageCaptureSupported 585–6, 587–604, 729–31 step-by-step summary 600–1 700–6 naming conventions 50 uses 593–4, 602–4, 606–9, EKA2, concepts 19–21,",
+      "Symbian SQL 729–31 writable static data optimization writing 596–602 EKeyUp 436"
+    ],
+    "pages": [
+      "682–99",
+      "601–3",
+      "599–601",
+      "583–4,",
+      "– 28, 583–4, 587–604 651–6, 662–6, 678–82 244–5"
+    ],
+    "title": [
+      "DThread 167–71 EIK APP INFO 328, 352, concepts 583–4, 587, DTMF strings 677–8 361–2 593–604, 606–9, 651–6, durable RDBMS concepts 720–1 eikdialg.hrh 473 662–6, 678–82 dynamic objects 62–86 eikfctry.h 479–80 controller plug-ins 678–82 see also heap eikon.rh 327, 370, 384 dynamically linked libraries (DLLs"
+    ],
+    "type": "chapter",
+    "volume": [
+      "ICL 584, 651",
+      "384 concepts 12, 28–9, 37–9, 49, EikStart::RunApplication 52–6, 61–2, 284–6, 292",
+      "319 302, 523, 576",
+      "27"
+    ]
+  },
+  {
+    "note": [
+      "concepts 651–713 MMS (Multimedia Messaging (MetroTRK) 307 mmfcontrollerframe- Service) 583–4, 605–9, MFibonacciResultHandler work.lib"
+    ],
+    "pages": [
+      "662–6 632–49 195–200"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– 639–46"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MGraphicsDevice 531–56 receiving 645–6 CustomCommand-MGraphicsDeviceMap 44, sending 639–44 Implementor 680–2 531–56 MmsUtils 640–6 MMMFAudioPlayController-MIclImageDisplayObserver MMsvAttachmentManager CustomCommand"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "70–3,"
+    ],
+    "date": [
+      "190"
+    ],
+    "note": [
+      "active objects 200–1 696–7 file server 207 TDes... parameters 128–9 playback"
+    ],
+    "pages": [
+      "104–5,",
+      "295–6, 297–8,",
+      "681–2, 128–9,",
+      "692–3"
+    ],
+    "title": [
+      "615, passing by reference/value 302–6, 696 622–3, 644–5, 648–9, 682, 50–1, 67, 115–19, 128–9, see also error handling 729–31, 749–51 135, 692–3 output streaming, audio 667–70 see also capabilities; security passing by reference/value output.txt 308–9 issues concepts 50–1, 67, 115–19, overheads Play"
+    ],
+    "type": null,
+    "volume": [
+      "87–8",
+      "294",
+      "657–66, 674",
+      "135"
+    ]
+  },
+  {
+    "container-title": [
+      "PrepareForFocusGainL"
+    ],
+    "genre": [
+      "high-resolution events 573–4 PrepareForFocusLossL 438, read-only data section 27–9 pick correlation 572–3 443–4,"
+    ],
+    "note": [
+      "shared libraries 27–9, 37–9 references 50–1, 67 PrepareForFocus- SID (Secure ID) 267–8, 271 sequence paradigms 572 TransitionL 475 text section 27–9 views 406–8, 414"
+    ],
+    "pages": [
+      "529–56 573 443–4, 571 27–8",
+      "571"
+    ],
+    "title": [
+      "grab/capture contrasts 440–2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "438",
+      "463–4, 564"
+    ]
+  },
+  {
+    "note": [
+      "Platform Security 257 background 715–53 709–10, 711–12 property ownership 254–5 basics 716–29 radios 584, 651–2, 706–13"
+    ],
+    "title": [
+      "deletion operations 243–4, ACID (atomic, consistent, R (resource) classes 255–7 isolated, durable) concepts cleanup stack 80–1 deterministic behaviour 257 720–1 concepts 43–4, 51, 64, 67–70, global variables 243–5 attachment operations 721–2, 247–54, 308–9 operation types 243–5 738–41 Radio Data System (RDS"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "approaches"
+    ],
+    "pages": [
+      "506–9,",
+      "59–60, 215 513–14, 515–21, 531–56"
+    ],
+    "title": [
+      "drawing 345–6, 449–51, re-usable code, object-oriented Replace 110"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "139, 145, 211, 482–98, 499–502",
+      "54"
+    ]
+  },
+  {
+    "citation-number": [
+      "69–70"
+    ],
+    "container-title": [
+      "ReplaceL"
+    ],
+    "note": [
+      "ReplaceLC 227–34 425–30, 444–51, 482–92, 222–4, 250–4, 613–15, 620, ReportEventL 442–4, 565 495–502, 506–7, 513–14, 627–8, 670–1 ReportWhoseTurn 341–2,"
+    ],
+    "pages": [
+      "212–13,"
+    ],
+    "type": "chapter",
+    "volume": [
+      "230 TRect 345–6, 347–51, 405, Read... 209–10"
+    ]
+  },
+  {
+    "container-title": [
+      "Shrink"
+    ],
+    "note": [
+      "615–32 SetPriority 174–5 ShrinkToAspectRatio 686, processing sequence 616–17"
+    ],
+    "pages": [
+      "482–7,",
+      "605–6,"
+    ],
+    "title": [
+      "SetPlayWindow 659 524, 567 see also Bluetooth; ESock; SetPointerCapture 440–2, shortcut keys 6, 523–4, 568–9 infrared; servers; TCP/IP 573 ShouldUseReceivedMtmUid communications 605–6, SetPort 619–20 636–7 615–32 SetPosition 431–2, 519–20, ShowTurn 350–1, 427–9 concepts 28, 37–9, 584, 586, 658–66"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "346",
+      "541 604"
+    ]
+  },
+  {
+    "genre": [
+      "TAknExFormPageControlIds tcpip.prt 604 procedural steps 273–4,"
+    ],
+    "pages": [
+      "88–149,",
+      "601"
+    ],
+    "title": [
+      "277–8 Taligent coding standard 36 206–7, 212, 223–4, 235–7, submission of SIS file 277–9 TAmPm 66–7 255 test criteria 273–5, 277–8, see also descriptors TAny 42–3, 55–6"
+    ],
+    "type": null,
+    "volume": [
+      "470–2 TDes... 44, 50, 56",
+      "81"
+    ]
+  },
+  {
+    "citation-number": [
+      "295–6"
+    ],
+    "pages": [
+      "124–9, 132"
+    ],
+    "title": [
+      "const TDesC... 111–20, TARGET 11–12, 266–7, 317–18, unsigned applications 265–6"
+    ],
+    "type": null
+  }
+]

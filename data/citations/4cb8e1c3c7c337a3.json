@@ -1,0 +1,1803 @@
+[
+  {
+    "author": [
+      {
+        "family": "MyApplication",
+        "given": "CMyWinApp"
+      }
+    ],
+    "title": [
+      "BOOL CMyWinApp::InitInstance() m_pMainWnd=new CCode9B; m_pMainWnd->ShowWindow(m_nCmdShow); return TRUE"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "ome.x+20,WHome.y-50,L\"#Sensors (2-15)\"); dc.TextOutW(WHome.x+290,WHome.y-50,L\"#Targets (2-5)\")"
+    ],
+    "note": [
+      "dc.SelectObject(pBlack); dc.Rectangle(rct);"
+    ],
+    "pages": [
+      "–2, –2, 2, 2"
+    ],
+    "title": [
+      "CPaintDC dc(this); CRect rct; 294 Simulation for Applied Graph Theory Using Visual C++ CPen pBlack(PS_SOLID,2,RGB(0,0,0"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "MyApplication",
+        "given": "CMyWinApp"
+      }
+    ],
+    "title": [
+      "BOOL CMyWinApp::InitInstance() m_pMainWnd=new CCode10B; m_pMainWnd->ShowWindow(m_nCmdShow); return TRUE"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "home=CPoint(30,200);"
+    ],
+    "note": [
+      "WS_OVERLAPPEDWINDOW,CRect(0,0,1000,850)); fArial.CreatePointFont(60,L\"Arial\"); fHelvetica.CreatePointFont(100,L\"Helvetica\"); Reset.Create(L\"Reset\",WS_CHILD | WS_VISIBLE | BS_DEFPUSHBUTTON, CRect(CPoint(end.x,60),CSize(100,30)),this,IDC_RESET); wInt=(end.x-home.x)/m; Initialize();"
+    ],
+    "title": [
+      "end=CPoint(750,200); eHome=CPoint(home.x,400); cHome=CPoint(home.x,750); Create(NULL,L\"Code10B: Single-row routing\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CClientDC dc(this); CBrush bClear(RGB(255,255,255)); CRect rct; GetClientRect(rct); dc.FillRect(rct,&bClear); Initialize(); Invalidate();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "dc.SelectObject(fHelvetica); s.Format(L\"E=%d, Q=%d, D=%d\",E,Q,D); dc.TextOutW(end.x+30,cHome.y,s);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "pNode[i].CreatePen(PS_SOLID,2,Color[i]);"
+    ],
+    "note": [
+      "rct=CRect(CPoint(p[k].cHome),CSize(17,17)); dc.SelectObject(pNode[nNets]); dc.Rectangle(rct); dc.SelectObject(fArial); s.Format(L\"%d\",k); dc.TextOutW(p[k].cHome.x+5,p[k].cHome.y+3,s);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gross",
+        "given": "J.L."
+      },
+      {
+        "family": "Yellen",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Graph Theory and Its Applications, Second Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2003"
+    ],
+    "editor": [
+      {
+        "family": "Gross",
+        "given": "J.L."
+      },
+      {
+        "family": "Yellen",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Handbook of Graph Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harary",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Longman"
+    ],
+    "title": [
+      "Graph Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bout",
+        "given": "D.E.",
+        "particle": "Van de"
+      },
+      {
+        "family": "Miller",
+        "given": "T.K."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Neural Netw"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "192–202"
+    ],
+    "title": [
+      "Graph partitioning using neural network"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harary",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Boulder, CO"
+    ],
+    "note": [
+      "paperback)."
+    ],
+    "publisher": [
+      "Westview Press"
+    ],
+    "title": [
+      "Graph Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gross",
+        "given": "J.L."
+      },
+      {
+        "family": "Yellen",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Graph Theory and its Applications, Second Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Z."
+      },
+      {
+        "family": "Li",
+        "given": "C."
+      },
+      {
+        "family": "Huang",
+        "given": "C."
+      },
+      {
+        "family": "Xu",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Comput. Oper. Res"
+    ],
+    "date": [
+      "2014"
+    ],
+    "pages": [
+      "282–301"
+    ],
+    "title": [
+      "An exact algorithm with learning for the graph coloring problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Blochliger",
+        "given": "I."
+      },
+      {
+        "family": "Zufferey",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Comput. Oper. Res"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "960–975"
+    ],
+    "title": [
+      "A graph coloring heuristic using partial solutions and a reactive tabu scheme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Douiri",
+        "given": "S.M."
+      },
+      {
+        "family": "Elbernoussi",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "J. King Saud University—Engineering Sciences"
+    ],
+    "date": [
+      "2015"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "114–118"
+    ],
+    "title": [
+      "Solving the graph coloring problem via hybrid genetic algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "D.D."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Discrete Math"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "203–212"
+    ],
+    "title": [
+      "T-colorings of graphs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "101"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Graf",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Discrete Math"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "153–166"
+    ],
+    "title": [
+      "Distance graphs and T-coloring problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "196"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aspvall",
+        "given": "B."
+      },
+      {
+        "family": "Gilbert",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1983"
+    ],
+    "genre": [
+      "Technical Report #83-545,"
+    ],
+    "publisher": [
+      "Department of Computer Science, Cornell University"
+    ],
+    "title": [
+      "Graph coloring using eigenvalue decomposition"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Burden",
+        "given": "R.L."
+      },
+      {
+        "family": "Faires",
+        "given": "J.D."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Belmont, CA"
+    ],
+    "publisher": [
+      "Eighth Edition, Brooks Cole Publishing"
+    ],
+    "title": [
+      "Numerical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Salleh",
+        "given": "S."
+      },
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      },
+      {
+        "family": "Bakar",
+        "given": "S.Abu"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley-Interscience"
+    ],
+    "title": [
+      "Computing for Numerical Methods Using Visual C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eblen",
+        "given": "J.D."
+      },
+      {
+        "family": "Phillips",
+        "given": "C.A."
+      },
+      {
+        "family": "Rogers",
+        "given": "G.L."
+      },
+      {
+        "family": "Langston",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "BMC Bioinformatics"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "Suppl. 1"
+    ],
+    "pages": [
+      "5"
+    ],
+    "title": [
+      "The maximum clique enumeration problem: Algorithms, applications, and implementations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boginski",
+        "given": "V."
+      },
+      {
+        "family": "Butenko",
+        "given": "S."
+      },
+      {
+        "family": "Pardalos",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Financ. Econ"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "29–45"
+    ],
+    "title": [
+      "On structural properties of the market graph, Innov"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Networks"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pattillo",
+        "given": "J."
+      },
+      {
+        "family": "Youssef",
+        "given": "N."
+      },
+      {
+        "family": "Butenko",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Handbook of Optimization in Complex Networks"
+    ],
+    "date": [
+      "2012"
+    ],
+    "editor": [
+      {
+        "family": "Thai",
+        "given": "M.T."
+      },
+      {
+        "family": "Pardalos",
+        "given": "P.M."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "143–162"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Clique relaxation models in social network analy­ sis"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bulo",
+        "given": "S.R."
+      },
+      {
+        "family": "Pelillo",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Structural, Syntactic and Statistical Pattern Recognition, Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "2010"
+    ],
+    "editor": [
+      {
+        "family": "Hancock",
+        "given": "E."
+      },
+      {
+        "family": "Wilson",
+        "given": "R."
+      },
+      {
+        "family": "Windeatt",
+        "given": "T."
+      },
+      {
+        "family": "Ulusoy",
+        "given": "I."
+      },
+      {
+        "family": "Escolano",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "Berlin, Heidelberg",
+      "Berlin Heidelberg"
+    ],
+    "pages": [
+      "680–689"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "A new spectral bound on the clique number of graphs"
+    ],
+    "type": "chapter"
+  },
+  {
+    "arxiv": [
+      "1302.6256"
+    ],
+    "author": [
+      {
+        "family": "Rossi",
+        "given": "R.A."
+      },
+      {
+        "family": "Gleich",
+        "given": "D.F."
+      },
+      {
+        "family": "Gebremedhin",
+        "given": "A.H."
+      },
+      {
+        "family": "Patwary",
+        "given": "Md Mostofa Ali"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2013"
+    ],
+    "note": [
+      "arXiv preprint arXiv:1302.6256."
+    ],
+    "publisher": [
+      "Cornell University Library"
+    ],
+    "title": [
+      "Parallel Maximum Clique Algorithms with Applications to Network Analysis and Storage"
+    ],
+    "type": null
+  },
+  {
+    "arxiv": [
+      "1111.4503"
+    ],
+    "author": [
+      {
+        "family": "Ugander",
+        "given": "J."
+      },
+      {
+        "family": "Karrer",
+        "given": "B."
+      },
+      {
+        "family": "Backstrom",
+        "given": "L."
+      },
+      {
+        "family": "Marlow",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2011"
+    ],
+    "note": [
+      "arXiv preprint arXiv:1111.4503."
+    ],
+    "publisher": [
+      "Cornell University Library"
+    ],
+    "title": [
+      "The Anatomy of the Facebook Social Graph"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schaeffer",
+        "given": "S.E."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Sci. Rev"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "27–64"
+    ],
+    "title": [
+      "Graph clustering, Comput"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oliveira",
+        "given": "M."
+      },
+      {
+        "family": "Gama",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery"
+    ],
+    "date": [
+      "2012"
+    ],
+    "doi": [
+      "10.1002/widm.1048."
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "99–115"
+    ],
+    "title": [
+      "An overview of social network analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jain",
+        "given": "A.S."
+      },
+      {
+        "family": "Meeran",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Eur. J. Op. Res"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "390–434"
+    ],
+    "title": [
+      "Deterministic job-shop scheduling: Past, present and future"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "113"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allahverdi",
+        "given": "A."
+      },
+      {
+        "family": "Ng",
+        "given": "C.T."
+      },
+      {
+        "family": "Cheng",
+        "given": "T.C.E."
+      },
+      {
+        "family": "Kovalyov",
+        "given": "M.Y."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Eur. J. Op. Res"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "985–1032"
+    ],
+    "title": [
+      "A survey of scheduling problems with setup times or costs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "187"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DasBit",
+        "given": "S."
+      },
+      {
+        "family": "Mitra",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Comput. Commun"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "18"
+    ],
+    "pages": [
+      "2090–2105"
+    ],
+    "title": [
+      "Challenges of computing in mobile cellular environment"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "R."
+      },
+      {
+        "family": "Gen",
+        "given": "M."
+      },
+      {
+        "family": "Katayama",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Comput. Op. Res"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "976–993"
+    ],
+    "title": [
+      "A comparison of multiprocessor task scheduling algorithms with communication costs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drozdowski",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Eur. J. Op. Res"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "215–230"
+    ],
+    "title": [
+      "Scheduling multiprocessor tasks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "94"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "El-Rewini",
+        "given": "H."
+      },
+      {
+        "family": "Lewis",
+        "given": "T.G."
+      },
+      {
+        "family": "Ali",
+        "given": "H.H."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Task Scheduling in Parallel and Distributed Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Agarwal",
+        "given": "A."
+      },
+      {
+        "family": "Colak",
+        "given": "S."
+      },
+      {
+        "family": "Jacob",
+        "given": "V.S."
+      },
+      {
+        "family": "Pirkul",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Eur. J. Op. Res"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "296–317"
+    ],
+    "title": [
+      "Heuristics and augmented neural networks for task scheduling with non-identical machines"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "175"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Omara",
+        "given": "F.A."
+      },
+      {
+        "family": "Arafa",
+        "given": "M.M."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "J. Parallel Distrib. Comput"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "13–22"
+    ],
+    "title": [
+      "Genetic algorithms for task scheduling problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Salleh",
+        "given": "S."
+      },
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Comput. Syst"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "393–408"
+    ],
+    "title": [
+      "Multiprocessor scheduling using mean-field annealing, Future Gener"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Salleh",
+        "given": "S."
+      },
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      },
+      {
+        "family": "Olariu",
+        "given": "S."
+      },
+      {
+        "family": "Sanugi",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley-Interscience"
+    ],
+    "title": [
+      "Numerical Simulations and Case Studies Using Visual C++.Net"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maherin",
+        "given": "I."
+      },
+      {
+        "family": "Liang",
+        "given": "Q."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Phys. Com"
+    ],
+    "date": [
+      "2014"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "244–252"
+    ],
+    "title": [
+      "Radar sensor network for target detection using Chernoff information and relative entropy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Guvensen",
+        "given": "M.A."
+      },
+      {
+        "family": "Yavuz",
+        "given": "A.G."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Ad Hoc Netw"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "1238–1255"
+    ],
+    "title": [
+      "On coverage issues in directional sensor networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mohamadi",
+        "given": "H."
+      },
+      {
+        "family": "Salleh",
+        "given": "S."
+      },
+      {
+        "family": "Razali",
+        "given": "M.N."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "J. Netw. Comput. Appl"
+    ],
+    "date": [
+      "2014"
+    ],
+    "pages": [
+      "26–35"
+    ],
+    "title": [
+      "Heuristic methods to maximize network lifetime in directional sensor networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "L."
+      },
+      {
+        "family": "Wu",
+        "given": "C."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Wu",
+        "given": "H."
+      },
+      {
+        "family": "Li",
+        "given": "M."
+      },
+      {
+        "family": "Maple",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Int. J. Distrib. Sens"
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "A survey of localization in wireless sensor network"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "N. 1–12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mohamadi",
+        "given": "H."
+      },
+      {
+        "family": "Ismail",
+        "given": "A.S."
+      },
+      {
+        "family": "Salleh",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Commun"
+    ],
+    "date": [
+      "2014"
+    ],
+    "pages": [
+      "447–463"
+    ],
+    "title": [
+      "Solving target coverage problem using cover sets in wireless sensor networks based on learning automata, Wireless Pers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Y."
+      },
+      {
+        "family": "Hu",
+        "given": "X."
+      },
+      {
+        "family": "Yang",
+        "given": "H."
+      },
+      {
+        "family": "Ge",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Lecture Notes in Electrical Engineering: Advances in Mechanical and Electronic Engineering"
+    ],
+    "date": [
+      "2013"
+    ],
+    "pages": [
+      "129–136"
+    ],
+    "title": [
+      "Power control routing algorithm for maximizing lifetime in wireless sensor networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "178"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Akkaya",
+        "given": "K."
+      },
+      {
+        "family": "Younis",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Ad Hoc Netw"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "325–349"
+    ],
+    "title": [
+      "A survey on routing protocols for wireless sensor networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "678–692"
+    ],
+    "title": [
+      "Parallel computations on reconfigurable meshes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olariu",
+        "given": "S."
+      },
+      {
+        "family": "Pinotti",
+        "given": "M.C."
+      },
+      {
+        "family": "Zheng",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel Distrib. Syst"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "487–499"
+    ],
+    "title": [
+      "How to sort N items using a sorting network of fixed I/O size"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Giefers",
+        "given": "H."
+      },
+      {
+        "family": "Platzner",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "2014"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "2919–2932"
+    ],
+    "title": [
+      "An FPGA-based reconfigurable mesh many-core"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fujimori",
+        "given": "T."
+      },
+      {
+        "family": "Watanabe",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Lect. Notes Comput. Sci"
+    ],
+    "date": [
+      "2015"
+    ],
+    "pages": [
+      "3–14"
+    ],
+    "title": [
+      "Parallel-operation-oriented optically reconfigurable gate array"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9017"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "So",
+        "given": "H.C."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Symp. Circuits Systems"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "296–303"
+    ],
+    "title": [
+      "Some theoretical results on the outing of multilayer printed wiring board, Proc"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Raghavan",
+        "given": "R."
+      },
+      {
+        "family": "Sahni",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "209–220"
+    ],
+    "title": [
+      "Single row routing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deogun",
+        "given": "J.S."
+      },
+      {
+        "family": "Sherwani",
+        "given": "N.A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1988"
+    ],
+    "genre": [
+      "Technical Report Series #68,"
+    ],
+    "publisher": [
+      "Department of Computer Science, University of Nebraska"
+    ],
+    "title": [
+      "A decomposition scheme for single-row routing problems"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Tarng",
+        "given": "T.T."
+      },
+      {
+        "family": "Sadowska",
+        "given": "M.M."
+      },
+      {
+        "family": "Kuh",
+        "given": "E.S."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput. Aid. D"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "178–183"
+    ],
+    "title": [
+      "An efficient single-row algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Du",
+        "given": "D.H."
+      },
+      {
+        "family": "Liu",
+        "given": "L.H."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "312–319"
+    ],
+    "title": [
+      "Heuristic algorithms for single row routing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Salleh",
+        "given": "S."
+      },
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Scheduling for Parallel Computing Systems: Fuzzy and Annealing Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Salleh",
+        "given": "S."
+      },
+      {
+        "family": "Sanugi",
+        "given": "B."
+      },
+      {
+        "family": "Jamaluddin",
+        "given": "H."
+      },
+      {
+        "family": "Olariu",
+        "given": "S."
+      },
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "J. Supercomput"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Index"
+    ],
+    "pages": [
+      "285–302"
+    ],
+    "title": [
+      "Enhanced simulated annealing technique for the single-row routing problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  }
+]
