@@ -1,0 +1,2585 @@
+[
+  {
+    "author": [
+      {
+        "literal": "FShapeRect.Bottom = Y"
+      }
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "MyCanvas->LineTo",
+        "given": "PaintBox1->Canvas->MoveTo"
+      }
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "PaintBox1->Canvas->Ellipse",
+        "given": "MyCanvas->Ellipse"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FBrushColor = ColorDialog1->Color"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MyCanvas = new TMetafileCanvas(MyMetafile, 0"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "PaintBox1->Canvas->Handle"
+    ],
+    "title": [
+      "MyCanvas = new TMetafileCanvas(MyMetafile"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MyCanvas->Brush->Color = FBrushColor"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "PaintBox1->Canvas->MoveTo(FShapeRect.Left,"
+    ],
+    "publisher": [
+      "FShapeRect.Top"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "PaintBox1->Canvas->Handle"
+    ],
+    "title": [
+      "MyCanvas = new TMetafileCanvas(MyMetafile"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FCountry->FieldByName(\"Capital\")->Value = \"Nowhere\"; FCountry->FieldByName(\"Continent\")->Value = \"Imagination\"; FCountry->FieldByName(\"Area\")->Value = 0; FCountry->FieldByName(\"Population\")->Value = 0; FCountry->Post("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Name, Capital, Continent, Area, Population) values (`Argentina', `Buenos Ares',"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "InsertQuery->Prepare(); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch10.htm (31 of 37)01-09-2003 00:30:13 Ch 10 -- SQL and the TQuery Object InsertQuery->Params->Items[0]->AsString = \"Erehwon\"; InsertQuery->Params->Items[1]->AsString = \"None\"; InsertQuery->Params->Items[2]->AsString = \"Imagination\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "CountryQuery->Refresh"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "else DBGrid1->Options = TDBGridOptions(DBGrid1->Options) >> dgIndicator >> dgTitles"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "DBGrid1->Options = TDBGridOptions(DBGrid1->Options) >> dgRowLines; else DBGrid1->Options = TDBGridOptions(DBGrid1->Options) << dgRowLines; RowLines1->Checked = DBGrid1->Options.Contains(dgRowLines"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RegFile->WriteInteger",
+        "given": "RegFile->WriteInteger"
+      }
+    ],
+    "note": [
+      "Color); Color = RegFile->ReadInteger(\"Colors\", \"Edit Text\", Color); SetEditText(Color);"
+    ],
+    "title": [
+      "Edits\", FNameEdit->Color); RegFile->Free(); void __fastcall TForm1::ReadCustom1Click(TObject *Sender) TColor Color = RGB(0,0,255); TRegIniFile *RegFile = new TRegIniFile(\"SOFTWARE\\\\Charlie's Stuff\\ \\Address2\"); Form1->Color = RegFile->ReadInteger(\"Colors\", \"Form\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Color = RegFile->ReadInteger(\"Colors\""
+      }
+    ],
+    "note": [
+      "Color); SetLabels(Color); Color = RegFile->ReadInteger(\"Colors\", \"Edits\", Color); SetEdits(Color);"
+    ],
+    "title": [
+      "Panels\", Color); SetPanels(Color); Color = RegFile->ReadInteger(\"Colors\", \"Labels\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "RegFile->Free"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Color); SetEditText(Color); Color = RegFile->ReadInteger(\"Colors\", \"Panels\", Color); SetPanels(Color); Color = RegFile->ReadInteger(\"Colors\", \"Labels\", Color); SetLabels(Color); Color = RegFile->ReadInteger(\"Colors\", \"Edits\", Color);"
+    ],
+    "title": [
+      "TRegIniFile *RegFile = new TRegIniFile(\"SOFTWARE\\\\Charlie's Stuff\\ \\Address2\"); Form1->Color = RegFile->ReadInteger(\"Colors\", \"Form\", Color); Color = RegFile->ReadInteger(\"Colors\", \"Edit Text\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "EMailTableNameCode->Value",
+        "given": "EMailDeleteQuery->ExecSQL"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "PhoneTableNameCode->Value",
+        "given": "PhoneDeleteQuery->ExecSQL"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "NamesTableNameCode->Value",
+        "given": "NamesDeleteQuery->ExecSQL"
+      },
+      {
+        "given": "NamesTable->Refresh"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "EMailTableNameCode->Value",
+        "given": "EMailDeleteQuery->ExecSQL"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "PhoneTableNameCode->Value",
+        "given": "PhoneDeleteQuery->ExecSQL"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "NamesTableNameCode->Value",
+        "given": "NamesDeleteQuery->ExecSQL"
+      },
+      {
+        "given": "NamesTable->Refresh"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.S.E.U.N.I.T."
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void PrintString(AnsiString S); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch19.htm (16 of 66)01-09-2003 00:32:11 Ch 19 -- Inheritance"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "PrintString"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "PrintString"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch19.htm"
+    ],
+    "title": [
+      "27 of 66)01-09-2003 00:32:11 Ch 19 -- Inheritance"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "NOTE: Delphi programmers beware! The Pascal object model performs the same chore by using file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch19.htm (28 of 66)01-09-2003 00:32:11 Ch 19 -- Inheritance"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "sprintf"
+      }
+    ],
+    "note": [
+      "S.c_str()); cputs(Temp);"
+    ],
+    "title": [
+      "%s\\n\\r\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "MyObject->ShowHierarchy"
+      }
+    ],
+    "title": [
+      "MyObject->Free(); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch19.htm (29 of 66)01-09-2003 00:32:11 Ch 19 -- Inheritance"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "literal": "TEdit, TMemo, TButton, TCheckBox, TRadioButton, TListBox, TComboBox, TScrollBar, TGroupBox, TRadioGroup, TPanel]); RegisterComponents(LoadStr(srAdditional), [TBitBtn, TSpeedButton, TMaskEdit, TStringGrid, TDrawGrid, TImage, TShape, TBevel, TScrollBox]); RegisterComponents(LoadStr(srWin95"
+      }
+    ],
+    "note": [
+      "TTabControl, TPageControl, TTreeView, TListView, TImageList, THeaderControl, TRichEdit, TStatusBar, TTrackBar, TProgressBar, TUpDown, THotKey]); RegisterClasses([TTabSheet]); RegisterNoIcon([TMenuItem]);"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "literal": "RegisterComponentEditor(TPageControl, TPageControlEditor); RegisterComponentEditor(TTabSheet, TPageControlEditor); RegisterComponentEditor(TImageList, TImageListEditor); RegisterPropertyEditor(TypeInfo(string), TCustomMaskEdit, `EditMask'"
+      }
+    ],
+    "note": [
+      "TMaskProperty); RegisterPropertyEditor(TypeInfo(string), TCustomMaskEdit, `Text', TMaskTextProperty); RegisterPropertyEditor(TypeInfo(TTabSheet), TPageControl, `ActivePage', TActivePageProperty); RegisterPropertyEditor(TypeInfo(TStatusPanels), nil, `', TStatusPanelsProperty); RegisterPropertyEditor(TypeInfo(THeaderSections), nil, `',"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "THeaderSectionsProperty"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FCurrentRoot = NewDir; i = GetLevel(FCurrentRoot); DMod->DirNamesTable->Insert(); DMod->DirNamesTable->FieldByName(\"DirName\")->AsString = NewDir; DMod->DirNamesTable->FieldByName(\"ALevel\")->AsInteger = i"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "33"
+    ],
+    "title": [
+      "Temp = FindDirs1->StartDir; else Temp = FCurrentRoot; DMod->FileNamesTable->Insert(); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch24.htm (11 of 46)01-09-2003"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "title": [
+      "Ch 24 -- Creating Non-Visual Components"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "GetNextDirectory",
+        "particle": "void"
+      }
+    ],
+    "title": [
+      "BOOL SetupFirstDirectory(); protected: __fastcall virtual ~TFindDirs("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "virtual __fastcall TFindDirs(TComponent *AOwner, AnsiString AStartString"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "__property AnsiString StartString={read=FStartString, write=SetStartString};"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Classes",
+        "given": "TStringList FCurFiles"
+      }
+    ],
+    "title": [
+      "System::AnsiString FServer; Classes::TNotifyEvent FOnNewDir; System::AnsiString FCurDir; System::AnsiString FUserID"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "bool __fastcall CreateDirectory(AnsiString S"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "System"
+    ],
+    "publisher": [
+      "AnsiStringNewFile"
+    ],
+    "title": [
+      "bool __fastcall GetFile(System::AnsiString FTPFile, System:: AnsiString NewFile); bool __fastcall SendFile1(System::AnsiString FTPFile, System:: AnsiStringNewFile); bool __fastcall SendFile2(System::AnsiString FTPFile"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "__property Classes::TStringList* CurFiles = {read=FCurFiles, nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__property System::AnsiString Password = {read=FPassword, write=FPassword,nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– 200"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "AvailableBytes = %d<BR>"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– , – , – , – , –"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"REMOTE_HOST = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"REMOTE_USER = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"SERVER_NAME = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "VarString += \"SERVER_PORT ="
+      }
+    ],
+    "note": [
+      "&Buffer, &StrSize); VarString += \"SERVER_SOFTWARE = \" + AnsiString(Buffer) + \"<BR>\";"
+    ],
+    "title": [
+      " + AnsiString(Buffer) + \"<BR>\"; StrSize = sizeof(Buffer); pECB->GetServerVariable(pECB->ConnID, \"SERVER_PROTOCOL\", &Buffer, &StrSize); VarString += \"SERVER_PROTOCOL = \" + AnsiString(Buffer) + \"<BR>\"; StrSize = sizeof(Buffer); pECB->GetServerVariable(pECB->ConnID, \"SERVER_SOFTWARE\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"HTTP_ACCEPT = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "pECB->WriteClient(pECB->ConnID, ResultString, &StrSize, 0); return (HSE_STATUS_SUCCESS);"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– , – , – , – , –"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– 200"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– , – , – , – ,"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"REMOTE_HOST = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"REMOTE_USER = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "VarString += \"SERVER_NAME ="
+      }
+    ],
+    "note": [
+      "&Buffer, &StrSize); VarString += \"SERVER_PORT = \" + AnsiString(Buffer) + \"<BR>\"; StrSize = sizeof(Buffer);"
+    ],
+    "title": [
+      " + AnsiString(Buffer) + \"<BR>\"; StrSize = sizeof(Buffer); pECB->GetServerVariable(pECB->ConnID, \"SERVER_PORT\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "pECB->GetServerVariable"
+      }
+    ],
+    "note": [
+      "&Buffer, &StrSize); VarString += \"SERVER_SOFTWARE = \" + AnsiString(Buffer) + \"<BR>\";"
+    ],
+    "title": [
+      "VarString += \"SERVER_PROTOCOL = \" + AnsiString(Buffer) + \"<BR>\"; StrSize = sizeof(Buffer); pECB->GetServerVariable(pECB->ConnID, \"SERVER_SOFTWARE\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VarString += \"HTTP_ACCEPT = \" + AnsiString(Buffer) + \"<BR>\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "StrSize = sizeof(Buffer"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "pECB->WriteClient"
+      }
+    ],
+    "container-title": [
+      "&StrSize"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "SSetLength"
+      }
+    ],
+    "title": [
+      "1); S = strrev(S.c_str()); i = S.Pos(\"=\"); S.SetLength(i - 1); S = strrev(S.c_str()); return S.c_str(); AnsiString ParseQuery1(AnsiString S"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "S = strrev(S.c_str()); int i = S.Pos(\"=\"); S.SetLength(i - 1); return S.c_str("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "AnsiString Query1= ParseQuery1(S"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "TCGIDBHelp",
+        "given": "C.G.I."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "DMod->Query1->SQL->Add(S);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "CGI.PrintTable(DMod->Query1);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Application->CreateForm(__classid(TDMod), &DMod); RunQueries("
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "text=\"#00FFFF\" link=\"#FFFF00\""
+    ],
+    "title": [
+      "<body bgcolor=\"#0000FF"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Application->CreateForm(__classid(TDMod), &DMod); RunQueries("
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ],
+    "title": [
+      "6 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "__fastcall TMyDCom(); __automated:"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ],
+    "title": [
+      "7 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AutoClassInfoProgID"
+      }
+    ],
+    "title": [
+      "MyProj.MyDCom\"; AutoClassInfo.ClassID = \"{FCB9F540-87FF-11D0-BCD7-0080C80CF1D2}\"; AutoClassInfo.Description = \"My DCOM Object\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ],
+    "title": [
+      "8 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "__fastcall TMyDCom(); __automated:"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Distributed COM AnsiString __fastcall GetName(); int __fastcall Square(int A);"
+    ],
+    "title": [
+      "virtual __fastcall TSimpleDCOM(); __automated: file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (9 of 81)01-09-2003 00:34:07 Ch 27"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "virtual __fastcall TSimpleDCOM(); __automated: AnsiString __fastcall GetName(); int __fastcall Square(int A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AutoClassInfoProgID"
+      }
+    ],
+    "title": [
+      "EasyDCOM.SimpleDCOM\"; AutoClassInfo.ClassID = \"{E2674A60-2DF2-11D0-92C5-000000000000}\"; AutoClassInfo.Description = \"Easiest possible DCOM program\"; AutoClassInfo.Instancing = acMultiInstance"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      ": TForm(Owner) file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (15 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "private:"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "ShowMessage"
+      }
+    ],
+    "container-title": [
+      "DEFINE_GUID(ClassID"
+    ],
+    "pages": [
+      "0 00,0 00,0 00,0 00,0 00,0 00"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0xE2674A60, 0x2DF2, 0x11D0, 0x92,0xC5"
+    ]
+  },
+  {
+    "citation-number": [
+      "0x00,0x00,0x00,0x00,0x00,0x00);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ShowMessage"
+      }
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Dest, MAX_PATH"
+    ],
+    "title": [
+      "Ole2::IUnknown *Unknown1; COSERVERINFO Info; OLECHAR Dest[MAX_PATH]; int i = MultiByteToWideChar(CP_ACP, 0, Server, -1"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ole2::IID_IClassFactory, (void **)&ClassFactory);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ClassFactory->Release"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Word varType); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (30 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ],
+    "title": [
+      "31 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "AnsiString S; Count = VarArrayDimCount(V); S"
+      }
+    ],
+    "note": [
+      "= AnsiString(\"\\nDimension Count: \") + IntToStr(Count) + `\\n';"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "LowBound = VarArrayLowBound(V, i); S = S +"
+      }
+    ],
+    "note": [
+      "\"LowBound: \" + IntToStr(LowBound) + `\\n'; S = S + \"HighBound: \" + IntToStr(HighBound) + `\\n';"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Variant MyVariant(OPENARRAY(int"
+    ],
+    "type": null,
+    "volume": [
+      "0, 5)), varInteger"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "ShowMessage"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "AnsiString S; Count = VarArrayDimCount(V); S"
+      }
+    ],
+    "note": [
+      "= AnsiString(\"\\nDimension Count: \") + IntToStr(Count) + `\\n';"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "LowBound = VarArrayLowBound(V, i); S = S +"
+      }
+    ],
+    "note": [
+      "\"LowBound: \" + IntToStr(LowBound) + `\\n'; S = S + \"HighBound: \" + IntToStr(HighBound) + `\\n';"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Grid->Cells[i-1][j-1] = Data[i-1][j-1]; VarArrayUnlock(V"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Grid->Cells[i-1][j-1] = Data[i-1][j-1]; VarArrayUnlock(V"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "j); Ch 27 -- Distributed COM"
+    ],
+    "title": [
+      "Grid->Cells[i-1][j-1] = V.GetElement(i"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TMainMenu *MainMenu1; TMenuItem *Options1; TMenuItem *CreateOneDimensionalArray1; TMenuItem *CreateTwoDimensionalArray1; TMenuItem *NormalArray1; TMenuItem *LockedArray1;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "AnsiString GetInfo(Variant &V); public: __fastcall TForm1(TComponent* Owner"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AnsiString",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "Distributed COM"
+    ],
+    "title": [
+      "Count = VarArrayDimCount(V); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (39 of 81)01-09-2003 00:34:07 Ch 27"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "LowBound = VarArrayLowBound(V, i); S = S +"
+      }
+    ],
+    "note": [
+      "\"LowBound: \" + IntToStr(LowBound) + `\\n'; S = S + \"HighBound: \" + IntToStr(HighBound) + `\\n';"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Variant MyVariant(OPENARRAY(int"
+    ],
+    "type": null,
+    "volume": [
+      "0, 5)), varInteger"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "ShowMessage"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "MyVariant",
+        "given": "Variant"
+      }
+    ],
+    "date": [
+      "0"
+    ],
+    "type": null,
+    "volume": [
+      "5, 0, 5)), varInteger"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "ShowMessage"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Variant",
+        "given": "V."
+      }
+    ],
+    "note": [
+      "2); j++) Grid->Cells[i-1][j-1] = V.GetElement(i, j);"
+    ],
+    "title": [
+      "= GetArrayData(); for (i = 1; i < VarArrayHighBound(V, 1); i++) for (j = 1; j < VarArrayHighBound(V"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Grid->Cells[i-1][j-1] = Data[i-1][j-1]; VarArrayUnlock(V"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "bFillStrGrid",
+        "given": "TButton"
+      },
+      {
+        "family": "Grid",
+        "given": "TStringGrid"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "private: public: __fastcall TForm1(TComponent* Owner); Variant __fastcall GetData("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Variant",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "0, sizeof(TCustomerRecord"
+    ],
+    "note": [
+      "varByte); P = VarArrayLock(V); memcpy(P, Customer, sizeof(TCustomerRecord)); VarArrayUnlock(V);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "memcpy"
+      }
+    ],
+    "note": [
+      "47 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null,
+    "url": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ]
+  },
+  {
+    "title": [
+      "Grid->Cells[1][i] = Customer->CustAry[i].Company; Grid->Cells[2][i] = Customer->CustAry[i].Address; Grid->Cells[3][i] = Customer->CustAry[i].City; Grid->Cells[4][i] = Customer->CustAry[i].State"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "VarArrayUnlock"
+      }
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "strcpy)",
+        "given": "strcpy)"
+      },
+      {
+        "family": "strcpy)",
+        "given": "DMod->Update"
+      }
+    ],
+    "note": [
+      "void __fastcall TForm1::bUpdateClick(TObject *Sender) file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (49 of 81)01-09-2003 00:34:07"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "\"Enter CustNo: \", CustNo); strcpy(Customer.Company, \"Company\"); strcpy(Customer.Address, \"Address\"); strcpy(Customer.City, \"City\"); strcpy(Customer.State, \"State\"); strcpy(Customer.Zip, \"Zip\");"
+    ],
+    "title": [
+      "InputQuery(\"CustNo of Record to Edit\""
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "VarArrayUnlock(V"
+    ],
+    "title": [
+      "P = VarArrayLock(V); memcpy(P, &Customer, sizeof(TCustomer"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "CustomerTableFAX",
+        "given": "TStringField"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__fastcall TDMod(TComponent* Owner); void GetCustAry(TCustomerRecord &Customer); void Update(TCustomer Customer); extern TDMod *DMod"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Variant",
+        "given": "V."
+      }
+    ],
+    "note": [
+      "53 of 81)01-09-2003 00:34:07 Ch 27 -- Distributed COM"
+    ],
+    "type": null,
+    "url": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "strcpy"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "UpdateQuery->Params->Items[0]->AsString = Customer.Company; UpdateQuery->Params->Items[1]->AsString = Customer.Address; UpdateQuery->Params->Items[2]->AsString = Customer.City; UpdateQuery->Params->Items[3]->AsString = Customer.State; UpdateQuery->Params->Items[4]->AsString = Customer.Zip; Value = StrToFloat(Customer.CustNo); UpdateQuery->Params->Items[5]->AsFloat = Value; UpdateQuery->ExecSQL("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__fastcall TDataServer(); __automated: AnsiString __fastcall GetName(); Variant __fastcall TDataServer::GetData(); WordBool __fastcall UpdateRecord(Variant V"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Distributed COM Company, AnsiString Address, AnsiString City, AnsiString State, AnsiString Zip) Form1->UpdateParams(CustNo, Company, Address, City, State, Zip);"
+    ],
+    "title": [
+      "void __fastcall TDataServer::UpdateParams(AnsiString CustNo, AnsiString file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (57 of 81)01-09-2003 00:34:08 Ch 27"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AutoClassInfoProgID"
+      }
+    ],
+    "title": [
+      "DataServer.DataServer\"; AutoClassInfo.ClassID = \"{34BADDC0-884F-11D0-BCD7-0080C80CF1D2}\"; AutoClassInfo.Description = \"DCOM DataServer \"; AutoClassInfo.Instancing = acMultiInstance"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ],
+    "title": [
+      "58 of 81)01-09-2003 00:34:08 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "__fastcall TDataServer(); __automated: AnsiString __fastcall GetName(); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (60 of 81)01-09-2003 00:34:08 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Variant __fastcall GetData(); WordBool __fastcall UpdateRecord(Variant V"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Variant",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "0, sizeof(TCustomerRecord"
+    ],
+    "note": [
+      "varByte); P = VarArrayLock(V); memcpy(P, Customer, sizeof(TCustomerRecord)); VarArrayUnlock(V);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "strcpy)",
+        "given": "strcpy"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm"
+    ],
+    "title": [
+      "64 of 81)01-09-2003 00:34:08 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "UpdateQuery->Params->Items[0]->AsString = Customer.Company; UpdateQuery->Params->Items[1]->AsString = Customer.Address; UpdateQuery->Params->Items[2]->AsString = Customer.City; UpdateQuery->Params->Items[3]->AsString = Customer.State; UpdateQuery->Params->Items[4]->AsString = Customer.Zip; Value = StrToFloat(Customer.CustNo); UpdateQuery->Params->Items[5]->AsFloat = Value; UpdateQuery->ExecSQL("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Project: GetData file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (66 of 81)01-09-2003 00:34:08 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TMainMenu *MainMenu1; TMenuItem *File1; TMenuItem *MakeConnection1; TMenuItem *MakeConnectionLocal1; TMenuItem *N1; TMenuItem *Exit1; TMenuItem *Options1; Ch 27 -- Distributed COM TMenuItem *Edit1;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TMenuItem *UpdateData1;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__fastcall TForm1(TComponent* Owner"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ShowDataClick",
+        "given": "DEFINE_GUID"
+      }
+    ],
+    "location": [
+      "Distributed COM"
+    ],
+    "title": [
+      "0x34BADDC0, 0x884F, 0x11D0, file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (69 of 81)01-09-2003 00:34:08 Ch 27"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ShowDataClick"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Grid->Cells[3][i] = FCustomerRecord.CustAry[i].City; Grid->Cells[4][i] = FCustomerRecord.CustAry[i].State"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Data = V.OleFunction(\"GetData\"); P = VarArrayLock(Data); memcpy(&FCustomerRecord, P, sizeof(TCustomerRecord)); VarArrayUnlock(Data"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "VOleFunction"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "{"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "private: Ch 27 -- Distributed COM TCustomer FCustomer; public: __fastcall TEditData(TComponent* Owner); Variant GetCustomerAsVariant(); void GetCustomer(); void FillCustomer();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "#include \"EditData1.h\" file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (74 of 81)01-09-2003 00:34:08 Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Variant",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "0, sizeof(TCustomer"
+    ],
+    "note": [
+      "varByte); P = VarArrayLock(V); memcpy(P, &FCustomer, sizeof(TCustomer)); VarArrayUnlock(V);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "VOleProcedure"
+      }
+    ],
+    "note": [
+      "void TEditData::GetCustomer() strcpy(FCustomer.CustNo, ECustNo->Text.c_str()); strcpy(FCustomer.Company, ECompany->Text.c_str()); strcpy(FCustomer.Address, EAddress->Text.c_str()); strcpy(FCustomer.City, ECity->Text.c_str());"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "strcpy(FCustomer.State, EState->Text.c_str()); strcpy(FCustomer.Zip, EZip->Text.c_str()); void TEditData::FillCustomer("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ECustNo->Text = FCustomer.CustNo; ECompany->Text = FCustomer.Company; EAddress->Text = FCustomer.Address; ECity->Text = FCustomer.City; EState->Text = FCustomer.State; EZip->Text = FCustomer.Zip"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "int Result = ShowModal("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ShowDataClick"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ShowDataClick"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Data = V.OleFunction(\"GetData\"); P = VarArrayLock(Data); memcpy(&FCustomerRecord, P, sizeof(TCustomerRecord)); VarArrayUnlock(Data); FillGrid("
+      }
+    ],
+    "note": [
+      "It then locks down the variant array returned file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch27.htm (78 of 81)01-09-2003 00:34:08"
+    ],
+    "title": [
+      "This code calls the GetData function of the ServerData program"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ch 27 -- Distributed COM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Grid->Cells[3][i] = FCustomerRecord.CustAry[i].City; Grid->Cells[4][i] = FCustomerRecord.CustAry[i].State"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Variant",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "0, sizeof(TCustomer"
+    ],
+    "note": [
+      "varByte); P = VarArrayLock(V); memcpy(P, &FCustomer, sizeof(TCustomer)); VarArrayUnlock(V);"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "strcpy)",
+        "given": "strcpy)"
+      },
+      {
+        "family": "strcpy)",
+        "given": "strcpy)"
+      },
+      {
+        "given": "strcpy"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "VOleProcedure"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "7 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "8 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FDirectDraw",
+        "given": "IDirectDraw"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void __fastcall DDTest(long hr, System::AnsiString S"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "} void __fastcall EndExclusive(void); void __fastcall ErrorEvent( System::AnsiString S); void __fastcall Flip(void); virtual void __stdcall InitObjects(void); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (9 of 112)01-09-2003 00:34:25"
+    ],
+    "title": [
+      "void __fastcall DrawBitmaps(void); virtual long __fastcall RestoreSurfaces(void); public: __fastcall virtual THermes(Classes::TComponent* AOwner); __fastcall virtual ~THermes(void"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__property bool Exclusive = {read=FExclusive, write=FExclusive, nodefault}; __property TScene* Scene = {read=FScene, write=SetScene, nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "MainMenu1",
+        "given": "TMainMenu"
+      }
+    ],
+    "note": [
+      "WORD &Key, TShiftState Shift); void __fastcall Run1Click(TObject *Sender); private:",
+      "11 of 112)01-09-2003 00:34:25"
+    ],
+    "title": [
+      "TMenuItem *Run1; void __fastcall FormKeyDown(TObject *Sender"
+    ],
+    "type": null,
+    "url": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ]
+  },
+  {
+    "note": [
+      "Exception *E); public: __fastcall TForm1(TComponent* Owner);"
+    ],
+    "title": [
+      "Ch 28 -- Game Programming void __fastcall MyExceptions(TObject *Sender"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      ": TForm(Owner) file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (12 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Classes",
+        "given": "TNotifyEvent FOnSetupSurfaces"
+      }
+    ],
+    "issue": [
+      "34"
+    ],
+    "title": [
+      "Classes::TNotifyEvent FOnDrawScene; public: __fastcall virtual TScene(Classes::TComponent* AOwner); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (20 of 112)01-09-2003"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "read=FShowBitmap, write=FShowBitmap, default=1};"
+    ],
+    "title": [
+      "__property bool BlankScene = {read=FBlankScene, write=FBlankScene, nodefault}; __property long OriginX ={read=FBackOrigin.x, write=FBackOrigin.x, nodefault}; __property long OriginY ={read=FBackOrigin.y, write=FBackOrigin.y, nodefault}; __property bool ShowBitmap ="
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "MainMenu1",
+        "given": "TMainMenu"
+      }
+    ],
+    "note": [
+      "void __fastcall FormKeyDown(TObject *Sender, WORD &Key, TShiftState Shift); private: public:"
+    ],
+    "title": [
+      "TMenuItem *Run1; file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (22 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming void __fastcall Run1Click(TObject *Sender"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__fastcall TForm1(TComponent* Owner"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "System::AnsiString FBitmap; tagPOINT FPosition;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "bool __fastcall IsHit(int X, int Y); __property IDirectDrawSurface* Surface="
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "System",
+        "particle": "property"
+      },
+      {
+        "family": "Bitmap={read=FBitmap",
+        "given": "AnsiString"
+      },
+      {
+        "family": "write=FBitmap",
+        "given": "nodefault}"
+      }
+    ],
+    "note": [
+      "29 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "title": [
+      "__property long XPos = {read=FPosition.x, write=FPosition.x, nodefault}; __property long YPos = {read=FPosition.y, write=FPosition.y, nodefault}; public: __fastcall virtual TSprite(Classes::TComponent* AOwner"
+    ],
+    "type": null,
+    "url": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ]
+  },
+  {
+    "location": [
+      "public"
+    ],
+    "title": [
+      "Classes::TList* FSpriteList; protected: __fastcall virtual ~TSpriteScene(void); virtual void __fastcall SetupSurfaces(System::TObject* Sender"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__fastcall virtual TSpriteScene(Classes::TComponent* AOwner"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__property Classes::TList* SpriteList = {read=FSpriteList, write=FSpriteList, nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "const tagPOINT &NewPos, int NewType, bool &MoveOk"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "bool __fastcall CheckHeroPos(Creatures1::TCreatureList* HeroList, int Col, int Row); Windows::TRect __fastcall MapTypeToCreature(int Col, int Row); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (41 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "virtual TSpecialRect __fastcall GetRect(int Col, int Row); virtual bool __fastcall MoveGrid(int Col, int Row, bool CallFlip); protected: void __fastcall MoveHero(int NewCol, int NewRow); virtual void __fastcall SetupSurfaces(System::TObject* Sender"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__property bool HeroActive = {read=FHeroActive, write=FHeroActive, nodefault}; __property TMoveHeroEvent OnHeroMove = {read=FOnHeroMove, write=FOnHeroMove}"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Project"
+      }
+    ],
+    "title": [
+      "TilerTest1 file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (42 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FileCreatureList1",
+        "given": "TFileCreatureList"
+      }
+    ],
+    "note": [
+      "WORD &Key, TShiftState Shift); private:",
+      "43 of 112)01-09-2003 00:34:25"
+    ],
+    "title": [
+      "TMainMenu *MainMenu1; TMenuItem *Run1; void __fastcall Run1Click(TObject *Sender); void __fastcall FormKeyDown(TObject *Sender"
+    ],
+    "type": null,
+    "url": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ]
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming public: __fastcall TForm1(TComponent* Owner"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "AnsiString S = ChangeFileExt(OpenDialog1->FileName, \".txt\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AnsiString",
+        "given": "S."
+      }
+    ],
+    "title": [
+      "= ChangeFileExt(OpenDialog1->FileName, \".dta\"); FMapPointList->WriteBinary(S, FMapPointList->StartX, FMapPointList->StartY"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "note": [
+      "Integer): string; function CreatureFromLocation(ACol: Integer; ARow: Integer): TCreature;"
+    ],
+    "title": [
+      "49 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming function NameFromLocation(ACol, ARow: Integer): string; function TypeFromLocation(ACol, ARow"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "`CreatureFile', `'); FScreenFile := RegFile.ReadString(`FileNames', `ScreenFile', `');"
+    ],
+    "title": [
+      "RegFile := TRegIniFile.Create(`Software\\Charlie''s Stuff\\Entities'); FCreatureFile := RegFile.ReadString(`FileNames'"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Classes",
+        "given": "TNotifyEvent FOnSetupSurfaces"
+      }
+    ],
+    "issue": [
+      "TML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (55",
+      "34"
+    ],
+    "pages": [
+      "112 01–09–2003"
+    ],
+    "title": [
+      "Classes::TNotifyEvent FOnDrawScene; public: __fastcall virtual TScene(Classes::TComponent* AOwner); virtual void __fastcall DestroyObjects(void); virtual void __fastcall DrawScene(void"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "read=FBackgroundBitmap",
+        "given": "write=FBackgroundBitmap"
+      },
+      {
+        "given": "nodefault}"
+      }
+    ],
+    "title": [
+      "__property bool BlankScene = {read=FBlankScene, write=FBlankScene, nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "read=FShowBitmap, write=FShowBitmap, default=1};"
+    ],
+    "title": [
+      "__property long OriginX ={read=FBackOrigin.x, write=FBackOrigin.x, nodefault}; __property long OriginY ={read=FBackOrigin.y, write=FBackOrigin.y, nodefault}; __property bool ShowBitmap ="
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Classes",
+        "given": "TNotifyEvent FPaintProc"
+      }
+    ],
+    "note": [
+      "System::AnsiString S); void __fastcall InitBaseObjects(void); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (57 of 112)01-09-2003 00:34:25"
+    ],
+    "title": [
+      "TScene* FScene; bool FUseTimer; bool FFirstTime; IDirectDraw* FDirectDraw; IDirectDrawSurface* FBackSurface; IDirectDrawClipper* FClipper; IDirectDrawSurface* FPrimarySurface; bool __fastcall CreatePrimary(void); void __fastcall DDTest(long hr"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void __fastcall DrawBitmaps(void); virtual long __fastcall RestoreSurfaces(void); public: __fastcall virtual THermes(Classes::TComponent* AOwner"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "IMAGE_BITMAP, 0, 0, LR_CREATEDIBSECTION); else"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "BitmapName.c_str(), IMAGE_BITMAP"
+    ],
+    "note": [
+      "LR_CREATEDIBSECTION); if (!Bitmap"
+    ],
+    "pages": [
+      "0,"
+    ],
+    "title": [
+      "Bitmap = LoadImage(GetModuleHandle(NULL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "container-title": [
+      "IMAGE_BITMAP"
+    ],
+    "issue": [
+      "TML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "note": [
+      "69 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "title": [
+      "Bitmap = LoadImage(0, BitmapName.c_str("
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "DeleteObject"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "SurfaceDesc.dwSize = sizeof(SurfaceDesc"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Scene->DestroyObjects"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FClipper = Mercury2::CreateClipper(FDirectDraw, FHandle); hr = FPrimarySurface->SetClipper(FClipper); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (76 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "container-title": [
+      "Flags = DDSCL_NORMAL; else Flags = DDSCL_EXCLUSIVE | DDSCL_FULLSCREEN; DDTest(FDirectDraw->SetCooperativeLevel(FHandle"
+    ],
+    "location": [
+      "Flags),\"SetCooperativeLevel"
+    ],
+    "title": [
+      "77 of 112)01-09-2003 00:34:25 Ch 28 -- Game Programming if (!FExclusive"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "throw EDDError(\"TSpeedDraw.InitObjects: %d %s\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (FCreatureList != NULL) FCreatureList->ReadFiles();"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SetCooperativeLevel file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (78 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Scene->SetupSurfaces(this); if (FUseTimer"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "given": "SetTimerTimer2Timer"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void __fastcall TScene::DestroyObjects(void) if(FWorkSurface != NULL) FWorkSurface->Release();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SurfaceDesc",
+        "given": "D.D.S.U.R.F.A.C.E.D.E.S.C."
+      }
+    ],
+    "title": [
+      "HRESULT hr; Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "throw EDDError(\"TSpeedDraw.SetupWorkSurface: No WorkSurface: \" + FBackgroundBitmap);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "hr = FWorkSurface->GetSurfaceDesc(&SurfaceDesc"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "SurfaceDesc.dwWidth, SurfaceDesc.dwHeight"
+    ],
+    "title": [
+      "FBackRect = Rect(0, 0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "int",
+        "given": "GetOleError"
+      }
+    ],
+    "note": [
+      "BackOrigin???\"))); } if (FOnDrawScene) FOnDrawScene(this);"
+    ],
+    "title": [
+      "Check BackRect"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "96 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "ermes->BackSurface->BltFast(FBitmapWidth * (k - 1), FBitmapHeight * (j - 1)"
+    ],
+    "location": [
+      "SpR.R1, DDBLTFAST_SRCCOLORKEY"
+    ],
+    "publisher": [
+      "FTileSurface"
+    ],
+    "type": "book",
+    "volume": []
+  },
+  {
+    "title": [
+      "int NewPosType; file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (100 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "NewPos.y)",
+        "given": "OnHeroMove"
+      }
+    ],
+    "title": [
+      "NewPosType = HeroList->GetMapType(NewPos.x"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "TCreature *Creature = FHermes->CreatureList->CreatureFromLocation(Col, Row); if (Creature->TypeStr == \"Hero\") return MapTypeToTileRect(3); else return MapTypeToTileRect(StrToInt(Creature->ID)); file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (101 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "102 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "FHermes->CreatureList->MoveCreature(FHero, Col, Row); FHermes->Flip();"
+    ],
+    "title": [
+      "P.x = FHermes->CreatureList->MapCol + Col; P.y = FHermes->CreatureList->MapRow + Row; if ((P.x < 0) || (P.x > (FHermes->CreatureList->MaxCols - FMaxMapCols)) || (P.y < 0) || (P.y > (FHermes->CreatureList->MaxRows - FMaxMapRows))) return False; FHermes->CreatureList->MapCol = P.x; FHermes->CreatureList->MapRow = P.y"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "103 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "NewCol, NewRow"
+    ],
+    "title": [
+      "P.x = FHero->ScreenCol + NewCol; P.y = FHero->ScreenRow + NewRow; if ((P.x <= 0) || (P.x > (FMaxMapCols)) || (P.y <= 1) || (P.y > FMaxMapRows)) return; FHero->ScreenCol = P.x; FHero->ScreenRow = P.y; FHermes->CreatureList->MoveCreature(FHero"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "FHermes->Flip(); file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "34"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "throw EDDError(\"CreatureList cannot be blank.\"); FHeroActive = True"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "HeroActive = !HeroActive"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "VK_DOWN",
+        "particle": "case"
+      }
+    ],
+    "issue": [
+      "34"
+    ],
+    "title": [
+      "MoveHero(0, 1); break; case VK_UP: MoveHero(0, -1); break; } file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (105 of 112)01-09-2003"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "case VK_LEFT: MoveGrid(-1, 0, False); break"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "106 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "(TSprite*)(FSpriteList->Items[i]))->Surface->Release();"
+    ],
+    "title": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (107 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "hr = FHermes->BackSurface->BltFast(Sprite->XPos, Sprite->YPos"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "note": [
+      "int(hr), GetOleError(hr),"
+    ],
+    "title": [
+      "108 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming throw(EDDError(ErrStr, OPENARRAY(TVarRec"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm"
+    ],
+    "title": [
+      "109 of 112)01-09-2003 00:34:26 Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "SurfaceDesc.dwHeight"
+    ],
+    "issue": [
+      "TML%20-%20Programmin...Borland%20C++%20Builder%20Unleashed/htm/ch28.htm (110",
+      "34"
+    ],
+    "pages": [
+      "112 01–09–2003"
+    ],
+    "title": [
+      "hr = Surface->GetSurfaceDesc(&SurfaceDesc); if(hr == DD_OK) Sprite->Rect = Rect(0, 0, SurfaceDesc.dwWidth"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "title": [
+      "Ch 28 -- Game Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "__classid(THermesChart), __classid(TSpriteScene"
+      }
+    ],
+    "container-title": [
+      "classes"
+    ],
+    "title": [
+      "__classid(TSprite)}; RegisterComponents(\"Unleash\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "note": [
+      "int GetRow(void); int GetCol(void); AnsiString GetName(void); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (3 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "virtual __fastcall ~TCharacter(void); public: virtual __fastcall TCharacter(TGame *AGame); __property TGame *Game={read=FGame, write=FGame, nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FHero",
+        "given": "TCharacter"
+      },
+      {
+        "family": "FBadGuy",
+        "given": "TCharacter"
+      },
+      {
+        "family": "FCreatureFile",
+        "given": "AnsiString"
+      }
+    ],
+    "note": [
+      "void SetBadGuy(TCharacter *ABadGuy); protected: virtual void CreateCharacters(void); virtual __fastcall ~TGame(void); public:"
+    ],
+    "title": [
+      "AnsiString FScreenFile; TGameForm *FCurrentGameForm; int FCurrentScene; void SetHero(TCharacter *Hero"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "HANDLE MainHandle); void UpdateMap(); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (5 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "title": [
+      "virtual __fastcall TGame(void); void Initialize(TGameForm *AOwner, TCreatureList *ACreatureList); void SetScene(TGameForm *AOwner"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm"
+    ],
+    "title": [
+      "6 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void SetHitPoints(int Value); int GetHunger(void); void SetHunger(int Value); int GetWeapon(void"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__property int Armor={read=GetArmor, write=SetArmor, nodefault}; __property int Hunger={read=GetHunger, write=SetHunger, nodefault}; __property int HitPoints={read=GetHitPoints, write=SetHitPoints, nodefault}"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ByzGame->UpdateMap"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Strength - Attacker->Strength) + (Armor -Attacker->Weapon);"
+    ],
+    "title": [
+      "Ch 29 -- Game Engines int Resistance ="
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "PlaySound"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "THermesChart *HermesChart1; TFileCreatureList *FileCreatureList1; TScene *Scene1; TSpriteScene *SpriteScene1; TSprite *Hero1; TSprite *BadQueen1; void __fastcall FormShow(TObject *Sender); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (22 of 58)01-09-2003 00:34:38"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "WORD &Key, TShiftState Shift"
+    ],
+    "title": [
+      "Ch 29 -- Game Engines void __fastcall FormKeyDown(TObject *Sender"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "FFightClass",
+        "given": "TFightClass"
+      }
+    ],
+    "title": [
+      "MESSAGE void StartShow(TMessage &Msg); public: virtual __fastcall TGameForm(TComponent* Owner); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (23 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (Hermes1->Exclusive) Hermes1->EndExclusive();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "// S = S + \" Scr Col"
+      }
+    ],
+    "note": [
+      "Map Col: \" + IntToStr(Hermes1->CreatureList->MapCol); S = S + \"Hit Points: \" + dynamic_cast<TByzCharacter*>(ByzGame->Hero)->HitPoints; HermesChart1->WriteXY(370, 410, S); S = \"Row: \" + IntToStr(ByzGame->Hero->Row); // S = S + \" Scr Row: \" + IntToStr(ByzGame->Hero->Creature->ScreenRow); // S = S + \" Map Row: \" + IntToStr(Hermes1->CreatureList->MapRow); S = S + \" Hunger: \" + dynamic_cast<TByzCharacter*>(ByzGame->Hero)->Hunger;"
+    ],
+    "title": [
+      " + IntToStr(ByzGame->Hero->Creaturefile:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (28 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines >ScreenCol); // S = S +"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "ore, mtESEShore, mtENEShore, mtBlank1, mtBlank2, mtBlank3, mtBlank4"
+    ],
+    "note": [
+      "mtAllSnow, mtSnowyMountain, mtSouthMtn, mtWestMtn, mtNorthMtn, mtEastMtn, mtSEMtn, mtSWMtn, mtNWMtn, mtNEMtn, mtNWFootHill,"
+    ],
+    "title": [
+      "enum TMapType {mtGrass, mtWater, mtMountain, mtRoad, mtWater2, mtFootHill, mtNorthShore, mtWestShore, mtSouthShore, mtEastShore, mtSWShore, mtSEShore, mtNWShore, mtNEShore, mtWNWShore"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "title": [
+      "mtNWBendShore, mtNEBendShore, mtENBendShore, mtWNBendShore, mtWSBendShore, mtESBendShore, mtCity, mtCreature}; Listing 29.8. The header file for the fight class"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm"
+    ],
+    "title": [
+      "34 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FDisplayString",
+        "given": "AnsiString"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void Button1Click(void); bool BadGuyAttacks(void); bool CheckCharacters(void); bool HeroAttacks(void); void DisplayData(AnsiString S); public: Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "WaitTime"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "TBadGuy *B = dynamic_cast<TBadGuy*>(ByzGame->BadGuy"
+      }
+    ],
+    "note": [
+      "Under attack!\"; WaitTime(1); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (40 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "title": [
+      "FDisplayString = H->Name +"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "THero *H = dynamic_cast<THero*>(ByzGame->Hero"
+      }
+    ],
+    "location": [
+      "is hit"
+    ],
+    "title": [
+      "FDisplayString = B->Name + \" Under attack!\"; WaitTime(1); if (B->DefendYourself(H)) FDisplayString = B->Name + \": No damage!\"; Ch 29 -- Game Engines else FDisplayString = B->Name +"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "WaitTime"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "BadGuyAttacks"
+      }
+    ],
+    "title": [
+      "FHitInProcess = False; FDisplayString = \"Waiting...\""
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Armor -Attacker->Weapon"
+    ],
+    "title": [
+      "int Resistance = (Strength - Attacker->Strength) +"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "PlaySound"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FDisplayString",
+        "given": "AnsiString"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void Button1Click(void); bool BadGuyAttacks(void); bool CheckCharacters(void); bool HeroAttacks(void); void DisplayData(AnsiString S); public: TFightClass(HWND AHandle, TScene *AScene); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (51 of 58)01-09-2003 00:34:38"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Ch 29 -- Game Engines void PerformHit(TObject *Sender); void ShowData("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "THero *H = dynamic_cast<THero*>(ByzGame->Hero"
+      }
+    ],
+    "location": [
+      "is hit"
+    ],
+    "publisher": [
+      "WaitTime(1"
+    ],
+    "title": [
+      "FDisplayString = B->Name + \" Under attack!\"; WaitTime(1); if (B->DefendYourself(H)) FDisplayString = B->Name + \": No damage!\"; else FDisplayString = B->Name +"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "return CheckCharacters(); file:///C|/temp/Book%20-%20HTML%20-%20Programming...0Borland%20C++%20Builder%20Unleashed/htm/ch29.htm (52 of 58)01-09-2003 00:34:38 Ch 29 -- Game Engines"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "BadGuyAttacks"
+      }
+    ],
+    "title": [
+      "FHitInProcess = False; FDisplayString = \"Waiting...\""
+    ],
+    "type": null
+  }
+]
