@@ -1,0 +1,62 @@
+[
+  {
+    "note": [
+      "); auto_ptr<MyClass> ptr2( new MyClass() );"
+    ],
+    "title": [
+      "auto_ptr<MyClass> ptr1( new MyClass("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations] auto_ptr<MyClass> ptr1( new MyClass() );"
+    ],
+    "title": [
+      "main.cpp: In function ‘int main()’"
+    ],
+    "type": null,
+    "url": [
+      "main.cpp:40:2: warning:"
+    ]
+  },
+  {
+    "note": [
+      "is deprecated [-Wdeprecated-declarations] auto_ptr<MyClass> ptr2( new MyClass() );"
+    ],
+    "title": [
+      "template<class> class std::auto_ptr"
+    ],
+    "type": null,
+    "url": [
+      "main.cpp:41:2: warning:"
+    ]
+  },
+  {
+    "note": [
+      "); auto_ptr<MyClass> ptr2( new MyClass() );"
+    ],
+    "title": [
+      "auto_ptr<MyClass> ptr1( new MyClass("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "ptr1->sayHello();"
+    ],
+    "pages": [
+      "2–"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "1– 2–"
+    ],
+    "title": [
+      "unique_ptr<MyClass> ptr1( new MyClass() ); unique_ptr<MyClass> ptr2( new MyClass("
+    ],
+    "type": null
+  }
+]
