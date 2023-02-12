@@ -1,0 +1,53 @@
+[
+  {
+    "author": [
+      {
+        "family": "myPixels.show",
+        "given": "Example HT8-2"
+      }
+    ],
+    "note": [
+      "void begin() Learn to Program in ArduinoTM C: 18 Lessons, from setup() to robots Example HT8-3. myPixels.begin();"
+    ],
+    "title": [
+      "Initialize communication with the NeoPixels. his method typically is called from the ArduinoTM setup() method"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Example HT8-4. myPixels.setPin(4); // set output pin to 4"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Learn to Program in ArduinoTM C: 18 Lessons, from setup() to robots"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Using jumper wires, connect your BT device to your Arduino.TM A standard-sized solderless breadboard works well"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Library"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Download and install the Adafruit library Adafruit_BluefruitLE_nRF51. a. Download the zip ile by visiting https://learn.adafruit.com/introducing-the-adafruitbluefruit-le-uart-friend/software and clicking the green download button"
+    ],
+    "type": null
+  }
+]
