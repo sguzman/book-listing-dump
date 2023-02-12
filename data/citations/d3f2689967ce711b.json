@@ -1,0 +1,151 @@
+[
+  {
+    "author": [
+      {
+        "family": "MyConnection=Server.CreateObject\"",
+        "particle": "var"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "F.I.L.E.D.S.N.=WebShoppedsn"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "MyConnection=Server.CreateObject",
+        "particle": "var"
+      },
+      {
+        "given": "MyConnectionConnectionTimeout=30"
+      }
+    ],
+    "location": [
+      "Lee"
+    ],
+    "note": [
+      "‘168 Spencer MA’, ‘12890’)\"; MyConnection.Execute(SQLStatement); MyConnection.Close();"
+    ],
+    "title": [
+      "MyConnection.Open(\"FILEDSN=WebShoppe.dsn\"); if(MyConnection.State ==\"adStateClosed\") Response.Write(\"The database is not available.\"); var SQLStatement = \"INSERT INTO Suppliers VALUES(‘Carl’"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "var MyConnection = Server.CreateObject(\"ADODB.Connection\""
+      }
+    ],
+    "container-title": [
+      "rsCustomer.Source=\"SELECT * FROM Customer ORDER BY First_Name"
+    ],
+    "note": [
+      "Last_Name\"; rsCustomer.ActiveConnection = MyConnection; Additional Statements; rsCustomer.Close(); MyConnection.Close();"
+    ],
+    "title": [
+      "MyConnection.ConnectionTimeout = 30; MyConnection.Open(\"FILEDSN=WebShoppe.dsn\"); if(MyConnection.State == \"adStateClosed\") Response.Write(\"The database is not available.\"); var rsCustomer = Server.CreateObject(\"ADODB.Recordset\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "rsCustomer.Open(); rsCustomer.MoveNext(); Additional Statements; rsCustomer.Close(); MyConnection.Close();"
+    ],
+    "title": [
+      "var rsCustomer = Server.CreateObject(\"ADODB.Recordset\"); rsCustomer.Source=\"SELECT * FROM Customer ORDER BY First_Name, Last_Name\"; rsCustomer.ActiveConnection = MyConnection"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "rsCustomer.Open(); rsCustomer.MoveNext(); Response.Write(rsCustomer(\"First_Name\") + \" \" + rsCustomer(\"Last_Name\")); rsCustomer.MovePrevious(); Response.Write(rsCustomer(\"First_Name\") + \" \" + rsCustomer(\"Last_Name\")); rsCustomer.Close();"
+    ],
+    "title": [
+      "var rsCustomer = Server.CreateObject(\"ADODB.Recordset\"); rsCustomer.Source=\"SELECT * FROM Customer ORDER BY First_Name, Last_Name\"; rsCustomer.ActiveConnection = MyConnection; rsCustomer.CursorType = adOpenStatic"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Pierre"
+    ],
+    "note": [
+      "‘McKinnon’’106 Gunthorpe Street’, ‘Pacific’, ‘01562’, ‘pierre@service.provider.com’ ‘Card’, ‘Master’)\"; database.execute(SQLString);"
+    ],
+    "title": [
+      "var SQLString = \"INSERT INTO Customer VALUES(‘Mr’"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Arnold"
+    ],
+    "publisher": [
+      "database.execute(SQLString"
+    ],
+    "title": [
+      "var SQLString = \"DELETE FROM Customer WHERE First_Name ="
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "false); WebShoppeTable.next(); statements; WebShoppeTable.close();"
+    ],
+    "title": [
+      "WebShoppeTable = database.cursor(\"SELECT * FROM Customers WHERE Last_Name = ‘McKinnon’\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "WebShoppeTableFirst_Name"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "lives in \" + WebShoppeTable.Address + \"<BR>\"); WebShoppeTable.close();"
+    ],
+    "title": [
+      "WebShoppeTable = database.cursor(\"SELECT * FROM Customers\", false); while(WebShoppeTable.next()) { write(WebShoppeTable.First_Name + \" \" + WebShoppe Table.Last_Name +"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "WebShoppeTable = database.cursor(\"SELECT * FROM Customers\", true); while(WebShoppeTable.Last_Name != \"Edwin\") { WebShoppeTable.next(); WebShoppeTable."
+      }
+    ],
+    "container-title": [
+      "First_Name = \"Catherine\""
+    ],
+    "note": [
+      "WebShoppeTable.email = \"catherine@service.provider.com\"; WebShoppeTable.insertRow(\"Customers\"); WebShoppeTable.close();"
+    ],
+    "title": [
+      "Title = \"Ms\"; WebShoppeTable"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "true); database.beginTransaction(); while(WebShoppeTable.Last_Name != \"Edwin\") { WebShoppeTable.next(); WebShoppeTable. Title = \"Ms\"; WebShoppeTable. First_Name = \"Catherine\"; WebShoppeTable.email = \"catherine@service.provider.com\"; WebShoppeTable.insertRow(\"Customers\"); WebShoppeTable.close();database.commitTransaction(); employeesTable.close();"
+    ],
+    "title": [
+      "WebShoppeTable = database.cursor(\"SELECT * FROM Customers\""
+    ],
+    "type": null
+  }
+]
