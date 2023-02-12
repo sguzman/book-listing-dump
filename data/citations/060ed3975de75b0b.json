@@ -1,0 +1,694 @@
+[
+  {
+    "author": [
+      {
+        "given": "a"
+      }
+    ],
+    "citation-number": [
+      "19.8"
+    ],
+    "note": [
+      "b) Design the block labeled “Test Logic” on Figure 19-11."
+    ],
+    "title": [
+      "Write the next-state and output equations for the dice game by tracing link paths on the SM chart (Figure 19-13). Use a straight binary assignment"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.9"
+    ],
+    "title": [
+      "Realize the SM chart of Figure 19-7(b) using a PLA and two D flip-flops. Draw the block diagram and give the PLA table"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.18"
+    ],
+    "note": [
+      "Use the same state assignment as in Problem 19.7(b)."
+    ],
+    "title": [
+      "Realize the SM chart of Figure 19-10 using a PLA and two D flip-flops. Draw the block diagram and give the PLA table"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.27"
+    ],
+    "container-title": [
+      "C HUANPITTE R VHDL for Digital System Design 2000"
+    ],
+    "title": [
+      "Convert the state graph of Figure 13-9 to an SM chart"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "VHDL for Digital System Design 647"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Work",
+        "particle": "i)"
+      }
+    ],
+    "container-title": [
+      "Problems"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "20 4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Read Section 20.3, VHDL Code for a Binary Divider (a) In Figure 20-11: If Dividend(8 downto 4) Divisor, what is the value of Subout(4)? If Dividend(8 downto 4) Divisor, what is the value of Subout(4)? Why is C equal to not Subout(4)?"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "b) Work Problems 20.5, 20.6, and 20.7."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Work Problem"
+    ],
+    "issue": [
+      "8"
+    ],
+    "title": [
+      "Read Section 20.4, VHDL Code for a Dice Game Simulator"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "publisher": [
+      "VHDL for Digital System Design"
+    ],
+    "title": [
+      "Read Section 20.5, Concluding Remarks. By looking at the VHDL code for the dice game, determine the minimum number of flip-flops required. Verify this against the value given in Table 20-1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ashenden",
+        "given": "Peter J."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers"
+    ],
+    "title": [
+      "The Designer’s Guide to VHDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhasker",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "A Guide to VHDL Syntax"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhasker",
+        "given": "J.V.H.D.L.Primer"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brayton",
+        "given": "Robert"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Secaucus, NJ"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Logic Minimization Algorithms for VLSI Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Givone",
+        "given": "Donald D."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Principles and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "Randy H."
+      },
+      {
+        "family": "Borriello",
+        "given": "Gaetano"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Contemporary Logic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M.Morris"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M.Morris"
+      },
+      {
+        "family": "Kime",
+        "given": "Charles R."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2008"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Old Tappan, NJ"
+    ],
+    "publisher": [
+      "Pearson Prentice Hall"
+    ],
+    "title": [
+      "Logic and Computer Design Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marcovitz",
+        "given": "Alan B."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Logic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McCluskey",
+        "given": "Edward J."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Logic Design Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Miczo",
+        "given": "Alexander"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York",
+      "England"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd West Sussex"
+    ],
+    "title": [
+      "Digital Logic Testing and Simulation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Patt",
+        "given": "Yale N."
+      },
+      {
+        "family": "Patel",
+        "given": "Sanjay J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Computing Systems: From Bits and Gates to C and Beyond"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "Charles H.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "John",
+        "given": "Lizy Kurian"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "2008"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Toronto, Ontario"
+    ],
+    "publisher": [
+      "Thomson"
+    ],
+    "title": [
+      "Digital Systems Design Using VHDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rushton",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "West Sussex, England"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd"
+    ],
+    "title": [
+      "VHDL for Logic Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wakerly",
+        "given": "John F."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design Principles & Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weste",
+        "given": "Neil"
+      },
+      {
+        "family": "Eshraghian",
+        "given": "Kaamran"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Principles of CMOS VLSI Design"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "74163,"
+    ],
+    "pages": [
+      "12–15"
+    ],
+    "title": [
+      "561–563 Arithmetic, binary"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Addition",
+        "given": "See",
+        "particle": "also"
+      },
+      {
+        "family": "Subtraction",
+        "given": "Multiplication"
+      },
+      {
+        "given": "Division"
+      }
+    ],
+    "citation-number": [
+      "74178,"
+    ],
+    "note": [
+      "VHDL, 555 Adder, binary, 100–101 Asynchronous preset (PreN), 334–336 parallel, 104–105 Asynchronous sequential circuit, 336 parallel with accumulator, 356–358 serial, 404–405 B serial with accumulator, 594–596 Base (number systems) 9 VHDL serial adder, 650–651 conversion, 9–12 Addition, binary, 12 Bi-directional I/O Pin, 256 1’s complement, 19–20 VHDL, 306 2’s complement, 17–19 Binary addition. See Addition, binary."
+    ],
+    "pages": [
+      "366 555–556"
+    ],
+    "title": [
+      "A ASCII code, 22–23, 240–241 Accumulator ASIC, 491 parallel, 356–358 ASM chart. See SM chart. serial, 594–596 Associative law, 40–41 Active low, 253, 334 Asynchronous clear (ClrN), 334–336, clear and preset inputs 334–335"
+    ],
+    "type": null,
+    "volume": [
+      "355"
+    ]
+  },
+  {
+    "container-title": [
+      "Binary subtraction"
+    ],
+    "note": [
+      "See Subtraction, Alphanumeric state graph notation, 448–450 binary."
+    ],
+    "title": [
+      "Algebraic simplification, 68–70, 127–128 Binary numbers theorems 42–43, 55 conversion to decimal, 10–11 Algorithmic state machine. See State signed, 16–17 machine"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "Alternative gate symbols, 201 Binary-coded-decimal (BCD), 20 circuit conversion using, 201–204 BITLIB, 278, 619 Analog systems, 6 Boolean algebra, 33–47, 58–68 AND basic operations, 35–37 gate, 35 basic theorems, 39–40 operation, 36 laws and theorems, 55 VHDL, 286 simplification theorems, 42–43"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "130 CMOS"
+    ],
+    "pages": [
+      "678"
+    ],
+    "title": [
+      "general form, 96–99 NOR gate, 195 simplification of"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "See Moore Number systems, 8–12 machine. MOS logic, 675–680 O MOSFET, 675 One’s complement n-channel, 675 addition, 19–21 p-channel, 675 representation of negative number, 16–18 Multi-level gate circuits One-hot state assignment, 495–497, 605 design, 190–194, 206–208 OR gate, 36 NAND and NOR gates, 200–201 Overflow Multiple-output gate circuit division, 604–605 design, 192–195, 206–228 one’s complement addition, 19–21 determination of essential prime two’s complement addition, 18–19, implicants, 206–207 105–106 Index 753"
+    ],
+    "title": [
+      "Moore machine, 398 multi-level circuits, 200–201 design, 433–435 two-level circuits, 197–200 state table and graph, 368–369 NOT gate. See Inverter. general model, 410–411 NRZ, NRZI codes, 445–446 Moore sequential circuit"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also State graph, table, 264–266 State machine, State table, Mealy PLD, 263 sequential circuit, Moore sequential programming, 269, 536 circuit, State assignment."
+    ],
+    "title": [
+      "Petrick’s method, 171–172 Sequence detector design, 431–440, Phase-locked loop, 445 475–476 PLA, 263–266 Sequential circuit in sequential circuit design, 523–525, definition, 7 636–638 Sequential circuit"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also Essential prime design with flip-flops, 484–486, 514–518 implicant. design with PLA, 523–525 chart, 168–170 design with ROM, 523–525"
+    ],
+    "title": [
+      "Positive logic, 625 analysis, 395–411 Present state, 325 design with a PAL, 525 Prime implicant"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "block",
+        "given": "S.M."
+      }
+    ],
+    "note": [
+      "for dice game, 631–635 Synchronizer, 535 realization, 635–639 Synchronous sequential circuit. See Stable state, 323, 325 Sequential circuit."
+    ],
+    "pages": [
+      "271–273"
+    ],
+    "title": [
+      "626 Switching algebra, 34. See Boolean algebra. SM chart (State machine chart), 625–639 Switching circuit derivation, 630–636 definition, 7 for binary divider, 630 Switching function for binary multiplier, 631 decomposition of"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "600–601, 605 Timing chart (diagram), 222–223 for counter, 365, 367, 370 for counter, 369–370 guidelines for construction, 439–443 for flip-flops, 329, 330 Mealy, 403–404 for latches, 325, 327"
+    ],
+    "title": [
+      "Standard product of sums, 94 Synthesis, 302, 307–308 Standard sum of products, 93 tools, 537, 572–575 State assignment for sequential circuits, 487–497 T equivalent assignments, 487–490 T (toggle) flip-flop, 333–334 guidelines, 490–495 derivation of input equations, 362–363, one-hot, 495–497 367–370 State equivalence theorem, 477, 689–690 Test generation, 537 State graph Testing of circuits. See Laboratory testing. alphanumeric notation, 448–450 Three-state buffer 253–256. See also conversion to SM chart, 628–629 Tri-state buffer. derivation, 431–444 Three-state bus 255–256. See also Tri-state for control circuits, 597–598, bus"
+    ],
+    "type": null
+  }
+]
