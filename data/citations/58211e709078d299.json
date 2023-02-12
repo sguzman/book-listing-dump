@@ -1,0 +1,86 @@
+[
+  {
+    "title": [
+      "Listing 10-7. Game.js var Game = (function(){ var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; console.log(windowWidth); var scene = new THREE.Scene(); var camera = new THREE.PerspectiveCamera( 75, windowWidth/ windowHeight, 0.1, 1000 ); var renderer = new THREE.WebGLRenderer(); renderer.setSize( windowWidth, windowHeight ); document.body.appendChild( renderer.domElement ); var geometry = new THREE.BoxGeometry( 2, 0.2, 0.8 ); var material = new THREE.MeshLambertMaterial( { color: 0x00ff00 } ); var paddle = new THREE.Mesh( geometry, material ); scene.add( paddle"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 10 Creating a Game Controller"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "windowWidth/ windowHeight, 0.1, 1000 ); var renderer = new THREE.WebGLRenderer();"
+    ],
+    "title": [
+      "Listing 10-8. Game.js first update var Game = (function(){ var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; var colorArray = [0xff0000, 0x00ff00, 0x0000ff]; var ballColor = Math.floor(Math.random() * 3); var colorChoice = 0; var collisionTimer = 15; var minMaxX = xMinMax(windowWidth); minMaxX = (parseFloat((minMaxX/10))-3.0.toFixed(1)); var scene = new THREE.Scene(); var camera = new THREE.PerspectiveCamera( 75"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "REE.SphereGeometry( 0.3, 32"
+    ],
+    "note": [
+      "material ); var ball = new THREE.Mesh( geometrySphere, materialSphere ); updateBallPosition();"
+    ],
+    "pages": [
+      "32"
+    ],
+    "title": [
+      "renderer.setSize( windowWidth, windowHeight ); document.body.appendChild( renderer.domElement ); var geometry = new THREE.BoxGeometry( 2, 0.2, 0.8 ); var material = new THREE.MeshLambertMaterial( { color: 0x00ff00 } ); var geometrySphere =",
+      "); var materialSphere = new THREE.MeshLambertMaterial( {color: colorArray[ballColor]} ); var paddle = new THREE.Mesh( geometry"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "xWindowMin = 200; xWindowMax ="
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "UPDATE GAME.JS The Game.js file has to be updated to include the clock and the score"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "REE.BoxGeometry( 2, 0.2"
+    ],
+    "note": [
+      "); var material = new THREE.MeshLambertMaterial( { color: 0x00ff00 } ); var geometrySphere = new THREE.SphereGeometry( 0.3, 32, 32 );"
+    ],
+    "pages": [
+      "0 8"
+    ],
+    "title": [
+      "Open up the Game.js file from Listing 10-8 and copy in the code in bold from Listing 10-13. Listing 10-13. Game.js second update var Game = (function(){ var currentScore = ­document.getElementById('current-­score'); var playAgainElement = document.getElementById('again'); var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; var colorArray = [0xff0000, 0x00ff00, 0x0000ff]; var ballColor = Math.floor(Math.random() * 3); var colorChoice = 0; var collisionTimer = 15; var stopGame; var minMaxX = xMinMax(windowWidth); minMaxX = (parseFloat((minMaxX/10))-3.0.toFixed(1)); var scene = new THREE.Scene(); var camera = new THREE.PerspectiveCamera( 75, windowWidth/ windowHeight, 0.1, 1000 ); var renderer = new THREE.WebGLRenderer(); renderer.setSize( windowWidth, windowHeight ); document.body.appendChild( renderer.domElement ); var geometry ="
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "The Code Explained"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "function(data){ Game.newData(data); });"
+    ],
+    "title": [
+      "Listing 10-14. main.js updated (function(){ var socket = io(); var stopGame = false; var startElement = document.getElementById('start'); var playAgainElement = document.getElementById('again'); socket.on('data'"
+    ],
+    "type": null
+  }
+]
