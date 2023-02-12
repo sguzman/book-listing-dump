@@ -1,0 +1,8 @@
+[
+  {
+    "title": [
+      "Note the use of the comma operator here, which evaluates the left expression first and then evaluates and returns the right expression. The left expression uses the current time to seed the random number generator with the srand function. The right expression retrieves a random integer with the rand function and formats the integer into the 1-6 range"
+    ],
+    "type": null
+  }
+]
