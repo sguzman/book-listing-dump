@@ -1,0 +1,413 @@
+[
+  {
+    "author": [
+      {
+        "given": "dataGridView->Rows->Add"
+      }
+    ],
+    "note": [
+      "L”914 696 1399”, L”1246 First Street, AnyTown”);"
+    ],
+    "title": [
+      "L”914 696 1200”, L”1235 First Street, AnyTown”); dataGridView->Rows->Add(L”May East”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Life”",
+        "given": "L.”Wonderful"
+      },
+      {
+        "family": "Gould”",
+        "given": "L.”Stephen Jay"
+      },
+      {
+        "family": "Mind”",
+        "given": "L.”The Emperor’s New"
+      },
+      {
+        "family": "Penrose”",
+        "given": "L.”Roger"
+      },
+      {
+        "family": "Hofstadter”",
+        "given": "L.”Douglas R."
+      },
+      {
+        "family": "Orange”",
+        "given": "L.”The Walpole"
+      },
+      {
+        "family": "Muir”",
+        "given": "L.”Frank"
+      }
+    ],
+    "container-title": [
+      "L”Philip Pullman”, L”Scholastic Children’s Books”}"
+    ],
+    "issue": [
+      "ard P. Feynman”, L”Addison-Wesley”}; array<String^>^ book5 = {L”0-593-03449-X”"
+    ],
+    "note": [
+      "L”Pyramids”, L”Terry Pratchett”, L”Corgi Books”}; array<String^>^ book8 = {L”0-7493-9739-X”, L”Made In America”, L”Bill Bryson”, L”Minerva”};"
+    ],
+    "pages": [
+      "0–552–13461–9 ,"
+    ],
+    "title": [
+      "L”Hutchinson Radius”}; array<String^>^ book2 = {L”0-09-977170-5”",
+      "L”Vintage”}; array<String^>^ book3 = {L”0-14-017996-8”,L”Metamagical Themas”",
+      "L”Penguin”}; array<String^>^ book4 = {L”0-201-36080-2”, L”The Meaning Of It All”",
+      "L”Bantam Press”}; array<String^>^ book6 = {L”0-439-99358-X”, L”The Amber Spyglass”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "array<String^>^ book1 = {L”0-09-174271-4",
+      "array<String^>^ book7 ="
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Life”",
+        "given": "L.”Wonderful"
+      },
+      {
+        "family": "Gould”",
+        "given": "L.”Stephen Jay"
+      }
+    ],
+    "genre": [
+      "L”0-09-174271-4”,"
+    ],
+    "issue": [
+      "emas”, “Douglas R. Hofstadter”, L”Penguin”}; array<Object^>^ book4 ="
+    ],
+    "note": [
+      "L”0-09-977170-5”, L”The Emperor’s New Mind”, L”Roger Penrose”, L”Vintage”}; array<Object^>^ book3 = {gcnew DateTime(1993,1,15), L”0-14-017996-8”,",
+      "gcnew DateTime(1994,2,7), L”0-201-36080-2”, L”The Meaning Of It All”, L”Richard P. Feynman”, L”Addison-Wesley”}; array<Object^>^ book5 = {gcnew DateTime(1995,11,6), L”0-593-03449-X”, L”The Walpole Orange”, “Frank Muir”, L”Bantam Press”}; array<Object^>^ book6 = {gcnew DateTime(2004,7,16), L”0-439-99358-X”, L”The Amber Spyglass”, L”Philip Pullman”, L”Scholastic Children’s Books”}; array<Object^>^ book7 = {gcnew DateTime(2002,9,18), L”0-552-13461-9”, L”Pyramids”, L”Terry Pratchett”, L”Corgi Books”}; array<Object^>^ book8 = {gcnew DateTime(1998,2,27), L”0-7493-9739-X”, L”Made In America”, L”Bill Bryson”, L”Minerva”};"
+    ],
+    "title": [
+      "The first step is to create the data to be displayed. Add the following code to the Form1 constructor, after the call to InitializeComponent(): // Create book data, one book per array array<Object^>^ book1 = {gcnew DateTime(1999,11,5",
+      "L”Hutchinson Radius”}; array<Object^>^ book2 = {gcnew DateTime(2001,10,25"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "container-title": [
+      "L”ISBN”"
+    ],
+    "issue": [
+      "or”, L”Publisher”}"
+    ],
+    "title": [
+      "array<String^>^ headers = {L”Date”"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "pages": [
+      "168–169"
+    ],
+    "title": [
+      "American Standard Code for Information arithmetic operators, 449–451 Interchange (ASCII) arrays, 161–206 characters, 53–54 address-of operators, 175–176 code, 1309–1315 buffer arrays, 300 analytical operators, 451–452 char, 179–181 AND bitwise operators, 80–81 character arrays and string handling"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "in reference classes, in derived classes"
+    ],
+    "note": [
+      "defining, 561–562 CElement class, 874–875 interface classes, generic, 589–590 message handlers, 807–809 interface classes, implementing, 562–565 serialization in document class and, 1048–1049 overview of, 553–554 class destructors summary, 596–597 for CMessage class, 413–415 virtual functions, 555–558 default destructor, 410–412 visibility specifiers, 565 overview of, 409–410 class interface, 446–447"
+    ],
+    "pages": [
+      "516–519 583–585"
+    ],
+    "title": [
+      "CRectangle class, 881 delegates, unbound, 576–579 defaults, 353–355 derived reference classes, 558–560 defined, 351–358 destructors and finalizers",
+      "initializing, 358 event handling, 581–583 modifying, 823 events, 571 parameter values, assigning, 355–356 events, creating, 580–581 parameter values, supplying, 356–357 exercises, 597 working with, 351–353 functions, specifying new, 570–571 class definitions interface classes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "25905bindex.qxd:WroxPro"
+    ],
+    "note": [
+      "context menus, associating with, 945–946 indexed properties, complex, 401–402 copy constructors, 415–417 indexed properties, defining, 397–398 data members of, 345–347 indexed properties, working with default, 398–401 declaring objects of, 344–345 overview, 390–403 default destructor, 410–412 reserved property names, 403 defining, 344 scalar properties, defining, 390–393 destructors, 409–410 scalar properties, working with, 393–397 document templates, 783 static properties, 402–403 dynamic memory allocation, 412–413 trivial scalar properties, 393 exercises, 504–505 class templates first, 340–342 defining, 438–440 incomplete definitions, 538 member functions, 440–441 increment and decrement operators, overloading, with multiple parameters, 444–446 436–437 objects created from, 441–444 inline functions, 350–351"
+    ],
+    "pages": [
+      "390–403"
+    ],
+    "title": [
+      "2/20/08 5:57 PM Page 1324 class libraries class libraries, C++/CLI class definitions, 793–797 creating, 566–568 class interface, 446–447 using, 568–570 class templates, 438 class members class templates, defining, 438–440 access levels for inherited, 522–523 class templates, member functions, 440–441 as friends, 528–529, 530 class templates, objects created from, 441–444 interface classes, 561 class templates, with multiple parameters, private, 513 444–446 protected, 519–522 CMessage class, 413–415 public, 513 comparison operators, overloading, 424–426 class objects const objects of, 368–371 pointers to, 535–537 constructors, 351 storing in vector containers, 618–622 constructors, modifying, 823 class properties"
+    ],
+    "type": null,
+    "volume": [
+      "C++/CLI"
+    ]
+  },
+  {
+    "note": [
+      "CLI), 2 collections, 910 Common Language Runtime. See CLR (Common CArray template class, 911–912 Language Runtime) CCurve class, defining, 925–927 Common Type System (CTS), 3"
+    ],
+    "title": [
+      "Code Definition windows Code Definition windows, 10–11 Common Language Infrastructure"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "52–53 current position, graphics displayed relative to, 852 in ISO/ANSI C++, 56–57"
+    ],
+    "title": [
+      "creating sketch document with, 929–931 for enumeration constants, 109–110 functions, 921–923 floating-point numbers, 55–56 overview of, 921 integer variables"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "filtering, 1160–1163 enumerations, 107–112 customer resource dialog fruity CLR console program and, 100–102 creating, 1157–1158 input from keyboards, 106–107 linking to order dialog, 1163–1165 output, formatting, 103–106"
+    ],
+    "pages": [
+      "97–112"
+    ],
+    "title": [
+      "Curve class, 967–968 literals, 57–58 curve collections, 884–885 multiple data values of same type. See multiple defining, 925–927 data values, of same type exercising, 925–927 options for use in loops, 143–145 implementing, 927–928 overview, 51–52 curves synonyms for, 58 drawing with CList template class, 924–925 type modifiers, 54–55 STL/CLR containers for defining, 967–968 variables with specific sets of values, 58–60 customer recordset Windows, 748–749 adding, 1156–1157 data types"
+    ],
+    "type": null,
+    "volume": [
+      "C++/CLI"
+    ]
+  },
+  {
+    "note": [
+      "405 controlled updating, 1185–1186 summary, 405–406 CRecordset supporting, 1168–1169 ToString() function in classes, 384–385 customizing application for, 1173–1174 value class types, defining, 381–382 dialog resources, adding controls, 1193–1196 value class types, working with, 383–384 dialog switching, implementing, 1197–1200 database applications edit controls, enabling/disabling, 1178–1180 creating, 1122 example of, 1172–1173 customer recordset, adding, 1156–1157 exercises, 1215 customer recordset, filtering, 1160–1163 expediting the update, 1183–1184 customer resource dialog, creating, 1157–1158 how it works, 1174–1175 customer resource dialog, linking to order dialog, implementing update mode, 1177–1178 1163–1165 managing, 1175–1177 customer view class, creating, 1158–1160 order data, storing, 1205–1207 data transfer between database and recordset, order entry process, 1186–1187 1131–1132 Order IDs, creating, 1200–1205 database viewer, exercising, 1165–1166 orders, adding new, 1209–1214"
+    ],
+    "title": [
+      "data types, defining, 331–380 exercises, 1166 arrays of class objects, 371–372 exercising example, 1138 classes, operations on, 342–343 MFC supported, 1120–1121 classes, understanding, 343–351 multiple table views, accessing, 1150–1151 const objects, 368–371 ODBC classes, 1121–1122 exercises, 406–407 ODBC database, registering, 1122–1124 first class, 340–342 ODBC program, generating, 1124–1125 indirect member selection operators, 340 overview of, 1113–1116 IntelliSense and, 337–338 product orders, viewing, 1151–1155 objects, 340–342 queries, 1129–1131 overview, 331 record view class, adding, 1143–1147 pointers, to class objects, 376–379 record view class, initializing, 1149–1150 pointers, to structs members, 339–340 record view class, overview, 1132–1134 private members, of classes, 358–366 recordset class, adding, 1141–1143 references to class objects, 376–379 recordsets, creating, 1127–1129 static members, of classes, 373–376 recordsets, filtering, 1147–1148 structs, accessing members of, 333 recordsets, linking controls to, 1136–1138 structs, initializing, 333 recordsets, sorting, 1138–1139 structs, overview of, 332–333 recordsets, using second recordset object, structs, working with, 334–337 1140–1141 structures generally, 332–340 snapshot vs. dynaset records, 1126 summary, 405–406 summary, 1166 terminology in, 343 view dialog, creating, 1134–1136 this pointer, 366–368 views, switching, 1151–1155 data types, defining in C++/CLI, 381–407 window caption, modifying, 1139–1140 class properties. See class properties, C++/CLI databases, SQL. See SQL (Structured Query exercises, 406–407 Language) initonly fields, 403–404 databases, update operations literal fields, 385–386 BindingNavigator component, 1297–1298 overview, 381 button labels, changing, 1180 reference class types, copy constructors for, cancel button, visibility of, 1180–1181 389–390 cancel operation, 1185 reference class types, defining, 386–387 CDatabase transaction operations, 1171–1172 reference class types, working with, 387–389 checking legality of operations, 1169 static constructors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "deque"
+      }
+    ],
+    "note": [
+      "510–511 defined, 43–44 pointers to, 535–537 delegates, C++/CLI, 571 specifying new functions, 570–571 friend classes, 530 working with, 511–513 namespaces, 94–96 derived classes, C++/CLI object classes, 344–345 overview of, 553 pointers, 175 reference classes, 555, 558–560 pointers to functions, 280–283 Design window, 976 references, 199–200 destructors tracking handles, 207–209 calling wrong, 545–548 variables, 50–51, 89 MFC documents, 931"
+    ],
+    "pages": [
+      "153–160"
+    ],
+    "title": [
+      "Index unconditional branching, 134 Delete(), CRecordset update operations, while loops, 146–148 1168–1169 decision making, C++/CLI. See also loops, C++/CLI delete operators, 195 decisions making",
+      "See double-ended queue containers for each loops, 156–159 derived classes exercises, 159–160 accessing private members of base class in, nested if statements, 153–154 513–516 overview, 153 constructors in, 516–519 summary, 159 copy constructors in, 524–528 declarations defined, 509 arrays, 163–166 deriving from base class"
+    ],
+    "type": null,
+    "volume": [
+      "C++/CLI"
+    ]
+  },
+  {
+    "note": [
+      "DECLARE_DYNAMIC(), serialization macro, 1052 virtual, 544 DECLARE_DYNCREATE(), serialization macro, destructors, C++/CLI, 583–585 1049, 1052 destructors, class DECLARE_MESSAGE_MAP(), 806–807 default destructor, 410–412 DECLARE_SERIAL(), serialization macro, overview of, 409–410 1052–1053 device context decorated names, DLLs, 1104 GDI (Graphical Device Interface), 849 decrement operators ( — ) linking device-independent Windows API output overloading, 436–437 functions to drivers and devices, 765–766 overloading in C++/CLI, 499–500 preparing for printing documents, 1072–1073 working with, 72–74 device coordinates. See client coordinates default destructor, 410–412 Device Points to Logical Points (DPtoL), 940–941"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "dialog boxes (continued) dialog boxes (continued) DLLMain(), 1102–1103",
+      "CLR main(), 1098 adding, 1031 overview of, 1093–1095 customizing, 1031–1032 runtime dynamic linking, 1097–1098 displaying, 1032–1033, 1043 SDI applications and, 787 exercises, 1045 types of, 1098–1099 overview of, 1030–1031 when to use, 1099–1100 pen widths, setting, 1033–1035 dockable toolbars, 12–13 summary, 1044–1045 docking controls, 1279–1280 text dialog, creating, 1042 document, recording document changes, 1055 dialog boxes, Windows Forms application document class, serialization in, 1048–1050 adding second, 1245–1248 document objects, altering, 1055 creating, 1235–1236 document size handling button events, 1238–1239 printing documents and, 1068–1069 using, 1240–1242 scale factor and, 1009–1010 dialog class (CDialog) document storage. See serialization adding, 990–992 document templates developing, 1258–1260 classes, 783 for edit boxes, 1023–1024 overview of, 782–783 for list boxes, 1019–1020 document views dialog controls, getting data from, 1248–1251 logical coordinates and client coordinates, 939–941"
+    ],
+    "title": [
+      "linking order dialog to customer resource dialog, exporting symbols from, 1109–1111 1163–1165 exporting variables and functions from, 1108 modal and modeless, 992 extension DLLs, adding classes to, 1103–1104 overview of, 985–986 extension DLLs, applying in Sketcher application, pen dialog example, 1001 1106–1107 pen width dialog, adding to document, 998–999 extension DLLs, building, 1105 pen width dialog, adding to elements, 999–1000 extension DLLs, exporting classes from, radio buttons, message handling for, 997–998 1104–1105 summary, 1044–1045 extension DLLs, writing/using, 1100–1102 switching between, 1197–1200 files required in order to use, 1107 testing, 988–990 how they work, 1095–1096 view dialog, for database, 1134–1136 importing symbols into a program, 1109–1110 for viewing records, 1143–1144 interface, 1098 dialog boxes"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "913–915 for Play menu item, 1231–1235 class definitions, 870–873 event-driven programming creating, 889–891 defined, 7–8 deleting, 957–958, 978 Windows OSs, 746 getting elements to move themselves, 961–963 events, 7–8 hash values and, 919–920 events, C++/CLI highlighting, 952–956 creating, 580–581 identifying selected, 948–949 handling, 581–583 masked, 964–965 overview of, 571 moving, 958–959 exceptions moving in CLR, 979–981 catching, 290–291"
+    ],
+    "title": [
+      "edit box controls edit box controls deleting elements from a map, 655 creating, 1022–1023 deleting elements from a multimap container, 664 CString class, 1024–1025 deleting elements in a vector, 617 CText class, 1027–1028 errors dialog class for, 1023–1024 dealing with, 23–24 overview of, 1021 stepping over to errors, 716–720 text element, creating, 1028–1029 syntactic and semantic, 697 text element, defining, 1026–1027 escape sequences, 63–64 text menu item, adding, 1025–1026 Event Handler Wizard edit controls, enabling/disabling, 1178–1180 adding message handlers to user interface, Editor windows, 10–11 824–825 Element class, C++/CLI, 897–898 creating menu message functions, 817–820 Element menu for menu messages, 815–816 adding event handlers to, 838 event handlers adding menu items to, 814–815 implementing, 839–840 completing, 815 for menu messages, 815–816 positioning, 813 event handlers, Windows Forms application Element Move operation, implementing in CLR, 979 creating, 1228–1229 elements, 1000–1001 for Limits menu, 1235, 1252–1253 adding to documents, 933–934 for menu items, 1229–1230 adding to list collections"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "MFC, 780 pointers, 178–179 GDI (Graphical Device Interface). See GDI (Graphical references, 199–200 Device Interface) structs, 333 GUI (graphical user interface), 744, 1217–1218"
+    ],
+    "title": [
+      "arrays, 166–167 interfaces defined, 51 class interface, 446–447 multidimensional arrays, 172–173 DLLs, 1105 parameters, 285–287 document interfaces"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "InitInstance"
+      }
+    ],
+    "note": [
+      "56–57 input strings, 323 keywords, 1307–1308 input validation, Windows Forms applications, learning about, 5 1242–1244 standards, 5–6 input/output operations, 60–64 iterators escape sequences, 63–64 begin()and end(), 609 input from keyboards, 60 categories of, 604"
+    ],
+    "title": [
+      "SDI application, 799–800 interfaces, C++/CLI initonly fields, 403–404 access specifiers for, 566–568 input, analyzing, 300–302 visibility specifiers for, 565 input, keyboard interior pointers, 233–237 C++/CLI, 106–107 intermediate languages, 2 for calculations, 68–69 internal, C++/CLI access specifier, 566–568 generally, 60 ISO/ANSI C++ input controls, disabling, 1251 compiler, 455 input stream iterators, 665–668 fundamental data types"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "MSIL (Microsoft Intermediate Language), 2 multiple, 96–97 multidimensional arrays .NET library, 833 in C++/CLI, 217–221 overview, 93–94 defined, 171–172 structure of C++ programs, 43–44 dynamic allocation of, 198–199 native C++ programs, defined, 2–5 initializing, 172–173 native enumerations, 112 passing to functions, 253–255 NDEBUG preprocessor symbol, 708 pointer notation with, 193–194 nested classes pointers with, 192–193 overview of, 550–552 multifile project, CBox class, 453–455 working with, 552–553 multimap containers, 664–665 nested if statements, 120–122 multipage printing, 1066–1068 nested if statements,"
+    ],
+    "pages": [
+      "153–154"
+    ],
+    "type": null,
+    "volume": [
+      "C++/CL"
+    ]
+  },
+  {
+    "note": [
+      "operator overloading, 424–426 CList template class, 913–918 operator>(), operator overloading, 422–423 CMap template class, 918–920 operators overview of, 911 addition operators, overloading, 432–436"
+    ],
+    "title": [
+      "storing in map containers, 652–654 reference classes, 500–502 objects, collections of value classes, 494–498 CArray template class, 911–912 operator<("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ocx"
+      }
+    ],
+    "note": [
+      "79 strings, 1024–1025 OLE Custom Extension (.ocx), 1095 operators, C++/CLI OLE DB, database support in MFC, 1120 decrement operators, overloading, 499–500 OnContextMenu(), 946–947 reference classes, 500–502 OnDraw(), MFC, 851–852, 931–933 value classes, 494–498 one-dimensional arrays, C++/CLI optimistic mode, record locking, 1170 searching, 215–217 options, setting, 26–27 sorting, 213–214 OR operators, 82–83, 128 OnInitDialog(), 996–997, 1006 ORDER BY, sorting recordsets, 1138–1139 OnMouseMove() Order Details table, customizing, 1173–1174 coding mouse move message handler, 887–889 order dialog, linking to customer resource dialog, identifying selected element, 948–949 1163–1165 message handler, 885 Order IDs OnPreparePrinting(), 1069 creating new, 1201–1204 OnPrint(), printing documents, 1073–1077 initiating ID creation, 1204–1205 OOP (object-oriented programming) overview of, 1200 basic concepts, 507–509 storing, 1201 overview, 341–343 orders/ordering, in database application polymorphism and, 535 adding new, 1209–1214 open, file operations, 1087–1088 customizing Orders Details table, 1173–1174 Open Data Base Connectivity. See ODBC (Open Data entry process, 1186–1187 Base Connectivity) order data, storing, 1205–1207 orders/ordering (continued"
+    ],
+    "title": [
+      "1095 analytical operators, 451–452 ODBC (Open Data Base Connectivity) arithmetic operators, 449–451 database application. See database applications assignment operators, overloading, 427–431 drivers, 1121 comparison operators, 448–449 generating ODBC program, 1124–1125 comparison operators, overloading, 424–426 MFC classes supporting, 1121–1122 increment and decrement operators, overloading, registering ODBC databases, 1122–1124 436–437 updating data sources. See databases, update overloading, 420–423 operations precedence of, 74–76 old-style casting"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "orders/ordering"
+      }
+    ],
+    "note": [
+      "191–192 defined, 240–242 declaring, 175 initializing, 285–287 declaring to functions, 280–283 insert(), 478–479 defined, 174 parameter values, for constructor arguments, dynamic_cast operator and, 550 356–357 to functions, 279–285 parameter values, in classes, 355–356 indirect data access and, 174 parameters, SQL filters indirect member selection operators, 340 defining, 1148–1149 indirection operators, 176 overview of, 1147–1148 initializing, 178–179 parent windows, window elements, 745 multidimensional arrays and, 192–193 parenthesized substrings, extracting, 327–328 notation, when passing arrays, 252–253 parts, status bars, 1015 notation, with multidimensional arrays, 193–194 pass-by-pointer, 249–251 null pointer, 705 pass-by-reference, 255–257 returning, 263–264 pass-by-value, 247–249 sizeof operators, 183–185 passing storing in vector containers, 624–626 arguments to functions, 247–251 with structs, 338–340 arrays to functions, 251–253 working with, 176–178 multidimensional arrays to functions, 253–255 polymorphism, virtual functions and, 535 pdo_it function, 282–283 pop_back(), deleting elements in a vector, 616 Pen class, 900–902"
+    ],
+    "title": [
+      "Pen width dialog box Order IDs, creating, 1200–1205 exercising, 1001 products, selecting for orders, 1207–1209 pen width, adding to document, 998–999 ordinal values, DLLs, 1104 pen width, adding to elements, 999–1000 output pens to command lines, 60–61, 102 creating, 857–858 conditional operators with, 130–131 defining for CLR drawings, 900–902 formatting, 61–62, 103–106 pen width options, 989 free store debug operations, 726–727 setting drawing width, 1033–1035 statements, 45 standard for CLR drawings, 902 output, C++/CLI debugging using, 858–859 controlling, 735–736 pessimistic mode, record locking, 1170 destination, 734 pfun() statement, 280–281 generating, 732–733 Play menu event, 1231–1235 indenting, 734 playMenuItem_Click(), 1231 output stream iterators, 670–672 pointer notation when passing arrays, 252–253 overloading functions, 293–296 pointers overriding operator precedence, 76 for accessing members of structs, 339–340 address-of operators, 175–176 as arguments to functions, 249–251 P arithmetic, 187–189 packaging problems, class interfaces and, 446–447 array names as, 189–191 page coordinates. See logical coordinates and arrays, 187–192 Paint event handler arrays of, 181–183 CLR drawings, 905–906 causes of bad pointers, 698 drawing sketch with, 971–972 char, 179–181 panes, status bars, 1013 to class objects, 376–379, 535–537 parameters constants and, 185–187 class templates with multiple parameters, 444–446 counting characters"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "716–720 print preview, 1077 testing extended class, 720–722 process of, 1073–1077 project files storing print data, 1069–1070 location of, 790–791 summary, 1090–1091 viewing, 792 printing documents, CLR project folders, 13 overview of, 1089 projects print operation, 1089–1090 Ctrl+Shift+N (New Project), 785, 1100 PrintDocument component, 1089 defining, 14 priority queue containers, 643–648 solutions and, 13–14 functions, 643 properties overview of, 643–644 C++/CLI class properties. See class properties, working with, 644–648 C++/CLI private classes, C++/CL, 565 cell styles, 1275–1276 private keyword, class membership and, 513 columns, 1281–1283 private members, of classes, 358–366 controls, 1233 access levels for inherited members, 522–523 defined, 390"
+    ],
+    "title": [
+      "CPrintInfo class, 1066–1068 statements, 44–46 document size and, 1068–1069 structure. See structures exercises, 1091–1092 Windows. See also Windows programming logic and functions involved in printing process, programs, debugging 1065–1066 call stack, 715–716 multipage, 1066–1068 finding next bug, 722 overview of, 1064–1065 overview of, 715 preparing device context for, 1072–1073 program versions, 20 preparing for, 1070–1072 stepping over to errors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "loops",
+        "given": "Solution Explorer"
+      }
+    ],
+    "note": [
+      "1014–1015 tab sequence, 1004 overview of, 1013–1014 toolbar buttons, 1002–1003 panes, 1013 splice(), deleting elements from a list, 635 parts, 1015–1017 SQL (Structured Query Language) updating, 1017–1018 overview of, 1116 std namespace, 601 records, 1117 Step Into option, Debug menu, 704 retrieving data with, 1116–1117 Step Over (F10), Debug menu, 704–705, 705,"
+    ],
+    "title": [
+      "See loops IDE windows, 10–11 nested if statements, 120–122 overview of, 16 nested if statements, C++/CL, 153–154 switching to Resource View, 812 nested if-else statements, 124–126 solutions, 13–14, 19 pfun() statement, 280–281 sort(), 623–624 SELECT statements. See SELECT statements sorting elements, 623–624 throw statement, 289–291 sorting recordsets, 1138–1139 static constructors, 405 sorting SQL records, 1120 static members, of classes, 373–376 sorting vector elements, 623–624 data members, 373–374 sorting words from text, 489–494 function members, 376 source code, modifying, 17–19 instances, counting, 374–375 spin button control static properties, 402–403 creating, 1003–1004 static storage duration, 89–93 defined, 988 static variables dialog data exchange and validation, 1006 in functions, 269–270 displaying, 1007–1008 storage duration and scope, 93 initializing the dialog, 1006–1007 statically linked functions, DLLs compared with, overview of, 1001–1002 1093–1095 scale dialog class, 1004–1005 status bar controls scale menu item, 1002–1003 adding to frames"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "STL (Standard Template Library) (continued) STL (Standard Template Library) (continued) comparing null-terminated strings,",
+      "sequence containers. See sequence containers, comparing, 229 STL/CLR joining, 224–225 storage modifying, 227–229 class objects, in vector containers, 618–622 overview, 224 handles, in vector containers, 678–680 searching, 230–233 multiple strings, 173–174 working with, 225–227 objects, in map containers, 652–654 strlen(), 413 order data, 1205–1207 Stroustrup, Bjarne, 342 Order IDs, 1201 structs, 332–340 pointers, in vector containers, 624–626 accessing members of, 333 print data, 1069–1070 defining, 332–333 reference class objects, 680–684 indirect member selection operators, 340 temporary elements, 873–874 initializing, 333 values types, in list containers, 684–685 pointers with, 338–340 storage, duration and scope, 86–93 RECT, 338 automatic variables in, 89 working with, 334–337 declarations, positioning variable, 89 structure, C++/CLI. See functions, C++/CLI global variables, 89–92 Structured Query Language. See SQL (Structured for multiple strings, 173–174 Query Language) overview, 86 structures, 42–48. See also functions scope resolution operators, 91–92 automatically generated console programs, 47–48"
+    ],
+    "pages": [
+      "224–233"
+    ],
+    "title": [
+      "204 list containers. See list containers, STL/CLR concatenating, 473–476 map containers. See map containers, STL/CLR copying null-terminated strings, 203–204 multimap containers, 664–665 creating string objects, 471–473 output stream iterators, 670–672 handling, 168–169 overview of, 601–602 input, 169–171 queue containers. See queue containers joining null-terminated strings, 201–203 sequence containers. See sequence containers length of null-terminated strings, 200–201 stack containers, 649–651 overloaded operators, 1024–1025 summary, 692–693 overview, 200, 471 vector containers. See vector containers programming with, 170–171 STL/CLR, 676–692 searching, 484–489 associative containers, 685–692 searching null-terminated strings, 204–206 containers, 677 sorting words from text, 489–494 overview of, 676–677 strings"
+    ],
+    "type": null,
+    "volume": [
+      "C++/CLI"
+    ]
+  },
+  {
+    "note": [
+      "See also interfaces TranslateMessage(), retrieving Windows class interface, 446–447 messages, 759–760 GDI (Graphical Device Interface). See GDI (Graphical tree controls, 988 Device Interface) try blocks, 290–291 GUI (graphical user interface), 744, 1217–1218 type modifiers message handlers for updating, 824–825 const, 67–68 defined, 54–55 type safe collections V CArray template class, 911–912 validation CList template class, 913–918 input validation for Windows Forms, 1242–1244 CMap template class, 918–920 spin button control, 1006 overview of, 910–911 value classes typed pointer collections base class for, 553 CTypedPtrList template class, 921–923, types of, 98 929–931 value classes, C++/CLI overview of, 920 defining, 381–382"
+    ],
+    "title": [
+      "Trace classes, C++/CLI 1168–1169 overview of, 732 update handlers working with, 737–741 coding command update handler, 825–827 tracepoints, 702–703 exercising, 827 TraceSwitch, 735–736 updating user interface, 824–825 tracking handles, 207–209 update messages, 816–817 tracking references, 233 update mode, 1177–1178 transactions UPDATE_COMMAND_UI. See update handlers CDatabase class, 1171–1172 UpdateAllViews(), 935–937 overview of, 1170 updating database operation. See databases, update transform(), algorithms, 675–676 operations transformations, coordinate system, 965–967 user interfaces"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "25905bindex.qxd:WroxPro"
+    ],
+    "pages": [
+      "616–618"
+    ],
+    "title": [
+      "2/20/08 5:57 PM Page 1353 virtual mode Index overloading, 494–498 vector containers working with, 383–384 accessing elements in, 615–616 value of terms C++/CLI, 325 capacity and size of, 611–615 values creating, 608–610 enumeration constants, 110 inserting/deleting elements"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C++",
+        "given": "I.S.O./A.N.S.I."
+      }
+    ],
+    "note": [
+      "initializing, 1149–1150 accepting, 274–275 record view class, overview of, 1132–1134 defined, 260–262 switching, 1151–1155 variable values views, MFC changing, 707 linking documents and views in MFC, 781–782 inspecting, 705–707 overview of, 780–781 with specific sets of variables, 58–60 virtual destructors variables calling wrong destructor, 545–548 assignment statements, 77–78 how it works, 548–550 Boolean type, 55 overview of, 544, 544–545 casting, 76–79 virtual functions"
+    ],
+    "title": [
+      "56–57 sorting elements, 623–624 returning, 263–268 storing class objects, 618–622 variable, 58–60, 705–707 storing pointers, 624–626 values, comparing, 117–134 vector containers, STL/CLR, 678–680 conditional operators, 130–131 versions, of programs, 20–21 extended if statements, 122–124 View class, 851–852 generally, 117–119 View menu, Toolbox window, 836 if statements, 119–120 viewport, coordinates and, 1009 logical operators and expressions, 126–129 views nested if statements, 120–122 activation, 1154–1155 nested if-else statements, 124–126 updating multiple, 935–937 switch statements, 131–134 views, database unconditional branching, 134 creating, 1188–1193 values types, storing in a list, 684–685 customer view class, 1158–1160 variable declarations dialogs for, 1134–1136 defined, 44, 50–51 multiple table views, 1150–1151 positioning, 89 record view class, adding, 1143–1147 variable numbers, of arguments record view class"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "terminology regarding, 746 error handling, 23–24 Windows API executing program versions, 20–21 creating simple, 768–769 IDE for. See IDE (Integrated Development drawing process, 847–848 Environment) methods for creating interactive Windows introduction, 1 application, 744 learning about, 4–9 overview of, 747–748 MFC-based applications, 27–30 Windows applications .NET framework, 2 basic classes, 783 options, setting, 26–27 creating and executing, 27–30 projects, 13–14 MDI (multiple document interface) application, solutions, 19 801–802 source code, 17–19 MFC tools for creating, 784–785 standards, 5–6 MFC-based, 786–790 summary, 33–34 process of creating, 785–786 toolbar options, 11–12 SDI (single document interface) application, Win32 console applications, 14–19 creating, 786–790"
+    ],
+    "pages": [
+      "21–23"
+    ],
+    "title": [
+      "visibility specifiers visibility specifiers decoding Windows messages, 764–765 cancel button and, 1180–1181 organization of Windows programs and, 769–770 for classes and interfaces, 565 processing Windows messages, 763–764 Visual Basic Extension (.vbx), 1095 redrawing client area, 758 Visual C++ 2008, overview, 1–34 redrawing client area for Windows programs, applications, writing, 3–4 765–766 attributes, 6 structure of Windows programs and, 750 CLR and, 2–3 WindowProc(), 766 CLR console, 24–26 windows, in Windows OSs console application files, 19 creating program windows, 756–757 console applications, 6–7 elements of, 744–746 debugging and releasing program versions, 20 initializing program windows, 757–758 dockable toolbars, 12–13 structure for defining program windows, 753–755 documentation, 13 target windows for Windows messages, 1317–1318 empty consoles"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Windows programming (continued) Windows programming (continued) WinMain() ending programs,",
+      "initializing, 757–758 application, 744 program window, specifying, 753–755 MFC for. See MFC (Microsoft Foundation Classes) structure of Windows programs and, 750 notation, 749–750 WM_COMMAND, Windows messages, 808 organization of Windows programs, 769–770 WM_LBUTTONDOWN, Windows messages, 865 overview of, 743 WM_LBUTTONUP, Windows messages, 865, 891–892 program window, creating, 756–757 WM_MOUSEMOVE, Windows messages, 865, 885 program window, initializing, 757–758 WM_MOUSEMOVE, Windows messages, 959–961 program window, specifying, 753–755 WM_PAINT, Windows messages, 848 structure of a Windows program, 750–751 WM_RBUTTONDOWN, Windows messages, 963"
+    ],
+    "title": [
+      "766–767 complete function assembled, 761–763 event-driven programming and, 746 messages, retrieving for program, 758–761 message processing functions, 763–765 organization of Windows programs and, 769–770 message queues, 758–761 overview of, 751–753 messages, 747 program window, creating, 756–757 methods for creating interactive Windows program window"
+    ],
+    "type": null
+  }
+]
