@@ -1,0 +1,99 @@
+[
+  {
+    "author": [
+      {
+        "given": "Leijen"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Leijen",
+        "given": "D."
+      },
+      {
+        "family": "Schulte",
+        "given": "W."
+      },
+      {
+        "family": "Burckhardt",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "OOP-SLA 2009: Proceedings of the 24th Annual ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications"
+    ],
+    "date": [
+      "2009"
+    ],
+    "editor": [
+      {
+        "family": "Arora",
+        "given": "S."
+      },
+      {
+        "family": "Leavens",
+        "given": "G.T."
+      }
+    ],
+    "pages": [
+      "227–242"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "discusses design considerations, including the concepts of task-based scheduling and work stealing algorithms. The code samples for the Concurrency Runtime and Parallel Pattern Library package is ConcRTExtras on CodePlex",
+      "The Design of a Task Parallel Library"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "software",
+        "given": "ConcRTExtras"
+      }
+    ],
+    "title": [
+      "Code Samples for the Concurrency Runtime and Parallel Pattern Library in Visual Studio 2010"
+    ],
+    "type": null,
+    "url": [
+      "http://code.msdn.microsoft.com/concrtextras."
+    ]
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Parallel Aggregation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "For more information, see:"
+    ],
+    "title": [
+      "Further Reading The MSDN® Parallel Computing Developer Center covers parallel development on both the managed and native concurrency runtimes, as well as the Visual Studio 2010 tools that support writing parallel programs"
+    ],
+    "type": null,
+    "url": [
+      "http://msdn.microsoft.com/concurrency."
+    ]
+  },
+  {
+    "note": [
+      "Windows HPC Server 2008 R2 product information and developer resources are available on the Windows HPC Server site at: Download from Wow! eBook <www.wowebook.com>"
+    ],
+    "title": [
+      "For information about F#, including the language reference and walkthroughs, see the Microsoft F# Developer Center at"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://msdn.microsoft.com/fsharp."
+    ]
+  }
+]
