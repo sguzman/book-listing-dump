@@ -1,0 +1,65 @@
+[
+  {
+    "author": [
+      {
+        "family": "format"
+      },
+      {
+        "family": "format",
+        "given": "European"
+      }
+    ],
+    "note": [
+      "6, 21); trace(dtWhen.toFullDisplay()); trace(dtWhen.toUSDisplay()); trace(dtWhen.toEuroDisplay()); trace(dtWhen.toUSDisplay(“-”)); trace(dtWhen.toEuroDisplay(“-”)); The Output panel will display the following: Monday July 21, 2003 07/21/2003 21/07/2003 07-21-2003 21-07-2003"
+    ],
+    "title": [
+      "Displaying the Date When you work with the example DateTime class, you have three options for displaying the date: full date display, U.S",
+      "Here are a few examples: var dtWhen:DateTime = new DateTime(2003"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Here is an example: var dtBlogDateTime:DateTime = new DateTime(); dtBlogDateTime.parseDateTime(“2003-07-17T00:19:05-05:00”);"
+    ],
+    "title": [
+      "Parsing a Date String into a DateTime Object In many scenarios, you can retrieve a string that represents a date. You can use the parseDateTime() method to parse the string into a DateTime object. The example method parses strings such as 2003-07-17T00:19:05-05:00"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "You then create a WebService object by calling the constructor and passing it the URL to the WSDL as a parameter. For example: var sWSDLURL:String = Æ “http://www.xmethods.net/sd/2001/CurrencyExchangeService.wsdl”; var wsExchangeRate:WebService = new WebService(sWSDLURL); 870 Part X ✦ Creating Flash Applications"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Define the URL to the WSDL you want to use. var sWSDLURL:String = Æ “http://www.xmethods.net/sd/2001/CurrencyExchangeService.wsdl”; // Create the WebService object. var wsExchangeRate:WebService = new WebService(sWSDLURL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "subfolders"
+      }
+    ],
+    "note": [
+      "setting, 529–530 (slice() method), 306–307 Flash Player settings, showing, 530–531"
+    ],
+    "title": [
+      "Actions toolbox, 73 statement, ActionScript, 116–117 submitting data System class basic, 877 client computer capabilities, determining with LoadVars object, 877–878 audio and video, 533–534 with WebService class, 880–881 described, 532–533 with XML, 878–879 screen and resolution information, 535–536 subsets versions, 534–535 extracting array class, creating from existing clipboard contents"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "installing, 858 angles, calculating, 330–331, 332 hyperlinks drawing, 272–273 adding to text (url property), 449–450"
+    ],
+    "title": [
+      "trial software, 890–891 external files, embedding in text, 415 triangle Flash Remoting gateway"
+    ],
+    "type": null
+  }
+]
