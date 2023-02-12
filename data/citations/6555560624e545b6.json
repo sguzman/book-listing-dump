@@ -1,0 +1,41 @@
+[
+  {
+    "note": [
+      "define(‘SQL_HOST’,’yourhost’); define(‘SQL_USER’,’joeuser’); define(‘SQL_PASS’,’yourpass’); define(‘SQL_DB’,’yourdatabase’); define(‘ADMIN_E-MAIL’, ‘your@e-mailaddress.com’);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "mysql_select_db(SQL_DB,$conn);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "mysql_select_db(SQL_DB,$conn);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "define(‘SQL_HOST’,’yourhost’); define(‘SQL_USER’,’joeuser’); define(‘SQL_PASS’,’yourpass’); define(‘SQL_DB’,’yourdatabase’); define(‘ADMIN_E-MAIL’, ‘your@e-mailaddress.com’);"
+    ],
+    "title": [
+      "How It Works You first file, config.php, contains just five lines"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "mysql_select_db(SQL_DB,$conn);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "mysql_select_db(SQL_DB,$conn);"
+    ],
+    "type": null
+  }
+]
