@@ -1,0 +1,860 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Expression"
+    ],
+    "date": [
+      "enumerate"
+    ],
+    "title": [
+      "Let keyResult be ? ForIn/OfHeadEvaluation(« »"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "ForIn/OfBodyEvaluation(ForBinding, Statement, keyResult, enumerate, varBinding, labelSet"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "AssignmentExpression, iterate)."
+    ],
+    "title": [
+      "Let keyResult be ? ForIn/OfHeadEvaluation(« »"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "ForIn/OfBodyEvaluation(LeftHandSideExpression, Statement, keyResult, iterate, assignment, labelSet"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AssignmentExpression, iterate)."
+    ],
+    "title": [
+      "ForInOfStatement : for ( var ForBinding of AssignmentExpression ) Statement 1. Let keyResult be ? ForIn/OfHeadEvaluation(« »"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "ForIn/OfBodyEvaluation(ForBinding, Statement, keyResult, iterate, varBinding, labelSet"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AssignmentExpression, iterate). 2. Return ? ForIn/OfBodyEvaluation(ForDeclaration, Statement, keyResult, iterate, lexicalBinding, labelSet)."
+    ],
+    "title": [
+      "ForInOfStatement : for ( ForDeclaration of AssignmentExpression ) Statement 1. Let keyResult be ? ForIn/OfHeadEvaluation(BoundNames of ForDeclaration"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "AssignmentExpression"
+    ],
+    "note": [
+      "Return ? ForIn/OfBodyEvaluation(LeftHandSideExpression, Statement, keyResult, iterate, assignment, labelSet, async)."
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "ForInOfStatement : for await ( LeftHandSideExpression of AssignmentExpression ) Statement 1. Let keyResult be ? ForIn/OfHeadEvaluation(« »"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "container-title": [
+      "AssignmentExpression"
+    ],
+    "note": [
+      "Return ? ForIn/OfBodyEvaluation(ForBinding, Statement, keyResult, iterate, varBinding, labelSet, async)."
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "ForInOfStatement : for await ( var ForBinding of AssignmentExpression ) Statement 1. Let keyResult be ? ForIn/OfHeadEvaluation(« »"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let t be ? thisTimeValue(this value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "genre": [
+      "3."
+    ],
+    "publisher": [
+      "Return DateFromTime(t"
+    ],
+    "title": [
+      "If t is NaN, return NaN"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let t be ? thisTimeValue(this value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "genre": [
+      "3."
+    ],
+    "publisher": [
+      "Return YearFromTime(t"
+    ],
+    "title": [
+      "If t is NaN, return NaN"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let F be the active function object"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If F.[[AlreadyCalled]] is true, return undefined"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Set F.[[AlreadyCalled]] to true"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Let index be F.[[Index"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Let errors be F.[[Errors"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "Let promiseCapability be F.[[Capability]]."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Let remainingElementsCount be F.[[RemainingElements"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Set errors[index] to x"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Set remainingElementsCount.[[Value]] to remainingElementsCount.[[Value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "If remainingElementsCount.[[Value]] is 0, then"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The \"length\" property of a Promise.any reject element function is 1F"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WhiteSpace LineTerminator Comment CommonToken RightBracePunctuator RegularExpressionLiteral InputElementRegExpOrTemplateTail :: WhiteSpace LineTerminator Comment CommonToken RegularExpressionLiteral TemplateSubstitutionTail InputElementTemplateTail :: WhiteSpace LineTerminator Comment CommonToken DivPunctuator TemplateSubstitutionTail"
+    ],
+    "title": [
+      "SourceCharacter :: any Unicode code point InputElementDiv :: WhiteSpace LineTerminator Comment CommonToken DivPunctuator RightBracePunctuator InputElementRegExp"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "MultiLineCommentChars :: MultiLineNotAsteriskChar MultiLineCommentCharsopt * PostAsteriskCommentCharsopt PostAsteriskCommentChars :: MultiLineNotForwardSlashOrAsteriskChar MultiLineCommentCharsopt * PostAsteriskCommentCharsopt"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "NumericLiteralSeparator :: _ NumericLiteral :: DecimalLiteral DecimalBigIntegerLiteral NonDecimalIntegerLiteral[+Sep] NonDecimalIntegerLiteral[+Sep] BigIntLiteralSuffix DecimalBigIntegerLiteral :: 0 BigIntLiteralSuffix"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "StringLiteral"
+      }
+    ],
+    "location": [
+      "DoubleStringCharactersopt"
+    ],
+    "title": [
+      ""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "TemplateSubstitutionTail"
+      }
+    ],
+    "title": [
+      "TemplateMiddle TemplateTail TemplateMiddle :: } TemplateCharactersopt ${"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "PropertyName"
+      }
+    ],
+    "note": [
+      "Await] : [ AssignmentExpression[+In, ?Yield, ?Await] "
+    ],
+    "title": [
+      ": LiteralPropertyName ComputedPropertyName[?Yield, ?Await] LiteralPropertyName : IdentifierName StringLiteral NumericLiteral ComputedPropertyName[Yield"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "CallMemberExpression"
+      }
+    ],
+    "title": [
+      ": MemberExpression[?Yield, ?Await] Arguments[?Yield, ?Await"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "IdentifierName",
+        "given": "OptionalChain]"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "LexicalBinding"
+      }
+    ],
+    "note": [
+      "?Yield, ?Await] VariableStatement[Yield, Await] : var VariableDeclarationList[+In, ?Yield, ?Await] ;"
+    ],
+    "title": [
+      ": BindingIdentifier[?Yield, ?Await] Initializer[?In, ?Yield, ?Await] opt BindingPattern[?Yield, ?Await] Initializer[?In"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "WhileStatement"
+      }
+    ],
+    "director": [
+      {
+        "literal": "Expression[+In, ?Yield, ?Await] ) Statement[?Yield, ?Await, ?Return] ForStatement[Yield, Await, Return"
+      }
+    ],
+    "note": [
+      ": for ( [lookahead ≠ let [] Expression[~In, ?Yield, ?Await] opt ; Expression[+In, ?Yield, ?Await] opt ;"
+    ],
+    "title": [
+      ": while"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Expression"
+      }
+    ],
+    "publisher": [
+      "Statement[?Yield, ?Await, ?Return"
+    ],
+    "title": [
+      "?Await] opt"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "BreakStatement[Yield, Await] : break ;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "WithStatement"
+      }
+    ],
+    "director": [
+      {
+        "literal": "Expression[+In, ?Yield, ?Await] ) Statement[?Yield, ?Await, ?Return] SwitchStatement[Yield, Await, Return"
+      }
+    ],
+    "note": [
+      ": switch ( Expression[+In, ?Yield, ?Await] ) CaseBlock[?Yield, ?Await, ?Return"
+    ],
+    "title": [
+      ": with"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Expression",
+        "particle": "case"
+      }
+    ],
+    "note": [
+      "Return] : default : StatementList[?Yield, ?Await, ?Return] opt LabelledStatement[Yield, Await, Return] : LabelIdentifier[?Yield, ?Await] : LabelledItem[?Yield, ?Await, ?Return"
+    ],
+    "title": [
+      ": StatementList[?Yield, ?Await, ?Return] opt DefaultClause[Yield, Await"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AsyncArrowHead : async [no LineTerminator here] ArrowFormalParameters[~Yield, +Await"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ModuleBody",
+        "given": "ModuleBodyopt"
+      }
+    ],
+    "note": [
+      "ImportDeclaration : import ImportClause FromClause ;"
+    ],
+    "title": [
+      "ModuleItemList ModuleItemList : ModuleItem ModuleItemList ModuleItem ModuleItem : ImportDeclaration ExportDeclaration StatementListItem[~Yield, ~Await, ~Return"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "A.6"
+    ],
+    "container-title": [
+      "Number Conversions StringNumericLiteral ::: StrWhiteSpaceopt StrWhiteSpaceopt StrNumericLiteral StrWhiteSpaceopt StrWhiteSpace ::: StrWhiteSpaceChar StrWhiteSpaceopt StrWhiteSpaceChar ::: WhiteSpace LineTerminator StrNumericLiteral ::: StrDecimalLiteral NonDecimalIntegerLiteral[~Sep] StrDecimalLiteral ::: StrUnsignedDecimalLiteral + StrUnsignedDecimalLiteral"
+    ],
+    "type": "chapter"
+  },
+  {
+    "location": [
+      "NumericLiteral"
+    ],
+    "publisher": [
+      "DecimalLiteral DecimalBigIntegerLiteral"
+    ],
+    "title": [
+      "The syntax and semantics of 12.8.3 is extended as follows except that this extension is not allowed for strict mode code"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "LegacyOctalLikeDecimalIntegerLiteral NonOctalDigit NonOctalDecimalIntegerLiteral DecimalDigit LegacyOctalLikeDecimalIntegerLiteral :: 0 OctalDigit LegacyOctalLikeDecimalIntegerLiteral OctalDigit"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "publisher": [
+      "REVERSE SOLIDUS"
+    ],
+    "title": [
+      "Let A be the CharSet containing the single character \\ U+005C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "CharacterSetMatcher(A, false, direction"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "3."
+    ],
+    "note": [
+      "Return ! CharacterSetMatcher(A, false, direction)."
+    ],
+    "title": [
+      "The production ExtendedAtom :: ExtendedPatternCharacter evaluates as follows: 1. Let ch be the character represented by ExtendedPatternCharacter. 2. Let A be a one-element CharSet containing the character ch"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CharacterEscape (22.2.2.10) includes the following additional evaluation rule"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D",
+        "given": "Return",
+        "particle": "the union of"
+      },
+      {
+        "family": "NonemptyClassRangesNoDash",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Let D be !"
+    ],
+    "date": [
+      "22.2.2.16"
+    ],
+    "issue": [
+      "aracterRangeOrUnion(A, B). 5"
+    ],
+    "note": [
+      "modifies the following evaluation rule: The production NonemptyClassRangesNoDash :: ClassAtomNoDash - ClassAtom ClassRanges evaluates as follows: 1. Evaluate ClassAtomNoDash to obtain a CharSet A. 2. Evaluate ClassAtom to obtain a CharSet B. 3. Evaluate ClassRanges to obtain a CharSet C. 4. Let D be ! CharacterRangeOrUnion(A, B)."
+    ],
+    "title": [
+      "NonemptyClassRanges (22.2.2.15) modifies the following evaluation rule: The production NonemptyClassRanges :: ClassAtom - ClassAtom ClassRanges evaluates as follows: 1. Evaluate the first ClassAtom to obtain a CharSet A. 2. Evaluate the second ClassAtom to obtain a CharSet B. 3. Evaluate ClassRanges to obtain a CharSet C. 4"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Return the union of D and C"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Return the CharSet containing the single character \\ U+005C"
+    ],
+    "publisher": [
+      "REVERSE SOLIDUS"
+    ],
+    "title": [
+      "ClassAtomNoDash (22.2.2.18) includes the following additional evaluation rule: The production ClassAtomNoDash :: \\ [lookahead = c] evaluates as follows: 1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let t be ? thisTimeValue(this value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If t is NaN, return NaN"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "YearFromTime",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "pages": [
+      "– 1900"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The function object that is the initial value of Date.prototype.toGMTString is the same function object that is the initial value of Date.prototype.toUTCString Date.prototype.toUTCString"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "H Bibliography 1. IEEE 754-2019: IEEE Standard for Floating-Point Arithmetic"
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronic Engineers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NOTE There are no normative changes between IEEE 754-2008 and IEEE 754-2019 that affect the ECMA-262 specification"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "The Unicode Standard, available at <https://unicode.org/versions/latest>"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Unicode Technical Note #5: Canonical Equivalence in Applications"
+    ],
+    "note": [
+      "available at"
+    ],
+    "type": "chapter",
+    "url": [
+      "https://unicode.org/notes/tn5/"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Technical Standard #10: Unicode Collation Algorithm"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr10/"
+    ]
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Standard Annex #15, Unicode Normalization Forms"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr15/"
+    ]
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Standard Annex #18: Unicode Regular Expressions"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr18/"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Standard Annex #24: Unicode Script Property"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr24/"
+    ]
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Standard Annex #31, Unicode Identifiers and Pattern Syntax"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr31/"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Standard Annex #44: Unicode Character Database"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr44/"
+    ]
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Unicode Technical Standard #51: Unicode Emoji"
+    ],
+    "type": null,
+    "url": [
+      "https://unicode.org/reports/tr51/"
+    ]
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "IANA Time Zone Database, available at <https://www.iana.org/time-zones>"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "title": [
+      "ISO 8601:2004(E) Data elements and interchange formats — Information interchange — Representation of dates and times"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1738"
+    ],
+    "doi": [
+      "(URL)”,"
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "Uniform Resource Locators"
+    ],
+    "type": null,
+    "url": [
+      "https://tools.ietf.org/html/rfc1738"
+    ]
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "location": [
+      "URI"
+    ],
+    "note": [
+      "available at"
+    ],
+    "publisher": [
+      "Generic Syntax”"
+    ],
+    "title": [
+      "RFC 2396 “Uniform Resource Identifiers"
+    ],
+    "type": null,
+    "url": [
+      "https://tools.ietf.org/html/rfc2396"
+    ]
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "RFC 3629 “UTF-8, a transformation format of ISO 10646”"
+    ],
+    "type": null,
+    "url": [
+      "https://tools.ietf.org/html/rfc3629"
+    ]
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "note": [
+      "available at"
+    ],
+    "title": [
+      "RFC 7231 “Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content”"
+    ],
+    "type": null,
+    "url": [
+      "https://tools.ietf.org/html/rfc7231"
+    ]
+  }
+]

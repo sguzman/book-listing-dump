@@ -1,0 +1,96 @@
+[
+  {
+    "title": [
+      "std::cout << *pstar5 << std::endl; // Outputs 'B'"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "day_records->push_back"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "int main() std::string words[] {\"The\", \"quick\", \"brown\", \"fox\", \"jumps\"}; Stack<std::string> wordStack; // A stack of strings"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "// Reverse wordStack onto"
+    ],
+    "issue": [
+      "ile(!wordStack.isEmpty()) newStack.push(wordStack.pop())"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "title": [
+      "std::cout << std::endl << \"Enter a line of text:\" << std::endl; std::string text; std::getline(std::cin, text); // Read a line into the string object"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::cout << std::endl; while (!characters.isEmpty()) std::cout << characters.pop(); // Pop the characters off the stack std::cout << std::endl"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "numbers); removeEvenNumbers(numbers); printVector(\"The numbers that were kept\", numbers);"
+    ],
+    "title": [
+      "auto numbers{ fillVector_1_to_N(num_numbers) }; printVector(\"The original set of numbers\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "for (int number : numbers) std::cout << number << ' ';"
+    ],
+    "title": [
+      "std::cout << message << \": \""
+    ],
+    "type": null,
+    "url": [
+      "std::cout << std::endl;"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "std",
+        "given": "vector<std"
+      },
+      {
+        "family": "Baggins\"",
+        "particle": "string> names{\"Frodo"
+      }
+    ],
+    "container-title": [
+      "\"Aragon\", \"Samwise Gamgee\", \"Peregrin Took\""
+    ],
+    "publisher": [
+      "\"Meriadoc Brandybuck\", \"Gimli\", \"Legolas Greenleaf\", \"Boromir\"}"
+    ],
+    "title": [
+      "Gandalf the Gray\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "<< std::endl; for (const auto& name : names) std::cout << name << \", \"; std::cout << std::endl;"
+    ],
+    "title": [
+      "// Sort the names by length std::sort(begin(names), end(names), [](const auto& left, const auto& right) {return left.length() < right.length(); }); std::cout << \"Names sorted by length"
+    ],
+    "type": null
+  }
+]

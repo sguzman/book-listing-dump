@@ -1,0 +1,43 @@
+[
+  {
+    "author": [
+      {
+        "family": "Action",
+        "given": "O.",
+        "particle": "save"
+      }
+    ],
+    "container-title": [
+      "Ant"
+    ],
+    "note": [
+      "Cavaness), 274 in JSPs pitfall, 215–217 properties file, introduce, 245–248 call sequence before and after PropertyUtils, 78 solution, 89–90 console-based testing pitfall, 29–33 R copy-and-paste reuse pitfall, Ant, Range.java, 133 237–242 redirectors, 2–3 copy/paste code in Actions pitfall, refactor, 86–87 173–181 copy/paste conversion pitfall, strings, hard-coded, 199–202 101–118 Struts copy/paste formatting pitfall, framework, 68"
+    ],
+    "pages": [
+      "134 251–256"
+    ],
+    "title": [
+      "155–157 options values, move to helper class, SaveInvoiceAction, 170–171, 225–228 175–176, 180–181, 231 options.java, 226–227 scatter, 68, 70, 78 overloaded ActionMappings pitfall ServiceLocator class, 159, 161 about, 192, 267 ServiceLocator.java, 161–163 example, 192–195 ServletTestRedirector, 2 solution, 195–196 session, 251 Session Bean, 150–151, 216 P session code, 239–240 perform business logic in JSPs pitfall session.jar, 235 about, 218–219, 268 setFormatter(), 127 example, 219–220 setUp methods, 50–54 move business logic to helper class, ShoppingCartCactusTest, 16–17 220–223 simplify test method pitfall, 38–44 solution, 220–223 solutions populate(), 78, 109 access ActionForms in session populate() method, 129 pitfall, 187–191 Populate servlet, 31–33 build subprojects pitfall",
+      "population code, consolidate and business-tier code in Actions generalize, 101–118 pitfall, 157–171 Programming Jakarta Struts calculation of derived values"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "populateProperty(), 128"
+    ]
+  },
+  {
+    "citation-number": [
+      "74–95"
+    ],
+    "note": [
+      "266 not using Struts Tags for error overloaded ActionMappings messaging pitfall, 210–213 pitfall, 192–196 overloaded ActionMappings Struts in Action (Husted), 274 pitfall, 195–196 Struts TagLibs and JSPs performing business logic in JSPs about, 197–198 pitfall, 220–223 calculating derived values in JSPs with setUp and tearDown pitfall, 214–217 methods, 50–54 hard-coded keys in JSPs pitfall, System.out Becomes assert 203–208 solution, 28 hard-coded options in HTML select test decorators, 55–57 lists pitfall, 224–228 unreasonable assert pitfall, 23 hard-coded strings in JSPs pitfall,"
+    ],
+    "pages": [
+      "230–232 172–181,"
+    ],
+    "title": [
+      "references, 274 copy/paste validation pitfall, Web site, 274–275 123–145 Struts ActionForms failure to isolate each test pitfall, about, 67–69, 182 50–57 accessing ActionForms in session failure to isolate subject pitall, pitfall, 182–191 62–65 ActionForm locator method, hard-coded keys in JSPs pitfall, adding to base class, 187–191 204–208 copy/paste conversion pitfall, hard-coded options in HTML select 96–118, 265 lists pitfall, 225–228 copy/paste formatting pitfall, hard-coded strings in JSPs pitfall, 70–95, 265 201–202 copy/paste validation pitfall, Mock Objects Pattern, 62–65 119–145, 265–266 no assert pitfall, 9–19 Struts Actions no distinction between different about, 147–148 types of builds pitfall, Ant, accessing ActionForms in session 245–248 pitfall, 182–191 no logging from custom tasks business-tier code in Actions pitfall, Ant, 259–262 pitfall, 149–171, 266 not checking for duplicate form copy/paste code in Actions pitfall, submissions pitfall"
+    ],
+    "type": null
+  }
+]
