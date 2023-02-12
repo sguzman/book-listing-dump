@@ -1,0 +1,29 @@
+[
+  {
+    "container-title": [
+      "VK_TRUE"
+    ],
+    "note": [
+      "assert(!error); vkDestroyFence(deviceObj->device, fence, nullptr);"
+    ],
+    "title": [
+      "error = vkWaitForFences(deviceObj->device, 1, &fence"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10000000000"
+    ]
+  },
+  {
+    "title": [
+      "For more information on fences, refer to the Understanding synchronization primitives in Vulkan section in Chapter 9, Drawing Objects"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "samplerCI.compareOp = VK_COMPARE_OP_NEVER; samplerCI.minLod = 0.0f; samplerCI.maxLod = (float)texture->mipMapLevels; samplerCI.borderColor = VK_BORDER_COLOR_FLOAT_OPAQUE_WHITE; samplerCI.unnormalizedCoordinates = VK_FALSE"
+    ],
+    "type": null
+  }
+]
