@@ -1,0 +1,360 @@
+[
+  {
+    "container-title": [
+      "§ ANSI/ISO/IEC 9075-1-1999 Information Technology - Database Language - SQL Part 1"
+    ],
+    "note": [
+      "Framework (SQL/Framework"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.S.I./I.S.O./I.E.C."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "note": [
+      "Foundation (SQL/Foundation"
+    ],
+    "title": [
+      "Information Technology - Database languages - SQL - Part 2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.S.I./I.S.O./I.E.C."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "note": [
+      "Call-level Interface (SQL/CLI"
+    ],
+    "title": [
+      "Information Technology - Database Languages - SQL - Part 3"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.S.I./I.S.O./I.E.C."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "note": [
+      "Persistent Stored Modules (SQL/PSM"
+    ],
+    "title": [
+      "Information Technology - Database languages - SQL - Part 4"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "§ ANSI/ISO/IEC 9075-5-1999 Information Technology - Database Languages - SQL - Part 5"
+    ],
+    "note": [
+      "Host Language Bindings (SQL/Bindings"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "as shown here: SELECT * FROM Contact_Info WHERE Last_Name = 'Corleone' AND ( City = 'New York' OR State = 'NJ' ); The NOT operator is used to reverse the result of a comparison as in this example: SELECT * FROM Contact_Info WHERE Last_Name ="
+    ],
+    "location": [
+      "Corleone",
+      "New York"
+    ],
+    "note": [
+      "); Arithmetic operators"
+    ],
+    "publisher": [
+      "AND NOT ( City =",
+      "OR State = 'NJ'"
+    ],
+    "title": [
+      "Like arithmetic operators, logical operators can be combined using parentheses (("
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      "484–486"
+    ],
+    "title": [
+      "implementation, 484-486 source code"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "487–489"
+    ],
+    "title": [
+      "XMLDBTest class XML database creation source code, 510-511 XMLDriver class implementation, 482-483 source code, 483 XMLQuery class, 500-502 source code, 500-502 XMLResultSet class implementation, 489-495 source code, 490-512 XMLResultSetMetaData class implementation, 496-497 source code, 496-497 XMLStatement class implementation, 486-489 source code"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– 672 –"
+    ],
+    "publisher": [
+      "Team-Fly® List of Figures"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Table 1-2: Customers Table Table 1-3: Inserting NULLs into a Table Table 1-4: Inventory Table Table 1-5: Ordered Items Table"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table 1-9: Inventory Table in 2NF Table 1-10: Warehouse Table in 2NF Table 1-11: Employee Table Table 1-12: Normalised Employee Table Table 1-13: Departments Table Table 1-14: Phone Numbers Table which violates 4NF Table 1-15: Phone Numbers Table Table 1-16: SalesPersons Table 1-17: SalesPersons by Vendor Table 1-18: SalesPersons by Product Table 1-19: Products by Vendor"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 2: Designing a Database Table 2-1: Address_Info Table"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table 2-5: Billable Items Table Table 2-6: Client Matter Table Table 2-7: Billing Rates Table"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table 3-1: Standard SQL Data Types with Their Java Equivalents Table 3-2: DDL Commands Table 3-3: Part of a Database Table Table 3-4: The CUSTOMERS Table Table 3-5: Results of a Lexical String Comparison Table 3-6: Inventory Table 3-7: Calculated Result Fields Table 3-8: Top n Records Table 3-9: Records Sorted Using ORDER BY Table 3-10: Customer Table"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table 4-4: ResultSet Update Methods"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 7: Retrieving Data withSQL Queries Table 7-1: The CONTACT_INFO Table"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table 7-2: ResultSet Containing the TOP 25 Percent of the Table Table 7-3: Inventory"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 9: Joins and Compound Queries Table 9-1: Customer Table Table 9-2: Inventory Table Table 9-3: Orders Table Table 9-4: Ordered Items Table Chapter 10: Building a Client/Server Application Table 10-1: Columns Returned by getTables() Table 10-2: Column Information Provided by getColumns() Table 10-3: ResultSetMetaData Methods Table 10-4: Formatting a ResultSet using ResultSetMetaData Chapter 11: Building a Membership Web Site Table 11-1: Login Table Table 11-2: Contact_Info Table Table 11-3: Product_Info Table"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table 21-1: Sample Data Stored in the Member Table Table 21-2: Database-access Operations in MemberBean Chapter 22: Container-Managed Persistence Table 22-1: Sample Data Stored in Yacht Table"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "LEDES 2000 sample invoice Chapter 3: SQL Basics Listing 3-1: CREATE TABLE Statement"
+    ],
+    "title": [
+      "List of Listings Chapter 2: Designing a Database Listing 2-1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Listing 4-2: Using a PreparedStatement Listing 4-3: Creating and using a stored procedure Listing 4-4: Stored procedure with input and output parameters Listing 4-5: Getting an output parameter from a stored procedure Listing 4-6: Retrieving a ResultSet Listing 4-7: Scrollable ResultSet Listing 4-8: Opening an updatable ResultSet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 4-9: Using UpdatableResultSet to insert a new row Listing 4-10: Using ResultSetMetaData"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TableBuilderFrame Listing 5-9: DatabaseUtilities — the JDBC code"
+    ],
+    "title": [
+      "Listing 5-2: Altering a table using JDBC Listing 5-3: Swing-based Table Builder — the main JFrame Listing 5-4: DBMenu (the base class for TableMenu) Listing 5-5: DBMenuItem (a convenience class for easy JMenuItem creation) Listing 5-6: Table Menu Listing 5-8"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TableEditFrame Listing 6-6: DatabaseManager — Controller class"
+    ],
+    "title": [
+      "Chapter 6: Inserting, Updating,and Deleting Data Listing 6-1: Using INSERT with JDBC List of Listings Listing 6-2: Using INSERT ... SELECT with JDBC Listing 6-3: Using UPDATE with JDBC Listing 6-4: Edit menu with insert, update, and delete items Listing 6-5"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 6-7: DatabaseUtilities — JDBC code"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TableQueryFrame Listing 7-4: DBManager Listing 7-5: DatabaseUtilities"
+    ],
+    "title": [
+      "Chapter 7: Retrieving Data withSQL Queries Listing 7-1: Data Retrieval using JDBC Listing 7-2: View menu with ResultSet item Listing 7-3"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 10-1: The Window Menu Listing 10-2: Status Panel TE Listing 10-3: The DBManager class Listing 10-4: Retrieving table types Listing 10-5: Retrieving tables Listing 10-6: Retrieving column data"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 10-7: Displaying DatabaseMetaData in a JTree Listing 10-8: Retrieving information about the RDBMS Listing 10-9: Using ResultSetMetaData Chapter 11: Building a Membership Web Site Listing 11-1: Generic form handling using an enumeration"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 12: Using JDBC DataSources with Servlets and Java Server Pages Listing 12-1: A simple servlet Listing 12-2: Using HTML to create a basic login form"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "-"
+      }
+    ],
+    "pages": [
+      "– 682"
+    ],
+    "title": [
+      "Team-Fly® List of Listings Listing 12-3: Login servlet Listing 12-4: A login form using JSP Listing 12-5: Using a JSP page to display CGI parameters Listing 12-6: Using a JSP with the <jsp:useBean/> tag Listing 12-7: Simple JavaBean illustrating getter and setter methods Listing 12-8: ProcessLogin.jsp Listing 12-9: LoginBean Chapter 13: Using PreparedStatements and CallableStatements Listing 13-1: Using a PreparedStatement"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ProcessNAForm.jsp modified for use as an error page"
+    ],
+    "title": [
+      "Listing 13-2: Using a PreparedStatement in a loop Listing 13-3: Creating a stored procedure Listing 13-4: Calling a stored procedure that returns a ResultSet Listing 13-5: Registration form NewMemberForm.jsp Listing 13-6: ProcessNAForm.jsp Listing 13-7: Calling a stored procedure from a JavaBean Listing 13-8"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 13-9: Using an output parameter with a stored procedure Listing 13-10: Getting an output parameter from a stored procedure"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Creating a Blob-based and Clob-based Web page using frames"
+    ],
+    "title": [
+      "Chapter 14: Using Blobs and Clobs to Manage Images and Documents Listing 14-1: Inserting a Blob into a table Listing 14-2: Saving a Clob to an RDBMS using a FileReader Listing 14-3: HTML file-upload form Listing 14-4: Blob upload test servlet Listing 14-5: Edited view of the multipart data stream Listing 14-6: Ouput of the BlobUploadServlet Listing 14-7: Uploading images using a Blob upload servlet Listing 14-8: A servlet that retrieves large objects Listing 14-9"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "JavaBean that returns a ResultSet as XML Listing 15-8: JSP page using a JavaBean to display a ResultSet as XML"
+    ],
+    "title": [
+      "Chapter 15: Using JSPs, XSL, and Scrollable ResultSets to Display Data Listing 15-1: SQL stored procedure to return matching database items List of Listings Listing 15-2: JSP page that loads a JavaBean to query the database Listing 15-3: JavaBean to handle database query from a JSP page Listing 15-4: Search-results page JSP Listing 15-5: Applying an XSL transform Listing 15-6: Stored procedure for detail page Listing 15-7"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 15-9: ResultSet formatted as XML Listing 15-9: XSL stylesheet Listing 15-10: Applying an XSL stylesheet in a JSP page Listing 15-11: XSL transform bean Listing 15-12: Creating a different Web page from the same XML Listing 15-13: JSP to process the database update form Listing 15-14: Updatable ResultSet bean"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "XML TimeStamp generated and serialized using Xbeans Listing 17-7: Creating an XML document using a SQL query Listing 17-8: Using the SQLQueryBean"
+    ],
+    "title": [
+      "Chapter 16: Using the JavaMail API with JDBC Listing 16-1: Sending e-mail by using the JavaMail API and JDBC Listing 16-2: A JSP page for use with the SendMailBean Listing 16-3: Reading e-mail using JavaMail and saving it to a database Chapter 17: The XML Document Object Model and JDBC Listing 17-1: XML example Listing 17-2: XBean base class Listing 17-3: SerializerBean Listing 17-4: SystemTime bean Listing 17-5: Using Xbeans to create an output of an XML document Listing 17-6"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 17-9: DOM document serialized from the Customer Table Listing 17-10: XML top stories headline format from Moreover.com Listing 17-11: SQLInsertBean Listing 17-12: DOMParserBean List of Listings"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 18: Using Rowsets to Display Data Listing 18-1: Using a RowSet Listing 18-2: Making a RowSet scrollable Listing 18-3: Making a RowSet updatable Listing 18-4: Inserting a new row in an updatable RowSet Listing 18-5: Using RowSet events Listing 18-6: Stored procedure to retrieve contact data Listing 18-7: Executing a SQL query in a CachedRowSet Listing 18-8: Using a CachedRowSet Listing 18-9: Stored procedure to retrieve billable item data Listing 18-10: Writing XML with a WebRowSet Listing 18-11: XML generated by WebRowSet Listing 18-12: Generating XML using a CachedRowSet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 18-13: XML invoice elements"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 19: Accessing XML Documents Using SQL Listing 19-1: Customer data record in XML Listing 19-2: Typical implementation base class Listing 19-3: XMLDriver class Listing 19-4: XMLConnection class Listing 19-5: XMLStatement class Listing 19-6: The XMLResultSet class Listing 19-7: Scrollable ResultSet methods Listing 19-8: XMLResultSetMetaData class Listing 19-9: XMLCommand class Listing 19-10: XMLQuery class Listing 19-11: XMLWhereEvaluator class Listing 19-12: JDBC/XML database test code"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 19-13: XML database created using XMLDBTest class Listing 19-14: XMLResultSet Chapter 20: Enterprise JavaBeans List of Listings Listing 20-1: Remote interface of HelloEJB Listing 20-2: Home interface of HelloEJB Listing 20-3: HelloBean class"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 20-4: Deployment-descriptor files for HelloEJB Listing 20-5: JSP client Listing 20-6: Remote and Home interfaces of YachtSessionEJB Listing 20-7: YachtSessionEJB implementation class Listing 20-8: MessageEchoEJB source code"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 22-2: Remote interface of YachtEJB Listing 22-3: Implementation class of YachtEJB Listing 22-4: Deployment descriptor for YachtEJB Listing 22-5: YachtManager.jsp"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 23: Java Data Objects and Transparent Persistence Listing 23-1: A persistent class — Yacht Listing 23-2: XML MetaData file for the persistent class Yacht Listing 23-2: A test client for the persistent class Yacht Chapter 24: User Management and Database Security Listing 24-1: Working with groups Listing 24-2: Working with Users"
+    ],
+    "type": null
+  }
+]

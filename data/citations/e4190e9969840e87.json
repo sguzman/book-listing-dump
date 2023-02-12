@@ -1,0 +1,8 @@
+[
+  {
+    "note": [
+      "archive.write( reinterpret_cast<char*> (&day), sizeof(day)); archive.write( reinterpret_cast<char*> (&month), sizeof(month)); archive.write( reinterpret_cast<char*> (&month), sizeof(year)); return archive; ifstream& Date::Read(ifstream& archive) archive.read( reinterpret_cast<char*> (&day), sizeof(day)); archive.read( reinterpret_cast<char*> (&month), sizeof(month)); archive.read( reinterpret_cast<char*> (&month), sizeof(year)); return archive;"
+    ],
+    "type": null
+  }
+]
