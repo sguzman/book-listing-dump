@@ -1,0 +1,210 @@
+[
+  {
+    "author": [
+      {
+        "family": "rs",
+        "given": "Snapshot"
+      }
+    ],
+    "note": [
+      "Y=Year, M=Month, D=Day, T=time from this point on, H=Hour, m=Minute and S=Second). Example January 1, 2006 at 2:05:03 AM = 2006-01-01T02:05:03."
+    ],
+    "title": [
+      "This parameter renders a snapshot to the Report Server. This is a good option for particularly complex reports that a lot of users access. The value for this parameter is a timestamp in the format YYYY-MM-DDThh:mm:ss"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "http://hostname/ReportServer/SimpleReport?/SimpleReport&rs:Snapshot=2005-06-07T13:"
+    ]
+  },
+  {
+    "title": [
+      "Dim devInfo As String = “<DeviceInfo><OmitDocumentMap>true</OmitDocumentMap>” & _ “<OmitFormulas>true</OmitFormulas><RemoveSpace>0.5</RemoveSpace> “<RemoveSpace>false</RemoveSpace></DeviceInfo>"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Dim devInfo As String = “<DeviceInfo><HTMLFragment>true</HTMLFragment>” & _ “<JavaScript>true</JavaScript><StyleStream>0.5</StyleStream>” & _ “<StreamRoot>/ReportServer/Resources/</StreamRoot></DeviceInfo>"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Dim devInfo As String = “<DeviceInfo><DpiX>200</DpiX>” & _ “<DpiY>300</DpiY><StartPage>1</StartPage><EndPage>10</EndPage>” & _ “<OutputFormat>JPEG</OutputFormat></DeviceInfo>"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Dim devInfo As String = “<DeviceInfo>StartPage>1</StartPage>” & _ “<EndPage>10</EndPage></DeviceInfo>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Enum",
+        "given": "SystemDataSqlClientSqlNotificationAuthType"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "A.C.I.D (atomicity/consistency/isolation/durability), transactions"
+    ],
+    "note": [
+      "application definition file), Notification Services, AdsParameterCollection class, data 351–352 providers, 212 ADO (ActiveX Data Objects), development history, AdsProvider property, data providers, 205, 206 8–10 aggregate functions, CLR (Common Language Run-ADO.NET time) Objects, 321–323 Command object, 11 ALERT QUEUE statement, message queues, 378 Connection object, 11 alerts, Ingres, 494 constants/enums listing, 549–584 anchors, queries, 253–254 data types, 109–116 APIs, legacy support issues, 40–42 DataAdapter object, 11 application definition file (ADF), Notification Services, DataReader object, 11 351–356 applications, instance configuration file applications, instance configuration file, 351–352 backups architecture MaxDB, 480 CLR (Common Language Runtime) Objects, 328–329 queues, 378 Firebird, 486–487 batch updating, ADO support, 9 Generic Factory Model providers, 44–45 BCP (Bulk Copy Program), data migration, 29 legacy data access model, 43–44 BeginExecuteNonQuery() method, asynchronous archives, data deletion protection method, 35 commands, 267–269 arrays, Oracle, 526–529 BeginExecuteReader() method, asynchronous ASP.NET commands, 269–271 asynchronous operations, 272–276 BeginExecuteXMLReader() method, asynchronous change notification, 539–543 commands, 271–272 SqlCacheDependency object, 293–295, 538–543 BeginTransaction() method, data providers, 209 ASP.NET 1.x, data binding, 163–164 BerkeleyDB ASP.NET 2.0 concurrency, 503"
+    ],
+    "pages": [
+      "140–141"
+    ],
+    "title": [
+      "development history, 11–12 Abstract Factory model, ADO.NET 2, 35–37 Generic Factory Model, 42–47 accent sensitivity, query results ranking, 421 interfaces, 35–36 Accumulate() method, aggregate functions, 322 legacy API support, 40–42 acronyms, naming convention avoidance, 15 schema metadata system, 67–77 Active Directory AdsCommand class, data providers, 211–219 provider shortcomings, 201 AdsConnectionStringBuilder class, data versus user properties, 221–226 providers, 209–211 ActiveX Data Objects (ADO), development history, AdsDataAdapter class, data providers, 228–231 8–10 AdsDataReader class, data providers, 219–228 AddNewCustomer procedure, Service Broker, 382 AdsFactory class, data providers, 231–232 ADF"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Service Broker"
+    ],
+    "note": [
+      "526 method, 307 Oracle, 523–526 CREATE TYPE command, CLR mapping method, 307 provider-specific issues, 66–67 Create() method, SMO Index() object, 336 status checking, 60–62 CreateCommand() objects, Generic Factory Model, 77 ConnectionString properties, data providers, CreateDbCommand() method, data providers, 208–209 204–205 CreateDbParameter() method, data providers, 215 ConnectionStringBuilder class, building connec- CreateParameter() method, adding parameters to tion strings, 53–60 an object, 79–80 ConnectionStringCollection class, connection CreatePermission() method, data providers, 232 strings, 54 CTEs (Common Table Expressions), T-SQL, 252–254 ConnectionTimeout property, data providers, 205 currency, data types, 102 constants, ADO.NET listing, 549–584 CURSOR data type, SQL Server, 108 constraints cursors, server-side, 480 MySQL, 473–474 customer sign-up, Service Broker service, 383–386 PostgreSQL, 498 CustomerInfoSchema, Service Broker, 376 constructors AdsDataAdapter class, 229–230 connection object, 204 D consumers DAO (Data Access Objects), development history, 6–7 data access, 6–12 data access layer OLE-DB workflow process, 5–6 consumers, 6–12 contacts development history, 2–4 SOAP, 447–448 industry support, 2 URL, 439–446 performance factor, 1"
+    ],
+    "pages": [
+      "377–378"
+    ],
+    "title": [
+      "Connection object, establishing/maintaining connec- context connections, CLR (Common Language Runtions, 11 time) Objects, 327–328 Connection property, data providers 213 contracts",
+      "connection objects controls constructors, 204 BindingList, 198 MARS (Multiple Active Result Sets), 276–278 BindingNavigator, 198 connection pooling, SQL Server, 279–280 BindingSource, 197–198 connection strings Data Source, 164–169 configuration file storage, 54 multi-version concurrency, 499 ConnectionStringBuilder class, 53–60 ObjectDataSource, 176–185 ConnectionStringCollection class, 54 SQLDataSource, 170–175 creation methods, 53–54 UI, 197–198 database, 306 conversions, XML/ADO.NET integration, 123–124 dynamic construction, 57 coordination, Service Broker element, 370 provider-specific string parameters, 57–60 CREATE AGGREGATE command, CLR mapping provider-specific types, 55–57 method, 307 retrieving, 54 CREATE ASSEMBLY statement, assembly SqlDataSource method, 431–432 deployment, 307 TableAdapter method, 187 CREATE ENDPOINT command, SQL Server, 344–345 connections CREATE FUNCTION command, CLR mapping context, 327–328 method, 307 database opening/closing, 60–62 CREATE PROCEDURE command, CLR mapping exception error information collection, 62–66 method, 307 exception management methods, 62–66 CREATE TRIGGER command, CLR mapping failover notification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "370"
+    ]
+  },
+  {
+    "container-title": [
+      "Data Access Objects (DAO), development history",
+      "ASP.NET"
+    ],
+    "issue": [
+      "0"
+    ],
+    "note": [
+      "event triggers, 313–314 Windows Forms, 192–196 Full-Text Search index setup, 407–408 data storage, legal issues, 35 data exchange, XML/ADO.NET integration, 119 data stores, BerkeleyDB, 503 data migration, SELECT statement, 29 Data Transformation Services (DTS), data migration, 29 data providers. See also providers data types Active Directory shortcomings, 201 ADO.NET, 109–116"
+    ],
+    "pages": [
+      "6–7",
+      "163–164 221–226",
+      "69–73"
+    ],
+    "title": [
+      "updating records, 217–218 data binding user objects, 212 ASP.NET 1.x, 163–164 user properties versus Active Directory properties",
+      "data source caching, 167–169 Data Source caching, when to use, 168–169 Data Source controls, 164–169 Data Source Configuration Wizard, data sources, data sources, 160–162 193–196 DataSource control generation, 189–190 Data Source controls DBDirect methods, 186–187 ASP.NET 2.0 data binding, 164 defined, 159 data caching, 167–169 ObjectDataSource control, 176–185 generating, 189–190 one-way versus two-way, 163 parameter passing, 165–167 parameter data validation, 166 Visual Studio 2005, 169–170 parameter passing, 165–167 Data Source window, interface elements, 192–196 provider-specific syntax issues, 175–176 data sources SQLDataSource control, 170–175 data binding, 160–162 TableAdapter method, 185–189 data retrieval, 81 typed DataSets, 185–186 Data Source Configuration Wizard, 193–196 Windows Forms, 191–198 distributed transactions, 145–154 Windows Forms versus Web applications, 159–160 listing available, 51–53 data concurrency, two-way data binding issues, 163 Reporting Services, 436–437 Data Definition Language (DDL) schema metadata system information"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "Notification Services"
+    ],
+    "genre": [
+      "device list, subscription management application, event providers,"
+    ],
+    "note": [
+      "events DeviceInfo object, ReportServer, 453–460 application definition file, 353, 356 devicelist.aspx file, subscription management DDL triggers, 263–264, 313–314 application, 360 firing, 367–368 dialogs, Service Broker component, 370 InfoMessage, 244–246 direct execution, SQL Server Management Objects Notification Services,",
+      "SMOs), 330 ObjectSourceData control, 178–179 DirectorySearcher class, data providers, 212 OnRowUpdating, 230 disconnected data access, ADO support, 9 Page_Load, 358 Dispose() method, data providers, 208, 228 SqlDependency class, 298 distributed data, Ingres, 493 StateChange, 207 Distributed Transaction Coordinator, performance moni- XML change notification, 133–134 toring, 149–150 exception codes, Firebird, 488 distributed transactions exception handling, T-SQL, 240–249 client-side, 145–146 exceptions flow-through, 156 error information collection, 62–66 IDBDataAdapter object, 150–153 management methods, 62–66 local data effects, 150–153 OracleException class, 533–534 versus local transactions, 141 provider-specific interaction, 64–65 multiple data source spanning, 145 EXECUTE AS function, Reporting Services, 429 nested transactions, 153–155 ExecuteNonQuery() method performance monitoring, 149–150 data providers, 217–218 System.Transactions namespace, 146–149 data source data retrieval, 81 TransactionScope object, 146–149 ExecuteReader() method, search results display, 81–82"
+    ],
+    "pages": [
+      "367–368",
+      "349 360–363",
+      "367–368"
+    ],
+    "publisher": [
+      "Notification Services"
+    ],
+    "title": [
+      "DbConnection property, data providers DbConnection property, data providers, 213 Web services, 155–156 DbDataSourceEnumerator() method, listing avail- workflow process, 147–149 able data sources, 52–53 distributors, Notification Service components, 350 DBDirect methods, data binding, 186–187 double quote (“) characters, quoted identifiers, 78–79 DbParameter, provider independent class, 44–45 DROP ENDPOINT command, SQL Server, 344–345 DbTransaction property, data providers, 214–215 DTS (Data Transformation Services), data migration, 29 DDL (Data Definition Language) event triggers, 313–314 Full-Text Search index setup, 407–408 E DDL CREATE ENDPOINT command, SQL Server, e-mail, sending service, 386–389 344–345 EnableSubscriber() method, adding/removing DDL triggers, T-SQL, 263–264 subscribers, 358–359 debugging EndExecuteNonQuery() method, asynchronous CLR (Common Language Runtime) Objects, 309–310 commands, 268–269 XSL, 125–126 enumerators DECIMAL (DEC and DEC(p,s)) data type, SQL Server, ADO.NET listing, 549–584 101–102 SQL Server, 278–279 Delete() method, removing subscribers, 359 error codes, Firebird, 488 delivery channels error tracing, ODP.NET, 534–535 distributor component, 350 errors instance configuration file, 352 exception information collection, 62–66 delivery protocols, distributor component, 350 Oracle, 533–534 Dense_Rank() function, T-SQL, 248 severity levels, 63–64 Depth property, data providers, 226 event batches"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "349",
+      "349, 353"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "terms",
+        "particle": "generational"
+      }
+    ],
+    "container-title": [
+      "distributed transactions, Notification Services"
+    ],
+    "pages": [
+      "349–350 150–153"
+    ],
+    "title": [
+      "Full-Text Search query, 413 IAsyncResult interface, asynchronous operations, generators 275–276 Firebird, 488 IDBDataAdapter object"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "sys.assemblies table, CLR (Common Language views, 22–23 Runtime) Object, 310 TABLESAMPLE function, T-SQL, 259–262 sys.assembly_files table, CLR (Common Language table-valued functions, CLR (Common Language Run-Runtime) Object, 310 time) Objects, 320–321 sys.assembly_modules table, CLR (Common tabular results, CLR (Common Language Runtime) Language Runtime) Object, 310 Objects, 326–327 sys.assembly_preferences table, CLR (Common TARGET service, Service Broker contracts, 377–378, Language Runtime) Object, 310 390–381 sys.assembly_types table, CLR (Common Language Terminate() method, aggregate functions, 322–323"
+    ],
+    "pages": [
+      "72–73 221–222"
+    ],
+    "title": [
+      "SubscriberDevice object, device list editing, System.Data.Common namespace, provider 362–363 classes, 202 SubscriberEnumeration object, subscriber list System.Data.Sql namespace, SQL Server, 306 retrieval, 357–359 System.Data.SqlClient namespace, SQL SubscriberID property, subscribers, 357 Server, 306 subscribers System.Data.SqlTypes namespace, SqlType adding/removing, 358–359 structures, 284–287 device list display, 360 System.Transactions namespace, distributed transretrieving, 357–358 actions, 146–149 subscription management application, 357–359, 363–367 subscription management application component, 348 T subscription lists TABLE data type, SQL Server, 108 displaying, 363–364 Table() object, SQL Server Management Objects editing, 364–367 (SMOs), 334–335 subscription management application TableAdapter method, data binding, 185–189 adding/removing subscribers, 358–359 tables device list, 360–363 CLR (Common Language Runtime) Objects, 310–311 event firing, 367–368 data providers, 212 Notification Services, 348–349 dragging/dropping into Windows Forms, 192 saving subscriptions, 366–367 foreign keys, 20–21 subscriber list retrieval, 357–358 MaxDB, 480 subscription list, 363–367 message queues, 378–380 SubscriptionEnumeration object, subscription list namespace qualified, 94 display, 363–364 naming conventions, 15–17 subscriptions primary key conventions, 19–20 application definition file, 355 Service Broker queues, 394–395 saving, 366–367 SQL Server Management Objects (SMOs), 334–336 subscription management application component, 349 SQLDataSource control configuration, 173–174 SupportedJoinOperators property, schema meta- user properties versus Active Directory properties, data system"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "263–264"
+    ],
+    "title": [
+      "Index user-defined extensions, Ingres token, defined, 404 DDL triggers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "operator",
+        "given": "T.O.P."
+      },
+      {
+        "given": "T.-S.Q.L."
+      }
+    ],
+    "note": [
+      "function, 258–259 C# language, 242–243 OUTPUT method, 249–250 VB.NET, 241–242 PIVOT function, 254–256 transactional data store, BerkeleyDB, 503 RANK() function, 257 transactions reachability, 244 A.C.I.D (atomicity/consistency/isolation/durability), READFAST function, 262 140–141 recursive queries, 253–254 concepts, 139–145 ROW_NUMBER() method, 256–257 distributed, 145–154 self joins, 253 isolation levels, 142–143 structured exception handling, 240–249"
+    ],
+    "title": [
+      "250–252 Dense_Rank() function, 258 tracing, ODP.NET, 534–535 development history, 235–238 transaction logs, BerkeleyDB, 503 flow-control statements, 239–240 Transaction object, isolation levels, 142 InfoMessage event, 244–246 transaction processing NTile("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "user-defined functions (UDFs), Firebird user-defined functions (UDFs), Firebird, 487 Data Source controls, 169–170 user-defined types, CLR (Common Language Runtime) Report Server project, 433 Objects, 324–326 SQL Server projects, 306–310 UserOptions() object, SQL Server Management UI controls, 197–198 Objects (SMOs), 332 Web applications,",
+      "163 V Reporting Services, 430–432 validations ReportServer setup, 448–453 parameter data, 166 Web Distributed Authoring and Versioning (WebDAV), ReportServer, 444–445 MaxDB, 480 Service Broker messages, 374–377 Web forms, ObjectDataSource control implementa-XML/ADO.NET integration, 131–133 tion, 182–183 VARBINARY data type, SQL Server, 102–103 Web Service Development Language (WSDL), Report-VARBINARY (MAX) data type, SQL Server, 102–103 Server, 447–448 VARCHAR (MAX) data type, SQL Server, 99 Web services VARCHAR (char varying/character varying) data type, distributed transactions, 155–156"
+    ],
+    "title": [
+      "430–432 users Visual Studio.NET password changing, 280–281 Oracle developer tools, 519–533 SQL Server Management Objects (SMOs), 336–337 Oracle Explorer, 519–522 utility classes, SQL Server Management Objects (SMOs), 330 Utils class W device list editing, 362 WAITFOR function, T-SQL, 262–263 subscriber list retrieval, 357–359 Web applications data binding environment, 159–160 one-way versus two-way data binding"
+    ],
+    "type": "report"
+  }
+]
