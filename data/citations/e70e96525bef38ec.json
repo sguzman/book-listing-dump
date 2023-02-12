@@ -1,0 +1,224 @@
+[
+  {
+    "author": [
+      {
+        "given": "BallActor\""
+      }
+    ],
+    "note": [
+      "&Actor::Create<FollowActor> }, { \"PlaneActor\", &Actor::Create<PlaneActor> }, { \"TargetActor\", &Actor::Create<TargetActor> }, };"
+    ],
+    "title": [
+      "&Actor::Create<BallActor> }, { \"FollowActor\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Brownlow",
+        "given": "Martin"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Treglia",
+        "given": "Ed Dante"
+      }
+    ],
+    "location": [
+      "Hingham"
+    ],
+    "publisher": [
+      "Charles River Media"
+    ],
+    "title": [
+      "Save Me Now!” Game Programming Gems 3"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "David L."
+      }
+    ],
+    "container-title": [
+      "Game Programming Gems 6"
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "Dickheiser",
+        "given": "Ed Mike"
+      }
+    ],
+    "location": [
+      "Rockland"
+    ],
+    "publisher": [
+      "Charles River Media"
+    ],
+    "title": [
+      "Faster File Loading with Access Based File Reordering"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sousa",
+        "given": "Bruno"
+      }
+    ],
+    "container-title": [
+      "Game Programming Gems 2"
+    ],
+    "date": [
+      "2001"
+    ],
+    "editor": [
+      {
+        "family": "DeLoura",
+        "given": "Ed Mark"
+      }
+    ],
+    "location": [
+      "Hingham"
+    ],
+    "publisher": [
+      "Charles River Media"
+    ],
+    "title": [
+      "File Management Using Resource Files"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "LearnCppcom"
+      },
+      {
+        "family": "Meyers",
+        "given": "Scott Effective C.++"
+      }
+    ],
+    "date": [
+      "2016",
+      "2005"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Last modified April 28"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.learncpp.com."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Sebastopol"
+    ],
+    "publisher": [
+      "O’Reilly Media"
+    ],
+    "title": [
+      "Effective Modern C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Prata",
+        "given": "Stephen"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "Upper Saddle River"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Primer Plus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roberts",
+        "given": "Eric"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Programming Abstractions in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  }
+]
