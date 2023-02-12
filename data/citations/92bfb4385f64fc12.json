@@ -1,0 +1,3287 @@
+[
+  {
+    "title": [
+      "Exercise A.63 Show in detail that (A.89) defines an inner product in H'(f2"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Exercise A.69 Consider a domain R = (-1,l) x (-1,l) c R2 and afunction (1 - x:)(1 - zz"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "VerifL that this sequence lies in H 1 ( R ) ."
+    ],
+    "pages": [
+      "1"
+    ],
+    "title": [
+      "A sequence offunctions {fn}?=' is defined by putting fn(x)="
+    ],
+    "type": null,
+    "volume": [
+      "f ( n ,x"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Show that it converges in Hl-norm andjind the limit g E H 1 ( R )of the sequence"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Use the fact that { fn}p=l C H,' (R)and a consequence of the Poincark-Friedrichs' inequality to simplify the convergence analysis. Partial Differential Equations and the Finite Element Method by Pave1 Solin Copyright © 2006"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "I.R.A."
+      },
+      {
+        "given": "J.J.F."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "Spuce.~,2nd"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "Academic PressElsevier"
+    ],
+    "title": [
+      "Fournier: Sobolev"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahagon",
+        "given": "A."
+      },
+      {
+        "family": "Fujiwara",
+        "given": "K."
+      },
+      {
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. Magn"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "898–901,"
+    ],
+    "title": [
+      "Nakata: Comparison of various kinds of edge elements for electromagnetic field analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ainsworth",
+        "given": "M."
+      },
+      {
+        "family": "Coyle",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Comput. Methods Appl. Mech. Engrg"
+    ],
+    "note": [
+      "200 I ."
+    ],
+    "pages": [
+      "190,6709–6733"
+    ],
+    "title": [
+      "Hierarchic lap-edge element families for Maxwell’s equations on hybrid quadrilateralhriangular meshes"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Ciarlet",
+        "given": "F.Assons P."
+      },
+      {
+        "family": "Raviart",
+        "given": "P.A."
+      },
+      {
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Meth. Appl. Sci"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Sonnendrucker: Characterization of the singular part of the solution of the Maxwell’s equations in a polyhedral domain, Mufh"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22, 4 8 5 4 9 9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1989"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "An Introduction to Numericd Ano/y.sis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "K."
+      },
+      {
+        "family": "Han",
+        "given": "W."
+      },
+      {
+        "family": "T",
+        "given": "BabuSka"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Int. J. Numer Meth. Engrg"
+    ],
+    "date": [
+      "2001",
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "1",
+      "155–180,"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Theoretical Nunwrical Analjsis",
+      "Scapolla: Benchmark computation and performance evaluation for a rhombic plate-bending problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7",
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BabuSka",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Appl. Math"
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "The stability of domains and the question of formulation of plate problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4 6 3 4 6 7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BabuSka",
+        "given": "I."
+      },
+      {
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Oxford"
+    ],
+    "title": [
+      "Strouboulis: Finite Element Methodand Its Reliability, Clarendon Press"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "200 I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barton",
+        "given": "M.L."
+      },
+      {
+        "given": "Z.J."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "J. Appl. Phys"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "3919–3921,"
+    ],
+    "title": [
+      "Cendes: New vector finite elements for three-dimensional magnetic computation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "I.I."
+      }
+    ],
+    "container-title": [
+      "Math. Models Methods Appl. Sci"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "685–71"
+    ],
+    "title": [
+      "Bertolazzi: Discrete conservation and discrete maximum principle for elliptic PDEs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Sov. J. Numer. Anal. Math. Model"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "163–178"
+    ],
+    "title": [
+      "Bespalov: Finite element method for the eigenmodc problem of a RF cavity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Birkhoff",
+        "given": "G."
+      },
+      {
+        "family": "Schultz",
+        "given": "M.H."
+      },
+      {
+        "family": "Varga",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Numer. Math"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "232–256,"
+    ],
+    "title": [
+      "Piecewise Hermite interpolation in one and two variables with application to partial differential equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Borisov",
+        "given": "V.S."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "4. I 1"
+    ],
+    "pages": [
+      "10–1 135,"
+    ],
+    "title": [
+      "On discrete maximum principles for linear equation systems and monotonicity of difference schemes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bos",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "J. Approx. Theory"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "271–280,"
+    ],
+    "title": [
+      "On certain configurations of points in R\" which are uniresolvant for polynomial interpolation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "64"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bos",
+        "given": "L."
+      },
+      {
+        "family": "Taylor",
+        "given": "M.A."
+      },
+      {
+        "family": "A",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "1543–1547"
+    ],
+    "title": [
+      "Wingate: Tensor product Gauss-Lobatto points are Fekete points for the cube"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bossavit",
+        "given": "A."
+      },
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Trans. Magn"
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "Verite: A mixed FEM-BEM method to solve 3D eddy current problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18,43 1 4 3 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Braess: Finite Elen~ents.Theory. Fust Sohvrs. U17d Applic.titioii.r i n Solid Mechunic.s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bramble",
+        "given": "J.H."
+      },
+      {
+        "given": "B.E."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Math. Coinp"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "349–367,"
+    ],
+    "title": [
+      "Hubbard: New monotone-type approximations of elliptic problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brdirka",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1959"
+    ],
+    "publisher": [
+      "Prague"
+    ],
+    "title": [
+      "Continuum Mechanics, CSAV"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brenan",
+        "given": "I.K.E."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Petzold",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Classics in Applied Mathematics 14, SIAM"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "title": [
+      "Nunwrical Solution of Initiul- Wilue P rohleins i n Diffrrential-Algebraic equation.^"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brenner",
+        "given": "S.C."
+      },
+      {
+        "family": "Scott",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Mutheinaticnl T h e o n of Finite Elernenr Methods"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brezzi",
+        "given": "F."
+      },
+      {
+        "family": "Fortin",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Mixed and Hybrid Finite Element Methods"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bucciarelly",
+        "given": "L."
+      },
+      {
+        "family": "Dworsky",
+        "given": "N."
+      },
+      {
+        "family": "Gernzain",
+        "given": "Sophie"
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Reidel"
+    ],
+    "title": [
+      "An Essay on the Histon of Ela.sticity"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "C",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Butcher: Numerical Methods ,for Ordinary Differentic11Equcrtion.s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.S."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1950"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Dover. New York"
+    ],
+    "title": [
+      "Carslaw: Introduction to the Theory ofFourier's Series and Integruls"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "Inst. Fourier"
+    ],
+    "date": [
+      "1964"
+    ],
+    "issue": [
+      "ble) 1 4 , 3 4 5 4 4 4 "
+    ],
+    "title": [
+      "CCa: Approximation variationelle des probltmes aux limites, Ann"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "S.B."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Chae: Lebesgue Integration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chapelle",
+        "given": "D."
+      },
+      {
+        "family": "Bathe",
+        "given": "K.J."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Finite Element Anu1ysi.s of Shells - the Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "P.G."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "North-Holland"
+    ],
+    "title": [
+      "Ciarlet: The Firlire Element Method for Elliptic P roblenzs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ciarlet",
+        "given": "I.P.G."
+      },
+      {
+        "given": "P.A."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "Methods Appl. Mech. Engrg"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "17–31,"
+    ],
+    "title": [
+      "Raviart: Maximum principle and uniform convergence for the finite element method, Comput"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Colton",
+        "given": "D."
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Kress: Integral Equation Methods in Scattering Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Colton",
+        "given": "D."
+      },
+      {
+        "family": "Kress",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Inverse Acoustic and Electromagnet~cScattering T h e o"
+    ],
+    "type": "book",
+    "volume": [
+      "n"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "1990"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Conway: A course in Functional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "J. Cornp. Appl. Math"
+    ],
+    "pages": [
+      "1–12,2002"
+    ],
+    "title": [
+      "Cools: Advances in multidimensional integration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "149"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Courant: DifSerential and Integral Calculus (two volume set"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Crouzeix",
+        "given": "M."
+      },
+      {
+        "given": "P.A."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "date": [
+      "1973"
+    ],
+    "genre": [
+      "RAIRO R-3,77-104,"
+    ],
+    "title": [
+      "Raviart: Conforming and non-conforming finite element methods for solving the stationary Stokes equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "H.F."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Davis: Fourier Series and Orthogonal Functions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Demkowicz",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "Proc. International Workshop on Scientific Computing in Electrical Engineering (SCEE), Warnemunde"
+    ],
+    "date": [
+      "August 20-23, 2000"
+    ],
+    "title": [
+      "Edge finite elements of variable order for Maxwell’s equations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Demkowicz",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "genre": [
+      "TICAM Report 01-"
+    ],
+    "note": [
+      "1 I , The University of Texas at Austin, April 200 1."
+    ],
+    "title": [
+      "1. BabuSka: Optimal p-interpolation error estimates for edge finite elements of variable order in 2D"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Deuflhard",
+        "given": "P."
+      },
+      {
+        "family": "Nowak",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "Large Scale Scientific Computing",
+      "Progress in Scientific Computing 7"
+    ],
+    "date": [
+      "1987"
+    ],
+    "editor": [
+      {
+        "family": "Deuflhard",
+        "given": "P."
+      },
+      {
+        "family": "Engquist",
+        "given": "B."
+      }
+    ],
+    "location": [
+      "Birkhauser, Basel"
+    ],
+    "pages": [
+      "37–50,"
+    ],
+    "title": [
+      "Extrapolation integrators for quasilinear implicit ODES"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dormand",
+        "given": "J.R."
+      },
+      {
+        "family": "J",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "J. Comp. Appl. Math"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "19–26,"
+    ],
+    "title": [
+      "Prince: A family of embedded Runge-Kutta formulae"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dormand",
+        "given": "J.R."
+      },
+      {
+        "family": "Prince",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "container-title": [
+      "J. Comp. Appl. Math"
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Higher-order embedded Runge-Kutta formulae"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7,67-75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "container-title": [
+      "J. Sci. Comput"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "345–390,"
+    ],
+    "title": [
+      "Dubiner: Spectral element methods on triangles and other domains"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "45."
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "1103–1 141,"
+    ],
+    "title": [
+      "Dubois: Discrete vector potential representation of a divergence-free vector-field in threedimensional domains. Numerical analysis of a model problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dunavant",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "46."
+    ],
+    "container-title": [
+      "Int. J. Numer. Methods Engrg"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "1777–1784,"
+    ],
+    "title": [
+      "Economical symmetrical quadrature rules for complete polynomials over a square domain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dunavant",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "47."
+    ],
+    "container-title": [
+      "Int. J. Numer. Methods Engrg"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "1129–1 148,"
+    ],
+    "title": [
+      "High degree efficient symmetrical Gaussian quadrature rules for the triangle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dunavant",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "48."
+    ],
+    "container-title": [
+      "Int. J. Numer. Methods Engrg"
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Efficient symmetrical cubature rules for complete polynomials of high degree over the unit cube"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23, 3 9 7 4 0 7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Engels: Numerical Quadrature and Cubature"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "C",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "50."
+    ],
+    "container-title": [
+      "Berkeley Mathematics Lecture Notes"
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Evans: Partial DifSerential Equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fehlberg",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "51."
+    ],
+    "date": [
+      "1970"
+    ],
+    "genre": [
+      "Computing 6,61-71,"
+    ],
+    "title": [
+      "Low-order classical Runge-Kutta formulas with step-size control and their application to some heat transfer problems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Feistauer",
+        "given": "M."
+      },
+      {
+        "family": "Felcman",
+        "given": "J."
+      },
+      {
+        "family": "StraSkraba",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "52."
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Mathematical and Computational Methods for Compressible Flow"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fe.j6r",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "53."
+    ],
+    "container-title": [
+      "Ann. Scuola Norm. Sup. Pisa Sci. Fis. Mt. Ser"
+    ],
+    "date": [
+      "1932"
+    ],
+    "pages": [
+      "263–276,"
+    ],
+    "title": [
+      "Bestimmung derjenigen Abwissen cines Intervalles f u r welche die Quadratstiinme dei-Grundfunktionen der Lagrangeschen Interpolation iin lntervalle [- 1. 11 ein rnoglichst kleined Maximum besitzt"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Felcman",
+        "given": "J."
+      },
+      {
+        "family": "Solin",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "54."
+    ],
+    "container-title": [
+      "East-West J. Nuin. Math"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "43–64,"
+    ],
+    "title": [
+      "On the construction ofthe Osher-Solomon scheme for 3D Euler equations"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kufner",
+        "given": "S.FuZik A."
+      }
+    ],
+    "citation-number": [
+      "55."
+    ],
+    "date": [
+      "I980"
+    ],
+    "publisher": [
+      "Elseviei-. Amstei-dam"
+    ],
+    "title": [
+      "Noiilirietrr- Drffer-oriritrl Eqirtitiorir"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "56."
+    ],
+    "container-title": [
+      "IEEE Trans. Circuit Theory"
+    ],
+    "date": [
+      "I97 I"
+    ],
+    "pages": [
+      "89–95,"
+    ],
+    "title": [
+      "Gear: The simultaneous numerical solution o f differential-algebraic equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "N.S",
+        "given": "D.Gilharg"
+      }
+    ],
+    "citation-number": [
+      "57."
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springel"
+    ],
+    "title": [
+      "Trudinger: Elliptic, h i / - t i t / / Diffir-t,n/iti/€t/uotiori.s oj'Src.orir/ Order"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "I.M",
+        "given": "I.S.Gradshteyn"
+      }
+    ],
+    "citation-number": [
+      "58."
+    ],
+    "container-title": [
+      "t r / . \\ , St,f-itJs,t r d Pwrlircrs",
+      "Academic Pres\\"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "title": [
+      "Ryzhik: Ttrhlrs o f ' f r i t q r"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hairer",
+        "given": "E."
+      },
+      {
+        "family": "Wanner",
+        "given": "S.P.Norsett G."
+      },
+      {
+        "family": "Soli",
+        "given": "irig Ort/iritir! Diff~~rc~rititil Eqirtiriom I."
+      }
+    ],
+    "citation-number": [
+      "59."
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Norisriff PI-ohleri7.s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wanner",
+        "given": "E.Hairer G."
+      },
+      {
+        "family": "Hano",
+        "given": "I.M."
+      }
+    ],
+    "citation-number": [
+      "60."
+    ],
+    "container-title": [
+      "IEEE Trans. Microwave Theory Tech"
+    ],
+    "date": [
+      "1996",
+      "1984"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "6",
+      "1275–1279,"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Soh.irig 0rtliritrr;v Ih&rerifio/ E q t r r i r i o r i s I f - Stjffrriirl DAE P~-oh/erri.\\",
+      "Finite element analysis of dielectric-loaded waveguides"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "T",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "62."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Heath: Scierit(fic Coriipiifiri,q, An fritr-orliccror:v Siiri"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hesthaven",
+        "given": "J.S."
+      }
+    ],
+    "citation-number": [
+      "63."
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "6 55–676"
+    ],
+    "title": [
+      "From electrostatics to almost optimal nodal sets for polynomial interpolation in a simplex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gottlieb",
+        "given": "J.S.Hesthaven D."
+      }
+    ],
+    "citation-number": [
+      "64."
+    ],
+    "container-title": [
+      "Comput. Methods Appl. Mech. Engrg"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "361–381,"
+    ],
+    "title": [
+      "Stable spectral methods for conservation laws on triangles with unstructured grids"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "175"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H.G."
+      }
+    ],
+    "citation-number": [
+      "65."
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley & Sons"
+    ],
+    "title": [
+      "Heuser: Fmc.tiorirr/ A17crlysis,John"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hindmarsh",
+        "given": "A.C."
+      },
+      {
+        "given": "O.D.E.P.A.C.K."
+      }
+    ],
+    "citation-number": [
+      "66."
+    ],
+    "container-title": [
+      "IMACS Transactions on Scientific Computation I"
+    ],
+    "date": [
+      "1983"
+    ],
+    "editor": [
+      {
+        "family": "pirtirig",
+        "given": "Scieiifjjc C.",
+        "particle": "o w"
+      }
+    ],
+    "location": [
+      "North-Holland, Amsterdam"
+    ],
+    "pages": [
+      "55–64,"
+    ],
+    "title": [
+      "A systematiLed collection of ODE solvers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "HGhn",
+        "given": "W."
+      },
+      {
+        "given": "H.D."
+      }
+    ],
+    "citation-number": [
+      "67."
+    ],
+    "container-title": [
+      "Computing"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "145–154,"
+    ],
+    "title": [
+      "Mittelmann: Some remarks on the discrete maximum principle lor finite elements of higher order"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "L.O."
+      }
+    ],
+    "citation-number": [
+      "68."
+    ],
+    "container-title": [
+      "SlAM J . Numer. Anal"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "1369–1 388,"
+    ],
+    "title": [
+      "Jay: lnexact simplified Newton iterations for implicit Runge-Kutta methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Karniadakis",
+        "given": "G.E."
+      },
+      {
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "69."
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Sherwin: Spec.tr-ti//hp E/emem Mrtliotls .&)I- CFD"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Keast",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "70."
+    ],
+    "container-title": [
+      "Cornput. Methods Appl. Mech. Engrg"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "55,339–348,"
+    ],
+    "title": [
+      "Moderate-degree tetrahedral quadrature formulas"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirchhoff",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "71."
+    ],
+    "container-title": [
+      "J. Reine und Angewandte Mathematik"
+    ],
+    "date": [
+      "1850"
+    ],
+    "pages": [
+      "1–88,"
+    ],
+    "title": [
+      "Uber das Gleichgewicht und die Bewegung einer Elastischen Scheihe"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40. 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kirsch",
+        "given": "A."
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "72."
+    ],
+    "container-title": [
+      "J. A/>/>/.Mtith"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "132444"
+    ],
+    "title": [
+      "Monk: A finite elementkpectral element method for approximation of the timeharmonic Maxwell's system in R'.SlAM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "73."
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Equtrtioiz.~,2nd"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Kress: Lirieai- Integr-crl"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "74."
+    ],
+    "container-title": [
+      "Zeitschrift f. Math. u. Physik"
+    ],
+    "date": [
+      "1901"
+    ],
+    "issue": [
+      "435453"
+    ],
+    "title": [
+      "Kutta: Beitrag zur naherungsweisen Integration totaler Differentialgleichungen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lay",
+        "given": "David C."
+      }
+    ],
+    "citation-number": [
+      "75."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "Applicertiori.~(3rd"
+    ],
+    "publisher": [
+      "Pearson Addison Wesley"
+    ],
+    "title": [
+      "Liriecir Algehru mid I t s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "76."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Leis: Iriiticil Hoirric/trr:v W i r e Pr-ohlrms in Mcrthmertic.trl Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "77."
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "LeVeque: Nirrirei-ictrl Methods fiw C0r7.teri~rtioriLtrw.s, Birkhauser"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "78."
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "University Press"
+    ],
+    "title": [
+      "LeVeque: Firirte Volrrrrre~Mc4ocl.t j ) r Hyper/x)/icProhlrr?rs,Cambridge"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "J.L.Lions"
+      }
+    ],
+    "citation-number": [
+      "79."
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "title": [
+      "Magenea: PrnhlPriirs crux Lirnites r i o r i Hornogtries et App/iccrtiori,s, 2, Dunod"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lyness",
+        "given": "J.N."
+      },
+      {
+        "family": "Jespersen",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "80."
+    ],
+    "container-title": [
+      "J. Inst. Math. Appl"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "15–32,"
+    ],
+    "title": [
+      "Moderate degree symmetric quadrature rules for the triangle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mindlin",
+        "given": "I.R.D."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "J. Appl. Mech"
+    ],
+    "date": [
+      "195 I"
+    ],
+    "pages": [
+      "1–38,"
+    ],
+    "title": [
+      "Influence of rotatory inertia and shear and flexural motions of isotropic elastic plates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "82."
+    ],
+    "container-title": [
+      "J. Coinput. Appl. Math"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "103–121"
+    ],
+    "title": [
+      "Monk: An analysis of NCdelec's method for spatial discretization of Maxwell's equations"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Monk",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "83."
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "'.s Clarendon Press"
+    ],
+    "title": [
+      "Finite Elemerit Method.sfiw M t r . r ~ ~ l l Eqirtrtioris"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "84."
+    ],
+    "location": [
+      "New York, I994"
+    ],
+    "title": [
+      "Morrison: Irztrocluctio/ito FourirrAiitr!\\..s/.(,John Wiley & Sons"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "85."
+    ],
+    "container-title": [
+      "IEEE Trans. Magn"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "3552–3557,"
+    ],
+    "title": [
+      "Mur: Edge elements, their advantages and their disadvantages"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HlaviEek",
+        "given": "J.Netas I."
+      }
+    ],
+    "citation-number": [
+      "86."
+    ],
+    "date": [
+      "198 I"
+    ],
+    "location": [
+      "Bodies",
+      "Amsterdam"
+    ],
+    "publisher": [
+      "Ari Introtiirctiori, Elsevier"
+    ],
+    "title": [
+      "Mdiernatical T h e o n of Elersfic errid E/u.sto-Plcrsric"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "87."
+    ],
+    "container-title": [
+      "Math"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "315–341,"
+    ],
+    "title": [
+      "Nedelec: Mixed finite elements in R\",Numer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "88."
+    ],
+    "container-title": [
+      "Numer. Math. SO"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "57–81"
+    ],
+    "title": [
+      "Nedelec: A new family of mixed finite elements in I@\""
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wanner",
+        "given": "S.P.Norsett G."
+      }
+    ],
+    "citation-number": [
+      "89."
+    ],
+    "container-title": [
+      "BIT"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "79–94,"
+    ],
+    "title": [
+      "The real-pole sandwich for rational approximations and oscillation equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "90."
+    ],
+    "container-title": [
+      "Math. Comput"
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Pasciak: Spectral and pseudospectral methods for advection equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35, I08 I -I 092"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "L.R",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1982"
+    ],
+    "genre": [
+      "Sandia Report Sand 82-8637."
+    ],
+    "location": [
+      "Livermore, CA"
+    ],
+    "publisher": [
+      "Sandia National Laboratory"
+    ],
+    "title": [
+      "Petzold: A description of DDASSL: A differential/algebraic system solver"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Priger",
+        "given": "M."
+      },
+      {
+        "family": "Taufer",
+        "given": "J."
+      },
+      {
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "92."
+    ],
+    "container-title": [
+      "Appl. Math"
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "Vitasek: Overimplicit multistep methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18. 3 9 9 4 2 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Quarteroni",
+        "given": "A."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "93."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Valli: Numericcrl Approxirrrcrtiori of Pcrrtitrl L)(fc,reritirrl Eqirerfiori.~,Springer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Raviart",
+        "given": "P.A."
+      },
+      {
+        "family": "M",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "94."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Masson, Paris"
+    ],
+    "title": [
+      "Thomas: Irztrodiictiori ir /'Arialy.se NrrriiPriqw Des ,!?qiiufio/i.saux DL:rii&.s Pcrrtirlles"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "N",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "95."
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Reddy: An Iritrodirction to rhr Firiitr Elernerit Method"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reissner",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "96."
+    ],
+    "container-title": [
+      "Appl. Mech. Rev"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "1453–1464,"
+    ],
+    "title": [
+      "Reflections on the theory of elastic plates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reissner",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "97."
+    ],
+    "container-title": [
+      "J. Appl. Mech"
+    ],
+    "date": [
+      "1945"
+    ],
+    "pages": [
+      "12,69–76,"
+    ],
+    "title": [
+      "The effect of transverse shear deformation on the bending of elastic plates"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "98."
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Royden: ReulAncily.si.s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "99."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Rudin: Recil arid Cor77ple Anfi/ysis,McGraw-Hill"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "100."
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Rudin: Arnctional Analy.si.s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Runge",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "101."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1895"
+    ],
+    "pages": [
+      "167–178,"
+    ],
+    "title": [
+      "Uber die numerische Auflosung von Differentialgleichungen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silvester",
+        "given": "P."
+      },
+      {
+        "family": "Ferrari",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "102."
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Finite Elemerit.s,for Electrical Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "103."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "PWS Publishing Company"
+    ],
+    "title": [
+      "Saad: Iterative Methodsfor Spcirse Linear Systems, PWS Series in Computer Science"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.E."
+      }
+    ],
+    "citation-number": [
+      "104."
+    ],
+    "container-title": [
+      "J. Math. Phys"
+    ],
+    "date": [
+      "1947"
+    ],
+    "pages": [
+      "191–194,"
+    ],
+    "title": [
+      "Salzer: Tables for facilitating of Chebyshev's quadrature formulae"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Ch"
+      }
+    ],
+    "citation-number": [
+      "10.5."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "title": [
+      "Schwab: p - and hp-Finite Elernerzt MerhocLs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sewell",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "106."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "The Numerical Solution of Ordinal? cind Pa,-tial Differenticil Eyuations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shewchuk",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "107."
+    ],
+    "container-title": [
+      "//www .cs . cmu.edu/-quake/triangle .html",
+      "08. S.L. Sobolev, V.L. Vaskevich: The T h e o n of Cuhature Formulas"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Dordrecht"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Triangle - a two-dimensional quality mesh generator and Delaunay triangulator. Software available at"
+    ],
+    "type": "chapter",
+    "url": [
+      "http:"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Solin",
+        "given": "P."
+      },
+      {
+        "family": "Solin",
+        "given": "P."
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "109."
+    ],
+    "container-title": [
+      "Acta Technica ASCR"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "Software available at",
+      "in print. I 1 I . P. Solin, K. Segeth, I. Doleiel: Higher-Order Finite Element Methods, Chapman & HaWCRC Press, 2003."
+    ],
+    "pages": [
+      "397417,"
+    ],
+    "title": [
+      "On a mesh generation technique based on a special smoothing procedure for uniform inner point distribution",
+      "Segeth: Optimal hierarchic higher-order Hermite elements for H'-problems in ID"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.math.utep.edu/Faculty/solin."
+    ],
+    "volume": [
+      "45",
+      "1 10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Solin",
+        "given": "P."
+      },
+      {
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "112."
+    ],
+    "note": [
+      "submitted"
+    ],
+    "title": [
+      "Vejchodsk9: On the discrete maximum principle for hp-FEM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "G."
+      },
+      {
+        "family": "Fix",
+        "given": "G.J."
+      }
+    ],
+    "citation-number": [
+      "113."
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "An Analysis of the Finite Element Method, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "I 14. A. Stroud, D. Secrest"
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Gaussian Quadrature Formulas, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Antennas and Propagation"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "1 5",
+      "12–24,"
+    ],
+    "title": [
+      "Sun et al.: Spurious modes in finite element methods, IEEETrans"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1",
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Szab6",
+        "given": "B."
+      },
+      {
+        "family": "BabuSka",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "116."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Finite Element Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "17. G. Szego: Orthogonal Polynomials, AMS Colloquium Publications 23"
+    ],
+    "date": [
+      "1939"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "M.A."
+      },
+      {
+        "family": "Wingate",
+        "given": "B.A."
+      },
+      {
+        "family": "Vincent",
+        "given": "R.E."
+      },
+      {
+        "family": "Timoshenko",
+        "given": "S.P."
+      },
+      {
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "2000",
+      "1959"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "18",
+      "1707–1720,"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "An algorithm for computing Fekete points in the triangle",
+      "Woinowski-Krieger: T h e o y of Plates and Shells"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38",
+      "I 19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wouwer",
+        "given": "A.Vande"
+      },
+      {
+        "family": "Saucez",
+        "given": "P."
+      },
+      {
+        "family": "Chapinan",
+        "given": "W.E.Schiesser Atlcrpriw Method",
+        "particle": "ofLir1r.s."
+      },
+      {
+        "family": "FL",
+        "given": "HalVCRC Boca Raton"
+      },
+      {
+        "family": "Vogelsang",
+        "given": "I.V."
+      }
+    ],
+    "citation-number": [
+      "120."
+    ],
+    "container-title": [
+      "Mtrth. A J I K",
+      "Antennas and Propagation"
+    ],
+    "date": [
+      "2001",
+      "I99 1 122",
+      "1999"
+    ],
+    "pages": [
+      "12",
+      "285–295",
+      "1244–1 253,"
+    ],
+    "title": [
+      "On the strong unique continuation principle for inequalities of Maxwell type",
+      ".I.Webb: Hierarchical vector based functions of arbitrary order for triangular and tetrahedral finite elements, lEEE Trans"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "289",
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "123."
+    ],
+    "date": [
+      "1957"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Whitney: Grorirrtric /rirrgrcrriorz Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zienkiewicz",
+        "given": "R.L.Taylor"
+      }
+    ],
+    "citation-number": [
+      "124."
+    ],
+    "container-title": [
+      "- SolidMrc.htrriic..\\"
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "5th edition, Butterworth-Heinemann"
+    ],
+    "location": [
+      "Woburn, MA"
+    ],
+    "title": [
+      "The Finite Elerwnt Mrthocl"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Partial Differential Equations and the Finite Element Method by Pave1 Solin Copyright © 2006"
+    ],
+    "type": "book"
+  },
+  {
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Partial Differential Equations and the Finite Element Method by Pave1 Solin Copyright © 2006"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Emeriti",
+        "given": "M.Y.R.O.N.B.A.L.L.E.N.I.l l"
+      },
+      {
+        "family": "COX",
+        "given": "D.A.V.I.D.A."
+      },
+      {
+        "family": "HILTON",
+        "given": "P.E.T.E.R."
+      },
+      {
+        "family": "HOCHSTADT",
+        "given": "H.A.R.R.Y."
+      },
+      {
+        "family": "LAX",
+        "given": "P.E.T.E.R."
+      },
+      {
+        "family": "ADAMEK",
+        "given": "J.O.H.N.T.O.L.A.N.D."
+      }
+    ],
+    "collection-title": [
+      "DINCULEANU-Vector Integration and Stochastic Integration in Banach Spaces *DUNFORD and SCHWARTZ-Linear Operators Part I"
+    ],
+    "container-title": [
+      "The Optimal Management of Renewable Resources, Second Edition COX-Cialois Theory +COX-Primes of the Form 'i2+ nv': Fermat, Class Field Theory, and Complex Multiplication *CURTIS and REINER-Representation Theory of Finite Groups and Associative Algebras *CURTIS and REINER-Methods of Representation Theory: With Applications to Finite Groups and Orders",
+      "CURTIS and REINER-Methods of Representation Theory: With Applications to Finite Groups and Orders"
+    ],
+    "location": [
+      "CONEJO, PEDREGAL, GARCIA"
+    ],
+    "title": [
+      "HERRLICH, and STRECKER-Abstract and Concrete Catetories ADAMOWICZ and ZBIERSKI-Logic of Mathematics AINSWORTH and ODEN-A Posteriori Error Estimation in Finite Element Analysis AKIVIS and GOLDBERG-Conformal Differential Geometry and Its Generalizations ALLEN and ISAACSON-Numerical Analysis for Applied Science *ARTIN-Geometric Algebra AUBlN-Applied Functional Analysis, Second Edition AZIZOV and IOKHVIDOV-Linear Operators in Spaces with an Indefinite Metric BERG-The Fourier-Analytic Proof of Quadratic Reciprocity BERMAN, NEUMANN, and STERN-Nonnegative Matrices in Dynamic Systems BERKOVITZ-Convexity and Optimization in [w\" BOYARINTSEV-Methods of Solving Singular Systems of Ordinary Differential Equations BURK-Lebesgue Measure and Integration: An Introduction *CARTER-Finite Groups of Lie Type CASTILLO, COBO, JUBETE, and PRUNEDA-Orthogonal Sets and Polar Methods in Linear Algebra: Applications to Matrix Calculations, Systems of Equations, Inequalities, and Linear Programming CASTILLO",
+      "and ALGUACIL-Building and Solving Mathematical Programming Models in Engineering and Science CHATELIN-Eigenvalues of Matrices CLARK-Mathematical Bioeconomics",
+      "-General Theory Part 2-Spectral Theory, Self Adjoint Operators in Hilbert Space Part 3-Spectral Operators FARINA and RINALDI-Positive Linear Systems: Theory and Applications FOLLAND-Real Analysis: Modem Techniques and Their Applications FROLICHER and KRIEGL-Linear Spaces and Differentiation Theory GARDINER-Teichmiiller Theory and Quadratic Differentials"
+    ],
+    "type": "chapter",
+    "volume": [
+      "I",
+      "I1"
+    ]
+  },
+  {
+    "container-title": [
+      "Powrer Series-Integration-Conformal Mapping-Location of Zeros",
+      ", Discrete Fourier Analysis, Cauchy Integrals, Construction of Conformal Maps, Univalent Functions *HILTON and WU-A Course in Modern Algebra *HOCHSTADT-Integral Equations JOST-Two-Dimensional Geometric Variational Procedures KHAMSI and KIRK-An Introduction to Metric Spaces and Fixed Point Theory *KOBAYASHI and NOMIZU-Foundations of Differcntial Geometry",
+      "*KOBAYASHI and NOMIZU-Foundations of Differential Geometry"
+    ],
+    "note": [
+      "Special Functions-Integral Transform-Asymptotics-Continued Fractions"
+    ],
+    "title": [
+      "*Now available in a Iowcr priced papcrback edition in the Wilcy Classics Library tNow available in paperback. GILBERT and NICHOLSON-Modem Algebra with Applications. Second Edition *GRIFFITHS and HARRIS--Principles of Algebraic Geometry GRILLET-Algebra GROVE-Groups and Characters GUSTAFSSON, KREISS and OLIGER-Time Dependent Problems and Difference Methods HANNA and ROWLAND-Fourier Series, Transforms, and Boundary Value Problems, Second Edition *HENRICI-Applied and Computational Complex Analysis"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1",
+      "2",
+      "3",
+      "I",
+      "11"
+    ]
+  },
+  {
+    "container-title": [
+      "Second Edition SEWELL-Computational Methods of Linear Algebra, Second Edition *SIEGEL-Topics in Complex Function Theory Volume I-Elliptic Functions and Uniformization Theory Volume 2-Automorphic Functions and Abelian Integrals Volume 3-Abelian Functions and Modular Functions of Several Variables SMITH and ROMANOWSKA-Post-Modem Algebra SOLIN-Partial Differential Equations and the Finite Element Method STADE-Fourier Analysis"
+    ],
+    "title": [
+      "RASSIAS and SIMSA-Finite Sums Decompositions in Mathematical Analysis RENELT-Elliptic Systems and Quasiconformal Mappings RIVLIN-Chebyshev Polynomials: From Approximation Theory to Algebra and Number Theory. Second Edition ROCKAFELLAR-Network Flows and Monotropic Optimization ROITMAN-Introduction to Modem Set Theory *RUDIN-Fourier Analysis on Groups SENDOV-The Averaged Moduli of Smoothness: Applications in Numerical Methods and Approximations SENDOV and POPOV-The Averaged Moduli of Smoothness SEWELL-The Numerical Solution of Ordinary and Partial Differential Equations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "The Mathematical Theory with Applications WATKINS-Fundamentals of Matrix Computations, Second Edition WESSELING-An Introduction to Multigrid Methods 'WHITHAM-Linear and Nonlinear Waves 'ZAUDERER-Partial Differential Equations of Applied Mathematics"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "title": [
+      "*Now available in a lower prlced paperback edition in the Wiley Classics Library. tNow available in paperback. STAKGOLD-Green's Functions and Boundary Value Problems, Second Editon STAHL-Introduction to Topology and Geometry STANOYEVITCH-Introduction to Numerical Ordinary and Partial Differential Equations Using MATLABn *STOKER-Differential Geometry *STOKER-Nonlinear Vibrations in Mechanical and Electrical Systems *STOKER-Water Waves"
+    ],
+    "type": "chapter"
+  }
+]
