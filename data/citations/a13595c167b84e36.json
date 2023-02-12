@@ -1,0 +1,69 @@
+[
+  {
+    "author": [
+      {
+        "given": "clientToText"
+      }
+    ],
+    "note": [
+      "personToText :: Person -> B.Builder personToText (Person f l) = \"person(\" <> B.fromText (escapeString f) <> B.singleton ',' <> B.fromText (escapeString l) <> B.singleton ')'"
+    ],
+    "title": [
+      "Client Int -> B.Builder clientToText (GovOrg i n) = \"client(gov,\" <> B.decimal i <> B.singleton ',' <> B.fromText (escapeString n) <> B.singleton ')' clientToText (Company i n p d) = \"client(com,\" <> B.decimal i <> B.singleton ',' <> B.fromText (escapeString n) <> B.singleton ',' <> personToText p <> B.singleton ',' <> B.fromText (escapeString d) <> B.singleton ')' clientToText (Individual i p) = \"client(ind,\" <> B.decimal i <> B.singleton ',' <> personToText p <> B.singleton ')'"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "E.where_ $ product ^. ProductId E.==. purchase ^."
+      }
+    ],
+    "note": [
+      "totalAmount E.<. E.just (E.val 10) E.set product [ ProductPrice E.*=. E.val 0.9 "
+    ],
+    "title": [
+      "PurchaseProduct E.groupBy (purchase ^. PurchaseProduct) return $ E.sum_ (purchase ^. PurchaseAmount) E.where_ $ E.isNothing totalAmount E.||"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AbsoluteDiscount, Restrict, From, Until, Extend, Both, and If constructors."
+    ],
+    "title": [
+      "Complete the computation of the htmlText, htmlChild, title, and subtitle attributes for the Present"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eq {a}",
+        "particle": "sem"
+      }
+    ],
+    "note": [
+      "show e)) @root.presents H.h2 $ H.toHtml \"Main offer\" H.a H.! A.href (fromString (\"#elt\" ++ show @root.counter)) $ H.toHtml @root.title"
+    ],
+    "title": [
+      "Show {a} => HtmlRoot | HtmlRoot root.counter = 1 lhs.html = { do H.h1 $ H.toHtml \"Description of an offer\" H.h2 $ H.toHtml \"Possible presents:\" H.ul $ mapM_ (\\e -> H.li $ H.toHtml"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eq {a}",
+        "particle": "sem"
+      }
+    ],
+    "note": [
+      "-- * Operations -- ** Insertion treeInsert, treeMerge, -- ** Lookup treeFind, treeFindMin, -- ** Removal treeDelete ) where"
+    ],
+    "title": [
+      "| Simple implementation of binary trees module Chapter15.BinaryTree ( -- * The main data type BinaryTree("
+    ],
+    "type": null
+  }
+]

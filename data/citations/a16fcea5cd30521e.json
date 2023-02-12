@@ -1,0 +1,8 @@
+[
+  {
+    "note": [
+      "void setup() { Serial.begin(9600); pinMode(SPEAKER, OUTPUT); // Important to set pin as output void loop() { chirp(); delay(2000); meow(); delay(2000); meow2(); delay(2000); mew(); delay(2000); ruff(); delay(2000); arf(); delay(2000); hoot(); delay(2000); // varyFrequency(); // scale(); // Plays a tone scale"
+    ],
+    "type": null
+  }
+]
