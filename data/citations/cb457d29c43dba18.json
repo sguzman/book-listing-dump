@@ -1,0 +1,460 @@
+[
+  {
+    "note": [
+      "ComputerEntryGenerated = true; PlayComputerEntryOnLED();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LEDS DisplayUserSelectionLED",
+        "given": "Display User Selection",
+        "particle": "on"
+      }
+    ],
+    "note": [
+      "ButtonPressed()) // Prints out User LED Selection Serial.print(\"User LED Selection: \"); Serial.print(UserSelection);"
+    ],
+    "title": [
+      "// Test if entry button has been pressed if"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "NumberUserEntries++"
+      }
+    ],
+    "note": [
+      "Number User Entries: \"); Serial.println(NumberUserEntries);"
+    ],
+    "title": [
+      "Serial.print(\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "See Listing 4-8."
+    ],
+    "title": [
+      "Turning off the LED for 500 milliseconds"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialbegin"
+      }
+    ],
+    "title": [
+      "Serial.println(F(\"TFT Display and SD Card Test ...\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "If the bitmap image is not valid, prints a text error message to the Serial Monitor"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "See Listing 8-2."
+    ],
+    "title": [
+      "Displays the bitmap image on the TFT screen starting at the upper left-hand corner of the display"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "genre": [
+      "See Listing 8-4."
+    ],
+    "title": [
+      "Suspending execution of the program for 3 seconds"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "genre": [
+      "See Listing 8-6."
+    ],
+    "title": [
+      "Suspending program execution for 3 seconds"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Closing the file"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "See Listing 8-10."
+    ],
+    "title": [
+      "Printing the text The End on the TFT screen and the Serial Monitor"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "genre": [
+      "See Listing 8-11."
+    ],
+    "title": [
+      "Enters an infinite loop that permanently suspends the program"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "DrawRectangle",
+        "given": "Draw Moving Rectangle"
+      }
+    ],
+    "title": [
+      "// Draw Moving Circle DrawCircle(); // Draw moving Line using Point DrawPoint(); // Write out test file to SD card WriteFile(\"TestF.txt\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "TFT LCD",
+        "given": "Assigning",
+        "particle": "the DC pin on the"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "screen to pin 9 of the Arduino: #define dc 9"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Assigning the Reset pin on the TFT LCD screen to pin 8 of the Arduino"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "title": [
+      "Initializes the CurrentAlarmState variable, which holds the current state of the alarm system and is initialized to the Waiting state: AlarmState CurrentAlarmState = Waiting"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Clearing the TFT screen and setting the background color to black"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "title": [
+      "Printing to the Serial Monitor the value read from step 14"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "genre": [
+      "See Listing 8-12."
+    ],
+    "title": [
+      "Suspending execution of the program for 6 seconds"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serial.begin",
+        "given": "Serialprintln"
+      }
+    ],
+    "container-title": [
+      "TFTScreen.begin("
+    ],
+    "note": [
+      "TFTScreen.println(F(\"Arduino TFT Display Door Alarm ... \")); delay(3000);"
+    ],
+    "pages": [
+      "255"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "TFTScreen.background(0, 0, 0); TFTScreen.stroke(255, 255"
+    ]
+  },
+  {
+    "location": [
+      "TFTScreen.print(\"NumberTrips",
+      "TFTScreen.println(String(NumberTrips)); Serial.print(\"NumberTrips",
+      "Serial.println(NumberTrips"
+    ],
+    "publisher": [
+      "\"",
+      "\""
+    ],
+    "title": [
+      "// Read in and display log file ReadLogFile(\"Log.txt\""
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Closing the log file"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Converting the characters in the character array called Data into an integer by calling the atoi() function and storing the result in the variable NumberTrips. The atoi() function is a standard C library conversion function"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "genre": [
+      "See Listing 8-14."
+    ],
+    "note": [
+      "Listing 8-14 The ReadLogFile() Function void ReadLogFile(char* filename"
+    ],
+    "title": [
+      "Printing a text error message to the Serial Monitor if the log file was not successfully opened for reading"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Clearing the TFT screen and setting the background to green"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ReadLogFile"
+      }
+    ],
+    "note": [
+      "0, 50); TFTScreen.println(); TFTScreen.print(\"NumberTrips: \"); TFTScreen.println(String(NumberTrips)); "
+    ],
+    "title": [
+      "TFTScreen.background(0, 255, 0); TFTScreen.text(\"Alarm Now Active ...\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "a"
+      }
+    ],
+    "title": [
+      "Reading the state of the reed switch sensor"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The SPI library includes code relating to the Serial Peripheral Interface, which is needed for the TFT display, the SD card, and the ArduCAM camera: #include <SPI.h>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ImageFileName",
+        "given": "String"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "TFTScreen.print)",
+        "given": "TFTScreenprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Printing a text message to the TFT display indicating that the program has started"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Initializing the camera by calling the InitializeCamera() function"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "TFTScreen.begin("
+    ],
+    "note": [
+      "\")); // Initializes the ArduCAM Mini Camera InitializeCamera();"
+    ],
+    "publisher": [
+      "TFTScreen.println(F(\"TFT ArduCAM Test"
+    ],
+    "title": [
+      "void setup() { Serial.begin(9600); Serial.println(F(\"TFT ArduCAM Test ...\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "TFTScreen.background(0, 0, 0); TFTScreen.stroke(255, 255, 255"
+    ]
+  },
+  {
+    "location": [],
+    "publisher": [
+      "Serial.println(F(\"Ready To Take Photo...\""
+    ],
+    "title": [
+      "TFTScreen.println(F(\"Ready To Take Photo...\""
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "//Start capture myCAM.start_capture(); Serial.println(F(\"Start Capture\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Setting the camera to recognize data from the Serial Peripherals Interface by calling the myCAM.CS_LOW() function. This function sets the voltage on the chip select pin on the camera to 0 or LOW"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Setting the FIFO memory to be read in burst mode by calling the myCAM.set_fifo_burst() function"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "note": [
+      "See Listing 8-21."
+    ],
+    "title": [
+      "Printing the total time in milliseconds that it took to write the image file to the SD card"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "total_time = millis(); myCAM.CS_LOW(); myCAM.set_fifo_burst(); temp = SPI.transfer(0x00); // Added in to original source code, read in dummy byte"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SD Card DataFile.close",
+        "given": "Close File",
+        "particle": "on"
+      }
+    ],
+    "location": [
+      "Serial.println(bytecount"
+    ],
+    "title": [
+      "Serial.print(F(\"ByteCount = \""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "// Set Camera’s Resolution Resolution = VGA; SetCameraResolution("
+      }
+    ],
+    "note": [
+      "+ \".jpg\"; strcpy(FileName,ImageFileName.c_str()); OpenFileForWriting(FileName); ReadFifoBurstWriteSDCard();"
+    ],
+    "title": [
+      "// Capture Image to ArduCAM’s FIFO Memory CaptureImage(); // Write Image File to SD Card ImageCount++; ImageFileName = String(ImageCount"
+    ],
+    "type": null
+  }
+]
