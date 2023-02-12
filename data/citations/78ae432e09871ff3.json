@@ -1,0 +1,781 @@
+[
+  {
+    "author": [
+      {
+        "family": "P.E. Since P.E",
+        "particle": "provable in"
+      }
+    ],
+    "note": [
+      "K [k] is true but not provable in P.E. Thus, K[k] (like H [h] ) is neither provable nor refutable in P.E. Either way, we have proved Theorem 1 . The axiom system P.E. is incomplete."
+    ],
+    "title": [
+      "is a correct system, then H [h] must be true but not provable in P.E. Since the sentence f'V H [h] is false, it is not provable in P.E. either. Alternatively, using the dual argument of Chapter 1 , since the set RE is Arithmetic, so is RE, so we can take a formula K( VI ) expressing RE . Its diagonalization K[k] is then a G6del sentence for RE. Hence it is true iff it is refutable in P.E. Then K[k] must be false but not refutable in P.E. Hence its negation \""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      " this follows by the Montague-Kalish result"
+    ],
+    "title": [
+      "The set of provable formulas of P.E.' is the same as the set of provable formulas of P.E"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1965"
+    ],
+    "note": [
+      "Then it is easy to show that the condition Pf/ ( x ) is Arithmetic, and hence that P.E.' is incomplete."
+    ],
+    "title": [
+      "that the Group I or Group II-axiomatization of first-order logic is equivalent to the Group I or Group II'-axiomatization ) . But a proof in P.E. is not the same thing as a proof in P.E.'. We let Pf' ( x ) be the condition-x is the G6del number of a proof in P.E.'. Using Exercises 4 and 5, show that the set of G6del numbers of the axioms of Ls' is Arithmetic"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "publisher": [
+      "A"
+    ],
+    "title": [
+      "The Incompleteness of P"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "The Incompleteness of P.A"
+    ],
+    "pages": [
+      "41"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "to prove the incompleteness of P.A. Let PA be the set of Godel numbers of the formulas provable in P.A. To show that the set PA is arithmetic"
+    ],
+    "title": [
+      "it is not provable in P.E., then it is certainly not provable in P.A. (whose set of axioms is a proper subset of the set of axioms of P.E.). And so H [h] is true but not provable in P.A. Since f'V H [h] is false, then f'V H [h] is also not provable in P.A., so H [h] is a sentence in the language LA of P.A. which is neither provable nor refutable in the axiom system P.A. Of course, we did not need to use the axiom system P.E"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "- enumerated, in fact , by a Eo-formula F("
+    ],
+    "note": [
+      ". The system P.A. is axiomatizable."
+    ],
+    "title": [
+      "We have shown that all true Eo-sentences are provable in P.A. and hence that every E1-set is enumerable in P.A"
+    ],
+    "type": "chapter",
+    "volume": [
+      "VI , V2"
+    ]
+  },
+  {
+    "note": [
+      "assuming that P.A. is w­ consistent) . It , furthermore, follows by Theorem 3 that only the simple consistency of P.A. is required to show that G is not provable in P.A. So if P.A. is simply consistent , then the sentence G is not provable in P.A. If P.A. is w-consistent (which, of course, it is since it is correct), then ,...., G is not provable in P.A. either. The sentence G, incidentally, is the true one of the pair (G and ,...., G) (assuming that P.A. is consistent) . This is a consequence of"
+    ],
+    "title": [
+      "Hence the set P is E1 , and so the set P* is E1 . Therefore, there is a Eo-formula A( Vb V2) (which, in fact, can be found by the methods of the last two chapters) which enumerates P* in P.A. Then by the w-consistency lemma, if P.A. is w-consistent, then the formula \"tV2 rv A( V1 , V2) is a formula whose negation represents P* in P.A. We let a be the Godel number of this formula, and we let G be the sentence \"tV2 rv A(a, V2) . Then by Theorem 1, the sentence G is neither provable nor refutable in P.A"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if it is provable in P.A. that every instance of F( VI) is provable in P.A. , then VVIF( VI) may be inferred. In this system,"
+    ],
+    "title": [
+      "tence G is provable in P.A.+ (since it is a universal sentence all of whose instances are provable in P.A.). Indeed, it is not hard to see that all true sentences are provable in P.A.+ and P.A.+ is complete. Why not, then, use P.A.+ instead of P.A. as a working axiom sys­ tem? The answer is that there is no way it can be used by a finite being like a human or a computer. Proofs in P.A.+ are (sometimes) of transfinite length. We could add to P.A. a weaker rule to the effect that for any formula F( VI )'"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "P.A",
+        "particle": "provable sentences of"
+      }
+    ],
+    "note": [
+      "but has the advantage of showing that \", J(Ps ) is not only true, but actually provable in P.A."
+    ],
+    "title": [
+      "or rather, this was done for P.E., but the modifications for P.A. are obvious). Then by Askanas ' theorem, the sentence '\" J(Ps) is provable in P.A. This sentence is true iff the set of provable sentences of P.A. differs from the set of true sen­ tences. Hence, under the assumption that P.A. is correct , it follows that some true sentence is not provable in P.A. This constitutes a slight variant of the Godel-Tarski incompleteness proof"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Askanas",
+        "given": "Malgorzata"
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Abstract J. of Symbolic Logic"
+    ],
+    "date": [
+      "1975"
+    ],
+    "genre": [
+      "(Doctoral dissertation),"
+    ],
+    "pages": [
+      "154"
+    ],
+    "publisher": [
+      ""
+    ],
+    "title": [
+      "Formalization of a semantic proof of Godel's incompleteness theorem",
+      "Grad­ uate Faculty in Mathematics, The City University of New York"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boolos",
+        "given": "George"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1979"
+    ],
+    "publisher": [
+      "Cam­ bridge University Press"
+    ],
+    "title": [
+      "The Unprovability of Consistency"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boolos",
+        "given": "George"
+      },
+      {
+        "family": "Jeffrey",
+        "given": "Richard"
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1980"
+    ],
+    "edition": [
+      "second"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Computability and Logic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Carnap",
+        "given": "Rudolph"
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1934"
+    ],
+    "location": [
+      "Wien"
+    ],
+    "pages": [
+      ", 9"
+    ],
+    "title": [
+      "Logische Syntax der Sprache"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Church",
+        "given": "Alonzo"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1956"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Introduction to Mathematical Logic"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrenfeucht",
+        "given": "A."
+      },
+      {
+        "family": "Feferman",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Archiv fur Mathematis­ che Logik und Grundlogenforshung"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "37–41"
+    ],
+    "title": [
+      "Representability of recursively enumerable sets in formal theories"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Godel",
+        "given": "Kurt"
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Montshefte fur Mathematik und P hysics"
+    ],
+    "date": [
+      "1931"
+    ],
+    "pages": [
+      "1 73–198"
+    ],
+    "title": [
+      "Uber formal unentscheidbare Satze der Principia Mathematica und Verwandter, Systeme 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Henkin",
+        "given": "Leon"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "J . Symbolic Logic"
+    ],
+    "date": [
+      "1952"
+    ],
+    "pages": [
+      "160"
+    ],
+    "title": [
+      "A problem concerning provability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hilbert",
+        "given": "D."
+      },
+      {
+        "family": "Bernays",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1934",
+      "1939"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Grundlagen der Mathematik"
+    ],
+    "type": "book",
+    "volume": [
+      "voLl",
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalish",
+        "given": "D."
+      },
+      {
+        "family": "Montague",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "Arch. f. Math. Logik und Grundl"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "81–101"
+    ],
+    "title": [
+      "On Tarski 's Formalization of pred­ icate logic with identity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kleene",
+        "given": "Stephen Cole"
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1952"
+    ],
+    "publisher": [
+      "D. Van Nostrand Company, Inc"
+    ],
+    "title": [
+      "Introduction t o Metamathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lob",
+        "given": "Martin H."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "J . of Symbolic Logic"
+    ],
+    "date": [
+      "1955"
+    ],
+    "pages": [
+      "1 15–1 18"
+    ],
+    "title": [
+      "Solution to a problem of Leon Henkin"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mostowski",
+        "given": "Andrzej"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1952"
+    ],
+    "publisher": [
+      "North Holland Publishing Company"
+    ],
+    "title": [
+      "Sentences Undecidable in Formalized Arithmetic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Myhill",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "Zeitschrift fur mathematischer Logik und Grundlagen der Mathematik"
+    ],
+    "date": [
+      "1955"
+    ],
+    "pages": [
+      "97–108"
+    ],
+    "title": [
+      "Creative sets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Putnam",
+        "given": "Hilary"
+      },
+      {
+        "family": "Smullyan",
+        "given": "Raymond"
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "Proceedings of the American Mathematical Society"
+    ],
+    "pages": [
+      "574–577"
+    ],
+    "title": [
+      "Exact separation of recursively enumerable sets within theories"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Quine"
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1940"
+    ],
+    "publisher": [
+      "Mathematical Logic. Norton"
+    ],
+    "title": [
+      "Willard Van Orman"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "J . Symbolic Logic"
+    ],
+    "date": [
+      "1946"
+    ],
+    "pages": [
+      "105–1 14"
+    ],
+    "title": [
+      "Concatenation as a basis for arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "Raphael M."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Proceedings of the International Congress of Mathe­ maticians"
+    ],
+    "date": [
+      "1950"
+    ],
+    "pages": [
+      "729–730"
+    ],
+    "title": [
+      "An essentially undecidable axiom system"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosser",
+        "given": "J.Barkley"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "J. of Symbolic Logic"
+    ],
+    "date": [
+      "1936"
+    ],
+    "pages": [
+      ", 87–9"
+    ],
+    "title": [
+      "Extensions of some theorems of Cadel and Church"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shepherdson",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "Archiv fur Mathematische Logik und Grundlagenforshung"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "1 1 9–127"
+    ],
+    "title": [
+      "Representability of recursively enumerable sets in formal theories"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Schoenfield",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "Funda­ menta Mathematica"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "171–179"
+    ],
+    "title": [
+      "Undecidable and creative theories"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "XLIX"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schoenfield",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1967"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Mathematical Logic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smullyan",
+        "given": "Raymond M."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "Annals of Mathematics Studies"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "47"
+    ],
+    "title": [
+      "Theory of formal systems"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Reasoning About Knowledge, Proceedings of the Conference"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "341–352"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers"
+    ],
+    "title": [
+      "Logicians who reason about themselves"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "an",
+        "given": "S.",
+        "particle": "mully"
+      },
+      {
+        "family": "M",
+        "given": "Raymond"
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "Alfred A. Knopf"
+    ],
+    "title": [
+      "Forever undecided: A P uzzle Guide to Godel"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smullyan",
+        "given": "Raymond M."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Recursion Theory for Metamath­ ematics"
+    ],
+    "type": "book"
+  }
+]
