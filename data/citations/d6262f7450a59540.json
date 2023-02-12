@@ -1,0 +1,78 @@
+[
+  {
+    "note": [
+      "function getStartingLevel () { return($this->_startingLevel);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "function getMaximumCredit () { return($this->_maximumCredit); function getRightAnswerCredit () { return($this->_rightAnswerCredit); function getWrongAnswerDebit () { return($this->_wrongAnswerDebit); function getAnswerSpreadDebit () { return($this->_answerSpreadDebit); function getQuestionsPerLevel () { return($this->_questionsPerLevel);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "php"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "451–453 outline of the code, 946 date() function (PHP), 452–453 planning the display, 950–957 DATE type (MySQL), 291 query_clauses.php file, 959–960 date_add() function (PHP/MySQL), 348 scaled Venn diagrams, 945–946 date_prefs.php form, 328–331 simplifying assumptions, 950–951 date_sub() function (PHP/MySQL), 348 size and scale issues, 951–952 DATETIME type (MySQL), 291 trigonometry for, 947–950 day_of_week_string() function (PHP), 617 trig.php intersection area calculator, 946, 948–950 DB class (PEAR DB), 678 using the program, 963–964 DBA/DBM databases, PHP support for, 241 venn.php Venn diagram functions, 946, 952–957 dBase databases, PHP support for, 241 visualization_form.php form, 946, 958–961 DB_Common class (PEAR DB), 678–679 database abstraction advantages and disadvantages, db_connection.php file, 861–862 242–243 dbconnect_vars file, 393 database administration (MySQL) db_logedit.php Weblog database data edit screen, backups, 272–274 813–814 basic client commands, 265 db_logentry.php Weblog database data entry screen, installing MySQL, 260–264 812–813 licensing, 259–260 db_login.php Weblog database login screen, 811 PHPMyAdmin GUI for, 269–272 db_password.inc Weblog database password file, 810 recovery, 276–278 DB_Result class (PEAR DB), 679 replication, 274–276 DB2 databases (IBM), PHP support for, 241 user administration, 265–269 dbvars.php file (trivia game), 875, 905, 910"
+    ],
+    "title": [
+      "data manipulation statements (SQL). See also specific databases. See also MySQL; specific kinds statements abstraction, 242–243 DELETE statements, 252 advanced features to look for, 238–241 INSERT statements, 251 advantages, 233–236 overview, 246 for authorization, 852 SELECT statements, 247–251 choosing, 236–241 UPDATE statements, 251 constructing, 254–255 data munging creating MySQL databases with PHP, 289–291 Oracle for, 640–641 defined, 233 Web services for, 757–758 dumping data into, 922–923 data sets finding last row inserted, 348–349 fetching (MySQL), 282–284 flat-file versus relational versus object-relational, for HTML graphics (MySQL), 776–777 236–237 huge, Oracle for, 640 ODBC/JDBC versus native API, 237–238 Data Source Names (DSNs), 674–675 PHP-supported, 241–242 data types. See types; types (MySQL); types (PHP) platform and, 236 data visualization with Venn diagrams selecting database to work on, 280 centering text, 958 sending e-mail from, 693–694 database connection, 958–963 switching, 238, 243 db_visualization.php form handler, 946, Weblog connectivity, 809–817 961–963 data-massaging for data dump, 922–923 displaying the graphics, 957–958 date and time fields for queries, 347–348 extensions, 965 date and time functions (PHP"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "ion), 128–129"
+    ],
+    "note": [
+      "mhash function library, 550 for data visualization example, 946, 958–961 hashing (flat-file) databases, 236–237 date_prefs.php form, 328–331 header() function (PHP), 475–476, 477 dynamically generated, 708–713 header_download.php script (Oracle), 657, 658–662 editing data with, 322–334 header.inc Weblog header file, 805–806 for editing user data, 846–851 headingElementBreak() member function (OOP), 400 for e-mail change, 842–844 Hello World program, 55–56 entry form for exercise calculator heredoc syntax for strings (PHP), 140, 616–617 with check boxes, 179–181 HexDec() function (PHP), 504 form submission code, 201–203 hidden variables, session alternative using, 457 for multidimensional arrays, 183–185 hiddenVariablesString() member function with radio buttons, 175–177 (OOP), 400 with revised form-handling target, 151–152 _highScoreEligible() function (GameDisplay simple HTML form, 134–135 class), 884–885 workout_calc_var.html, 134–135 _highScoreString() function (GameDisplay class), filtering input, 538 886–887 formatting form variables, 125–132"
+    ],
+    "pages": [
+      "314–321"
+    ],
+    "title": [
+      "graphics link-scraper example, 430–433 fractal images example, 788–795 PHP for HTML coders, 979–986 gd toolkit for creating, 780–786 PHP versus, 61–62 HTML, 775–780 as PHP-compliant, 53 HTTP and, 786–787 readability, 600–601 options for creating, 775 security issues for tags, 532–533 troubleshooting, 795–797 simple HTTP request and response, 21 GROUP BY construct, 346 static, 19–22 GUIs, choosing a database and, 238 string-manipulation functions (PHP), 434–435 Gutmans, Andi (PHP developer), 4 HTML editor, adding to a Weblog, 808–809 HTML forms. See also building forms from queries; H converting static HTML sites; specific forms hackers, 533 for administrator login as user, 852–855 handle_EntryForm() function (trivia game), 908–909 array variables with, 129–131 handleHighScore() function (GameDisplay class), for batch e-mail application, 696–697 882 CHECKBOX data elements, 324–327 harvesting data, 928–932 checking first-time submission versus harvest.php script, 931–932 resubmission, 128–129 hashing comment_edit.php form, 322–325 encryption algorithms, 549–550 consolidating with form handlers (self-MD5 algorithm"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "container-title": [
+      "787 RADIO data elements"
+    ],
+    "note": [
+      "graphics, 775–780 retirement_calc.php example, 126–128 limitations and XML, 731–732 security issues, 532–533, 538"
+    ],
+    "pages": [
+      "327–331"
+    ],
+    "title": [
+      "displaying queries in HTML tables; HTML overview, 136, 311, 335 forms for password change, 844–846 client-side technologies, 22–26 PHP variable assignment and, 125–128 embedded, Java and, 721–722 POST method for, 124–125 embeddedness of PHP, 9–11 with prefilled values, 126–128 embedding images"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "syslog() function (PHP), 450, 590–592 templates (PHP) system administrators, 539 book page example (Mystery Guide Web site), system functions (PHP",
+      "network functions, 450–451 for Web page navigation, 122–124 overview, 454 ternary conditional operator (PHP), 87–88, 103 system requirements test() member function (OOP), 396–397 for PHP installation, 40–41 testing the Java extension for PHP, 725–726 for PHP on Unix, 40, 41 text editors for PHP on Windows, 40 choosing, 986"
+    ],
+    "pages": [
+      "803–804"
+    ],
+    "title": [
+      "932–940 calendar conversion functions, 453–454 page consistency and, 618–619 date and time functions, 451–453 for simple Weblog"
+    ],
+    "type": null,
+    "volume": [
+      "802"
+    ]
+  }
+]

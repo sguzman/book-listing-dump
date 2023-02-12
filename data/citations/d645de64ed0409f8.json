@@ -1,0 +1,73 @@
+[
+  {
+    "author": [
+      {
+        "family": "file",
+        "given": "Check",
+        "particle": "ices.log"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "2005-08-01 14:44:51] INFO ices-core/main IceS 2.0.0 started..."
+    ],
+    "title": [
+      "Open the $HOME/myices/ices.log file. The following shows examples of messages that appear at a successful ices startup"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2005-08-01"
+    ],
+    "title": [
+      "14:44:51] INFO playlist-basic/playlist_basic_get_next_filename Loading playlist from file “/home/chris/myices/playlist.txt"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2005-08-01"
+    ],
+    "title": [
+      "14:44:51] INFO playlist-builtin/playlist_read Currently playing “/usr/local/share/music/Chris-Album1/10-Lots_of_Rain.ogg"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2005-08-01"
+    ],
+    "issue": [
+      "t.ogg"
+    ],
+    "title": [
+      "14:44:51] INFO stream/ices_instance_stream Connected to server"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "2005-08-01"
+    ],
+    "title": [
+      "14:44:51] DBUG reencode/reencode_page Reinitialising reencoder for new logical stream"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2005-08-01"
+    ],
+    "note": [
+      "mode: 2 channels, 44100 Hz, nominal 64000"
+    ],
+    "title": [
+      "14:44:51] INFO encode/encode_initialise Encoder initialising in VBR"
+    ],
+    "type": null
+  }
+]
