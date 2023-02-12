@@ -1,0 +1,26 @@
+[
+  {
+    "note": [
+      "CApaWindowGroupName* wn=CApaWindowGroupName::NewLC(iWsSession); wn->SetHidden(ETrue); wn->SetWindowGroupName(iWg); CleanupStack::PopAndDestroy(wn);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "iMyWindow.Invalidate(aRect); iMyWindow.BeginRedraw();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CApaWindowGroupName* wn=CApaWindowGroupName::NewLC(iWsSession); wn->SetHidden(EFalse); wn->SetWindowGroupName(iWg); CleanupStack::PopAndDestroy(wn);"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "CleanupStack::PopAndDestroy(gn);"
+    ]
+  }
+]

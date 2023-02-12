@@ -1,0 +1,153 @@
+[
+  {
+    "container-title": [
+      "MST 2001 META-INF/MANIFEST.MF 1056 Sat Nov 24 01:15:36 MST 2001 META-INF/RICHH.SF 1033 Sat Nov 24 01:15:36 MST 2001 META-INF/RICHH.DSA 0 Fri Aug 04 13:38:14 MDT 2000 META-INF/ 0 Thu Aug 03 10:58:02 MDT 2000 scjd/ smk 22680 Fri Aug"
+    ],
+    "issue": [
+      "36"
+    ],
+    "note": [
+      "D:\\Working\\SecurityBook\\code>jarsigner -certs -verify -verbose Java2.jar 997 Sat Nov 24 01:15:30",
+      "MDT 2000 scjd/instructions.html X.509, CN=Rich Helton, OU=development, O=richware, L=denver, ST=co, C=us (richh) 0 Thu Aug 03 10:57:56 MDT 2000 scjd/starting/ 0 Thu Aug 03 10:57:56 MDT 2000 scjd/starting/suncertify/ 0 Fri Aug 04 08:53:58 MDT 2000 scjd/starting/suncertify/db/ smk 12482 Thu Aug 03 10:57:56 MDT 2000 scjd/starting/suncertify/db/Data.java X.509, CN=Rich Helton, OU=development, O=richware, L=denver, ST=co, C=us (richh"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "note": [
+      "O=richware, L=denver, ST=co, C=us (richh) smk 933 Thu Aug 03 10:57:56 MDT 2000 scjd/starting/suncertify/db/FieldInfo.java X.509, CN=Rich Helton, OU=development, O=richware, L=denver, ST=co, C=us (richh) smk 5352 Thu Aug 03 10:57:56 MDT 2000 scjd/starting/suncertify/db/Data.class"
+    ],
+    "title": [
+      "smk 3232 Thu Aug 03 10:57:56 MDT 2000 cjd/starting/suncertify/db/DataInfo.java X.509, CN=Rich Helton, OU=development, O=richware, L=denver, ST=co, C=us (richh) smk 188 Thu Aug 03 10:57:56 MDT 2000 scjd/starting/suncertify/db/DatabaseException.java X.509, CN=Rich Helton, OU=development"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Figure 21-1: Two LANs by address Figure 21-2: Two LANs by domain name Figure 21-3: IP packet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Figure 21-7: The routing OSI model Figure 21-8: ICMP packet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Figure 21-16: The GIOP proxy Figure 21-17: The SOAP proxy Figure 21-18: HTTP tunneling"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 4-1: SecretKey cipher pseudocode Listing 4-2: The key pair cipher pseudocode Listing 4-3: Modular exponential Listing 4-4: The TestRandomMod class: A sample code for performing the modular exponential Listing 4-5: Output of Listing 4-4 Listing 4-6: Diffie-Hellman example Listing 4-7: The DHSimpleApp class: A sample application generating keys Listing 4-8: Listing 4-7 output"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Service providers installed Listing 4-15: The GetProviderInfo class: Code for generating Listing 4-14"
+    ],
+    "title": [
+      "Listing 4-9: Generating the DH key: An excerpt from Listing 4-7 Listing 4-10: An example output of a man-in-the-middle attack Listing 4-11: The DHAgreement class: Java code for the man-in-the-middle attack Listing 4-12: Encrypting/decrypting the RSA message Listing 4-13: Verifying the RSA algorithm Listing 4-14"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 4-16: The RSASimpleApp class: An RSA sample application Listing 4-17: Output for Listing 4-16 Listing 4-18: Triple-DES two-key implementation Listing 4-19: Triple-DES three-key implementation"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "The RichSeed class: Setting the seed twice Listing 7-6: Output from Listing 7-5"
+    ],
+    "title": [
+      "Listing 7-1: KeyPairGenerator creation Listing 7-2: Key pair generation Listing 7-3: An entry for Sun Listing 7-4: Associating the DSA algorithm to a class Listing 7-5"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Demonstration of the DES secret key: An output of Listing 7-12 Listing 8-1: Interaction with keytool Listing 8-2: Output of keytool -list Listing 8-3: RFC 1421-generated certificate Listing 8-4: Output of keytool –printcert Listing 8-5"
+    ],
+    "note": [
+      "Signing the Java2.jar"
+    ],
+    "title": [
+      "Listing 7-7: Selecting the entropy source for the SecureRandom seed Listing 7-8: The RichDSAKey class: Writing and reading a DSAPublicKeySpec Listing 7-9: Output for Listing 7-8 Listing 7-10: The SunJCE entry Listing 7-11: The SunJCE put entry for DES Listing 7-12: The RichDESKey class: A demonstration of the DES secret key Listing 7-13"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Listing 8-6: Signature File example Listing 8-7: DSA file example Listing 8-8: Grant entry example Listing 8-9: jdk1.4 policy file entries"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 14-1: The TestPBECiphers class: PBE cipher testing Listing 14-2: The TestBFCipher class: A Blowfish example"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 16: Java Authentication and Authorization Through Kerberos Listing 16-1: The kinit command Listing 16-2: The kpasswd command Listing 16-3: Kerberos commands and tools Listing 16-4: The /etc/srvtab file"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 17: Securing Messages with the Java GSS-API Listing 17-1: The RichGSSService class: An example in creating the security context Listing 17-2: The context loop, wrap, and unwrap methods Listing 17-3: Basic configuration file Listing 17-4: Client/server configuration file Listing 17-5: RichGSSInitiator's policy file Listing 17-6: RichGSSService's policy file"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 18-1: The FileInputStream Listing 18-2: Grant entry Listing 18-3: A doPrivileged action Listing 18-4: Code fragment to get the context Listing 18-5: The RichGuard class: An example of a guarded object Listing 18-6: The RichSign class: A signed object example Listing 18-7: The grant entry structure Listing 18-8: signedBy example Listing 18-9: CodeBase example Listing 18-10: Principal example"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 18-11: The RichPolicy class: A policy example code Listing 18-12: Policy example code output Listing 18-13: FilePermission example"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 19-1: Grant entry Listing 19-2: Grant entry with principal Listing 19-3: The doAs method Listing 19-4: The LoginContext class Listing 19-5: The login configuration file Listing 19-6: Defining the ConfigFile for reading login configurations Listing 19-7: Runtime definitions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 19-8: The JAASApp class: A JAAS application Listing 19-9: The JAAS login configuration Listing 19-10: The RichCallbackHandler class: An example of runtime definitions Listing 19-11: Callback handler interaction Listing 19-12: The permissions Listing 19-13: Populating the callback list Listing 19-14: A configuration file example"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 19-15: The JAASAction class: A privileged action example Listing 19-16: A permission entry"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 20-1: Container-managed sign-on Listing 20-2: Deployment descriptor for container-managed sign-on Listing 20-3: Application-managed sign-on Chapter 21: Network Security Architecture Listing 21-1: The SocketServer class: A socket listener example Listing 21-2: The SocketClient class: A socket client example Listing 21-3: Ping output Listing 21-4: Ping showing an IP record route Listing 21-5: netstat –rn run on a Windows 2000 machine Listing 21-6: Adding to the routing table Listing 21-7: The Client_Socket class: An example of a client for Listing 21-8 Listing 21-8: The Server_Socket class: An example of a server for Listing 21-7 Listing 21-9: SocketChannel connection completion"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 28-1: ProjectHome.java Listing 28-2: Project.java Listing 28-3: ProjectBean.java Listing 28-4: Project-cmp-rdbms-jar.xml Listing 28-5: RMIClient.java Listing 28-6: CORBAClient.java Table of Contents Back Cover"
+    ],
+    "type": null
+  }
+]
