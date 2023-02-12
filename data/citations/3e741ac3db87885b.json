@@ -1,0 +1,50 @@
+[
+  {
+    "note": [
+      "244 hardware, 101–102 hardware, 253–254 hardware configuration, 102–103 hardware configuration, 254–256 software writing, 103–104 LabVIEW environment GPS shields, 5 Block Diagram, 241–242"
+    ],
+    "title": [
+      "finished prototype, 130 software writing, 82–84 hardware troubleshooting, 130 libraries SdFat library, 100–101 L TinyGPS library, 99–100 LabVIEW software, 239, 288–291 microSD Shield, 97–98 debugging, 274 NMEA Protocol, 98–99 finished prototype, 275 requirements document gathering and functions creating Case Structure, 244 hardware, 119–120 Comparison Functions, 249-250 hardware configuration, 122–123 Input Device Control Functions, 252–software writing, 120–121, 123–129 253 writing GPS data to monochrome LCD Numerical Functions, 246–247 hardware, 104 Sequence Structure, 245 hardware configuration, 105–106 Serial Functions, 250–252 software writing, 106–108 String Functions, 247–249 writing raw GPS data to serial monitor While Loop"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "GSM shields, 5 adding SubVI, 266–267 GUI design, 258–259 Arduino code uploading, 269–273 error handling, 267–269"
+    ],
+    "pages": [
+      "262–265"
+    ],
+    "title": [
+      "GSM communication controls palette, 241 door alarm with SMS messaging front panel, 240 hardware, 225–226 Functions Palette, 242–243 hardware configuration, 226–228 Tools Palette, 243 software writing, 229–230 software requirements, 254 text message sending troubleshooting, 275 hardware, 219–220 writing software hardware configuration, 220–224 adding Merge Errors Function, 265–266 software writing, 224–225 adding serial functions"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "designing",
+        "given": "H.G.U.I."
+      }
+    ],
+    "pages": [
+      "258–259"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "34–38 hardware configuration, 52–53 turning motor with switch, 29–34 hardware gathering, 49 with serial commands, 47–58"
+    ],
+    "title": [
+      "hardware gathering, 35–37 hardware software writing, 37–38 Dagu 2WD Beginner Robot Chassis V2, turning motor with switch 28–29 hardware configuration, 30–33 H-bridge, 27–28 hardware gathering, 29–30 motor control software writing, 33–34 multiple motors with Arduino, 38–43 with serial commands speed and direction control, 43–47 debugging Arduino Software, 55–58 speed control with potentiometer"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Practical Arduino Engineering"
+    ],
+    "type": "chapter"
+  }
+]
