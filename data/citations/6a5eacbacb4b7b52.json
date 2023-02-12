@@ -1,0 +1,4170 @@
+[
+  {
+    "note": [
+      "See also byte multiplexor channel. Contrast with selector channel."
+    ],
+    "title": [
+      "An operator that represents an operation on two and only two operands. In the pure binary numeration system, either of the digits 0 and 1. block multiplexor channel A multiplexer channel that interleaves blocks of data"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "byte multiplexor channel A multiplexer channel that interleaves bytes of data. See also block multiplexor channel. Contrast with selector channel"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "computer instruction An instruction that can be recognized by the processing unit of the computer for which it is designed. Synonymous with machine instruction"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "computer organization Refers to the operational units and their interconnections that realize the architectural specifications. Organizational attributes include those hardware details transparent to the programmer, such as control signals; interfaces between the computer and peripherals; and the memory technology used"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "data communication Data transfer between devices. The term generally excludes I/O"
+    ],
+    "title": [
+      "data bus That portion of a system bus used for the transfer of data"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEE Institute of Electrical and Electronics Engineers NIST National Institute of Standards and Technology AGAR89 Agarwal, A. Analysis of Cache Performance for Operating Systems and Multiprogramming"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "AGER87 Agerwala",
+        "given": "T."
+      },
+      {
+        "family": "Cocke",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1987-01"
+    ],
+    "genre": [
+      "Technical Report"
+    ],
+    "location": [
+      "Yorktown, NY"
+    ],
+    "publisher": [
+      "IBM Thomas J. Watson Research Center"
+    ],
+    "title": [
+      "High Performance Reduced Instruction Set Processors"
+    ],
+    "type": "report",
+    "volume": [
+      "RC12434 (#55845"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "AHO07 Aho",
+        "given": "A."
+      },
+      {
+        "family": "Lam",
+        "given": "M."
+      },
+      {
+        "family": "Sethi",
+        "given": "R."
+      },
+      {
+        "family": "Ullman",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pearson/Addison Wesley"
+    ],
+    "title": [
+      "Compilers: Principles, Techniques, & Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ALLA13 Allan",
+        "given": "G."
+      },
+      {
+        "family": "Alschuler",
+        "given": "F."
+      },
+      {
+        "family": "Gallmeier",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Chip Design",
+      "Embedded Computing Design"
+    ],
+    "date": [
+      "2013-08-26",
+      "2012-12-06"
+    ],
+    "genre": [
+      "chipdesignmag.com ALTS12"
+    ],
+    "title": [
+      "DDR4 Bank Groups in Embedded Applications",
+      "Heterogeneous System Architecture: Multicore Image Processing Use a Mix of CPU and GPU Elements"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "AMDA67 Amdahl",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Proceedings, of the AFIPS Conference"
+    ],
+    "date": [
+      "1967"
+    ],
+    "title": [
+      "Validity of the Single-Processor Approach to Achieving Large-Scale Computing Capability"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "AMDA13 Amdahl",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "2013-12"
+    ],
+    "title": [
+      "Computer Architecture and Amdahl’s Law"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ANDE67a Anderson",
+        "given": "D."
+      },
+      {
+        "family": "Sparacio",
+        "given": "F."
+      },
+      {
+        "family": "Tomasulo",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "title": [
+      "The IBM System/360 Model 91: Machine Philosophy and Instruction Handling"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ANDE67b Anderson",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "note": [
+      "Reprinted in [SWAR90,"
+    ],
+    "title": [
+      "The IBM System/360 Model 91: Floating-Point Execution Unit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ANTH08 Anthes",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2008-06-16"
+    ],
+    "location": [
+      "ComputerWorld"
+    ],
+    "title": [
+      "What’s Next for the x86?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AROR12 Arora",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "November/December 2012"
+    ],
+    "title": [
+      "Redefining the Role of the CPU in the Era of CPU-GPU Integration"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ATKI96 Atkins",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1996-08"
+    ],
+    "title": [
+      "PC Software Performance Tuning"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "AZIM92 Azimi",
+        "given": "M."
+      },
+      {
+        "family": "Prasad",
+        "given": "B."
+      },
+      {
+        "family": "Bhat",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Proceedings COMPCON ’92"
+    ],
+    "date": [
+      "1992-02"
+    ],
+    "title": [
+      "Two Level Cache Architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "BACO94 Bacon",
+        "given": "F."
+      },
+      {
+        "family": "Graham",
+        "given": "S."
+      },
+      {
+        "family": "Sharp",
+        "given": "O."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1994-12"
+    ],
+    "title": [
+      "Compiler Transformations for High-Performance Computing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BAEN97 Baentsch",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Internet Computing"
+    ],
+    "date": [
+      "March/April 1997"
+    ],
+    "title": [
+      " Enhancing the Web’s Infrastructure — From Caching to Replication"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BAIL93 Bailey",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Supercomputing ’93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "RISC Microprocessors and Scientific Computing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "S",
+        "given": "BART15 Bartlett"
+      },
+      {
+        "family": "BELL70 Bell",
+        "given": "C."
+      },
+      {
+        "family": "Cady",
+        "given": "R."
+      },
+      {
+        "family": "McFarland",
+        "given": "H."
+      },
+      {
+        "family": "Delagi",
+        "given": "B."
+      },
+      {
+        "family": "O’Loughlin",
+        "given": "J."
+      },
+      {
+        "family": "Noonan",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "The Clipper Group Navigator",
+      "Proceedings, Spring Joint Computer Conference"
+    ],
+    "date": [
+      "2015-01-14",
+      "1970"
+    ],
+    "title": [
+      "The IBM z Systems and the New IBM z13 — Ready to Transform Your Enterprise",
+      "A New Architecture for Minicomputers—The DEC PDP-11"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.clipper.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BELL71 Bell",
+        "given": "C."
+      },
+      {
+        "family": "Newell",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Structures: Readings and Examples"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BELL78a Bell",
+        "given": "C."
+      },
+      {
+        "family": "Mudge",
+        "given": "J."
+      },
+      {
+        "family": "McNamara",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "Bedford, MA"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "Computer Engineering: A DEC View of Hardware Systems Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BELL78b Bell",
+        "given": "C."
+      },
+      {
+        "family": "Newell",
+        "given": "A."
+      },
+      {
+        "family": "Siewiorek",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "[BELL78a"
+    ],
+    "title": [
+      "Structural Levels of the PDP-8"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BELL78c Bell",
+        "given": "C."
+      },
+      {
+        "family": "Kotok",
+        "given": "A."
+      },
+      {
+        "family": "Hastings",
+        "given": "T."
+      },
+      {
+        "family": "Hill",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1978-01"
+    ],
+    "title": [
+      "The Evolution of the DEC System-10"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BENH92 Benham",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "SIGCSE Bulletin"
+    ],
+    "date": [
+      "1992-12"
+    ],
+    "title": [
+      "A Geometric Approach to Presenting Computer Representations of Integers"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BLEM15 Blem",
+        "given": "E."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "BLUM99 Blum",
+        "given": "N."
+      },
+      {
+        "family": "Charles",
+        "given": "H."
+      },
+      {
+        "family": "Francomacaro",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Computer Systems",
+      "Johns Hopkins Technical Digest"
+    ],
+    "date": [
+      "2015-03",
+      "1999"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "ISA Wars: Understanding the Relevance of ISA being RISC or CISC to Performance, Power, and Energy on Modern Architectures",
+      "Multichip Module Substrates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BOOT51 Booth",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "The Quarterly Journal of Mechanics and Applied Mathematics"
+    ],
+    "date": [
+      "1951"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "A Signed Binary Multiplication Technique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BORK03 Borkar",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "ACM Queue"
+    ],
+    "date": [
+      "2003-10"
+    ],
+    "title": [
+      "Getting Gigascale Chips: Challenges and Opportunities in Continuing Moore’s Law"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BRAD91a Bradlee",
+        "given": "D."
+      },
+      {
+        "family": "Eggers",
+        "given": "S."
+      },
+      {
+        "family": "Henry",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 18th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1991-05"
+    ],
+    "title": [
+      "The Effect on RISC Performance of Register Set Size and Structure Versus Code Generation Strategy"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "BRAD91b Bradlee",
+        "given": "D."
+      },
+      {
+        "family": "Eggers",
+        "given": "S."
+      },
+      {
+        "family": "Henry",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Fourth International Conference on Architectural Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "1991-04"
+    ],
+    "title": [
+      "Integrating Register Allocation and Instruction Scheduling for RISCs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "BREW97 Brewer",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Data Communications"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "Clustering: Multiply and Conquer"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BURK46 Burks",
+        "given": "A."
+      },
+      {
+        "family": "Goldstine",
+        "given": "H."
+      },
+      {
+        "family": "Neumann",
+        "given": "J.",
+        "particle": "von"
+      }
+    ],
+    "date": [
+      "1946"
+    ],
+    "publisher": [
+      "Army Ordnance Dept"
+    ],
+    "title": [
+      "Preliminary Discussion of the Logical Design of an Electronic Computer Instrument. Report prepared for U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CANT01 Cantin",
+        "given": "J."
+      },
+      {
+        "family": "Hill",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "2001-09"
+    ],
+    "title": [
+      "Cache Performance for Selected SPEC CPU2000 Benchmarks"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "CART06 Carter",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2006-07-23"
+    ],
+    "title": [
+      "PC Assembly Language"
+    ],
+    "type": null,
+    "url": [
+      "http://www.drpaulcarter.com/pcasm/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CEKL97 Cekleov",
+        "given": "M."
+      },
+      {
+        "family": "Dubois",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "September/October 1997"
+    ],
+    "title": [
+      "Virtual-Address Caches, Part 1: Problems and Solutions in Uniprocessors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "CHAI82 Chaitin",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Proceedings, SIGPLAN Symposium on Compiler Construction"
+    ],
+    "date": [
+      "1982-06"
+    ],
+    "title": [
+      "Register Allocation and Spilling via Graph Coloring"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CHOW86 Chow",
+        "given": "F."
+      },
+      {
+        "family": "Himmelstein",
+        "given": "M."
+      },
+      {
+        "family": "Killian",
+        "given": "E."
+      },
+      {
+        "family": "Weber",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Proceedings, COMPCON Spring ’86"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "title": [
+      "Engineering a RISC Compiler System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CHOW87 Chow",
+        "given": "F."
+      },
+      {
+        "family": "Correll",
+        "given": "S."
+      },
+      {
+        "family": "Himmelstein",
+        "given": "M."
+      },
+      {
+        "family": "Killian",
+        "given": "E."
+      },
+      {
+        "family": "Weber",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Second International Conference on Architectural Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "1987-10"
+    ],
+    "title": [
+      "How Many Addressing Modes Are Enough?"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CHOW90 Chow",
+        "given": "F."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J."
+      },
+      {
+        "family": "CITR06 Citron",
+        "given": "D."
+      },
+      {
+        "family": "Hurani",
+        "given": "A."
+      },
+      {
+        "family": "Gnadrey",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Programming Languages",
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1990-10",
+      "2006-09"
+    ],
+    "title": [
+      "The Priority-Based Coloring Approach to Register Allocation",
+      "The Harmonic or Geometric Mean: Does it Really Matter?"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "COHE81 Cohen",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1981-10"
+    ],
+    "title": [
+      "On Holy Wars and a Plea for Peace"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "COOK82 Cook",
+        "given": "R."
+      },
+      {
+        "family": "Dande",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Symposium on Architecture Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "1982-03"
+    ],
+    "title": [
+      "An Experiment to Improve Operand Addressing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "J",
+        "given": "COON81 Coonen"
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1981-03"
+    ],
+    "title": [
+      "Underflow and Denormalized Numbers"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "COUT86 Coutant",
+        "given": "D."
+      },
+      {
+        "family": "Hammond",
+        "given": "C."
+      },
+      {
+        "family": "Kelley",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings, COMPCON Spring ’86"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "title": [
+      "Compilers for the New Generation of Hewlett-Packard Computers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CRAG79 Cragon",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1979-02"
+    ],
+    "title": [
+      "An Evaluation of Code Space Requirements and Performance of Various Architectures"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "CRAW90 Crawford",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1990-02"
+    ],
+    "title": [
+      "The i486 CPU: Executing Instructions in One Clock Cycle"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DATT93 Dattatreya",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Education"
+    ],
+    "date": [
+      "1993-02"
+    ],
+    "title": [
+      "A Systematic Approach to Teaching Binary Arithmetic in a First Course"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DAVI71 Davidson",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Proceedings, IEEE Conference on Systems, Networks, and Computers"
+    ],
+    "date": [
+      "1971-01"
+    ],
+    "title": [
+      "The Design and Control of Pipelined Function Generators"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "DAVI75 Davidson",
+        "given": "E."
+      },
+      {
+        "family": "Thomas",
+        "given": "A."
+      },
+      {
+        "family": "Shar",
+        "given": "L."
+      },
+      {
+        "family": "Patel",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "IEEE COMPCON"
+    ],
+    "date": [
+      "1975-03"
+    ],
+    "title": [
+      "Effective Control for Pipelined Processors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DENN72 Denning",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Spring Joint Computer Conference"
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "On Modeling Program Behavior"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "DENN05 Denning",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "title": [
+      "The Locality Principle"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DERO87 DeRosa",
+        "given": "J."
+      },
+      {
+        "family": "Levy",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Fourteenth Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "An Evaluation of Branch Architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "DEWA90 Dewar",
+        "given": "R."
+      },
+      {
+        "family": "Smosna",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Microprocessors: A Programmer’s View"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DEWD84 Dewdney",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Scientific American"
+    ],
+    "date": [
+      "1984-05"
+    ],
+    "title": [
+      " In the Game Called Core War Hostile Programs Engage in a Battle of Bits"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DIJK63 Dijkstra",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Automatic Programming"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Pergamon"
+    ],
+    "title": [
+      "Making an ALGOL Translator for the X1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EISC07 Eischen",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Network World"
+    ],
+    "date": [
+      "2007-04-09"
+    ],
+    "title": [
+      "RAID 6 Covers More Bases"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ELAY85 El-Ayat",
+        "given": "K."
+      },
+      {
+        "family": "Agarwal",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1985-12"
+    ],
+    "title": [
+      "The Intel 80386—Architecture and Implementation"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "FATA08 Fatahalian",
+        "given": "K."
+      },
+      {
+        "family": "Houston",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2008-10"
+    ],
+    "title": [
+      "A Closer Look at GPUs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "FEIT15 Feitelson",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Workload Modeling for Computer Systems Performance Evaluation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "FLEM86 Fleming",
+        "given": "P."
+      },
+      {
+        "family": "Wallace",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "title": [
+      "How Not to Lie with Statistics: The Correct Way to Summarize Benchmark Results"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "FLYN72 Flynn",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1972-09"
+    ],
+    "title": [
+      "Some Computer Organizations and Their Effectiveness"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "FOG17 Fog",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "publisher": [
+      "Copenhagen University College of Engineering"
+    ],
+    "title": [
+      "Optimizing Subroutines in Assembly Language: An Optimization Guide for x86 Platforms"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.agner.org/optimize/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FRAI83 Frailey",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1983-06"
+    ],
+    "title": [
+      "Word Length of a Computer Architecture: Definitions and Applications"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GENU04 Genu",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Application Note AN2663"
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Freescale Semiconductor, Inc"
+    ],
+    "title": [
+      "A Cache Primer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "GHAI98 Ghai",
+        "given": "S."
+      },
+      {
+        "family": "Joyner",
+        "given": "J."
+      },
+      {
+        "family": "John",
+        "given": "L."
+      }
+    ],
+    "genre": [
+      "Technical Report TR-980501-01,"
+    ],
+    "publisher": [
+      "Laboratory for Computer Architecture, University of Texas at Austin"
+    ],
+    "title": [
+      "Investigating the Effectiveness of a Third Level Cache"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "GIBB04 Gibbs",
+        "given": "W."
+      },
+      {
+        "family": "GIFF87 Gifford",
+        "given": "D."
+      },
+      {
+        "family": "Spector",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Scientific American",
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2004-11",
+      "1987-04"
+    ],
+    "title": [
+      "A Split at the Core",
+      "Case Study: IBM’s System/360-370 Architecture"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GILA95 Giladi",
+        "given": "R."
+      },
+      {
+        "family": "Ahituv",
+        "given": "N."
+      },
+      {
+        "family": "GOER12 Goering",
+        "given": "R."
+      },
+      {
+        "family": "GOLD54 Goldstine",
+        "given": "H.",
+        "particle": "archive/2012/08/22/keynote-new-memory-technologies-challenge-nand-flash-and-dram"
+      },
+      {
+        "family": "Pomerene",
+        "given": "J."
+      },
+      {
+        "family": "Smith",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Cadence Industry Insight Blogs",
+      "Computer"
+    ],
+    "date": [
+      "1995-08",
+      "2012-08-22",
+      "1954"
+    ],
+    "publisher": [
+      "The Institute for Advanced Study Electronic Computer Project, Princeton"
+    ],
+    "title": [
+      "SPEC as a Performance Evaluation Measure",
+      "New Memory Technologies Challenge NAND Flash and DRAM",
+      "Final Progress Report on the Physical Realization of an Electronic Computing Instrument"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://community.cadence.com/cadence_blogs_8/b/ii/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GSOE08 Gsoedl",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Storage"
+    ],
+    "date": [
+      "2008-07"
+    ],
+    "title": [
+      "Solid State: New Frontier in Storage"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GUST88 Gustafson",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1988-05"
+    ],
+    "title": [
+      "Reevaluating Amdahl’s Law"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HAND98 Handy",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "The Cache Memory Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HARR06 Harris",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2006-11-02"
+    ],
+    "genre": [
+      "bit-tech.net technical paper,"
+    ],
+    "title": [
+      "Multi-Core in the Source Engine"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "HAYE98 Hayes",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Architecture and Organization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HAYN95 Haynes",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "SIGSCE Bulletin"
+    ],
+    "date": [
+      "1995-09"
+    ],
+    "title": [
+      "Explaining Recursion to the Unsophisticated"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HEAT84 Heath",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1984-03"
+    ],
+    "title": [
+      "Re-Evaluation of RISC 1"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HENN82 Hennessy",
+        "given": "J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings, Symposium on Architectural Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "1982-03"
+    ],
+    "title": [
+      "Hardware/Software Tradeoffs for Increased Performance"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "HENN84 Hennessy",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1984-12"
+    ],
+    "title": [
+      "VLSI Processor Architecture"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HENN12 Hennessy",
+        "given": "J."
+      },
+      {
+        "family": "Patterson",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "location": [
+      "Waltham, MA"
+    ],
+    "publisher": [
+      "Morgan Kaufman"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HILL64 Hill",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Datamation"
+    ],
+    "date": [
+      "1964-02"
+    ],
+    "title": [
+      "Stored Logic Programming and Applications"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HILL89 Hill",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1989-12"
+    ],
+    "title": [
+      "Evaluating Associativity in CPU Caches"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HUCK83 Huck",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1983-05"
+    ],
+    "genre": [
+      "Technical Report No. 83-243,"
+    ],
+    "publisher": [
+      "Stanford University"
+    ],
+    "title": [
+      "Comparative Analysis of Computer Architectures"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "HUGG05 Huggahalli",
+        "given": "R."
+      },
+      {
+        "family": "Iyer",
+        "given": "R."
+      },
+      {
+        "family": "Tetrick",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 32nd Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Direct Cache Access for High Bandwidth Network I/O"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "HUGU91 Huguet",
+        "given": "M."
+      },
+      {
+        "family": "Lang",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Computer Systems"
+    ],
+    "date": [
+      "1991-02"
+    ],
+    "title": [
+      "Architectural Support for Reduced Register Saving/Restoring in Single-Window Register Files"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HWAN93 Hwang",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Advanced Computer Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HWAN99 Hwang",
+        "given": "K."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IEEE Concurrency"
+    ],
+    "date": [
+      "1999-01"
+    ],
+    "title": [
+      "Designing SSI Clusters with Hierarchical Checkpointing and Single I/O Space"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2004-02"
+    ],
+    "genre": [
+      "Intel White Paper,"
+    ],
+    "title": [
+      "INTE04 Intel Research and Development. Architecting the Era of Tera"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "INTE08 Intel"
+      }
+    ],
+    "date": [
+      "2004-02"
+    ],
+    "genre": [
+      "Intel White Paper,"
+    ],
+    "title": [
+      "Integrated Network Acceleration Features of Intel I/O Acceleration Technology and Microsoft Windows Server 2008"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "INTE98 Intel"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Aurora, CO"
+    ],
+    "title": [
+      "Pentium Pro and Pentium II Processors and Related Products"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "INTE12 Intel"
+      }
+    ],
+    "date": [
+      "2012-02"
+    ],
+    "genre": [
+      "Intel White Paper,"
+    ],
+    "title": [
+      "Intel Data Direct I/O Technology (Intel DDIO): A Primer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "JACO95 Jacob",
+        "given": "B."
+      },
+      {
+        "family": "Mudge",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2013",
+      "2014",
+      "1995-03"
+    ],
+    "edition": [],
+    "genre": [
+      "Tech Report CSE-TR-231-95,"
+    ],
+    "publisher": [
+      "University of Michigan"
+    ],
+    "title": [
+      "ITRS14 The International Technology Roadmap For Semiconductors",
+      "Notes on Calculating Computer Performance"
+    ],
+    "type": "report",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "JACO08 Jacob",
+        "given": "B."
+      },
+      {
+        "family": "Ng",
+        "given": "S."
+      },
+      {
+        "family": "Wang",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Memory Systems: Cache, DRAM, Disk"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "JAIN91 Jain",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The Art of Computer System Performance Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "JAME90 James",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1983-09"
+    ],
+    "title": [
+      "Multiplexed Buses: The Endian Wars Continue"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JEFF12 Jeff",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "ARM White Paper"
+    ],
+    "date": [
+      "2012-09"
+    ],
+    "title": [
+      "Advances in big.LITTLE Technology for Power and Energy Savings"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JOHN91 Johnson",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Superscalar Microprocessor Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "JOHN04 John",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "title": [
+      "More on finding a Single Number to indicate Overall Performance of a Benchmark Suite"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JOUP88 Jouppi",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1988-06"
+    ],
+    "title": [
+      "Superscalar versus Superpipelined Machines"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JOUP89a Jouppi",
+        "given": "N."
+      },
+      {
+        "family": "Wall",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Third International Conference on Architectural Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "1989-04"
+    ],
+    "title": [
+      "Available Instruction-Level Parallelism for Superscalar and Superpipelined Machines"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "JOUP89b Jouppi",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1989-12"
+    ],
+    "title": [
+      "The Nonuniform Distribution of Instruction-Level and Machine Parallelism and Its Effect on Performance"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JOUP90 Jouppi",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 17th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1990-05"
+    ],
+    "title": [
+      "Improving Direct-Mapped Cache Performance by the Addition of a Small Fully-Associative Cache and Prefetch Buffers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "KAPP00 Kapp",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "2000-07"
+    ],
+    "title": [
+      "Managing Cluster Computers"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "KATE83 Katevenis",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1983-10",
+      "1985"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "note": [
+      "Reprinted by"
+    ],
+    "publisher": [
+      "Computer Science Department, University of California at Berkeley",
+      "MIT Press"
+    ],
+    "title": [
+      "Reduced Instruction Set Computer Architectures for VLSI"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "KATZ89 Katz",
+        "given": "R."
+      },
+      {
+        "family": "Gibson",
+        "given": "G."
+      },
+      {
+        "family": "Patterson",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1989-12"
+    ],
+    "title": [
+      "Disk System Architecture for High Performance Computing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "KULT13 Kulrursay",
+        "given": "E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS"
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Evaluating STT-RAM as an Energy-Efficient Main Memory Alternative"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "KUMA07 Kumar",
+        "given": "A."
+      },
+      {
+        "family": "Huggahalli",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "40th IEEE/ACM International Symposium on Microarchitecture"
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Impact of Cache Coherence Protocols on the Processing of Network Traffic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LASC16 Lascu",
+        "given": "O."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2016-05"
+    ],
+    "genre": [
+      "IBM Redbook SG24-8251-01,"
+    ],
+    "title": [
+      "IBM z13 Technical Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LEE10 Lee",
+        "given": "B."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "January/February 2010"
+    ],
+    "title": [
+      "Phase-Change Technology and the Future of Main Memory"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LEON06 Leon",
+        "given": "E."
+      },
+      {
+        "family": "Maccabe",
+        "given": "A."
+      },
+      {
+        "family": "LEON07 Leonard",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "15th IEEE Symposium on High-Performance Interconnects",
+      "Proceedings, Game Developers Conference 2007"
+    ],
+    "date": [
+      "2007-08",
+      "2007-03"
+    ],
+    "title": [
+      "Reducing Memory Bandwidth for Chip-Multiprocessors using Cache Injection",
+      "Dragged Kicking and Screaming: Source Multicore"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LILJ88 Lilja",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1988-07"
+    ],
+    "title": [
+      "Reducing the Branch Penalty in Pipelined Processors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LILJ93 Lilja",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1993-09"
+    ],
+    "title": [
+      "Cache Coherence in Large-Scale Shared-Memory Multiprocessors: Issues and Comparisons"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LILJ00 Lilja",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "note": [
+      "L=λW"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Measuring Computer Performance: A Practitioner’s Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LITT61 Little",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Operations Research. May-June"
+    ],
+    "date": [
+      "1961"
+    ],
+    "title": [
+      "A Proof for the Queuing Formula"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LITT11 Little",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Operations Research. May-June"
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Little’s Law as Viewed on Its 50th Anniversary"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LOVE96 Lovett",
+        "given": "T."
+      },
+      {
+        "family": "Clapp",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 23rd Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "title": [
+      "Implementation and Performance of a CC-NUMA System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LUND77 Lunde",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1977-03"
+    ],
+    "title": [
+      "Empirical Evaluation of Some Features of Instruction Set Processor Architectures"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MACD84 MacDougall",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1984-07"
+    ],
+    "title": [
+      "Instruction-level Program and Process Modeling"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MASH95 Mashey",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "USENET comp.arch newsgroup, article 46782"
+    ],
+    "date": [
+      "1995-02"
+    ],
+    "title": [
+      "CISC vs. RISC (or what is RISC really"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "MASH04 Mashey",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "2004-09"
+    ],
+    "title": [
+      "War of the Benchmark Means: Time for a Truce"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MAYB84 Mayberry",
+        "given": "W."
+      },
+      {
+        "family": "Efland",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Computer Design"
+    ],
+    "date": [
+      "1984-11"
+    ],
+    "title": [
+      "Cache Boosts Multiprocessor Performance"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MCCR87 McCracken",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1987-01"
+    ],
+    "title": [
+      "Ruminations on Computer Science Curricula"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MCDO05 McDougall",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "ACM Queue"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "title": [
+      "Extreme Software Scaling"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MCDO06 McDougall",
+        "given": "R."
+      },
+      {
+        "family": "Laudon",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      ";login"
+    ],
+    "date": [
+      "2006-10"
+    ],
+    "title": [
+      "Multi-Core Microprocessors are Here"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MCFA92 McFarling",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 19th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1992-05"
+    ],
+    "title": [
+      "Cache Replacement with Dynamic Exclusion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "MCMA93 McMahon",
+        "given": "F."
+      },
+      {
+        "family": "MITT17a Mittal",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1993-10"
+    ],
+    "title": [
+      "L.L.N.L Fortran Kernels Test” source",
+      "A survey of techniques for designing and managing CPU register files"
+    ],
+    "type": null,
+    "url": [
+      "www.netlib.org/ benchmark/livermore"
+    ]
+  },
+  {
+    "container-title": [
+      "Practice and Experience"
+    ],
+    "date": [
+      "2017-02"
+    ],
+    "title": [
+      "Concurrency and Computation"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MITT17b Mittal",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Concurrency and Computation: Practice and Experience"
+    ],
+    "date": [
+      "2017-05"
+    ],
+    "title": [
+      "A Survey of Techniques for Architecting TLBs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MOOR65 Moore",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE",
+      "Electronics Magazine"
+    ],
+    "date": [
+      "1965-04-19",
+      "1998-01"
+    ],
+    "edition": [
+      "Reprint"
+    ],
+    "title": [
+      "Cramming More Components Onto Integrated Circuits"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Insights",
+        "given": "MOOR17 Moor"
+      },
+      {
+        "given": "Strategy"
+      },
+      {
+        "family": "MORR74 Morris",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "ACM SIGMETRICS Performance Evaluation Review"
+    ],
+    "date": [
+      "2017-06",
+      "1974-10"
+    ],
+    "genre": [
+      "White Paper,"
+    ],
+    "title": [
+      "SPEC CPU2017 & Changing Performance",
+      "Kiviat Graphs—Conventions and Figures of Merit"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.amd.com/system/files/2017-06/SPEC-CPU-2017-and-Changing-Performance.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MORS78 Morse",
+        "given": "S."
+      },
+      {
+        "family": "Pohlman",
+        "given": "W."
+      },
+      {
+        "family": "Ravenel",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1978-06"
+    ],
+    "title": [
+      "The Intel 8086 Microprocessor: A 16-bit Evolution of the 8080"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MYER78 Myers",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1978-06"
+    ],
+    "title": [
+      "The Evaluation of Expressions in a Storage-to-Storage Architecture"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "NASM17 The NASM Development Team. NASM—The Netwide Assembler"
+    ],
+    "type": null,
+    "url": [
+      "http://nasm.us/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "NOVI93 Novitsky",
+        "given": "J."
+      },
+      {
+        "family": "Azimi",
+        "given": "M."
+      },
+      {
+        "family": "Ghaznavi",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings COMPCON ’92"
+    ],
+    "date": [
+      "1993-02"
+    ],
+    "title": [
+      "Optimizing Systems Performance Based on Pentium Processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "PADE81 Padegs",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1981-09"
+    ],
+    "title": [
+      "System/360 and Beyond"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PAGI06 Pagiamtzis",
+        "given": "K."
+      },
+      {
+        "family": "Sheikholeslami",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "B. Computer Arithmetic: Algorithms and Hardware Design",
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "2006-03",
+      "2010"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      " Content-Addressable Memory (CAM) Circuits and Architectures: A Tutorial and Survey",
+      "PARH10 Parhami"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PATE76 Patel",
+        "given": "J."
+      },
+      {
+        "family": "Davidson",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 3rd Annual Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "Improving the Throughput of a Pipeline by Insertion of Delays"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "PATT82a Patterson",
+        "given": "D."
+      },
+      {
+        "family": "Sequin",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1982-09"
+    ],
+    "title": [
+      "A VLSI RISC"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PATT82b Patterson",
+        "given": "D."
+      },
+      {
+        "family": "Piepho",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1982-11"
+    ],
+    "title": [
+      "Assessing RISCs in High-Level Language Support"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PATT88 Patterson",
+        "given": "D."
+      },
+      {
+        "family": "Gibson",
+        "given": "G."
+      },
+      {
+        "family": "Katz",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings, ACM SIGMOD Conference of Management of Data"
+    ],
+    "date": [
+      "1988-06"
+    ],
+    "title": [
+      "A Case for Redundant Arrays of Inexpensive Disks (RAID"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "PEIR99 Peir",
+        "given": "J."
+      },
+      {
+        "family": "Hsu",
+        "given": "W."
+      },
+      {
+        "family": "Smith",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1999-02"
+    ],
+    "title": [
+      "Functional Implementation Techniques for CPU Cache Memories"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PELE97 Peleg",
+        "given": "A."
+      },
+      {
+        "family": "Wilkie",
+        "given": "S."
+      },
+      {
+        "family": "Weiser",
+        "given": "U."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1997-01"
+    ],
+    "title": [
+      "Intel MMX for Multimedia PCs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PFIS98 Pfister",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "In Search of Clusters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PHAN07 Phansalkar",
+        "given": "A."
+      },
+      {
+        "family": "Joshi",
+        "given": "A."
+      },
+      {
+        "family": "John",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "34th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "2007-06"
+    ],
+    "title": [
+      "Analysis of Redundancy and Application Balance in the SPEC CPU2006 Benchmark Suite"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "POLL99 Pollack",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 32nd Annual ACM/IEEE International Symposium on Microarchitecture"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "New Microarchitecture Challenges in the Coming Generations of CMOS Process Technologies (keynote address"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "POWE01 Powell",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "34th International Symposium on Microarchitecture (MICRO"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Reducing Set-Associative Cache Energy via Way-Prediction and Selective Direct-Mapping"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "PRES01 Pressel",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings, ACM Symposium on Applied Computing"
+    ],
+    "date": [
+      "2001-03"
+    ],
+    "title": [
+      "Fundamental Limitations on the Use of Prefetching and Stream Buffers for Scientific Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "PROP11 Prophet",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "IDN"
+    ],
+    "date": [
+      "2011-12-02"
+    ],
+    "title": [
+      "Use GPUs to Boost Acceleration"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PRZY88 Przybylski",
+        "given": "S."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J."
+      },
+      {
+        "family": "PRZY90 Przybylski",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Fifteenth Annual International Symposium on Computer Architecture",
+      "Proceedings, 17th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1988-06",
+      "1990-05"
+    ],
+    "title": [
+      "Performance Trade-offs in Cache Design",
+      "The Performance Impact of Block Size and Fetch Strategies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "RADI83 Radin",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1983-05"
+    ],
+    "title": [
+      "The 801 Minicomputer"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RAGA83 Ragan-Kelley",
+        "given": "R."
+      },
+      {
+        "family": "Clark",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Computer Design"
+    ],
+    "date": [
+      "1983-11"
+    ],
+    "title": [
+      "Applying RISC Theory to a Large Computer"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RAOU09 Raouk",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "July/September 2008"
+    ],
+    "title": [
+      "Phase-Change Random Access Memory: A Scalable Technology"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RECH98 Reches",
+        "given": "S."
+      },
+      {
+        "family": "Weiss",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1998-08"
+    ],
+    "title": [
+      "Implementation and Analysis of Path History in Dynamic Branch Prediction Schemes"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "REDD76 Reddi",
+        "given": "S."
+      },
+      {
+        "family": "Feustel",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Computing Surveys"
+    ],
+    "date": [
+      "1976-06"
+    ],
+    "title": [
+      "A Conceptual Framework for Computer Architecture"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "REIM06 Reimer",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "ars technica"
+    ],
+    "date": [
+      "2006-11-05"
+    ],
+    "note": [
+      "arstechnica.com/ articles/paedia/cpu/valve-multicore.ars"
+    ],
+    "title": [
+      "Valve Goes Multicore"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RICE65 Rice",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "“ Communications of the ACM"
+    ],
+    "date": [
+      "1965-02"
+    ],
+    "title": [
+      "Recursion and Iteration"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "ROBI07 Robin",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Embedded Linux Conference"
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "Experiment with Linux and ARM Thumb-2 ISA"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Seagate",
+        "given": "SEAG17"
+      }
+    ],
+    "container-title": [
+      "Seagate Technical Article"
+    ],
+    "note": [
+      "Retrieved 23 August 2017."
+    ],
+    "title": [
+      "Transition to Advanced Format 4K Sector Hard Drives"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.seagate.com/tech-insights/advanced-format-4k-sectorhard-drives-master-ti/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SHAN38 Shannon",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "AIEE Transactions"
+    ],
+    "date": [
+      "1938"
+    ],
+    "title": [
+      "Symbolic Analysis of Relay and Switching Circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SHAR03 Sharma",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Piscataway, NJ"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Advanced Semiconductor Memories"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SIEW82 Siewiorek",
+        "given": "D."
+      },
+      {
+        "family": "Bell",
+        "given": "C."
+      },
+      {
+        "family": "Newell",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Structures: Principles and Examples"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SIMO96 Simon",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Sciences of the Artificial"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SMIT82 Smith",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1982-09"
+    ],
+    "title": [
+      "Cache Memories"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "SMIT88 Smith",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1988-10"
+    ],
+    "title": [
+      "Characterizing Computer Performance with a Single Number"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "SMIT89 Smith",
+        "given": "M."
+      },
+      {
+        "family": "Johnson",
+        "given": "M."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Third International Conference on Architectural Support for Programming Languages and Operating Systems"
+    ],
+    "date": [
+      "1989-04"
+    ],
+    "title": [
+      "Limits on Multiple Instruction Issue"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "SMIT95 Smith",
+        "given": "J."
+      },
+      {
+        "family": "Sohi",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1995-12"
+    ],
+    "title": [
+      "The Microarchitecture of Superscalar Processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "STAL16 Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Foundations of Modern Networking: SDN, NFV, QoEIoT, and Cloud"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "STAL18 Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "edition": [
+      "Ninth"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Operating Systems, Internals and Design Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "STEN90 Stenstrom",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "title": [
+      "A Survey of Cache Coherence Schemes of Multiprocessors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "STEV64 Stevens",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1964"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "The Structure of System/360, Part II: System Implementation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STEV13 Stevens",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2013-07-29"
+    ],
+    "genre": [
+      "ARM White Paper,"
+    ],
+    "title": [
+      "Introduction to AMBS 4 ACE and big.LITTLE Processing Technology"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "STIL94 Stiliadis",
+        "given": "D."
+      },
+      {
+        "family": "Varma",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1987-01"
+    ],
+    "title": [
+      "Selective Victim Caching: A Method to Improve the Performance of Direct-Mapped Caches"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "STRE78 Strecker",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Proceedings, National Computer Conference"
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "VAX-11/780: A Virtual Address Extension to the DEC PDP-11 Family"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "STRI79 Stritter",
+        "given": "E."
+      },
+      {
+        "family": "Gunter",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1979-02"
+    ],
+    "title": [
+      "A Microprocessor Architecture for a Changing World: The Motorola 68000"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "TAMI83 Tamir",
+        "given": "Y."
+      },
+      {
+        "family": "Sequin",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1983-11"
+    ],
+    "title": [
+      "Strategies for Managing the Register File in RISC"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "TANE78 Tanenbaum",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1978-03"
+    ],
+    "title": [
+      "Implications of Structured Programming for Machine Architecture"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "THOR64 Thornton",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1964"
+    ],
+    "title": [
+      "Parallel Operation in the Control Data 6600"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "THOR70 Thornton",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Glenville, IL"
+    ],
+    "publisher": [
+      "Scott, Foreman, and Company"
+    ],
+    "title": [
+      "The Design of a Computer: The Control Data 6600"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "THOR80 Thornton",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Annals of the History of Computing"
+    ],
+    "date": [
+      "1980-10"
+    ],
+    "title": [
+      "The CDC 6600 Project"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "TOMA67 Tomasulo",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "IBM Journal"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "title": [
+      "An Efficient Algorithm for Exploiting Multiple Arithmetic Units"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "TOON81 Toong",
+        "given": "H."
+      },
+      {
+        "family": "Gupta",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1981-05"
+    ],
+    "title": [
+      "An Architectural Comparison of Contemporary 16-Bit Microprocessors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "TSEN09 Tseng",
+        "given": "C."
+      },
+      {
+        "family": "Chen",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "International Conference on Communications and Mobile Computing"
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "The Design of Way-Prediction Schemes in Set-Associative Caches for Energy Efficient Embedded Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "UNGE02 Ungerer",
+        "given": "T."
+      },
+      {
+        "family": "Rubic",
+        "given": "B."
+      },
+      {
+        "family": "Silc",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "The Computer Journal"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "3"
+    ],
+    "title": [
+      "Multithreaded Processors"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "UNGE03 Ungerer",
+        "given": "T."
+      },
+      {
+        "family": "Rubic",
+        "given": "B."
+      },
+      {
+        "family": "Silc",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "2003-03"
+    ],
+    "title": [
+      " A Survey of Processors with Explicit Multithreading"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "VANC14 Vance",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Business Week, February"
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "99% of the World’s Mobile Devices Contain an ARM Chip"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neumann",
+        "given": "J.First Draft of a Report on the E.D.V.A.C.Moore School",
+        "particle": "VONN45 Von"
+      },
+      {
+        "family": "Pennsylvania",
+        "given": "University",
+        "particle": "of"
+      }
+    ],
+    "container-title": [
+      "IEEE Annals on the History of Computing"
+    ],
+    "date": [
+      "1945",
+      "1993"
+    ],
+    "edition": [
+      "Reprint"
+    ],
+    "issue": [
+      "4"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "VRAN80 Vranesic",
+        "given": "Z."
+      },
+      {
+        "family": "Thurber",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1980-06"
+    ],
+    "title": [
+      "Teaching Computer Structures"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "WANG99 Wang",
+        "given": "G."
+      },
+      {
+        "family": "Tafti",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "International Journal of Supercomputing Applications"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Performance Enhancement on Microprocessors with Hierarchical Memory Systems for Solving Large Sparse Linear Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WEIC90 Weicker",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1990-12"
+    ],
+    "title": [
+      "An Overview of Common Benchmarks"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "WEIN75 Weinberg",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "An Introduction to General Systems Thinking"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "WHIT97 Whitney",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings, COMPCON Spring ’97"
+    ],
+    "date": [
+      "1997-02"
+    ],
+    "title": [
+      "The SGI Origin Software Environment and Application Performance"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "WILK51 Wilkes",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings"
+    ],
+    "date": [
+      "1951-07"
+    ],
+    "publisher": [
+      "Manchester University Computer Inaugural Conference"
+    ],
+    "title": [
+      "The Best Way to Design an Automatic Calculating Machine"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "WILL90 Williams",
+        "given": "F."
+      },
+      {
+        "family": "Steven",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Computer Architecture News"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "title": [
+      "Address and Data Register Separation on the M68000 Family"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "YEH91 Yeh",
+        "given": "T."
+      },
+      {
+        "family": "Patt",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 24th Annual International Symposium on Microarchitecture"
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Two-Level Adapting Training Branch Prediction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "ZHOU09 Zhou",
+        "given": "P."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "ACM International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "CA’09"
+    ],
+    "title": [
+      "A Durable and Energy Efficient Main Memory Using Phase Change Memory Technology"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "title": [
+      "Supplemental Materials “The student resources that accompany this text are available online at www.pearson.com/ stallings"
+    ],
+    "type": null
+  }
+]
