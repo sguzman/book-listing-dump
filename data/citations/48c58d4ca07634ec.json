@@ -1,0 +1,2469 @@
+[
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "note": [
+      "• MLCP solvers:"
+    ],
+    "title": [
+      "Newton’s method of Acary and Brogliato"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "note": [
+      "• NCP solvers."
+    ],
+    "title": [
+      "Splitting based methods of Acary and Brogliato"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "Newton’s method based on the Fischer–Burmeister function"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "13 5 3"
+    ],
+    "title": [
+      "Interface to the PATH solver described in Acary and Brogliato"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Prof. K",
+        "given": "Q.P.",
+        "particle": "solver based on QLD due to"
+      }
+    ],
+    "note": [
+      "M.J.D. Powell at the University of Cambridge). • Frictional contact solvers: – Projection-type methods of Acary and Brogliato (2008, Sect. 13.7.2)."
+    ],
+    "title": [
+      "Schittkowski of the University of Bayreuth, Germany (modification of routines due to Prof"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "NSGS splitting based method of Acary and Brogliato"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Alart–Curnier’s method of Acary and Brogliato"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "NCP reformulation method of Acary and Brogliato"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Acary",
+        "given": "V."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Acary",
+        "given": "V."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Acary",
+        "given": "V."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Goeleven",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Applied and Computational Mechanics",
+      "Systems and Control Letters",
+      "Mathematical Programming, Series A"
+    ],
+    "date": [
+      "2008",
+      "2010",
+      "2008",
+      "2009-05"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "note": [
+      "V. Acary, O. Bonnefon, B. Brogliato, Improved circuit simulator. Patent number 09/02605,"
+    ],
+    "pages": [
+      "284–293",
+      "133–217"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Numerical Methods for Nonsmooth Dynamical Systems: Applications in Mechanics and Electronics",
+      "Implicit Euler numerical scheme and chattering-free implementation of sliding mode systems",
+      "Higher order Moreau’s sweeping process: mathematical formulation and numerical simulation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35",
+      "59",
+      "113"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Acary",
+        "given": "V."
+      },
+      {
+        "family": "Bonnefon",
+        "given": "O."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Addi",
+        "given": "K."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Goeleven",
+        "given": "D."
+      },
+      {
+        "family": "Addi",
+        "given": "K."
+      },
+      {
+        "family": "Adly",
+        "given": "S."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Goeleven",
+        "given": "D."
+      },
+      {
+        "family": "Ascher",
+        "given": "U."
+      },
+      {
+        "family": "Petzold",
+        "given": "L."
+      },
+      {
+        "family": "Bächle",
+        "given": "S."
+      },
+      {
+        "family": "Ebert",
+        "given": "F."
+      },
+      {
+        "family": "Bächle",
+        "given": "S."
+      },
+      {
+        "family": "Ebert",
+        "given": "F."
+      },
+      {
+        "family": "Bastien",
+        "given": "J."
+      },
+      {
+        "family": "Schatzman",
+        "given": "M."
+      },
+      {
+        "family": "Batlle",
+        "given": "C."
+      },
+      {
+        "family": "Fossas",
+        "given": "E."
+      },
+      {
+        "family": "Miralles",
+        "given": "A."
+      },
+      {
+        "family": "Bedrosian",
+        "given": "D."
+      },
+      {
+        "family": "Vlach",
+        "given": "J."
+      },
+      {
+        "family": "Billups",
+        "given": "S.Dirkse"
+      },
+      {
+        "family": "Ferris",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Computer simulation of continuous-time and switched circuits: limitations of SPICE-family programs and pending issues, in Radioelektronika, 17th Int. Conference",
+      "IEEE Transactions on Computer-Aided Design for Integrated Circuits and Systems",
+      "Nonlinear Analysis: Hybrid Systems",
+      "ESAIM M2AN: Mathematical Modelling and Numerical Analysis",
+      "IEEE Transactions on Circuits and Systems II, Express Briefs",
+      "International Journal of Circuit Theory and Applications",
+      "Computational Optimization and Applications"
+    ],
+    "date": [
+      "2010",
+      "2010",
+      "2007",
+      "1998",
+      "2005",
+      "2002",
+      "2005",
+      "1992",
+      "1997",
+      "2007-04-24",
+      "1992-08-09"
+    ],
+    "doi": [
+      "10.1007/s10107-009-0268-7"
+    ],
+    "editor": [
+      {
+        "family": "Biolek",
+        "given": "D."
+      },
+      {
+        "family": "Dobes",
+        "given": "J."
+      }
+    ],
+    "genre": [
+      "Technical Report Preprint 05-246 (Matheon), Inst. f.",
+      "Technical Report Preprint 05-245"
+    ],
+    "issue": [
+      "7",
+      "1",
+      "3",
+      "8"
+    ],
+    "location": [
+      "Philadelphia",
+      "Mathematik, TU Berlin",
+      "Brno, Czech Republic"
+    ],
+    "note": [
+      "Matheon), Inst. f. Mathematik, TU Berlin, 2005b",
+      "Acary et al., Nonsmooth Modeling and Simulation for Switched Circuits, 273 Lecture Notes in Electrical Engineering 69, W. Bliss, S. Smith, K. Loh, A switched-capacitor realization of discrete-time block filters, in 35th IEEE Midwest Symposium on Circuits and Systems,"
+    ],
+    "pages": [
+      "1042–1055",
+      "30–43",
+      "427–460",
+      "447–451",
+      "309–325",
+      "3–25",
+      "429–432"
+    ],
+    "title": [
+      "Time-stepping numerical simulation of switched circuits with the nonsmooth dynamical systems approach",
+      "A qualitative mathematical analysis of a class of linear variational inequalities via semi-complementarity problems: applications in electronics. Mathematical Programming A",
+      "A method using the approach of Moreau and Panagiotopoulos for the mathematical formulation of non-regular circuits in electronics",
+      "Computer Methods for Ordinary Differential Equations and Differential-Algebraic Equations (SIAM",
+      "Element-based topological index reduction for differential-algebraic equations in circuit simulation",
+      "Graph theoretical algorithms for index reduction in circuit simulation",
+      "Numerical precision for differential inclusions with uniqueness",
+      "Generalized discontinuous conduction modes in the complementarity formalism",
+      "Analysis of switched networks",
+      "A comparison of large scale mixed complementarity problem solvers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29",
+      "1",
+      "36",
+      "52",
+      "20",
+      "7",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Branin",
+        "given": "F.",
+        "suffix": "Jr"
+      },
+      {
+        "family": "Brenan",
+        "given": "K."
+      },
+      {
+        "family": "Campbell",
+        "given": "S."
+      },
+      {
+        "family": "Petzold",
+        "given": "L."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Goeleven",
+        "given": "D."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Goeleven",
+        "given": "D."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Thibault",
+        "given": "L."
+      },
+      {
+        "family": "B. Brogliato",
+        "particle": "birthday"
+      },
+      {
+        "family": "Daniilidis",
+        "given": "A."
+      },
+      {
+        "family": "Lemaréchal",
+        "given": "C."
+      },
+      {
+        "family": "Acary",
+        "given": "V."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Lozano",
+        "given": "R."
+      },
+      {
+        "family": "Maschke",
+        "given": "B."
+      },
+      {
+        "family": "Egeland",
+        "given": "O."
+      },
+      {
+        "family": "Butcher",
+        "given": "J."
+      },
+      {
+        "family": "Camlibel",
+        "given": "K."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M.K."
+      },
+      {
+        "family": "Heemels",
+        "given": "W."
+      },
+      {
+        "family": "Schumacher",
+        "given": "J."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Heemels",
+        "given": "W."
+      },
+      {
+        "family": "Schumacher",
+        "given": "J."
+      },
+      {
+        "family": "Cao",
+        "given": "M."
+      },
+      {
+        "family": "Ferris",
+        "given": "M."
+      },
+      {
+        "family": "Carbone",
+        "given": "A."
+      },
+      {
+        "family": "Palma",
+        "given": "F."
+      },
+      {
+        "family": "Chua",
+        "given": "L."
+      },
+      {
+        "family": "Ying",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Communications and Control Engineering",
+      "Proceedings of the IEEE",
+      "IEEE Transactions on Automatic Control",
+      "Systems and Control Letters",
+      "Mathematics of Control, Signals and Systems",
+      "Journal of Convex Analysis",
+      "Systems and Control Letters",
+      "IEEE Transactions on Circuits and Systems",
+      "European Journal of Control",
+      "Mathematics of Operations Research",
+      "International Journal of Circuit Theory and Applications",
+      "IEEE Transactions on Circuits and Systems",
+      "IEEE Transactions on Circuits and Systems"
+    ],
+    "date": [
+      "1967",
+      "1989",
+      "1999",
+      "2003",
+      "2004",
+      "2005",
+      "2010",
+      "2010",
+      "2006",
+      "2007",
+      "1987",
+      "2001",
+      "1996",
+      "2006",
+      "1985",
+      "1983"
+    ],
+    "edition": [
+      "2nd edn",
+      "2nd edn"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "isbn": [
+      "90"
+    ],
+    "issue": [
+      "11",
+      "6",
+      "1",
+      "3–4",
+      "3",
+      "1",
+      "1"
+    ],
+    "location": [
+      "Amsterdam",
+      "London",
+      "London",
+      "New York"
+    ],
+    "note": [
+      "in press",
+      "Special issue in the honour of H. Attouch 60th",
+      "2002a",
+      "2002b",
+      "L. Chua, A. Dang, Canonical piecewise-linear analysis:"
+    ],
+    "pages": [
+      "1787–1801",
+      "0018–9219",
+      "918–935",
+      "343–353",
+      "57–76",
+      "45–51",
+      "5668 073",
+      "349–357",
+      "220–237",
+      "44–64",
+      "93–104",
+      "417–444",
+      "125–140"
+    ],
+    "publisher": [
+      "North-Holland",
+      "Springer",
+      "Springer",
+      "Wiley",
+      "Katholieke Universiteit Brabant"
+    ],
+    "title": [
+      "Computer methods of network analysis",
+      "ISBN",
+      "Numerical Solution of Initial-Value Problems in Differential-Algebraic Equations",
+      "Nonsmooth Mechanics: Models, Dynamics and Control",
+      "Some perspectives on the analysis and control of complementarity systems",
+      "Absolute stability and the Lagrange-Dirichlet theorem with monotone multivalued mappings",
+      "The Krasovskii-LaSalle invariance principle for a class of unilateral dynamical systems",
+      "Well-posedness, stability and invariance results for a class of multivalued Lur’e dynamical systems. Nonlinear Analysis: Theory, Methods and Applications",
+      "Existence and uniqueness of solutions for non-autonomous complementarity dynamical systems",
+      "On the equivalence between complementarity systems, projected systems and differential inclusions",
+      "Dissipative Systems Analysis and Control Theory and Applications",
+      "The Numerical Analysis of Ordinary Differential Equations—Runge-Kutta and General Linear Methods",
+      "Complementarity methods in the analysis of piecewise linear dynamical systems",
+      "Consistency of a time-stepping method for a class of piecewise-linear networks",
+      "On linear passive complementarity systems",
+      "A pivotal method for affine variational inequalities",
+      "Discontinuity correction in piecewise-linear models of oscillators for phase noise characterization",
+      "Part II—tracing driving-point and transfer characteristics",
+      "Canonical piecewise-linear analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55",
+      "48",
+      "51",
+      "17",
+      "17",
+      "55",
+      "I 49",
+      "8",
+      "21",
+      "35",
+      "CAS-32(5",
+      "CAS-30(3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chua",
+        "given": "L."
+      },
+      {
+        "family": "Desoer",
+        "given": "C."
+      },
+      {
+        "family": "Kuh",
+        "given": "E."
+      },
+      {
+        "given": "Linear"
+      },
+      {
+        "family": "Circuits",
+        "given": "Non Linear"
+      },
+      {
+        "family": "Chung",
+        "given": "H."
+      },
+      {
+        "family": "Ioinovici",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Power Electronics"
+    ],
+    "date": [
+      "1991",
+      "1994"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "206–212"
+    ],
+    "title": [
+      "Fast computer aided simulation of switching power regulators based on progressive analysis of the switches’ state"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "F."
+      },
+      {
+        "family": "Cortés",
+        "given": "J."
+      },
+      {
+        "family": "Cottle",
+        "given": "R.W."
+      },
+      {
+        "family": "Pang",
+        "given": "J."
+      },
+      {
+        "family": "Stone",
+        "given": "R.E."
+      },
+      {
+        "family": "Kelper",
+        "given": "L.",
+        "particle": "De"
+      },
+      {
+        "family": "Dessaint",
+        "given": "A."
+      },
+      {
+        "family": "Al-Haddad",
+        "given": "K."
+      },
+      {
+        "family": "Nakra",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Transactions of AMS",
+      "Journal of Mathematical Analysis and Applications",
+      "IEEE Control Systems Magazine",
+      "IEEE Transactions on Power Electronics"
+    ],
+    "date": [
+      "1975",
+      "1983",
+      "2008",
+      "1992",
+      "2002"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "pages": [
+      "247–262",
+      "130–147",
+      "216–224"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Generalized gradients and its applications",
+      "B. Cornet, Existence of slow solutions for a class of differential inclusions",
+      "Discontinuous dynamical systems. a tutorial on solutions, nonsmooth analysis, and stability",
+      "The Linear Complementarity Problem",
+      "A comprehensive approach to fixed-step simulation of switched circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "205",
+      "96",
+      "36–73",
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deimling",
+        "given": "K."
+      },
+      {
+        "family": "Dekker",
+        "given": "K."
+      },
+      {
+        "family": "Verwer",
+        "given": "J."
+      },
+      {
+        "family": "DeLuca",
+        "given": "T."
+      },
+      {
+        "family": "Facchinei",
+        "given": "F."
+      },
+      {
+        "family": "Kanzow",
+        "given": "C."
+      },
+      {
+        "family": "Denoyelle",
+        "given": "P."
+      },
+      {
+        "family": "Acary",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "CWI Monographs (North-Holland",
+      "Mathematical Programming"
+    ],
+    "date": [
+      "1992",
+      "1984",
+      "1996"
+    ],
+    "genre": [
+      "Evolution of electronic circuit simulators towards fast-SPICE performance."
+    ],
+    "location": [
+      "Berlin",
+      "Amsterdam"
+    ],
+    "pages": [
+      "407–439"
+    ],
+    "publisher": [
+      "de Gruyter"
+    ],
+    "title": [
+      "Multivalued Differential Equations",
+      "Stability of Runge-Kutta Methods for Stiff Nonlinear Differential Equations",
+      "A semismooth equation approach to the solution of nonlinear complementarity problems",
+      "The non-smooth approach applied to simulating integrated circuits and power electronics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dontchev",
+        "given": "A."
+      },
+      {
+        "family": "Lempio",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "SIAM Reviews"
+    ],
+    "date": [
+      "2006",
+      "1992"
+    ],
+    "genre": [
+      "INRIA Research Report 0321,"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "263–294"
+    ],
+    "title": [
+      "Difference methods for differential inclusions: a survey"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://hal.inria.fr/docs/00/08/09/20/PDF/RT-0321.pdf"
+    ],
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dontchev",
+        "given": "T."
+      },
+      {
+        "family": "Farkhi",
+        "given": "E."
+      },
+      {
+        "family": "Dzonou",
+        "given": "R."
+      },
+      {
+        "family": "Marques",
+        "given": "M.Monteiro"
+      },
+      {
+        "family": "Dzonou",
+        "given": "R."
+      },
+      {
+        "family": "Marques",
+        "given": "M.Monteiro"
+      },
+      {
+        "family": "Paoli",
+        "given": "L."
+      },
+      {
+        "family": "Edmond",
+        "given": "J."
+      },
+      {
+        "family": "Thibault",
+        "given": "L."
+      },
+      {
+        "family": "Edmond",
+        "given": "J."
+      },
+      {
+        "family": "Thibault",
+        "given": "L."
+      },
+      {
+        "family": "Enge",
+        "given": "O."
+      },
+      {
+        "family": "Maisser",
+        "given": "P."
+      },
+      {
+        "family": "Schwarz",
+        "given": "D.Estèvez"
+      },
+      {
+        "family": "Tischendorf",
+        "given": "C."
+      },
+      {
+        "family": "Facchinei",
+        "given": "F."
+      },
+      {
+        "family": "Pang",
+        "given": "J.S."
+      },
+      {
+        "family": "Frasca",
+        "given": "R."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Goknar",
+        "given": "I."
+      },
+      {
+        "family": "Ianelli",
+        "given": "L."
+      },
+      {
+        "family": "Vasca",
+        "given": "F."
+      },
+      {
+        "family": "Frasca",
+        "given": "R."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Goknar",
+        "given": "I."
+      },
+      {
+        "family": "Ianelli",
+        "given": "L."
+      },
+      {
+        "family": "Vasca",
+        "given": "F."
+      },
+      {
+        "family": "Fujisawa",
+        "given": "T."
+      },
+      {
+        "family": "Kuh",
+        "given": "E."
+      },
+      {
+        "family": "Ohtsuki",
+        "given": "T."
+      },
+      {
+        "family": "Fukushima",
+        "given": "M."
+      },
+      {
+        "family": "Glocker",
+        "given": "C."
+      },
+      {
+        "family": "Goeleven",
+        "given": "D."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Günther",
+        "given": "U.Feldmann"
+      },
+      {
+        "family": "Maten",
+        "given": "E.",
+        "particle": "ter"
+      }
+    ],
+    "container-title": [
+      "IEEE Int. Symposium on Circuits and Systems, ISCAS2008",
+      "Glocker, Set-Valued Force Laws: Dynamics of Non-Smooth Systems. Lecture Notes in Applied Mechanics",
+      "Handbook of Numerical Analysis, Special Volume on Numerical Methods in Electromagnetics",
+      "SIAM Journal of Control and Optimization",
+      "European Journal of Mechanics A, Solids",
+      "Comptes Rendus Mécanique",
+      "Mathematical Programming B",
+      "Journal of Differential Equations",
+      "Multibody System Dynamics",
+      "International Journal of Circuit Theory and Applications",
+      "Springer Series in Operations Research",
+      "AMS Transactions",
+      "IEEE Transactions on Circuit Theory",
+      "Mathematical Programming",
+      "IEEE Transactions on Circuit Theory",
+      "International Journal of Circuit Theory and Applications",
+      "Journal of Optimization Theory and Applications",
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1998",
+      "2007",
+      "2007",
+      "2005",
+      "2006",
+      "2005",
+      "2000",
+      "2003",
+      "1964",
+      "1988",
+      "2007",
+      "2008-05-18",
+      "1972",
+      "1992",
+      "1971",
+      "2001",
+      "2005",
+      "2008",
+      "2004",
+      "1996"
+    ],
+    "edition": [
+      "3rd edn"
+    ],
+    "genre": [
+      "GRACE Report no 460,"
+    ],
+    "issue": [
+      "2",
+      "3",
+      "1",
+      "6",
+      "1",
+      "3",
+      "4"
+    ],
+    "location": [
+      "New York",
+      "Dordrecht",
+      "Berlin",
+      "Baltimore"
+    ],
+    "note": [
+      "G. Golub, C. Van Loan, Matrix Computations,",
+      "E. Griepentrog, R. März, Differential-Algebraic Equations and Their Numerical Treatment (Teubner, Leipzig, 1986) M. Günther, U. Feldmann, The DAE-index in electric circuit simulation. Technical Report TUM-M9319, Facultät für Mathematiik. Technische Universität München, 1993 M."
+    ],
+    "pages": [
+      "780–796",
+      "474–490",
+      "55–60",
+      "347–373",
+      "135–179",
+      "421–445",
+      "131–162",
+      "199–231",
+      "540–543",
+      "571–584",
+      "99–110",
+      "89–95",
+      "205–234",
+      "397–406",
+      "521–534"
+    ],
+    "publisher": [
+      "Springer",
+      "Kluwer",
+      "University of Benevento",
+      "Springer",
+      "The Johns Hopkins University Press"
+    ],
+    "title": [
+      "Stability and Euler approximation of one-sided-Lipschitz differential inclusions",
+      "A sweeping process approach to inelastic contact problems with general inertia operators",
+      "Algorithme de type sweeping process pour un problème de vibro-impact avec un opérateur d’inertie non trivial (sweeping process algorithm for a vibro-impact problem with a nontrivial inertia operator",
+      "Relaxation of an optimal control problem involving a perturbed sweeping process",
+      "BV solutions of nonconvex sweeping process differential inclusion with perturbation",
+      "Modelling electromechanical systems with electrical switching components using the linear complementarity problem",
+      "Structural analysis for electric circuits and consequences for MNA",
+      "Finite-Dimensional Variational Inequalities and Complementarity Problems",
+      "A. Filippov, Differential equations with discontinuous right-hand-side",
+      "A.F. Filippov, Differential Equations with Discontinuous Right Hand Sides",
+      "State jump rules in linear passive networks with ideal switches",
+      "State discontinuity analysis of linear switched systems via energy function optimization",
+      "A sparse matrix method for analysis of piecewise linear resistive circuits",
+      "Equivalent differentiable optimization problems and descent methods for asymmetric variational inequality problems",
+      "C. Gear, Simultaneous numerical solution of differential-algebraic equations",
+      "ISSN: 0018-9324 C",
+      "Models of non-smooth switches in electrical systems",
+      "D. Goeleven, Existence and uniqueness for a linear mixed variational inequality arising in electrical circuits with transistors",
+      "Stability and instability matrices for linear evolution variational inequalities",
+      "Modelling and discretization of circuit problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36",
+      "26",
+      "335",
+      "104",
+      "226",
+      "13",
+      "28",
+      "vols. I & II",
+      "42",
+      "19",
+      "53",
+      "18",
+      "1",
+      "33",
+      "138",
+      "49"
+    ]
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "editor": [
+      {
+        "literal": "XIII, ed. by W. Schilders, E. ter Maten (Elsevier"
+      }
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "523–659"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hachtel",
+        "given": "G."
+      },
+      {
+        "family": "Brayton",
+        "given": "R."
+      },
+      {
+        "family": "Gustavson",
+        "given": "F."
+      },
+      {
+        "literal": "E. Hairer, G. Wanner, Solving Ordinary Differential Equations II. Stiff and Differential-Algebraic Problems"
+      },
+      {
+        "family": "Heemels",
+        "given": "W."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      },
+      {
+        "family": "Heemels",
+        "given": "W."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Schumacher",
+        "given": "J."
+      },
+      {
+        "family": "Heemels",
+        "given": "W."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Schumacher",
+        "given": "J."
+      },
+      {
+        "family": "Henry",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 39th IEEE Conference on Decision and Control",
+      "Modelling, well-posedness and stability of switched electrical networks, in HSCC 2003",
+      "Pnueli. Lecture Notes in Computer Science",
+      "IEEE Transactions on Circuit Theory",
+      "European Journal of Control",
+      "APII Journal Européen des Systèmes Automatisés, Numéro Spécial ADPM",
+      "Journal of Mathematical Analysis and Applications"
+    ],
+    "date": [
+      "1971",
+      "1996",
+      "2003",
+      "2000-12",
+      "2001",
+      "2003",
+      "1973"
+    ],
+    "editor": [
+      {
+        "family": "Heemels",
+        "given": "W."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Schaft",
+        "given": "A.",
+        "particle": "van der"
+      },
+      {
+        "family": "Schumacher",
+        "given": "J."
+      },
+      {
+        "family": "Maler",
+        "given": "O."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Berlin",
+      "Sydney, Australia",
+      "Berlin"
+    ],
+    "pages": [
+      "101–113",
+      "0018–9324",
+      "311–349",
+      "4461–4466",
+      "1–22",
+      "249–266",
+      "179–186"
+    ],
+    "publisher": [
+      "Springer",
+      "Springer"
+    ],
+    "title": [
+      "The sparse tableau approach to network analysis and design",
+      "ISSN",
+      "The complementarity class of hybrid dynamical systems",
+      "A time-stepping method for relay systems",
+      "On event-driven simulation of electrical circuits with ideal diodes",
+      "An existence theorem for a class of differential equations with multivalued right-hand side"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18",
+      "9",
+      "1",
+      "2623",
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hiriart-Urruty",
+        "given": "J."
+      },
+      {
+        "family": "Lemaréchal",
+        "given": "C."
+      },
+      {
+        "family": "Hiriart-Urruty",
+        "given": "J.-B."
+      },
+      {
+        "family": "Seeger",
+        "given": "A."
+      },
+      {
+        "family": "Ho",
+        "given": "C."
+      },
+      {
+        "family": "Ruehli",
+        "given": "A."
+      },
+      {
+        "family": "Brennan",
+        "given": "P."
+      },
+      {
+        "family": "Huang",
+        "given": "M."
+      },
+      {
+        "family": "Liu",
+        "given": "S."
+      },
+      {
+        "family": "Jean",
+        "given": "M."
+      },
+      {
+        "family": "Kang",
+        "given": "S."
+      },
+      {
+        "family": "Chua",
+        "given": "L."
+      },
+      {
+        "family": "Kastner-Maresch",
+        "given": "A."
+      },
+      {
+        "family": "Kato",
+        "given": "T."
+      },
+      {
+        "family": "Kevenaar",
+        "given": "T."
+      },
+      {
+        "family": "Leenaerts",
+        "given": "D."
+      },
+      {
+        "family": "Kunze",
+        "given": "M."
+      },
+      {
+        "family": "Marquès",
+        "given": "M.Monteiro"
+      },
+      {
+        "family": "Leenaerts",
+        "given": "D."
+      },
+      {
+        "family": "Leenaerts",
+        "given": "D."
+      },
+      {
+        "family": "Bokhoven",
+        "given": "W.",
+        "particle": "Van"
+      },
+      {
+        "family": "Modeling",
+        "given": "Piecewise Linear"
+      },
+      {
+        "given": "Analysis"
+      },
+      {
+        "family": "Lin",
+        "given": "C."
+      },
+      {
+        "family": "Wang",
+        "given": "Q.G."
+      },
+      {
+        "family": "Liu",
+        "given": "C."
+      },
+      {
+        "family": "Hsieh",
+        "given": "J."
+      },
+      {
+        "family": "Chang",
+        "given": "C."
+      },
+      {
+        "family": "Bocek",
+        "given": "J."
+      },
+      {
+        "family": "Hsiao",
+        "given": "Y."
+      },
+      {
+        "family": "Lootsma",
+        "given": "Y."
+      },
+      {
+        "family": "Schaft",
+        "given": "A.",
+        "particle": "van der"
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Lukl",
+        "given": "T."
+      },
+      {
+        "family": "Vrana",
+        "given": "J."
+      },
+      {
+        "family": "Misurec",
+        "given": "J."
+      },
+      {
+        "family": "Mabrouk",
+        "given": "M."
+      },
+      {
+        "family": "Maffezzoni",
+        "given": "P."
+      },
+      {
+        "family": "Codecasa",
+        "given": "L."
+      },
+      {
+        "family": "D’Amore",
+        "given": "D."
+      },
+      {
+        "family": "Maksimovic",
+        "given": "D."
+      },
+      {
+        "family": "Stankovic",
+        "given": "A."
+      },
+      {
+        "family": "Thottuvelil",
+        "given": "V."
+      },
+      {
+        "family": "Verghese",
+        "given": "G."
+      },
+      {
+        "family": "März",
+        "given": "R."
+      },
+      {
+        "family": "Tischendorf",
+        "given": "C."
+      },
+      {
+        "family": "Moeller",
+        "given": "M."
+      },
+      {
+        "family": "Glocker",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Piecewise Linear Control Systems. Lecture Notes in Control and Information",
+      "Proceedings of Symposia in Pure Mathematics. Nonlinear Functional Analysis",
+      "Impact in Mechanical Systems: Analysis and Modelling",
+      "Lecture Notes in Physics",
+      "IEEE International Behavioral Modeling and Simulation Workshop",
+      "IEEE Power Electronics Specialists Conference",
+      "SIAM Review",
+      "IEEE Transactions on Circuits and Systems",
+      "IEEE Transactions on Circuits and Systems II, Express Briefs",
+      "Computer Methods in Applied Mechanics and Engineering",
+      "IEEE Transactions on Circuits and Systems",
+      "Numerical Functional Analysis and Optimization",
+      "IEEE Transactions on Circuits and Systems I, Fundamental Theory and Applications",
+      "IEEE Transactions on Circuits and Systems I, Fundamental Theory and Applications",
+      "Lecture Notes in Applied and Computational Mechanics",
+      "Automatica",
+      "IEEE Transactions on Power Electronics",
+      "Automatica",
+      "European Journal of Mechanics A, Solids",
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "Proceedings of the IEEE",
+      "Acta Numerica",
+      "SIAM Journal on Scientific and Statistical Computing",
+      "Analog and Digital Signal Processing"
+    ],
+    "date": [
+      "2001",
+      "2010",
+      "1975",
+      "2009",
+      "1999",
+      "2003",
+      "1978",
+      "1990",
+      "1968",
+      "1992",
+      "2000",
+      "1999",
+      "2008",
+      "2002",
+      "1993",
+      "1999",
+      "2006",
+      "1998",
+      "2006",
+      "2001",
+      "1992",
+      "1997",
+      "2000",
+      "1976-06-08"
+    ],
+    "editor": [
+      {
+        "family": "Martins",
+        "given": "J.A.C."
+      },
+      {
+        "family": "Klarbring",
+        "given": "A."
+      },
+      {
+        "family": "Johansson",
+        "given": "M."
+      },
+      {
+        "family": "Brogliato",
+        "given": "B."
+      }
+    ],
+    "issue": [
+      "4",
+      "6",
+      "5",
+      "9–10",
+      "12",
+      "8",
+      "1",
+      "3",
+      "11",
+      "6",
+      "1",
+      "4"
+    ],
+    "location": [
+      "Berlin",
+      "London",
+      "Berlin",
+      "Berlin",
+      "San Jose, California",
+      "Cleveland, OH"
+    ],
+    "note": [
+      "in press",
+      "K. Mayaram, D. Lee, D. Moinian, J. Roychowdhury, Computer-aided circuit analysis tools for RFIC simulation: algorithms, features, and limitations. IEEE Transactions on Circuits and Systems II,",
+      "R. Middlebrook, S. Cuk, A general unified approach to modelling switching—converter power stages,"
+    ],
+    "pages": [
+      "504–509",
+      "0098–4094",
+      "369–373",
+      "235–257",
+      "938–940",
+      "937–958",
+      "138–161",
+      "996–1004",
+      "1–60",
+      "1022–1026",
+      "177–180",
+      "37–45",
+      "467–478",
+      "61–66",
+      "819–842",
+      "2413–2426",
+      "898–912",
+      "141–198",
+      "139–159",
+      "274–286"
+    ],
+    "publisher": [
+      "Springer",
+      "Springer",
+      "Springer",
+      "Springer"
+    ],
+    "title": [
+      "Fundamentals of Convex Analysis",
+      "A variational approach to copositive matrices",
+      "The modified nodal approach to network analysis",
+      "ISSN",
+      "A fully differential comparator-based switched-capacitor δσ modulator",
+      "The non smooth contact dynamics method",
+      "Special issue on computational modeling of contact and friction",
+      "A global representation of multidimensional piecewise-linear functions with linear partitions",
+      "Implicit Runge-Kutta methods for differential inclusions",
+      "Accretive operators and nonlinear evolution equations in Banach spaces",
+      "A comparison of piecewise-linear model description",
+      "An introduction to Moreau’s sweeping process",
+      "On linear dynamic complementarity systems",
+      "Stability and Convergence of Mechanical Systems with Unilateral Constraints",
+      "On uniqueness of solutions to relay feedback systems",
+      "A fast-decoupled method for time-domain simulation of power converters",
+      "Uniqueness of solutions of linear relay systems",
+      "Scisip—program for switched circuit analysis in matlab",
+      "A unified variational for the dynamics of perfect unilateral constraints",
+      "Event-driven time-domain simulation of closed-loop switched circuits",
+      "Modeling and simulation of power electronic converters",
+      "R. März, Numerical methods for differential algebraic equations",
+      "Recent results in solving index 2 differential algebraic equations in circuit simulation",
+      "Non-smooth modelling of electrical systems using the flux approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52",
+      "22",
+      "56",
+      "177",
+      "284",
+      "CAS-25(11",
+      "11",
+      "18",
+      "Part 1",
+      "39",
+      "551",
+      "46",
+      "36",
+      "38",
+      "8",
+      "35",
+      "17",
+      "25",
+      "89",
+      "1",
+      "18",
+      "47"
+    ]
+  },
+  {
+    "container-title": [
+      "Nonlinear Dynamics"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "273–295"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marques",
+        "given": "M.Monteiro"
+      },
+      {
+        "family": "Marques",
+        "given": "M.Monteiro"
+      },
+      {
+        "family": "Mordukhovich",
+        "given": "B."
+      },
+      {
+        "family": "Moreau",
+        "given": "J."
+      },
+      {
+        "family": "Moreau",
+        "given": "J."
+      },
+      {
+        "family": "Moreau",
+        "given": "J."
+      },
+      {
+        "family": "Moreau",
+        "given": "J."
+      },
+      {
+        "family": "Moreau",
+        "given": "J."
+      },
+      {
+        "family": "Opal",
+        "given": "A."
+      },
+      {
+        "family": "Pratt",
+        "given": "E."
+      },
+      {
+        "family": "Léger",
+        "given": "A."
+      },
+      {
+        "family": "Jean",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Séminaire d’Analyse Convexe",
+      "exposé no 15, in Séminaire d’Analyse Convexe",
+      "Moreau, Bounded variation in time, in Topics in Nonsmooth Mechanics",
+      "Progress in Nonlinear Differential Equations and Their Applications",
+      "Journal of Mathematical Analysis and Applications",
+      "Série A–B",
+      "Journal of Differential Equations",
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "International Journal of Circuit Theory and Applications"
+    ],
+    "date": [
+      "1985",
+      "1993",
+      "1994",
+      "1968",
+      "1971",
+      "1972",
+      "1973",
+      "1977",
+      "1988",
+      "1996",
+      "2005"
+    ],
+    "editor": [
+      {
+        "family": "Moreau",
+        "given": "J."
+      },
+      {
+        "family": "Panagiotopoulos",
+        "given": "P."
+      },
+      {
+        "family": "Strangus",
+        "given": "G."
+      }
+    ],
+    "issue": [
+      "4, vol. 15",
+      "3",
+      "4"
+    ],
+    "location": [
+      "Montpellier, France",
+      "Basel"
+    ],
+    "note": [
+      "K. Murty, Linear Complementarity, Linear and Nonlinear Programming (Heldermann, Berlin, 1988"
+    ],
+    "pages": [
+      "250–288",
+      "954–957",
+      "43",
+      "36",
+      "791–794",
+      "347–374",
+      "1–74",
+      "295–307",
+      "307–319"
+    ],
+    "producer": [
+      {
+        "family": "Parodi",
+        "given": "M."
+      },
+      {
+        "family": "Storace",
+        "given": "M."
+      },
+      {
+        "family": "Julian",
+        "given": "P."
+      }
+    ],
+    "publisher": [
+      "USTL",
+      "University of Montpellier",
+      "University of Montpellier"
+    ],
+    "title": [
+      "Chocs inélastiques standards: un résultat d’existence",
+      "Differential Inclusions in Nonsmooth Mechanical Problems. Shocks and Dry Friction",
+      "Generalized differential calculus for nonsmooth and set-valued analysis",
+      "La notion de surpotentiel et les liaisons unilatérales en élastoplastique. Comptes Rendus de l’Académie des Sciences 267a",
+      "Rafle par un convexe variable (première partie",
+      "Rafle par un convexe variable (deuxième partie) exposé no 3, in Séminaire d’Analyse Convexe",
+      "Problème d’évolution associé à un convexe mobile d’un espace hilbertien. Comptes Rendus de L’Académie des Sciences Paris",
+      "Evolution problem associated with a moving convex set in a Hilbert space",
+      "J",
+      "Sampled data simulation of linear and nonlinear circuits",
+      "Synthesis of multiport resistors with piecewise-linear characteristics: a mixed-signal architecture",
+      "Critical oscillations of mass-spring systems due to nonsmooth friction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9",
+      "183",
+      "276",
+      "26",
+      "15",
+      "33"
+    ]
+  },
+  {
+    "container-title": [
+      "Archives of Applied Mechanics"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "89–104"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "78"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reissig",
+        "given": "G."
+      },
+      {
+        "family": "Feldmann",
+        "given": "U."
+      },
+      {
+        "family": "Repetto",
+        "given": "L."
+      },
+      {
+        "family": "Parodi",
+        "given": "M."
+      },
+      {
+        "family": "Storace",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE Int. Symp. on Circuits and Systems (ISCAS",
+      "International Journal of Circuit Theory and Applications",
+      "Robinson, Generalized equations and their solutions. I. Basic theory. Mathematical Programming Study"
+    ],
+    "date": [
+      "1996",
+      "2006",
+      "1979"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "190–193",
+      "237–248",
+      "128–141"
+    ],
+    "title": [
+      "Computing the generic index of the circuit equations of linear active networks",
+      "A procedure for the computation of accurate pwlapproximations of non-linear dynamical systems",
+      "S"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34",
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rockafellar",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "publisher": [
+      "Princeton University Press, Princeton"
+    ],
+    "title": [
+      "Convex Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rockafellar",
+        "given": "R."
+      },
+      {
+        "family": "Wets",
+        "given": "R."
+      },
+      {
+        "family": "Samelson",
+        "given": "H."
+      },
+      {
+        "family": "Thrall",
+        "given": "R."
+      },
+      {
+        "family": "Wesler",
+        "given": "O."
+      },
+      {
+        "family": "Sargent",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Variational Analysis",
+      "Proc. Am. Math. Soc",
+      "Mathematical Programming Study"
+    ],
+    "date": [
+      "1997",
+      "1958",
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "36–54"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "A partition theorem for Euclidean n-space",
+      "An efficient implementation of the Lemke algorithm and its extension to deal with upper an lower bounds"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "317",
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schwartz",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "title": [
+      "Analyse III, Calcul Intégral (Hermann"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Seshu",
+        "given": "S."
+      },
+      {
+        "family": "Reed",
+        "given": "M."
+      },
+      {
+        "family": "Shen",
+        "given": "J."
+      },
+      {
+        "family": "Pang",
+        "given": "J."
+      },
+      {
+        "family": "Shilov",
+        "given": "G."
+      },
+      {
+        "family": "Gurevich",
+        "given": "B."
+      },
+      {
+        "family": "Measure",
+        "given": "Integral"
+      },
+      {
+        "family": "Approach",
+        "given": "Derivative A.Unified"
+      },
+      {
+        "family": "Smirnov",
+        "given": "G."
+      },
+      {
+        "family": "Stevens",
+        "given": "S."
+      },
+      {
+        "family": "Lin",
+        "given": "P."
+      },
+      {
+        "family": "Stewart",
+        "given": "D."
+      },
+      {
+        "family": "Stewart",
+        "given": "D."
+      },
+      {
+        "family": "Studer",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Modeling and Numerical Time Integration in Non-Smooth Dynamics. Lecture Notes in Applied and Computational Mechanics",
+      "Tischendorf, Topological index calculation of DAE in circuit simulation. Surveys on Mathematics for Industry",
+      "International Journal of Robust and Nonlinear Control",
+      "Graduate Studies in Mathematics",
+      "IEEE Transactions on Circuits and Systems",
+      "Numerische Mathematik",
+      "Journal of Australian Mathematical Society, Series B"
+    ],
+    "date": [
+      "1961",
+      "2007",
+      "1966",
+      "1993",
+      "2002",
+      "1981",
+      "1990",
+      "1996",
+      "2009",
+      "1999"
+    ],
+    "issue": [
+      "3–4"
+    ],
+    "location": [
+      "Reading",
+      "Paris",
+      "Providence",
+      "Berlin"
+    ],
+    "note": [
+      "V. Utkin, J. Guldner, J. Shi, Sliding Mode Control in Electro-Mechanical Systems. Automation and Control Engineering (CRC Press, Boca Raton, 2009) J. Valsa, J. Vlach, Swann—a programme for analysis of switched analogue non-linear networks."
+    ],
+    "pages": [
+      "1367–1386",
+      "429–441",
+      "299–328",
+      "288–308",
+      "187–189"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "American Mathematical Society",
+      "Springer"
+    ],
+    "title": [
+      "Linear Graphs and Electrical Networks",
+      "Semicopositive linear complementarity systems",
+      "Hermann",
+      "Introduction to the Theory of Differential Inclusions",
+      "Analysis of piecewise-linear resistive networks using complementarity pivot theory",
+      "A high accuracy method for solving ODEs with discontinuous right-hand-side",
+      "A numerical method for friction problems with multiple contacts",
+      "Numerics of Unilateral Contacts and Friction",
+      "C"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17",
+      "41",
+      "CAS-28(5",
+      "58",
+      "37",
+      "47",
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "International Journal of Circuit Theory and Applications"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "369–379"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bokhoven",
+        "given": "W.",
+        "particle": "van"
+      },
+      {
+        "family": "Bokhoven",
+        "particle": "alexandria.tue.nl/extra3/proefschrift/PRF3B/8105755.pdf W. van"
+      },
+      {
+        "family": "Jess",
+        "given": "J."
+      },
+      {
+        "family": "Schaft",
+        "given": "A.",
+        "particle": "van der"
+      },
+      {
+        "family": "Schumacher",
+        "given": "J."
+      },
+      {
+        "family": "Stiphout",
+        "given": "M.T.",
+        "particle": "van"
+      },
+      {
+        "family": "Vandenberghe",
+        "given": "L."
+      },
+      {
+        "family": "Moor",
+        "given": "B.",
+        "particle": "De"
+      },
+      {
+        "family": "Vandewalle",
+        "given": "J."
+      },
+      {
+        "family": "Vasca",
+        "given": "F."
+      },
+      {
+        "family": "Iannelli",
+        "given": "L."
+      },
+      {
+        "family": "Camlibel",
+        "given": "M."
+      },
+      {
+        "family": "Frasca",
+        "given": "R."
+      },
+      {
+        "family": "Vlach",
+        "given": "J."
+      },
+      {
+        "family": "Opal",
+        "given": "A."
+      },
+      {
+        "family": "Vlach",
+        "given": "J."
+      },
+      {
+        "family": "Singhai",
+        "given": "K."
+      },
+      {
+        "family": "Vlach",
+        "given": "M."
+      },
+      {
+        "family": "Vlach",
+        "given": "J."
+      },
+      {
+        "family": "Wojciechowski",
+        "given": "J."
+      },
+      {
+        "family": "Opal",
+        "given": "A."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Joeres",
+        "given": "S."
+      },
+      {
+        "family": "Wunderlich",
+        "given": "R."
+      },
+      {
+        "family": "Heinen",
+        "given": "S."
+      },
+      {
+        "family": "Wen",
+        "given": "C."
+      },
+      {
+        "family": "Wang",
+        "given": "S."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      },
+      {
+        "family": "Khan",
+        "given": "M."
+      },
+      {
+        "family": "Yamamura",
+        "given": "K."
+      },
+      {
+        "family": "Machida",
+        "given": "A."
+      },
+      {
+        "family": "Yu",
+        "given": "X."
+      },
+      {
+        "family": "Kaynak",
+        "given": "O."
+      },
+      {
+        "family": "Yuan",
+        "given": "F."
+      },
+      {
+        "family": "Opal",
+        "given": "A."
+      },
+      {
+        "family": "Zhu",
+        "given": "D."
+      },
+      {
+        "family": "Marcotte",
+        "given": "P."
+      },
+      {
+        "family": "Zhu",
+        "given": "L."
+      },
+      {
+        "family": "Vlach",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Symp. Circuits and Systems",
+      "IEEE Transactions on Automatic Control",
+      "IEEE Transactions on Circuits and Systems",
+      "IEEE Transactions on Power Electronics",
+      "IEEE Transactions on Circuits and Systems I, Fundamental Theory and Applications",
+      "IEEE Transactions on Circuits and Systems",
+      "IEEE Transactions on Circuits and Systems I, Fundamental Theory and Applications",
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "International Journal of Circuit Theory and Applications",
+      "International Journal of Circuit Theory and Applications",
+      "IEEE Transactions on Industrial Electronics",
+      "IEEE Transactions on Circuits and Systems I, Fundamental Theory and Applications",
+      "Operations Research Letters",
+      "Journal of Optimization Theory and Applications",
+      "IEEE Transactions on Circuits and Systems I, Fundamental Theory and Applications"
+    ],
+    "date": [
+      "1981",
+      "1978",
+      "1998",
+      "1984",
+      "1990",
+      "1989",
+      "2009",
+      "1997",
+      "1984",
+      "1995",
+      "2009",
+      "2005",
+      "2008",
+      "2009",
+      "2003",
+      "1993",
+      "1994",
+      "1995"
+    ],
+    "genre": [
+      "PhD thesis,",
+      "PhD thesis,",
+      "PhD thesis,"
+    ],
+    "issue": [
+      "4",
+      "11",
+      "2",
+      "8",
+      "9",
+      "4",
+      "5",
+      "1",
+      "8",
+      "9",
+      "8",
+      "4"
+    ],
+    "note": [
+      "Available at",
+      "D. Zhu, P. Marcotte, An extended descent framework for monotone"
+    ],
+    "pages": [
+      "806–810",
+      "483–490",
+      "1382–1391",
+      "456–468",
+      "759–762",
+      "753–765",
+      "195–200",
+      "769–773",
+      "87–97",
+      "989–1000",
+      "3275–3285",
+      "1013–1024",
+      "111–120",
+      "349–366",
+      "212–214"
+    ],
+    "publisher": [
+      "Technical University of Eindhoven, TU/e",
+      "Technical University of Eindhoven, TU/e",
+      "Technical University of Eindhoven, TU/e"
+    ],
+    "title": [
+      "Piecewise linear modelling and analysis",
+      "Some new aspects of P and P0 matrices and their application to networks with ideal diodes, in IEEE Int",
+      "Complementarity modeling of hybrid systems",
+      "W. van Eijndhoven, A piecewise linear simulator for large scale integrated circuits",
+      "Plato—a piecewise linear analysis for mixed-level circuit simulation",
+      "The generalized linear complementarity problem applied to the complete analysis of resistive piecewise-linear circuits",
+      "A new perspective for modelling power electronics converters: complementarity framework",
+      "Modern CAD methods for analysis of switched networks",
+      "Computer oriented formulation of equations and analysis of switched-capacitor networks",
+      "Analysis of nonlinear networks with inconsistent initial conditions",
+      "Modeling approaches for functional verification of RF-socs: limits and future requirements",
+      "A novel compact piecewise-linear representation",
+      "An efficient algorithm for finding all dc solutions of piecewise-linear circuits",
+      "Sliding-mode control with soft computing: a survey",
+      "Computer methods for switched circuits",
+      "Modified descents methods for solving the monotone variational inequality problem",
+      "variational inequalities",
+      "Analysis and steady state of nonlinear networks with ideal switches"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43",
+      "36",
+      "24",
+      "44",
+      "31",
+      "42",
+      "28",
+      "33",
+      "36",
+      "56",
+      "50",
+      "14",
+      "80",
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Acary",
+        "given": "V."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "281 Lecture Notes in Electrical Engineering 69"
+    ],
+    "title": [
+      "Nonsmooth Modeling and Simulation for Switched Circuits"
+    ],
+    "type": "chapter"
+  }
+]
