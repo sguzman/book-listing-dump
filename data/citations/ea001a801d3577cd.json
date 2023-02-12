@@ -1,0 +1,359 @@
+[
+  {
+    "title": [
+      "◦ not possible because of a lack of proper measurement equipment; - perform repeated simulations with parametric values for a component"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "- observe temperature dependence of the circuit behavior"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Nagel",
+        "given": "L.W."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Memorandum"
+    ],
+    "date": [
+      "1975-05"
+    ],
+    "issue": [
+      "M520"
+    ],
+    "publisher": [
+      "Department of Electrical Engineering, University of California at Berkeley"
+    ],
+    "title": [
+      "For readers interested in further reading about simulation, the following books provide further insight into the SPICE simulator",
+      "SPICE2: A computer program to simulate semiconductor circuits"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Antognetti",
+        "given": "P."
+      },
+      {
+        "family": "Massobrio",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Co"
+    ],
+    "title": [
+      "Semiconductor device modeling with SPICE"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cilingiroglu",
+        "given": "U."
+      },
+      {
+        "family": "Bipolar",
+        "given": "Systematic Analysis",
+        "particle": "of"
+      },
+      {
+        "family": "Transistors",
+        "given": "M.O.S."
+      },
+      {
+        "family": "Library",
+        "given": "Materials Science"
+      },
+      {
+        "family": "Schichman",
+        "given": "H."
+      },
+      {
+        "family": "Hodges",
+        "given": "D.A."
+      },
+      {
+        "family": "Vladimirescu",
+        "given": "A."
+      },
+      {
+        "family": "Lui",
+        "given": "S."
+      },
+      {
+        "family": "Sheu",
+        "given": "B.J."
+      },
+      {
+        "family": "Scharfetter",
+        "given": "D.L."
+      },
+      {
+        "family": "Ko",
+        "given": "P.-K."
+      },
+      {
+        "family": "Jeng",
+        "given": "M.-C."
+      }
+    ],
+    "citation-number": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits",
+      "Memorandum",
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "1993",
+      "1958-09",
+      "1980-02",
+      "1987-08"
+    ],
+    "issue": [
+      "M80/7"
+    ],
+    "pages": [
+      "142",
+      "139",
+      "139",
+      "558–555,",
+      "139"
+    ],
+    "title": [
+      "For readers interested in further reading about simulation, the following books provide further insight into the SPICE simulator",
+      "Modeling and simulation of insulated-gate field-effect transistor switching circuits",
+      "The Simulation of MOS Integrated Circuits Using SPICE2",
+      "BSIM:Berkeley Short-Channel IGFET Model for MOS Transistors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "119",
+      "SC-3, 285",
+      "SC-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "J.H."
+      },
+      {
+        "family": "Liu",
+        "given": "Z.H."
+      },
+      {
+        "family": "Jeng",
+        "given": "M.C."
+      },
+      {
+        "family": "Hui",
+        "given": "K."
+      },
+      {
+        "family": "Chan",
+        "given": "M."
+      },
+      {
+        "family": "KO",
+        "given": "P.K."
+      },
+      {
+        "family": "Hu",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "pages": [
+      "94720 139"
+    ],
+    "publisher": [
+      "Department of Electrical Engineering and Computer Science, University of California"
+    ],
+    "title": [
+      "BSIM3 Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "pages": [
+      "139"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Department of Electrical Engineering and Computer Science, BSIM3v3.1 Manual"
+    ],
+    "type": "book",
+    "volume": [
+      "94720"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bucher",
+        "given": "M."
+      },
+      {
+        "family": "Lallement",
+        "given": "C."
+      },
+      {
+        "family": "Enz",
+        "given": "C."
+      },
+      {
+        "family": "Theodoloz",
+        "given": "F."
+      },
+      {
+        "family": "Krummenacher",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Electonics Laboratories, Swiss Federal Institute of Technology (EPFL"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Lausanne, Switzerland, Updated September"
+    ],
+    "pages": [
+      "139"
+    ],
+    "title": [
+      "The EPFL–EKV MOS-FET Model Equations for Simulation Technical Report: Model Version 2.5"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Murphy",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "139"
+    ],
+    "publisher": [
+      "INAOE"
+    ],
+    "title": [
+      "Prospects for the MOS Transistor as a High Frequency Device, Tesis doctoral"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "López",
+        "given": "D.Báez"
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "México, D.F"
+    ],
+    "pages": [
+      "139"
+    ],
+    "publisher": [
+      "Alfaomega Grupo Editor"
+    ],
+    "title": [
+      "Análisis de circuitos usando PSpice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sedra",
+        "given": "A.S."
+      },
+      {
+        "family": "Smith",
+        "given": "K.C."
+      },
+      {
+        "family": "Circuit",
+        "given": "Microelectronic"
+      },
+      {
+        "family": "Holt",
+        "given": "Rinehart"
+      },
+      {
+        "given": "Winston"
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "128"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "citation-number": [
+      "264"
+    ],
+    "note": [
+      "= LeapYear(year) ? 29 : 28;"
+    ],
+    "title": [
+      "C++ Essentials Copyright © 2005 PragSoft }; days[Feb"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "268"
+    ],
+    "title": [
+      "C++ Essentials Copyright © 2005 PragSoft Data data; // item's data Page *right; // pointer to right subtree }"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "bufP->Used"
+      }
+    ],
+    "title": [
+      "= page->CopyItems(bufP, 0, 0, page->Used()); bufP->InsertItem(*item, idx + 1"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "280"
+    ],
+    "title": [
+      "C++ Essentials Copyright © 2005 PragSoft // specialization"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "virtual void FreePages (Page<Key, Data> *page); virtual Item<Key, Data>*SearchAux (Page<Key, Data> *tree, Key key); virtual Item<Key, Data>*InsertAux (Item<Key, Data> *item, Page<Key, Data> *page);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "288"
+    ],
+    "note": [
+      "SearchAux (Page<Key, Data> *tree, Key key"
+    ],
+    "title": [
+      "C++ Essentials Copyright © 2005 PragSoft template <class Key, class Data> Item<Key, Data>* BTree<Key, Data>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "bufP->Used"
+      }
+    ],
+    "title": [
+      "= page->CopyItems(bufP, 0, 0, page->Used()); bufP->InsertItem(*item, idx + 1"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Item<Key, Data> *item, Page<Key, Data> *page, Page<Key, Data> *child, int idx); };"
+    ],
+    "title": [
+      "protected: virtual Item<Key, Data>*InsertAux (Item<Key, Data> *item, Page<Key, Data> *page); virtual Item<Key, Data>*Overflow"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "294"
+    ],
+    "title": [
+      "C++ Essentials Copyright © 2005 PragSoft throw InvalidPack("
+    ],
+    "type": null
+  }
+]
