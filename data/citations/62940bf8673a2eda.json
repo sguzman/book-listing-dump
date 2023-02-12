@@ -1,0 +1,60 @@
+[
+  {
+    "note": [
+      "Marshal::Copy(IntPtr(pbPublicKeyBlob), publicKey, 0, cbPublicKeyBlob); StrongNameFreeBuffer(pbPublicKeyBlob);"
+    ],
+    "title": [
+      "publicKey = gcnew array<Byte>(cbPublicKeyBlob"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Console",
+        "given": "WriteLine"
+      }
+    ],
+    "title": [
+      "Console::WriteLine(\"Written by Marcus Heege - no warranties whatsoever\""
+    ],
+    "type": null,
+    "url": [
+      "Console::WriteLine();"
+    ]
+  },
+  {
+    "pages": [
+      "– –"
+    ],
+    "title": [
+      "StrongNamePublicKeyBlob^ snpkb = gcnew StrongNamePublicKeyBlob(publicKey); StrongNameMembershipCondition^ snmc = gcnew StrongNameMembershipCondition(snpkb, nullptr, nullptr); cgPKTFullTrust = gcnew UnionCodeGroup(snmc, polStmtFullTrust); cgPKTFullTrust->Name = codeGroupName"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "MEASURE_ENTRY_MANAGEDCALLER_DIRECTCALL"
+    ],
+    "date": [
+      "via __clrcall pointer)\""
+    ],
+    "title": [
+      "Call_via_clrcall_pointer_from_managed_code_fManagedLocal, true, false}, MEASURE_ENTRY_NATIVECALLER_INDIRECTCALL (fManagedLocal"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "MEASURE_ENTRY_MANAGEDCALLER_DIRECTCALL (fManagedLocal ), MEASURE_ENTRY_NATIVECALLER_DIRECTCALL (fManagedLocal ), MEASURE_ENTRY_MANAGEDCALLER_INDIRECTCALL(fManagedLocal ), {\"fManagedLocal",
+      "fManagedFromDLL), MEASURE_ENTRY_NATIVECALLER_DIRECTCALL (fManagedFromDLL), MEASURE_ENTRY_MANAGEDCALLER_INDIRECTCALL(fManagedFromDLL), MEASURE_ENTRY_NATIVECALLER_INDIRECTCALL (fManagedFromDLL), MEASURE_ENTRY_MANAGEDCALLER_DIRECTCALL (fNativeLocal ), MEASURE_ENTRY_NATIVECALLER_DIRECTCALL (fNativeLocal ), MEASURE_ENTRY_MANAGEDCALLER_INDIRECTCALL(fNativeLocal ), MEASURE_ENTRY_NATIVECALLER_INDIRECTCALL (fNativeLocal ), MEASURE_ENTRY_MANAGEDCALLER_DIRECTCALL (fNativeFromDLL ), MEASURE_ENTRY_NATIVECALLER_DIRECTCALL (fNativeFromDLL ), MEASURE_ENTRY_MANAGEDCALLER_INDIRECTCALL(fNativeFromDLL ), MEASURE_ENTRY_NATIVECALLER_INDIRECTCALL (fNativeFromDLL ) }; Measure(md1, sizeof(md1)/sizeof(*md1"
+    ]
+  },
+  {
+    "note": [
+      "::GetThreadPriority(::GetCurrentThread()); ::SetThreadPriority(::GetCurrentThread(), THREAD_PRIORITY_TIME_CRITICAL);"
+    ],
+    "title": [
+      "// boost priority to avoid thread scheduling side effects threadPriority ="
+    ],
+    "type": null
+  }
+]
