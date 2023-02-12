@@ -1,0 +1,2181 @@
+[
+  {
+    "title": [
+      "// Provided by VK_EXT_sample_locations void vkGetPhysicalDeviceMultisamplePropertiesEXT( VkPhysicalDevice physicalDevice, VkSampleCountFlagBits samples, VkMultisamplePropertiesEXT* pMultisampleProperties"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Members of the Vulkan Ray Tracing TSG) ◦ Internal revisions (forked from VK_NV_ray_tracing"
+    ],
+    "pages": [
+      "2019–12–05"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Koch, Jon Leech, Christoph Kubisch"
+    ],
+    "pages": [
+      "2020–01–10"
+    ],
+    "title": [
+      "◦ Fix VU statements for VkAccelerationStructureGeometryKHR referring to correct union members and update to use more current wording (!3523"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "title": [
+      "◦ add missing require for VkGeometryInstanceFlagsKHR"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Koch, Eric Werness"
+    ],
+    "pages": [
+      "2020–01–23"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "date": [
+      "1947"
+    ],
+    "title": [
+      "◦ Improve vkWriteAccelerationStructuresPropertiesKHR, add return value and VUs"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1941"
+    ],
+    "title": [
+      "◦ Change vkCmdTraceRays{Indirect}KHR args to pointers (!3559) ◦ Add scratch address validation language"
+    ],
+    "type": null,
+    "volume": [
+      "3551"
+    ]
+  },
+  {
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "◦ Fix definition and add hierarchy information for shader call scope"
+    ],
+    "type": null,
+    "volume": [
+      "3571"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Eric Werness, Jeff Bolz, Daniel Koch) ◦ remove vestigial accelerationStructureUUID (!3582"
+    ],
+    "pages": [
+      "2020–02–04"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "date": [
+      "1913"
+    ],
+    "publisher": [
+      "#1910"
+    ],
+    "title": [
+      "◦ update definition of repack instructions and improve memory model interactions"
+    ],
+    "type": "book",
+    "volume": [
+      "3584"
+    ]
+  },
+  {
+    "date": [
+      "1988",
+      "1987"
+    ],
+    "title": [
+      "◦ Fix wrong sType for VkPhysicalDeviceRayTracingFeaturesKHR",
+      "◦ Use provisional SPIR-V capabilities"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Initial draft"
+    ],
+    "pages": [
+      "2015–02–24"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-03-12 (Norbert Nopper"
+    ],
+    "title": [
+      "◦ Added overlay enumeration for a display"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "note": [
+      "◦ Replaced , with ; in struct."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-03-18 (Daniel Rakos"
+    ],
+    "title": [
+      "◦ Added WSI extension suffix to all items"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "note": [
+      "◦ Added issue (6) and (7)."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos) ◦ Rebased extension against Vulkan 0.82.0"
+    ],
+    "pages": [
+      "2015–04–01"
+    ],
+    "title": [
+      "◦ Added proposed resolutions to several issues"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Added issues (10"
+    ],
+    "pages": [
+      "2015–04–01"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10",
+      "and (11"
+    ]
+  },
+  {
+    "note": [
+      "◦ Added more straw-man issue resolutions, and cleaned up the proposed resolution for issue (4)."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "◦ Updated the rotation and mirroring enums to have proper bitmask semantics"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "◦ Fixed small compilation errors in example code"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "◦ Updated the example code to use the new semantics"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "◦ Added issues"
+    ],
+    "pages": [
+      "– 18"
+    ],
+    "title": [
+      "◦ Added description section to the spec"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–10–26"
+    ],
+    "title": [
+      "◦ Added support for smart/persistent/buffered display devices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–11–02"
+    ],
+    "title": [
+      "◦ Renamed from VK_EXT_KHR_display to VK_KHR_display"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos"
+    ],
+    "pages": [
+      "2015–11–03"
+    ],
+    "title": [
+      "◦ Updated example code to match revision 17 changes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "title": [
+      "◦ Added allocation callbacks to creation functions"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–12–18"
+    ],
+    "title": [
+      "◦ Renamed vkGetDisplayPlaneSupportedDisplaysKHR parameters for clarity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "note": [
+      "◦ Added missing \"planeIndex\" parameter to vkGetDisplayPlaneSupportedDisplaysKHR("
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Initial draft"
+    ],
+    "pages": [
+      "2015–07–29"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "issue": [
+      "ion 4"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–09–08"
+    ],
+    "title": [
+      "◦ Restore single-field revision"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Alon Or-bach"
+    ],
+    "pages": [
+      "2015–09–10"
+    ],
+    "title": [
+      "◦ Allow creating multiple swap chains that share the same images using a single call to vkCreateSwapChainKHR("
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–10–02"
+    ],
+    "title": [
+      "◦ Removed underscores from SWAP_CHAIN in two enums"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–10–26"
+    ],
+    "title": [
+      "◦ Added support for smart panels/buffered displays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos"
+    ],
+    "pages": [
+      "2015–11–03"
+    ],
+    "title": [
+      "◦ Renamed from VK_EXT_KHR_display_swapchain to VK_KHR_display_swapchain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jesse Hall"
+    ],
+    "pages": [
+      "2015–11–10"
+    ],
+    "title": [
+      "◦ Updated sample code based on the changes to VK_KHR_swapchain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "title": [
+      "◦ Replaced VkDisplaySwapchainCreateInfoKHR with vkCreateSharedSwapchainsKHR, changing resolution of issue #4"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "• Revision 1, 2015-05-20 (James Jones) ◦ Initial draft, based on LunarG KHR spec, other KHR specs, patches attached to bugs."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "◦ Improved the Description section"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-05-27 (James Jones"
+    ],
+    "title": [
+      "◦ Fixed compilation errors in example code"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-01 (James Jones"
+    ],
+    "title": [
+      "◦ Added issues 1 and 2 and made related spec updates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "title": [
+      "extension sometime in the future"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-17 (James Jones"
+    ],
+    "title": [
+      "◦ Updated enum-extending values using new convention. ◦ Fixed the value of VK_SURFACE_PLATFORM_INFO_TYPE_SUPPORTED_KHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Rebased on Vulkan API version 126."
+    ],
+    "pages": [
+      "2015–06–17"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Marked issues 2 and 3 resolved."
+    ],
+    "pages": [
+      "2015–06–18"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-23 (Ian Elliott"
+    ],
+    "title": [
+      "◦ Examples now show use of function pointers for extension functions. ◦ Eliminated extraneous whitespace"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "title": [
+      "◦ Replaced bool32_t with VkBool32"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-08-06 (Daniel Rakos"
+    ],
+    "title": [
+      "◦ Updated spec against latest core API header version"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Restore single-field revision number."
+    ],
+    "pages": [
+      "2015–09–01"
+    ],
+    "title": [
+      "◦ Moved the surface transform enums here from VK_WSI_swapchain so they could be re-used by VK_WSI_display"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-09-01 (James Jones"
+    ],
+    "title": [
+      "◦ Fix example code compilation errors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "publisher": [
+      "Added VkDestroySurfaceKHR"
+    ],
+    "title": [
+      "• Revision 18, 2015-09-26 (Jesse Hall) ◦ Replaced VkSurfaceDescriptionKHR with the VkSurfaceKHR object, which is created via layered extensions"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jesse Hall) ◦ Renamed from VK_EXT_KHR_swapchain to VK_EXT_KHR_surface."
+    ],
+    "pages": [
+      "2015–09–28"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-09-30 (Jeff Vigil"
+    ],
+    "title": [
+      "◦ Add error result VK_ERROR_SURFACE_LOST_KHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–10–26"
+    ],
+    "title": [
+      "◦ Other minor cleanup and consistency changes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos"
+    ],
+    "pages": [
+      "2015–11–03"
+    ],
+    "title": [
+      "◦ Renamed from VK_EXT_KHR_surface to VK_KHR_surface"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jesse Hall"
+    ],
+    "pages": [
+      "2015–11–10"
+    ],
+    "title": [
+      "◦ Added allocation callbacks to vkDestroySurfaceKHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "VkSurfaceTransformKHR",
+        "given": "Removed"
+      }
+    ],
+    "title": [
+      "Use VkSurfaceTransformFlagBitsKHR instead"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2016–01–14"
+    ],
+    "title": [
+      "◦ Rename VkSurfaceCapabilitiesKHR member maxImageArraySize to maxImageArrayLayers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "title": [
+      "◦ Moved VK_ERROR_NATIVE_WINDOW_IN_USE_KHR from the VK_KHR_android_surface to the VK_KHR_surface extension"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "• Revision 1, 2015-05-20 (James Jones) ◦ Initial draft, based on LunarG KHR spec, other KHR specs, patches attached to bugs."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–05–22"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "title": [
+      "◦ Imported relevant issues from the (abandoned) vk_wsi_persistent_swapchain_images extension"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–05–27"
+    ],
+    "title": [
+      "◦ Updated spec language and examples to align with proposed resolution to issue 8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–05–27"
+    ],
+    "title": [
+      "◦ Fixed compilation errors in example code, and made related spec fixes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Added inline proposed resolutions (marked with [JRJ]) to some XXX questions/issues. These should be moved to the issues section in a subsequent update if the proposals are adopted."
+    ],
+    "pages": [
+      "2015–05–27"
+    ],
+    "title": [
+      "◦ Added issue 9, and the related VK_SUBOPTIMAL_KHR result code. ◦ Renamed VK_OUT_OF_DATE_KHR to VK_ERROR_OUT_OF_DATE_KHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–05–28"
+    ],
+    "title": [
+      "◦ Renamed VkSurfaceCapabilityPropertiesKHR to VkSurfacePropertiesKHR to better convey the mutable nature of the info it contains"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "note": [
+      "◦ Added issue 11 with a proposed resolution, and the related issue 12."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–06–01"
+    ],
+    "title": [
+      "◦ Updated various sections of the spec to match the proposed resolution to issue 11"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "title": [
+      "◦ Moved some structures to VK_EXT_KHR_swap_chain to resolve the spec’s issues 1 and 2"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "◦ Added issue 13."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-01 (James Jones"
+    ],
+    "title": [
+      "◦ Added issues 14 - 16 and related spec language. ◦ Fixed some spelling errors. ◦ Added language describing the meaningful return values for vkAcquireNextImageKHR and vkQueuePresentKHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–06–15"
+    ],
+    "title": [
+      "◦ Changed special value from \"-1\" to \"0\" so that the data types can be unsigned"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "title": [
+      "◦ Clarified the values of VkSurfacePropertiesKHR::minImageCount and the timeout parameter of the vkAcquireNextImageKHR function"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–06–17"
+    ],
+    "title": [
+      "◦ Updated enum-extending values using new convention"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "title": [
+      "◦ Added language describing how to use VK_IMAGE_LAYOUT_PRESENT_SOURCE_KHR"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "◦ Rebased on Vulkan API version 126."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–06–19"
+    ],
+    "title": [
+      "◦ Added issues 19 and 20 as well as proposed resolutions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott"
+    ],
+    "pages": [
+      "2015–06–23"
+    ],
+    "title": [
+      "◦ Changed special value for VkSurfacePropertiesKHR::currentExtent back to \"-1\" from \"0\". This value will never need to be unsigned, and \"0\" is actually a legal value"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "title": [
+      "◦ Examples now show use of function pointers for extension functions. ◦ Eliminated extraneous whitespace"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott) ◦ Resolved Issues 9 & 10 per KHR TSG meeting."
+    ],
+    "pages": [
+      "2015–06–25"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-25 (James Jones"
+    ],
+    "title": [
+      "◦ Added oldSwapchain member to VkSwapchainCreateInfoKHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Added the \"inherit\" bits to the rotation and mirroring flags and the associated issue 21."
+    ],
+    "pages": [
+      "2015–06–25"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-25 (James Jones"
+    ],
+    "title": [
+      "◦ Added the \"clipped\" flag to VkSwapchainCreateInfoKHR, and the associated issue 22. ◦ Specified that presenting an image does not modify it"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-25 (James Jones"
+    ],
+    "title": [
+      "◦ Added language to the spec that clarifies the behavior of vkCreateSwapchainKHR() when the oldSwapchain field of VkSwapchainCreateInfoKHR is not NULL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-26 (Ian Elliott"
+    ],
+    "note": [
+      "and \"clipped\"."
+    ],
+    "title": [
+      "◦ Example of new VkSwapchainCreateInfoKHR members, \"oldSwapchain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones"
+    ],
+    "pages": [
+      "2015–06–26"
+    ],
+    "title": [
+      "◦ Add macro with C-string name of extension (just to header file"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "title": [
+      "◦ Minor adjustments to the language describing the behavior of \"oldSwapchain\" ◦ Fixed the version date on my previous two updates"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-26 (Jesse Hall"
+    ],
+    "title": [
+      "◦ Add usage flags to VkSwapchainCreateInfoKHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-26 (Ian Elliott"
+    ],
+    "title": [
+      "◦ Rename vkQueuePresentKHR()'s 2nd parameter to \"pPresentInfo\", for consistency with other functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-06-26 (Jason Ekstrand"
+    ],
+    "title": [
+      "◦ Merged the VkRotationFlagBitsKHR and VkMirrorFlagBitsKHR enums into a single VkSurfaceTransformFlagBitsKHR enum"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos"
+    ],
+    "pages": [
+      "2015–07–07"
+    ],
+    "title": [
+      "◦ Corrected a typo in header file comment for VkPresentInfoKHR::sType"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "title": [
+      "◦ Added error section describing when each error is expected to be reported. ◦ Replaced bool32_t with VkBool32"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-07-10 (Ian Elliott"
+    ],
+    "note": [
+      "and no longer extending VkObjectType (which was eliminated)."
+    ],
+    "title": [
+      "◦ Updated to work with version 138 of the \"vulkan.h\" header. This includes declaring the VkSwapchainKHR type using the new VK_DEFINE_NONDISP_HANDLE macro"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Revision"
+      }
+    ],
+    "date": [
+      "41 2015-07-09 (Mathias Heyer"
+    ],
+    "title": [
+      "◦ Added color space language"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos"
+    ],
+    "pages": [
+      "2015–07–17"
+    ],
+    "title": [
+      "◦ Removed reference to the no longer existing VkObjectType enum"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "note": [
+      "◦ Updated sample code based on recent changes • Revision 44, 2015-07-27 (Ian Elliott"
+    ],
+    "title": [
+      "◦ Added support for concurrent sharing of swapchain images across queue families"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "◦ Noted that support for VK_PRESENT_MODE_FIFO_KHR is required. That is ICDs may optionally support IMMEDIATE and MAILBOX, but must support FIFO"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Various minor cleanups."
+    ],
+    "pages": [
+      "2015–09–01"
+    ],
+    "title": [
+      "◦ Moved the surface transform enums to VK_WSI_swapchain so they could be re-used by VK_WSI_display"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Restore single-field revision number."
+    ],
+    "pages": [
+      "2015–09–01"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-09-01 (James Jones"
+    ],
+    "title": [
+      "◦ Update Example #4 to include code that illustrates how to use the oldSwapchain field"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-09-01 (James Jones"
+    ],
+    "title": [
+      "◦ Fix example code compilation errors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jesse Hall"
+    ],
+    "pages": [
+      "2015–09–11"
+    ],
+    "title": [
+      "◦ Removed underscore from SWAP_CHAIN left in VK_STRUCTURE_TYPE_SWAPCHAIN_CREATE_INFO_KHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ray Smith"
+    ],
+    "pages": [
+      "2015–09–11"
+    ],
+    "title": [
+      "◦ Described the execution and memory coherence requirements for image transitions to and from VK_IMAGE_LAYOUT_PRESENT_SOURCE_KHR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "container-title": [
+      "Revision"
+    ],
+    "note": [
+      "James Jones) ◦ Added fence argument to vkAcquireNextImageKHR"
+    ],
+    "pages": [
+      "2015–09–18"
+    ],
+    "title": [
+      "◦ Added errors for destroying and binding memory to presentable images •"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "56"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jesse Hall"
+    ],
+    "pages": [
+      "2015–09–26"
+    ],
+    "title": [
+      "◦ Added example of how to meter a host thread based on presentation rate"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "note": [
+      "◦ Added issue 25 with agreed resolution."
+    ],
+    "title": [
+      "◦ Replace VkSurfaceDescriptionKHR with VkSurfaceKHR"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jesse Hall) ◦ Renamed from VK_EXT_KHR_device_swapchain to VK_EXT_KHR_swapchain."
+    ],
+    "pages": [
+      "2015–09–28"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott) ◦ Changed vkDestroySwapchainKHR() to return void."
+    ],
+    "pages": [
+      "2015–09–29"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Jeff Vigil) ◦ Added error result VK_ERROR_SURFACE_LOST_KHR."
+    ],
+    "pages": [
+      "2015–10–01"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-10-05 (Jason Ekstrand"
+    ],
+    "title": [
+      "◦ Added the VkCompositeAlpha enum and corresponding structure fields"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Daniel Rakos) ◦ Added VK_PRESENT_MODE_FIFO_RELAXED_KHR."
+    ],
+    "pages": [
+      "2015–10–12"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-10-15 (Daniel Rakos"
+    ],
+    "title": [
+      "◦ Moved surface capability queries to VK_EXT_KHR_surface"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott) ◦ Renamed from VK_EXT_KHR_swapchain to VK_KHR_swapchain."
+    ],
+    "pages": [
+      "2015–10–26"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "64"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Ian Elliott) ◦ Added optional pResult member to VkPresentInfoKHR, so that per-swapchain results can be obtained from vkQueuePresentKHR()."
+    ],
+    "pages": [
+      "2015–10–28"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-11-03 (Daniel Rakos"
+    ],
+    "title": [
+      "◦ Added allocation callbacks to create and destroy functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "66"
+    ]
+  },
+  {
+    "title": [
+      "◦ Add reserved flags bitmask to VkSwapchainCreateInfoKHR"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "◦ Make pPresentInfo parameter to vkQueuePresentKHR const"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "This code is more similar to the LunarG \"cube\" demo program. • 2016-08-25 (Ian Elliott"
+    ],
+    "title": [
+      "◦ Update the example code, to use the final API command names, to not have so many characters per line, and to split out a new example to show how to obtain function pointers"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Tobias Hector) ◦ Added interactions with Vulkan 1.1"
+    ],
+    "pages": [
+      "2017–09–07"
+    ],
+    "title": [
+      "◦ A note was added at the beginning of the example code, stating that it will be removed from future versions of the appendix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2019-10-10 (Joshua Ashton"
+    ],
+    "title": [
+      "◦ Internal revisions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2019-10-11 (Liam Middlebrook"
+    ],
+    "title": [
+      "◦ Remove VkCustomBorderColor object and associated functions ◦ Add issues concerning HW limitations for custom border color count"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "Revision"
+    ],
+    "note": [
+      "Liam Middlebrook) ◦ Added features bit"
+    ],
+    "pages": [
+      "2019–10–14"
+    ],
+    "title": [
+      "◦ Changed maxUniqueCustomBorderColors to a uint32_t from a VkDeviceSize •"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2019-10-15 (Joshua Ashton"
+    ],
+    "title": [
+      "◦ Type-ize VK_BORDER_COLOR_CUSTOM ◦ Fix const-ness on pNext of VkSamplerCustomBorderColorCreateInfoEXT"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Liam Middlebrook) ◦ Renamed maxUniqueCustomBorderColors to maxCustomBorderColors"
+    ],
+    "pages": [
+      "2019–11–26"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2019-11-29 (Joshua Ashton"
+    ],
+    "title": [
+      "◦ Renamed borderColor member of VkSamplerCustomBorderColorCreateInfoEXT to customBorderColor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Joshua Ashton) ◦ Renamed maxCustomBorderColors to maxCustomBorderColorSamplers"
+    ],
+    "pages": [
+      "2020–02–19"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "Joshua Ashton"
+    ],
+    "pages": [
+      "2020–02–21"
+    ],
+    "title": [
+      "◦ Added format to VkSamplerCustomBorderColorCreateInfoEXT and feature bit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2020-04-07 (Joshua Ashton"
+    ],
+    "note": [
+      "◦ Dropped UINT/SINT border color differences, consolidated types"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "title": [
+      "layout(binding = 0) uniform sampler2DMS s2DMS; layout(binding = 1) uniform isampler2DMSArray is2DMSArray"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "AMD(is2DMSArray, ivec3(2, 3, 1)); fragIndex = (fragMask & 0xF0) >> 4; fragOne += fragmentFetchAMD(is2DMSArray, ivec3(2, 3"
+    ],
+    "note": [
+      "fragIndex); fragMask = fragmentMaskFetchAMD(usubpassMS); fragIndex = (fragMask & 0xF0) >> 4; fragOne += fragmentFetchAMD(usubpassMS, fragIndex);"
+    ],
+    "pages": [
+      "1 ,"
+    ],
+    "title": [
+      "uint fragMask = fragmentMaskFetchAMD(s2DMS, ivec2(2, 3)); uint fragIndex = (fragMask & 0xF0) >> 4; fragOne += fragmentFetchAMD(s2DMS"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "title": [
+      "formatInfo.sType = VK_STRUCTURE_TYPE_PHYSICAL_DEVICE_IMAGE_FORMAT_INFO_2; formatInfo.pNext = nullptr; formatInfo.format = ...; formatInfo.type = ...; formatInfo.tiling = ...; formatInfo.usage = ...; formatInfo.flags = ...; formatProps.sType = VK_STRUCTURE_TYPE_IMAGE_FORMAT_PROPERTIES_2; formatProps.pNext = &textureLODGatherSupport"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Last Modified Date 2017-08-11 IP Status No known IP claims"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Initial draft"
+    ],
+    "pages": [
+      "2017–01–24"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ After initial feedback"
+    ],
+    "pages": [
+      "2017–01–25"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2017-01-27 (Andrew Garrard"
+    ],
+    "title": [
+      "◦ Higher bit depth formats, renaming, swizzle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Added query function, formats as RGB, clarifications"
+    ],
+    "pages": [
+      "2017–02–22"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Simplified query and removed output conversions"
+    ],
+    "pages": [
+      "2017–04"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Tidying, incorporated new image query, restored transfer functions"
+    ],
+    "pages": [
+      "2017–4–24"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "note": [
+      "• Revision 7, 2017-04-25 (Andrew Garrard) ◦ Added cosited option/midpoint requirement for formats, \"bypassConversion\""
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Simplified further"
+    ],
+    "pages": [
+      "2017–04–25"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Disjoint no more"
+    ],
+    "pages": [
+      "2017–04–27"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Restored disjoint"
+    ],
+    "pages": [
+      "2017–04–28"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Now Ycbcr conversion, and KHR"
+    ],
+    "pages": [
+      "2017–04–29"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2017-06-06 (Andrew Garrard"
+    ],
+    "title": [
+      "◦ Added conversion to image view creation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2017-07-13 (Andrew Garrard"
+    ],
+    "title": [
+      "◦ Allowed cosited-only chroma samples for formats"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Andrew Garrard) ◦ Reflected quantization changes in BT.2100-1"
+    ],
+    "pages": [
+      "2017–08–11"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Baldur Karlsson) ◦ Initial draft, based on LunarG marker spec"
+    ],
+    "pages": [
+      "2016–02–24"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2016-02-26 (Baldur Karlsson"
+    ],
+    "title": [
+      "◦ Renamed Dbg to DebugMarker in function names ◦ Allow markers in secondary command buffers under certain circumstances ◦ Minor language tweaks and edits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2016-04-23 (Baldur Karlsson"
+    ],
+    "title": [
+      "◦ Reorganise spec layout to closer match desired organisation ◦ Added optional color to markers (both regions and inserted labels) ◦ Changed functions to take extensible structs instead of direct function parameters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Baldur Karlsson) ◦ Added explicit dependency on VK_EXT_debug_report"
+    ],
+    "pages": [
+      "2017–01–31"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "title": [
+      "Name String VK_EXT_debug_report Extension Type Instance extension"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2015-05-20 (Courtney Goetzenleuchter"
+    ],
+    "note": [
+      "◦ Initial draft, based on LunarG KHR spec, other KHR specs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Courtney Goetzenleuchter) ◦ Update usage, documentation"
+    ],
+    "pages": [
+      "2016–02–16"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2016-06-14 (Courtney Goetzenleuchter"
+    ],
+    "title": [
+      "◦ Update VK_EXT_DEBUG_REPORT_SPEC_VERSION to indicate added support for vkCreateInstance and vkDestroyInstance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2016-12-08 (Mark Lobodzinski"
+    ],
+    "title": [
+      "◦ Added Display_KHR, DisplayModeKHR extension objects ◦ Added ObjectTable_NVX, IndirectCommandsLayout_NVX extension objects ◦ Bumped spec revision ◦ Retroactively added version history"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2017-01-31 (Baldur Karlsson"
+    ],
+    "title": [
+      "◦ Moved definition of VkDebugReportObjectTypeEXT from debug marker chapter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Baldur Karlsson) ◦ Added VK_DEBUG_REPORT_OBJECT_TYPE_DESCRIPTOR_UPDATE_TEMPLATE_KHR_EXT"
+    ],
+    "pages": [
+      "2017–01–31"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "date": [
+      "2017-04-20 (Courtney Goeltzenleuchter"
+    ],
+    "title": [
+      "◦ Clarify wording and address questions from developers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Courtney Goeltzenleuchter) ◦ Remove unused enum VkDebugReportErrorEXT"
+    ],
+    "pages": [
+      "2017–04–21"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "container-title": [
+      "• Revision"
+    ],
+    "note": [
+      "Tobias Hector) ◦ Added interactions with Vulkan 1.1"
+    ],
+    "pages": [
+      "2017–09–12"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "citation-number": [
+      "2816"
+    ],
+    "container-title": [
+      "Layers & Extensions (Informative) • Revision"
+    ],
+    "note": [
+      "Courtney Goetzenleuchter"
+    ],
+    "pages": [
+      "2020–12–14"
+    ],
+    "title": [
+      "| Appendix E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  }
+]

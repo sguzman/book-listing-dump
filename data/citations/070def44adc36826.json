@@ -1,0 +1,283 @@
+[
+  {
+    "title": [
+      "as-path AS5555-list “5555+ (6666|7777)?”; community Customer members 1:1; community Peer members 1:2; community Transit members 1:3; community DontLeakThis members 1:999; community PleaseLeakThis members 1:1000; community OurAggregates members 1:50000"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "} community Customer members 1:1; community Peer members 1:2; community Transit members 1:3; community DontLeakThis members 1:999; community PleaseLeakThis members 1:1000; community OurAggregates members 1:50000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J.Routing T.C.P./I.P."
+      }
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "J."
+      },
+      {
+        "family": "Carroll",
+        "given": "DeHaven"
+      }
+    ],
+    "container-title": [
+      "J. Routing TCP/IP"
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "Complete Reference: Juniper Networks Router"
+    ],
+    "editor": [
+      {
+        "family": "Doyle",
+        "given": "J."
+      },
+      {
+        "family": "Kolon",
+        "given": "M."
+      }
+    ],
+    "publisher": [
+      "Osborne McGraw-Hill"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "RFC 1825: Atkinson, R.—Security Architecture for the Internet Protocol—August"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "container-title": [
+      "RFC 2271: Harrington, D. et al.—An Architecture for Describing SNMP Management Frameworks—January 1998. RFC 2272: Case, J. et al.—Message Processing and Dispatching for the Simple Network Management Protocol"
+    ],
+    "date": [
+      "1918",
+      "1998-01"
+    ],
+    "editor": [
+      {
+        "family": "Rekhter",
+        "given": "Y."
+      }
+    ],
+    "title": [
+      "et al.—Address Allocation for Private Internets—February 1996"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "RFC 2328: Moy, J.—OSPF Version 2—April 1998. RFC 2375: Hinden, R. and Deering, S.—IPv6 Multicast Address Assignments—July 1998. RFC 2401"
+    ],
+    "date": [
+      "1998-01",
+      "1998-01"
+    ],
+    "editor": [
+      {
+        "family": "et",
+        "given": "Levi D."
+      }
+    ],
+    "genre": [
+      "RFC 2273:"
+    ],
+    "note": [
+      "Kent, S and Atkinson, R.—Security Architecture for the Internet Protocol—November 1998."
+    ],
+    "title": [
+      "RFC 2274: Blumenthal, U. and Wijnen, B.—User-based Security Model (USM) for version 3 of the Simple Network Management Protocol",
+      "RFC 2275: Wijnen, B. et al.—View-based Access Control Model (VACM) for the Simple Network Management Protocol (SNMP)—January 1998"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Designing"
+      },
+      {
+        "family": "Davies",
+        "given": "Developing Scalable I.P.Networks G."
+      }
+    ],
+    "date": [
+      "2004",
+      "1998"
+    ],
+    "note": [
+      "Guy Davies ISBN: 0-470-86739-6 RFC 2460: Deering, S. and Hinden, R.—Internet Protocol, Version 6 (IPv6"
+    ],
+    "publisher": [
+      "Specification—December"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "SONET/SDH—June 1999"
+    ],
+    "editor": [
+      {
+        "family": "Malis",
+        "given": "A."
+      },
+      {
+        "family": "Simpson",
+        "given": "W.—P.P.P.over"
+      }
+    ],
+    "genre": [
+      "RFC 2615:"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tsiang",
+        "given": "D."
+      },
+      {
+        "family": "Suwala",
+        "given": "G.—The Cisco S.R.P.M.A.C.Layer Protocol—August"
+      },
+      {
+        "family": "McPherson",
+        "given": "D."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "RFC",
+      "RFC"
+    ],
+    "date": [
+      "2000"
+    ],
+    "editor": [
+      {
+        "family": "Townsley",
+        "given": "W."
+      }
+    ],
+    "genre": [
+      "RFC 2661:",
+      "RFC 3345:"
+    ],
+    "note": [
+      "ed.)—Generalized Multi-Protocol Label Switching (GMPLS) Signaling Resource ReserVation Protocol-Traffic Engineering (RSVP-TE) Extensions—January 2003. RFC 3478: Leelanivas, M. et al.—Graceful Restart Mechanism for Label Distribution Protocol—February 2003. RFC 3513: Hinden, R. and Deering, S.—Internet Protocol Version 6 (IPv6) Addressing Architecture—April 2003."
+    ],
+    "title": [
+      "et al.—Layer Two Tunneling Protocol ‘L2TP’—August 1999",
+      "Border Gateway Protocol (BGP) Persistent Route Oscillation Condition—August 2002"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2892",
+      "3473: Berger, L"
+    ]
+  },
+  {
+    "date": [
+      "2003"
+    ],
+    "editor": [
+      {
+        "family": "Calhoun",
+        "given": "P."
+      },
+      {
+        "others": true
+      }
+    ],
+    "genre": [
+      "RFC 3588:"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "draft-ietf-13vpn-rfc2547bis-01.txt—Rosen",
+        "given": "E."
+      },
+      {
+        "family": "Rekhter",
+        "given": "Y.—B.G.P./M.P.L.S.I.P.VPNs—Work In Progress draft-ietf-idr-bgp-ext-communities-06txt—Sangli"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "VPNs Over Tunnels—Work In Progress. draft-ietf-13vpn-bgpvpn-auto-01.txt—Ould-Brahim",
+      "Y.(eds)—Using BGP as an Auto-Discovery Mechanism for Provider-provisioned VPNs—Work In Progress"
+    ],
+    "editor": [
+      {
+        "family": "H.",
+        "given": "Rosen"
+      },
+      {
+        "given": "E."
+      },
+      {
+        "given": "Rekhter"
+      }
+    ],
+    "issue": [
+      "txt—Kompella"
+    ],
+    "note": [
+      "draft-ietf-12vpn-radius-pe-discovery-05.txt—Heinanen, J. and Weber, G. (ed.)—Using RADIUS for PE-Based VPN Discovery—Work In Progress. Index"
+    ],
+    "title": [
+      "et al.—Transport of Layer 2 Frames Over MPLS—Work In Progress. draft-martini-12circuit-encap-mpls-06.txt—Martini, L. et al.—Encapsulation Methods for Transport of Layer 2 Frames Over MPLS—Work In Progress"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00"
+    ]
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "container-title": [
+      "Example: The following expression yields"
+    ],
+    "issue": [
+      "15"
+    ],
+    "title": [
+      "where text is a text constant or text expression. The data supplied must be in the form HH:MM:SS. Seconds are optional, and AM and PM may be used as suffixes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "note": [
+      "Example: The following expression yields 5/28/2002 14:15:00: GetAsTimestamp (“05/28/2002 2:15 pm”"
+    ],
+    "title": [
+      "where text is a text constant or text expression, formatted as a date followed by a time. A single integer is interpreted as the number of seconds since 00:00:00 on 01/01/0001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "also",
+        "given": "See"
+      },
+      {
+        "family": "Katakana",
+        "given": "KanaHankaku"
+      },
+      {
+        "given": "KanaZenkaku"
+      }
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "CO 80322-4529."
+    ],
+    "note": [
+      "Phone: 800-288-6848 in U.S.; 303-604-7445 outside the U.S. Web site:"
+    ],
+    "title": [
+      "✦ Macworld magazine: Subscription Services P.O. Box 54529 Boulder"
+    ],
+    "type": null,
+    "url": [
+      "www.macworld.com."
+    ]
+  },
+  {
+    "note": [
+      "Phone: 805-494-9797. Web site:"
+    ],
+    "title": [
+      "✦ MacTech magazine: Xplain Corporation, 850-P Hampshire Road, Westlake Village, CA 91361-2800"
+    ],
+    "type": null,
+    "url": [
+      "www.mactech.com."
+    ]
+  },
+  {
+    "note": [
+      "Phone: 800-800-6542. Web site:"
+    ],
+    "title": [
+      "✦ MacHOME magazine: 703 Market Street, Suite 535 San Francisco, CA 94103"
+    ],
+    "type": null,
+    "url": [
+      "www.machome.com."
+    ]
+  },
+  {
+    "container-title": [
+      "P.O. Box"
+    ],
+    "location": [
+      "San Diego, CA 92142"
+    ],
+    "note": [
+      "Phone: 800-336-6060. Web site:"
+    ],
+    "title": [
+      "✦ FileMaker Pro Advisor magazine"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://filemakerAdvisor.com."
+    ],
+    "volume": [
+      "429002"
+    ]
+  },
+  {
+    "note": [
+      "Fonts preferences Case(), 794. See also Choose(); If(). definition, 244 Ceiling(), 801. See also Floor(); Int(); Truncate(). setting, 250–251 Choose(), 794. See also Case(); If(). footers Combination(), 801. See also Factorial(). Help systems, 680 Cos(), 830. See also Degrees(); Sin(). layout, 14, 94–95, 202 Count(), 767 reports, 115–116, 357 DatabaseNames(), 777 foreign data files, 526–529 Date(), 771–772. See also Day(); Month(); Year(). Index F ■ 877 date, 771–776 Get(), 787–793"
+    ],
+    "type": "report"
+  },
+  {
+    "note": [
+      "Day(), 772. See also Month(); Year(). GetAsBoolean(), 795 DayName(), 772. See also MonthName(). GetAsCSS(), 812. See also GetAsSVG. DayNameJ(), 773. See also DayName(). GetAsDate(), 812. See also GetAsNumber(); DayofWeek(), 773. See also DayofYear(); GetAsTime(); GetAsTimestamp(). WeekofYear(). GetAsNumber(), 812–813. See also Filter()."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "DayofYear"
+      }
+    ],
+    "note": [
+      "See also DayofWeek(); GetAsSVG(), 813. See also GetAsCSS(). WeekofYear(). GetAsText(), 813 Degrees(), 831. See also Atan(); Cos(); Radians(). GetAsTime(), 814. See also GetAsDate(); design, 776–784 GetAsTimestamp()."
+    ],
+    "pages": [
+      "773–774"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Div"
+      }
+    ],
+    "note": [
+      "See also Floor(). GetAsTimestamp(), 814. See also GetAsDate(); Evaluate(), 794–795. See also EvaluationError(). GetAsTime()."
+    ],
+    "pages": [
+      "801–802"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "functions, built-in (continued) Sign(), 806. See also Abs(). Max(), 767. See also Min(). Sin(), 832. See also Cos(). Middle(), 817. See also Left(); MiddleWords(); Sqrt(), 806 Right(). StDev(), 768. See also StDevP(). MiddleValues(), 817–818. See also FilterValues(); StDevP(), 769. See also StDev(). LeftValues(); RightValues(). Substitute(), 822. See also Replace(). MiddleWords(), 818. See also LeftWords(); Middle(); Sum(), 769. See also Average()."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also Middle() GetAsNumber(), 812–813. See also Filter()."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also Position() GetAsSVG(), 813. See also GetAsCSS(). See also Right() GetAsText(), 813 See also TrimAll() GetAsTime(), 814. See also GetAsDate(); TrimAll(), 822–823. See also Trim(). GetAsTimestamp()."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Truncate"
+      }
+    ],
+    "note": [
+      "See also Int(); Round(). GetAsTimestamp(), 814. See also GetAsDate(); Upper(), 823. See also Lower(); Proper(). GetAsTime()."
+    ],
+    "pages": [
+      "806–807"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ValueCount(), 823 GetField(), 795–796 See also Left() GetNextSerialValue(), 780 See also Middle() GetNthRecord(), 796 See also Position() GetRepetition(), 808. See also Last(). See also Right() GetSummary(), 808–809 ValueListIDs(), 783 GetValue(), 781 ValueListItems(), 783. See also ValueListNames(). Global fields, 134, 135–138 ValueListNames(), 784. See also ValueListItems(). Go to Field, 445–446. See also Go to Next Field; Go to Variance(), 770. See also StDev(); StDevP(); Previous Field. VarianceP(). Go to Layout, 442–443 VarianceP(), 770. See also StDev(); StDevP(); Go to Next Field, 446. See also Go to Field; Go to Variance(). Previous Field."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "WeekofYear"
+      },
+      {
+        "family": "DayofYear",
+        "given": "See",
+        "particle": "also"
+      },
+      {
+        "family": "Portal Row",
+        "given": "Go",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "775."
+    ],
+    "container-title": [
+      "Related Record. WeekofYearFiscal("
+    ],
+    "note": [
+      "775. See also DayofYear(). Go to Previous Field, 446. See also Go to Field; Go to WindowNames(), 784 Next Field. WordCount(), 823 Go to Record/Request/Page, 443–444. See also Go to Year(), 776. See also Day(); Month(); WeekofYear(). Related Record."
+    ],
+    "title": [
+      "445. See also Go to Field; Go to WeekofYearFiscal("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "literal": "YearName(), 776. See also DayName()."
+      }
+    ],
+    "note": [
+      "defining, 700–701 grand summaries, 15 invoking, 702 grand summary layout part overview, 698–699 designing, 202–203"
+    ],
+    "title": [
+      "Go to Related Record, 444–445. See also Go to Portal functions, custom Row; Go to Record/Request/Page"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Right"
+      }
+    ],
+    "date": [
+      "820"
+    ],
+    "note": [
+      "See also Left(); Middle(); RightWords(). control, 437–442 RightValues(), 820. See also FilterValues(); Convert File, 482. See also Import Records. MiddleValues(); RightValues(). Copy, 453, 509. See also Cut; Paste."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "RightWords(), 821. See also LeftWords(); MiddleWords(). Copy All Records/Requests, 468–469. See also Copy RomanHankaku(), 821. See also RomanZenkaku(). Record/Request."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "RomanZenkaku"
+      }
+    ],
+    "title": [
+      "821. See also RomanHankaku(). Copy Record/Request, 468. See also Copy All rotating text and objects, 232–233 Records/Requests"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Round(), 805. See also Int(); Truncate(). Correct Word, 488–489. See also Check Found Set; rounded rectangles, 624–625 Check Record; Check Selection. rounding numeric values, 805 Cut, 452–453. See also Clear; Copy; Paste."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Set",
+        "given": "Check Found"
+      }
+    ],
+    "note": [
+      "See also Enter Browse Mode; Selection. Enter Preview Mode; Perform Find."
+    ],
+    "title": [
+      "488. See also Check Record; Check Enter Find Mode, 447"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Record",
+        "given": "Check"
+      }
+    ],
+    "note": [
+      "Mode; Enter Find Mode; Print. Check Selection, 487–488. See also Check Found Set; Execute SQL, 501–502 Check Record. Exit after last option, 435–436 Clear, 454. See also Cut. Exit Application, 502. See also Close File."
+    ],
+    "title": [
+      "488. See also Check Found Set; Check Enter Preview Mode, 447. See also Enter Browse Selection"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "File",
+        "given": "Close"
+      },
+      {
+        "family": "End Loop",
+        "given": "See",
+        "particle": "also"
+      },
+      {
+        "given": "Loop"
+      }
+    ],
+    "container-title": [
+      "Exit Script"
+    ],
+    "note": [
+      "See also Halt Script."
+    ],
+    "pages": [
+      "440–441",
+      "437–438"
+    ],
+    "title": [
+      "481–482. See also Exit Application; Open Exit Loop If",
+      "File"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Window",
+        "given": "Close"
+      }
+    ],
+    "note": [
+      "Export Field Contents, 465 Comment, 502 Export Records, 471–473. See also Import Records."
+    ],
+    "title": [
+      "475. See also Select Window"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Records/Requests",
+        "given": "Commit"
+      }
+    ],
+    "note": [
+      "See also Constrain Constrain Found Set,",
+      "See also Found Set."
+    ],
+    "pages": [
+      "452",
+      "451–452"
+    ],
+    "title": [
+      "468 Extend Found Set"
+    ],
+    "type": null,
+    "volume": [
+      "318, 384",
+      "318, 384"
+    ]
+  }
+]
