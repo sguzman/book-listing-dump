@@ -1,0 +1,6657 @@
+[
+  {
+    "note": [
+      "); B.convertTo( dft_B_part, dft_B_part.type(), 1, -mean(B)[0] ); cv::dft( dft_A, dft_A, 0, A.rows ); cv::dft( dft_B, dft_B, 0, B.rows );"
+    ],
+    "pages": [
+      "– 0"
+    ],
+    "title": [
+      "int dft_M = cv::getOptimalDFTSize( A.rows+B.rows-1 ); int dft_N = cv::getOptimalDFTSize( A.cols+B.cols-1 ); cv::Mat dft_A = cv::Mat::zeros( dft_M, dft_N, CV::F32 ); cv::Mat dft_B = cv::Mat::zeros( dft_M, dft_N, CV::F32 ); cv::Mat dft_A_part = dft_A( Rect(0, 0, A.cols,A.rows) ); cv::Mat dft_B_part = dft_B( Rect(0, 0, B.cols,B.rows) ); A.convertTo( dft_A_part"
+    ],
+    "type": null,
+    "volume": [
+      "dft_A_part.type(), 1"
+    ]
+  },
+  {
+    "note": [
+      "); cv::normalize( corr, corr, 0, 1, NORM_MINMAX, corr.type() ); cv::pow( corr, 3., corr );"
+    ],
+    "title": [
+      "cv::Mat corr = dft_A( Rect(0, 0, A.cols + B.cols - 1, A.rows + B.rows - 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ahonen",
+        "given": "Timo"
+      },
+      {
+        "family": "Hadid",
+        "given": "Abdenour"
+      },
+      {
+        "family": "Pietikäinen",
+        "given": "Matti"
+      }
+    ],
+    "citation-number": [
+      "Ahonen04"
+    ],
+    "container-title": [
+      "European conference on computer vision"
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Berlin Heidelberg"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Face recogni‐tion with local binary patterns"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Acharya",
+        "given": "T."
+      },
+      {
+        "family": "Ray",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Acharya05"
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Image Processing: Principles and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Adelson",
+        "given": "E.H."
+      },
+      {
+        "family": "Anderson",
+        "given": "C.H."
+      },
+      {
+        "family": "Bergen",
+        "given": "J.R."
+      },
+      {
+        "family": "Burt",
+        "given": "P.J."
+      },
+      {
+        "family": "Ogden",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "Adelson84"
+    ],
+    "container-title": [
+      "RCA Engineer"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "33–41"
+    ],
+    "title": [
+      "Pyramid methods in image processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "M."
+      },
+      {
+        "family": "Konolige",
+        "given": "K."
+      },
+      {
+        "family": "Blas",
+        "given": "M.R."
+      }
+    ],
+    "citation-number": [
+      "Agarwal08"
+    ],
+    "container-title": [
+      "European Conference on Computer Vision"
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "CenSurE: Center Surround Extremas for Realtime Feature Detection and Matching"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahmed",
+        "given": "N."
+      },
+      {
+        "family": "Natarajan",
+        "given": "T."
+      },
+      {
+        "family": "Rao",
+        "given": "K.R."
+      }
+    ],
+    "citation-number": [
+      "Ahmed74"
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "90–93"
+    ],
+    "title": [
+      "Discrete cosine transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alahi",
+        "given": "Alexandre"
+      },
+      {
+        "family": "Ortiz",
+        "given": "Raphael"
+      },
+      {
+        "family": "Vandergheynst",
+        "given": "Pierre"
+      }
+    ],
+    "citation-number": [
+      "Alahi12"
+    ],
+    "container-title": [
+      "Computer vision and pattern recognition (CVPR), 2012 IEEE confer‐ence on"
+    ],
+    "date": [
+      "2012"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "Freak: Fast retina keypoint"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Arfken",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Arfken85"
+    ],
+    "container-title": [
+      "Mathematical Methods for Physi‐cists"
+    ],
+    "date": [
+      "1985"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "pages": [
+      "810–814 ,"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Convolution theorem"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "Arraiy] Arraiy Corporation,"
+    ],
+    "type": null,
+    "url": [
+      "http://www.arraiy.ai."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Arthur",
+        "given": "D."
+      },
+      {
+        "family": "Vassilvitskii",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Arthur07"
+    ],
+    "container-title": [
+      "Proceedings of the eighteenth annual ACM-SIAM symposium on discrete algorithms"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "1027–1035"
+    ],
+    "title": [
+      "k-means++: the advantages of careful seeding"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bajaj",
+        "given": "C.L."
+      },
+      {
+        "family": "Pascucci",
+        "given": "V."
+      },
+      {
+        "family": "Schikore",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "Bajaj97"
+    ],
+    "container-title": [
+      "Pro‐ceedings of IEEE Visualization 1997"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "167–173 ,"
+    ],
+    "title": [
+      "The contour spectrum"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ballard",
+        "given": "D.H."
+      }
+    ],
+    "citation-number": [
+      "Ballard81"
+    ],
+    "container-title": [
+      "Pattern Recognition"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "111–122"
+    ],
+    "title": [
+      "Generalizing the Hough transform to detect arbitrary shapes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ballard",
+        "given": "D."
+      },
+      {
+        "family": "Brown",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Ballard82"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Vision"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bardyn",
+        "given": "J.J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Bardyn84"
+    ],
+    "container-title": [
+      "Congres reconnaissance des formes et intelligence artificielle"
+    ],
+    "date": [
+      "1984-01-25"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "pages": [
+      "557–566 ,"
+    ],
+    "title": [
+      "Une architecture VLSI pour un operateur de filtrage median"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bay",
+        "given": "H."
+      },
+      {
+        "family": "Tuytelaars",
+        "given": "T."
+      },
+      {
+        "family": "Gool",
+        "given": "L.V."
+      }
+    ],
+    "citation-number": [
+      "Bay06"
+    ],
+    "container-title": [
+      "Proceedings of the Ninth European Conference on Computer Vision"
+    ],
+    "date": [
+      "2006-05"
+    ],
+    "pages": [
+      "404–417 ,"
+    ],
+    "title": [
+      "SURF: Speeded up robust features"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bay",
+        "given": "Herbert"
+      },
+      {
+        "family": "Ess",
+        "given": "Andreas"
+      },
+      {
+        "family": "Tuytelaars",
+        "given": "Tinne"
+      },
+      {
+        "family": "Gool",
+        "given": "Luc J.",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "Bay08"
+    ],
+    "container-title": [
+      "Computer Vision and Image Understanding (CVIU"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "346–359"
+    ],
+    "title": [
+      "SURF: Speeded up robust features"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "110"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bayes",
+        "given": "T."
+      },
+      {
+        "family": "Bayes",
+        "given": "F.R.S.communicated by Mr"
+      }
+    ],
+    "citation-number": [
+      "Bayes1763"
+    ],
+    "container-title": [
+      "Philosophical Transactions, Giving Some Account of the Present Undertakings, Studies and Labours of the Ingenious in Many Considerable Parts of the World",
+      "By the late Rev. Mr"
+    ],
+    "date": [
+      "1763"
+    ],
+    "pages": [
+      "370–418"
+    ],
+    "title": [
+      "An essay towards solving a problem in the doctrine of chan‐ces",
+      "Price, in a letter to John Canton, A.M.F.R.S"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bazargani",
+        "given": "Hamid"
+      },
+      {
+        "family": "Bilaniuk",
+        "given": "Olexa"
+      },
+      {
+        "family": "Laganiere",
+        "given": "Robert"
+      }
+    ],
+    "citation-number": [
+      "Bazargani15"
+    ],
+    "container-title": [
+      "Journal of Real-Time Image Processing"
+    ],
+    "date": [
+      "2015"
+    ],
+    "pages": [
+      "1–20"
+    ],
+    "title": [
+      "A fast and robust homography scheme for real-time planar target detection"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Belongie",
+        "given": "S."
+      },
+      {
+        "family": "Malik",
+        "given": "J."
+      },
+      {
+        "family": "Puzicha",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Belongie02"
+    ],
+    "container-title": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "2002-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "509–522,"
+    ],
+    "title": [
+      "Shape matching and object recog‐nition using shape contexts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattacharyya",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Bhattacharyya43"
+    ],
+    "container-title": [
+      "Bulletin of the Calcutta Mathematical Society"
+    ],
+    "date": [
+      "1943"
+    ],
+    "pages": [
+      "99–109"
+    ],
+    "title": [
+      "On a measure of divergence between two stat‐istical populations defined by probability distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Birchfield",
+        "given": "Stan"
+      },
+      {
+        "family": "Tomasi",
+        "given": "Carlo"
+      }
+    ],
+    "citation-number": [
+      "BirchfieldTomasi99"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "269–293"
+    ],
+    "title": [
+      "Depth discontinuities by pixel-to-pixel stereo"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bishop",
+        "given": "C.M."
+      }
+    ],
+    "citation-number": [
+      "Bishop07"
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Pattern Recognition and Machine Learning"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "Black92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "genre": [
+      "(YALEU-DCS-RR-923), Ph.D. thesis,"
+    ],
+    "location": [
+      "New Haven, CT"
+    ],
+    "publisher": [
+      "Department of Computer Science, Yale University"
+    ],
+    "title": [
+      "Robust incremental optical flow"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "M.J."
+      },
+      {
+        "family": "Anandan",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Black93"
+    ],
+    "container-title": [
+      "Fourth International Conference on Computer Vision"
+    ],
+    "date": [
+      "1993-05"
+    ],
+    "pages": [
+      "231–236 ,"
+    ],
+    "title": [
+      "A framework for the robust estimation of optical flow"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "M.J."
+      },
+      {
+        "family": "Anandan",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Black96"
+    ],
+    "container-title": [
+      "Computer Vision and Image Under‐standing"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "75–104"
+    ],
+    "title": [
+      "The robust estimation of multiple motions: Parametric and piecewise-smooth flow fields"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bobick",
+        "given": "A."
+      },
+      {
+        "family": "Davis",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Bobick96"
+    ],
+    "container-title": [
+      "IEEE Workshop on Applications of Computer Vision"
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "pages": [
+      "39–42 ,"
+    ],
+    "title": [
+      "Real-time recognition of activity using temporal templates"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Borgefors",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Borgefors86"
+    ],
+    "container-title": [
+      "Computer Vision, Graphics and Image Processing"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "344–371"
+    ],
+    "title": [
+      "Distance transformations in digital images"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bouguet",
+        "given": "J.-Y."
+      }
+    ],
+    "citation-number": [
+      "Bouguet04"
+    ],
+    "title": [
+      "Pyramidal implementation of the Lucas Kanade feature tracker description of the algorithm"
+    ],
+    "type": null,
+    "url": [
+      "http://robots.stanford.edu/cs223b04/algo_track"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boykov",
+        "given": "Yuri"
+      },
+      {
+        "family": "Veksler",
+        "given": "Olga"
+      },
+      {
+        "family": "Zabih",
+        "given": "Ramin"
+      }
+    ],
+    "citation-number": [
+      "Boykov01"
+    ],
+    "container-title": [
+      "IEEE Transactions on pattern analysis and machine intelligence"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1222–1239"
+    ],
+    "title": [
+      "Fast approximate energy minimization via graph cuts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bracewell",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Bracewell65"
+    ],
+    "container-title": [
+      "The Fourier Transform and Its Applications"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "25–50 243–244"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Convolution” and “Two-dimensional convolution"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Bradski"
+      }
+    ],
+    "title": [
+      "Gary Bradski, founder of OpenCV in 1999 and maintainer ever since"
+    ],
+    "type": null,
+    "url": [
+      "https://en.wikipedia.org/wiki/Gary_Bradski."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bradski",
+        "given": "G."
+      },
+      {
+        "family": "Davis",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Bradski00"
+    ],
+    "container-title": [
+      "IEEE Workshop on Applications of Computer Vision"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Motion segmentation and pose recognition with motion history gradients"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bradski98a] Bradski",
+        "given": "G.R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 4th IEEE Workshop on Applications of Computer Vision"
+    ],
+    "date": [
+      "1998-10"
+    ],
+    "title": [
+      "Real time face and object tracking as a component of a perceptual user interface"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bradski98b] Bradski",
+        "given": "G.R."
+      }
+    ],
+    "container-title": [
+      "Intel Technology Journal"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "705–740"
+    ],
+    "title": [
+      "Computer video face tracking for use in a perceptual user interface"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Q2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Breiman",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "Breiman01"
+    ],
+    "container-title": [
+      "Machine Learning"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "5–32"
+    ],
+    "title": [
+      "Random forests"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Breiman",
+        "given": "Leo"
+      }
+    ],
+    "citation-number": [
+      "Breiman02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "Statistics Department,"
+    ],
+    "location": [
+      "Berkeley, CA, USA"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Manual on setting up, using, and understanding ran‐dom forests v3. 1"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Breiman",
+        "given": "L."
+      },
+      {
+        "family": "Friedman",
+        "given": "J.H."
+      },
+      {
+        "family": "Olshen",
+        "given": "R.A."
+      },
+      {
+        "family": "Stone",
+        "given": "C.J."
+      }
+    ],
+    "citation-number": [
+      "Breiman84"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Monterey, CA"
+    ],
+    "publisher": [
+      "Wadsworth"
+    ],
+    "title": [
+      "Classification and Regression Trees"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "Brown71"
+    ],
+    "container-title": [
+      "Photogrammetric Engi‐neering"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "855–866"
+    ],
+    "title": [
+      "Close-range camera calibration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mahmoudi",
+        "given": "Mona"
+      },
+      {
+        "family": "Sapiro",
+        "given": "Guillermo"
+      }
+    ],
+    "citation-number": [
+      "Buades05"
+    ],
+    "container-title": [
+      "IEEE signal processing letters"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "839–842"
+    ],
+    "title": [
+      "Fast image and video denois‐ing via nonlocal means of similar neighborhoods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burt",
+        "given": "P.J."
+      },
+      {
+        "family": "Adelson",
+        "given": "E.H."
+      }
+    ],
+    "citation-number": [
+      "Burt83"
+    ],
+    "container-title": [
+      "IEEE Transactions on Communications"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "532–540"
+    ],
+    "title": [
+      "The Laplacian pyramid as a compact image code"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Calonder",
+        "given": "M."
+      },
+      {
+        "family": "Lepetit",
+        "given": "V."
+      },
+      {
+        "family": "Strecha",
+        "given": "C."
+      },
+      {
+        "family": "Fua",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Calonder10"
+    ],
+    "container-title": [
+      "European Conference on Computer Vision (ECCV"
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Brief: Binary robust independent elementary features"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Canny",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Canny86"
+    ],
+    "container-title": [
+      "IEEE Transac‐tions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "679–714"
+    ],
+    "title": [
+      "A computational approach to edge detection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Carpenter03"
+    ],
+    "container-title": [
+      "The Handbook of Brain Theory and Neural Networks"
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "editor": [
+      {
+        "family": "Arbib",
+        "given": "M.A."
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "87–90 ,"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Adaptive resonance theory"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Carr",
+        "given": "H."
+      },
+      {
+        "family": "Snoeyink",
+        "given": "J."
+      },
+      {
+        "family": "Panne",
+        "given": "M.",
+        "particle": "van de"
+      }
+    ],
+    "citation-number": [
+      "Carr04"
+    ],
+    "container-title": [
+      "15th Western Computer Graphics Symposium, Big White"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "location": [
+      "British Columbia"
+    ],
+    "title": [
+      "Progressive topological simpli‐fication using contour trees and local spatial measures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chambolle",
+        "given": "Antonin"
+      }
+    ],
+    "citation-number": [
+      "Chambolle04"
+    ],
+    "container-title": [
+      "Journal of Mathematical imaging and vision"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "1–2"
+    ],
+    "pages": [
+      "89–97"
+    ],
+    "title": [
+      "An algorithm for total variation minimization and applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "D."
+      },
+      {
+        "family": "Zhang",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Chen05"
+    ],
+    "container-title": [
+      "WSCG Short Papers"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "97–100"
+    ],
+    "title": [
+      "A new sub-pixel detector for x-corners in camera calibration targets"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chu",
+        "given": "C.-T."
+      },
+      {
+        "family": "Kim",
+        "given": "S.K."
+      },
+      {
+        "family": "Lin",
+        "given": "Y.-A."
+      },
+      {
+        "family": "Yu",
+        "given": "Y.Y."
+      },
+      {
+        "family": "Bradski",
+        "given": "G."
+      },
+      {
+        "family": "Ng",
+        "given": "A.Y."
+      },
+      {
+        "family": "Olu‐kotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Chu07"
+    ],
+    "container-title": [
+      "Proceedings of the Neural Information Processing Systems Conference"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "304–310 ,"
+    ],
+    "title": [
+      "Map-reduce for machine learning on multicore"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ciresan",
+        "given": "Dan Claudiu"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Ciresan11"
+    ],
+    "container-title": [
+      "2011 International Conference on Docu‐ment Analysis and Recognition"
+    ],
+    "date": [
+      "2011"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "Convolutional neural network committees for handwritten character classification"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Colombari",
+        "given": "A."
+      },
+      {
+        "family": "Fusiello",
+        "given": "A."
+      },
+      {
+        "family": "Murino",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "Colombari07"
+    ],
+    "container-title": [
+      "International Conference on Image Analysis and Processing"
+    ],
+    "date": [
+      "2007-09"
+    ],
+    "pages": [
+      "155–164 ,"
+    ],
+    "title": [
+      "Video objects segmenta‐tion by robust background modeling"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Comaniciu",
+        "given": "D."
+      },
+      {
+        "family": "Meer",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Comaniciu99"
+    ],
+    "container-title": [
+      "IEEE International Conference on Computer Vision"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "1197 ,"
+    ],
+    "title": [
+      "Mean shift analysis and applications"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Comaniciu",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Comaniciu03"
+    ],
+    "container-title": [
+      "IEEE Conference on Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "59–66 ,"
+    ],
+    "title": [
+      "Nonparametric information fusion for motion esti‐mation"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cooley",
+        "given": "J.W."
+      },
+      {
+        "family": "Tukey",
+        "given": "O.W."
+      }
+    ],
+    "citation-number": [
+      "Cooley65"
+    ],
+    "container-title": [
+      "Mathematics of Computation"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "297–301"
+    ],
+    "title": [
+      "An algorithm for the machine calcula‐tion of complex Fourier series"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "citation-number": [
+      "Criminisi13"
+    ],
+    "date": [
+      "2013"
+    ],
+    "editor": [
+      {
+        "family": "Criminisi",
+        "given": "Antonio"
+      },
+      {
+        "family": "Shotton",
+        "given": "Jamie"
+      }
+    ],
+    "publisher": [
+      "Springer Science & Business Media"
+    ],
+    "title": [
+      "Decision forests for com‐puter vision and medical image analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Csurka",
+        "given": "Gabriella"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Csurka04"
+    ],
+    "container-title": [
+      "Workshop on statistical learning in computer vision, ECCV"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "1–22"
+    ],
+    "title": [
+      "Visual categorization with bags of keypoints"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlkamp",
+        "given": "H."
+      },
+      {
+        "family": "Kaehler",
+        "given": "A."
+      },
+      {
+        "family": "Stavens",
+        "given": "D."
+      },
+      {
+        "family": "Thrun",
+        "given": "S."
+      },
+      {
+        "family": "Bradski",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Dahlkamp06"
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Robotics",
+      "Philadelphia"
+    ],
+    "publisher": [
+      "Science and Sys‐tems"
+    ],
+    "title": [
+      "Selfsupervised monocular road detection in desert terrain"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dalal",
+        "given": "N."
+      },
+      {
+        "family": "Triggs",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Dalal05"
+    ],
+    "container-title": [
+      "Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "2005-06"
+    ],
+    "pages": [
+      "886–893 ,"
+    ],
+    "title": [
+      "Histograms of oriented gradients for human detection"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "J."
+      },
+      {
+        "family": "Bobick",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Davis97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "(Technical Report 402),"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Media Lab"
+    ],
+    "title": [
+      "The representation and recognition of action using temporal templates"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "J."
+      },
+      {
+        "family": "Bradski",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Davis99"
+    ],
+    "container-title": [
+      "ICCV Workshop on Framerate Vision"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Real-time motion template gradients using Intel CVLib"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Delaunay",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Delaunay34"
+    ],
+    "container-title": [
+      "Izvestia Akademii Nauk SSSR, Otde‐lenie Matematicheskikh i Estestvennykh Nauk"
+    ],
+    "date": [
+      "1934"
+    ],
+    "pages": [
+      "793–800"
+    ],
+    "title": [
+      "Sur la sphère vide"
+    ],
+    "type": "chapter",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DeMenthon",
+        "given": "D.F."
+      },
+      {
+        "family": "Davis",
+        "given": "L.S."
+      }
+    ],
+    "citation-number": [
+      "DeMenthon92"
+    ],
+    "container-title": [
+      "the European Conference on Computer Vision"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "335–343 ,"
+    ],
+    "title": [
+      "Model-based object pose in 25 lines of code,”Proceedings"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dempster",
+        "given": "A."
+      },
+      {
+        "family": "Laird",
+        "given": "N."
+      },
+      {
+        "family": "Rubin",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Dempster77"
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society, Series B"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "1–38"
+    ],
+    "title": [
+      "Maximum likelihood from incomplete data via the EM algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Douglas",
+        "given": "D."
+      },
+      {
+        "family": "Peucker",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Douglas73"
+    ],
+    "container-title": [
+      "Canadian Car‐tographer"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "112–122"
+    ],
+    "title": [
+      "Algorithms for the reduction of the num‐ber of points required for represent a digitized line or its caricature"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drucker",
+        "given": "Harris"
+      },
+      {
+        "family": "Burges",
+        "given": "Chris J.C."
+      },
+      {
+        "family": "Kaufman",
+        "given": "Linda"
+      },
+      {
+        "family": "Smola",
+        "given": "Alex"
+      },
+      {
+        "family": "Vapnik",
+        "given": "Vladimir"
+      }
+    ],
+    "citation-number": [
+      "Drucker97"
+    ],
+    "container-title": [
+      "Advances in neural informa‐tion processing systems 9"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "155–161"
+    ],
+    "title": [
+      "Support vector regression machines"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Duda",
+        "given": "R.O."
+      },
+      {
+        "family": "Hart",
+        "given": "P.E."
+      }
+    ],
+    "citation-number": [
+      "Duda72"
+    ],
+    "container-title": [
+      "Communications of the Association for Computing Machinery"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "11–15"
+    ],
+    "title": [
+      "Use of the Hough transformation to detect lines and curves in pictures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duda",
+        "given": "R.O."
+      },
+      {
+        "family": "Hart",
+        "given": "P.E."
+      }
+    ],
+    "citation-number": [
+      "Duda73"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Pattern Recognition and Scene Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Duda",
+        "given": "R.O."
+      },
+      {
+        "family": "Hart",
+        "given": "P.E."
+      },
+      {
+        "family": "Stork",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "Duda00"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Pattern Classification"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Farin",
+        "given": "D."
+      },
+      {
+        "family": "With",
+        "given": "P.H.N.",
+        "particle": "de"
+      },
+      {
+        "family": "Effelsberg",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "Farin04"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Multimedia and Expo"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Video-object segmentation using multi-sprite background subtraction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Farnebäck",
+        "given": "Gunnar"
+      }
+    ],
+    "citation-number": [
+      "Farnebäck03"
+    ],
+    "container-title": [
+      "Scandinavian conference on image analysis"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Berlin Heidel‐berg"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Two-frame motion estimation based on polyno‐mial expansion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Faugeras",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "Faugeras93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Three-Dimensional Computer Vision: A Geometric View‐point"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Felzenszwalb",
+        "given": "Pedro"
+      },
+      {
+        "family": "Huttenlocher",
+        "given": "Daniel"
+      }
+    ],
+    "citation-number": [
+      "Felzenszwalb2004"
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Cornell University"
+    ],
+    "title": [
+      "Distance trans‐forms of sampled functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Felzenszwalb",
+        "given": "Pedro F."
+      },
+      {
+        "family": "Huttenlocher",
+        "given": "Daniel P."
+      }
+    ],
+    "citation-number": [
+      "Felzenszwalb2006"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "2006-10"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Efficient belief propagation for early vision"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Felzenszwalb",
+        "given": "Pedro F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Felzenszwalb2010"
+    ],
+    "container-title": [
+      "IEEE transactions on pattern analysis and machine intelligence"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1627–1645"
+    ],
+    "title": [
+      "Object detection with discrimina‐tively trained part-based models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fischler",
+        "given": "M.A."
+      },
+      {
+        "family": "Bolles",
+        "given": "R.C."
+      }
+    ],
+    "citation-number": [
+      "Fischler81"
+    ],
+    "container-title": [
+      "Communications of the Association for Computing Machinery"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "381–395"
+    ],
+    "title": [
+      "Random sample consensus: A para‐digm for model fitting with applications to image analysis and automated cartogra‐phy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fitzgibbon",
+        "given": "A.W."
+      },
+      {
+        "family": "Fisher",
+        "given": "R.B."
+      }
+    ],
+    "citation-number": [
+      "Fitzgibbon95"
+    ],
+    "container-title": [
+      "Proceedings of the 5th British Machine Vision Conference"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Birmingham"
+    ],
+    "pages": [
+      "513–522 ,"
+    ],
+    "title": [
+      "A buyer’s guide to conic fitting"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Fix",
+        "given": "E."
+      },
+      {
+        "family": "Hodges",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "Fix51"
+    ],
+    "date": [
+      "1951"
+    ],
+    "genre": [
+      "(Technical Report 4),"
+    ],
+    "location": [
+      "Randolph Field, Texas"
+    ],
+    "publisher": [
+      "USAF School of Aviation Med‐icine"
+    ],
+    "title": [
+      "Discriminatory analysis, nonparametric discrimi‐nation: Consistency properties"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Forsyth",
+        "given": "D."
+      },
+      {
+        "family": "Ponce",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Forsyth03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Engle‐wood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Vision: A Modern Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrison",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "FourCC85"
+    ],
+    "title": [
+      "EA IFF 85 standard for interchange format files"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Fourier"
+      }
+    ],
+    "title": [
+      "Joseph Fourier"
+    ],
+    "type": null,
+    "url": [
+      "http://en.wikipedia.org/wiki/Joseph_Fourier."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "W.T."
+      },
+      {
+        "family": "Roth",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "Freeman95"
+    ],
+    "container-title": [
+      "International Workshop on Automatic Face and Gesture Recognition"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "pages": [
+      "296–301 ,"
+    ],
+    "title": [
+      "Orientation histograms for hand gesture recognition"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Freund",
+        "given": "Y."
+      },
+      {
+        "family": "Schapire",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "Freund97"
+    ],
+    "container-title": [
+      "Journal of Computer and System Sciences"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "119–139"
+    ],
+    "title": [
+      "A decision-theoretic generalization of on-line learning and an application to boosting"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fryer",
+        "given": "J.G."
+      },
+      {
+        "family": "Brown",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "Fryer86"
+    ],
+    "container-title": [
+      "Photogrammetric Engineering and Remote Sensing"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "51–58"
+    ],
+    "title": [
+      "Lens distortion for close-range photogram‐metry"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fukunaga",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Fukunaga90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Introduction to Statistical Pattern Recognition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fukushima",
+        "given": "Kunihiko"
+      }
+    ],
+    "citation-number": [
+      "Fukushima80"
+    ],
+    "container-title": [
+      "Biological cybernetics"
+    ],
+    "date": [
+      "1980"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "193–202"
+    ],
+    "title": [
+      "Neocognitron: A self-organizing neural net‐work model for a mechanism of pattern recognition unaffected by shift in position"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Galton"
+      }
+    ],
+    "title": [
+      "Francis Galton"
+    ],
+    "type": null,
+    "url": [
+      "http://en.wikipedia.org/wiki/Francis_Galton."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Xiao-Shan"
+      },
+      {
+        "family": "Hou",
+        "given": "Xiao-Rong"
+      },
+      {
+        "family": "Tang",
+        "given": "Jianliang"
+      },
+      {
+        "family": "Cheng",
+        "given": "Hang-Fei"
+      }
+    ],
+    "citation-number": [
+      "Gao03"
+    ],
+    "container-title": [
+      "IEEE Transactions Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "930–943"
+    ],
+    "title": [
+      "Complete solution classification for the perspective-three-point problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garrido-Jurado] Garrido-Jurado",
+        "given": "S."
+      },
+      {
+        "family": "Munoz-Salinas",
+        "given": "R."
+      },
+      {
+        "family": "Madrid-Cuevas",
+        "given": "F.J."
+      },
+      {
+        "family": "Marin-Jimenez",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "Pattern Recognition"
+    ],
+    "date": [
+      "2014-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Automatic generation and detection of highly reliable fiducial markers under occlusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Göktürk",
+        "given": "S.B."
+      },
+      {
+        "family": "Bouguet",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Grzeszczuk",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Göktürk01"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Computer Vision"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "701–708 ,"
+    ],
+    "title": [
+      "A data-driven model for monocular face tracking"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Göktürk",
+        "given": "S.B."
+      },
+      {
+        "family": "Bouguet",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Tomasi",
+        "given": "C."
+      },
+      {
+        "family": "Girod",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Göktürk02"
+    ],
+    "container-title": [
+      "Proceedings of the Fifth IEEE International Conference on Automatic Face and Gesture Recognition"
+    ],
+    "date": [
+      "2002-05"
+    ],
+    "pages": [
+      "287–293 ,"
+    ],
+    "title": [
+      "Model-based face tracking for view-independent facial expression recognition"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Goresky",
+        "given": "Mark"
+      },
+      {
+        "family": "Klapper",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "Goresky03"
+    ],
+    "container-title": [
+      "ACM Transactions on Modeling and Computer Simulation (TOMACS"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "310–321"
+    ],
+    "title": [
+      "Efficient multiply-with-carry random number generators with maximal period"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Grossberg87"
+    ],
+    "container-title": [
+      "Cognitive Science"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "23–63"
+    ],
+    "title": [
+      "Competitive learning: From interactive activation to adaptive resonance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "C."
+      },
+      {
+        "family": "Stephens",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "Harris88"
+    ],
+    "container-title": [
+      "Pro‐ceedings of the 4th Alvey Vision Conference"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "147–151 ,"
+    ],
+    "title": [
+      "A combined corner and edge detector"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartley",
+        "given": "R.I."
+      }
+    ],
+    "citation-number": [
+      "Hartley98"
+    ],
+    "container-title": [
+      "Interna‐tional Journal of Computer Vision"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "115–127"
+    ],
+    "title": [
+      "Theory and practice of projective rectification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hartley",
+        "given": "R."
+      },
+      {
+        "family": "Zisserman",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Hartley06"
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Multiple View Geometry in Computer Vision"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hastie",
+        "given": "T."
+      },
+      {
+        "family": "Tibshirani",
+        "given": "R."
+      },
+      {
+        "family": "Friedman",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Hastie01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Elements of Statistical Learning: Data Mining, Inference and Prediction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heckbert",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Heckbert90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Aca‐demic Press"
+    ],
+    "title": [
+      "A Seed Fill Algorithm (Graphics Gems I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heikkila",
+        "given": "J."
+      },
+      {
+        "family": "Silven",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "Heikkila97"
+    ],
+    "container-title": [
+      "Proceedings of the 1997 Conference on Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "1106 ,"
+    ],
+    "title": [
+      "A four-step camera calibration procedure with implicit image correction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hinton",
+        "given": "G.E."
+      },
+      {
+        "family": "Osindero",
+        "given": "S."
+      },
+      {
+        "family": "Teh",
+        "given": "Y."
+      },
+      {
+        "family": "Hirschmuller",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "Hinton06"
+    ],
+    "container-title": [
+      "Neural Computation",
+      "Pattern Analysis and Machine Intelligence PAMI"
+    ],
+    "date": [
+      "2006",
+      "2008-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "Hirschmuller 08"
+    ],
+    "pages": [
+      "1527–1554",
+      "328–341"
+    ],
+    "title": [
+      "A fast learning algorithm for deep belief nets",
+      "Stereo Processing by Semiglobal Matching and Mutual Information"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18",
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ho",
+        "given": "T.K."
+      }
+    ],
+    "citation-number": [
+      "Ho95"
+    ],
+    "container-title": [
+      "Proceedings of the 3rd International Con‐ference on Document Analysis and Recognition"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "pages": [
+      "278–282 ,"
+    ],
+    "title": [
+      "Random decision forest"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Horn",
+        "given": "B.K.P."
+      },
+      {
+        "family": "Schunck",
+        "given": "B.G."
+      }
+    ],
+    "citation-number": [
+      "Horn81"
+    ],
+    "container-title": [
+      "Artificial Intelligence"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "185–203"
+    ],
+    "title": [
+      "Determining optical flow"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hough",
+        "given": "P.V.C."
+      }
+    ],
+    "citation-number": [
+      "Hough59"
+    ],
+    "container-title": [
+      "Proceed‐ings of the International Conference on High Energy Accelerators and Instrumentation"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "554–556 ,"
+    ],
+    "title": [
+      "Machine analysis of bubble chamber pictures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Huttenlocher",
+        "given": "Daniel P."
+      },
+      {
+        "family": "Klanderman",
+        "given": "Gregory A."
+      },
+      {
+        "family": "Rucklidge",
+        "given": "William J."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on pattern analysis and machine intelligence"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "850–863"
+    ],
+    "title": [
+      "Com‐paring images using the Hausdorff distance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "note": [
+      "Intel] Intel Corporation,"
+    ],
+    "type": null,
+    "url": [
+      "http://www.intel.com/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Inui",
+        "given": "K."
+      },
+      {
+        "family": "Kaneko",
+        "given": "S."
+      },
+      {
+        "family": "Igarashi",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Inui03"
+    ],
+    "container-title": [
+      "Systems and Computers in Japan"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "92–100"
+    ],
+    "title": [
+      "Robust line fitting using LmedS cluster‐ing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.P."
+      }
+    ],
+    "title": [
+      "Intel Integrated Performance Primitives"
+    ],
+    "type": null,
+    "url": [
+      "https://software.intel.com/en-us/intelipp."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Itseez"
+      }
+    ],
+    "container-title": [
+      "Now sold to Intel Corporation"
+    ],
+    "title": [
+      "A computer vision company that grew out of the original OpenCV project and one of the key maintainers of the free and open OpenCV.org"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaehne",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Jaehne95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Digital Image Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaehne",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Jaehne97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Practical Handbook on Image Processing for Scientific Applica‐tions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jain",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Jain77"
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "560–571"
+    ],
+    "title": [
+      "A fast Karhunen-Loeve transform for digital restoration of images degraded by white and colored noise"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jain",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Jain86"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Fundamentals of Digital Image Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "D.H."
+      }
+    ],
+    "citation-number": [
+      "Johnson84"
+    ],
+    "container-title": [
+      "IEEE Acoustics, Speech, and Signal Processing Magazine"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "14–21"
+    ],
+    "title": [
+      "Gauss and the history of the fast Fourier transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KaewTraKulPong",
+        "given": "P."
+      },
+      {
+        "family": "Bowden",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "KaewTraKulPong2001"
+    ],
+    "container-title": [
+      "Proc. 2nd European Workshop on Advanced Video Based Surveillance Systems, AVBS01"
+    ],
+    "date": [
+      "2001-09"
+    ],
+    "title": [
+      "An Improved Adap‐tive Background Mixture Model for Realtime Tracking with Shadow Detection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "Kalman60"
+    ],
+    "container-title": [
+      "Journal of Basic Engineering"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "35–45"
+    ],
+    "title": [
+      "A new approach to linear filtering and prediction prob‐lems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "K."
+      },
+      {
+        "family": "Chalidabhongse",
+        "given": "T.H."
+      },
+      {
+        "family": "Harwood",
+        "given": "D."
+      },
+      {
+        "family": "Davis",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "Kim05"
+    ],
+    "container-title": [
+      "Real-Time Imaging"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "167–256"
+    ],
+    "title": [
+      "Real-time foreground-background segmentation using codebook model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kimme",
+        "given": "C."
+      },
+      {
+        "family": "Ballard",
+        "given": "D.H."
+      },
+      {
+        "family": "Sklansky",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Kimme75"
+    ],
+    "container-title": [
+      "Communications of the Association for Computing Machinery"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "120–122"
+    ],
+    "title": [
+      "Finding circles by an array of accumulators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kiryati",
+        "given": "N."
+      },
+      {
+        "family": "Eldar",
+        "given": "Y."
+      },
+      {
+        "family": "Bruckshtein",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "Kiryati91"
+    ],
+    "container-title": [
+      "Pattern Recognition"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "303–316"
+    ],
+    "title": [
+      "A probablistic Hough trans‐form"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koller",
+        "given": "Daphne"
+      },
+      {
+        "family": "Friedman",
+        "given": "Nir"
+      }
+    ],
+    "citation-number": [
+      "Koller09"
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Probabilistic graphical models: princi‐ples and techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Konolige",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Konolige97"
+    ],
+    "container-title": [
+      "Proceedings of the International Symposium on Robotics Research"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Hay‐ama, Japan"
+    ],
+    "pages": [
+      "111–116 ,"
+    ],
+    "title": [
+      "Small vision system: Hardware and implementation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kopf",
+        "given": "Johannes"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Kopf07"
+    ],
+    "container-title": [
+      "ACM Transactions on Graphics (TOG"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "3"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Joint bilateral upsampling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kreveld",
+        "given": "M.",
+        "particle": "van"
+      },
+      {
+        "family": "Oostrum",
+        "given": "R.",
+        "particle": "van"
+      },
+      {
+        "family": "Bajaj",
+        "given": "C.L."
+      },
+      {
+        "family": "Pascucci",
+        "given": "V."
+      },
+      {
+        "family": "Schikore",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "Kreveld97"
+    ],
+    "container-title": [
+      "Proceedings of the 13th ACM Symposium on Computational Geometry"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "212–220 ,"
+    ],
+    "title": [
+      "Contour trees and small seed sets for isosurface traversal"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lakoff",
+        "given": "G."
+      },
+      {
+        "family": "Johnson",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "Lakoff08"
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "University of Chi‐cago Press"
+    ],
+    "title": [
+      "Metaphors we live by"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Laughlin",
+        "given": "S.B."
+      }
+    ],
+    "citation-number": [
+      "Laughlin81"
+    ],
+    "container-title": [
+      "Zeitschrift für Naturforschung"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "910–912"
+    ],
+    "title": [
+      "A simple coding procedure enhances a neuron’s infor‐mation capacity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LeCun98a] LeCun",
+        "given": "Y."
+      },
+      {
+        "family": "Bottou",
+        "given": "L."
+      },
+      {
+        "family": "Bengio",
+        "given": "Y."
+      },
+      {
+        "family": "Haffner",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "2278–2324"
+    ],
+    "title": [
+      "Gradient-based learn‐ing applied to document recognition"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "86"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LeCun98b] LeCun",
+        "given": "Y."
+      },
+      {
+        "family": "Bottou",
+        "given": "L."
+      },
+      {
+        "family": "Orr",
+        "given": "G."
+      },
+      {
+        "family": "Muller",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Neural Networks: Tricks of the Trade"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Orr",
+        "given": "G."
+      },
+      {
+        "family": "Muller",
+        "given": "K."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Efficient BackProp"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Leutenegger",
+        "given": "Stefan"
+      },
+      {
+        "family": "Chli",
+        "given": "Margarita"
+      },
+      {
+        "family": "Siegwart",
+        "given": "Roland Y."
+      }
+    ],
+    "citation-number": [
+      "Leutenegger11"
+    ],
+    "container-title": [
+      "2011 International conference on computer vision"
+    ],
+    "date": [
+      "2011"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "BRISK: Binary robust invariant scalable keypoints"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lienhart",
+        "given": "Rainer"
+      },
+      {
+        "family": "Maydt",
+        "given": "Jochen"
+      }
+    ],
+    "citation-number": [
+      "Lienhart02"
+    ],
+    "container-title": [
+      "Proceedings 2002 International Conference on Image Processing"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "An extended set of haar-like fea‐tures for rapid object detection"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Y.Z."
+      },
+      {
+        "family": "Yao",
+        "given": "H.X."
+      },
+      {
+        "family": "Gao",
+        "given": "W."
+      },
+      {
+        "family": "Chen",
+        "given": "X.L."
+      },
+      {
+        "family": "Zhao",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Liu07"
+    ],
+    "container-title": [
+      "Journal of Visual Communication and Image Representation"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "253–263"
+    ],
+    "title": [
+      "Nonparametric background generation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lloyd",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Lloyd57"
+    ],
+    "date": [
+      "1957"
+    ],
+    "genre": [
+      "(Bell Telephone Laborato‐ries Paper),"
+    ],
+    "note": [
+      "“Lloyd’s algorithm” was later published in IEEE Transactions on Information Theory 28 (1982): 129–137."
+    ],
+    "title": [
+      "Least square quantization in PCM’s"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lloyd",
+        "given": "Stuart"
+      }
+    ],
+    "citation-number": [
+      "Lloyd82"
+    ],
+    "container-title": [
+      "IEEE transactions on information theory"
+    ],
+    "date": [
+      "1982"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "129–137"
+    ],
+    "title": [
+      "Least squares quantization in PCM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lowe",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "Lowe04"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "91–110"
+    ],
+    "title": [
+      "Distinctive image features from scale-invariant keypoints"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LTI-Lib",
+        "given": "L.T.I.]"
+      }
+    ],
+    "title": [
+      "Vision Library"
+    ],
+    "type": null,
+    "url": [
+      "http://ltilib.sourceforge.net/doc/homepage/index.shtml."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "B.D."
+      },
+      {
+        "family": "Kanade",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Lucas81"
+    ],
+    "container-title": [
+      "Proceedings of the 1981 DARPA Imaging Under‐standing Workshop"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "121–130 ,"
+    ],
+    "title": [
+      "An iterative image registration technique with an application to stereo vision"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lucchese",
+        "given": "L."
+      },
+      {
+        "family": "Mitra",
+        "given": "S.K."
+      }
+    ],
+    "citation-number": [
+      "Lucchese02"
+    ],
+    "container-title": [
+      "Proceedings of the 2002 Asia Pacific Confer‐ence on Circuits and Systems"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "pages": [
+      "191–195 ,"
+    ],
+    "title": [
+      "Using saddle points for subpixel feature detection in camera calibration targets"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lv",
+        "given": "Q."
+      },
+      {
+        "family": "Josephson",
+        "given": "W."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Charikar",
+        "given": "M."
+      },
+      {
+        "family": "Li",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Lv07"
+    ],
+    "container-title": [
+      "VLDB"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "950–961,"
+    ],
+    "title": [
+      "Multiprobe LSH: efficient indexing for high-dimensional similarity search"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Mahalanobis",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Mahalanobis36"
+    ],
+    "container-title": [
+      "Proceed‐ings of the National Institute of Science"
+    ],
+    "date": [
+      "1936"
+    ],
+    "pages": [
+      "49–55"
+    ],
+    "title": [
+      "On the generalized distance in statistics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mair",
+        "given": "Elmar"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Mair10"
+    ],
+    "container-title": [
+      "European conference on Computer vision"
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Berlin Heidelberg"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Adaptive and generic corner detection based on the accelerated segment test"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Maron",
+        "given": "M.E."
+      }
+    ],
+    "citation-number": [
+      "Maron61"
+    ],
+    "container-title": [
+      "Journal of the Association for Computing Machinery"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "404–417"
+    ],
+    "title": [
+      "Automatic indexing: An experimental inquiry"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marr",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Marr82"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Freeman"
+    ],
+    "title": [
+      "Vision"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marsaglia",
+        "given": "George"
+      },
+      {
+        "family": "Tsang",
+        "given": "Wai Wan"
+      }
+    ],
+    "citation-number": [
+      "Marsaglia00"
+    ],
+    "container-title": [
+      "Journal of statistical software"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "1–7"
+    ],
+    "title": [
+      "The ziggurat method for generating random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martins",
+        "given": "F.C.M."
+      },
+      {
+        "family": "Nickerson",
+        "given": "B.R."
+      },
+      {
+        "family": "Bostrom",
+        "given": "V."
+      },
+      {
+        "family": "Hazra",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Martins99"
+    ],
+    "container-title": [
+      "IEEE International Conference on Computer Vision Frame Rate Work‐shop"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Imple‐mentation of a real-time foreground/background segmentation system on the Intel architecture"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Matas",
+        "given": "J."
+      },
+      {
+        "family": "Galambos",
+        "given": "C."
+      },
+      {
+        "family": "Kittler",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Matas00"
+    ],
+    "container-title": [
+      "Computer Vision Image Understanding"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "119–137"
+    ],
+    "title": [
+      "Robust detection of lines using the progressive probabilistic Hough transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "78"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meer",
+        "given": "P."
+      },
+      {
+        "family": "Mintz",
+        "given": "D."
+      },
+      {
+        "family": "Rosenfeld",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Meer91"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "59–70"
+    ],
+    "title": [
+      "Robust regression methods for com‐puter vision: A review"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Merwe",
+        "given": "R.",
+        "particle": "van der"
+      },
+      {
+        "family": "Doucet",
+        "given": "A."
+      },
+      {
+        "family": "Freitas",
+        "given": "N.",
+        "particle": "de"
+      },
+      {
+        "family": "Wan",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "Merwe00"
+    ],
+    "container-title": [
+      "Advances in Neural Information Processing Systems"
+    ],
+    "date": [
+      "2000-12"
+    ],
+    "title": [
+      "The unscented particle filter"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "Meyer78"
+    ],
+    "container-title": [
+      "Quantita‐tive Analysis of Microstructures in Material Sciences, Biology and Medicine [Special issue of Practical Metallography"
+    ],
+    "date": [
+      "1978"
+    ],
+    "editor": [
+      {
+        "family": "Chermant",
+        "given": "J.-L."
+      }
+    ],
+    "location": [
+      "Stuttgart"
+    ],
+    "publisher": [
+      "Riederer"
+    ],
+    "title": [
+      "Contrast feature extraction"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "Meyer92"
+    ],
+    "container-title": [
+      "Proceedings of the International Conference on Image Processing and Its Applications"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "303–306 ,"
+    ],
+    "title": [
+      "Color image segmentation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "Minsky61"
+    ],
+    "container-title": [
+      "Proceedings of the Insti‐tute of Radio Engineers"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "8–30"
+    ],
+    "title": [
+      "Steps toward artificial intelligence"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moreno-Noguer",
+        "given": "F."
+      },
+      {
+        "family": "Lepetit",
+        "given": "V."
+      },
+      {
+        "family": "Fua",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Moreno-Noguer07"
+    ],
+    "container-title": [
+      "ICCV 2007. IEEE 11th International Conference on Computer Vision"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "1–8,"
+    ],
+    "title": [
+      "Accurate Non-Iterative O(n) Solution to the PnP Problem"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Morse",
+        "given": "P.M."
+      },
+      {
+        "family": "Feshbach",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "Morse53"
+    ],
+    "container-title": [
+      "Methods of Theo‐retical Physics (Part I"
+    ],
+    "date": [
+      "1953"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "453–471 ,"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Fourier transforms"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Muja",
+        "given": "Marius"
+      },
+      {
+        "family": "Lowe",
+        "given": "David G."
+      }
+    ],
+    "citation-number": [
+      "Muja09"
+    ],
+    "container-title": [
+      "VISAPP"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "2 331–340",
+      "2"
+    ],
+    "title": [
+      "Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neapolitan",
+        "given": "Richard E."
+      }
+    ],
+    "citation-number": [
+      "Neapolitan04"
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Learning Bayesian Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Connor",
+        "given": "J.J."
+      },
+      {
+        "family": "Robertson",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "O’Connor02"
+    ],
+    "title": [
+      "Light through the ages: Ancient Greece to Maxwell"
+    ],
+    "type": null,
+    "url": [
+      "http://www-groups.dcs.st-and.ac.uk/~history/HistTopics/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ojala",
+        "given": "T."
+      },
+      {
+        "family": "Pietikäinen",
+        "given": "M."
+      },
+      {
+        "family": "Harwood",
+        "given": "D."
+      },
+      {
+        "family": "Oliva",
+        "given": "A."
+      },
+      {
+        "family": "Torralba",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Ojala94",
+      "Oliva06"
+    ],
+    "container-title": [
+      "Pattern Recognition",
+      "Progress in Brain Research"
+    ],
+    "date": [
+      "1994",
+      "2006"
+    ],
+    "pages": [
+      "23–36"
+    ],
+    "title": [
+      "Performance evaluation of tex‐ture measures with classification based on Kullback discrimination of distributions",
+      "Building the gist of a scene: The role of global image features in recognition visual perception"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1",
+      "155"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "OpenCV"
+      }
+    ],
+    "note": [
+      "free, BSD license),",
+      "opencv_contrib] Newer content and higher functionality is separated into this repository."
+    ],
+    "title": [
+      "Open Source Computer Vision Library (OpenCV"
+    ],
+    "type": null,
+    "url": [
+      "http://opencv.org.",
+      "https://github.com/opencv/opencv_contrib."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Papoulis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Papoulis62"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "The Fourier Integral and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pascucci",
+        "given": "V."
+      },
+      {
+        "family": "Cole-McLaughlin",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Pascucci02"
+    ],
+    "container-title": [
+      "Proceedings of IEEE Visualization 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "187–194 ,"
+    ],
+    "title": [
+      "Efficient computation of the topology of level sets"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Pearson"
+      }
+    ],
+    "title": [
+      "Karl Pearson"
+    ],
+    "type": null,
+    "url": [
+      "http://en.wikipedia.org/wiki/Karl_Pearson."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pollefeys99a] Pollefeys",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "genre": [
+      "Ph.D. thesis,"
+    ],
+    "location": [
+      "Leuven"
+    ],
+    "publisher": [
+      "Katholieke Universiteit"
+    ],
+    "title": [
+      "Self-calibration and metric 3D reconstruction from uncalibrated image sequences"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Pollefeys99b] Pollefeys",
+        "given": "M."
+      },
+      {
+        "family": "Koch",
+        "given": "R."
+      },
+      {
+        "family": "Gool",
+        "given": "L.V."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 7th IEEE Conference on Com‐puter Vision"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "A simple and efficient rectifi‐cation method for general motion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Porter",
+        "given": "T."
+      },
+      {
+        "family": "Duff",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Porter84"
+    ],
+    "container-title": [
+      "Computer Graphics"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "253–259"
+    ],
+    "title": [
+      "Compositing digital images"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ranger",
+        "given": "C."
+      },
+      {
+        "family": "Raghuraman",
+        "given": "R."
+      },
+      {
+        "family": "Penmetsa",
+        "given": "A."
+      },
+      {
+        "family": "Bradski",
+        "given": "G."
+      },
+      {
+        "family": "Kozyrakis",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Ranger07"
+    ],
+    "container-title": [
+      "Proceedings of the 13th International Symposium on High-Performance Computer Architecture"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "13–24 ,"
+    ],
+    "title": [
+      "Evaluating mapreduce for multi-core and multiprocessor systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Reeb",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Reeb46"
+    ],
+    "container-title": [
+      "Comptes Rendus de l’Academie des Sciences de Paris"
+    ],
+    "date": [
+      "1946"
+    ],
+    "pages": [
+      "847–849"
+    ],
+    "title": [
+      "Sur les points singuliers d’une forme de Pfaff completement inte‐grable ou d’une fonction numerique"
+    ],
+    "type": "chapter",
+    "volume": [
+      "222"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Riedmiller",
+        "given": "Martin"
+      },
+      {
+        "family": "Braun",
+        "given": "Heinrich"
+      }
+    ],
+    "citation-number": [
+      "Riedmiller93"
+    ],
+    "container-title": [
+      "1993 IEEE International Conference on Neural Networks"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "A direct adaptive method for faster backpropagation learning: The RPROP algorithm"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rodgers",
+        "given": "J.L."
+      },
+      {
+        "family": "Nicewander",
+        "given": "W.A."
+      }
+    ],
+    "citation-number": [
+      "Rodgers88"
+    ],
+    "container-title": [
+      "American Statistician"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "59–66"
+    ],
+    "title": [
+      "Thirteen ways to look at the cor‐relation coefficient"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenfeld",
+        "given": "A."
+      },
+      {
+        "family": "Johnston",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "Rosenfeld73"
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "875–878"
+    ],
+    "title": [
+      "Angle detection on digital curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenfeld",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Rosenfeld80"
+    ],
+    "container-title": [
+      "Proceedings of the DARPA Imaging Understanding Workshop"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "112–120 ,"
+    ],
+    "title": [
+      "Some Uses of Pyramids in Image Processing and Seg‐mentation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosten",
+        "given": "Edward"
+      }
+    ],
+    "citation-number": [
+      "Rosten06"
+    ],
+    "date": [
+      "2006"
+    ],
+    "genre": [
+      "Engineering Department,"
+    ],
+    "publisher": [
+      "Machine Intelligence Laboratory, University of Cambridge"
+    ],
+    "title": [
+      "FAST corner detection"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rother",
+        "given": "Carsten"
+      },
+      {
+        "family": "Kolmogorov",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Blake",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "Rother04"
+    ],
+    "container-title": [
+      "ACM transactions on graphics (TOG"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "3"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Grabcut: Interactive foreground extraction using iterated graph cuts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rousseeuw",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "Rousseeuw84"
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "871–880"
+    ],
+    "title": [
+      "Least median of squares regression"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "79"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rousseeuw",
+        "given": "P.J."
+      },
+      {
+        "family": "Leroy",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "Rousseeuw87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Robust Regression and Outlier Detection"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rublee",
+        "given": "E."
+      },
+      {
+        "family": "Rabaud",
+        "given": "V."
+      },
+      {
+        "family": "Konolige",
+        "given": "K."
+      },
+      {
+        "family": "Bradski",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Rublee11"
+    ],
+    "container-title": [
+      "Proceedings of the 2011 IEEE International Conference on Computer Vision"
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "ORB an efficient alternative to SIFT or SURF"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rubner",
+        "given": "Y."
+      },
+      {
+        "family": "Tomasi",
+        "given": "C."
+      },
+      {
+        "family": "Guibas",
+        "given": "L.J."
+      }
+    ],
+    "citation-number": [
+      "Rubner00"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "99–121"
+    ],
+    "title": [
+      "The earth mover’s distance as a metric for image retrieval"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rumelhart",
+        "given": "D.E."
+      },
+      {
+        "family": "Hinton",
+        "given": "G.E."
+      },
+      {
+        "family": "Williams",
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "Rumelhart88"
+    ],
+    "container-title": [
+      "Parallel Distributed Processing. Explorations in the Micro‐structures of Cognition"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "Rumelhart",
+        "given": "D.E."
+      },
+      {
+        "family": "McClelland",
+        "given": "J.L."
+      },
+      {
+        "family": "Group",
+        "given": "P.D.P.Research"
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "318–362 ,"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Learning internal representations by error propagation"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Russ",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "Russ02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "The Image Processing Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sánchez",
+        "given": "Javier"
+      },
+      {
+        "family": "Meinhardt-Llopis",
+        "given": "Enric"
+      },
+      {
+        "family": "Facciolo",
+        "given": "Gabriele"
+      }
+    ],
+    "citation-number": [
+      "Sánchez13"
+    ],
+    "container-title": [
+      "Image Processing On Line 2013"
+    ],
+    "date": [
+      "2013"
+    ],
+    "pages": [
+      "137–150"
+    ],
+    "title": [
+      "TV-L1 optical flow estimation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Scharr",
+        "given": "Hanno"
+      }
+    ],
+    "citation-number": [
+      "Scharr00"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Diss"
+    ],
+    "title": [
+      "Optimal operators in digital image processing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schiele",
+        "given": "B."
+      },
+      {
+        "family": "Crowley",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "Schiele96"
+    ],
+    "container-title": [
+      "European Conference on Computer Vision"
+    ],
+    "date": [
+      "1996-04"
+    ],
+    "pages": [
+      "610–619 ,"
+    ],
+    "title": [
+      "Object recognition using multidimensional receptive field histograms"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Schmidt66"
+    ],
+    "container-title": [
+      "Advances in Control Systems"
+    ],
+    "date": [
+      "1966"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "293–340 ,"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Applications of state-space methods to navigation prob‐lems"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schölkopf",
+        "given": "Bernhard"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Schölkopf00"
+    ],
+    "container-title": [
+      "Neural computation"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "1207–1245"
+    ],
+    "title": [
+      "New support vector algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schwartz",
+        "given": "E.L."
+      }
+    ],
+    "citation-number": [
+      "Schwartz80"
+    ],
+    "container-title": [
+      "Vision Research"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "645–669"
+    ],
+    "title": [
+      "Computational anatomy and functional architecture of the striate cortex: A spatial mapping approach to perceptual coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schwarz",
+        "given": "A.A."
+      },
+      {
+        "family": "Soha",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "Schwarz78"
+    ],
+    "container-title": [
+      "Proceedings of the Canadian Symposium on Remote Sensing"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "86–93 ,"
+    ],
+    "title": [
+      "Multidimensional histogram normal‐ization contrast enhancement"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Semple",
+        "given": "J."
+      },
+      {
+        "family": "Kneebone",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Semple79"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Oxford, UK"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Algebraic Projective Geometry"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Serra",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Serra83"
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Aca‐demic Press"
+    ],
+    "title": [
+      "Image Analysis and Mathematical Morphology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sezgin",
+        "given": "M."
+      },
+      {
+        "family": "Sankur",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Sezgin04"
+    ],
+    "container-title": [
+      "Journal of Electronic Imaging"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "146–165"
+    ],
+    "title": [
+      "Survey over image thresholding techniques and quantitative performance evaluation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shannon",
+        "given": "C.E."
+      }
+    ],
+    "citation-number": [
+      "Shannon49"
+    ],
+    "container-title": [
+      "Proc. Insti‐tute of Radio Engineers",
+      "Proc. IEEE"
+    ],
+    "date": [
+      "1949-01",
+      "1998-02"
+    ],
+    "issue": [
+      "1",
+      "2"
+    ],
+    "note": [
+      "Reprint as classic paper"
+    ],
+    "pages": [
+      "10–21,"
+    ],
+    "title": [
+      "Communication in the presence of noise"
+    ],
+    "type": "article-journal",
+    "url": [
+      "in:",
+      "http://www.stanford.edu/class/ee104/shan"
+    ],
+    "volume": [
+      "37",
+      "86"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shapiro",
+        "given": "L.G."
+      },
+      {
+        "family": "Stockman",
+        "given": "G.C."
+      }
+    ],
+    "citation-number": [
+      "Shapiro02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Vision"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "Shaw04"
+    ],
+    "title": [
+      "QuickFill: An efficient flood fill algorithm"
+    ],
+    "type": null,
+    "url": [
+      "http://www.codepro"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "J."
+      },
+      {
+        "family": "Tomasi",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Shi94"
+    ],
+    "container-title": [
+      "9th IEEE Conference on Com‐puter Vision and Pattern Recognition"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "title": [
+      "Good features to track"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "A.R."
+      }
+    ],
+    "citation-number": [
+      "Smith79"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Islip, NY"
+    ],
+    "publisher": [
+      "Computer Graphics Laboratory, New York Institute of Technology"
+    ],
+    "title": [
+      "Painting tutorial notes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobel",
+        "given": "I."
+      },
+      {
+        "family": "Feldman",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Sobel73"
+    ],
+    "container-title": [
+      "Pattern Classification and Scene Analysis"
+    ],
+    "date": [
+      "1973"
+    ],
+    "editor": [
+      {
+        "family": "Duda",
+        "given": "R."
+      },
+      {
+        "family": "Hart",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "271–272 ,"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "A 3 x 3 Isotropic Gradient Operator for Image Processing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sochman",
+        "given": "J."
+      },
+      {
+        "family": "Matas",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Sochman05"
+    ],
+    "container-title": [
+      "Computer Vision and Pattern Recognition, 2005. CVPR 2005"
+    ],
+    "title": [
+      "WaldBoost - learning for time constrained sequential detection"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Steinhaus",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "Steinhaus56"
+    ],
+    "container-title": [
+      "Bulletin of the Polish Academy of Sciences and Mathematics"
+    ],
+    "date": [
+      "1956"
+    ],
+    "pages": [
+      "801–804"
+    ],
+    "title": [
+      "Sur la division des corp materiels en parties"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sturm",
+        "given": "P.F."
+      },
+      {
+        "family": "Maybank",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "Sturm99"
+    ],
+    "container-title": [
+      "IEEE Conference on Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "On plane-based camera calibration: A general algorithm, singularities, applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Suzuki",
+        "given": "S."
+      },
+      {
+        "family": "Abe",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Suzuki85"
+    ],
+    "container-title": [
+      "Computer Vision, Graphics and Image Processing"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "32–46"
+    ],
+    "title": [
+      "Topological structural analysis of digital binary images by border following"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Swain",
+        "given": "M.J."
+      },
+      {
+        "family": "Ballard",
+        "given": "D.H."
+      }
+    ],
+    "citation-number": [
+      "Swain91"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "11–32"
+    ],
+    "title": [
+      "Color indexing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Szeliski",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Szeliski04"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "title": [
+      "Image Alignment and Stitching: A Tutorial"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tao",
+        "given": "Michael"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Tao12"
+    ],
+    "container-title": [
+      "Computer Graphics Forum"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "2pt1"
+    ],
+    "publisher": [
+      "Blackwell Publishing Ltd"
+    ],
+    "title": [
+      "SimpleFlow: A Non-iterative, Sublinear Optical Flow Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Teh",
+        "given": "C.H."
+      },
+      {
+        "family": "Chin",
+        "given": "R.T."
+      }
+    ],
+    "citation-number": [
+      "Teh89"
+    ],
+    "container-title": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "859–872"
+    ],
+    "title": [
+      "On the detection of dominant points on digital curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Telea",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Telea04"
+    ],
+    "container-title": [
+      "Journal of Graphics Tools"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "25–36"
+    ],
+    "title": [
+      "An image inpainting technique based on the fast marching method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thrun",
+        "given": "S."
+      },
+      {
+        "family": "Burgard",
+        "given": "W."
+      },
+      {
+        "family": "Fox",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Thrun05"
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Probabilistic Robotics: Intelligent Robotics and Autonomous Agents"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Thrun",
+        "given": "S."
+      },
+      {
+        "family": "Montemerlo",
+        "given": "M."
+      },
+      {
+        "family": "Dahlkamp",
+        "given": "H."
+      },
+      {
+        "family": "Stavens",
+        "given": "D."
+      },
+      {
+        "family": "Aron",
+        "given": "A."
+      },
+      {
+        "family": "Diebel",
+        "given": "J."
+      },
+      {
+        "family": "Fong",
+        "given": "P."
+      },
+      {
+        "family": "Gale",
+        "given": "J."
+      },
+      {
+        "family": "Halpenny",
+        "given": "M."
+      },
+      {
+        "family": "Hoffmann",
+        "given": "G."
+      },
+      {
+        "family": "Lau",
+        "given": "K."
+      },
+      {
+        "family": "Oakley",
+        "given": "C."
+      },
+      {
+        "family": "Palatucci",
+        "given": "M."
+      },
+      {
+        "family": "Pratt",
+        "given": "V."
+      },
+      {
+        "family": "Stang",
+        "given": "P."
+      },
+      {
+        "family": "Strohband",
+        "given": "S."
+      },
+      {
+        "family": "Dupont",
+        "given": "C."
+      },
+      {
+        "family": "Jendrossek",
+        "given": "L.-E."
+      },
+      {
+        "family": "Koelen",
+        "given": "C."
+      },
+      {
+        "family": "Markey",
+        "given": "C."
+      },
+      {
+        "family": "Rummel",
+        "given": "C."
+      },
+      {
+        "family": "Niekerk",
+        "given": "J.",
+        "particle": "van"
+      },
+      {
+        "family": "Jensen",
+        "given": "E."
+      },
+      {
+        "family": "Alessandrini",
+        "given": "P."
+      },
+      {
+        "family": "Bradski",
+        "given": "G."
+      },
+      {
+        "family": "Davies",
+        "given": "B."
+      },
+      {
+        "family": "Ettinger",
+        "given": "S."
+      },
+      {
+        "family": "Kaehler",
+        "given": "A."
+      },
+      {
+        "family": "Nefian",
+        "given": "A."
+      },
+      {
+        "family": "Mahoney",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Thrun06"
+    ],
+    "container-title": [
+      "Journal of Robotic Systems"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "661–692"
+    ],
+    "title": [
+      "Stanley, the robot that won the DARPA Grand Challenge"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Titchmarsh",
+        "given": "E.C."
+      }
+    ],
+    "citation-number": [
+      "Titchmarsh26"
+    ],
+    "container-title": [
+      "Proceed‐ings of the London Mathematical Society"
+    ],
+    "date": [
+      "1926"
+    ],
+    "pages": [
+      "283–302"
+    ],
+    "title": [
+      "The zeros of certain integral functions"
+    ],
+    "type": "chapter",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tomasi",
+        "given": "C."
+      },
+      {
+        "family": "Manduchi",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Tomasi98"
+    ],
+    "container-title": [
+      "Sixth International Conference on Computer Vision"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New Delhi"
+    ],
+    "pages": [
+      "839–846 ,"
+    ],
+    "title": [
+      "Bilateral filtering for gray and color images"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tou",
+        "given": "J."
+      },
+      {
+        "family": "Gonzales",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Tou77"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "377"
+    ],
+    "publisher": [
+      "Addison Wesley Publishing"
+    ],
+    "title": [
+      "Pattern Recognition Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Toyama",
+        "given": "K."
+      },
+      {
+        "family": "Krumm",
+        "given": "J."
+      },
+      {
+        "family": "Brumitt",
+        "given": "B."
+      },
+      {
+        "family": "Meyers",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Toyama99"
+    ],
+    "container-title": [
+      "Proceedings of the 7th IEEE Interna‐tional Conference on Computer Vision"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "255–261 ,"
+    ],
+    "title": [
+      "Wallflower: Princi‐ples and practice of background maintenance"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Trucco",
+        "given": "E."
+      },
+      {
+        "family": "Verri",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Trucco98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Introductory Techniques for 3-D Computer Vision"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tsai",
+        "given": "R.Y."
+      }
+    ],
+    "citation-number": [
+      "Tsai87"
+    ],
+    "container-title": [
+      "IEEE Journal of Robotics and Automation"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "323–344"
+    ],
+    "title": [
+      "A versatile camera calibration technique for high accuracy 3D machine vision metrology using off-the-shelf TV cameras and lenses"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vandevenne",
+        "given": "Lode"
+      }
+    ],
+    "citation-number": [
+      "Vandevenne04"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Lode’s computer graphics tutorial, flood fill"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vapnik",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "Vapnik95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Nature of Statistical Learning Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Viola",
+        "given": "Paul"
+      },
+      {
+        "family": "Jones",
+        "given": "Michael"
+      }
+    ],
+    "citation-number": [
+      "Viola01"
+    ],
+    "container-title": [
+      "Computer Vision and Pattern Recognition, 2001. CVPR"
+    ],
+    "title": [
+      "Rapid object detection using a boosted cascade of simple features"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2001."
+    ],
+    "container-title": [
+      "Proceedings of the 2001 IEEE Computer Society Conference on"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Viola",
+        "given": "P."
+      },
+      {
+        "family": "Jones",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "Viola04"
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "137–154"
+    ],
+    "title": [
+      "Robust real-time face detection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Welsh",
+        "given": "G."
+      },
+      {
+        "family": "Bishop",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Welsh95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "(Techni‐cal Report TR95-041),"
+    ],
+    "location": [
+      "Chapel Hill, NC"
+    ],
+    "publisher": [
+      "University of North Carolina"
+    ],
+    "title": [
+      "An introduction to the Kalman filter"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Wharton",
+        "given": "W."
+      },
+      {
+        "family": "Howorth",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Wharton71"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Lon‐don"
+    ],
+    "publisher": [
+      "Pitman"
+    ],
+    "title": [
+      "Principles of Television Reception"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "K."
+      },
+      {
+        "family": "Ekow",
+        "given": "O."
+      },
+      {
+        "family": "Suzuki",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "Wu08"
+    ],
+    "pages": [
+      "06–02–2008"
+    ],
+    "title": [
+      "Two Strategies to Speed up Connected Component Labeling Algorithms"
+    ],
+    "type": null,
+    "url": [
+      "http://escholarship.org/uc/item/5pc9s496,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "G."
+      },
+      {
+        "family": "Zhang",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "Xu96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Dordrecht"
+    ],
+    "publisher": [
+      "Kluwer"
+    ],
+    "title": [
+      "Epipolar Geometry in Stereo, Motion and Object Recog‐nition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zach",
+        "given": "Christopher"
+      },
+      {
+        "family": "Pock",
+        "given": "Thomas"
+      },
+      {
+        "family": "Bischof",
+        "given": "Horst"
+      }
+    ],
+    "citation-number": [
+      "Zach07"
+    ],
+    "container-title": [
+      "Joint Pattern Recognition Symposium"
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Berlin Heidelberg"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "A duality based approach for realtime TV-L 1 optical flow"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "Zhang96"
+    ],
+    "container-title": [
+      "Image and Vision Computing"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "59–76"
+    ],
+    "title": [
+      "Parameter estimation techniques: A tutorial with application to conic fitting"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "R."
+      },
+      {
+        "family": "Tsi",
+        "given": "P.-S."
+      },
+      {
+        "family": "Cryer",
+        "given": "J.E."
+      },
+      {
+        "family": "Shah",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "Zhang99"
+    ],
+    "container-title": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "690–706"
+    ],
+    "title": [
+      "Shape form shading: A sur‐vey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "Zhang99"
+    ],
+    "container-title": [
+      "Proceedings of the 7th International Conference on Computer Vision"
+    ],
+    "date": [
+      "1999-09"
+    ],
+    "location": [
+      "Corfu"
+    ],
+    "pages": [
+      "666–673 ,"
+    ],
+    "title": [
+      "Flexible camera calibration by viewing a plane from unknown orientations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "Zhang00"
+    ],
+    "container-title": [
+      "IEEE Trans‐actions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "1330–1334"
+    ],
+    "title": [
+      "A flexible new technique for camera calibration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "Zhang04"
+    ],
+    "container-title": [
+      "Proceedings of the 17th Inter‐national FLAIRS Conference"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "The optimality of naive Bayes"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zivkovic",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "Zivkovic04"
+    ],
+    "container-title": [
+      "International Conference Pattern Recognition, UK"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "title": [
+      "Improved adaptive Gaussian mixture model for back‐ground subtraction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zivkovic",
+        "given": "Z."
+      },
+      {
+        "family": "Heijden",
+        "given": "F.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "Zivkovic06"
+    ],
+    "container-title": [
+      "Pattern Recognition Letters"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "773–780,"
+    ],
+    "title": [
+      "Efficient Adaptive Density Esti‐mation per Image Pixel for the Task of Background Subtraction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  }
+]
