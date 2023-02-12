@@ -1,0 +1,156 @@
+[
+  {
+    "date": [
+      "2010"
+    ],
+    "note": [
+      "is Jan 1 2010 a holiday? \" << cal.isHoliday(Date(1, Month::Jan, 2010)) << endl; cout << \" is Jan 1 2010 end of month? \" << cal.isEndOfMonth(Date(1, Month::Jan, 2010)) << endl;"
+    ],
+    "title": [
+      "cout << \" list of holidays \" << endl; for (auto date : Calendar::holidayList(cal, Date(1, Month::Jan",
+      "Date(1, Month::Jan, 2012))) cout << \" \" << date; } cout << \" is Jan 1 2010 a business day? \" << cal.isBusinessDay(Date(1, Month::Jan, 2010)) << endl; cout <<"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Month::December, 2016)); // Add international workers' day newCal.addHoliday (Date(1, Month::May, 2016));"
+    ],
+    "title": [
+      "Calendar newCal = UnitedStates(UnitedStates::NYSE); // Remove winter holiday newCal.removeHoliday(Date(25"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Calendar usCal = UnitedStates(UnitedStates::NYSE"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "boost::shared_ptr<QuantLib::BlackScholesCalculator> m_calc;"
+    ]
+  },
+  {
+    "note": [
+      ":m_price(p.m_price), m_strike(p.m_strike), m_tau(p.m_tau), m_rate(p.m_rate), m_frate(p.m_frate), m_vol(p.m_vol), m_isCall(p.m_isCall), m_calc(p.m_calc"
+    ],
+    "title": [
+      "m_calc.reset(new QuantLib::BlackScholesCalculator(m_option, m_price, for_disc, stdev, cur_disc)); BlackScholesPricer::BlackScholesPricer(const BlackScholesPricer &p"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "boost::shared_ptr<QuantLib::BlackScholesCalculator> m_calc;"
+    ]
+  },
+  {
+    "date": [
+      "strike"
+    ],
+    "location": [
+      "QuantLib::Option::Call"
+    ],
+    "publisher": [
+      "QuantLib::Option::Put"
+    ],
+    "title": [
+      "boost::shared_ptr<QuantLib::PlainVanillaPayoff> m_option (new QuantLib::PlainVanillaPayoff(call ?"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      ":m_price(p.m_price), m_strike(p.m_strike), m_tau(p.m_tau), m_rate(p.m_rate), m_frate(p.m_frate), m_vol(p.m_vol),"
+    ],
+    "title": [
+      "m_calc.reset(new QuantLib::BlackScholesCalculator(m_option, m_price, for_disc, stdev, cur_disc)); BlackScholesPricer::BlackScholesPricer(const BlackScholesPricer &p"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "return m_calc->value(); double BlackScholesPricer::delta() return m_calc->delta(); double BlackScholesPricer::gamma() return m_calc->gamma("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "m_calc->vega",
+        "particle": "return"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Handle<YieldTermStructure>(ts2), Handle<BlackVolTermStructure>(vs)); shared_ptr<StrikedTypePayoff> payoff(new PlainVanillaPayoff(Option::Type::Call, strike)); shared_ptr<Exercise> exercise(new EuropeanExercise(maturity_date));"
+    ],
+    "title": [
+      "auto process = BlackScholesMertonProcess(quote, Handle<YieldTermStructure>(ts1"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "double value = option.NPV(); Size maxG = grid[grid.size()-1]; // find maximum grid value"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "cout << std::abs(option.NPV()/value -1"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Handle<YieldTermStructure>(ts2), Handle<BlackVolTermStructure>(vs)); shared_ptr<StrikedTypePayoff> payoff(new PlainVanillaPayoff(Option::Type::Call, strike)); shared_ptr<Exercise> exercise(new EuropeanExercise(maturity_date));"
+    ],
+    "title": [
+      "Handle<Quote> quote(boost::shared_ptr<Quote>(new SimpleQuote(currentValue))); Date today = Date::todaysDate(); shared_ptr<YieldTermStructure> ts1(new FlatForward(today, divYield, Thirty360())); shared_ptr<YieldTermStructure> ts2(new FlatForward(today, forwardIR, Thirty360())); shared_ptr<BlackVolTermStructure> vs(new BlackConstantVol(today, NullCalendar(),sigma, Thirty360())); auto process = BlackScholesMertonProcess(quote, Handle<YieldTermStructure>(ts1"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "double value = option.NPV(); Size maxG = grid[grid.size()-1]; // find maximum grid value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "option.setPricingEngine(shared_ptr<PricingEngine>(&be));"
+    ],
+    "note": [
+      "g, maxG); option.setPricingEngine(shared_ptr<PricingEngine>(&be1));"
+    ],
+    "title": [
+      "cout << std::abs(option.NPV()/value -1); FdBlackScholesBarrierEngine be1(shared_ptr<GeneralizedBlackScholesProcess>(&process"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2016-08-10"
+    ],
+    "title": [
+      "CDSSolver solver(currentValue, sigma, divYield, forwardIR, strike, barrier, rebate"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "test_CDSSolver();"
+    ],
+    "genre": [
+      "return 0;"
+    ],
+    "type": null
+  }
+]
