@@ -1,0 +1,43 @@
+[
+  {
+    "note": [
+      "&error); CL_CHECK(error);"
+    ],
+    "title": [
+      "cl_kernel kernel = clCreateKernel(program, \"vector_addition\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CL_MEM_WRITE_ONLY, tile_size, nullptr, &error); CL_CHECK(error); CL_CHECK(clSetKernelArg(kernel, 0, sizeof(buffer_tile1), &buffer_tile1)); CL_CHECK(clSetKernelArg(kernel, 1, sizeof(buffer_tile2), &buffer_tile2)); CL_CHECK(clSetKernelArg(kernel, 2, sizeof(buffer_res), &buffer_res));"
+    ],
+    "title": [
+      "cl_mem buffer_tile2 = clCreateBuffer(context, CL_MEM_READ_ONLY, tile_size, nullptr, &error); CL_CHECK(error); cl_mem buffer_res = clCreateBuffer(context"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "std::numeric_limits<cl_int>::max() / 2}; auto random_generator = [&]() { return random_distribution(random_engine); };"
+    ],
+    "title": [
+      "std::random_device random_device; std::mt19937 random_engine{random_device()}; std::uniform_int_distribution<cl_int> random_distribution{ 0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "CL_CHECK"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CL_CHECK(clReleaseMemObject(buffer_tile1)); CL_CHECK(clReleaseMemObject(buffer_tile2)); CL_CHECK(clReleaseMemObject(buffer_res)); CL_CHECK(clReleaseKernel(kernel)); CL_CHECK(clReleaseProgram(program)); CL_CHECK(clReleaseContext(context));"
+    ],
+    "type": null
+  }
+]
