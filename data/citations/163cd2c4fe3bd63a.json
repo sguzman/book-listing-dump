@@ -1,0 +1,734 @@
+[
+  {
+    "title": [
+      "template<class T> complex<T> operator+(const complex<T>&); template<class T> complex<T> operator-(const complex<T>&"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> complex<T> operator+(const complex<T>&); template<class T> complex<T> operator-(const complex<T>&); template<class T> bool operator==(const complex<T>&, const complex<T>&); template<class T> bool operator==(const complex<T>&, const T&); template<class T> bool operator==(const T&, const complex<T>&); template<class T> bool operator!=(const complex<T>&, const complex<T>&); template<class T> bool operator!=(const complex<T>&, const T&); template<class T> bool operator!=(const T&, const complex<T>&"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> complex<T>& operator-=(const complex<T>& rhs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> complex<T>& operator/=(const complex<T>& rhs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "valarray"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "7 Effects: Calls str.unsetf(ios_base::showbase). 8 Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "11 Effects: Calls str.unsetf(ios_base::showpoint). 12 Returns: str. ios_base& showpos(ios_base& str); 13 Effects: Calls str.setf(ios_base::showpos)."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "14 Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "17 Effects: Calls str.setf(ios_base::skipws). 18 Returns: str. ios_base& noskipws(ios_base& str); 19 Effects: Calls str.unsetf(ios_base::skipws)."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "20 Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "23 Effects: Calls str.unsetf(ios_base::uppercase). 24 Returns: str. ios_base& unitbuf(ios_base& str); 25 Effects: Calls str.setf(ios_base::unitbuf)."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "26 Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "ios_base::adjustfield). 4 Returns: str."
+    ],
+    "title": [
+      "Effects: Calls str.setf(ios_base::left"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "note": [
+      "2 Returns: str. ios_base& hex(ios_base& str); 3 Effects: Calls str.setf(ios_base::hex, ios_base::basefield)."
+    ],
+    "title": [
+      "Effects: Calls str.setf(ios_base::dec, ios_base::basefield"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "title": [
+      "Returns: str. ios_base& oct(ios_base& str); 5 Effects: Calls str.setf(ios_base::oct"
+    ],
+    "type": null,
+    "url": [
+      "ios_base::basefield)."
+    ]
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "note": [
+      "Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "title": [
+      "Input/output library 27.6.1.2.3 basic_istream::operator>>"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__________________ 284) This is done without causing an ios::failure to be thrown"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "basic_istream<charT,traits>& read(char_type* s, streamsize n);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "38 Effects: If fail() != true, executes rdbuf()->pubseekpos(pos). 39 Returns: *this. basic_istream<charT,traits>& seekg(off_type& off, ios_base::seekdir dir); 40 Effects: If fail() != true, executes rdbuf()->pubseekoff(off, dir)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "41"
+    ],
+    "location": [
+      "Returns"
+    ],
+    "publisher": [
+      "*this"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "27.6.2.3"
+    ],
+    "note": [
+      "Class basic_ostream::sentry [lib.ostream::sentry"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "4 If ((os.flags() & ios_base::unitbuf) && !uncaught_exception()) is true, calls os.flush()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "title": [
+      "Effects: Returns ok_"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "Effects: If fail() != true, executes rdbuf()->pubseekpos(pos). 3 Returns: *this. basic_ostream<charT,traits>& seekp(off_type& off, ios_base::seekdir dir); 4 Effects: If fail() != true, executes rdbuf()->pubseekoff(off, dir)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "location": [
+      "Returns"
+    ],
+    "publisher": [
+      "*this"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "27.6.2.5.3"
+    ],
+    "type": null,
+    "url": [
+      "basic_ostream::operator<< [lib.ostream.inserters]"
+    ]
+  },
+  {
+    "note": [
+      "streamsize n);"
+    ],
+    "title": [
+      "basic_ostream& write(const char_type* s"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void str(const basic_string<charT,traits,Allocator>& str); 3 Effects: Calls rdbuf()->str(str"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "__________________ 304) rdbuf() is never NULL because it always returns the private object"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "codecvt<charT,char,typename traits::state_type> a_codecvt = use_facet<codecvt<charT,char,typename traits::state_type> >(getloc("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "publisher": [
+      "Calls close("
+    ],
+    "title": [
+      "Effects: Destroys an object of class basic_filebuf<charT,traits>"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "title": [
+      "Input/output library 27.8.1.4 Overridden virtual functions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "note": [
+      "Returns: (basic_filebuf<charT,traits>*)&sb."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "which may throw ios_base::failure (27.4.4.3))."
+    ],
+    "title": [
+      "Effects: Calls rdbuf()->open(s,mode|in). If that function returns a null pointer, calls setstate(failbit"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "310) rdbuf() is never NULL because it always returns the private object."
+    ],
+    "title": [
+      "__________________ 309) rdbuf() is never NULL because it always returns the private object"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "note": [
+      "Returns: (basic_filebuf<charT,traits>*)&sb."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "which may throw ios_base::failure (27.4.4.3))."
+    ],
+    "title": [
+      "Effects: Calls rdbuf()->open(s,mode|out). If that function returns a null pointer, calls setstate(failbit"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "Effects: Constructs an object of class basic_fstream<charT,traits>, initializing the base class with basic_iostream(&sb) and initializing sb with basic_filebuf<charT,traits>("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "note": [
+      "Returns: &sb"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "A.4 Expressions Annex A Grammar summary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex A Grammar summary A.4 Expressions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "A.4 Expressions Annex A Grammar summary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex A Grammar summary A.5 Statements"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "A.6 Declarations Annex A Grammar summary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex A Grammar summary A.6 Declarations"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "A.7 Declarators Annex A Grammar summary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "A.8 Classes Annex A Grammar summary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex B Implementation quantities B Implementation quantities"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex C Compatibility C.2 Standard C library"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "C.2 Standard C library Annex C Compatibility"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "C.2.4.1 Macro offsetof(type, member-designator) [diff.offsetof"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "The macro offsetof, defined in <cstddef>, accepts a restricted set of type arguments in this International Standard. 18.1 describes the change"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex D Compatibility features D Compatibility features"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "D.6 Old iostreams members Annex D Compatibility features"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex D Compatibility features D.6 Old iostreams members"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "D.7.1 Class strstreambuf Annex D Compatibility features"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex D Compatibility features D.7.1.1 strstreambuf constructors D.7.1.1 strstreambuf constructors [depr.strstreambuf.cons] explicit strstreambuf(streamsize alsize_arg = 0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "Effects: Constructs an object of class strstreambuf, initializing the base class with streambuf(). The postconditions of this function are indicated in Table 101"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "Effects: Constructs an object of class strstreambuf, initializing the base class with streambuf(). The postconditions of this function are indicated in Table 102"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "D.7.1.1 strstreambuf constructors Annex D Compatibility features"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "D.7.1.2 Member functions [depr.strstreambuf.members"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex D Compatibility features D.7.1.3 strstreambuf overridden virtual functions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "note": [
+      "if possible, as indicated in Table 104:"
+    ],
+    "title": [
+      "Effects: Alters the stream position within one of the controlled sequences"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex D Compatibility features D.7.1.3 strstreambuf overridden virtual functions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "genre": [
+      "(strstreambuf*)&sb."
+    ],
+    "title": [
+      "Returns"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "genre": [
+      "(strstreambuf*)&sb."
+    ],
+    "title": [
+      "Returns"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Annex D Compatibility features D.7.3.2 Member functions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "D.7.4.2 strstream destructor Annex D Compatibility features D.7.4.2 strstream destructor [depr.strstream.dest] virtual ~strstream("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "note": [
+      "strstreambuf* rdbuf() const; 2 Returns: &sb."
+    ],
+    "title": [
+      "Effects: Destroys an object of class strstream"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Greek"
+    ],
+    "date": [
+      "03da"
+    ],
+    "note": [
+      "1ffc Cyrillic: 0401–",
+      "04f9 Armenian: 0531– 0556, 0561– 0587 Hebrew: 05d0–"
+    ],
+    "pages": [
+      "0388– 038 ,",
+      "038 –",
+      "03 3– 03 , 03 0– 03 6,",
+      "03 2–",
+      "1 00–",
+      "1 18– 1 1 , 1 20–",
+      "1 48– 1 4 , 1 50–",
+      "1 5 – 1 7 , 1 80–",
+      "1 6– 1 , 1 2–",
+      "1 6–",
+      "1 0–",
+      "1 6–",
+      "1 0– 1 , 1 2–",
+      "1 6–",
+      "040 – 044 , 0451– 045 , 045 –",
+      "0490–",
+      "04 7– 04 8, 04 – 04 , 04 0– 04 , 04 –",
+      "04 8–",
+      "05 0– 05 4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0384",
+      "038c",
+      "03a1",
+      "03dc, 03de, 03e0",
+      "03f3",
+      "1f15",
+      "1f45",
+      "1f57, 1f59, 1f5b, 1f5d",
+      "1fb4",
+      "1fc4",
+      "1fcc",
+      "1fd3",
+      "1fdb",
+      "1ff4",
+      "040d",
+      "0481",
+      "04c4",
+      "04f5",
+      "05ea"
+    ]
+  },
+  {
+    "note": [
+      "Arabic: 0621–",
+      "06e7 Devanagari: 0905– 0939, 0958– 0962 Bengali: 0985–"
+    ],
+    "pages": [
+      "0640–",
+      "0670–",
+      "06 – 06 , 06 0– 06 , 06 5–",
+      "098 –",
+      "0993–",
+      "09 –",
+      "09 6– 09 9, 09 – 09 , 09 –",
+      "09 0– 09 1"
+    ],
+    "type": null,
+    "volume": [
+      "063a",
+      "0652",
+      "06b7",
+      "098c",
+      "0990",
+      "09a8",
+      "09b0, 09b2",
+      "09e1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Oriya"
+      }
+    ],
+    "note": [
+      "0bb9 Telugu: 0c05–",
+      "0c61 Kannada: 0c85–"
+    ],
+    "pages": [
+      "0 05– 0 0 , 0 0 –",
+      "0 13–",
+      "0 2 –",
+      "0 32–",
+      "0 36–",
+      "0 5 – 0 5 , 0 5 –",
+      "0 85– 0 8 , 0 8 –",
+      "0 92–",
+      "0 99– 0 9 ,",
+      "0 9 – 0 9 , 0 3–",
+      "0 8–",
+      "0 –",
+      "0 7–",
+      "0 0 –",
+      "0 12–",
+      "0 2 –",
+      "0 35–",
+      "0 60–",
+      "0 8 –",
+      "0 92– 0 8, 0 –",
+      "0 5–",
+      "0 0– 0 1"
+    ],
+    "title": [
+      "0b61 Tamil"
+    ],
+    "type": null,
+    "volume": [
+      "0b10",
+      "0b28",
+      "0b30",
+      "0b33",
+      "0b39",
+      "0b90",
+      "0b95",
+      "0b9c",
+      "0ba4",
+      "0baa",
+      "0bb5",
+      "0c0c",
+      "0c10",
+      "0c28",
+      "0c33",
+      "0c39",
+      "0c8c",
+      "0c90",
+      "0cb3",
+      "0cb9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Malayalam"
+      }
+    ],
+    "note": [
+      "0d61 Thai: 0e01–"
+    ],
+    "pages": [
+      "0 05– 0 0 , 0 0 –",
+      "0 12–",
+      "0 2 –",
+      "0 60–",
+      "0 32–",
+      "0 40– 0 46, 0 4 – 0 5"
+    ],
+    "type": null,
+    "volume": [
+      "0d10",
+      "0d28",
+      "0d39",
+      "0e30",
+      "0e33"
+    ]
+  },
+  {
+    "container-title": [
+      "Georgian"
+    ],
+    "issue": [
+      "iragana: 3041– 3094"
+    ],
+    "pages": [
+      "10 0–",
+      "309 –",
+      "3105– 312"
+    ],
+    "source": [
+      "309e Katakana: 30a1– 30fe Bopmofo:"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10a0– 10c5",
+      "f6"
+    ]
+  }
+]
