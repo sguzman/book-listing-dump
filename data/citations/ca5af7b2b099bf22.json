@@ -1,0 +1,675 @@
+[
+  {
+    "title": [
+      "Generic Structure of Data in the Enterprise Data Element"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Data Group Type Name Data Element Physical Name Data Package Type Name Data Group Description Data Element Description Data Package Description Data Group Business Description Data Element Business Name Data Package Detail Description Data Group Quality Percentage Data Element Business Alias Data Package Business Description Data Group Refresh Type Name Data Element Acronym Name"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "API (application programming interface) A reference provided by software developers to facilitate other computer applications in communicating with their application"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "BPR (business process reengineering The process for analyzing and redesigning business processes and associated application systems"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Browsers Browsers are thin client applications that are used to navigate and access the World Wide Web (WWW) and/or intranets. In addition, these are the tools of choice for data warehouse/data mart users for accessing and navigating the decision support information and meta data"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CASE (computer-aided software engineering) A software application that automates the process of designing databases, designing applications, and implementing software"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "COBOL (Common Business Oriented Language) A high-level, third generation programming language based on English, that is used primarily for business applications"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CPU (central processing unit) A processor that contains the sequencing and processing facilities for instruction execution, interruption action, timing functions, initial program loading, and other machine-related functions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Data architecture The framework for organizing and defining the interrelationships of data in support of an organization’s missions, functions, goals, objectives, and strategies"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Data dictionary A cross-reference of definitions and specifications for data categories and their relationships. A subset of an MME. Data element A specific item of information. The smallest unit of information"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Data mapping The process of assigning a source data element to a target data element"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Data mining The process of examining large sets of detail data to arrive at unknown relationships, trends, and projections of future outcomes"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Data warehouse An enterprise-wide collection of data that is subjectoriented, integrated, nonvolatile, and time variant. This data is organized for end-user access and use"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Database administrator (DBA) An individual responsible for the design, development, operation, safeguarding, maintenance, and use of a database"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Database schema The logical and physical definition of a database structure"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Decision support system (DSS) A computer application that contains data sets used to help business users with strategic planning and business-related decisions. Delta The difference between two values"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Disaster recovery The policies and plans used to restore a computer system after system failure"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "DSS See Decision support system"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FDDI (Fiber Distributed Data Interface) A standard for light wave network physical topology devices using fiber-optic connections for highspeed data transmission"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Filters Saved sets of chosen criteria that specify a subset of information in a data warehouse"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Firewall A set of related programs, located at a network gateway server that protects the resources of a private network from users from other networks"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "HTTP (Hypertext Transfer Protocol) A standard for transmitting and exchanging HTML pages"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Intranet A company’s internal system of connected networks built on Internet standard protocols, usually connected to the Internet via a firewall"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "JCL (Job Control Language) A mainframe programming language used to control the execution of applications (programs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "LAN (local area network) A group of connected client computers and servers usually targeted to providing shared print and file storage services"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Legacy systems Sources of historical data (the existing OLTP systems) for the data warehouse"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Mainframe A large-capacity computer that offers high levels of processing power, security, and stability"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Managed meta data environment (MME) The managed meta data environment represents the architectural components, people, and processes that are required to properly and systematically gather, retain, and disseminate meta data throughout the enterprise"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Meta data repository The physical database tables used to store meta data"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MOLAP (Multi-dimensional Online Analytical Processing) OLAP analysis provided by a system relying on dedicated, uncalculated data sets"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MME (managed meta data environment) See Managed meta data environment"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MPP (massively parallel processing) A computing architecture that combines many CPUs with dedicated RAM and DASD resources"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Multidimensional aggregation tables An aggregation that contains metrics calculated along multiple business dimensions (for example, sales by product by customer, over regions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Network computer A thin client computer platform that relies on serverresident computation, resources, data, and applications to provide computing services to users"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Normalization The process of reducing a complex data structure to its simplest, most stable structure. In general, the process entails the removal of redundant attributes, keys, and relationships from a conceptual data model"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "OLAP (Online Analytical Processing) A computer application that allows multiple dimensional manipulation, display, and visualization of data for reporting purposes"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "OLTP (Online Transaction Processing) A computer application that automates one or more business processes (for example, order entry"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "OODBs (object-oriented databases) A database that allows the storage and retrieval of multiple data types (for example, text, video, audio, and tabular data"
+    ],
+    "type": null
+  },
+  {
+    "producer": [
+      {
+        "given": "P.E.R.L."
+      }
+    ],
+    "title": [
+      "Extraction and Report Language) An interpreted programming language common in the UNIX environment"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Regression analysis Statistical operations that help to predict the value of the dependent variable from the values of one or more independent variables"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Referential integrity A feature of database systems that ensures that any record recorded into the database will be supported by accurate primary and foreign keys"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Relationship A connection between two entities that mutually associates them. Relationships are denoted by their degree, connectivity, cardinality, direction, type, and existence"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Replication server A dedicated computer system that executes a replication application"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "RISC (reduced instruction set computer) A CPU that is designed to execute a very limited set of instructions at very high speeds"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Standard data element A data element that has been approved formally in accordance with the organization’s data element standardization procedures"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Subtype See Supertype"
+    ],
+    "title": [
+      "Subject areas Controllable set of entities that support the overall mission of the enterprise from the perspective of a specific organizational view"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "TCP/IP (Transmission Control Protocol/Internet Protocol) A networking standard that forms the basis for the Internet"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Adelman",
+        "given": "Sid"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Impossible Data Warehouse Situations (2002"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Adelman",
+        "given": "Sid"
+      },
+      {
+        "family": "Moss",
+        "given": "Larissa T."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company"
+    ],
+    "title": [
+      "Data Warehouse Project Management"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoberman",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "Data Modeler’s Workbench"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Imhoff",
+        "given": "Claudia"
+      },
+      {
+        "family": "Loftis",
+        "given": "Lisa"
+      },
+      {
+        "family": "Geiger",
+        "given": "Jonathan G."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "Building the Customer-Centric Enterprise: Data Warehousing Techniques for Supporting Customer Relationship Management"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "Building the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimball",
+        "given": "Ralph"
+      },
+      {
+        "family": "Ross",
+        "given": "Margy"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marco",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "Building and Managing the Meta Data Repository"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Poole",
+        "given": "John"
+      },
+      {
+        "family": "Chang",
+        "given": "Dan"
+      },
+      {
+        "family": "Tolbert",
+        "given": "Douglas"
+      },
+      {
+        "family": "Mellor",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Common Warehouse Metamodel: An Introduction to the Standard for Data Warehouse Integration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Poole",
+        "given": "John"
+      },
+      {
+        "family": "Chang",
+        "given": "Dan"
+      },
+      {
+        "family": "Tolbert",
+        "given": "Douglas"
+      },
+      {
+        "family": "Mellor",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "Common Warehouse Metamodel Developer’s Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halle",
+        "particle": "von"
+      },
+      {
+        "given": "Barbara"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "note": [
+      "The site also contains a large number of metadata-related articles. The archives are available. Index"
+    ],
+    "publisher": [
+      "Wiley Publishing, Inc"
+    ],
+    "title": [
+      "Business Rules Applied: Building Better Systems Using the Business Rules Approach",
+      "www.EWSolutions.com features Real-World Decision Support, which is a free, quarterly electronic newsletter dedicated to business intelligence and data warehousing"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "251–252"
+    ],
+    "pages": [
+      "247–270 , 428"
+    ],
+    "title": [
+      "M Service Management subject area, magnetic tape"
+    ],
+    "type": null,
+    "volume": [
+      "427 245"
+    ]
+  },
+  {
+    "note": [
+      "245–246 ple, 74–78 System Trouble Report Volume building, issues to consider, 391 report, 319 business and technical com-Unscheduled Maintenance by Com- ponent, 13 ponent report, 391–320 Capability Maturity Model (CMM"
+    ],
+    "title": [
+      "Software Management attributes, maintainability, 373 275–282 maintenance, 319–320 Software Management entities, Managed Meta Data Environment 274–275 (MME) Software Management subject area, application examples, general, 73–74 245, 270–282 architectural components of, 4, 5, Software Module CRUD report, 23–24 313–314 banking and finance industry examsubject areas"
+    ],
+    "type": "report"
+  },
+  {
+    "container-title": [
+      "case study: Allstate Corporation, IT redundancy"
+    ],
+    "genre": [
+      "IT Project Resource Projection report, and,"
+    ],
+    "note": [
+      "needless IT rework, 16 case study: RBC Financial Group, redundant applications, processes, 100–108"
+    ],
+    "pages": [
+      "57–66 320–321",
+      "13–17 90–100"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "in enterprise distributed computing, meta data delivery layer",
+      "meta data integration layer"
+    ],
+    "note": [
+      "MOM), 139 manufacturing industry example, 79, messaging,",
+      "as source of meta data, 33 meta data management layer, 4, as target for meta data, 46"
+    ],
+    "pages": [
+      "10–11",
+      "82–83",
+      "44–48 186",
+      "35–36"
+    ],
+    "title": [
+      "illustrated, 26 MDDBMS (Multi-Dimensional Datato improve national security, 8–9 base Management System), 428 to increase revenue/decrease costs, message, 428 5–7 message-oriented middleware to manage IT systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4 81",
+      "4",
+      "4"
+    ]
+  },
+  {
+    "container-title": [
+      "431 IT Project Resource Projection, reduced instruction set computer"
+    ],
+    "note": [
+      "RISC), 431 Open and Pending Business Rule redundancy Issues, 362–364 applications, processes, and data, 9, Person by Organization and Man-15–16 ager, 364–365 hardware and software, 16–17 Process XML report: Order Flow IT, reducing, 16–17 Views, 238–241 needless rework, 16 Project Managers Scorecard report,"
+    ],
+    "pages": [
+      "320–321"
+    ],
+    "title": [
+      "RBC Financial Group case study All Business Rules, 355–357 challenges and opportunities faced Annual Vendor Software Fee Liabilby, 101, 106 ity, 317–318 company background, 100 Business Rules by Business Rule Cat-Data Warehouse Environment egory, 357–358 (DWE), 101 Data Definition by System by Envimeta data delivery layer, 105–106 ronment, 166, 167 meta data sourcing layer, 102–105 Data Groups by Subject Area, 359, MME in action, 107 361–362 MME return on investment, 106–108 Data Impact Analysis, 172, 173 MME solution overview, 101–102 Data Profiling Exceptions, 169, 171 RBOCs. See regional Bell operating Data Quality Exception Summary, companies (RBOCs) 322–323 RDBMS. See relational database man- Data Storage Capacity, 315–316 agement system (RDBMS) Data Structure Hierarchy, 166, 169 ReadMe file, 415 Data Warehouse Customer Business recovery Rules, 359, 360 disaster, 423 Hardware Obsolescent, 315 meta data management layer, 41 Installed Software Patch, 316–317 recursive relationship"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Description",
+        "given": "U.D.D.I.See Universal"
+      }
+    ],
+    "note": [
+      "See Business Unified Modeling Language meta model (UML), 67 Universal Meta Model for XML, Mesunique IDs, database, 374–375 saging, and Business Transactions."
+    ],
+    "title": [
+      "Dis- subject areas, 368 covery, and Integration (UDDI) translating LDM to PDM, 376–381 service Universal Meta Model for Business UMM. See Universal Meta Model rules, Business Meta Data, and (UMM) Data Stewardship"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Description",
+        "given": "Universal"
+      },
+      {
+        "family": "Discovery"
+      },
+      {
+        "family": "XML",
+        "given": "See"
+      }
+    ],
+    "genre": [
+      "(UMM), nent report,"
+    ],
+    "pages": [
+      "319–320"
+    ],
+    "title": [
+      "Meta Model Integration (UDDI) service, 184, UNIX, 434 185, 186 Unscheduled Maintenance by Compo-Universal Meta Model"
+    ],
+    "type": "report"
+  }
+]
