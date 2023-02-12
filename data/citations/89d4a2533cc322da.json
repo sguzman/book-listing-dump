@@ -1,0 +1,160 @@
+[
+  {
+    "title": [
+      "◦ For OpenCL 2.0, OpenCL 2.1, OpenCL 2.2, or OpenCL 3.0 devices supporting CL_DEVICE_ ATOMIC_SCOPE_DEVICE in CL_DEVICE_ATOMIC_MEMORY_CAPABILITIES"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "OpenCL"
+    ],
+    "issue": [
+      "1"
+    ],
+    "note": [
+      "or OpenCL 3.0 devices supporting CL_DEVICE_ ATOMIC_ORDER_ACQ_REL in CL_DEVICE_ATOMIC_MEMORY_CAPABILITIES. • SequentiallyConsistent"
+    ],
+    "title": [
+      "◦ For OpenCL 2.0, OpenCL 2.1, OpenCL 2.2, or OpenCL 3.0 devices supporting CL_DEVICE_ ATOMIC_ORDER_RELAXED in CL_DEVICE_ATOMIC_MEMORY_CAPABILITIES. • Acquire, Release, or AcquireRelease ◦ For OpenCL 2.0"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "title": [
+      "◦ For OpenCL 2.0, OpenCL 2.1, OpenCL 2.2, or OpenCL 3.0 devices supporting CL_DEVICE_ ATOMIC_ORDER_SEQ_CST in CL_DEVICE_ATOMIC_MEMORY_CAPABILITIES"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2008-08"
+    ],
+    "note": [
+      "IEEE Standard for Floating-Point Arithmetic, IEEE Std 754-2008,"
+    ],
+    "type": null,
+    "url": [
+      "http://dx.doi.org/10.1109/"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "ISO/IEC 9899:1999 - Programming Languages - C”, with technical corrigenda TC1 and TC2"
+    ],
+    "type": null,
+    "url": [
+      "https://www.iso.org/standard/29237.html"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "pages": [
+      "4"
+    ],
+    "title": [
+      "ISO/IEC 14882:2014 - Information technology - Programming languages - C++”",
+      "The OpenCL Specification, Version 3.0, Unified”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.iso.org/standard/64029.html",
+      "https://www.khronos.org/registry/OpenCL/"
+    ]
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "The OpenCL C Specification, Version 3.0”",
+      "6. “The OpenCL C++ 1.0 Specification”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.khronos.org/registry/OpenCL/",
+      "https://www.khronos.org/registry/OpenCL/"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "OpenCL/ . 8. “SPIR-V Specification, Version 1.5, Unified”"
+    ],
+    "title": [
+      "The OpenCL Extension Specification, Version 3.0, Unified”"
+    ],
+    "type": "chapter",
+    "url": [
+      "https://www.khronos.org/registry/",
+      "https://www.khronos.org/registry/spir-v/"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "OpenCL Extended Instruction Set Specification”"
+    ],
+    "type": null,
+    "url": [
+      "https://www.khronos.org/registry/spir-v/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "Jean-Michel"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "RR-5504, INRIA"
+    ],
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "<inria-00070503> Currently hosted at"
+    ],
+    "pages": [
+      "16"
+    ],
+    "title": [
+      "On the definition of ulp(x"
+    ],
+    "type": "chapter",
+    "url": [
+      "https://hal.inria.fr/inria-00070503/document."
+    ]
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "IEC 61966-2-1:1999 Multimedia systems and equipment - Colour measurement and management - Part 2-1: Colour management - Default RGB colour space - sRGB”"
+    ],
+    "type": null,
+    "url": [
+      "https://webstore.iec.ch/publication/6169"
+    ]
+  }
+]

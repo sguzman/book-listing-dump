@@ -1,0 +1,1016 @@
+[
+  {
+    "citation-number": [
+      "0"
+    ],
+    "title": [
+      "IEEE standard 1076.1-1999, VHDL Analog and Mixed Signal Extensions (VHDL-AMS): defines the extension for analog and mixed-signal modeling"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "title": [
+      "IEEE standard 1076.2-1996, VHDL Mathematical Packages: defines extra mathematical functions for real and complex numbers"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "title": [
+      "IEEE standard 1076.3-1997, Synthesis Packages: defines arithmetic operations over a collection of bits"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "title": [
+      "IEEE standard 1076.4-1995, VHDL Initiative Towards A S K Libraries (VITAL):defines a mechanism to add detailed timing information to ASIC cells"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "title": [
+      "IEEE standard 1076.6-1999, VHDLRegister TransferLevel (RTL)Synthesis: defines a subset that is suitable for synthesis"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "title": [
+      "IEEE standard 1 164-1993 Multivalue Logic Systemfor VHDLModel Znteroperabiliry (std-logicJl64): defines new data types to model multivalue logic"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "container-title": [
+      "IEEE standard 1029.1-1998, VHDL Waveform and Vector Exchange to Support De"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Alfke",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Xilinx Application Note XAPP-052"
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Efficient Shift Registers, LFSR Counters, and Long Pseudo-Random Sequence Generators,’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Amold",
+        "given": "M.G."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Verilog Digital Computer Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ashenden",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "The Designer’s Guide to VHDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bardell",
+        "given": "P.H."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "Wiley-Interscience"
+    ],
+    "title": [
+      "Built In Testfor VLSI: Pseudorandom Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bening",
+        "given": "L."
+      },
+      {
+        "family": "Foster",
+        "given": "H.D."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Principles of Ver@ableRTL Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bergeron",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Writing Testbenches: Functional Verification of HDL Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ciletti",
+        "given": "M.D."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Advanced Digital Design with the Verilog HDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ciletti",
+        "given": "M.D."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Starter’s Guide to Verilog 2001"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummings",
+        "given": "C.E."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "SNUG (Synopsys Users Group conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "title": [
+      "Coding and ScriptingTechniques for FSM Designs with Synthesis-Optimized, Glitch-Free Outputs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummings",
+        "given": "C.E."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "SNUG (Synopsys Users Group conference"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "San Jose"
+    ],
+    "title": [
+      "Synthesis and ScriptingTechniques for DesigningMulti-AsynchronousClock Designs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummings",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "SNUG (Synopsys Users Group conference),San Jose"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "1"
+    ],
+    "title": [
+      "Simulationand SynthesisTechniques for Asynchronous FIFO Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cummings",
+        "given": "C.E."
+      },
+      {
+        "family": "Alfke",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "SNUG (Synopsys Users Group conference"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "San Jose"
+    ],
+    "title": [
+      "Simulation and Synthesis Techniques for Asynchronous FIFO Design with Asynchronous Pointer Comparisons"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dally",
+        "given": "W.J."
+      },
+      {
+        "family": "W.Poulton",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Digital Systems Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Micheli",
+        "given": "G.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Synthesis and Optimization of Digital Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Devadas",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "McGraw-Hill Professional"
+    ],
+    "title": [
+      "Logic Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "By Pong P. Chu 665 Copyright @ 2006 John Wiley & Sons,Inc."
+    ],
+    "title": [
+      "RTL Hardware Design Using VHDL: Codingfor Eflciency, Portability, and Scalability"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D.Ercegovac",
+        "given": "M."
+      },
+      {
+        "family": "Lang",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Digital Arithmetic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "DDGajski"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Principles of Digital Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "DDGajski"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "High-Level Synthesis: Introduction to Chip and System Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "SGhosh"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Wiley-IEEEPress"
+    ],
+    "title": [
+      "Hardware DescriptionLanguages: Conceptsand Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.E.E."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "(IEEE Std 1364-2001),"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "IEEE Standard for Verilog Hardware Description Language"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE, IEEE Standard VHDL Language Reference Manual (IEEE Std 1076-2001"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.E.E."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "(IEEE Std 1076.6-1999),"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "IEEE Standard for VHDL Register Transfer Level (RTL) Synthesis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.E.E."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "IEEE Standard VHDLSynthesis Packages (IEEE Std 1076.3-1997"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "IEEE, IEEE Standard Multivalue Logic System for VHDL Model Interoperability (IEEE Std 1164-1993"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "High-speed Digital Design: A Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kam",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Synthesis of Finite State Machines: Functional Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "R.H."
+      },
+      {
+        "family": "Borriello",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "ContemporaryLogic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bricaud",
+        "given": "M.Keating",
+        "particle": "andP."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "MethodologyManualforSystem-on-a-Chip Designs, jrded"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koren",
+        "given": "I."
+      },
+      {
+        "family": "Peters",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "title": [
+      "Computer Arithmetic Algorithms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Landman",
+        "given": "H.A."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "SNUG (Synopsys Users Group conference"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Visualizing the Behavior of Logic Synthesis Algorithms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Maxfield",
+        "given": "C.M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1"
+    ],
+    "publisher": [
+      "Newnes"
+    ],
+    "title": [
+      "The Design Warrior’sGuide to FPGAs"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Palnitkar",
+        "given": "S."
+      },
+      {
+        "family": "HDL",
+        "given": "Verilog"
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hennessy",
+        "given": "D.A.Pattersonand J.L."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "ComputerOrganizationand Design: The HardwardSoOftare Interface"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rabaey",
+        "given": "Jan M."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Integrated Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rushton",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "VHDLfor Logic Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sinander",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "VHDL Modelling Guidelines,European Space Agency"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Villa",
+        "given": "T."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Synthesis of Finite State Machines: Logic Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wakerly",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design: Principles and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "FPGA-Based System Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Modem VLSI Design: System-on-ChipDesign"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zimmermann",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "PhD. thesis,"
+    ],
+    "publisher": [
+      "Swiss Federal Institute of Technology (FiTH), Zurich"
+    ],
+    "title": [
+      "Binary Adder Architectures for Cell-Based VLSI and Their Synthesis"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Zimmermann",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "First International Forum on Design Languages (FDL’98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "VHDL Library of Arithmetic Units"
+    ],
+    "type": "chapter"
+  }
+]
