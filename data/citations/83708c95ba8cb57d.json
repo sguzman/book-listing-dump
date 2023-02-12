@@ -1,0 +1,229 @@
+[
+  {
+    "note": [
+      "Becker:RValues"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Becker",
+        "given": "Thomas"
+      }
+    ],
+    "title": [
+      "C++ Rvalue References Explained"
+    ],
+    "type": null,
+    "url": [
+      "http://thbecker.net/articles/rvalue_references/section_01.html"
+    ]
+  },
+  {
+    "note": [
+      "BoehmAdve:MemMod"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boehm",
+        "given": "Hans J."
+      },
+      {
+        "family": "Adve",
+        "given": "Sarita V."
+      }
+    ],
+    "title": [
+      "Foundations of the C++ Concurrency Memory Model"
+    ],
+    "type": null,
+    "url": [
+      "http://www.hpl.hp.com/techreports/2008/HPL-2008-56.html"
+    ]
+  },
+  {
+    "note": [
+      "EllisStroustrup:ARM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "Margaret A."
+      },
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Annotated C++ Reference Manual (ARM"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "GoF:DesignPatterns"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "ISO3166:CodeTab"
+    ],
+    "title": [
+      "ISO 3166-1 decoding table"
+    ],
+    "type": null,
+    "url": [
+      "http://www.iso.org/iso/support/country_codes/iso_3166_code_lists/"
+    ]
+  },
+  {
+    "citation-number": [
+      "N2661:Chrono"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hinnant",
+        "given": "Howard E."
+      },
+      {
+        "family": "Brown",
+        "given": "Walter E."
+      },
+      {
+        "family": "Garland",
+        "given": "Jeff"
+      },
+      {
+        "family": "Paterno",
+        "given": "Marc"
+      }
+    ],
+    "container-title": [
+      "Points in Time, and Time Durations"
+    ],
+    "title": [
+      "A Foundation to Sleep On: Clocks"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2008/n2661.html"
+    ]
+  },
+  {
+    "note": [
+      "Plauger:C++Lib"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Plauger",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Draft Standard C++ Library"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Stroustrup:C++"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "The C++ Standard Library A Tutorial and Reference Second Edition"
+    ],
+    "type": null
+  }
+]
