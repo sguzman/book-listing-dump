@@ -1,0 +1,2793 @@
+[
+  {
+    "note": [
+      "function [AA,V0,VT,B,C,D,Gx,S,R]=.. rio2(lam,beta,P0,P1,J0,J1,A,B,C,D,M,N,F,G,U,W) Pb=sysdiag(P0/beta,P1/(1-beta)); Jb=sysdiag(beta*J0,(1-beta)*J1); T=[M,B;N,D]*inv(sysdiag(Jb,-lam*eye(nv,nv)))*[M,B;N,D]’; Q=T(1:nx,1:nx);S=T(1:nx,nx+1:$);R=T(nx+1:$,nx+1:$); No=kernel(N); if min(real(spec(No’*Jb*No))) <= 0 .. then error(’test 1 failed’);end D=[N,D];C=[C,zeros(ny+nz1+nz0,nf)]; A=sysdiag(A,F);B=[M,B;zeros(nf,nnu0+nnu1+nz0+nz1),G]; Gx=sysdiag(Jb,-lam*eye(nv,nv)); T=[B;D]*inv(Gx)*[B;D]’; Q=T(1:nx+nf,1:nx+nf);S=T(1:nx+nf,nx+nf+1:$); R=T(nx+nf+1:$,nx+nf+1:$); AA=[A-S*inv(R)*C,Q-S*inv(R)*S’; C’*inv(R)*C+sysdiag(zeros(nx,nx),lam*U),.. -(A-S*inv(R)*C)’]; V0=[inv(Pb),zeros(nx,nf),-eye(nx,nx),zeros(nx,nf); zeros(nf,nx),eye(nf,nf),zeros(nf,nx+nf); zeros(nx+nf,2*nx+2*nf)]; VT=[zeros(nx+nf,2*nx+2*nf); zeros(nx,nx+nf),eye(nx,nx),zeros(nx,nf); zeros(nf,nx),-lam*W,zeros(nf,nx),eye(nf,nf)]; endfunction"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Basseville",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "309–326"
+    ],
+    "title": [
+      "Detecting changes in signals and systems–A survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Basseville",
+        "given": "M."
+      },
+      {
+        "family": "Abdelghani",
+        "given": "M."
+      },
+      {
+        "family": "Benveniste",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "101–109"
+    ],
+    "title": [
+      "Subspace-based fault detection algorithms for vibration monitoring"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Control and Information Sciences"
+    ],
+    "container-title": [
+      "Detection of Abrupt Changes in Signals and Dynamical Systems"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Basseville",
+        "given": "M."
+      },
+      {
+        "family": "Benveniste",
+        "given": "A."
+      }
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "type": "chapter",
+    "volume": [
+      "77"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Basseville",
+        "given": "M."
+      },
+      {
+        "family": "Nikiforov",
+        "given": "I.V."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "collection-title": [
+      "Information and System Science Series"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Detection of Abrupt Changes: Theory and Application"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Beard",
+        "given": "R.V."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1971"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Massachusetts Insitute of Technology"
+    ],
+    "title": [
+      "Failure Accommodation in Linear Systems through Selfreorganization"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Dynamic Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernstein",
+        "given": "D.S."
+      },
+      {
+        "family": "Haddad",
+        "given": "W.M."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "293–305"
+    ],
+    "title": [
+      "LQG control with an H∞ performance bound: A Riccati equation approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bertsekas",
+        "given": "D.P."
+      },
+      {
+        "family": "Rhodes",
+        "given": "I.B."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Recursive state estimation for a setmembership description of uncertainty"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16(2):117–128"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Betts",
+        "given": "J.T."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "Advances in Design and Control. SIAM"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "title": [
+      "Practical Methods for Nonlinear Control Using Nonlinear Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Betts",
+        "given": "J.T."
+      },
+      {
+        "family": "Biehn",
+        "given": "N."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Huffman",
+        "given": "W.P."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "J. Comput. Appl. Math"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "147–158"
+    ],
+    "title": [
+      "Compensating for order variation in mesh refinement for direct transcription methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "125"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Betts",
+        "given": "J.T."
+      },
+      {
+        "family": "Biehn",
+        "given": "N."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Huffman",
+        "given": "W.P."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "J. Comput. Appl. Math"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "237–261"
+    ],
+    "title": [
+      "Compensating for order variation in mesh refinement for direct transcription methods II: Computational experience"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "143"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Betts",
+        "given": "J.T."
+      },
+      {
+        "family": "Carter",
+        "given": "M.J."
+      },
+      {
+        "family": "Huffman",
+        "given": "W.P."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1997-06"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "publisher": [
+      "Mathematics and Engineering Analysis, Boeing Information and Support Services, The Boeing Company"
+    ],
+    "title": [
+      "Software for nonlinear optimization"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Betts",
+        "given": "J.T."
+      },
+      {
+        "family": "Frank",
+        "given": "P.D."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "J. Optim. Theory Applic"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "519–541"
+    ],
+    "title": [
+      "A sparse nonlinear optimization algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Betts",
+        "given": "J.T."
+      },
+      {
+        "family": "Huffman",
+        "given": "W.P."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1997-06"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "location": [
+      "Seattle"
+    ],
+    "publisher": [
+      "Mathematics and Engineering Analysis, Boeing Information and Support Services, The Boeing Company"
+    ],
+    "title": [
+      "Sparse optimal control software"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Brenan",
+        "given": "K.E."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Petzold",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "publisher": [
+      "SIAM"
+    ],
+    "title": [
+      "The Numerical Solution of Initial Value Problems in Differential-Algebraic Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bunks",
+        "given": "C."
+      },
+      {
+        "family": "Chancelier",
+        "given": "J.P."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      },
+      {
+        "family": "Gomez",
+        "given": "C."
+      },
+      {
+        "family": "Goursat",
+        "given": "M."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Steer",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Engineering and Scientific Computing with Scilab"
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "literal": "editors."
+      }
+    ],
+    "location": [
+      "Basel"
+    ],
+    "publisher": [
+      "Birkhauser"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Drake",
+        "given": "K.J."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Mediterranean Conference on Control and Automation"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Lisbon"
+    ],
+    "note": [
+      "CD ROM)."
+    ],
+    "title": [
+      "Auxiliary signal design for multi-model identification in systems with multiple delays"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Drake",
+        "given": "K.J."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Las Vegas, NV"
+    ],
+    "pages": [
+      "1832–1837,"
+    ],
+    "title": [
+      "Early decision making when using proper auxiliary signals"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Drake",
+        "given": "K.J."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Systems"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Man, and Cybernetics, Washington, DC"
+    ],
+    "note": [
+      "CD ROM)."
+    ],
+    "title": [
+      "Analysis of spline based auxiliary signal design for failure detection in delay systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Drake",
+        "given": "K.J."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "Proceedings of the 3d IFAC Workshop on Time Delay Systems"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Sante Fe, NM"
+    ],
+    "note": [
+      "CD ROM)."
+    ],
+    "title": [
+      "Rapid multimodel identification in systems with delay"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Horton",
+        "given": "K."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "Proceedings of the IFAC Symposium on Fault Detection Supervision and Safety for Technical Processes (SAFEPRO-CESS 2000"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Budapest, Hungary"
+    ],
+    "pages": [
+      "1187–1192,"
+    ],
+    "title": [
+      "Rapid model selection and the separability index"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Horton",
+        "given": "K."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "1313–1325"
+    ],
+    "title": [
+      "Auxiliary signal design for rapid multimodel identification using optimization"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Meyer",
+        "given": "C.D.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Generalized Inverses of Linear Transformations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Proceedings of the Mathematical Theory of Networks and Systems, Notre Dame, IN, 2002"
+    ],
+    "publisher": [
+      "CD ROM"
+    ],
+    "title": [
+      "The design of auxiliary signals for robust active failure detection in uncertain systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chancelier",
+        "given": "J.P."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      },
+      {
+        "family": "Gomez",
+        "given": "C."
+      },
+      {
+        "family": "Goursat",
+        "given": "M."
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Steer",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Introduction a Scilab"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Patton",
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Dordrecht"
+    ],
+    "publisher": [
+      "Kluwer"
+    ],
+    "title": [
+      "Robust Model–Based Fault Detection Diagnosis for Dynamic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chiang",
+        "given": "L.H."
+      },
+      {
+        "family": "Russell",
+        "given": "E.L."
+      },
+      {
+        "family": "Braatz",
+        "given": "R.D."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Fault Detection and Diagnosis in Industrial Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "W.H."
+      },
+      {
+        "family": "Speyer",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "container-title": [
+      "IEEE Trans. Automat. Contr"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "A game theoretic fault detection filter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-43(2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "container-title": [
+      "Lecture Notes in Control and Information Sciences"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Singular Control Systems"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ding",
+        "given": "X."
+      },
+      {
+        "family": "Frank",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "container-title": [
+      "Syst. Control Lett"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "431–436"
+    ],
+    "title": [
+      "Fault detection via factorization approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Douglas",
+        "given": "R.K."
+      },
+      {
+        "family": "Speyer",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "container-title": [
+      "Proceedings of the American Control Conference"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Seattle"
+    ],
+    "pages": [
+      "86–90,"
+    ],
+    "title": [
+      "An H∞ bounded fault detection filter"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Drake",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Raleigh, NC"
+    ],
+    "publisher": [
+      "North Carolina State University"
+    ],
+    "title": [
+      "Analysis of Numerical Methods for Fault Diagnosis and Model Identification in Linear Systems with delays"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Edelmayer",
+        "given": "A."
+      },
+      {
+        "family": "Boker",
+        "given": "J."
+      },
+      {
+        "family": "Keviczky",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "container-title": [
+      "Proceedings of the IFAC World Congress"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "pages": [
+      "37–42,"
+    ],
+    "title": [
+      "H∞ detection filter design for linear systems: comparison of two approaches"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Frank",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "259–474"
+    ],
+    "title": [
+      "Fault diagnosis in dynamic systems using analytic and knowledgebased redundancy–A survey and some new results"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frank",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "container-title": [
+      "Int. J. Syst. Sci"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "2129–2154"
+    ],
+    "title": [
+      "On-line fault detection in uncertain nonlinear systems using diagnostic observers: A survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frank",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "container-title": [
+      "Eur. J. Control"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "6–28"
+    ],
+    "title": [
+      "Analytical and qualitative model based fault diagnosis – A survey and some new reults"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "E.A."
+      },
+      {
+        "family": "Frank",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "37"
+    ],
+    "container-title": [
+      "Control Eng. Pract"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "663–670"
+    ],
+    "title": [
+      "Deterministic nonlinear observer-based approaches to diagnosis: A survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gertler",
+        "given": "J.J."
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "container-title": [
+      "IEEE Control Syst. Mag"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "3–11"
+    ],
+    "title": [
+      "Survey of model-based failure detection and isolation in complex plants"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gertler",
+        "given": "J.J."
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Fault Detection and Diagnosis in Engineering Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghaoui",
+        "given": "L.El"
+      },
+      {
+        "family": "Calafiore",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "pages": [
+      "1922–1927,"
+    ],
+    "title": [
+      "Confidence ellipsoids for uncertain linear equations with structure"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghaoui",
+        "given": "L.El"
+      },
+      {
+        "family": "Calafiore",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Robust filtering for discrete-time systems with structured uncertainty"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-46(7):1084–1089"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ghaoui",
+        "given": "L.El"
+      },
+      {
+        "family": "Lebret",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "1035–1064"
+    ],
+    "title": [
+      "Robust solutions to least-squares problems with uncertain data"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Horton",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Raleigh"
+    ],
+    "publisher": [
+      "North Carolina State University"
+    ],
+    "title": [
+      "Fault Diagnosis and Model Identification in Linear Descriptor Systems"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Isermann",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "387–404"
+    ],
+    "title": [
+      "Process fault detection based on modeling and estimation methods – A survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ito",
+        "given": "K."
+      },
+      {
+        "family": "Kappel",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "container-title": [
+      "Appl. Math. Optim"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "217–262"
+    ],
+    "title": [
+      "A uniformly differentiable approximation scheme for delay systems using splines"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "date": [
+      "1973"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Massachusetts Institute of Technology"
+    ],
+    "title": [
+      "Failure Detection in Linear Systems"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "47"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerestecioglu",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "48"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Baldock, Hertfordshire"
+    ],
+    "publisher": [
+      "Research Studies Press"
+    ],
+    "title": [
+      "Change Detection and Input Design in Dynamical Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerestecioglu",
+        "given": "F."
+      },
+      {
+        "family": "Zarrop",
+        "given": "M.B."
+      }
+    ],
+    "citation-number": [
+      "49"
+    ],
+    "container-title": [
+      "Proceedings of the European Control Conference"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Grenoble"
+    ],
+    "pages": [
+      "321–326,"
+    ],
+    "title": [
+      "Optimal input design for change detection in dynamical systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerestecioglu",
+        "given": "F."
+      },
+      {
+        "family": "Zarrop",
+        "given": "M.B."
+      }
+    ],
+    "citation-number": [
+      "50"
+    ],
+    "container-title": [
+      "Int. J. Control"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "1063–1084"
+    ],
+    "title": [
+      "Input design for detection of abrupt changes in dynamical systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kinnaert",
+        "given": "M."
+      },
+      {
+        "family": "Peng",
+        "given": "Y."
+      },
+      {
+        "family": "Hammouri",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "51"
+    ],
+    "container-title": [
+      "Proceedings of the European Control Conference"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Roma"
+    ],
+    "pages": [
+      "3777–3782,"
+    ],
+    "title": [
+      "The fundamental problem of residual generation for bilinear systems up to output injection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kurzhanski",
+        "given": "A."
+      },
+      {
+        "family": "Valyi",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "52"
+    ],
+    "container-title": [
+      "Birkhauser"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Ellipsoidal Calculus for Estimation and Control"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lou",
+        "given": "X.-C."
+      },
+      {
+        "family": "Willsky",
+        "given": "A.S."
+      },
+      {
+        "family": "Verghese",
+        "given": "G.C."
+      }
+    ],
+    "citation-number": [
+      "53"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "333–344"
+    ],
+    "title": [
+      "Optimally robust redundancy relations for failure detection in uncertain systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mangoubi",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "54"
+    ],
+    "container-title": [
+      "Advances in Industrial Control"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Robust Estimation and Failure Detection: A Concise Treatment"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Manitius",
+        "given": "A."
+      },
+      {
+        "family": "Tran",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "55"
+    ],
+    "container-title": [
+      "Opt. Control Appl. Methods"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "19–39"
+    ],
+    "title": [
+      "Numerical simulation of a non-linear feedback controller for a wind tunnel model involving a time delay"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Massoumnia",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "56"
+    ],
+    "date": [
+      "1986"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Massachusetts Insitute of Technology"
+    ],
+    "title": [
+      "A Geometric Approach to Failure Detection and Identification in Linear Systems"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Massoumnia",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "57"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "A geometric approach to the synthesis of failure detection filters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-31(9):839–846"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Massoumnia",
+        "given": "M.A."
+      },
+      {
+        "family": "Verghese",
+        "given": "G.C."
+      },
+      {
+        "family": "Willsky",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "58"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "Failure detection and identification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-34(3):316–321"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mehra",
+        "given": "R.K."
+      },
+      {
+        "family": "Peschon",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "59"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "637–640"
+    ],
+    "title": [
+      "An innovations approach to fault detection and diagnosis in dynamic systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Niemann",
+        "given": "H.H."
+      },
+      {
+        "family": "Stoustrup",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "60"
+    ],
+    "container-title": [
+      "Proceedings of the Third IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPRO-CESS 1997"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Hull, England"
+    ],
+    "pages": [
+      "341–346,"
+    ],
+    "title": [
+      "Integration of control and fault detection: Nominal and robust design"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "61"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1851–1867"
+    ],
+    "title": [
+      "Innovations generation in the presence of unknown inputs, application to robust failure detection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "62"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1345–1358"
+    ],
+    "title": [
+      "Guaranteed active failure detection and isolation for linear dynamical systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      }
+    ],
+    "citation-number": [
+      "63"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Mediterranean Conference on Control and Automation"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Lisbon"
+    ],
+    "note": [
+      "CD ROM)."
+    ],
+    "title": [
+      "Active failure detection: Auxiliary signal design and on-line detection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      }
+    ],
+    "citation-number": [
+      "64"
+    ],
+    "container-title": [
+      "Proceedings of the European Control Conference"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "title": [
+      "Auxiliary signal design for failure detection in uncertain sampled-data systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      }
+    ],
+    "citation-number": [
+      "65"
+    ],
+    "container-title": [
+      "Proceedings of the 5th IFAC Symposium on Fault Detection, Supervision, and Safety of Technical Processes (SAFEPRO-CESS 2003"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "pages": [
+      "259–264,"
+    ],
+    "title": [
+      "Auxiliary signal design for robust active failure detection: The general cost case"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "66"
+    ],
+    "container-title": [
+      "Int. J Adap. Control Signal Process"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "701–724"
+    ],
+    "title": [
+      "Detection signal design for failure detection: a robust approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      },
+      {
+        "family": "Campbell",
+        "given": "S.L."
+      },
+      {
+        "family": "Horton",
+        "given": "K."
+      },
+      {
+        "family": "Delebecque",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "67"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "158–163"
+    ],
+    "title": [
+      "Auxiliary signal design for robust multi-model identification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Patton",
+        "given": "R.J."
+      },
+      {
+        "family": "Chen",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "68"
+    ],
+    "container-title": [
+      "J. Appl. Math. Comput. Sci"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "15–32"
+    ],
+    "title": [
+      "A survey of robustness in quantitative model-based fault diagnosis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Patton",
+        "given": "R.J."
+      },
+      {
+        "family": "Frank",
+        "given": "P.M."
+      },
+      {
+        "family": "Clark",
+        "given": "R.N."
+      }
+    ],
+    "citation-number": [
+      "69"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Fault Diagnosis in Dynamic Systems–Theory and Application"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Patton",
+        "given": "R.J."
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "70"
+    ],
+    "date": [
+      "2000"
+    ],
+    "editor": [
+      {
+        "family": "Frank",
+        "given": "M."
+      },
+      {
+        "family": "Clark",
+        "given": "R.N."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Issues of Fault Diagnosis for Dynamic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "I.R."
+      },
+      {
+        "family": "McFarlane",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "71"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "pages": [
+      "4984–4989,"
+    ],
+    "title": [
+      "A methodology for process fault detection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "I.R."
+      },
+      {
+        "family": "Savkin",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "72"
+    ],
+    "container-title": [
+      "Advances in Design and Control. Birkhauser"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Robust Kalman Filtering for Signals and Systems with Large Uncertainties"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Petersen",
+        "given": "I.R."
+      },
+      {
+        "family": "Ugrinovskii",
+        "given": "V.A."
+      },
+      {
+        "family": "Savkin",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "73"
+    ],
+    "container-title": [
+      "Communications and Control Engineering"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Robust Control Design Using H ∞ Methods"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Reid",
+        "given": "W.T."
+      }
+    ],
+    "citation-number": [
+      "74"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Sturmain Theory for Ordinary Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Savkin",
+        "given": "A.V."
+      },
+      {
+        "family": "Petersen",
+        "given": "I.R."
+      }
+    ],
+    "citation-number": [
+      "75"
+    ],
+    "container-title": [
+      "J. Opt. Theory Appl"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "241–250"
+    ],
+    "title": [
+      "New approach to model validation and fault diagnosis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "94"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Savkin",
+        "given": "A.V."
+      },
+      {
+        "family": "Petersen",
+        "given": "I.R."
+      }
+    ],
+    "citation-number": [
+      "76"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "271–274"
+    ],
+    "title": [
+      "Robust state estimation and model validation for discrete-time uncertain systems with a deterministic description of noise uncertainty"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sayed",
+        "given": "A.H."
+      }
+    ],
+    "citation-number": [
+      "77"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "A framework for state-space estimation with uncertain models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-46(7):998–1013"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schweppe",
+        "given": "F.C."
+      }
+    ],
+    "citation-number": [
+      "78"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "Recursive state estimation: Unknown but bounded errors and system inputs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-13(1):1017–1018"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schweppe",
+        "given": "F.C."
+      }
+    ],
+    "citation-number": [
+      "79"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Uncertain Dynamic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tyler",
+        "given": "M."
+      },
+      {
+        "family": "Morari",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "80"
+    ],
+    "container-title": [
+      "Proceedings of the American Control Conference"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Baltimore, MD"
+    ],
+    "pages": [
+      "2060–2064,"
+    ],
+    "title": [
+      "Optimal and robust design of integrated control and diagnostic modules"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wahnon",
+        "given": "E."
+      },
+      {
+        "family": "Benveniste",
+        "given": "A."
+      },
+      {
+        "family": "Ghaoui",
+        "given": "L.El"
+      },
+      {
+        "family": "Nikoukhah",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "81"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Brighton"
+    ],
+    "pages": [
+      "650–655,"
+    ],
+    "title": [
+      "An optimum robust approach to statistical failure detection and identification"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Willems",
+        "given": "J.C."
+      },
+      {
+        "family": "Kitapci",
+        "given": "A."
+      },
+      {
+        "family": "Silverman",
+        "given": "L.M."
+      }
+    ],
+    "citation-number": [
+      "82"
+    ],
+    "container-title": [
+      "SIAM J. Control Optim"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "323–337"
+    ],
+    "title": [
+      "Singular optimal control: A geometric approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Willsky",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "83"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1976"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "601–611"
+    ],
+    "title": [
+      "A survey of design methods for failure detection in dynamics system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Willsky",
+        "given": "A.S."
+      },
+      {
+        "family": "Jones",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "84"
+    ],
+    "container-title": [
+      "IEEE Trans. Autom. Control"
+    ],
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "A generalized likelihood ratio approach to the detection and estimation of jumps in linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-21(1):108–112"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "H."
+      },
+      {
+        "family": "Saif",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "85"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New Orleans, LA"
+    ],
+    "pages": [
+      "1391–2396,"
+    ],
+    "title": [
+      "State observation, failure detection and isolation (FDI) in bilinear systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "J.S."
+      }
+    ],
+    "citation-number": [
+      "86"
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "pages": [
+      "1964–1969,"
+    ],
+    "title": [
+      "Mixed H 2 compensator design for an aircraft control problem"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "D."
+      },
+      {
+        "family": "Shields",
+        "given": "D.N."
+      }
+    ],
+    "citation-number": [
+      "87"
+    ],
+    "container-title": [
+      "Proceedings of the Europen Control Conference"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Roma"
+    ],
+    "pages": [
+      "360–365,"
+    ],
+    "title": [
+      "Fault diagnosis in bilinear systems- a survey"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "D."
+      },
+      {
+        "family": "Shields",
+        "given": "D.N."
+      }
+    ],
+    "citation-number": [
+      "88"
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "1597–1607"
+    ],
+    "title": [
+      "A bilinear fault detection observer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "D."
+      },
+      {
+        "family": "Shields",
+        "given": "D.N."
+      }
+    ],
+    "citation-number": [
+      "89"
+    ],
+    "container-title": [
+      "Int. J. Control"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "417–430"
+    ],
+    "title": [
+      "A bilinear fault detection filter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "68"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "X.J."
+      }
+    ],
+    "citation-number": [
+      "90"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "note": [
+      "Index"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Auxiliary Signal Design in Fault Detection and Diagnosis"
+    ],
+    "type": null
+  }
+]

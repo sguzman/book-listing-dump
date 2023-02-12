@@ -1,0 +1,241 @@
+[
+  {
+    "title": [
+      "Example A.3 Testbench Verifying a flush and jump Condition during compare Operation module vliw_top_tb("
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Testbenches and Simulation Results"
+    ],
+    "title": [
+      "Figure A.4 Diagram showing jump and flush condition for Example A.3"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "199"
+    ]
+  },
+  {
+    "note": [
+      "maximum performance Synthesis Results, Gate Level Netlist 203"
+    ],
+    "title": [
+      "Table B.2 shows the FPGA synthesized results in terms of performance and area of the VLIW microprocessor implemented on an Altera Stratix EP1S25F1020C FPGA. Referring to Table B.2, the performance for the VLIW microprocessor is limited by the execute unit to only 120 MIPS"
+    ],
+    "type": "thesis"
+  },
+  {
+    "container-title": [
+      "BYTE Magazine Publication"
+    ],
+    "date": [
+      "1994-11"
+    ],
+    "title": [
+      "Core Technologies: VLIW"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fisher",
+        "given": "Joseph A."
+      },
+      {
+        "family": "Faraboschi",
+        "given": "Paolo"
+      },
+      {
+        "family": "Young",
+        "given": "Cliff"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Embedded Computing: A VLIW Approach to Architecture, Compilers and Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halfhill",
+        "given": "Tom R."
+      }
+    ],
+    "container-title": [
+      "ComputerWorld, Feb"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "VLIW Microprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hennessey",
+        "given": "John L."
+      },
+      {
+        "family": "Patterson",
+        "given": "David A."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach, Third Edition (The Morgan Kaufmann Series in Computer Architecture and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "The Intel 4004 Home,"
+    ],
+    "type": null,
+    "url": [
+      "http://www.intel4004.com."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Weng Fook"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "VHDL Coding and Logic Synthesis With Synopsys"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "Wang Fook"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Verilog Coding for Logic Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "David A."
+      },
+      {
+        "family": "Hennessey",
+        "given": "John L."
+      }
+    ],
+    "collection-title": [
+      "The Morgan Kaufmann Series in Computer Architecture and Design"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Organization and Design: The Hardware/Software Interface"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "VLIW Computer Architecture, Philips Semiconductor"
+    ],
+    "issue": [
+      ""
+    ],
+    "note": [
+      "Xilinx,"
+    ],
+    "pages": [
+      "9397–750–01759"
+    ],
+    "title": [
+      "VLIW Research at IBM Research, http://www.research.ibm.com/vliw"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.xilinx.com."
+    ],
+    "volume": []
+  },
+  {
+    "note": [
+      "pre-layout, X and, 41, 43 159–162 Very Long Instruction Word (VLIW"
+    ],
+    "title": [
+      "and gate level netlist, 201–206 logic verification, post-layout, post-layout, 151 166–167 pre-layout, 151 performance verification, poststandard cell library and, 152–156 layout, 167 tweaking process of, 157–159 static timing analysis"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "instruction execution for, 5 for VLIW definition, 18–19 superscalar pipeline vs., 5 TEN (test enable), 173 Violations:"
+    ],
+    "pages": [
+      "13–18"
+    ],
+    "title": [
+      "T microprocessors, 3, 5–7 Tapeout, 167–171 advantages and disadvantages of, TClk (test clock), 173 6–7 Technical specifications, 9–19 design modules of, 34–35 for instruction sets, 11–12 efficiency of, 6 for operation code"
+    ],
+    "type": null
+  }
+]
