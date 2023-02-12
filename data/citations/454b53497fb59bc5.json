@@ -1,0 +1,215 @@
+[
+  {
+    "note": [
+      "sprintf(pachube_data,\"%d,%d,%d,%d\",itempC, itempF, etempC, etempF); Serial.print(\"Sending: \"); Serial.println(pachube_data); content_length = strlen(pachube_data); Serial.println(\"Updating.\"); localClient.print(\"PUT /v1/feeds/\"); localClient.print(SHARE_FEED_ID); localClient.print(\".csv HTTP/1.1\\nHost: api.pachube.com\\nX-PachubeApiKey: \"); localClient.print(PACHUBE_API_KEY); localClient.print(\"\\nUser-Agent: Beginning Arduino – Project 47\"); localClient.print(\"\\nContent-Type: text/csv\\nContent-Length: \"); localClient.print(content_length); localClient.print(\"\\nConnection: close\\n\\n\"); localClient.print(pachube_data); localClient.print(\"\\n\");"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Project 47 – Internet Weather Display – Code Overview The code starts off with the includes for the Ethernet Shield and the one wire temperature sensors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "sensors",
+        "given": "DallasTemperature"
+      }
+    ],
+    "note": [
+      "}; DeviceAddress outsideThermometer = { 0x10, 0xCD, 0x39, 0xA9, 0x01, 0x08, 0x00, 0xBE};"
+    ],
+    "pages": [
+      "0"
+    ],
+    "title": [
+      "Then the serial numbers of the two DS17B20 sensors is set: DeviceAddress insideThermometer = { 0x10, 0x7A"
+    ],
+    "type": null,
+    "volume": [
+      "0x3B, 0xA9, 0x01, 0x08, 0x00"
+    ]
+  },
+  {
+    "citation-number": [
+      "sprintf(pachube_data,\"Internal"
+    ],
+    "note": [
+      "Temps: %d,%d External Temps: %d,%d\",itempC, itempF, etempC, etempF);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.print(\"Sending: \"); Serial.println(pachube_data);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "note": [
+      "followed by the API key localClient.print(\"PUT /v1/feeds/\"); localClient.print(SHARE_FEED_ID); localClient.print(\".csv HTTP/1.1\\nHost: api.pachube.com\\nX-PachubeApiKey: \"); localClient.print(PACHUBE_API_KEY);"
+    ],
+    "title": [
+      "Then you print data to the localCient. To do this, you build up a string that is sent to the URL of your feed. The first part of the string is the URL of the feed, including the feed ID"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "localClient.print",
+        "given": "localClientprint"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "float temp) { Serial.println(\"connecting...\");"
+    ],
+    "title": [
+      "void sendEmail(char subject[], char message1[], char message2["
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "delay",
+        "given": "clientprintln"
+      },
+      {
+        "given": "delay"
+      }
+    ],
+    "citation-number": [
+      "client.println(\"caFzLmNvbQaWNZXGluZWVsZWN0cm9uNAZW2FsydGhzd3\");"
+    ],
+    "note": [
+      "delay(time); client.println(\"RCPT TO:<fred@bloggs.com>\"); delay(time);"
+    ],
+    "title": [
+      "Then you need to tell the server who the mail is coming from and who the mail is going to: client.println(\"MAIL FROM:<alert@bobsmith.org>\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "client.println(message1);"
+    ],
+    "note": [
+      "delay(time); client.println(message2); delay(time);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "client.println",
+        "given": "delay"
+      }
+    ],
+    "note": [
+      "lastMessage=millis();"
+    ],
+    "title": [
+      "Finally, the user is informed that the e-mail has been sent: Serial.println(\"Email sent.\"); Next, you store the current value of millis() in lastMessage as you will use that later to see if the specified interval has passed or not in-between message sends"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ethernet.begin(mac, ip); Serial.begin(9600);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "client.println(\"GET /xml/current_obs/KEDW.xml HTTP/1.0\"); client.println(); delay(2000);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (matchTag(\"<temp_c>\")) { Serial.print(\", TempC: \"); Serial.print(dataStr);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "clearStr(tmpStr); clearStr(tagStr); clearStr(dataStr);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (dataFlag) { clearStr(dataStr); strcpy(dataStr,dataMsg);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1-wire"
+    ],
+    "note": [
+      "email alert system, 384–393 traffic lights, 34–37 Ethernet shield, 359–367 Twitterbot, 393–401 interactive LED chase effect, 54–57 ultrasonic alarm, 305–312 interactive traffic lights, 38–48 ultrasonic distance display, 298–305 Internet weather display, 368–383 ultrasonic rangefinder, 293–298 joystick servo control, 201–206 ultrasonic theremin, 312–314 L293D motor driver IC, 104–108 Arduino Tools menu, 9"
+    ],
+    "pages": [
+      "272–278"
+    ],
+    "title": [
+      "digital temperature sensor, serial controlled mood lamp, 68–79 283–291 serial temperature sensor, 279–283 access control system, 347–356 servo control, 192–196 basic touch screen, 259–266 shift register 8-bit binary counter, DC motor control, 99–104 111–124 digital barograph, 245–257 stepper control, 207–213 digital pressure sensor, 231–245 temperature SD datalogger, 327–340 dual 8-bit binary counters, 124–128 touch screen keypad, 266–272 dual servo control, 196–201 touch screen light controller"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "code overview, 295–296 touch(",
+      "hardware overview, 297 traffic lights, 34–37 parts required, 293 code, 36–37 project code, 294–295 connections, 35–36 ultrasonic theremin, 312 parts required, 35 code overview, 313–314 transistors, for DC motor control, 99, project code, 312–313"
+    ],
+    "pages": [
+      "270",
+      "277– 278"
+    ],
+    "title": [
+      "code overview, 276–278 ultrasonic distance display parts required, 272–273 circuit connections, 299–301 project code, 274, 276 code overview, 303–305 resistive, 262 parts required, 298–299 touch screen keypad, 266 project code, 301–303 circuit connections, 267–268 ultrasonic rangefinder, 293–315 code overview, 270–272 simple parts required, 266–267 circuit connections, 293–294 project code"
+    ],
+    "type": null,
+    "volume": [
+      "268",
+      "function,264"
+    ]
+  }
+]

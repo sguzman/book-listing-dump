@@ -1,0 +1,238 @@
+[
+  {
+    "location": [
+      "Evanston, IL"
+    ],
+    "note": [
+      "3. Bar cores are typically used because of cost. Appendix F. Miscellaneous Information"
+    ],
+    "title": [
+      "Differential-mode chokes 1. These are wound on separate cores (not mutually coupled). 2. Use a powdered iron material such as available from MicroMetals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ben-Yaakov",
+        "given": "Sam"
+      },
+      {
+        "family": "Ivensky",
+        "given": "Gregory"
+      }
+    ],
+    "container-title": [
+      "Seminar"
+    ],
+    "pages": [
+      "99"
+    ],
+    "title": [
+      "Passive Lossless Snubbers for High Frequency PWM Converters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laszlo",
+        "given": "Balogh"
+      }
+    ],
+    "container-title": [
+      "Seminar APEC99"
+    ],
+    "date": [
+      "1999-03"
+    ],
+    "title": [
+      "Practical Considerations for MOSFET Gate Drive Techniques in High Speed, Switch-mode Applications"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "Marty"
+      }
+    ],
+    "container-title": [
+      "Electronic Design"
+    ],
+    "date": [
+      "1999-12-06"
+    ],
+    "title": [
+      "Laying Out PC Boards for Embedded Switching Supplies"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "Marty"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Practical Switching Power Supply Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Carsten",
+        "given": "Bruce"
+      }
+    ],
+    "container-title": [
+      "Seminar APEC99"
+    ],
+    "date": [
+      "1999-03"
+    ],
+    "title": [
+      "Avoiding the EMI Accident"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Carsten",
+        "given": "Bruce"
+      }
+    ],
+    "container-title": [
+      "High Frequency Power Conversion Conference"
+    ],
+    "date": [
+      "1986-05"
+    ],
+    "title": [
+      "Switchmode Design Techniques Above 500 kHz"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Carsten",
+        "given": "Bruce"
+      }
+    ],
+    "container-title": [
+      "High Frequency Power Conversion Conference"
+    ],
+    "date": [
+      "1986-05"
+    ],
+    "title": [
+      "High Frequency Losses in Switchmode Magnetics"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "Alan"
+      },
+      {
+        "family": "Mohan",
+        "given": "Brij"
+      },
+      {
+        "family": "Sapp",
+        "given": "Steve"
+      },
+      {
+        "family": "Bencuya",
+        "given": "Izak"
+      },
+      {
+        "family": "Hong",
+        "given": "Linh"
+      }
+    ],
+    "container-title": [
+      "Fairchild Ap Note AN1026"
+    ],
+    "date": [
+      "1996-04"
+    ],
+    "title": [
+      "Maximum Power Enhancement Techniques for SuperSOT-6 Power MOSFETs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert F."
+      }
+    ],
+    "container-title": [
+      "Cannon Communications"
+    ],
+    "pages": [
+      "103–107"
+    ],
+    "title": [
+      "Harmonic Currents, Compliance Engineering—1999 Annual Resources Guide"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "LLC"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Venable",
+        "given": "H.Dean"
+      }
+    ],
+    "container-title": [
+      "POWERCON"
+    ],
+    "date": [
+      "1983-03"
+    ],
+    "title": [
+      "The K Factor: A New Mathematical Tool for Stability Analysis and Synthesis"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "high PCBs (printed circuit boards), 8–9, 93, efficiency, 163–82 142, 231, 248 Power supply design examples, linear, creating for switching power supplies, 14–20 99–100 Power Supply design examples, switching, laying out, 93–100 100–33 PFC circuits, designing, 224–25 Power supply efficiency, waveshaping PFCs (power factor corrections), 85, improves switching, 135–85"
+    ],
+    "title": [
+      "Output sensing, multiple, 77–78 generalized design approach to, 8–9 Output stages grounds inside switching, 96–98 active, 60–61 magnetic theory applied to switching, designing, 56–63 232–36 passive, 58–59 miscellaneous functions associated Output voltage shut-down, 93 with, 90–93 Overcurrent protection parasitic elements within switching, circuits, 183–85 142–43 pulse-to-pulse, 73 PWM (pulsewidth modulated) Overload protection, constant power switching, 21–133 form of, 74 QR (quasi-resonant) switching, 151–62 role of, 1–10 P software, 9 Parasitic behavior, major sources of, 144 stability criteria applied to switching, Parasitic elements within all converters, 205–6 142–43 synchronization to external sources, Parts, surface mount thermal, 192–93 90–91 Passive lossless snubbers, 146–48 topologies of PWM switching, 28–34 Passive output stages, 58–59 Power supply control, switching, 71–75 Passive rectification, 57 Power supply design examples"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "pulsewidth modulated), 21–133 of winding, 246 QR (quasi-resonant), 151–62 Sensing stability criteria applied to, 205–6 current, 85, 229 topologies of PWM, 28–34 instantaneous current, 71–72 topologies of QR, 156–58 multiple output, 77–78 Switching power supply design, buildingvoltage, 75–80 block approach to PWM, 26–28"
+    ],
+    "title": [
+      "Secondary windings, 42 magnetic theory applied to, 232–36 Self-resonance parasitic elements within, 142–43 Q of filter at, 246 PWM"
+    ],
+    "type": null
+  }
+]
