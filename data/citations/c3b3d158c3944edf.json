@@ -1,0 +1,8636 @@
+[
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "R."
+      },
+      {
+        "family": "Biham",
+        "given": "E."
+      },
+      {
+        "family": "Knudsen",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Proceedings of the First AES Candidate Conference"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "National Institute of Standard and Technology, Ventura"
+    ],
+    "title": [
+      "Serpent: A Proposal for the Advanced Encryption Standard"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Biham",
+        "given": "E."
+      },
+      {
+        "family": "Anderson",
+        "given": "R."
+      },
+      {
+        "given": "Knudsen"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "FSE 1998. LNCS"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Vaudenay",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "pages": [
+      "222–238"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "L.R.: Serpent: A New Block Cipher Proposal"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1372"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crenne",
+        "given": "J."
+      },
+      {
+        "family": "Cotret",
+        "given": "P."
+      },
+      {
+        "family": "Gogniat",
+        "given": "G."
+      },
+      {
+        "family": "Tessier",
+        "given": "R."
+      },
+      {
+        "given": "Diguet"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "2011 International Conference on Field-Programmable Technology (FPT"
+    ],
+    "date": [
+      "2011-12"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "title": [
+      "J.P.: Efficient Key-Dependent Message Authentication in Reconfigurable Hardware"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dworkin",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2004"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "publisher": [
+      "NIST"
+    ],
+    "title": [
+      "Recommendations for Block Cipher Modes of Operation: The CCM Mode for Authentication and Confidentiality"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Dworkin",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2007"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "publisher": [
+      "NIST"
+    ],
+    "title": [
+      "Recommendations for Block Cipher Modes of Operation: Galois/Counter Mode (GCM) and GMAC"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Henzen",
+        "given": "L."
+      },
+      {
+        "family": "Fichtner",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "2010 Proceedings of the ESSCIRC"
+    ],
+    "date": [
+      "2010-09"
+    ],
+    "pages": [
+      "202–205"
+    ],
+    "title": [
+      "FPGA Parallel-Pipelined AES-GCM Core for 100G Ethernet Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "note": [
+      "Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications (June 2007"
+    ],
+    "title": [
+      "IEEE Std 802.11-2007: IEEE Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements - Part 11"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "EUROCRYPT 2001. LNCS"
+    ],
+    "date": [
+      "2001"
+    ],
+    "editor": [
+      {
+        "family": "Pfitzmann",
+        "given": "B."
+      }
+    ],
+    "location": [
+      "Jutla, C.S",
+      "Heidelberg"
+    ],
+    "pages": [
+      "529–544"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Encryption Modes with Almost Free Message Integrity"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2045"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krovetz",
+        "given": "T."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "FSE 2011. LNCS"
+    ],
+    "date": [
+      "2011"
+    ],
+    "editor": [
+      {
+        "family": "Joux",
+        "given": "A."
+      }
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "pages": [
+      "306–327"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Software Performance of Authenticated-Encryption Modes"
+    ],
+    "type": "chapter",
+    "volume": [
+      "6733"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McGrew",
+        "given": "D.A."
+      },
+      {
+        "family": "Viega",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "NIST Modes Operation Symmetric Key Block Ciphers"
+    ],
+    "title": [
+      "The Galois/Counter Mode of Operation (GCM"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Muehlberghuber",
+        "given": "M."
+      },
+      {
+        "family": "Keller",
+        "given": "C."
+      },
+      {
+        "family": "Felber",
+        "given": "N."
+      },
+      {
+        "family": "Pendl",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "2012 IEEE/IFIP 20th International Conference on VLSI and System-on-Chip (VLSI-SoC"
+    ],
+    "date": [
+      "2012-10"
+    ],
+    "pages": [
+      "123–128"
+    ],
+    "title": [
+      "100 Gbit/s Authenticated Encryption Based on Quantum Key Distribution"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Nechvatal",
+        "given": "J."
+      },
+      {
+        "family": "Barker",
+        "given": "E."
+      },
+      {
+        "family": "Bassham",
+        "given": "L."
+      },
+      {
+        "family": "Burr",
+        "given": "W."
+      },
+      {
+        "family": "Dworkin",
+        "given": "M."
+      },
+      {
+        "family": "Foti",
+        "given": "J."
+      },
+      {
+        "family": "Roback",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "NIST"
+    ],
+    "publisher": [
+      "National Institute of Standards and Technology"
+    ],
+    "title": [
+      "Report on the Development of the Advanced Encryption Standard (AES"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "N.I.S.T."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "genre": [
+      "(FIPS PUB 197)."
+    ],
+    "publisher": [
+      "National Institute of Standards and Technology"
+    ],
+    "title": [
+      "Advanced Encryption Standard (AES"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Licenses",
+        "given": "O.C.B.Free"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2013"
+    ],
+    "note": [
+      "accessed March 05, 2013) FPGA-Based High-Speed Authenticated Encryption System 19"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.ucdavis.edu/~rogaway/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Black",
+        "given": "J."
+      },
+      {
+        "family": "Krovetz",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "ACM Conference on Computer and Communications Security"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "196–205"
+    ],
+    "title": [
+      "OCB: A Block-Cipher Mode of Operation for Efficient Authenticated Encryption"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Viega",
+        "given": "J."
+      },
+      {
+        "family": "Mcgrew",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "RFC"
+    ],
+    "note": [
+      "4106 (Proposed Standard) (June 2005"
+    ],
+    "title": [
+      "The Use of Galois/Counter Mode (GCM) in IPsec Encapsulating Security Payload (ESP"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Shou",
+        "given": "G."
+      },
+      {
+        "family": "Hu",
+        "given": "Y."
+      },
+      {
+        "given": "Guo"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "2010 IEEE International Conference on Wireless Communications, Networking and Information Security (WCNIS"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "582–586"
+    ],
+    "title": [
+      "Z.: High-speed architectures for GHASH based on efficient bit-parallel multipliers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Whiting",
+        "given": "D."
+      },
+      {
+        "family": "Housley",
+        "given": "R."
+      },
+      {
+        "given": "Ferguson"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "note": [
+      "N.: Counter with CBC-MAC (CCM). RFC 3610 (Informational) (September 2003"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "G."
+      },
+      {
+        "family": "Michalik",
+        "given": "H."
+      },
+      {
+        "family": "Hinsenkamp",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "ARC 2009. LNCS"
+    ],
+    "date": [
+      "2009"
+    ],
+    "editor": [
+      {
+        "family": "Becker",
+        "given": "J."
+      },
+      {
+        "family": "Woods",
+        "given": "R."
+      },
+      {
+        "family": "Athanas",
+        "given": "P."
+      },
+      {
+        "family": "Morgan",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "pages": [
+      "193–203"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Improving Throughput of AES-GCM with Pipelined Karatsuba Multipliers on FPGAs"
+    ],
+    "type": "chapter",
+    "volume": [
+      "5453"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agi",
+        "given": "I."
+      },
+      {
+        "family": "Hurst",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "210–221"
+    ],
+    "title": [
+      "Current, K.W.: An Image Processing IC for Backprojection and Spatial Histogramming in a Pipelined Array"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Srdjan",
+        "given": "C."
+      },
+      {
+        "family": "Miriam",
+        "given": "L."
+      },
+      {
+        "family": "Miller",
+        "given": "E."
+      },
+      {
+        "family": "Trepanier",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "FPGA"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Parallel-Beam Backprojection: An FPGA Implementation Optimized for Medical Imaging"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "C."
+      },
+      {
+        "family": "Cho",
+        "given": "Z."
+      },
+      {
+        "given": "Wang"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Transactions on Nuclear Science"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "3328–3334"
+    ],
+    "title": [
+      "C.: A Fast Implementation of the Incremental Backprojection Algorithms for Parallel Beam Geometries"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Q."
+      },
+      {
+        "family": "Turnerz",
+        "given": "E.L."
+      },
+      {
+        "family": "Bergery",
+        "given": "C.R."
+      },
+      {
+        "family": "Pileggi",
+        "given": "L."
+      },
+      {
+        "family": "Franchetti",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Conference on High Performance Extreme Computing, HPEC"
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Application-Specific Logic-in-Memory for Polar Format Synthetic Aperture Radar"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Q."
+      },
+      {
+        "family": "Pileggi",
+        "given": "L."
+      },
+      {
+        "family": "Franchetti",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Q."
+      },
+      {
+        "family": "Bergery",
+        "given": "C.R."
+      },
+      {
+        "family": "Turnerz",
+        "given": "E.L."
+      },
+      {
+        "family": "Pileggi",
+        "given": "L."
+      },
+      {
+        "family": "Franchetti",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP"
+    ],
+    "date": [
+      "2012"
+    ],
+    "pages": [
+      "1557–1560"
+    ],
+    "title": [
+      "Polar Format Synthetic Aperture Radar in Energy Efficient Application-Specific Logic-in-Memory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Morris",
+        "given": "D."
+      },
+      {
+        "family": "Rovner",
+        "given": "V."
+      },
+      {
+        "family": "Pileggi",
+        "given": "L."
+      },
+      {
+        "family": "Strojwas",
+        "given": "A."
+      },
+      {
+        "family": "Vaidyanathan",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "Symp. VLSI Technology"
+    ],
+    "title": [
+      "Enabling Application-Specific Integrated Circuits on Limited Pattern Constructs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morris",
+        "given": "D."
+      },
+      {
+        "family": "Vaidyanathan",
+        "given": "K."
+      },
+      {
+        "family": "Lafferty",
+        "given": "N."
+      },
+      {
+        "family": "Lai",
+        "given": "K."
+      },
+      {
+        "family": "Liebmann",
+        "given": "L."
+      },
+      {
+        "family": "Pileggi",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "Symp. VLSI Technology"
+    ],
+    "title": [
+      "Design of embedded memory and logic based on pattern constructs"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proceedings of the XI Brazilian Symposium on Integrated Circuit Design"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Luiz, M.C.B., Felipe, M.G.F., Vladimir, C.A., Claudio, L.A"
+    ],
+    "pages": [
+      "19–24"
+    ],
+    "title": [
+      "Reconfigurable Hardware for Tomographic Processing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Jang",
+        "given": "B."
+      },
+      {
+        "family": "Kaeli",
+        "given": "D."
+      },
+      {
+        "family": "Do",
+        "given": "S."
+      },
+      {
+        "family": "Pien",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "International Symposium on Biomedical Imaging (ISBI"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "185–188"
+    ],
+    "title": [
+      "Multi GPU Implementation of Iterative Tomographic Reconstruction Algorithm"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Yu"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Master Thesis"
+    ],
+    "title": [
+      "H.Q.: Memory Architecture for Data Intensive Image Processing Algorithms in Reconfigurable Hardware"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "given": "Algorithm"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE Transactions on Medical Image"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Cho, Z.H., Chen, C.M., Lee, S.Y"
+    ],
+    "pages": [
+      "207–217"
+    ],
+    "publisher": [
+      "Incremental"
+    ],
+    "title": [
+      "A New Fast Backprojection Scheme for Parallel Beam Geometries"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "Q.L."
+      },
+      {
+        "family": "Vaidyanathan",
+        "given": "K."
+      },
+      {
+        "family": "Shachamy",
+        "given": "O."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M."
+      },
+      {
+        "family": "Pileggi",
+        "given": "L."
+      },
+      {
+        "family": "Franchetti",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Application-Specific Systems, Architectures and Processors (ASAP"
+    ],
+    "date": [
+      "2012"
+    ],
+    "pages": [
+      "125–132"
+    ],
+    "title": [
+      "Design Automation Framework for Application-Specific Logic-in-Memory Blocks"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Murachi",
+        "given": "Y."
+      },
+      {
+        "family": "Kamino",
+        "given": "T."
+      },
+      {
+        "family": "Miyakoshi",
+        "given": "J."
+      },
+      {
+        "family": "Kawaguchi",
+        "given": "H."
+      },
+      {
+        "given": "Yoshimoto"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE International Symposium on VLSI Design, Automation and Test (VLSI-DAT"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "63–66"
+    ],
+    "title": [
+      "M.: A Power-Efficient SRAM Core Architecture with Segmentation-Free and Rectangular Accessibility for Super-Parallel Video Processing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hinkle",
+        "given": "E.B."
+      },
+      {
+        "family": "Sanz",
+        "given": "J.L.C."
+      },
+      {
+        "family": "Jain",
+        "given": "A.K."
+      },
+      {
+        "family": "Petkovic",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Journal of Parallel and Distributed Computing"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "45–78"
+    ],
+    "title": [
+      "P3E: New life for projectionbased image processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shacham",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2011"
+    ],
+    "genre": [
+      "PhD Thesis,"
+    ],
+    "publisher": [
+      "Stanford"
+    ],
+    "title": [
+      "Chip multiprocessor generator: automatic generation of custom and heterogeneous compute platforms"
+    ],
+    "type": "thesis"
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "title": [
+      "Stanford genesis2 web site, http://genesis2.stanford.edu/mediawiki/index.php Trinocular Stereo Vision Using a Multi Level Hierarchical Classification Structure*"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mozerov",
+        "given": "M."
+      },
+      {
+        "family": "Gonzalez",
+        "given": "J."
+      },
+      {
+        "family": "Roca",
+        "given": "X."
+      },
+      {
+        "given": "Villanueva"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "16th IEEE International Conference on Image Processing, Proceedings IEEE ICIP 2009"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "2089–2092"
+    ],
+    "title": [
+      "J.J.: Trinocular stereo matching with composite disparity space image"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ueshiba",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "18th International Conference on Pattern Recognition, Proceedings IEEE ICPR 2006"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1076–1079"
+    ],
+    "title": [
+      "An efficient implementation technique of bidirectional matching for real-time trinocular stereo vision"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yoon",
+        "given": "K.J."
+      },
+      {
+        "given": "Kweon"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Trans. PAMI"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "650–656"
+    ],
+    "title": [
+      "I.S.: Adaptive support-weight approach for correspondence search"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motten",
+        "given": "A."
+      },
+      {
+        "given": "Claesen"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings IEEE VLSI-SOC 2010, 18th IEEE/IFIP International Conference on VLSI and System-on-Chip"
+    ],
+    "date": [
+      "September 27-29",
+      "2010"
+    ],
+    "location": [
+      "Madrid"
+    ],
+    "pages": [
+      "25–30"
+    ],
+    "title": [
+      "L.: A Binary Adaptable Window SoC Architecture for a Stereo Based Depth Field Processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu",
+        "given": "X."
+      },
+      {
+        "family": "Mordohai",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proceedings IEEE CVPR 2010, 23rd IEEE Conference on Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "1466–1473"
+    ],
+    "title": [
+      "Evaluation of stereo confidence indoors and outdoors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Motten",
+        "given": "A."
+      },
+      {
+        "family": "Claesen",
+        "given": "L."
+      },
+      {
+        "family": "Pan",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proceedings IEEE ACPR 2011, 1st Asian Conference on Pattern Recognition"
+    ],
+    "date": [
+      "November 28-30",
+      "2011"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "pages": [
+      "456–460"
+    ],
+    "title": [
+      "Binary confidence evaluation for a stereo vision based depth field processor SoC"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Jin",
+        "given": "S."
+      },
+      {
+        "family": "Cho",
+        "given": "J."
+      },
+      {
+        "family": "Pham",
+        "given": "X.D."
+      },
+      {
+        "family": "Lee",
+        "given": "K.M."
+      },
+      {
+        "family": "Park",
+        "given": "S.-K."
+      },
+      {
+        "given": "Jeon"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuits and Systems for Video Technology"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "15–26"
+    ],
+    "title": [
+      "J.W.: FPGA Design and Implementation of a Real-Time Stereo Vision System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motten",
+        "given": "A."
+      },
+      {
+        "family": "Claesen",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proceedings IEEE ICMT 2011, International Conference on Multimedia Technology"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "3559–3562"
+    ],
+    "title": [
+      "Low-cost real-time stereo vision hardware with binary confidence metric and disparity refinement"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "M."
+      },
+      {
+        "family": "Jia",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Proceedings IEEE/RSJ IROS 2006, International Conference on Intelligent Robots and Systems"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1359–1365"
+    ],
+    "title": [
+      "Stereo vision system on programmable chip (SVSoC) for small robot navigation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Scharstein",
+        "given": "D."
+      },
+      {
+        "given": "Szeliski"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "International Journal of Computer Vision"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "7–42"
+    ],
+    "title": [
+      "R.: A taxonomy and evaluation of dense two-frame stereo correspondence algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Scharstein",
+        "given": "D."
+      },
+      {
+        "family": "Szeliski",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proceedings IEEE CVPR 2003, IEEE Conference on Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "195–202"
+    ],
+    "title": [
+      "High-accuracy stereo depth maps using structured light"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hirschmüller",
+        "given": "H."
+      },
+      {
+        "family": "Scharstein",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings IEEE CVPR 2007, International Conference on Computer Vision and Pattern Recognition"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "1–8"
+    ],
+    "title": [
+      "Evaluation of cost functions for stereo matching"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Malvar",
+        "given": "H."
+      },
+      {
+        "family": "He",
+        "given": "L."
+      },
+      {
+        "family": "Cutler",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proceedings IEEE ICASSP 2004, IEEE International Conference on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "485–488"
+    ],
+    "title": [
+      "High-Quality Linear Interpolation for Demosaicing of Bayer-Patterned Color Images"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "May 17-21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Proceedings IEEE ICCV 1999, 7th IEEE International Conference on Computer Vision, Kerkyra"
+    ],
+    "date": [
+      "September 20-25",
+      "1999"
+    ],
+    "pages": [
+      "666–673"
+    ],
+    "title": [
+      "Flexible Camera Calibration by Viewing a Plane from Unknown Orientations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Motten",
+        "given": "A."
+      },
+      {
+        "family": "Claesen",
+        "given": "L."
+      },
+      {
+        "family": "Pan",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proceedings IEEE ICCD 2010, 30th IEEE International Conference on Computer Design, Montreal"
+    ],
+    "date": [
+      "2010"
+    ],
+    "note": [
+      "Spatially-Varying Image Warping: Evaluations and VLSI Implementations"
+    ],
+    "pages": [
+      "466–471"
+    ],
+    "title": [
+      "Adaptive Memory Architecture for Real-Time Image Warping"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "September 30-October 3"
+    ]
+  },
+  {
+    "title": [
+      "Keywords: image-based rendering, EWA splatting, bicubic resampling, video processing, anti-aliasing, interpolation quality, complexity evaluation, caching, VLSI"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Akenine-Moller",
+        "given": "T."
+      },
+      {
+        "family": "Haines",
+        "given": "E."
+      },
+      {
+        "family": "Hoffman",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "AK Peters"
+    ],
+    "title": [
+      "Real-time rendering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Asari",
+        "given": "K.V."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Journal of Systems Architecture"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "743–755"
+    ],
+    "title": [
+      "Design of an efficient vlsi architecture for non-linear spatial warping of wide-angle camera images"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.sciencedirect.com/science/article/pii/S1383762104000682"
+    ],
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "F.J."
+      },
+      {
+        "family": "Tseng",
+        "given": "Y.C."
+      },
+      {
+        "given": "Chang"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "2011 IEEE Visual Communications and Image Processing (VCIP"
+    ],
+    "date": [
+      "2011-11"
+    ],
+    "note": [
+      "Spatially-Varying Image Warping 87"
+    ],
+    "pages": [
+      "1–4"
+    ],
+    "title": [
+      "T.S.: A 94fps view synthesis engine for HD1080p video"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cummings",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "SNUG 2002 (Synopsys Users Group Conference"
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "title": [
+      "Simulation and synthesis techniques for asynchronous fifo design",
+      "User Papers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Do",
+        "given": "M."
+      },
+      {
+        "family": "Nguyen",
+        "given": "Q."
+      },
+      {
+        "family": "Nguyen",
+        "given": "H."
+      },
+      {
+        "family": "Kubacki",
+        "given": "D."
+      },
+      {
+        "family": "Patel",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Signal Processing Magazine"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "58–66"
+    ],
+    "title": [
+      "Immersive visual communication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Farre",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "O."
+      },
+      {
+        "family": "Lang",
+        "given": "M."
+      },
+      {
+        "family": "Stefanoski",
+        "given": "N."
+      },
+      {
+        "family": "Hornung",
+        "given": "A."
+      },
+      {
+        "family": "Smolic",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "2011 IEEE International Conference on Multimedia and Expo (ICME"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "Automatic content creation for multiview autostereoscopic displays using image domain warping"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Greisen",
+        "given": "P."
+      },
+      {
+        "family": "Heinzle",
+        "given": "S."
+      },
+      {
+        "family": "Gross",
+        "given": "M."
+      },
+      {
+        "family": "Burg",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "EURASIP Journal on Image and Video Processing"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "18"
+    ],
+    "title": [
+      "An FPGA-based processing pipeline for high-definition stereo video"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2011"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Greisen",
+        "given": "P."
+      },
+      {
+        "family": "Emler",
+        "given": "R."
+      },
+      {
+        "family": "Schaffner",
+        "given": "M."
+      },
+      {
+        "family": "Heinzle",
+        "given": "S."
+      },
+      {
+        "given": "Gurkaynak"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "2012 IEEE/IFIP 20th International Conference on VLSI and System-on-Chip (VLSI-SoC"
+    ],
+    "date": [
+      "2012-10"
+    ],
+    "pages": [
+      "105–110"
+    ],
+    "title": [
+      "F.: A generaltransformation EWA view rendering engine for 1080p video in 130 nm CMOS"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Greisen",
+        "given": "P."
+      },
+      {
+        "family": "Schaffner",
+        "given": "M."
+      },
+      {
+        "family": "Heinzle",
+        "given": "S."
+      },
+      {
+        "family": "Runo",
+        "given": "M."
+      },
+      {
+        "family": "Smolic",
+        "given": "A."
+      },
+      {
+        "family": "Burg",
+        "given": "A."
+      },
+      {
+        "family": "Kaeslin",
+        "given": "H."
+      },
+      {
+        "family": "Gross",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Transactions on Circuits and Systems for Video Technology"
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "accepted"
+    ],
+    "title": [
+      "Analysis and vlsi implementation of ewa rendering for real-time hd video applications"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Heckbert",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1989"
+    ],
+    "genre": [
+      "Masters thesis,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "Univ. of California",
+      "Dept. of Electrical Eng. and Computer Science"
+    ],
+    "title": [
+      "Fundamentals of Texture Mapping and Image Warping"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Horng",
+        "given": "Y.R."
+      },
+      {
+        "family": "Tseng",
+        "given": "Y.C."
+      },
+      {
+        "given": "Chang"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuits and Systems for Video Technology"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1329–1340"
+    ],
+    "title": [
+      "T.S.: VLSI architecture for real-time HD 1080p view synthesis engine"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuits and Systems for Video Technology"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "10"
+    ],
+    "location": [
+      "Huang, C.C., Chen, P.Y., Ma, C.H"
+    ],
+    "pages": [
+      "1512–1525"
+    ],
+    "title": [
+      "A novel interpolation chip for real-time multimedia applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krähenbühl",
+        "given": "P."
+      },
+      {
+        "family": "Lang",
+        "given": "M."
+      },
+      {
+        "family": "Hornung",
+        "given": "A."
+      },
+      {
+        "given": "Gross"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "ACM Transactions on Graphics (TOG"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "1–10"
+    ],
+    "title": [
+      "M.: A system for retargeting of streaming video"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "M."
+      },
+      {
+        "family": "Hornung",
+        "given": "A."
+      },
+      {
+        "family": "Wang",
+        "given": "O."
+      },
+      {
+        "family": "Poulakos",
+        "given": "S."
+      },
+      {
+        "family": "Smolic",
+        "given": "A."
+      },
+      {
+        "family": "Gross",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "ACM Trans. on Graphics (Proc. SIG-GRAPH"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "3"
+    ],
+    "title": [
+      "Nonlinear disparity mapping for stereoscopic 3D"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "C."
+      },
+      {
+        "family": "Sheu",
+        "given": "M."
+      },
+      {
+        "family": "Chiang",
+        "given": "H."
+      },
+      {
+        "family": "Wu",
+        "given": "Z."
+      },
+      {
+        "family": "Tu",
+        "given": "J."
+      },
+      {
+        "given": "Chen"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "International Conference on Embedded Software and Systems, ICESS 2008"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "196–202"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "C.: A low-cost VLSI design of extended linear interpolation for real time digital image processing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lomont",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "publisher": [
+      "Purdue University"
+    ],
+    "title": [
+      "Fast inverse square root"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.lomont.org/Math/Papers/2003/InvSqrt.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oh",
+        "given": "S."
+      },
+      {
+        "family": "Kim",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Transactions on Consumer Electronics"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "2053–2059"
+    ],
+    "title": [
+      "Fpga-based fast image warping with data-parallelization schemes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Szeliski",
+        "given": "R."
+      },
+      {
+        "family": "Winder",
+        "given": "S."
+      },
+      {
+        "family": "Uyttendaele",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "2010"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "publisher": [
+      "Microsoft Research"
+    ],
+    "title": [
+      "High-quality multi-pass image resampling"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanimoto",
+        "given": "M."
+      },
+      {
+        "family": "Tehrani",
+        "given": "M."
+      },
+      {
+        "family": "Fujii",
+        "given": "T."
+      },
+      {
+        "family": "Yendo",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Signal Processing Magazine"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "67–76"
+    ],
+    "title": [
+      "Free-viewpoint tv"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Triggs",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "International Conference on Computer Vision (ICCV"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "550–557"
+    ],
+    "title": [
+      "Empirical filter estimation for subpixel interpolation and matching"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wolberg",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "Digital image warping"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zwicker",
+        "given": "M."
+      },
+      {
+        "family": "Pfister",
+        "given": "H."
+      },
+      {
+        "family": "Baar",
+        "given": "J.V."
+      },
+      {
+        "family": "Gross",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "IEEE Transactions on Visualization and Computer Graphics"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "An Ultra-Low-Power Application-Specific Processor with Sub-VT Memories for Compressed Sensing"
+    ],
+    "pages": [
+      "223–238"
+    ],
+    "title": [
+      "EWA splatting"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Constantin",
+        "given": "J."
+      },
+      {
+        "family": "Dogan",
+        "given": "A."
+      },
+      {
+        "family": "Andersson",
+        "given": "O."
+      },
+      {
+        "family": "Meinerzhagen",
+        "given": "P."
+      },
+      {
+        "family": "Rodrigues",
+        "given": "J."
+      },
+      {
+        "family": "Atienza",
+        "given": "D."
+      },
+      {
+        "family": "Burg",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "2012 IEEE/IFIP 20th International Conference on VLSI and System-on-Chip (VLSI-SoC"
+    ],
+    "date": [
+      "2012"
+    ],
+    "pages": [
+      "159–164"
+    ],
+    "title": [
+      "TamaRISC-CS: An ultra-low-power application-specific processor for compressed sensing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Donoho"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. on Information Theory"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1289–1306"
+    ],
+    "title": [
+      "D.L.: Compressed sensing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mamaghanian",
+        "given": "H."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE TBME"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "2456–2466"
+    ],
+    "title": [
+      "Compressed sensing for real-time energy-efficient ECG compression on wireless body sensor nodes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jocke",
+        "given": "S.C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Symposium on VLSI Circuits"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "60–61"
+    ],
+    "title": [
+      "A 2.6-uw sub-threshold mixed-signal ecg soc"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1145–1155"
+    ],
+    "title": [
+      "A low-voltage processor for sensing applications with picowatt standby mode"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kwong",
+        "given": "J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "ISSCC"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "318–616"
+    ],
+    "title": [
+      "A 65nm sub-vt microcontroller with integrated sram and switched-capacitor dc-dc converter"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dogan",
+        "given": "A.Y."
+      },
+      {
+        "family": "Atienza",
+        "given": "D."
+      },
+      {
+        "family": "Burg",
+        "given": "A."
+      },
+      {
+        "family": "Loi",
+        "given": "I."
+      },
+      {
+        "family": "Benini",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "PATMOS 2011. LNCS"
+    ],
+    "date": [
+      "2011"
+    ],
+    "editor": [
+      {
+        "family": "Ayala",
+        "given": "J.L."
+      },
+      {
+        "family": "Garcıa-Camara",
+        "given": "B."
+      },
+      {
+        "family": "Prieto",
+        "given": "M."
+      },
+      {
+        "family": "Ruggiero",
+        "given": "M."
+      },
+      {
+        "family": "Sicard",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "pages": [
+      "102–111"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Power/Performance exploration of single-core and multi-core processor approaches for biomedical signal processing"
+    ],
+    "type": "chapter",
+    "volume": [
+      "6951"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hanson",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "881–891"
+    ],
+    "title": [
+      "Exploring variability and performance in a sub-200-mV processor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhai",
+        "given": "B."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "In"
+    ],
+    "pages": [
+      "154–155"
+    ],
+    "publisher": [
+      "IEEE VLSI"
+    ],
+    "title": [
+      "A 2.60pJ/Inst subthreshold sensor processor for optimal energy efficiency"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dreslinski",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proc. IEEE"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "253–266"
+    ],
+    "title": [
+      "Near-threshold computing: Reclaiming Moore’s law through energy efficient integrated circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "98"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Banz",
+        "given": "C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2011-09"
+    ],
+    "location": [
+      "In"
+    ],
+    "pages": [
+      "169–175"
+    ],
+    "publisher": [
+      "ASAP"
+    ],
+    "title": [
+      "Instruction set extension for high throughput disparity estimation in stereo image processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kwong",
+        "given": "J."
+      },
+      {
+        "given": "Chandrakasan"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "1742–1753"
+    ],
+    "title": [
+      "A.: An energy-efficient biomedical signal processing platform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dogan",
+        "given": "A.Y."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "2012"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "DATE"
+    ],
+    "title": [
+      "Multi-core architecture design for ultra-low-power wearable health monitoring systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Qazi",
+        "given": "M."
+      },
+      {
+        "family": "Sinangil",
+        "given": "M."
+      },
+      {
+        "given": "Chandrakasan"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Design and Test of Computers"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "32–43"
+    ],
+    "title": [
+      "A.: Challenges and directions for low-voltage SRAM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mukhopadhyay",
+        "given": "S."
+      },
+      {
+        "family": "Mahmoodi",
+        "given": "H."
+      },
+      {
+        "family": "Roy",
+        "given": "K."
+      },
+      {
+        "family": "Chang",
+        "given": "L."
+      },
+      {
+        "family": "Fried",
+        "given": "D."
+      },
+      {
+        "family": "Hergenrother",
+        "given": "J."
+      },
+      {
+        "family": "Sleight",
+        "given": "J."
+      },
+      {
+        "family": "Dennard",
+        "given": "R."
+      },
+      {
+        "family": "Montoye",
+        "given": "R."
+      },
+      {
+        "family": "Sekaric",
+        "given": "L."
+      },
+      {
+        "family": "McNab",
+        "given": "S."
+      },
+      {
+        "family": "Topol",
+        "given": "A."
+      },
+      {
+        "family": "Adams",
+        "given": "C."
+      },
+      {
+        "family": "Guarini",
+        "given": "K."
+      },
+      {
+        "given": "Haensch"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "2005 Symposium on VLSI Technology. Digest of Technical Papers",
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "J. Constantin et al"
+    ],
+    "issue": [
+      "12"
+    ],
+    "note": [
+      "June 2005"
+    ],
+    "pages": [
+      "1859–1880 106",
+      "128–129"
+    ],
+    "title": [
+      "Modeling of failure probability and statistical design of SRAM array for yield enhancement in nanoscaled CMOS",
+      "W.: Stable SRAM cell design for the 32 nm node and beyond"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24",
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jain",
+        "given": "S."
+      },
+      {
+        "family": "Khare",
+        "given": "S."
+      },
+      {
+        "family": "Yada",
+        "given": "S."
+      },
+      {
+        "family": "Ambili",
+        "given": "V."
+      },
+      {
+        "family": "Salihundam",
+        "given": "P."
+      },
+      {
+        "family": "Ramani",
+        "given": "S."
+      },
+      {
+        "family": "Muthukumar",
+        "given": "S."
+      },
+      {
+        "family": "Srinivasan",
+        "given": "M."
+      },
+      {
+        "family": "Kumar",
+        "given": "A."
+      },
+      {
+        "family": "Gb",
+        "given": "S."
+      },
+      {
+        "family": "Ramanarayanan",
+        "given": "R."
+      },
+      {
+        "family": "Erraguntla",
+        "given": "V."
+      },
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Vangal",
+        "given": "S."
+      },
+      {
+        "family": "Dighe",
+        "given": "S."
+      },
+      {
+        "family": "Ruhl",
+        "given": "G."
+      },
+      {
+        "family": "Aseron",
+        "given": "P."
+      },
+      {
+        "family": "Wilson",
+        "given": "H."
+      },
+      {
+        "family": "Borkar",
+        "given": "N."
+      },
+      {
+        "family": "De",
+        "given": "V."
+      },
+      {
+        "given": "Borkar"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "2012 IEEE International Solid-State Circuits Conference Digest of Technical Papers (ISSCC"
+    ],
+    "note": [
+      "February 2012"
+    ],
+    "pages": [
+      "66–68"
+    ],
+    "title": [
+      "S.: A 280mV-to-1.2V wide-operating-range IA-32 processor in 32nm CMOS"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meinerzhagen",
+        "given": "P."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "JETCAS"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "173–182"
+    ],
+    "title": [
+      "Benchmarking of standard-cell based memories in the sub-Vt domain in 65-nm CMOS technology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meinerzhagen",
+        "given": "P."
+      },
+      {
+        "family": "Andersson",
+        "given": "O."
+      },
+      {
+        "family": "Mohammadi",
+        "given": "B."
+      },
+      {
+        "family": "Sherazi",
+        "given": "Y."
+      },
+      {
+        "family": "Burg",
+        "given": "A."
+      },
+      {
+        "given": "Rodrigues"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Proc. IEEE ESSCIRC"
+    ],
+    "note": [
+      "September"
+    ],
+    "pages": [
+      "321–324"
+    ],
+    "title": [
+      "J.: A 500 fW/bit 14 fJ/bit-access 4kb standard-cell based sub-VT memory in 65nm CMOS"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Akgun",
+        "given": "O."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE TBCAS"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "15–27"
+    ],
+    "title": [
+      "High-level energy estimation in the sub-VT domain: Simulation and measurement of a cardiac event detector"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meinerzhagen",
+        "given": "P."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "ECCTD"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "552–555"
+    ],
+    "title": [
+      "Synthesis strategies for sub-Vt systems"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Vittoz"
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "E.: Low-Power Electronics Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Soeleman",
+        "given": "H."
+      },
+      {
+        "family": "Roy",
+        "given": "K."
+      },
+      {
+        "family": "Paul",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "IEEE T-VLSI Systems"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "90–99"
+    ],
+    "title": [
+      "Robust subthreshold logic for ultra-low power operation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "citation-number": [
+      "24."
+    ],
+    "title": [
+      "Harvard-MIT Division of Health Sciences and Technology Biomedical Engineering Center: MIT-BIH arrhythmia database directory"
+    ],
+    "type": null,
+    "url": [
+      "http://www.physionet.org/physiobank/database/mitdb"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Owens",
+        "given": "J.D."
+      },
+      {
+        "family": "Dally",
+        "given": "W.J."
+      },
+      {
+        "family": "Ho",
+        "given": "R."
+      },
+      {
+        "family": "Jayasimha",
+        "given": "D.N."
+      },
+      {
+        "family": "Keckler",
+        "given": "S.W."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "96–108"
+    ],
+    "title": [
+      "Peh, L.-S.: Research challenges for on-chip interconnection networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Borkar",
+        "given": "S."
+      },
+      {
+        "given": "Chien"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "67–77"
+    ],
+    "title": [
+      "A.A.: The Future of Microprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benini",
+        "given": "L."
+      },
+      {
+        "family": "Micheli",
+        "given": "G.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "70–78"
+    ],
+    "title": [
+      "Networks on Chips: a New SoC Paradigm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balkan",
+        "given": "A."
+      },
+      {
+        "family": "Qu",
+        "given": "G."
+      },
+      {
+        "given": "Vishkin"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "International Conference on Architectures and Processors"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "73–80"
+    ],
+    "title": [
+      "U.: A Mesh-of-Trees Interconnection Network for Single-Chip Parallel Processing Application-Specific Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Plurality"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2010"
+    ],
+    "publisher": [
+      "White Paper"
+    ],
+    "title": [
+      "Ltd.: The hyperCore architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rahimi",
+        "given": "A."
+      },
+      {
+        "family": "Loi",
+        "given": "I."
+      },
+      {
+        "family": "Kakoee",
+        "given": "M."
+      },
+      {
+        "given": "Benini"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Automation Test in Europe Conference"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "title": [
+      "L.: A fully-synthesizable single-cycle interconnection network for Shared-L1 processor clusters Design"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Xie",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "23rd International Conference on VLSI Design"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "446–451"
+    ],
+    "title": [
+      "Processor Architecture Design Using 3D Integration Technology"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "F."
+      },
+      {
+        "family": "Nicopoulos",
+        "given": "C."
+      },
+      {
+        "family": "Richardson",
+        "given": "T."
+      },
+      {
+        "family": "Xie",
+        "given": "Y."
+      },
+      {
+        "family": "Narayanan",
+        "given": "V."
+      },
+      {
+        "family": "Kandemir",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "SIGARCH Comput. Archit. News"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "130–141"
+    ],
+    "title": [
+      "Design and management of 3D chip multiprocessors using network-in-memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Loh",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Proceedings of the 35th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "453–464"
+    ],
+    "title": [
+      "3D-Stacked memory architectures for multi-core processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Woo",
+        "given": "D.H."
+      },
+      {
+        "family": "Seong",
+        "given": "N.H."
+      },
+      {
+        "family": "Lewis",
+        "given": "D."
+      },
+      {
+        "given": "Lee"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "16th International Symposium on High Performance Computer Architecture"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "1–12"
+    ],
+    "title": [
+      "H.-H.: An Optimized 3D-Stacked Memory Architecture by Exploiting Excessive, High-Density TSV Bandwidth"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Madan",
+        "given": "N."
+      },
+      {
+        "family": "Zhao",
+        "given": "L."
+      },
+      {
+        "family": "Muralimanohar",
+        "given": "N."
+      },
+      {
+        "family": "Udipi",
+        "given": "A."
+      },
+      {
+        "family": "Balasubramonian",
+        "given": "R."
+      },
+      {
+        "family": "Iyer",
+        "given": "R."
+      },
+      {
+        "family": "Makineni",
+        "given": "S."
+      },
+      {
+        "family": "Newell",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "15th International Symposium on High Performance Computer Architecture"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "262–274"
+    ],
+    "title": [
+      "Optimizing communication and capacity in a 3D stacked reconfigurable cache hierarchy"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Mishra",
+        "given": "A."
+      },
+      {
+        "family": "Dong",
+        "given": "X."
+      },
+      {
+        "family": "Sun",
+        "given": "G."
+      },
+      {
+        "family": "Xie",
+        "given": "Y."
+      },
+      {
+        "family": "Vijaykrishnan",
+        "given": "N."
+      },
+      {
+        "family": "Das",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "SIGARCH Comput. Archit. News"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "69–80"
+    ],
+    "title": [
+      "Architecting onchip interconnects for stacked 3D STT-RAM caches in CMPs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "F."
+      },
+      {
+        "family": "Nicopoulos",
+        "given": "C."
+      },
+      {
+        "family": "Richardson",
+        "given": "T."
+      },
+      {
+        "family": "Xie",
+        "given": "Y."
+      },
+      {
+        "family": "Narayanan",
+        "given": "V."
+      },
+      {
+        "family": "Kandemir",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "SIGARCH Comput. Archit. News"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "130–141"
+    ],
+    "title": [
+      "Design and Management of 3D Chip Multiprocessors Using Network-in-Memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "J."
+      },
+      {
+        "family": "Nicopoulos",
+        "given": "C."
+      },
+      {
+        "family": "Park",
+        "given": "D."
+      },
+      {
+        "family": "Das",
+        "given": "R."
+      },
+      {
+        "family": "Xie",
+        "given": "Y."
+      },
+      {
+        "family": "Narayanan",
+        "given": "V."
+      },
+      {
+        "family": "Yousif",
+        "given": "M."
+      },
+      {
+        "given": "Das"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "34th International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "138–149"
+    ],
+    "title": [
+      "C.: A novel dimensionally-decomposed router for on-chip communication in 3D architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "D."
+      },
+      {
+        "family": "Eachempati",
+        "given": "S."
+      },
+      {
+        "family": "Das",
+        "given": "R."
+      },
+      {
+        "family": "Mishra",
+        "given": "A."
+      },
+      {
+        "family": "Xie",
+        "given": "Y."
+      },
+      {
+        "family": "Vijaykrishnan",
+        "given": "N."
+      },
+      {
+        "family": "Das",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "35th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "251–261"
+    ],
+    "title": [
+      "MIRA: A Multi-layered On-Chip Interconnect Router Architecture"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "Y."
+      },
+      {
+        "family": "Du",
+        "given": "Y."
+      },
+      {
+        "family": "Zhao",
+        "given": "B."
+      },
+      {
+        "family": "Zhou",
+        "given": "X."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "given": "Yang"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "15th International Symposium on High Performance Computer Architecture"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "30–42"
+    ],
+    "title": [
+      "J.: A Low-Radix and Low-Diameter 3D Interconnection Network Design"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Xue",
+        "given": "L."
+      },
+      {
+        "family": "Gao",
+        "given": "Y."
+      },
+      {
+        "family": "Fu",
+        "given": "J."
+      },
+      {
+        "family": "Ben Ahmed",
+        "given": "A."
+      },
+      {
+        "family": "Ben Abdallah",
+        "given": "A."
+      },
+      {
+        "family": "Kuroda",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "2nd International Conference on Computer Engineering and Technology",
+      "Broadband, Wireless Computing, Communication and Applications",
+      "Beanato et al"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "pages": [
+      "383–389",
+      "67–73"
+    ],
+    "title": [
+      "A High Performance 3D Interconnection Network for Many-Core Processors",
+      "124 G",
+      "Architecture and Design of Efficient 3D Network-on-Chip (3D NoC) for Custom Multicore SoC"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Design Compiler User Guide, Synopsys, version F-2011.09-SP2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Plas",
+        "given": "G.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Limaye",
+        "given": "P."
+      },
+      {
+        "family": "Loi",
+        "given": "I."
+      },
+      {
+        "family": "Mercha",
+        "given": "A."
+      },
+      {
+        "family": "Oprins",
+        "given": "H."
+      },
+      {
+        "family": "Torregiani",
+        "given": "C."
+      },
+      {
+        "family": "Thijs",
+        "given": "S."
+      },
+      {
+        "family": "Linten",
+        "given": "D."
+      },
+      {
+        "family": "Stucchi",
+        "given": "M."
+      },
+      {
+        "family": "Katti",
+        "given": "G."
+      },
+      {
+        "family": "Velenis",
+        "given": "D."
+      },
+      {
+        "family": "Cherman",
+        "given": "V."
+      },
+      {
+        "family": "Vandevelde",
+        "given": "B."
+      },
+      {
+        "family": "Simons",
+        "given": "V."
+      },
+      {
+        "family": "Wolf",
+        "given": "I.",
+        "particle": "De"
+      },
+      {
+        "family": "Labie",
+        "given": "R."
+      },
+      {
+        "family": "Perry",
+        "given": "D."
+      },
+      {
+        "family": "Bronckers",
+        "given": "S."
+      },
+      {
+        "family": "Minas",
+        "given": "N."
+      },
+      {
+        "family": "Cupac",
+        "given": "M."
+      },
+      {
+        "family": "Ruythooren",
+        "given": "W."
+      },
+      {
+        "family": "Olmen",
+        "given": "J.",
+        "particle": "Van"
+      },
+      {
+        "family": "Phommahaxay",
+        "given": "A."
+      },
+      {
+        "family": "Broeck",
+        "given": "M.",
+        "particle": "de Potter de ten"
+      },
+      {
+        "family": "Opdebeeck",
+        "given": "A."
+      },
+      {
+        "family": "Rakowski",
+        "given": "M."
+      },
+      {
+        "family": "Wachter",
+        "given": "B.",
+        "particle": "De"
+      },
+      {
+        "given": "Dehan"
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "J. of Solid-State Circuits"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "293–307"
+    ],
+    "producer": [
+      {
+        "family": "M.",
+        "given": "Nelis"
+      },
+      {
+        "family": "M.",
+        "given": "Agarwal"
+      },
+      {
+        "family": "R.",
+        "given": "Pullini"
+      },
+      {
+        "family": "A.",
+        "given": "Angiolini"
+      },
+      {
+        "family": "F.",
+        "given": "Benini"
+      },
+      {
+        "family": "L.",
+        "given": "Dehaene"
+      },
+      {
+        "family": "W.",
+        "given": "Travaly"
+      },
+      {
+        "family": "Y.",
+        "given": "Beyne"
+      },
+      {
+        "family": "E.",
+        "given": "Marchal"
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "title": [
+      "Design issues and considerations for low-cost 3-D TSV IC technology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "D.H."
+      },
+      {
+        "family": "Mukhopadhyay",
+        "given": "S."
+      },
+      {
+        "given": "Lim"
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE Transactions on Components Packaging and Manufacturing Technology"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "168–180"
+    ],
+    "title": [
+      "S.K.: Fast and Accurate Analytical Modeling of Through-Silicon-Via Capacitive Coupling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "B."
+      },
+      {
+        "family": "Srivastava",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "International Green Computing Conference and Workshops"
+    ],
+    "date": [
+      "July 25-28",
+      "2011"
+    ],
+    "pages": [
+      "1–6,"
+    ],
+    "title": [
+      "Liquid Cooling for 3D-ICs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "X."
+      },
+      {
+        "family": "Yang",
+        "given": "J."
+      },
+      {
+        "family": "Xu",
+        "given": "Y."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Zhao",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel Distrib. Syst"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "60–71"
+    ],
+    "title": [
+      "Thermal-aware Task Scheduling for 3D Multicore Processors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goplen",
+        "given": "B."
+      },
+      {
+        "given": "Sapatnekar"
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "International Symposium on Physical Design"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "167–174"
+    ],
+    "title": [
+      "S.: Thermal Via Placement in 3D ICs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "H."
+      },
+      {
+        "family": "He",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Communications, Circuits and Systems"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "1108–1112"
+    ],
+    "title": [
+      "Dynamic Power and Thermal Integrity in 3D Integration",
+      "A Hexagonal Processor and Interconnect"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ho",
+        "given": "R."
+      },
+      {
+        "family": "Mai",
+        "given": "K."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proc. of IEEE"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "490–504"
+    ],
+    "title": [
+      "The future of wires"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "89"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neeb",
+        "given": "C."
+      },
+      {
+        "family": "Wehn",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "9th EUROMICRO Conference on Digital System Design: Architectures, Methods and Tools"
+    ],
+    "date": [
+      "2006",
+      "2006"
+    ],
+    "pages": [
+      "665–672"
+    ],
+    "title": [
+      "Designing efficient irregular networks for heterogeneous systems-on-chip"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Leary",
+        "given": "G."
+      },
+      {
+        "family": "Srinivasan",
+        "given": "K."
+      },
+      {
+        "family": "Mehta",
+        "given": "K."
+      },
+      {
+        "family": "Chatha",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "674–687"
+    ],
+    "title": [
+      "Design of network-on-chip architectures with a genetic algorithm-based technique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pande",
+        "given": "P.P."
+      },
+      {
+        "family": "Grecu",
+        "given": "C."
+      },
+      {
+        "family": "Jones",
+        "given": "M."
+      },
+      {
+        "family": "Ivanov",
+        "given": "A."
+      },
+      {
+        "family": "Saleh",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proc. IEEE Int. Symp. Circuits and Systems (ISCAS"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "1774–1777"
+    ],
+    "title": [
+      "Effect of traffic localization on energy dissipation in NoC-based interconnect"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE International Solid-State Circuits Conference (ISSCC"
+    ],
+    "date": [
+      "2003-02"
+    ],
+    "pages": [
+      "170–171"
+    ],
+    "title": [
+      "A 16-issue multiple-program-counter microprocessor with pointto-point scalar operand network"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "Z."
+      },
+      {
+        "family": "Meeuwsen",
+        "given": "M."
+      },
+      {
+        "family": "Apperson",
+        "given": "R."
+      },
+      {
+        "family": "Sattari",
+        "given": "O."
+      },
+      {
+        "family": "Lai",
+        "given": "M."
+      },
+      {
+        "family": "Webb",
+        "given": "J."
+      },
+      {
+        "family": "Work",
+        "given": "E."
+      },
+      {
+        "family": "Truong",
+        "given": "D."
+      },
+      {
+        "family": "Mohsenin",
+        "given": "T."
+      },
+      {
+        "family": "Baas",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "695–705"
+    ],
+    "title": [
+      "AsAP: An asynchronous array of simple processors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bell",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE International Solid-State Circuits Conference (ISSCC"
+    ],
+    "date": [
+      "2008-02"
+    ],
+    "pages": [
+      "88–89"
+    ],
+    "title": [
+      "TILE64 processor: A 64-core soc with mesh interconnect"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Truong",
+        "given": "D.N."
+      },
+      {
+        "family": "Cheng",
+        "given": "W.H."
+      },
+      {
+        "family": "Mohsenin",
+        "given": "T."
+      },
+      {
+        "family": "Yu",
+        "given": "Z."
+      },
+      {
+        "family": "Jacobson",
+        "given": "A.T."
+      },
+      {
+        "family": "Landge",
+        "given": "G."
+      },
+      {
+        "family": "Meeuwsen",
+        "given": "M.J."
+      },
+      {
+        "family": "Tran",
+        "given": "A.T."
+      },
+      {
+        "family": "Xiao",
+        "given": "Z."
+      },
+      {
+        "family": "Work",
+        "given": "E.W."
+      },
+      {
+        "family": "Webb",
+        "given": "J.W."
+      },
+      {
+        "family": "Mejia",
+        "given": "P.V."
+      },
+      {
+        "given": "Baas"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1130–1144"
+    ],
+    "title": [
+      "B.M.: A 167-processor computational platform in 65 nm CMOS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Howard",
+        "given": "J."
+      },
+      {
+        "family": "Dighe",
+        "given": "S."
+      },
+      {
+        "family": "Vangal",
+        "given": "S."
+      },
+      {
+        "family": "Ruhl",
+        "given": "G."
+      },
+      {
+        "family": "Borkar",
+        "given": "N."
+      },
+      {
+        "family": "Jain",
+        "given": "S."
+      },
+      {
+        "family": "Erraguntla",
+        "given": "V."
+      },
+      {
+        "family": "Konow",
+        "given": "M."
+      },
+      {
+        "family": "Riepen",
+        "given": "M."
+      },
+      {
+        "family": "Gries",
+        "given": "M."
+      },
+      {
+        "family": "Droege",
+        "given": "G."
+      },
+      {
+        "family": "Lund-Larsen",
+        "given": "T."
+      },
+      {
+        "family": "Steibl",
+        "given": "S."
+      },
+      {
+        "family": "Borkar",
+        "given": "S."
+      },
+      {
+        "family": "De",
+        "given": "V."
+      },
+      {
+        "family": "Wijngaart",
+        "particle": "Van Der"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "173–183"
+    ],
+    "title": [
+      "R.: A 48-core ia-32 processor in 45 nm cmos using on-die message-passing and dvfs for performance and power scaling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yin",
+        "given": "A."
+      },
+      {
+        "family": "Xu",
+        "given": "T."
+      },
+      {
+        "family": "Liljeberg",
+        "given": "P."
+      },
+      {
+        "family": "Tenhunen",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Sixth IFIP International Conference on Network and Parallel Computing, NPC 2009"
+    ],
+    "date": [
+      "2009-10"
+    ],
+    "pages": [
+      "73–79"
+    ],
+    "title": [
+      "Explorations of honeycomb topologies for network-on-chip"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Becker",
+        "given": "J."
+      },
+      {
+        "family": "Henrici",
+        "given": "F."
+      },
+      {
+        "family": "Trendelenburg",
+        "given": "S."
+      },
+      {
+        "family": "Ortmanns",
+        "given": "M."
+      },
+      {
+        "given": "Manoli"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE International Solid-State Circuits Conference (ISSCC"
+    ],
+    "date": [
+      "2008-02"
+    ],
+    "pages": [
+      "70–71"
+    ],
+    "title": [
+      "Y.: A continuoustime hexagonal field-programmable analog array in 0.13um CMOS with 186MHz GBW"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Malony"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "The 2nd Symposium on the Frontiers of Massively Parallel Computation"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "499–502"
+    ],
+    "title": [
+      "A.D.: Regular processor arrays"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "M.S."
+      },
+      {
+        "family": "Shin",
+        "given": "K."
+      },
+      {
+        "family": "Kandlur",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "10–18"
+    ],
+    "title": [
+      "Addressing, routing, and broadcasting in hexagonal mesh multiprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Decayeux",
+        "given": "C."
+      },
+      {
+        "family": "Seme",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Trans. on Parallel and Distributed Systems"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "875–884"
+    ],
+    "title": [
+      "3D hexagonal network: modeling, topological properties, addressing scheme, and optimal routing algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Stojmenovic"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Transactions on Parallel and Distributed Systems"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "1036–1042"
+    ],
+    "title": [
+      "I.: Honeycomb networks: Topological properties and communication algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chariete",
+        "given": "A."
+      },
+      {
+        "family": "Bakhouya",
+        "given": "M."
+      },
+      {
+        "family": "Gaber",
+        "given": "J."
+      },
+      {
+        "family": "Wack",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "2012 International Conference on High Performance Computing and Simulation (HPCS"
+    ],
+    "date": [
+      "2012-07"
+    ],
+    "pages": [
+      "288–294"
+    ],
+    "title": [
+      "An approach for customizing on-chip interconnect architectures in soc design"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "Z."
+      },
+      {
+        "given": "Baas"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "750–762"
+    ],
+    "title": [
+      "B.: A low-area multi-link interconnect architecture for GALS chip multiprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Xiao",
+        "given": "Z."
+      },
+      {
+        "given": "Baas"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Transaction on Circuits and Systems for Video Technology"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "890–902"
+    ],
+    "title": [
+      "B.: A 1080p H.264/AVC baseline residual encoder for a fine-grained many-core system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Work"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "location": [
+      "Davis, CA, USA"
+    ],
+    "note": [
+      "September 2007),"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "E.W.: Algorithms and software tools for mapping arbitrarily connected tasks onto an asynchronous array of simple processors"
+    ],
+    "type": "thesis",
+    "url": [
+      "http://www.ece.ucdavis.edu/vcl/pubs/theses/2007-4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tosun",
+        "given": "S."
+      },
+      {
+        "family": "Ozturk",
+        "given": "O."
+      },
+      {
+        "family": "Ozen",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "International Conference on Application of Information and Communication Technologies"
+    ],
+    "date": [
+      "2009",
+      "2009-10"
+    ],
+    "pages": [
+      "1–5"
+    ],
+    "title": [
+      "An ILP formulation for application mapping onto network-on-chips"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirkpatrick",
+        "given": "S."
+      },
+      {
+        "family": "Gelatt",
+        "given": "C.D."
+      },
+      {
+        "given": "Vecchi"
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "671–680"
+    ],
+    "title": [
+      "M.P.: Optimization by simulated annealing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "220"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tran",
+        "given": "A.T."
+      },
+      {
+        "family": "Truong",
+        "given": "D.N."
+      },
+      {
+        "given": "Baas"
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Asilomar Conference on Signals, Systems and Computers (ACSSC"
+    ],
+    "note": [
+      "October 2008) Fault-Tolerant Techniques to Manage Yield and Power Constraints in Network-on-Chip Interconnections"
+    ],
+    "pages": [
+      "165–170"
+    ],
+    "title": [
+      "B.M.: A complete real-time 802.11a baseband receiver implemented on an array of programmable processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dehon",
+        "given": "A."
+      },
+      {
+        "family": "Naeimi",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Design & Test of Computers"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "306–315"
+    ],
+    "title": [
+      "Seven strategies for tolerating highly defective fabrication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frantz",
+        "given": "A.P."
+      },
+      {
+        "family": "Kastensmidt",
+        "given": "F.L."
+      },
+      {
+        "family": "Carro",
+        "given": "L."
+      },
+      {
+        "family": "Cota",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Proceedings of 2006 International Test Conference (ITC"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1–9"
+    ],
+    "title": [
+      "Dependable Network-on-Chip Router Able to Simultaneously Tolerate Soft Errors and Crosstalk"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lehtonen",
+        "given": "T."
+      },
+      {
+        "family": "Liljeberg",
+        "given": "P."
+      },
+      {
+        "family": "Plosila",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "VLSI Design",
+      "Article"
+    ],
+    "date": [
+      "2007",
+      "2007"
+    ],
+    "pages": [
+      "1–13"
+    ],
+    "title": [
+      "Online Reconfigurable Self-Timed Links for Fault Tolerant NoCs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ID 94676"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kologeski",
+        "given": "A."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Braga",
+        "given": "M."
+      },
+      {
+        "family": "Cota",
+        "given": "E."
+      },
+      {
+        "family": "Kastensmidt",
+        "given": "F.L."
+      },
+      {
+        "family": "Lubaszewski",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "160"
+    ],
+    "container-title": [
+      "Proceedings of 2010 IEEE International Symposium on Circuits and Systems (ISCAS"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "4",
+      "4101–4104"
+    ],
+    "title": [
+      "Efficiently using data splitting and retransmission to tolerate faults in networks-on-chip interconnects"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ganguly",
+        "given": "A."
+      },
+      {
+        "family": "Pande",
+        "given": "P.P."
+      },
+      {
+        "family": "Belzer",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1626–1639"
+    ],
+    "title": [
+      "Crosstalk-Aware Channel Coding Schemes for Energy Efficient and Reliable NOC Interconnects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kakoee",
+        "given": "M.R."
+      },
+      {
+        "family": "Bertacco",
+        "given": "V."
+      },
+      {
+        "family": "Benini",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Design, Automation & Test in Europe Conference & Exhibition (DATE), March 14-18"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "title": [
+      "ReliNoC: A reliable network for priority-based on-chip communication"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Palesi",
+        "given": "M."
+      },
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Catania",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "426–440"
+    ],
+    "title": [
+      "Leveraging Partially Faulty Links Usage for Enhancing Yield and Performance in Networks-on-Chip"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koibuchi",
+        "given": "M."
+      },
+      {
+        "family": "Matsutani",
+        "given": "H."
+      },
+      {
+        "family": "Amano",
+        "given": "H."
+      },
+      {
+        "family": "Pinkston",
+        "given": "Mark"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "2nd ACM/IEEE International Symposium on Networks-on-Chip"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "13–22"
+    ],
+    "title": [
+      "T.: A Lightweight Fault-Tolerant Mechanism for Network-on-Chip"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tornero",
+        "given": "R."
+      },
+      {
+        "family": "Sterrantino",
+        "given": "V."
+      },
+      {
+        "family": "Palesi",
+        "given": "M."
+      },
+      {
+        "given": "Ordua"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE International Symposium on Parallel & Distributed Processing"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "1–8"
+    ],
+    "title": [
+      "J.M.: A multi-objective strategy for concurrent mapping and routing in networks on chip"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Concatto",
+        "given": "C."
+      },
+      {
+        "family": "Almeida",
+        "given": "P."
+      },
+      {
+        "family": "Kastensmidt",
+        "given": "F."
+      },
+      {
+        "family": "Cota",
+        "given": "E."
+      },
+      {
+        "family": "Lubaszewski",
+        "given": "M."
+      },
+      {
+        "family": "Herve",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "15th IEEE International On-Line Testing Symposium, IOLTS 2009"
+    ],
+    "date": [
+      "June 24-26",
+      "2009"
+    ],
+    "pages": [
+      "61–66"
+    ],
+    "title": [
+      "Improving yield of torus NoCs through fault-diagnosis-and-repair of interconnect faults"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "V.D."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "2011 12th Latin American Test Workshop (LATW), Keynote Talk"
+    ],
+    "date": [
+      "2011-03"
+    ],
+    "title": [
+      "Testing for Faults, Looking for Defects"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kologeski",
+        "given": "A."
+      },
+      {
+        "family": "Concatto",
+        "given": "C."
+      },
+      {
+        "family": "Carro",
+        "given": "L."
+      },
+      {
+        "given": "Kastensmidt"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "2011 12th Latin American Test Workshop (LATW"
+    ],
+    "date": [
+      "March 27-30",
+      "2011"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "title": [
+      "F.L.: Adaptive approach to tolerate multiple faulty links in Network-on-Chip"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Shih-yu",
+        "given": "Y."
+      },
+      {
+        "given": "Papachristou"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "197–204"
+    ],
+    "title": [
+      "C.A.: A method for detecting interconnect DSM defects in systems on chip"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Changbo",
+        "given": "L."
+      },
+      {
+        "family": "Lei",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "937–946"
+    ],
+    "title": [
+      "Distributed sleep transistor network for power reduction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "K."
+      },
+      {
+        "family": "Howard",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "International Symposium on VLSI Design, Automation and Test"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1–4"
+    ],
+    "title": [
+      "Sleep Transistor Design and Implementation - Simple Concepts Yet Challenges To Be Optimum"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeferino",
+        "given": "C.A."
+      },
+      {
+        "given": "Susin"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Proceedings of the 16th Symposium on Integrated Circuits and Systems Design, SBCCI 2003"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "169–174"
+    ],
+    "title": [
+      "A.A.: SoCIN: a parametric and scalable network-on-chip"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "September 8-11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sakurai",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "418–426"
+    ],
+    "title": [
+      "Approximation of wiring delay in MOSFET LSI"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zeferino",
+        "given": "C.A."
+      },
+      {
+        "family": "Kreutz",
+        "given": "M.E."
+      },
+      {
+        "given": "Susin"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Design, Automation and Test in Europe Conference and Exhibition"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "198–203"
+    ],
+    "title": [
+      "A.A.: RASoC: a router soft-core for networks-onchip"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cota",
+        "given": "E."
+      },
+      {
+        "family": "Kastensmidt",
+        "given": "F.L."
+      },
+      {
+        "family": "Cassel",
+        "given": "M."
+      },
+      {
+        "family": "Herve",
+        "given": "M."
+      },
+      {
+        "family": "Almeida",
+        "given": "P."
+      },
+      {
+        "family": "Meirelles",
+        "given": "P."
+      },
+      {
+        "family": "Amory",
+        "given": "A."
+      },
+      {
+        "given": "Lubaszewski"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1202–1215"
+    ],
+    "title": [
+      "M.: A High-Fault-Coverage Approach for the Test of Data, Control and Handshake Interconnects in Mesh Networks-on-Chip"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shih-Yu",
+        "given": "Y."
+      },
+      {
+        "family": "Papachristou",
+        "given": "C.A."
+      },
+      {
+        "given": "Taib-Azar"
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Proceedings of the Design Automation Conference"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "307–312"
+    ],
+    "title": [
+      "M.: Improving bus test via IDDT and boundary scan"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Grecu",
+        "given": "C."
+      },
+      {
+        "family": "Pande",
+        "given": "P."
+      },
+      {
+        "family": "Ivanov",
+        "given": "A."
+      },
+      {
+        "family": "Saleh",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Proceedings of the 24th IEEE VLSI Test Symposium"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "30–35"
+    ],
+    "title": [
+      "BIST for network-on-chip interconnect infrastructures"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "April 30-May 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kologeski",
+        "given": "A."
+      },
+      {
+        "family": "Concatto",
+        "given": "C."
+      },
+      {
+        "family": "Carro",
+        "given": "L."
+      },
+      {
+        "given": "Kastensmidt"
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "2011 16th IEEE European Test Symposium (ETS), May 23-27"
+    ],
+    "date": [
+      "2011"
+    ],
+    "pages": [
+      "123–128"
+    ],
+    "title": [
+      "F.L.: Improving Reliability in NoCs by Application-Specific Mapping Combined with Adaptive Fault-Tolerant Method in the Links"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tornero",
+        "given": "R."
+      },
+      {
+        "family": "Sterrantino",
+        "given": "V."
+      },
+      {
+        "family": "Palesi",
+        "given": "M."
+      },
+      {
+        "given": "Orduna"
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "IEEE International Symposium on Parallel & Distributed Processing"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "1–8"
+    ],
+    "title": [
+      "J.: A multi-objective strategy for concurrent mapping and routing in networks on chip"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Choudhury",
+        "given": "A."
+      },
+      {
+        "family": "Palermo",
+        "given": "G."
+      },
+      {
+        "family": "Silvano",
+        "given": "C."
+      },
+      {
+        "family": "Zaccaria",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "NoCArc 2009 - Second International Workshop on Network on-Chip Architectures"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "37–42"
+    ],
+    "title": [
+      "Yield Enhancement by Robust Application-specific Mapping on Network-on-Chips",
+      "On the Automatic Generation of Software-Based Self-Test Programs for Functional Test and Diagnosis of VLIW Processors"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Psarakis",
+        "given": "M."
+      },
+      {
+        "family": "Gizopoulos",
+        "given": "D."
+      },
+      {
+        "family": "Sanchez",
+        "given": "E."
+      },
+      {
+        "family": "Sonza Reorda",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Design & Test of Computers"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "4–19"
+    ],
+    "title": [
+      "Microprocessor softwarebased self-testing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bernardi",
+        "given": "P."
+      },
+      {
+        "family": "Sànchez",
+        "given": "E."
+      },
+      {
+        "family": "Schillaci",
+        "given": "M."
+      },
+      {
+        "family": "Squillero",
+        "given": "G."
+      },
+      {
+        "family": "Sonza Reorda",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Design, Automation and Test in Europe"
+    ],
+    "date": [
+      "2006",
+      "2006-03"
+    ],
+    "location": [
+      "DATE"
+    ],
+    "pages": [
+      "1–6"
+    ],
+    "title": [
+      "An Effective Technique for Minimizing the Cost of Processor Software-Based Diagnosis in SoCs"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "L."
+      },
+      {
+        "family": "Dey",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Design Automation Conference 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "259–262"
+    ],
+    "title": [
+      "Software-Based Diagnosis for Processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Fisher",
+        "given": "J.A."
+      },
+      {
+        "family": "Faraboschi",
+        "given": "P."
+      },
+      {
+        "family": "Young",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Embedded computing: a VLIW approach to architecture, compilers and tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bornstein",
+        "given": "B."
+      },
+      {
+        "family": "Estlin",
+        "given": "T."
+      },
+      {
+        "family": "Clement",
+        "given": "B."
+      },
+      {
+        "family": "Springer",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Aerospace Conference"
+    ],
+    "date": [
+      "2011-03"
+    ],
+    "pages": [
+      "1–9"
+    ],
+    "title": [
+      "Using a multicore processor for rover autonomous science"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Tilera"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Doc"
+    ],
+    "date": [
+      "2008-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Multicore Development Environment User Guide"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Beardo",
+        "given": "M."
+      },
+      {
+        "family": "Bruschi",
+        "given": "F."
+      },
+      {
+        "family": "Ferrandi",
+        "given": "F."
+      },
+      {
+        "family": "Sciuto",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE High-Level Design Validation and Test Workshop"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "29–33"
+    ],
+    "title": [
+      "An approach to functional testing of VLIW architectures"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sabena",
+        "given": "D."
+      },
+      {
+        "family": "Sonza Reorda",
+        "given": "M."
+      },
+      {
+        "given": "Sterpone"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE International Conference on Design, Automation & Test in Europe (DATE"
+    ],
+    "date": [
+      "2012-03"
+    ],
+    "pages": [
+      "412–417"
+    ],
+    "title": [
+      "L.: A new SBST algorithm for testing the register file of VLIW processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulbricht",
+        "given": "M."
+      },
+      {
+        "family": "Schölzer",
+        "given": "M."
+      },
+      {
+        "family": "Koal",
+        "given": "T."
+      },
+      {
+        "given": "Vierhaus"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "2011 IEEE 14th International Symposium on Design and Diagnostics of Electronic Circuits & Systems (DDECS"
+    ],
+    "date": [
+      "2011-04"
+    ],
+    "pages": [
+      "143–146"
+    ],
+    "title": [
+      "H.T.: A New Hierarchical Built-In Self-Test with On-Chip Diagnosis for VLIW Processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "S."
+      },
+      {
+        "family": "Anjam",
+        "given": "F."
+      },
+      {
+        "family": "Nadeem",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "IEEE International Conference on Design, Automation and Test in Europe (DATE"
+    ],
+    "date": [
+      "2010-03"
+    ],
+    "pages": [
+      "962–972"
+    ],
+    "title": [
+      "Dynamically reconfigurable register file for a softcore VLIW processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "S."
+      },
+      {
+        "family": "As",
+        "given": "T.",
+        "particle": "Van"
+      },
+      {
+        "given": "Brown"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "International Conference on ICECE Technology"
+    ],
+    "date": [
+      "2010-12"
+    ],
+    "pages": [
+      "369–372"
+    ],
+    "title": [
+      "G.: ρ-VEX: a reconfigurable and extensible softcore VLIW processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kranitis",
+        "given": "N."
+      },
+      {
+        "family": "Paschalis",
+        "given": "A."
+      },
+      {
+        "family": "Gizopoulos",
+        "given": "D."
+      },
+      {
+        "family": "Xenoulis",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "461–475"
+    ],
+    "title": [
+      "Software-based self-testing of embedded processors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sabena",
+        "given": "D."
+      },
+      {
+        "family": "Sterpone",
+        "given": "L."
+      },
+      {
+        "family": "Reorda",
+        "given": "M.Sonza"
+      }
+    ],
+    "citation-number": [
+      "180"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Koal",
+        "given": "T."
+      },
+      {
+        "given": "Vierhaus"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Symposium on Design and Diagnostic of Electronic Circuits and Systems (DDECS"
+    ],
+    "date": [
+      "2010-04"
+    ],
+    "pages": [
+      "40–43"
+    ],
+    "title": [
+      "H.T.: A software-based self-test and hardware reconfiguration solution for VLIW processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ulbricht",
+        "given": "M."
+      },
+      {
+        "family": "Scholzel",
+        "given": "M."
+      },
+      {
+        "family": "Koal",
+        "given": "T."
+      },
+      {
+        "given": "Vierhaus"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Symposium on Design and Diagnostic of Electronic Circuits and Systems (DDECS"
+    ],
+    "date": [
+      "2011-04"
+    ],
+    "pages": [
+      "143–146"
+    ],
+    "title": [
+      "H.T.: A new hierarchical built-in self-test with on-chip diagnosis for VLIW processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pillai",
+        "given": "A."
+      },
+      {
+        "family": "Zhang",
+        "given": "W."
+      },
+      {
+        "family": "Kagaris",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Advanced Information Networking and Applications Workshops"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "811–815"
+    ],
+    "title": [
+      "Detecting VLIW hard errors cost-effectively through a software-based approach"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gizopoulos",
+        "given": "D."
+      },
+      {
+        "family": "Psarakis",
+        "given": "M."
+      },
+      {
+        "family": "Hatzimihail",
+        "given": "M."
+      },
+      {
+        "family": "Maniatakos",
+        "given": "M."
+      },
+      {
+        "family": "Paschalis",
+        "given": "A."
+      },
+      {
+        "family": "Raghunathan",
+        "given": "A."
+      },
+      {
+        "family": "Ravi",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Transaction on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1441–1453"
+    ],
+    "title": [
+      "Systematic software-based self-test for pipelined processors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Paschalis",
+        "given": "A."
+      },
+      {
+        "family": "Gizopoulos",
+        "given": "D."
+      },
+      {
+        "family": "Kranitis",
+        "given": "N."
+      },
+      {
+        "family": "Psarakis",
+        "given": "M."
+      },
+      {
+        "family": "Zorian",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE International Conference on Design, Automation and Test in Europe (DATE"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "92–96"
+    ],
+    "title": [
+      "Deterministic software-based self-testing of embedded processor cores"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kranitis",
+        "given": "N."
+      },
+      {
+        "family": "Gizopoulos",
+        "given": "D."
+      },
+      {
+        "family": "Paschalis",
+        "given": "A."
+      },
+      {
+        "family": "Psarakis",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE VLSI Test Symposium"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "223–228"
+    ],
+    "title": [
+      "Instruction-based self-testing of processor cores"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanchez",
+        "given": "E."
+      },
+      {
+        "family": "Sonza Reorda",
+        "given": "M."
+      },
+      {
+        "family": "Squillero",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE International Symposium on Defect and Fault Tolerance in VLSI Systems"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "pages": [
+      "494–502"
+    ],
+    "title": [
+      "On the transformation of manufacturing test sets into on-line test sets for microprocessor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernardi",
+        "given": "P."
+      },
+      {
+        "family": "Sánchez",
+        "given": "E."
+      },
+      {
+        "family": "Schillaci",
+        "given": "M."
+      },
+      {
+        "family": "Squillero",
+        "given": "G."
+      },
+      {
+        "family": "Sonza Reorda",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "570–574"
+    ],
+    "title": [
+      "An Effective Technique for the Automatic Generation of Diagnosis-Oriented Programs for Processor Cores"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koester",
+        "given": "M."
+      },
+      {
+        "family": "Luk",
+        "given": "W.S."
+      },
+      {
+        "family": "Hagemeyer",
+        "given": "J."
+      },
+      {
+        "family": "Porrmann",
+        "given": "M."
+      },
+      {
+        "family": "Rückert",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "1048–1061"
+    ],
+    "title": [
+      "Design Optimizations for Tiled Partially Reconfigurable Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ryan",
+        "given": "P.G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proc. IEEE Int. Conf. Comput.-Aided Des"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "508–511"
+    ],
+    "title": [
+      "Fault dictionary compression and equivalence class computation for sequential circuits",
+      "SEU-Aware Low-Power Memories Using a Multiple Supply Voltage Array Architecture"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "A.S.U."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Predictive Technology Model (PTM"
+    ],
+    "type": null,
+    "url": [
+      "http://ptm.asu.edu"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "K."
+      },
+      {
+        "family": "Ranganathan",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2009-01"
+    ],
+    "location": [
+      "In"
+    ],
+    "pages": [
+      "453–458"
+    ],
+    "publisher": [
+      "VLSI Design"
+    ],
+    "title": [
+      "RADJAM: A novel approach for reduction of soft errors in logic circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ding",
+        "given": "L."
+      },
+      {
+        "family": "Mazumder",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the 17th International Conference on VLSI Design"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1001–1006"
+    ],
+    "title": [
+      "Dynamic noise margin: definitions and model"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Freeman"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "119–129"
+    ],
+    "title": [
+      "L.B.: Critical charge calculations for a bipolar SRAM array"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "S."
+      },
+      {
+        "family": "Guthaus",
+        "given": "M.R."
+      }
+    ],
+    "citation-number": [
+      "194"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Hamming"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Bell System Technical Journal"
+    ],
+    "date": [
+      "1950"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "147–160"
+    ],
+    "title": [
+      "R.W.: Error detecting and error correcting codes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hamzaoglu",
+        "given": "F."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Design & Test of Computers"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "22–31"
+    ],
+    "title": [
+      "Bit cell optimizations and circuit techniques for nanoscale sram design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hazucha",
+        "given": "P."
+      },
+      {
+        "family": "Svensson",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Transactions on Nuclear Science"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "6, Part 3"
+    ],
+    "pages": [
+      "2586–2594"
+    ],
+    "title": [
+      "Impact of CMOS technology scaling on the atmospheric neutron soft error rate"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "G."
+      },
+      {
+        "family": "Dong",
+        "given": "W."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE International Behavioral Modeling and Simulation Workshop, BMAS 2007"
+    ],
+    "date": [
+      "2007-09"
+    ],
+    "pages": [
+      "6–10"
+    ],
+    "title": [
+      "Tracing SRAM separatrix for dynamic noise margin analysis under device mismatch"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "S."
+      },
+      {
+        "family": "Guthaus",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "2011 48th ACM/EDAC/IEEE Design Automation Conference (DAC"
+    ],
+    "date": [
+      "2011-06"
+    ],
+    "pages": [
+      "435–440"
+    ],
+    "title": [
+      "Leakage-aware redundancy for reliable sub-threshold memories"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "S."
+      },
+      {
+        "family": "Guthaus",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "2011 IEEE/ACM International Conference on Computer-Aided Design (ICCAD"
+    ],
+    "date": [
+      "2011-11"
+    ],
+    "pages": [
+      "577–581"
+    ],
+    "title": [
+      "Low-power multiple-bit upset tolerant memory optimization"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "S."
+      },
+      {
+        "family": "Guthaus",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "2011 IEEE/IFIP 19th International Conference on VLSI and System-on-Chip (VLSI-SoC"
+    ],
+    "date": [
+      "2011-10"
+    ],
+    "pages": [
+      "204–207"
+    ],
+    "title": [
+      "SNM-aware power reduction and reliability improvement in 45nm SRAMs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lesea",
+        "given": "A."
+      },
+      {
+        "family": "Drimer",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Device and Materials Reliability"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "317–328"
+    ],
+    "title": [
+      "The rosetta experiment: atmospheric soft error rate testing in differing technology fpgas"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michalak",
+        "given": "S."
+      },
+      {
+        "family": "Harris",
+        "given": "K."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Transactions on Device and Materials Reliability"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "329–335"
+    ],
+    "title": [
+      "Predicting the number of fatal soft errors in los alamos national laboratory’s ASC Q supercomputer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Murley",
+        "given": "P.C."
+      },
+      {
+        "given": "Srinivasan"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "109–118"
+    ],
+    "title": [
+      "G.R.: Soft-error monte carlo modeling program, SEMM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Neto",
+        "given": "E."
+      },
+      {
+        "family": "Ribeiro",
+        "given": "I."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "10–18"
+    ],
+    "title": [
+      "Using bulk built-in current sensors to detect soft errors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Normand"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Transactions on Nuclear Science"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "2742–2750"
+    ],
+    "title": [
+      "E.: Single event upset at ground level"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pavlov",
+        "given": "A."
+      },
+      {
+        "family": "Sachdev",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "2008-01"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "CMOS SRAM circuit design and parametric test in nano-scaled technologies: process-aware SRAM design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajaraman",
+        "given": "R."
+      },
+      {
+        "family": "Kim",
+        "given": "J.S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "VLSI Design"
+    ],
+    "title": [
+      "SEAT-LA: A soft error analysis tool for combinational logic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reviriego",
+        "given": "P."
+      },
+      {
+        "family": "Maestro",
+        "given": "J.A."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "ACM Trans. Des. Autom. Electron. Syst"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "1–18"
+    ],
+    "title": [
+      "Reliability analysis of memories protected with BICS and a per-word parity bit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shivakumar",
+        "given": "P."
+      },
+      {
+        "family": "Kistler",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Proceedings of International Conference on Dependable Systems and Networks (DSN"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "389–398"
+    ],
+    "title": [
+      "Modeling the effect of technology trends on the soft error rate of combinational logic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Vargas",
+        "given": "F."
+      },
+      {
+        "family": "Nicolaidis",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Proceedings of the 24th International Symposium on Fault-Tolerant Computing (FTCS"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "pages": [
+      "106–115"
+    ],
+    "title": [
+      "SEU-tolerant SRAM design based on current monitoring"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Vatajelu",
+        "given": "E."
+      },
+      {
+        "family": "Pau",
+        "given": "G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "2011 20th Asian Test Symposium (ATS"
+    ],
+    "date": [
+      "2011-11"
+    ],
+    "pages": [
+      "413–418"
+    ],
+    "title": [
+      "Transient noise failures in SRAM cells: Dynamic noise margin metric"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Nalam",
+        "given": "S."
+      },
+      {
+        "family": "Calhoun",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "2008 ACM/IEEE International Symposium on Low Power Electronics and Design, ISLPED"
+    ],
+    "date": [
+      "2008-08"
+    ],
+    "pages": [
+      "129–134"
+    ],
+    "title": [
+      "Analyzing static and dynamic write margin for nanometer SRAMs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "F.-L."
+      },
+      {
+        "family": "Huang",
+        "given": "C.-C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Symposium on VLSI Technology. Digest of Technical Papers"
+    ],
+    "date": [
+      "2004-06"
+    ],
+    "pages": [
+      "8–9"
+    ],
+    "title": [
+      "45nm node planar-SOI technology with 0.296 μm2 6T-SRAM cell"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "B."
+      },
+      {
+        "family": "Arapostathis",
+        "given": "A."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "IEEE/ACM International Conference on Computer-Aided Design (ICCAD"
+    ],
+    "date": [
+      "2006-11"
+    ],
+    "pages": [
+      "315–322"
+    ],
+    "title": [
+      "Analytical modeling of SRAM dynamic stability"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "K."
+      },
+      {
+        "family": "Bhattacharya",
+        "given": "U."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "IEEE Journal of Solid-State Circuits"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "146–151"
+    ],
+    "title": [
+      "A 3-ghz 70-mb SRAM in 65-nm CMOS technology with integrated column-based dynamic power supply"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "M."
+      },
+      {
+        "family": "Shanbhag",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "2140–2155"
+    ],
+    "title": [
+      "Soft-error-rate-analysis (SERA) methodology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Ziegler"
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "19–39"
+    ],
+    "title": [
+      "J.F.: Terrestrial cosmic rays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ziegler",
+        "given": "J.F."
+      },
+      {
+        "given": "Lanford"
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Science",
+      "Parsan and Scott C. Smith"
+    ],
+    "date": [
+      "1979"
+    ],
+    "issue": [
+      "4420"
+    ],
+    "pages": [
+      "776–788"
+    ],
+    "title": [
+      "W.A.: Effect of cosmic rays on computer memories",
+      "CMOS Implementation of Threshold Gates with Hysteresis Farhad A"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "206"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "S.C."
+      },
+      {
+        "family": "Di",
+        "given": "J."
+      },
+      {
+        "given": "Morgan"
+      },
+      {
+        "family": "Publishers",
+        "given": "Claypool"
+      },
+      {
+        "family": "Fant",
+        "given": "K.M."
+      },
+      {
+        "family": "Ligthart",
+        "given": "M."
+      },
+      {
+        "family": "Fant",
+        "given": "K."
+      },
+      {
+        "family": "Smith",
+        "given": "R."
+      },
+      {
+        "family": "Taubin",
+        "given": "A."
+      },
+      {
+        "family": "Kondratyev",
+        "given": "A."
+      },
+      {
+        "family": "McCardle",
+        "given": "J."
+      },
+      {
+        "family": "Chester",
+        "given": "D."
+      },
+      {
+        "family": "Parsan",
+        "given": "F.A."
+      },
+      {
+        "family": "Al-Assadi",
+        "given": "W.K."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "container-title": [
+      "Proc. Sixth Int. Symp. on Advanced Research in Asynchronous Circ. and Syst",
+      "Proc. Synopsys Users Group Conf. (SNUG). Synopsys, Mountain View, Calif",
+      "circuit design of threshold gates with hysteresis. In: Proc. of the IEEE Int. Symp. on Circ. and Syst",
+      "53rd IEEE Int. Midwest Symp. on Circ. and Syst",
+      "Synthesis Lectures on Digital Circuits and Systems",
+      "Wiley-Interscience",
+      "IEEE Trans. on Very Large Scale Integ. (VLSI) Syst"
+    ],
+    "date": [
+      "2010",
+      "2009",
+      "2005",
+      "2000-04",
+      "2001",
+      "1998",
+      "1998-06",
+      "2010-08"
+    ],
+    "doi": [
+      "10.1109/TVLSI.2012.2231889"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Beerel, P.A., Ozdag, R.O., Ferretti, M",
+      "Shams, M., Ebergen, J.C., Elmasry, M.I",
+      "Sobelman, G.E., Fant, K",
+      "Yancey, S., Smith, S.C"
+    ],
+    "note": [
+      "VLSI) Syst. (to be published),"
+    ],
+    "pages": [
+      "2",
+      "3",
+      "4",
+      "114–125",
+      "5",
+      "66–70",
+      "563–567",
+      "8",
+      "61–64",
+      "9",
+      "632–635"
+    ],
+    "publisher": [
+      "Cambridge University Press",
+      "IEEE",
+      "CMOS",
+      "A"
+    ],
+    "title": [
+      "References 1",
+      "A designer’s guide to asynchronous VLSI",
+      "Designing asynchronous circuits using NULL Convention Logic (NCL",
+      "Logically Determined Design: Clockless System Design with NULL Convention Logic",
+      "Asynchronous design using commercial HDL synthesis tools",
+      "Measuring an asynchronous processor’s power and noise",
+      "S.C.: Gate Mapping Automation for Asynchronous NULL Convention Logic Circuits",
+      "7",
+      "Modeling and comparing CMOS implementations of the C-element",
+      "differential design for C-elements and NCL gates"
+    ],
+    "translator": [
+      {
+        "family": "Integr",
+        "given": "Very Large Scale"
+      }
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://dx.doi.org/10.1109/TVLSI.2012.2231889"
+    ],
+    "volume": [
+      "4",
+      "6",
+      "6",
+      "2, 62"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parsan",
+        "given": "F.A."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "2012 IEEE/IFIP 20th International Conference on VLSI and System-on-Chip (VLSI-SoC"
+    ],
+    "date": [
+      "2012-10"
+    ],
+    "pages": [
+      "41–45"
+    ],
+    "title": [
+      "S.C.: CMOS implementation of static threshold gates with hysteresis: A new approach"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Seitz",
+        "given": "C.L."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Introduction to VLSI Systems"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "MA"
+    ],
+    "pages": [
+      "218–262"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "System timing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Berkel"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Integr. VLSI J"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "103–128"
+    ],
+    "title": [
+      "K.V.: Beware the isochronic fork"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Verhoeff",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Distributed Computing"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "1–8"
+    ],
+    "title": [
+      "Delay-insensitive codes – an overview"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Muller"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Stanford"
+    ],
+    "publisher": [
+      "Stanford Univ. Press"
+    ],
+    "title": [
+      "D.E.: Asynchronous logics and application to information processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shams",
+        "given": "M."
+      },
+      {
+        "family": "Ebergen",
+        "given": "J.C."
+      },
+      {
+        "given": "Elmasry"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proc. of IEEE Int. Conf. on Comp. Design"
+    ],
+    "date": [
+      "1997-10"
+    ],
+    "pages": [
+      "700–705"
+    ],
+    "title": [
+      "M.I.: Optimizing CMOS implementations of the C-element"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Parsan",
+        "given": "F.A."
+      },
+      {
+        "given": "Smith"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "2012 IEEE 55th International Midwest Symposium on Circuits and Systems (MWSCAS"
+    ],
+    "date": [
+      "2012-08"
+    ],
+    "pages": [
+      "394–397"
+    ],
+    "title": [
+      "S.C.: CMOS implementation comparison of NCL gates"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "D."
+      },
+      {
+        "family": "Mazumder",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "910–925"
+    ],
+    "title": [
+      "On circuit techniques to improve noise immunity of CMOS dynamic logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heller",
+        "given": "L."
+      },
+      {
+        "family": "Griffin",
+        "given": "W."
+      },
+      {
+        "family": "Davis",
+        "given": "J."
+      },
+      {
+        "family": "Thoma",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Int. Solid-State Cir. Conf. Digest of Tech. Papers"
+    ],
+    "date": [
+      "1984-02"
+    ],
+    "pages": [
+      "16–17"
+    ],
+    "title": [
+      "Cascode voltage switch logic: A differential CMOS logic family"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "XXVII"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "S.C."
+      },
+      {
+        "family": "DeMara",
+        "given": "R.F."
+      },
+      {
+        "family": "Yuan",
+        "given": "J.S."
+      },
+      {
+        "family": "Hagedorn",
+        "given": "M."
+      },
+      {
+        "family": "Ferguson",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "The VLSI Journal Integ"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "103–131"
+    ],
+    "title": [
+      "Delayinsensitive gate-level pipelining",
+      "Simulation and Experimental Characterization of a Unified Memory Device with Two Floating-Gates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Spigna",
+        "given": "N.",
+        "particle": "Di"
+      },
+      {
+        "family": "Schinke",
+        "given": "D."
+      },
+      {
+        "family": "Jayanti",
+        "given": "S."
+      },
+      {
+        "family": "Misra",
+        "given": "V."
+      },
+      {
+        "given": "Franzon"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE/IFIP 20th International Conference on VLSI SoC"
+    ],
+    "date": [
+      "2012"
+    ],
+    "pages": [
+      "53–58"
+    ],
+    "title": [
+      "P.: A Novel Double Floating-Gate Device"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electron Devices"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Park, K.-H., Park, C.M., Kong, S.H., Lee, J.-H"
+    ],
+    "pages": [
+      "614–619"
+    ],
+    "publisher": [
+      "Novel Double-Gate"
+    ],
+    "title": [
+      "1T-DRAM Cell Using Nonvolatile Memory Functionality for High-Performance and Highly Scalable Embedded DRAMs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Han",
+        "given": "J.-W."
+      },
+      {
+        "family": "Ryu",
+        "given": "S.-W."
+      },
+      {
+        "family": "Kim",
+        "given": "D.-H."
+      },
+      {
+        "given": "Choi"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electron Devices"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "601–607"
+    ],
+    "title": [
+      "Y.-K.: Polysilicon Channel TFT With Separated Double-Gate for Unified RAM (URAM)-Unified Function for Nonvolatile SONOS Flash and High-Speed Capacitorless 1T-DRAM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schinke",
+        "given": "D."
+      },
+      {
+        "family": "Spigna",
+        "given": "N.",
+        "particle": "Di"
+      },
+      {
+        "family": "Shiveshwarkar",
+        "given": "M."
+      },
+      {
+        "family": "Franzon",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "29–36"
+    ],
+    "title": [
+      "Computing with Novel Floating-Gate Devices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Afshari",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "2007 NNIN REU Research Accomplishments"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "38–39"
+    ],
+    "title": [
+      "Nonvolatile Memory with Multi-Stack Nanocrystals as Floating Gates"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "C."
+      },
+      {
+        "family": "Gorur-Seetharam",
+        "given": "A."
+      },
+      {
+        "given": "Kan"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEDM 2003 Technical Digest"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "557–560"
+    ],
+    "title": [
+      "E.C.: Operational and Reliability Comparison of Discrete-Storage Nonvolatile Memories: Advantages of Single- and Double-Layer Metal Nanocrystals"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "P.K."
+      },
+      {
+        "family": "Bisht",
+        "given": "G."
+      },
+      {
+        "family": "Hofmann",
+        "given": "R."
+      },
+      {
+        "family": "Singh",
+        "given": "K."
+      },
+      {
+        "family": "Krishna",
+        "given": "N."
+      },
+      {
+        "family": "Mahapatra",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Electron Device Letters"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1389–1391"
+    ],
+    "title": [
+      "Metal Nanocrystal Memory with Pt Single- and Dual-Layer NC With Low-Leakage Al2O3 Blocking Dielectric"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ohba",
+        "given": "R."
+      },
+      {
+        "family": "Sugiyama",
+        "given": "N."
+      },
+      {
+        "family": "Uchida",
+        "given": "K."
+      },
+      {
+        "family": "Koga",
+        "given": "J."
+      },
+      {
+        "family": "Toriumi",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electron Devices"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "1392–1398"
+    ],
+    "title": [
+      "Nonvolatile Si Quantum Memory With Self-Aligned Doubly-Stacked Dots"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jayanti",
+        "given": "S."
+      },
+      {
+        "family": "Yang",
+        "given": "X."
+      },
+      {
+        "family": "Suri",
+        "given": "R."
+      },
+      {
+        "family": "Misra",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEDM 2010 Technical Digest"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "106–109"
+    ],
+    "title": [
+      "Ultimate Scalability of TaN Metal Floating Gate with Incorporation of High-K Blocking Dielectrics for Flash Memory Applications"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Barroso",
+        "given": "L.A."
+      },
+      {
+        "family": "Holzle",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "12"
+    ],
+    "note": [
+      "Author Index"
+    ],
+    "pages": [
+      "33–37"
+    ],
+    "title": [
+      "The Case for Energy-Proportional Computing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  }
+]
