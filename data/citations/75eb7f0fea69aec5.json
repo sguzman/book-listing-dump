@@ -1,0 +1,78 @@
+[
+  {
+    "title": [
+      "Private Sub Form2_SystemColorsChanged(ByVal sender As Object, _ ByVal e As System.EventArgs) Handles MyBase.SystemColorsChanged Me.ForeColor = SystemColors.ActiveCaptionText End Sub"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Mouse The My.Computer.Mouse object provides information about the computer’s mouse. The following table describes this object’s properties"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Name The My.Computer.Name property simply returns the computer’s name"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "376–377"
+    ],
+    "title": [
+      "converting applications from Visual Basic 6 to Visual Basic 2005 converting applications from Visual Basic 6 to SimpleSmiley custom control"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "functions (table), 135–136, 778–779 testing, 365–366 narrowing conversions, 134–137 UserControl Test Container for, 363–364"
+    ],
+    "pages": [
+      "364–365"
+    ],
+    "title": [
+      "Visual Basic 2005, 6, 7 steps for building, 362 converting data types test project for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "forms as, 302–303 dragging items between ListBoxes, 392–393 list of components for, 804"
+    ],
+    "pages": [
+      "402–403"
+    ],
+    "title": [
+      "Option Strict compiler option and, 17, 153 uses for, 361 parsing methods, 137 custom dialogs widening conversions, 137 About dialogs, 279–281 copying ColorDialog component for, 810–811 controls, 71–72 FolderBrowserDialog component for, 821–823 copy and paste using clipboard, 404–405 FontDialog component for, 823–826 data to clipboard"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "manipulating output programmatically, 672–673 custom stream classes, 716 ReportDocument object and, 672–673 custom toolbars ReportSource property, 671 StatusStrip control for, 270, 881–882 viewing reports, 656, 666–667 tools for, 804 CurrencyManager object ToolStrip control for, 270–271, 891–893 methods (table), 353 ToolStripContainer control for, 893–894 overview, 352 CustomEndCap property (Pen class), 567–568 program demonstrating, 353–355 Customize command (Tools menu), 40 properties (table), 352–353 Customize dialog"
+    ],
+    "pages": [
+      "293"
+    ],
+    "title": [
+      "Create GUID dialog, 37, 38 OpenFileDialog component for, 855–857 cryptography, 747–751 SaveFileDialog component for, 877–878 CryptoStream object, 748 wizards, 303–304 Crystal Reports for Visual Studio 2005 custom events, 451–455 building a report, 656–666 custom exception classes, 248–249, 796 Crystal Reports Gallery, 657, 658 custom format specifiers, 944–946 CrystalReportViewer control, 666–667, 671–673 custom menus further information, 655 ContextMenuStrip component for, 270, 813–814 Report object, 655–656 MenuStrip control for, 270, 845–847 Standard Report Creation Wizard, 657–665 MRU lists, 296–302 CrystalReportViewer control tools for, 804 external reports with, 671–672 Window menu for MDI child forms"
+    ],
+    "type": "report",
+    "volume": [
+      "292"
+    ]
+  },
+  {
+    "note": [
+      "for testing custom controls, 364–365 Info object (My.Application), 959–960 properties. See also properties, tables summarizing Info object (My.Computer), 966–967 for anti-aliasing, 543–545 Keyboard object (My.Computer), 967",
+      "446–447 Mouse object (My.Computer), 967 defined, 75, 407 My.Application, 957–962 events changed by (Form class), 918–919 My.Computer.FileSystem object, 734–735, events versus, 448 965–966, 995 implementing for custom controls, 366–367 My.Computer.FileSystem. inheritance from Control class, 84–85 SpecialDirectoriesProxy object, My.Computer.Registry namespace, 683 737, 997–998 position and size properties, 89–90 My.Computer.Registry namespace, 683"
+    ],
+    "title": [
+      "assigning attributes for custom controls, 368–369 LinearGradientBrush class, 575–577 binding (complex strategy), 356–359 LinkLabel control, 830 binding (simple strategy), 351–352 ListBox control, 832 of child controls, 284 ListView control, 837 collection properties, 80–83, 84 MaskedTextBox control, 844 of command objects, 330–331 MenuStrip control, 846 compound properties, 77–78 MonthCalendar control, 848–849 declaring within classes"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,3845 @@
+[
+  {
+    "citation-number": [
+      "750"
+    ],
+    "title": [
+      "Appendix A / Basic Concepts from Linear Algebra"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "Z01_STAL7484_08_GE_APPA.indd"
+    ],
+    "title": [
+      "750 06/04/22 12:16 PM Appendix B Measures of Secrecy and Security B.1 Conditional Probability B.2 Perfect Secrecy B.3 Information and Entropy Information Entropy Properties of the Entropy Function Conditional Entropy B.4 Entropy and Secrecy B.5 Min-Entropy"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "ABBREVIATIONS ACM Association for Computing Machinery IBM International Business Machines Corporation IEEE Institute of Electrical and Electronics Engineers NIST National Institute of Standards and Technology ADAM94",
+      "Proceedings, Workshop on Selected Areas of Cryptography, SAC’94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Simple and Effective Key Scheduling for Symmetric Ciphers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "AGRA04 Agrawal",
+        "given": "M."
+      },
+      {
+        "family": "Kayal",
+        "given": "N."
+      },
+      {
+        "family": "Saxena",
+        "given": "N."
+      },
+      {
+        "family": "AGRE11 Agren",
+        "given": "M."
+      },
+      {
+        "family": "Hell",
+        "given": "M."
+      },
+      {
+        "family": "Johansson",
+        "given": "T."
+      },
+      {
+        "family": "Meier",
+        "given": "W."
+      },
+      {
+        "family": "ALFA13 AlFardan",
+        "given": "N."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IIT Kanpur, Annals of Mathematics",
+      "ECRYPT Workshop on Symmetric Encryption, February 2011",
+      "USENIX Security Symposium"
+    ],
+    "date": [
+      "2004-09",
+      "2013-07"
+    ],
+    "note": [
+      "ANDR17 Androulaki, E. “Cryptography and Protocols in Hyperledger Fabric.” Real-World Cryptography Conference, 2017."
+    ],
+    "title": [
+      "PRIMES is in P",
+      "A New Version of Grain-128 with Authentication",
+      "On the Security of RC4 in TLS and WPA"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "AROR12 Arora",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "EE Times"
+    ],
+    "date": [
+      "2012-05-07"
+    ],
+    "title": [
+      "How Secure is AES Against Brute-Force Attack?"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "AUMA12 Aumasson",
+        "given": "J."
+      },
+      {
+        "family": "Bernstein",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Progress in Cryptology – INDOCRYPT 2012"
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "SipHash: A Fast Short-Input PRF"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BABB08 Babbage",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2008-04-15"
+    ],
+    "genre": [
+      "pdf,"
+    ],
+    "title": [
+      "The eStream Portfolio"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ecrypt.eu.org/stream/portfolio."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARD12 Bardou",
+        "given": "R."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "BASU12 Basu",
+        "given": "A."
+      },
+      {
+        "family": "BELL90 Bellovin",
+        "given": "S."
+      },
+      {
+        "family": "Merritt",
+        "given": "M."
+      },
+      {
+        "family": "BELL94a Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "INRIA, Rapport de recherche RR-7944",
+      "Proceedings, Eurocrypt ‘94",
+      "Intel Corp",
+      "Computer Communications Review"
+    ],
+    "date": [
+      "2012-04",
+      "2012-05",
+      "1990-10",
+      "1994"
+    ],
+    "title": [
+      "Efficient Padding Oracle Attacks on Cryptographic Hardware",
+      "Intel AES-NI Performance Testing over Full Disk Encryption",
+      "Limitations of the Kerberos Authentication System",
+      "Optimal Asymmetric Encryption—How to Encrypt with RSA"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://hal.inria.fr/hal-00691958,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BELL94b Bellovin",
+        "given": "S."
+      },
+      {
+        "family": "Cheswick",
+        "given": "W."
+      },
+      {
+        "family": "BELL96a Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Canetti",
+        "given": "R."
+      },
+      {
+        "family": "Krawczyk",
+        "given": "H."
+      },
+      {
+        "family": "BELL96b Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Canetti",
+        "given": "R."
+      },
+      {
+        "family": "Krawczyk",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Proceedings, CRYPTO ‘96",
+      "“The Exact Security of Digital Signatures—How to Sign with RSA and Rabin.” Advances in Cryptology – Eurocrypt ‘96",
+      "IEEE Communications Magazine",
+      "CryptoBytes"
+    ],
+    "date": [
+      "1994-09",
+      "1996-08",
+      "1996",
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "BELL96c Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      }
+    ],
+    "note": [
+      "An expanded version is available at"
+    ],
+    "title": [
+      "Network Firewalls",
+      "Keying Hash Functions for Message Authentication",
+      "published by Springer-Verlag",
+      "The HMAC Construction"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www-cse.ucsd.edu/users/mihir."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BELL98 Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "BELL00 Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Kilian",
+        "given": "J."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Submission to IEEE P1363",
+      "Journal of Computer and System Sciences"
+    ],
+    "date": [
+      "1998-08",
+      "2000-12"
+    ],
+    "pages": [
+      "804"
+    ],
+    "title": [
+      "PSS: Provably Secure Encoding Method for Digital Signatures",
+      "The Security of the Cipher Block Chaining Message Authentication Code"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BELL09 Bellare",
+        "given": "M."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "BELL10a Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Spies",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proceedings of SAC 2009 (Selected Areas in Cryptography"
+    ],
+    "date": [
+      "2009-11"
+    ],
+    "genre": [
+      "Report 2004/094"
+    ],
+    "note": [
+      "NIST, http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec.pdf, February, 2010."
+    ],
+    "title": [
+      "Format Preserving Encryption",
+      "Available at Cryptology ePrint Archive",
+      "The FFX Mode of Operation for Format-Preserving Encryption, Draft 1.1"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "BELL10b Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Spies",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "NIST"
+    ],
+    "date": [
+      "2010-09"
+    ],
+    "title": [
+      "Addendum to The FFX Mode of Operation for Format-Preserving Encryption: A parameter collection for enciphering strings of arbitrary radix and length"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec2.pdf,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BELL16 Bellovin",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "publisher": [
+      "IEEE Security & Privacy, May-June"
+    ],
+    "title": [
+      "Attack Surfaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BENN97 Bennett",
+        "given": "C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "SIAM Journal on Computing"
+    ],
+    "date": [
+      "1997-10"
+    ],
+    "title": [
+      "Strengths and Weaknesses of Quantum Computing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BERT07 Bertoni",
+        "given": "G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Ecrypt Hash Workshop 2007"
+    ],
+    "date": [
+      "2007-05"
+    ],
+    "title": [
+      "Sponge Functions"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BERT11 Bertoni",
+        "given": "G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2011-01",
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "BETH91 Beth",
+        "given": "T.",
+        "particle": "noekeon.org/."
+      },
+      {
+        "family": "Frisch",
+        "given": "M."
+      },
+      {
+        "family": "Simmons",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Cryptographic Sponge Functions",
+      "Public-Key Cryptography: State of the Art and Future Directions"
+    ],
+    "type": "book",
+    "url": [
+      "http://sponge."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BIRY04 Biryukov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Cryptology ePrint Archive, Report"
+    ],
+    "date": [
+      "2004/094, 2004"
+    ],
+    "title": [
+      "Block Ciphers and Stream Ciphers: The State of the Art"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BIRY17 Biryukov",
+        "given": "A."
+      },
+      {
+        "family": "Perrin",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Cryptology ePrint Archive, Report",
+      "J. “Authenticated Encryption.” Encyclopedia of Cryptography and Security"
+    ],
+    "date": [
+      "2017/511, 2017",
+      "2005"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "State of the Art in Lightweight Symmetric Cryptography",
+      "BLAC05 Black"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BLEI98 Bleichenbacher",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "CRYPTO"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Chosen ciphertext attacks against protocols based on the RSA encryption standard PKCS #1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "98"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BLUM86 Blum",
+        "given": "L."
+      },
+      {
+        "family": "Blum",
+        "given": "M."
+      },
+      {
+        "family": "Shub",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "SIAM Journal on Computing"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "A Simple Unpredictable Pseudo-Random Number Generator"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "BOGA18 Bogatyy",
+        "given": "I."
+      },
+      {
+        "family": "BONE02 Boneh",
+        "given": "D."
+      },
+      {
+        "family": "Shacham",
+        "given": "H."
+      },
+      {
+        "family": "BRIE10 Brier",
+        "given": "E."
+      },
+      {
+        "family": "Peyrin",
+        "given": "T."
+      },
+      {
+        "family": "Stern",
+        "given": "J."
+      },
+      {
+        "family": "BRIG79 Bright",
+        "given": "H."
+      },
+      {
+        "family": "Enison",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Ethereum White Paper",
+      "CryptoBytes",
+      "NIST",
+      "Computing Surveys",
+      "Project Athena document"
+    ],
+    "date": [
+      "2018-08",
+      "Winter/Spring 2002",
+      "2010-04",
+      "1979-12",
+      "1988-02"
+    ],
+    "genre": [
+      "pdf,"
+    ],
+    "note": [
+      "Available at http://web.mit.edu/kerberos/www/ dialogue.html BUTE15 Buterin, MV. “On Public and Private Blockchains.” Ethereum Blog, August 7, 2015,"
+    ],
+    "title": [
+      "A Next-Generation Smart Contract and Decentralized Application Platform",
+      "Fast Variants of RSA",
+      "BPS: a Format-Preserving Encryption Proposal",
+      "Quasi-Random Number Sequences from Long-Period TLP Generator with Remarks on Application to Cryptography",
+      "BRYA88 Bryant, W. Designing an Authentication System: A Dialogue in Four Scenes"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://github.com/ethereum/wiki/",
+      "http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/bps/bps-spec.",
+      "https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Butin",
+        "given": "R.E.F.E.R.E.N.C.E.S.BUTI17"
+      },
+      {
+        "given": "D."
+      },
+      {
+        "family": "CACH16 Cachin",
+        "given": "C."
+      },
+      {
+        "family": "CAKI10 Cakiroglu",
+        "given": "M."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "CAMP92 Campbell",
+        "given": "K."
+      },
+      {
+        "family": "Wiener",
+        "given": "M."
+      },
+      {
+        "family": "Choi",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "806"
+    ],
+    "container-title": [
+      "Workshop on Distributed Cryptocurrencies and Consensus Ledgers",
+      "Proceedings, Crypto ‘92, 1992; published by Springer-Verlag. CHOI08",
+      "IEEE Security & Privacy",
+      "Scientific Research and Essays",
+      "International Journal of Multimedia and Ubiquitous Engineering"
+    ],
+    "date": [
+      "July/ August 2017",
+      "2016-07",
+      "2010-05",
+      "2008-07"
+    ],
+    "note": [
+      "CONS17 Constantin, L. “The SHA-1 Hash Function is Now Completely Unsafe.” Computer-World, February 23, 2017."
+    ],
+    "title": [
+      "Hash-Based Signatures: State of Play",
+      "Architecture of the Hyperledger Blockchain Fabric",
+      "Performance evaluation of scalable encryption algorithm for wireless sensor networks",
+      "Proof that DES is not a Group",
+      "Wireless Network Security: Vulnerabilities, Threats and Countermeasures"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "COPP94 Coppersmith",
+        "given": "D."
+      },
+      {
+        "family": "CORM09 Cormen",
+        "given": "T."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C."
+      },
+      {
+        "family": "Rivest",
+        "given": "R."
+      },
+      {
+        "family": "Stein",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1994-05",
+      "2009"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Data Encryption Standard (DES) and Its Strength Against Attacks",
+      "Introduction to Algorithms"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "CRAN01 Crandall",
+        "given": "R."
+      },
+      {
+        "family": "Pomerance",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Prime Numbers: A Computational Perspective"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "CRYP17 CRYPTREC Lightweight Cryptography Working Group. CRYPTREC Cryptographic Technology Guideline (Lightweight Cryptography"
+    ],
+    "date": [
+      "2017-03"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Alliance",
+        "given": "CSA11 Cloud Security"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "genre": [
+      "CSA Report,"
+    ],
+    "title": [
+      "Security as a Service (SecaaS"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Alliance",
+        "given": "CSA17 Cloud Security"
+      }
+    ],
+    "date": [
+      "2017-10",
+      "1999-03"
+    ],
+    "genre": [
+      "CSA Report,"
+    ],
+    "note": [
+      "DAEM99 Daemen, J., and Rijmen, V. AES Proposal: Rijndael, Version 2. Submission to NIST,"
+    ],
+    "title": [
+      "The Treacherous 12—Top Threats to Cloud Computing + Industry Insights"
+    ],
+    "type": "report",
+    "url": [
+      "http://csrc.nist.gov/archive/aes/index.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAMG89 Damgard",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Proceedings, CRYPTO ‘89"
+    ],
+    "date": [
+      "1989"
+    ],
+    "publisher": [
+      "published by Springer-Verlag"
+    ],
+    "title": [
+      "A Design Principle for Hash Functions"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "DAVI89 Davies",
+        "given": "D."
+      },
+      {
+        "family": "Price",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Security for Computer Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DAWS96 Dawson",
+        "given": "E."
+      },
+      {
+        "family": "Nielsen",
+        "given": "L."
+      },
+      {
+        "family": "DENN81 Denning",
+        "given": "D."
+      },
+      {
+        "family": "Sacco",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Cryptologia",
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1996-04",
+      "1981-08"
+    ],
+    "title": [
+      "Automated Cryptoanalysis of XOR Plaintext Strings",
+      "Timestamps in Key Distribution Protocols"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DENN82 Denning",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Cryptography and Data Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DENN83 Denning",
+        "given": "D."
+      },
+      {
+        "family": "DIFF76a Diffie",
+        "given": "W."
+      },
+      {
+        "family": "Hellman",
+        "given": "M."
+      },
+      {
+        "family": "DIFF76b Diffie",
+        "given": "W."
+      },
+      {
+        "family": "Hellman",
+        "given": "M."
+      },
+      {
+        "family": "DIFF77 Diffie",
+        "given": "W."
+      },
+      {
+        "family": "Hellman",
+        "given": "M."
+      },
+      {
+        "family": "DIFF79 Diffie",
+        "given": "W."
+      },
+      {
+        "family": "Hellman",
+        "given": "M."
+      },
+      {
+        "given": "W."
+      },
+      {
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the AFIPS National Computer Conference",
+      "Proceedings of the IEEE",
+      "Proceedings of the IEEE",
+      "Computer",
+      "IEEE Transactions on Information Theory",
+      "Computer",
+      "Information Systems Control Journal"
+    ],
+    "date": [
+      "1983-02",
+      "1976-06",
+      "1976-11",
+      "1977-06",
+      "1979-03",
+      "1988-05",
+      "2007"
+    ],
+    "note": [
+      "DIFF88 Diffie,",
+      "DIMI07 Dimitriadis,"
+    ],
+    "title": [
+      "Protecting Public Keys and Signature Keys",
+      "New Directions in Cryptography",
+      "Multiuser Cryptographic Techniques",
+      "Exhaustive Cryptanalysis of the NBS Data Encryption Standard",
+      "Privacy and Authentication: An Introduction to Cryptography",
+      "The First Ten Years of Public-Key Cryptography",
+      "Analyzing the Security of Internet Banking Authentication Mechanisms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DING17 Ding",
+        "given": "J."
+      },
+      {
+        "family": "Petzoldt",
+        "given": "A."
+      },
+      {
+        "family": "DRUC18 Drucker",
+        "given": "N."
+      },
+      {
+        "family": "Gueron",
+        "given": "S."
+      },
+      {
+        "family": "Krasnov",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Cryptology ePrint Archive, Report 2018/392, 2018 EFF98 Electronic Frontier Foundation. Cracking DES: Secrets of Encryption Research, Wiretap Politics, and Chip Design",
+      "IEEE Security & Privacy"
+    ],
+    "date": [
+      "July/August 2017",
+      "1998"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Current State of Multivariate Cryptography",
+      "Making AES great again: the forthcoming vectorized AES instruction"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ELGA84 Elgamal",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Crypto 84"
+    ],
+    "date": [
+      "1984"
+    ],
+    "title": [
+      "A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "ELGA85 Elgamal",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "ETSI14 European Telecommunications Standards Institute. Quantum Safe Cryptography and Security; An introduction, benefits, enablers and challenges",
+      "IEEE Transactions on Information Theory",
+      "Baseline Security Recommendations for IoT"
+    ],
+    "date": [
+      "1985-07",
+      "2017-11",
+      "2014"
+    ],
+    "publisher": [
+      "ETSI White Paper"
+    ],
+    "title": [
+      "A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms",
+      "ENIS17 European Union Agency For Network And Information Security"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://www.enisa.europa.eu"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FEIS73 Feistel",
+        "given": "H."
+      },
+      {
+        "family": "FEIS75 Feistel",
+        "given": "H."
+      },
+      {
+        "family": "Notz",
+        "given": "W."
+      },
+      {
+        "family": "Smith",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE",
+      "Scientific American"
+    ],
+    "date": [
+      "1973-05",
+      "1975-11"
+    ],
+    "title": [
+      "Cryptography and Computer Privacy",
+      "Some Cryptographic Techniques for Machine-to-Machine Data Communications"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "FERN99 Fernandes",
+        "given": "A."
+      },
+      {
+        "family": "FORD95 Ford",
+        "given": "W."
+      },
+      {
+        "family": "FRAN07 Frankel",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal",
+      "ACM SIGSAC Review"
+    ],
+    "date": [
+      "1999-12",
+      "1995-07",
+      "2007-02"
+    ],
+    "genre": [
+      "NIST Special Publication SP 800-97,"
+    ],
+    "title": [
+      "Elliptic Curve Cryptography",
+      "Advances in Public-Key Certificate Standards",
+      "Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GARD77 Gardner",
+        "given": "M."
+      },
+      {
+        "family": "GEOR12 Georgiev",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Validating SSL Certificates in Non-Browser Software.” ACM Conference on Computer and Communications Security",
+      "Scientific American",
+      "February"
+    ],
+    "date": [
+      "1977-08",
+      "2017",
+      "2012"
+    ],
+    "title": [
+      "A New Kind of Cipher That Would Take Millions of Years to Break",
+      "GART17 Gartner Research. “ What CIOs Should Tell the Board of Directors About Blockchain",
+      " The Most Dangerous Code in the World"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://www.gartner.com/doc/3606027/cios-tell-boarddirectors-blockchain"
+    ],
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GONG92 Gong",
+        "given": "L."
+      },
+      {
+        "family": "GONG93 Gong",
+        "given": "L."
+      },
+      {
+        "family": "GOOD11 Goodin",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings, IEEE Computer Security Foundations Workshop",
+      "Operating Systems Review",
+      "The Register"
+    ],
+    "date": [
+      "1992-01",
+      "1993-06",
+      "2011-09-19"
+    ],
+    "title": [
+      "A Security Risk of Depending on Synchronized Clocks",
+      "Variations on the Themes of Message Freshness and Replay",
+      "Hackers break SSL encryption used by millions of sites"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GOOD12 Goodin",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Ars Technica"
+    ],
+    "date": [
+      "2012-09-13"
+    ],
+    "title": [
+      "Crack in Internet’s foundation of trust allows HTTPS session hijacking"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GREE18 Greenemeier",
+        "given": "L."
+      },
+      {
+        "family": "GROV96 Grover",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "ACM Symposium on Theory of Computing",
+      "Scientific American"
+    ],
+    "date": [
+      "2018-05",
+      "1996"
+    ],
+    "title": [
+      "How Close Are We—Really—to Building a Quantum Computer?",
+      "A Fast Quantum Mechanical Algorithm for Database Search"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "GUO11 Guo",
+        "given": "J."
+      },
+      {
+        "family": "Peyrin",
+        "given": "T."
+      },
+      {
+        "family": "Poschmann",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "31st Annual International Cryptology Conference (CRYPTO 2011"
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "The PHOTON Family of Lightweight Hash Functions"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "GUTT06 Gutterman",
+        "given": "Z."
+      },
+      {
+        "family": "Pinkas",
+        "given": "B."
+      },
+      {
+        "family": "Reinman",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proceedings, 2006 IEEE Symposium on Security and Privacy"
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Analysis of the Linux Random Number Generator"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartley",
+        "given": "R.E.F.E.R.E.N.C.E.S.HART28"
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "HELL79 Hellman",
+        "given": "M."
+      },
+      {
+        "family": "HELL06 Hell",
+        "given": "M."
+      },
+      {
+        "family": "Johansson",
+        "given": "T."
+      },
+      {
+        "family": "Meier",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "808"
+    ],
+    "container-title": [
+      "Bell System Technical Journal",
+      "Scientific American",
+      "International Journal of Wireless and Mobile Computing"
+    ],
+    "date": [
+      "1928-07",
+      "1970-08",
+      "2006"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Transmission of Information",
+      "The Mathematics of Public-Key Cryptography",
+      "Grain—a stream cipher for constrained environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HERN06 Hernan",
+        "given": "S."
+      },
+      {
+        "family": "Lambert",
+        "given": "S."
+      },
+      {
+        "family": "Ostwald",
+        "given": "T."
+      },
+      {
+        "family": "Shostack",
+        "given": "A."
+      },
+      {
+        "family": "HEVI99 Hevia",
+        "given": "A."
+      },
+      {
+        "family": "Kiwi",
+        "given": "M."
+      },
+      {
+        "family": "A.",
+        "given": "Kramp"
+      },
+      {
+        "family": "T."
+      },
+      {
+        "family": "Wiegold",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "MSDN Magazine",
+      "ACM Transactions on Information and System Security",
+      "IEEE Security and Privacy"
+    ],
+    "date": [
+      "2006-11",
+      "1999-11",
+      "2006"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "HILT06 Hiltgen,"
+    ],
+    "title": [
+      "Uncover Security Design Flaws Using The STRIDE Approach",
+      "Strength of Two Data Encryption Standard Implementations Under Timing Attacks",
+      "Secure Internet Banking Authentication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HOWA03 Howard",
+        "given": "M."
+      },
+      {
+        "family": "Pincus",
+        "given": "J."
+      },
+      {
+        "family": "Wing",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Workshop on Advanced Developments in Software and Systems Security"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Measuring Relative Attack Surfaces"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "HUIT98 Huitema",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "IPv6: The New Internet Protocol"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "I’Anson",
+        "given": "IANS90"
+      },
+      {
+        "family": "C."
+      },
+      {
+        "family": "Mitchell",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "INTE18 Intel, Corp. Intel Architecture Instruction Set Extensions and Future Features Programming Reference. Ref",
+      "Computer Communications Review"
+    ],
+    "date": [
+      "1990-04",
+      "2018-05"
+    ],
+    "note": [
+      "INTE14 Intel Corp. Intel® Digital Random Number Generator (DRNG) Software Implementation Guide. May 15, 2014."
+    ],
+    "pages": [
+      "319433–034,"
+    ],
+    "title": [
+      "Security Defects in CCITT Recommendation X.509 - The Directory Authentication Framework"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://software.intel.com/en-us/articles/intel-digital-randomnumber-generator-drng-software-implementation-guide",
+      "https://software:"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ISACA",
+        "given": "ISAC13"
+      },
+      {
+        "family": "IWAT03 Iwata",
+        "given": "T."
+      },
+      {
+        "family": "Kurosawa",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Fast Software Encryption, FSE ‘03"
+    ],
+    "date": [
+      "2008",
+      "2003"
+    ],
+    "title": [
+      "Responding to Targeted Cyberattacks",
+      "OMAC: One-Key CBC MAC"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "www.isaca.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "JAIN91 Jain",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The Art of Computer Systems Performance Analysis: Techniques for ­Experimental Design, Measurement, Simulation, and Modeling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "JAKO98 Jakobsson",
+        "given": "M."
+      },
+      {
+        "family": "Shriver",
+        "given": "E."
+      },
+      {
+        "family": "Hillyer",
+        "given": "B."
+      },
+      {
+        "family": "Juels",
+        "given": "A."
+      },
+      {
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of The Fifth ACM Conference on Computer and Communications Security",
+      "Proceedings, First NIST Cryptographic Hash Workshop"
+    ],
+    "date": [
+      "1998-11",
+      "2005"
+    ],
+    "note": [
+      "JOHN05 Johnson,"
+    ],
+    "title": [
+      "A Practical Secure Physical Random Bit Generator",
+      "Hash Functions and Pseudorandomness"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "JONS02 Jonsson",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of Selected Areas in Cryptography – SAC 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "On the Security of CTR + CBC-MAC"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "JUEN87 Jueneman",
+        "given": "R."
+      },
+      {
+        "family": "JURI97 Jurisic",
+        "given": "A."
+      },
+      {
+        "family": "Menezes",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Network Magazine",
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "1987-04",
+      "1997-04"
+    ],
+    "title": [
+      "Electronic Document Authentication",
+      "Elliptic Curves and Cryptography"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "KALI01 Kaliski",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "2001-05"
+    ],
+    "title": [
+      "RSA Digital Signatures"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "KALI95 Kaliski",
+        "given": "B."
+      },
+      {
+        "family": "Robshaw",
+        "given": "M."
+      },
+      {
+        "family": "KALI96a Kaliski",
+        "given": "B."
+      },
+      {
+        "family": "Robshaw",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "CryptoBytes",
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "1995",
+      "1996-01"
+    ],
+    "title": [
+      "The Secure Use of RSA",
+      "Multiple Encryption: Weighing Security and Performance"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "KALI96b Kaliski",
+        "given": "B."
+      },
+      {
+        "family": "KEHN92 Kehne",
+        "given": "A."
+      },
+      {
+        "family": "Schonwalder",
+        "given": "J."
+      },
+      {
+        "family": "Langendorfer",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "RSA Laboratories Bulletin",
+      "Operating Systems Review"
+    ],
+    "date": [
+      "1996-01",
+      "1992-10"
+    ],
+    "title": [
+      "Timing Attacks on Cryptosystems",
+      "A Nonce-Based Protocol for Multiple Authentications"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.rsasecurity.com/rsalabs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KLEI10 Kleinjung",
+        "given": "T."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Listing",
+      "Cryptology ePrint Archive"
+    ],
+    "date": [
+      "2010/006",
+      "2010-02-18"
+    ],
+    "title": [
+      "Factorization of a 768-bit RSA modulus"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "KNUD00 Knudson",
+        "given": "L."
+      },
+      {
+        "family": "KNUT98 Knuth",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "NIST First Modes of Operation Workshop",
+      "Seminumerical Algorithms"
+    ],
+    "date": [
+      "2000-10",
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Block Chaining Modes of Operation",
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://csrc.nist.gov/groups/ST/toolkit/BCM/workshops.html"
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KOBL94 Koblitz",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A Course in Number Theory and Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "KOCH96 Kocher",
+        "given": "P."
+      },
+      {
+        "family": "KOHL89 Kohl",
+        "given": "J."
+      },
+      {
+        "family": "Springer-Verlag. KOHL94 Kohl",
+        "given": "J.",
+        "particle": "published by"
+      },
+      {
+        "family": "Neuman",
+        "given": "B."
+      },
+      {
+        "family": "Ts’o",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Crypto ‘96",
+      "­Proceedings, Crypto ‘89"
+    ],
+    "date": [
+      "1996-08",
+      "1989",
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "Brazier",
+        "given": "F."
+      },
+      {
+        "family": "Johansen",
+        "given": "D."
+      }
+    ],
+    "location": [
+      "Los Alamitos, CA"
+    ],
+    "note": [
+      "Available at http://web.mit.edu/kerberos/www/ papers.html KOHN78 Kohnfelder, L. Towards a Practical Public Key Cryptosystem. Bachelor’s Thesis, M.I.T. 1978."
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems",
+      "The Use of Encryption in Kerberos for Network Authentication",
+      "The Evolution of the Kerberos Authentication Service",
+      "Distributed Open Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "KUMA97 Kumar",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Laguna Hills, CA"
+    ],
+    "publisher": [
+      "Aegean Park Press"
+    ],
+    "title": [
+      "Cryptology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "KUMA10 Kumar",
+        "given": "K."
+      },
+      {
+        "family": "Salivahanan",
+        "given": "S."
+      },
+      {
+        "family": "Reddy",
+        "given": "K."
+      },
+      {
+        "family": "KUMA11a Kumar",
+        "given": "K."
+      },
+      {
+        "family": "Reddy",
+        "given": "K."
+      },
+      {
+        "family": "Salivahanan",
+        "given": "S."
+      },
+      {
+        "family": "KUMA11b Kumar",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "International Journal of Computer Applications",
+      "International Journal of Computer Applications",
+      "The Hacker News"
+    ],
+    "date": [
+      "2010-12",
+      "2011-06",
+      "2011-10-24"
+    ],
+    "title": [
+      "Implementation of Low Power Scalable Encryption Algorithm",
+      "Efficient Modular Adders for Scalable Encryption Algorithm",
+      "The Hacker’s Choice Releases SSL DOS Tool"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://thehackernews.com/2011/10/hackers-choice-releases-ssl-ddos-tool."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LAI18 Lai",
+        "given": "V."
+      },
+      {
+        "family": "LAMP79 Lamport",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "2018-07-09",
+      "1979-10-18"
+    ],
+    "genre": [
+      "Technical Report CSL-98,"
+    ],
+    "publisher": [
+      "Computer Science Laboratory"
+    ],
+    "title": [
+      "A coffee-break introduction to time complexity of algorithms",
+      "Constructing Digital Signatures from a One Way Function"
+    ],
+    "type": "report",
+    "url": [
+      "https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LAM92a Lam",
+        "given": "K."
+      },
+      {
+        "family": "Gollmann",
+        "given": "D."
+      },
+      {
+        "family": "Springer-Verlag. LAM92b Lam",
+        "given": "K.",
+        "particle": "published by"
+      },
+      {
+        "family": "Beth",
+        "given": "T."
+      },
+      {
+        "family": "Springer-Verlag. LAMP98 Lamport",
+        "given": "L.",
+        "particle": "published by"
+      },
+      {
+        "family": "LAUT17 Lauter",
+        "given": "K."
+      },
+      {
+        "family": "LAW06 Law",
+        "given": "Y."
+      },
+      {
+        "family": "Doumen",
+        "given": "J."
+      },
+      {
+        "family": "Hartel",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings, ESORICS 92",
+      "Proceedings, ESORICS 92",
+      "ACM Transactions on Computer Systems",
+      "IEEE Security & Privacy",
+      "ACM Transactions on Sensor Networks"
+    ],
+    "date": [
+      "1992",
+      "1992",
+      "1998-05",
+      "July/August 2017",
+      "2006-02"
+    ],
+    "title": [
+      "Freshness Assurance of Authentication Protocols",
+      "Timely Authentication in Distributed Systems",
+      "The Part-Time Parliament",
+      "Postquantum Opportunities: Lattices, Homomorphic Encryption, and Supersingular Isogeny Graphs",
+      "Survey and Benchmark of Block Ciphers for Wireless Sensor Networks"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lehmer",
+        "given": "R.E.F.E.R.E.N.C.E.S.LEHM51"
+      },
+      {
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "810"
+    ],
+    "container-title": [
+      "Proceedings, 2nd Symposium on Large-Scale Digital Calculating Machinery"
+    ],
+    "date": [
+      "1951"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "title": [
+      "Mathematical Methods in Large-Scale Computing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LEUT94 Leutwyler",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Scientific American"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "title": [
+      "Superhack"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LEVE90 Leveque",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover"
+    ],
+    "title": [
+      "Elementary Theory of Numbers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LEVI12 Levis",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "10th USENIX Symposium on Operating Systems Design and Implementation"
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      " Experiences from a Decade of TinyOS Development"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LEWA00 Lewand",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Mathematical Association of America"
+    ],
+    "title": [
+      "Cryptological Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LEWI69 Lewis",
+        "given": "P."
+      },
+      {
+        "family": "Goodman",
+        "given": "A."
+      },
+      {
+        "family": "Miller",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1969"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "A Pseudo-Random Number Generator for the System/360"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "LIDL94 Lidl",
+        "given": "R."
+      },
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Introduction to Finite Fields and Their Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LIPM00 Lipmaa",
+        "given": "H."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Wagner",
+        "given": "D."
+      },
+      {
+        "family": "LISK02 Liskov",
+        "given": "M."
+      },
+      {
+        "family": "Rivest",
+        "given": "R."
+      },
+      {
+        "family": "Wagner",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "NIST First Modes of Operation Workshop",
+      "Advances in Cryptology – CRYPTO 2002"
+    ],
+    "date": [
+      "2000-10",
+      "2002"
+    ],
+    "title": [
+      "CTR Mode Encryption",
+      "Tweakable Block Ciphers"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://csrc.nist.gov/groups/ST/toolkit/BCM/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LUCK04 Luck",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Cryptology ePrint Archive, Report"
+    ],
+    "date": [
+      "2004/253, 2004"
+    ],
+    "title": [
+      "Design Principles for Iterated Hash Functions"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "LUK07 Luk",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "International Conf. on Information Processing in Sensor Networks"
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "MiniSec: A Secure Sensor Network Communication Architecture"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "MA10 Ma",
+        "given": "D."
+      },
+      {
+        "family": "Tsudik",
+        "given": "G."
+      },
+      {
+        "family": "MACE08 Mace",
+        "given": "F."
+      },
+      {
+        "family": "Standaert",
+        "given": "F."
+      },
+      {
+        "family": "Quisquater",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, February 2008. MANA11",
+      "IEEE Wireless Communications",
+      "IEEE Transactions on Software Engineering"
+    ],
+    "date": [
+      "2010-10",
+      "2011"
+    ],
+    "editor": [
+      {
+        "family": "Manadhata",
+        "given": "P."
+      },
+      {
+        "family": "Wing",
+        "given": "J."
+      }
+    ],
+    "issue": [
+      "3"
+    ],
+    "title": [
+      "Security and Privacy in Emerging Wireless Networks",
+      "FPGA Implementation(s) of a Scalable Encryption Algorithm",
+      "An Attack Surface Metric"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MAUW05 Mauw",
+        "given": "S."
+      },
+      {
+        "family": "Oostdijk",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "International Conference on Information Security and Cryptology"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Foundations of Attack Trees"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "MAYE95 Mayer",
+        "given": "R."
+      },
+      {
+        "family": "Davis",
+        "given": "J."
+      },
+      {
+        "family": "Schoorman",
+        "given": "D."
+      },
+      {
+        "family": "MCEL78 McEliece",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Academy of Management Review"
+    ],
+    "date": [
+      "1995-07",
+      "1978"
+    ],
+    "publisher": [
+      "Deep Space Network Progress Report, Jet Propulsion Laboratory, California Institute of Technology"
+    ],
+    "title": [
+      "An Integrative Model of Organizational Trust",
+      "A Public-Key Cryptosystem Based on Algebraic Coding Theory"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MCGR03 McGrew",
+        "given": "D."
+      },
+      {
+        "family": "Viega",
+        "given": "J."
+      },
+      {
+        "family": "MCGR04 McGrew",
+        "given": "D."
+      },
+      {
+        "family": "Viega",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings, Indocrypt"
+    ],
+    "date": [
+      "2003",
+      "2004"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "title": [
+      "Flexible and Efficient Message Authentication in Hardware and Software",
+      "The Security and Performance of the Galois/Counter Mode (GCM) of Operation"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://citeseerx.ist.psu.edu/viewdoc/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MECH14 Mechalas",
+        "given": "J.Intel® Digital Random Number Generator"
+      },
+      {
+        "family": "MENE97 Menezes",
+        "given": "A."
+      },
+      {
+        "family": "Oorshcot",
+        "given": "P."
+      },
+      {
+        "family": "Vanstone",
+        "given": "S."
+      },
+      {
+        "family": "MERK79 Merkle",
+        "given": "R.Secrecy"
+      },
+      {
+        "family": "Authentication"
+      },
+      {
+        "family": "Systems",
+        "given": "Public Key"
+      },
+      {
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "May",
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2014",
+      "1997",
+      "1979-06",
+      "1981-07"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "note": [
+      "Available at:",
+      "MERK81 Merkle, R., and Hellman,"
+    ],
+    "publisher": [
+      "CRC Press",
+      "Stanford University"
+    ],
+    "title": [
+      "Software Implementation Guide. Intel Developer Zone",
+      "Handbook of Applied Cryptography",
+      "On the Security of Multiple Encryption"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://software.intel.com/en-us/",
+      "http://cacr.uwaterloo.ca/hac/index.html"
+    ],
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MERK89 Merkle",
+        "given": "R."
+      },
+      {
+        "family": "Springer-Verlag. MEYE88 Meyer",
+        "given": "C.",
+        "particle": "published by"
+      },
+      {
+        "family": "Schilling",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings, CRYPTO ‘89",
+      "Proceedings, SECURICOM 88"
+    ],
+    "date": [
+      "1989",
+      "1988"
+    ],
+    "title": [
+      "One Way Hash Functions and DES",
+      "Secure Program Load with Modification Detection Code"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "MEYE13 Meyer",
+        "given": "C."
+      },
+      {
+        "family": "Schwenk",
+        "given": "J."
+      },
+      {
+        "family": "Gortz",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Cryptology ePrint Archive"
+    ],
+    "date": [
+      "2013"
+    ],
+    "title": [
+      "Lessons Learned From Previous SSL/TLS Attacks A Brief Chronology Of Attacks And Weaknesses"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MILL75 Miller",
+        "given": "G."
+      },
+      {
+        "family": "MILL88 Miller",
+        "given": "S."
+      },
+      {
+        "family": "Neuman",
+        "given": "B."
+      },
+      {
+        "family": "Schiller",
+        "given": "J."
+      },
+      {
+        "family": "Saltzer",
+        "given": "J."
+      },
+      {
+        "family": "MIRK04 Mirkovic",
+        "given": "J."
+      },
+      {
+        "family": "Relher",
+        "given": "P."
+      },
+      {
+        "family": "MITC90 Mitchell",
+        "given": "C."
+      },
+      {
+        "family": "Walker",
+        "given": "M."
+      },
+      {
+        "family": "Rush",
+        "given": "D."
+      },
+      {
+        "family": "MOOR01 Moore",
+        "given": "A."
+      },
+      {
+        "family": "Ellison",
+        "given": "R."
+      },
+      {
+        "family": "Linger",
+        "given": "R."
+      },
+      {
+        "family": "M.",
+        "given": "Schaefer"
+      },
+      {
+        "family": "E."
+      },
+      {
+        "family": "Wedig",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Seventh Annual ACM Symposium on the Theory of Computing",
+      "Section E.2.1, Project Athena Technical Plan, M.I.T. Project Athena",
+      "Carnegie-Mellon University Technical Note CMU/SEI-2001-TN-001",
+      "ACM SIGCOMM Computer Communications Review",
+      "IEEE Journal on Selected Areas in Communications",
+      "Cryptologia"
+    ],
+    "date": [
+      "1975-05",
+      "1988-10-27",
+      "2004-04",
+      "1989-05",
+      "2001-03",
+      "2004-04",
+      "1991"
+    ],
+    "location": [
+      "Cambridge, MA",
+      "Boulder, CO"
+    ],
+    "note": [
+      "MUSA03 Musa,",
+      "MYER91 Myers, L. Spycomm: Covert Communication Techniques of the Underground."
+    ],
+    "publisher": [
+      "Paladin Press"
+    ],
+    "title": [
+      "Riemann’s Hypothesis and Tests for Primality",
+      "Kerberos Authentication and Authorization System",
+      "A Taxonomy of DDoS Attack and DDoS Defense Mechanisms",
+      "CCITT/ISO Standards for Secure Message Handling",
+      "Attack Modeling for Information Security and Survivability",
+      "A Simplified AES Algorithm and its Linear and Differential Cryptanalysis"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "National Acadamies Press"
+    ],
+    "title": [
+      "NAS18 National Academy of Sciences. Decrypting the Encryption Debate A Framework for Decision Makers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "NECH01 Nechvatal",
+        "given": "J."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "NEED78 Needham",
+        "given": "R."
+      },
+      {
+        "family": "Schroeder",
+        "given": "M."
+      },
+      {
+        "family": "NEUM93a Neuman",
+        "given": "B."
+      },
+      {
+        "family": "Stubblebine",
+        "given": "S."
+      },
+      {
+        "family": "NEUM93b Neuman",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "NCAE13"
+    ],
+    "container-title": [
+      "Journal of Research of the National Institute of Standards and Technology",
+      "Proceedings of the 13th International Conference on Distributed Computing Systems",
+      "NCAE IA/CD Knowledge Units",
+      "Communications of the ACM",
+      "Operating Systems Review",
+      "Vehicle-to-Vehicle Communications: Readiness of V2V Technology for Application. U. S. Department of Transportation"
+    ],
+    "date": [
+      "2013-06",
+      "2001-05",
+      "1978-12",
+      "1993-04",
+      "1993-05",
+      "2014-08",
+      "2017-04-26"
+    ],
+    "genre": [
+      "NIST Cybersecurity White Paper,"
+    ],
+    "title": [
+      "National Centers of Academic Excellence in Information Assurance/Cyber Defense",
+      "Report on the Development of the Advanced Encryption Standard (AES",
+      "Using Encryption for Authentication in Large Networks of Computers",
+      "A Note on the Use of Timestamps as Nonces",
+      "Proxy-Based Authorization and Accounting for Distributed Systems",
+      "NHTS14 National Highway Transportation Safety Agency",
+      "NIST17 National Institute of Standards and Technology. “Profiles for the Lightweight Cryptography Standardization Process"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://nvlpubs.nist.gov/nistpubs/jres/106/3/j63nec.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "812"
+    ],
+    "container-title": [
+      "Federal Register"
+    ],
+    "date": [
+      "2018-05-14"
+    ],
+    "title": [
+      "REFERENCES NIST18 National Institute of Standards and Technology. “Announcing Request for Comments on Lightweight Cryptography Requirements and Evaluation Criteria"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ODLY95 Odlyzko",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "CryptoBytes"
+    ],
+    "date": [
+      "1995",
+      "1967"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "note": [
+      "ORE67 Ore, O. Invitation to Number Theory."
+    ],
+    "publisher": [
+      "The Mathematical Association of America"
+    ],
+    "title": [
+      "The Future of Integer Factorization"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PARK88 Park",
+        "given": "S."
+      },
+      {
+        "family": "Miller",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1988-10"
+    ],
+    "title": [
+      "Random Number Generators: Good Ones are Hard to Find"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PARZ06 Parziale",
+        "given": "L."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "ibm.com/redbooks"
+    ],
+    "title": [
+      "TCP/IP Tutorial and Technical Overview"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PAUL07 Paul",
+        "given": "G."
+      },
+      {
+        "family": "Maitra",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Selected Areas of Cryptography: SAC 2007, Lecture Notes on Computer Science"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "360–337,"
+    ],
+    "title": [
+      "Permutation after RC4 Key Scheduling Reveals the Secret Key"
+    ],
+    "type": "chapter",
+    "volume": [
+      "4876"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PELL10 Pellegrini",
+        "given": "A."
+      },
+      {
+        "family": "Bertacco",
+        "given": "V."
+      },
+      {
+        "family": "Austin",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "DATE ‘10 Proceedings of the Conference on Design, Automation and Test in Europe"
+    ],
+    "date": [
+      "2010-03"
+    ],
+    "title": [
+      "Fault-Based Attack of RSA Authentication"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "POIN02 Pointcheval",
+        "given": "D."
+      },
+      {
+        "family": "POPE79 Popek",
+        "given": "G."
+      },
+      {
+        "family": "Kline",
+        "given": "C."
+      },
+      {
+        "family": "POPP17 Popper",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "CryptoBytes",
+      "ACM Computing Surveys",
+      "New York Times"
+    ],
+    "date": [
+      "Winter/Spring 2002",
+      "1979-12",
+      "2017-10-27"
+    ],
+    "title": [
+      "How to Encrypt Properly with RSA",
+      "Encryption and Secure Computer Networks",
+      "An Explanation of Initial Coin Offerings"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PREN10 Preneel",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "CT-RSA’10 Proceedings of the 2010 International Conference on Topics in Cryptology"
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "The First 30 Years of Cryptographic Hash Functions and the NIST SHA-3 Competition"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "RABI80 Rabin",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "P. The New Book of Prime Number Records",
+      "Journal of Number Theory"
+    ],
+    "date": [
+      "1980-12",
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Probabilistic Algorithms for Primality Testing",
+      "RIBE96 Ribenboim"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RIVE78 Rivest",
+        "given": "R."
+      },
+      {
+        "family": "Shamir",
+        "given": "A."
+      },
+      {
+        "family": "Adleman",
+        "given": "L."
+      },
+      {
+        "family": "RIVE84 Rivest",
+        "given": "R."
+      },
+      {
+        "family": "Shamir",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM",
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1978-02",
+      "1984-04"
+    ],
+    "title": [
+      "A Method for Obtaining Digital Signatures and Public Key Cryptosystems",
+      "How to Expose an Eavesdropper"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ROBS95a Robshaw",
+        "given": "M.Stream Ciphers"
+      },
+      {
+        "family": "ROBS95b Robshaw",
+        "given": "M.Block Ciphers"
+      },
+      {
+        "family": "ROGA01 Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Black.J."
+      },
+      {
+        "family": "Krovetz",
+        "given": "T."
+      },
+      {
+        "family": "Modes-Development ROGA03 Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Wagner",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Cryptology ePrint Archive: Report 2003/070, April 2003. ROGA04a Rogaway, P. “Efficient Instantiations of Tweakable Blockciphers and Refinements to Modes OCB and PMAC.” Advances in Cryptology—Asiacrypt 2004. Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "1995-07",
+      "1995-08",
+      "2004"
+    ],
+    "genre": [
+      "RSA Laboratories Technical Report TR-701,",
+      "RSA Laboratories Technical Report TR-601,"
+    ],
+    "note": [
+      "NIST Proposed Block Cipher Mode, August 2001."
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "OCB: A Block-Cipher Mode of Operation for Efficient Authenticated Encryption",
+      "A Critique of CCM"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.rsasecurity.com/rsalabs",
+      "http://www.rsasecurity.com/rsalabs",
+      "https://csrc.nist.gov/Projects/Block-Cipher-Techniques/BCM/"
+    ],
+    "volume": [
+      "3329"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ROGA04b Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "Shrimpton",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Fast Software Encryption"
+    ],
+    "title": [
+      " Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ROGA10 Rogaway",
+        "given": "P."
+      },
+      {
+        "family": "ROSA14 Rosado",
+        "given": "T."
+      },
+      {
+        "family": "Bernardino",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2010-03",
+      "2014-07"
+    ],
+    "genre": [
+      "ACM IDEAS ‘14,"
+    ],
+    "note": [
+      "Unpublished Manuscript,",
+      "SAAR12 Saarinen, M., and Engels, D. A Do-It-All-Cipher for RFID: Design Requirements. Cryptology ePrint Archive, Report 2012/317, 2012."
+    ],
+    "title": [
+      "A Synopsis of Format-Preserving Encryption",
+      "An Overview of OpenStack Architecture"
+    ],
+    "type": "report",
+    "url": [
+      "http://web.cs.ucdavis.edu/~rogaway/papers"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SALT75 Saltzer",
+        "given": "J."
+      },
+      {
+        "family": "Schroeder",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1975-09"
+    ],
+    "title": [
+      "The Protection of Information in Computer Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "SCHN91"
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "Schneider",
+        "given": "F."
+      }
+    ],
+    "publisher": [
+      "National Academy Press"
+    ],
+    "title": [
+      "Trust in Cyberspace"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHN96 Schneier",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Applied Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHN14 Schneier",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Wired"
+    ],
+    "date": [
+      "2014-01-06"
+    ],
+    "title": [
+      "The Internet of Things is Wildly Insecure—and Often Unpatchable"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "Seagate Technology Paper"
+    ],
+    "title": [
+      "SEAG08 Seagate Technology. 128-Bit Versus 256-Bit AES Encryption"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SEFR12 Serfaoui",
+        "given": "O."
+      },
+      {
+        "family": "Aissaoui",
+        "given": "M."
+      },
+      {
+        "family": "Eleuldj",
+        "given": "M."
+      },
+      {
+        "family": "SEGH12 Seghal",
+        "given": "A."
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "SEND17 Sendrier",
+        "given": "N."
+      },
+      {
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "International Journal of Computer Applications",
+      "IEEE Communications Magazine",
+      "IEEE Security & Privacy",
+      "Bell Systems Technical Journal"
+    ],
+    "date": [
+      "2012-10",
+      "2012-12",
+      "July/August 2017",
+      "1949"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "SHAN49 Shannon,"
+    ],
+    "title": [
+      "OpenStack: Toward an Open-Source ­Solution for Cloud Computing",
+      " Management of Resource Constrained Devices in the Internet of Things",
+      "Code-Based Cryptography: State of the Art and Perspectives",
+      "Communication Theory of Secrecy Systems"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "SHOR97 Shor",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "SIAM Journal of Computing"
+    ],
+    "date": [
+      "1997-10"
+    ],
+    "title": [
+      "Polynomial-Time Algorithms for Prime Factorization and Discrete ­Logarithms on a Quantum Computer"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "SIMM93 Simmons",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Encyclopaedia Britannica, Fifteenth Edition"
+    ],
+    "title": [
+      "Cryptology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SING99 Singh",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Anchor Books"
+    ],
+    "title": [
+      "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SINK09 Sinkov",
+        "given": "A."
+      },
+      {
+        "family": "Feil",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "publisher": [
+      "The Mathematical Association of America"
+    ],
+    "title": [
+      "Elementary Cryptanalysis: A Mathematical Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SMIT71 Smith",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1971-04-15"
+    ],
+    "genre": [
+      "IBM Research Report RC 3326,"
+    ],
+    "title": [
+      "The Design of Lucifer: A Cryptographic Device for Data Communications"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "SMIT15 Smith",
+        "given": "A."
+      },
+      {
+        "family": "Whitcher",
+        "given": "U."
+      },
+      {
+        "family": "STAL18 Stallings",
+        "given": "W."
+      },
+      {
+        "family": "Brown",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Math Horizons"
+    ],
+    "date": [
+      "2015-11",
+      "2018"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Making a Hash of Things",
+      "Computer Security: Principles and Practice"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "STAL19 Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Effective Cybersecurity: Understanding and Using Standards and Best Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "F.",
+        "given": "STAN06 Standaert"
+      },
+      {
+        "family": "G.",
+        "given": "Piret"
+      },
+      {
+        "family": "N.",
+        "given": "Gershenfeld"
+      },
+      {
+        "family": "Quisquater",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "International Conference on Smart Card Research and Advanced Applications"
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "SEA: A Scalable E ­ ncryption Algorithm for Small Embedded Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "STEI88 Steiner",
+        "given": "J."
+      },
+      {
+        "family": "Neuman",
+        "given": "C."
+      },
+      {
+        "family": "Schiller",
+        "given": "J."
+      },
+      {
+        "family": "STEV17 Stevens",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Winter 1988 USENIX Conference",
+      "Cryptology ePrint Archive, Report"
+    ],
+    "date": [
+      "1988-02",
+      "2017/190, 2017"
+    ],
+    "title": [
+      "Kerberos: An Authentication Service for Open Networked Systems",
+      "The first collision for full SHA-1"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Stinson",
+        "given": "R.E.F.E.R.E.N.C.E.S.STIN06"
+      },
+      {
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "814"
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Cryptography: Theory and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "TAYL11 Taylor",
+        "given": "G."
+      },
+      {
+        "family": "Cox",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "2011-09"
+    ],
+    "title": [
+      "Digital Randomness"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Due Diligence",
+        "given": "TIER15 Tierpoint With",
+        "particle": "all"
+      },
+      {
+        "family": "Tierpoint.com TIRI07 Tiri",
+        "given": "K."
+      },
+      {
+        "family": "TOBA07 Tobarra",
+        "given": "L."
+      },
+      {
+        "family": "Cazorla",
+        "given": "D."
+      },
+      {
+        "family": "Cuartero",
+        "given": "F."
+      },
+      {
+        "family": "Diaz",
+        "given": "G."
+      },
+      {
+        "family": "TUCH79 Tuchman",
+        "given": "W."
+      },
+      {
+        "family": "VANC11 Vance",
+        "given": "J.VAES3 Scheme for F.F.X.N.I.S.T."
+      },
+      {
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 44th Annual Design ­Automation Conference",
+      "The IV Congreso Iberoamericano de Seguridad Informatica (CIBSI’07",
+      "Proceedings, EUROCRYPT ‘90, 1990; published by Springer-Verlag. VANO94 van Oorschot, P., and Wiener, M. “Parallel Collision Search with Application to Hash Functions and Discrete Logarithms.” Proceedings, Second ACM Conference on Computer and Communications Security",
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "2015",
+      "2007-06",
+      "2007-11",
+      "1979-07",
+      "2011-05",
+      "1994"
+    ],
+    "genre": [
+      "Tierpoint White Paper,"
+    ],
+    "note": [
+      "June 2018.",
+      "VANO90 van Oorschot, P., and Wiener,"
+    ],
+    "pages": [
+      "– – 3 ,"
+    ],
+    "title": [
+      "Side-Channel Attack Pitfalls",
+      "Analysis of Security Protocol ­MiniSec for Wireless Sensor Networks",
+      "TRAN18 Transparency Market Research. Blockchain Technology Market to Emerge With Magnanimous Revenue: Key Facts Behind This Rise",
+      "Hellman Presents No Shortcut Solutions to DES",
+      "A Known-Plaintext Attack on Two-Key Triple Encryption"
+    ],
+    "type": "article-journal",
+    "url": [
+      "https://www.transparencymarketresearch.com/pressrelease/blockchain-technology-market.htm",
+      "http://csrc.nist.gov/groups/ST/toolkit/BCM/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "VOYD83 Voydock",
+        "given": "V."
+      },
+      {
+        "family": "Kent.",
+        "given": "S."
+      },
+      {
+        "family": "WALK05 Walker",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Computing Surveys"
+    ],
+    "date": [
+      "1983-06",
+      "2005"
+    ],
+    "publisher": [
+      "Platform Networking Group, Intel Corporation"
+    ],
+    "title": [
+      "Security Mechanisms in High-Level Network Protocols",
+      "802.11 Security Series. Part III: AES-based Encapsulations of 802.11 Data"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "WAYN09 Wayner",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Boston and Burlington, MA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Disappearing Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "WEBS86 Webster",
+        "given": "A."
+      },
+      {
+        "family": "Tavares",
+        "given": "S."
+      },
+      {
+        "family": "Springer-Verlag. WIEN90 Wiener",
+        "given": "M.",
+        "particle": "published by"
+      }
+    ],
+    "container-title": [
+      "Proceedings, Crypto ‘85",
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1985",
+      "1990"
+    ],
+    "issue": [
+      "3"
+    ],
+    "title": [
+      "On the Design of S-Boxes",
+      "Cryptanalysis of Short RSA Secret Exponents"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WOO92a Woo",
+        "given": "T."
+      },
+      {
+        "family": "Lam",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1992-01"
+    ],
+    "title": [
+      "Authentication for Distributed Systems"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "WOO92b Woo",
+        "given": "T."
+      },
+      {
+        "family": "Lam",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1992-04"
+    ],
+    "title": [
+      " ‘Authentication’ Revisited"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "XU16 Xu",
+        "given": "X."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "2016 13th Working IEEE/ IFIP Conference on Software Architecture"
+    ],
+    "date": [
+      "2016-04"
+    ],
+    "title": [
+      "The Blockchain as a Software Connector"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "YUVA79 Yuval",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Cryptologia"
+    ],
+    "date": [
+      "1979-07"
+    ],
+    "title": [
+      "How to Swindle Rabin"
+    ],
+    "type": "article-journal"
+  }
+]

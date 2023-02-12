@@ -1,0 +1,326 @@
+[
+  {
+    "note": [
+      "my_socket = TCPListen(23);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ProcessIO"
+      }
+    ],
+    "genre": [
+      "First, we"
+    ],
+    "title": [
+      "// The real heart of the application begins here"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if(TCPIsGetReady(my_socket)) {"
+    ],
+    "title": [
+      "// check to see if our socket has an incoming connection. if(TCPIsConnected(my_socket)) { // The socket is connected, now see if there is any data // to read"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ProcessCommand"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "current_state = STATE_CHKSUM"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Microchip PIC Security Case Study - PC client program"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "void ProcessLeds(void);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ErrorExit(“Could not get socket handle.”"
+    ],
+    "type": null
+  },
+  {
+    "pages": [],
+    "type": null,
+    "volume": [
+      "AES_set_encrypt_key(“PasswordPassword”, 128, &en_key); AES_set_decrypt_key(“PasswordPassword”, 128"
+    ]
+  },
+  {
+    "note": [
+      "printf(“ 8: Quit\\n>”);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ProcessLeds"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "current_command[LED_BYTE"
+    ],
+    "note": [
+      "“On” : “Off”); printf(“Preserve LED state: %s \\n”, (current_command[CMD_BYTE] & CMD_PRESERVELED_MASK)?"
+    ],
+    "pages": [
+      "–1"
+    ],
+    "type": null,
+    "volume": [
+      "0x1 <<"
+    ]
+  },
+  {
+    "container-title": [
+      "BUFSIZE"
+    ],
+    "pages": [
+      "0"
+    ],
+    "title": [
+      "i = recv(sock, recv_buf"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "note": [
+      "char)((global_counter ) & 0xFF);"
+    ],
+    "title": [
+      "int checksum, i; // Put the global counter into the current command buffer current_command[CTRLOW_BYTE] ="
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "char)((global_counter >> 24) &"
+    ],
+    "title": [
+      "current_command[CTRLOW_BYTE + 2] = (char)((global_counter >> 16) & 0xFF); current_command[CTRLOW_BYTE + 3] ="
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "printf(“Enter 0 to return\\n>”);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Advanced Encryption Standard (AES) add-on software module,"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Rabbit Semiconductor and Digi International"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AESstreamState aes_state;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "var ="
+    ],
+    "type": null,
+    "url": [
+      "http_finderrbuf(“web_password”);"
+    ]
+  },
+  {
+    "note": [
+      "char)((global_counter >> 24) & 0xFF);"
+    ],
+    "title": [
+      "msg[PKT_CTRLOW_BYTE + 1] = (char)((global_counter >> 8) & 0xFF); msg[PKT_CTRLOW_BYTE + 2] = (char)((global_counter >> 16) & 0xFF); msg[PKT_CTRLOW_BYTE + 3] ="
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "char)(((long)rand_value >> 24) & 0xFF);"
+    ],
+    "title": [
+      "msg[PKT_RANDOM_BYTE + 1] = (char)(((long)rand_value >> 8) & 0xFF); msg[PKT_RANDOM_BYTE + 2] = (char)(((long)rand_value >> 16) & 0xFF); msg[PKT_RANDOM_BYTE + 3] ="
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "printf(“ERROR: Cannot resolve \\”%s\\” into an IP address\\n”"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "while(!sock_established(&socket) && sock_bytesready(&socket)==-1) {"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      ", , –1"
+    ],
+    "title": [
+      "bytes_read ="
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "auto FormVar myform[5];"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "memset(&aes_key, 0, sizeof(aes_key)); memset(&aes_init_vector, 0, sizeof(aes_init_vector"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "SERVER_HTTPS"
+    ],
+    "title": [
+      "admin_user = sauth_adduser(“admin”, “password”"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "container-title": [
+      "&aes_passphrase"
+    ],
+    "date": [
+      "PTR16"
+    ],
+    "location": [
+      "var, HTML_FORM_TEXT"
+    ],
+    "title": [
+      "var = sspec_addvariable(“aes_passphrase”",
+      "%s”, SERVER_HTTPS); var = sspec_addfv(form, var); sspec_setfvname(form, var, “AES Key”); sspec_setfvdesc(form, var, “Enter AES passphrase (32 characters max)”); sspec_setfvlen(form, var, 32); sspec_setfventrytype(form"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "sspec_setfvname"
+      }
+    ],
+    "note": [
+      "&web_password, PTR16, “%s”,"
+    ],
+    "title": [
+      "AES Initialization vector”); sspec_setfvdesc(form, var, “Enter initialization vector (16 characters)”); sspec_setfvlen(form, var, 32); sspec_setfventrytype(form, var, HTML_FORM_TEXT); // Change SSL login password for HTTP interface var = sspec_addvariable(“web_password”"
+    ],
+    "type": "webpage"
+  },
+  {
+    "location": [
+      "var, HTML_FORM_TEXT"
+    ],
+    "title": [
+      "sspec_setfvlen(form, var, 32); sspec_setfventrytype(form"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "sspec_setfvname"
+      }
+    ],
+    "location": [
+      "var, HTML_FORM_TEXT); sspec_setfvcheck(form, var, checkRepeatPassword"
+    ],
+    "title": [
+      "Repeat Password”); sspec_setfvdesc(form, var, “Repeat new password”); sspec_setfvlen(form, var, 32); sspec_setfventrytype(form"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "memset(&aes_passphrase, 0, sizeof(aes_passphrase)); memset(&aes_key, 0, sizeof(aes_key)); memset(&aes_init_vector, 0, sizeof(aes_init_vector"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "aes_passphrase",
+        "given": "strlen"
+      }
+    ],
+    "citation-number": [
+      "md5_append(&aes_md5_state,"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AES_IV_OFFS",
+        "given": "sizeof"
+      }
+    ],
+    "citation-number": [
+      "vram2root(aes_init_vector,"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "printf(“AES Initialization Vector phrase:%s\\n”, aes_iv_phrase);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AES_IV_OFFS",
+        "given": "sizeof"
+      }
+    ],
+    "citation-number": [
+      "root2vram(aes_init_vector,"
+    ],
+    "type": null
+  }
+]
