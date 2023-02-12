@@ -1,0 +1,92 @@
+[
+  {
+    "note": [
+      "During its decrementation data_ptr goes to 5880:0000"
+    ],
+    "title": [
+      "In this example, we have an array on an Intel machine. The address of the array, in Intel strange pointer parlance, is: 5880:0000 The data_ptr variable starts out at: 5880:001E It then gets decremented as long as it is greater than data"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Ironically, this rule does not apply to #include file names so #include \"\\usr\\include\\table.h"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Answer 41: The problem is the statement: strcat(file_name, '/'"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The statement: printer_status.online = 1"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "On UNIX you might get something like: The answer is 4$ #"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "File: main.cpp int value = 20"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "After the second call: b_name --> name = \"/var/tmp/tmp.2"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "From this, we can conclude: 1. A base pointer can point to an array of derived objects"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "There is no array [5], so the program modifies random memory, causing the memory corruption."
+    ],
+    "title": [
+      "The programmer, however, uses the elements 1-5"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "In this case, the statements: ) : width(i_width), height(i_height), area(width*height"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "What the programmer should have written is: result = new info"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Return the saved value"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Classes with No Class Oualline's Law of Documentation Chapter 10: A Few Working Programs Ode to a Maintenance Programmer"
+    ],
+    "title": [
+      "Chapter 4: Everyday Problems Man Bytes Computer Oualline's Law of Computers Chapter 7"
+    ],
+    "type": "chapter"
+  }
+]

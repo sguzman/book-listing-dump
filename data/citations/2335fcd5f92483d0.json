@@ -1,0 +1,191 @@
+[
+  {
+    "author": [
+      {
+        "literal": "public void init() throws ServletException { availableModels.add(new MakeModelYear(2006, \"Dodge\", \"Charger\")); availableModels.add(new MakeModelYear(2006, \"Dodge\", \"Magnum\")); availableModels.add(new MakeModelYear(2006, \"Dodge\", \"Ram\")); availableModels.add(new MakeModelYear(2006, \"Dodge\", \"Viper\")); availableModels.add(new MakeModelYear(1995, \"Dodge\", \"Avenger\")); availableModels.add(new MakeModelYear(1995, \"Dodge\""
+      }
+    ],
+    "director": [
+      {
+        "family": "MakeModelYear)",
+        "given": "availableModelsadd)"
+      },
+      {
+        "family": "availableModels.add)",
+        "given": "availableModelsadd)"
+      },
+      {
+        "family": "availableModels.add)",
+        "given": "availableModelsadd"
+      }
+    ],
+    "note": [
+      "\"Omni\")); availableModels.add(new MakeModelYear(1970, \"Dodge\", \"Challenger\")); availableModels.add(new MakeModelYear(1970, \"Dodge\", \"Charger\")); availableModels.add(new MakeModelYear(1970, \"Dodge\", \"Coronet\")); availableModels.add(new MakeModelYear(1970, \"Dodge\", \"Dart\")); availableModels.add(new MakeModelYear(2006, \"Chevrolet\", \"Colorado\")); availableModels.add(new MakeModelYear(2006, \"Chevrolet\", \"Corvette\")); availableModels.add(new MakeModelYear(2006, \"Chevrolet\", \"Equinox\")); availableModels.add(new MakeModelYear(2006, \"Chevrolet\", \"Monte Carlo\")); availableModels.add(new MakeModelYear(1995, \"Chevrolet\", \"Beretta\")); availableModels.add(new MakeModelYear(1995, \"Chevrolet\", \"Camaro\")); availableModels.add(new MakeModelYear(1995, \"Chevrolet\", \"Cavalier\")); availableModels.add(new MakeModelYear(1995, \"Chevrolet\", \"Lumina\")); availableModels.add(new MakeModelYear(1985, \"Chevrolet\", \"Cavalier\")); availableModels.add(new MakeModelYear(1985, \"Chevrolet\", \"Chevette\")); availableModels.add(new MakeModelYear(1985, \"Chevrolet\", \"Celebrity\")); availableModels.add(new MakeModelYear(1985, \"Chevrolet\", \"Citation II\")); availableModels.add(new MakeModelYear(1970, \"Chevrolet\", \"Bel Air\")); availableModels.add(new MakeModelYear(1970, \"Chevrolet\", \"Caprice\")); availableModels.add(new MakeModelYear(1970, \"Chevrolet\", \"Chevelle\")); availableModels.add(new MakeModelYear(1970, \"Chevrolet\", \"Monte Carlo\")); availableModels.add(new MakeModelYear(2006, \"Pontiac\", \"G6\")); availableModels.add(new MakeModelYear(2006, \"Pontiac\", \"Grand Prix\")); availableModels.add(new MakeModelYear(2006, \"Pontiac\", \"Solstice\")); availableModels.add(new MakeModelYear(2006, \"Pontiac\", \"Vibe\")); availableModels.add(new MakeModelYear(1995, \"Pontiac\", \"Bonneville\")); availableModels.add(new MakeModelYear(1995, \"Pontiac\", \"Grand Am\")); availableModels.add(new MakeModelYear(1995, \"Pontiac\", \"Grand Prix\")); availableModels.add(new MakeModelYear(1995, \"Pontiac\", \"Firebird\")); availableModels.add(new MakeModelYear(1985, \"Pontiac\", \"6000\")); availableModels.add(new MakeModelYear(1985, \"Pontiac\", \"Fiero\")); availableModels.add(new MakeModelYear(1985, \"Pontiac\", \"Grand Prix\")); availableModels.add(new MakeModelYear(1985, \"Pontiac\", \"Parisienne\")); availableModels.add(new MakeModelYear(1970, \"Pontiac\", \"Catalina\")); availableModels.add(new MakeModelYear(1970, \"Pontiac\", \"GTO\")); availableModels.add(new MakeModelYear(1970, \"Pontiac\", \"LeMans\")); availableModels.add(new MakeModelYear(1970, \"Pontiac\", \"Tempest\"));"
+    ],
+    "title": [
+      "Intrepid\")); availableModels.add(new"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "var spanElement = document.getElementById(\"mySpan\"); spanElement.setAttribute(\"style\""
+      }
+    ],
+    "title": [
+      "font-weight:bold; color:red;\"); This works well in all modern browsers except Internet Explorer. The workaround for Internet Explorer is to use the nonstandard but widely supported cssText property of the element’s style object to set the desired style, as follows: var spanElement = document.getElementById(\"mySpan\"); spanElement.style.cssText = \"font-weight:bold"
+    ],
+    "type": null,
+    "url": [
+      "color:red;\";"
+    ]
+  },
+  {
+    "title": [
+      "var spanElement = document.getElementById(\"mySpan\"); spanElement.setAttribute(\"style\""
+    ],
+    "type": null,
+    "url": [
+      "\"font-weight:bold; color:red;\"); spanElement.style.cssText = \"font-weight:bold; color:red;\";"
+    ]
+  },
+  {
+    "note": [
+      "stepping through code, 205–206 color, Fade Anything Technique (FAT), Watches window, 214–215 219–220 deleting page content, for dynamically commands, JSDoc command attributes, updated pages,",
+      "describe function (JavaScript), 152"
+    ],
+    "pages": [
+      "203–204 143–145",
+      "111–115 132–133"
+    ],
+    "title": [
+      "code bloat, 224 Greasemonkey, 193–196 documenting JavaScript code with JSDoc, debugging JavaScript, 193, 196–197 131–135 Firefox JavaScript Console, 197–198 frameworks. See frameworks Microsoft Script Debugger, 198–200 stepping through JavaScript code, Venkman, 201–202 Venkman, 205–206 breakpoints, 203–210 validating HTML with Firefox extensions, Call Stack window, 215 135–139 Loaded Scripts window, 202–203 Checky, 138–139 Local Variables window, 210–213 HTML Validator, 136–137 Performance Profiling tool, 215–217 verifying JavaScript syntax with JSLint, Source Code window"
+    ],
+    "type": null,
+    "volume": [
+      "107"
+    ]
+  },
+  {
+    "note": [
+      "Common Gateway Interface (CGI), 3 design considerations, 20 common gotchas, 222–224 DHTML (dynamic HTML), 10 compressing JavaScript code, 145–146 Digg.com, 90–91 configuring JsUnit Server, 189–191 Direct Web Remoting (DWR), 261–262 controls. See cross-browser JavaScript; forms displaying CPAINT (Cross-Platform Asynchronous progress bars/indicators, 95–100, 224 Interface Toolkit), 261 response headers, 82 cross-browser JavaScript, 251–256 documenting JavaScript code with JSDoc, adding event handlers to input elements, 131–135"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "DOM Inspector, 140–143 Venkman. See Firefox, Venkman DOM Level 3 Load and Save Specification, Web Developer"
+      }
+    ],
+    "note": [
+      "downloading JsUnit, 164 JavaScript Console, 197–198 Draggable DOM pattern, 221–222 security, 35 DOM-Drag library, 232–235 validating HTML code, 136–139 DWR (Direct Web Remoting), 261–262 Venkman JavaScript debugging dynamic HTML (DHTML), 10 environment, 201–202 dynamically editing page content with W3C breakpoints, 203–210 DOM, 48–52, 55 Call Stack window, 215 dynamically loading list boxes, 83–87, 90 Loaded Scripts window, 202–203 dynamically updating Web pages, 106–107, Local Variables window, 210–213"
+    ],
+    "pages": [
+      "232–235 140–143"
+    ],
+    "title": [
+      "147 35–36 finding nodes using DOM Inspector, DOM-Drag library"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "253 CGI (Common Gateway Interface), 3 setting element styles, 252–253 DHTML (dynamic HTML), 10 debugging. See debugging JavaScript Flash, 9–10 describe function, 152 JavaScript, 5–6 documenting code with JSDoc, 131–135 JSPs (JavaServer Pages), 7–8 Flash/JavaScript integration kit, 259 servlets, 6–7 history, 148 XML (eXtensible Markup Language) inheritance, 154–158 derivatives, 10–11 obfuscation, 145–146 HTML (HyperText Markup Language), 2 private properties, 153–158 cross-browser JavaScript. See JavaScript, prototype property, 148–152 cross-browser JavaScript reading XML documents using W3C DHTML (dynamic HTML), 10 DOM-compliant JavaScript, 43–48 innerHTML property, 39–42 stepping through JavaScript code, validating code with Firefox extensions, Venkman, 205–206 135–139 testing Checky, 138–139 FitNesse, 192 HTML Validator, 136–137 HttpUnit, 192 HTML Validator, 136–137 JsUnit. See JsUnit HTML/JavaScript Cruncher–Compressor, JUnit, 163–164 145–146 JUnit vs. JsUnit, 164 HTML::Template, 132 jWebUnit, 192 HTTP status codes (XMLHttpRequest status Selenium, 192 property), 26 test-driven development (TDD), HttpUnit, 192 161–163 hyperlinks, unlinkable pages, 223 JavaScript Console (Firefox), 197–198 HyperText Markup Language. See HTML JavaScript Object information type (nodes), 142–143 ■I JavaScript Object Notation. See JSON IFRAMEs, remote scripting, 29–31 JavaScript Remote Scripting (JSRS), 12 inheritance (JavaScript), 154–158 JavaServer Pages (JSPs), 7–8 innerHTML property, 39–42 JSDoc, 131–135 input JSLint, 143–145 adding event handlers to input elements, JSON (JavaScript Object Notation), 67–73"
+    ],
+    "title": [
+      "headline news component, Ajax Dashboard, JavaScript, 5–6 232, 242–245 browser incompatibilities, 49 hiding checking syntax with JSLint, 143–145 JavaScript field/function names compression, 145–146 (obfuscation), 145–146 cross-browser JavaScript, 251–256 JavaScript properties, 153–158 adding event handlers to input history of browsers, 2–3 elements, 254 history of Web applications, 1–2 appending rows to tables, 251–252 evolution of Web applications, 3–16 creating input elements, 253–254 Ajax, 13–16 creating radio buttons, 255 applets, 4–5 setting element class attributes"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Ajax Dashboard"
+    ],
+    "note": [
+      "test suites, 175–177 nodes tracing and logging, 177–179 CSS Style Rules and Computed Style"
+    ],
+    "pages": [
+      "171–175 242–245"
+    ],
+    "title": [
+      "versus JUnit, 164 ■N Web site, 191 Netflix, 101 writing tests, 164–165 browse feature, 15 assert methods, 165–170 news component"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "232, setUp() and tearDown"
+    ]
+  },
+  {
+    "note": [
+      "DOM–compliant JavaScript, 43–48 sarissa, 260 readyState property (XMLHttpRequest), 26 Script Debugger (Microsoft), 198–200 refreshing, 90–95 scripting Ajax Dashboard, 245–247 JavaScript. See JavaScript Auto Refresh pattern, 220 remote, 29–31 lists, 87,",
+      "send(content) method (XMLHttpRequest), 48–52, 55 25 innerHTML property, 39–42 sending requests (XMLHttpRequest), 31–34 parsing responses as XML, 42–48 processing server responses, 39 responses dynamically editing page content, displaying response headers, 82 48–52, 55 reading response headers, 79–83 innerHTML property, 39–42 security, 34–35 parsing responses as XML, 42–48 sending data using JSON, 67–73 sending data using JSON, 67–73 sending parameters, 55–57, 60–62 sending parameters, 55–57, 60–62 as XML, 62–67 as XML, 62–67 sending requests, 31–34 server responses, processing, 39 responses dynamically editing page content, 48–52, displaying response headers, 82 55 reading response headers, 79–83 innerHTML property, 39–42 responseText property (XMLHttpRequest), JSON strings, 70–73 26 parsing responses as XML, 42–48 responseXML property (XMLHttpRequest), server-based frameworks, 261–263 26 servlets, 6–7"
+    ],
+    "title": [
+      "90 searches remote scripting, 29–31 Ajax Dashboard search component, REpresentational State Transfer (REST), 116 247–249 versus SOAP, 121 finding nodes using DOM Inspector, requests. See also XMLHttpRequest object 140–143 (XHR) using Yahoo! Search Web Services with asynchronous, 32–34 Ajax, 115–116, 119–121 debugging, with Greasemonkey, 193–196 security, XMLHttpRequest object, 34–35 processing server responses, 39 Selenium, 18, 192 dynamically editing page content"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.E.S.T."
+      }
+    ],
+    "pages": [
+      ", 94–95,",
+      "258 111–113"
+    ],
+    "publisher": [
+      "Rico"
+    ],
+    "title": [
+      "116 accessing Web services, 119–120 versus SOAP, 121 Autocomplete, 126–127 resultId query string, JsUnit, 188 dynamically updating Web"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "JUnit"
+      }
+    ],
+    "note": [
+      "192 (Venkman), 210–213 test-driven development (TDD), 161–163 VBScript, 148 testPage query string, JsUnit, 184–186 Venkman, 201–202"
+    ],
+    "title": [
+      "163–164 verifying JavaScript syntax with JSLint, JUnit vs. JsUnit, 164 143–145 jWebUnit, 192 variables, Local Variables window Selenium"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.I.B.E.T."
+      }
+    ],
+    "pages": [
+      "203–210"
+    ],
+    "title": [
+      "258–259 breakpoints"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "60–62 (Greasemonkey), 194–196 as XML, 62–67 XMLHttpRequest object (XHR), 13, 16, 23 sending requests, 31–34 asynchronous requests, 32–34 standard Ajax interactions, 26–28 creating instances, 23–24 XSLT (XSL Transformations), Google DOM, 36–37 AJAXSLT, 259 DOM Level 3 Load and Save XUL (XML User Interface Language), 10 Specification, 35–36 function pointer, 32 ■Y–Z inspecting with Venkman Local Variables Yahoo! window, 212 Ajax Dashboard, 232, 242–245 methods/properties, 24–26 headline news, 242–245 GET vs. POST, 28 search feature, 247–249 innerHTML, 39–42 Yahoo! Search Web Services, 115–116, processing server responses, 39 119–121 dynamically editing page content, Yellow Fade Technique (YFT),"
+    ],
+    "pages": [
+      "219"
+    ],
+    "title": [
+      "XML (eXtensible Markup Language) innerHTML property, 39–42 derivatives, 10–11 parsing responses as XML, 42–48 parsing responses as XML, 42–48 remote scripting, 29–31 sending request parameters as XML, IFRAMEs, 29–31 62–67 security, 34–35 XML User Interface Language (XUL), 10 sending data using JSON, 67–73 XMLHttpRequest Debugging script sending parameters, 55–57"
+    ],
+    "type": null,
+    "volume": [
+      "16"
+    ]
+  }
+]

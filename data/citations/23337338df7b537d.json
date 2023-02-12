@@ -1,0 +1,14 @@
+[
+  {
+    "note": [
+      "msg(\"Accelerometer initialization... \"); sensorManager=(SensorManager) getSystemService(SENSOR_SERVICE); sensor=sensorManager.getDefaultSensor( Sensor.TYPE_ACCELEROMETER); sensorManager.registerListener( this, sensor, sensorManager.SENSOR_DELAY_NORMAL);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "msg(\"Bluetooth closing...\"); tBlue.close();"
+    ],
+    "type": null
+  }
+]
