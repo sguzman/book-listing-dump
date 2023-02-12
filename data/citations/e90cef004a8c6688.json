@@ -1,0 +1,211 @@
+[
+  {
+    "citation-number": [
+      "30."
+    ],
+    "title": [
+      "If you must do something nonportable, make an abstraction for that service and localize it within a class. This extra level of indirection prevents the non-portability from being distributed throughout your program"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "32."
+    ],
+    "title": [
+      "Don’t use private inheritance. Although it’s in the language and seems to have occasional functionality, it introduces"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "37."
+    ],
+    "title": [
+      "If your class contains pointers, you must create the copyconstructor, operator=, and destructor for the class to work properly"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "preprocessor",
+        "given": "Avoid",
+        "particle": "the"
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "title": [
+      "Always use const for value substitution and inlines for macros"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "50."
+    ],
+    "title": [
+      "The responsibility of the destructor is to release resources allocated during the lifetime of the object, not just during construction"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "53."
+    ],
+    "title": [
+      "Don’t write your own class templates unless you must. Look first in the Standard C++ Library, then to vendors who create special-purpose tools. Become proficient with their use and you’ll greatly increase your productivity"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "55."
+    ],
+    "title": [
+      "Don’t use the <cstdio> functions, such as printf( ). Learn to use iostreams instead; they are type-safe and type-extensible"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "My own list of books Listed in order of publication. Not all of these are currently available"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C++",
+        "given": "Using"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "note": [
+      "the renamed C++ Inside & Out."
+    ],
+    "title": [
+      "One of the first books out on C++. This is out of print and replaced by its second edition"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Inside",
+        "given": "C.++"
+      },
+      {
+        "given": "Out"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "As noted, actually the 2nd edition of Using C++. The C++ in this book is reasonably accurate, but it's circa 1992 and Thinking in C++ is"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C++",
+        "given": "Black Belt"
+      },
+      {
+        "family": "Master’s Collection",
+        "particle": "the"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "Eckel",
+        "given": "Bruce"
+      }
+    ],
+    "note": [
+      "The cover on this book stimulated me to gain control over all future cover designs."
+    ],
+    "title": [
+      "Out of print. A collection of chapters by various C++ luminaries based on their presentations in the C++ track at the Software Development Conference, which I chaired"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Development Magazine Productivity Award and the Java Developer’s Journal Editor’s Choice Award in"
+    ],
+    "date": [
+      "2000",
+      "1999"
+    ],
+    "edition": [
+      "2nd edition (Prentice-Hall"
+    ],
+    "note": [
+      "Downloadable from"
+    ],
+    "title": [
+      "Thinking in Java",
+      "The first edition of this book won the Software"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.BruceEckel.com."
+    ]
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Gems",
+        "given": "C.++"
+      },
+      {
+        "family": "Lippman",
+        "given": "Stan"
+      }
+    ],
+    "title": [
+      "A selection of articles from The C++ Report"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "The"
+      },
+      {
+        "family": "C++",
+        "given": "Evolution",
+        "particle": "of"
+      },
+      {
+        "family": "Bjarne Stroustrup",
+        "particle": "by"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "note": [
+      "Not essential, but interesting."
+    ],
+    "title": [
+      "Insights from the inventor of C++ about why he made various design decisions"
+    ],
+    "type": null
+  }
+]
