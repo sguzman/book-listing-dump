@@ -1,0 +1,192 @@
+[
+  {
+    "title": [
+      "InitialContext context = new InitialContext(); TaxRate tr = (TaxRate)context.lookup(TaxRate.class.getName("
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "e.system.stream.out|_ThreadID=17;_ThreadName=p"
+    ],
+    "note": [
+      "w: 12;|LoanRatesBean.getHomeEquityRate() called|#"
+    ],
+    "pages": [
+      "– –1"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "issue": [
+      "e.system.stream.out|_ThreadID=17;_ThreadName=p"
+    ],
+    "note": [
+      "w: 12;|ConnectionFactoryImpl.getConnection() called|#"
+    ],
+    "pages": [
+      "– –1"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "issue": [
+      "e.system.stream.out|_ThreadID=17;_ThreadName=p"
+    ],
+    "note": [
+      "w: 12;|InteractionImpl(Connection conn) called|#"
+    ],
+    "pages": [
+      "– –1"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "issue": [
+      "e.system.stream.out|_ThreadID=17;_ThreadName=p"
+    ],
+    "note": [
+      "w: 12;|ConnectionImpl.close() called|#"
+    ],
+    "pages": [
+      "– –1"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "issue": [
+      "e.system.stream.out|_ThreadID=17;_ThreadName=p"
+    ],
+    "note": [
+      "w: 12;|ManagedConnectionImpl.sendEvent(int, e, connHandle) called|#"
+    ],
+    "pages": [
+      "– –1"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "54–55 beans, 41–42 declarative authorization, 327–328, digest authentication, 326–327 346–351 digital signatures, 358–361"
+    ],
+    "title": [
+      "object-relational mapping, description element, 200, 208 130–133 design patterns one-to-many, 237, 245–253 lower-level EJB design patterns, one-to-one, 237–244 381, 411 unidirectional, 237–238 session façade, 416–418 synchronization and entities, singletons, 405–406 148–149 designing transactional debugging EJB conversations, 316–319 best practices, 402–404 developing pre-EJB 3.0 enterprise EJB version 2.1 and earlier"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "608 @Discriminator annotation, 638 dependency injection, 80, 205–208 @DiscriminatorColumn deployer, 20 annotation, 226–227 deploying @DiscriminatorValue EJB applications, 400–402 annotation, 226–227, 639 EJB 3.0 enterprise beans, 81–82 distributed architecture, 512–516 entity classes, 143–144 distributed component, 14–15 OutboundLoanRA example, distributed systems, 6–8 493–494 distributed transaction coordinator, pre-EJB 3.0 enterprise beans, 41–42 283–285 Web services, 125–126 distributed transactions, 282–285, 382"
+    ],
+    "title": [
+      "@DeclareRoles annotation, 606 DII (dynamic invocation interface), decoupling 400 messaging, 159 directionality of relationships, RMI-IIOP, 158 237–238 demarcating transactional directory services, 576–579 boundaries, 288 dirty read problem, 309–311 @DenyAll annotation, 348"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "READ COMMITTED",
+        "particle": "javax.resource.spi"
+      }
+    ],
+    "container-title": [
+      "phantom problem",
+      "READ",
+      "Java EE Connector Architecture"
+    ],
+    "note": [
+      "alternatives, 436 isolation of transactions, 277–278, application integration, 435, 503 307–309 defined, 33–34 iterative development, 389–390 infrastructure services problem, 438–439 J M x N integration problem, JAAS (Java Authentication and 436–438 Authorization Service), managed and nonmanaged 34, 329–340 environments, 439 Java annotation facility, 598–599 resource adapter (RA) Java API for XML Parsing Common Client Interfaces (CCI), (JAXP), 34 439 Java API for XML Web Services defined, 436 (JAX-WS), 32, 122–124 EIS-specific client interfaces, Java Architecture for XML Binding 439–440 (JAXB), 34, 124–125 extensibility of, 441–442 Java Authentication and interaction with application Authorization Service (JAAS), server, 440–441 34, 329–340 OutboundLoanRA example, Java Community Process (JCP), 467–502 29, 132, 384 system contracts, 453–467 Java Data Objects (JDO), 132 transactions, 304 Java Database Connectivity (JDBC), Java EE Deployment API (JSR-88),"
+    ],
+    "pages": [
+      "448–450",
+      "313–314",
+      "312–313",
+      "312–313"
+    ],
+    "title": [
+      "invoking methods (continued) Java EE Connector API reflective invocation, 400 javax.resource Package, static invocation, 400 442–443 isolation levels javax.resource.cci Package, best practices, 423–424 443–447 choosing, 423–424 javax.resource.spi Package, dirty read problem",
+      "309–311 .endpoint Package, 451 READ UNCOMMITTED, 309–311 javax.resource.spi REPEATABLE",
+      ".security Package, 451–452 SERIALIZABLE, 309, 313–314 javax.resource.spi.work setting, 314–315 Package, 452–453 unrepeatable read problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "309–311 443",
+      "309",
+      "309",
+      "309"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Java",
+        "particle": "serialization"
+      }
+    ],
+    "note": [
+      "RMI (remote method invocation), optimistic locking, 150–151 571–573 OptimizeIt performance-profiling rules, 569 tool, 429"
+    ],
+    "pages": [
+      "570 315–316"
+    ],
+    "title": [
+      "569–570 operating systems, scheduling java.lang.Serializable mechanisms in, 366 interface, 568–570 optimistic concurrency control, recursion"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Object Transaction Service (OTS), optimizing performance 285–286 capacity planning, 415–416 Object-Oriented Programming entities, 423–426 (OOP), 399 Java Virtual Machine (JVM), object-relational (OR) mappers, 427–429 130,",
+      "objects message-driven beans, 426–427 bit-blobs, 568–569 partitioning resources, 419–420 differences from components, 4 performance requirements, EJB version 2.1 and earlier, 38 411–412 EntityManager, 208–209 session façade, 416–418"
+    ],
+    "pages": [
+      "132–133 418–419"
+    ],
+    "title": [
+      "132 JDBC connection pool, 429 object-relational mapping, 130, local and remote interfaces"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "418–419 Standards (OASIS), 361–362 message-driven beans, 426–427 OTS (Object Transaction Service), partitioning resources, 419–420"
+    ],
+    "title": [
+      "Organization for the Advancement JDBC connection pool, 429 of Structured Information local and remote interfaces"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "persistence provider, 135 pass-by-value parameter, 561–562, persistent state, 138 568 plain old Java objects (POJOs), passing parameters, 561–562, 568, 133 572 primary key, 137–138 passivation of stateful beans, 95–100 session beans, differences from, performance optimizations 134 capacity planning, 415–416 tuning, 423–426 entities, 423–426 inheritance Java Virtual Machine (JVM), example object model, 220–223 427–429 mapping strategies, 223–232 Index 673"
+    ],
+    "pages": [
+      "138–142 561–562,",
+      "572–573"
+    ],
+    "title": [
+      "P direct entity data manipulation, packaging 149–150 EJB 3.0 enterprise beans, 81–82 entity beans, differences from, 129 entity classes, 143–144 finding, 153–155 Web services, 125–126 life cycle, 134–135, 145–147 parameter passing, 561–562, 568, life-cycle callbacks, 147–148 572–573 lookups, 153–155 partitioning resources, 419–420 modifying, 149–150 pass-by-reference parameter, persistence context"
+    ],
+    "type": null,
+    "volume": [
+      "568"
+    ]
+  },
+  {
+    "note": [
+      "packaging, 125–126 when to use EJB, 382–384 port components, 122 WordNet service web site (Princeton Pricer Web service (application University), 4 example),",
+      "Web Service Description ports, 119 Language), 26–27, 117–119, 125 service-oriented architecture WS-Security, 362–364 (SOA), 26–27, 115–117 SOAP (Simple Object Access X Protocol), 26, 119–121 XAResource interface, 286 standards, 118–121 XDoclet framework, 394–395, 401, UDDI, 118 597–598 Web Service Description Language XML (WSDL), 26–27, 117–119, 125 best practices, 406–407 XML documents, 121–122 deployment descriptor files, Web Services Metadata for the Java 593, 596–597 Platform, 32 digital signatures, 358–361 web sites encryption, 358–361 Java Community Process (JCP), 132 Web services, 121–122 SourceForge.net Tyrex project, 414 X/Open XA resource manager WordNet service (Princeton interface, 276 University), 4 XP (Extreme Programming), 389–391"
+    ],
+    "title": [
+      "554–557 work management contract, 462, 464 Pricer Web service interface workarounds for statelessness, 414 (application example), 553–554 workflow scheduling, 366 security, 356–361 WRITE locks, 152–153 service interfaces writeObject() method, 568–569 defined, 116 WSDL"
+    ],
+    "type": "webpage"
+  }
+]
