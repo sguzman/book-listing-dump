@@ -1,0 +1,141 @@
+[
+  {
+    "date": [
+      "2004-04-05"
+    ],
+    "issue": [
+      "e2"
+    ],
+    "title": [
+      "bible:/var/log # ls -l total 828 drwxr-x--- 2 root root 48"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "-rw-r----- 1 root root 0 2004-07-30 07:42 boot.log"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 17886 2004-08-30 06:05 boot.msg"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 20540 2004-08-20 06:06 boot.omsg"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 586 2004-07-30 07:42 convert_for_getconfig.log drwxr-xr-x 2 lp lp 80 2004-07-30 19:08 cups"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw------- 1 root root 24024 2004-08-30 06:05 faillog drwxr-xr-x 2 root root 48 2004-04-05 18:27 ircd"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 8915 2004-08-16 22:16 kdm.log"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r--r-- 1 root tty 292292 2004-08-30 06:05 lastlog"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 1128 2004-08-10 21:54 localmessages"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r----- 1 root root 12563 2004-08-30 06:05 mail"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r----- 1 root root 276 2004-07-30 19:06 mail.err"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r----- 1 root root 12563 2004-08-30 06:05 mail.info"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r----- 1 root root 2143 2004-07-30 19:06 mail.warn"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r----- 1 root root 164497 2004-08-30 06:05 messages drwxr-xr-x 4 news news 272 2004-07-30 07:41 news"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r--r-- 1 root root 0 2004-07-30 09:03 ntp drwxr-xr-x 2 root root 48 2004-07-21 03:01 samba"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 70421 2004-08-10 05:48 SaX.log"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r--r-- 1 root root 1876 2004-08-08 17:45 scpm drwxr-x--- 2 squid root 48 2004-04-06 10:54 squid"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "-rw-r--r-- 1 root root 15426 2004-07-30 18:57 update-messages drwxr-xr-x 2 root root 48 2004-04-05 10:18 vbox"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r--r-- 1 root root 12376 2004-08-30 06:05 warn"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-rw-r-- 1 root tty 267648 2004-08-30 06:05 wtmp"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r--r-- 1 root users 24358 2004-08-20 06:05 XFree86.0.log"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "-rw-r--r-- 1 root root 15 2004-08-10 05:30 xvt drwx------ 2 root root 352 2004-07-30 18:55 YaST2."
+    ],
+    "type": null
+  }
+]
