@@ -1,0 +1,896 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "all program-order-previous fence instructions with .sr and .pw set are finished"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "all non-finished program-order-previous load-acquire instructions are entirely satisfied; and"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "all program-order-previous store-acquire-release instructions are finished"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Action"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "update the state of i to Plain(next state"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "all program-order-previous memory access instructions have a fully determined memory footprint;"
+    ],
+    "title": [
+      "all program-order-previous fence.tso instructions are finished; 5. all program-order-previous load-acquire instructions are finished; 6. all program-order-previous store-acquire-release instructions are finished; 7. if i is a store-release, all program-order-previous instructions are finished; 8"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Action"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "update the state of i to Plain(store continuation(false"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "RISC-V ELF psABI Specification"
+    ],
+    "type": null,
+    "url": [
+      "https://github.com/riscv/riscv-elf-psabi-doc/."
+    ]
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "IEEE Std"
+    ],
+    "date": [
+      "1754"
+    ],
+    "title": [
+      "IEEE standard for a 32-bit microprocessor"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "literal": "G. M. Amdahl, G. A. Blaauw, and Jr. F. P. Brooks."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "IBM Journal of R. & D"
+    ],
+    "date": [
+      "1964"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Architecture of the IBM System/360"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1962"
+    ],
+    "editor": [
+      {
+        "family": "Buchholz",
+        "given": "Werner"
+      }
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Planning a computer system: Project Stretch"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gharachorloo",
+        "given": "Kourosh"
+      },
+      {
+        "family": "Lenoski",
+        "given": "Daniel"
+      },
+      {
+        "family": "Laudon",
+        "given": "James"
+      },
+      {
+        "family": "Gibbons",
+        "given": "Phillip"
+      },
+      {
+        "family": "Gupta",
+        "given": "Anoop"
+      },
+      {
+        "family": "Hennessy",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "In Proceedings of the 17th Annual International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "15–26,"
+    ],
+    "title": [
+      "Memory consistency and event ordering in scalable shared-memory multiprocessors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Heil",
+        "given": "Timothy H."
+      },
+      {
+        "family": "Smith",
+        "given": "James E."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "location": [
+      "Madison"
+    ],
+    "publisher": [
+      "University of Wisconsin"
+    ],
+    "title": [
+      "Selective dual path execution"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "ANSI/IEEE Std 754-2008, IEEE standard for floating-point arithmetic"
+    ],
+    "date": [
+      "2008"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Katevenis",
+        "given": "Manolis G.H."
+      },
+      {
+        "family": "Robert W. Sherburne",
+        "given": "David A.Patterson",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Sequin",
+        "given": "Carlo H."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Proceedings VLSI 83 Conference"
+    ],
+    "date": [
+      "1983-08"
+    ],
+    "title": [
+      "The RISC II micro-architecture"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "Hyesoon"
+      },
+      {
+        "family": "Mutlu",
+        "given": "Onur"
+      },
+      {
+        "family": "Stark",
+        "given": "Jared"
+      },
+      {
+        "family": "Patt",
+        "given": "Yale N."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "Proceedings of the 38th annual IEEE/ACM International Symposium on Microarchitecture, MICRO 38"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "43–54,"
+    ],
+    "title": [
+      "Wish branches: Combining conditional branching and predication for adaptive predicated execution"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Klauser",
+        "given": "A."
+      },
+      {
+        "family": "Austin",
+        "given": "T."
+      },
+      {
+        "family": "Grunwald",
+        "given": "D."
+      },
+      {
+        "family": "Calder",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "Proceedings of the 1998 International Conference on Parallel Architectures and Compilation Techniques, PACT ’98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Washington, DC, USA"
+    ],
+    "title": [
+      "Dynamic hammock predication for nonpredicated instruction set architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "David D."
+      },
+      {
+        "family": "Kong",
+        "given": "Shing I."
+      },
+      {
+        "family": "Hill",
+        "given": "Mark D."
+      },
+      {
+        "family": "Taylor",
+        "given": "George S."
+      },
+      {
+        "family": "Hodges",
+        "given": "David A."
+      },
+      {
+        "family": "Katz",
+        "given": "Randy H."
+      },
+      {
+        "family": "Patterson",
+        "given": "David A."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "IEEE JSSC"
+    ],
+    "date": [
+      "1989-12"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "1688–1698"
+    ],
+    "title": [
+      "A VLSI chip set for a multiprocessor workstation–Part I: An RISC microprocessor with coprocessor interface and support for symbolic processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "OpenCores"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "2012-12"
+    ],
+    "title": [
+      "OpenRISC 1000 architecture manual, architecture version 1.0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pan",
+        "given": "Heidi"
+      },
+      {
+        "family": "Hindman",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Asanovic",
+        "given": "Krste"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "Proceedings of the 1st USENIX Workshop on Hot Topics in Parallelism (HotPar ’09"
+    ],
+    "date": [
+      "2009-03"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "title": [
+      "Lithe: Enabling efficient composition of parallel libraries"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pan",
+        "given": "Heidi"
+      },
+      {
+        "family": "Hindman",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Asanovic",
+        "given": "Krste"
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "31st Conference on Programming Language Design and Implementation"
+    ],
+    "date": [
+      "2010-06"
+    ],
+    "location": [
+      "Toronto, Canada"
+    ],
+    "title": [
+      "Composing parallel software efficiently with Lithe"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "David A."
+      },
+      {
+        "family": "Sequin",
+        "given": "Carlo H."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "ISCA"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "443–458,"
+    ],
+    "title": [
+      "RISC I: A reduced instruction set VLSI computer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajwar",
+        "given": "Ravi"
+      },
+      {
+        "family": "Goodman",
+        "given": "James R."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Proceedings of the 34th annual ACM/IEEE International Symposium on Microarchitecture, MICRO 34"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "294–305"
+    ],
+    "publisher": [
+      "IEEE Computer Society"
+    ],
+    "title": [
+      "Speculative lock elision: enabling highly concurrent multithreaded execution"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Balaram Sinharoy",
+        "given": "R.Kalla"
+      },
+      {
+        "family": "Starke",
+        "given": "W.J."
+      },
+      {
+        "family": "Le",
+        "given": "H.Q."
+      },
+      {
+        "family": "Cargnoni",
+        "given": "R."
+      },
+      {
+        "family": "Norstrand",
+        "given": "J.A.",
+        "particle": "Van"
+      },
+      {
+        "family": "Ronchetti",
+        "given": "B.J."
+      },
+      {
+        "family": "Stuecheli",
+        "given": "J."
+      },
+      {
+        "family": "Leenstra",
+        "given": "J."
+      },
+      {
+        "family": "Guthrie",
+        "given": "G.L."
+      },
+      {
+        "family": "Nguyen",
+        "given": "D.Q."
+      },
+      {
+        "family": "Blaner",
+        "given": "B."
+      },
+      {
+        "family": "Marino",
+        "given": "C.F."
+      },
+      {
+        "family": "Retter",
+        "given": "E."
+      },
+      {
+        "family": "Williams",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "1–1"
+    ],
+    "title": [
+      "IBM POWER7 multicore server processor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thornton",
+        "given": "James E."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Proceedings of the October 27-29, 1964, Fall Joint Computer Conference"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Part II"
+    ],
+    "note": [
+      "Systems, AFIPS ’64 (Fall, part II),"
+    ],
+    "pages": [
+      "33–40,"
+    ],
+    "publisher": [
+      "Very High Speed Computer"
+    ],
+    "title": [
+      "Parallel operation in the Control Data 6600"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tremblay",
+        "given": "Marc"
+      },
+      {
+        "family": "Chan",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "Chaudhry",
+        "given": "Shailender"
+      },
+      {
+        "family": "Conigliaro",
+        "given": "Andrew W."
+      },
+      {
+        "family": "Tse",
+        "given": "Shing Sheung"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "12–25"
+    ],
+    "title": [
+      "The MAJC architecture: A synthesis of parallelism and scalability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tseng",
+        "given": "J."
+      },
+      {
+        "family": "Asanovic",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "Proc. of the 13th Symposium on Integrated Circuits and Systems Design"
+    ],
+    "date": [
+      "2000-09"
+    ],
+    "location": [
+      "Manaus, Brazil"
+    ],
+    "pages": [
+      "377–384,"
+    ],
+    "title": [
+      "Energy-efficient register access"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ungar",
+        "given": "David"
+      },
+      {
+        "family": "Blau",
+        "given": "Ricki"
+      },
+      {
+        "family": "Foley",
+        "given": "Peter"
+      },
+      {
+        "family": "Samples",
+        "given": "Dain"
+      },
+      {
+        "family": "Patterson",
+        "given": "David"
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "ISCA"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Ann Arbor, MI"
+    ],
+    "pages": [
+      "188–197,"
+    ],
+    "title": [
+      "Architecture of SOAR: Smalltalk on a RISC"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterman",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "2011"
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Improving Energy Efficiency and Reducing Code Size with RISC-V Compressed"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterman",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "2016"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Design of the RISC-V Instruction Set Architecture"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterman",
+        "given": "Andrew"
+      },
+      {
+        "family": "Lee",
+        "given": "Yunsup"
+      },
+      {
+        "family": "Patterson",
+        "given": "David A."
+      },
+      {
+        "family": "Asanovic",
+        "given": "Krste"
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "2011-05"
+    ],
+    "genre": [
+      "Technical Report UCB/EECS-2011-62, EECS Department,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "The RISC-V instruction set manual, Volume I: Base user-level ISA"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Waterman",
+        "given": "Andrew"
+      },
+      {
+        "family": "Lee",
+        "given": "Yunsup"
+      },
+      {
+        "family": "Patterson",
+        "given": "David A."
+      },
+      {
+        "family": "Asanovic",
+        "given": "Krste"
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "2014-05"
+    ],
+    "genre": [
+      "Technical Report UCB/EECS-2014-54, EECS Department,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "The RISC-V instruction set manual, Volume I: Base user-level ISA version 2.0"
+    ],
+    "type": "report"
+  }
+]
