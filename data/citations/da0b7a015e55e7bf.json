@@ -1,0 +1,2123 @@
+[
+  {
+    "note": [
+      "port 1999 (TCP) TransScout port 2000 TransScout port 2001 (TCP) Trojan Cow 1.0"
+    ],
+    "pages": [
+      "– 2 03"
+    ],
+    "title": [
+      "port 1509 (TCP) Psyber Streaming Server port 1600 (TCP) Shivka-Burka port 1807 (UDP) Spy-Sender port 1981 (TCP) Shockrave port 1999 BackDoor 2.00"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "port 2023(TCP) Ripper port 2086 (TCP) Netscape/Corba exploit"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TCP) Net Metropolitan"
+    ],
+    "pages": [
+      "5031"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TCP) Illusion Mailer"
+    ],
+    "pages": [
+      "5521"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "port 31787 (TCP) Hack ‘a’ Tack"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "bzero(buffer,TAILLE_BUFFER); strcpy(buffer,getenv(\"DISPLAY\")); fwrite(buffer,1,259,param); /* LANG (1 C 0 0 0 0 0 0 0) */ sprintf(buffer,\"%c%c%c%c%c%c%c%c%c\",1,67,0,0,0,0,0,0,0); fwrite(buffer,1,9,param);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "send_environ(LOGIN,param); /* size_$USERNAME $USERNAME 0 0 0 */ send_environ(LOGIN,param);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "sprintf(buffer,\"LANG=%s\",getenv(\"LANG\")); send_environ(buffer,param); sprintf(buffer,\"LOGIN=%s\",LOGIN); send_environ(buffer,param);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "sprintf(buffer,\"%c%c%c%c\",1,45,113,0);"
+    ],
+    "note": [
+      "fwrite(buffer,1,4,param);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "here",
+        "given": "Start",
+        "particle": "customizing"
+      }
+    ],
+    "issue": [
+      "26001"
+    ],
+    "source": [
+      "\"207.123.126.4:26000:0\", \"129.15.3.38:26001:0\", \"129.15.3.38:26002:0\", \"192.107.41.7:26000:0\", \"157.182.246.58:26000:0\", \"128.52.42.22:26000:0\", \"209.51.213.12:26000:0\", \"209.112.14.200:26000:0\", \"144.92.218.112:26000:0\", \"200.239.253.14:26000:0\", \"134.147.141.98:26000:0\", \"137.48.127.127:26000:0\", \"209.51.192.228:26000:0\" \"159.134.244.134:26000:0\", \"207.229.129.193:26000:0\", \"194.125.2.219:26001:0\", \"206.98.138.162:26000:0\", \"134.193.111.241:26000:0\", \"207.40.196.13:26000:0\", \"209.26.6.121:26000:0\", \"208.194.67.16:26000:0\", \"205.163.58.20:26000:0\", \"199.247.156.6:26000:0\", \"12.72.1.37:26000:0\", \"216.65.157.101:26000:0\", \"206.103.0.200:26000:0\", \"207.198.211.22:26000:0\", \"148.176.238.89:26000:0\", \"208.255.165.53:26000:0\", \"208.240.197.32:26000:0\", \"209.192.31.148:26000:0\", \"159.134.244.132:26000:0\", \"195.96.122.8:26000:0\", \"209.30.67.88:26000:0\", \"209.36.105.50:26000:0\", \"62.136.15.45:26000:0\", \"208.18.129.2:26000:0\", \"208.0.188.6:26000:0\", \"208.137.128.24:26000:0\", \"198.106.23.1:26000:0\", \"209.122.33.45:26000:0\", \"208.23.24.79:26000:0\", \"200.34.211.10:26000:0\", \"208.45.42.111:26000:0\", \"203.23.47.43:26000:0\", \"207.239.192.51:26000:0\", \"165.166.140.122:26000:0\", \"207.19.125.13:26000:0\", \"144.92.229.122:26000:0\", \"199.202.71.203:26000:0\", \"200.255.244.2:26000:0\", \"207.30.184.9:26000:0\", \"129.186.121.53:26000:0\", \"204.210.15.71:26000:0\", \"198.101.39.41:26000:0\", \"203.45.23.123:26000:0\", \"205.23.45.223:26000:0\", \"34.224.14.118:26000:0\", \"200.24.34.116:26000:0\", \"133.45.342.124:26000:0\", \"192.52.220.101:26000:0\", \"194.126.80.142:26000:0\", \"206.171.181.1:26000:0\", \"208.4.5.9:26000:0\", \"206.246.194.16:26000:0\", \"205.139.62.15:26000:0\", \"204.254.98.15:26000:0\", \"207.206.116.41:26000:0\", \"208.130.10.26:26000:0\", \"207.126.70.69:26000:0\", \"38.241.229.103:26000:0\", \"204.170.191.6:26000:0\", \"144.92.243.243:26000:0\", \"144.92.111.117:26000:0\", \"194.229.103.195:26000:0\", \"208.134.73.42:26000:0\", \"207.64.79.1:26000:0\", \"171.64.65.70:26004:0\", \"207.13.110.4:26000:0\", \"204.253.208.245:26000:0\", \"165.166.144.45:26000:0\", \"128.252.22.47:26000:0\", \"204.210.15.71:26001:0\", \"193.88.50.50:26000:0\", \"209.155.24.25:26000:0\", \"204.49.131.19:26000:0\", \"199.67.51.102:26000:0\", \"207.114.144.200:26000:0\", \"165.166.140.140:26000:0\", \"38.233.80.136:26000:0\", \"204.216.57.249:26000:0\", \"199.72.175.4:26000:0\", \"204.91.237.250:26000:0\", \"206.191.0.209:26000:0\", \"194.109.6.220:26000:0\", \"207.67.188.25:26000:0\", \"160.45.32.176:26000:0\", \"206.246.194.15:26000:0\", \"207.65.182.12:26000:0\", \"204.213.176.8:26000:0\", \"207.99.85.67:26000:0\", \"209.172.129.66:26000:0\", \"132.230.63.23:26000:0\", \"206.149.144.14:26000:0\", \"147.188.209.113:26000:0\", \"204.141.86.42:26000:0\", \"207.8.164.27:26000:0\", \"204.254.98.11:26000:0\", \"204.216.126.251:26000:0\", \"207.206.65.5:26000:0\", \"209.12.170.11:26000:0\", \"131.111.226.98:26000:0\", \"194.65.5.103:26000:0\", \"204.202.54.95:26000:0\", \"204.97.179.4:26000:0\", \"24.0.147.54:26000:0\", \"207.170.48.24:26000:0\", \"199.217.218.8:26000:0\", \"207.166.192.85:26000:0\", \"206.154.148.145:26000:0\", \"206.248.16.16:26000:0\", \"200.241.188.3:26000:0\", \"204.177.71.10:26000:0\", \"140.233.207.207:26000:0\", \"207.218.51.13:26000:0\", \"194.109.6.217:26000:0\", \"207.236.41.30:26000:0\", \"195.162.196.42:26000:0\", \"209.49.51.98:26020:0\", \"198.106.166.188:26000:0\", \"207.239.212.113:26000:0\", \"165.91.3.91:26000:0\", \"128.95.25.184:26666:0\", \"128.2.237.78:26001:0\", \"128.2.237.78:26003:0\", \"207.254.73.2:26000:0\", \"208.225.207.3:26666:0\", \"171.64.65.70:26666:0\", \"208.225.207.3:26001:0\", \"128.2.237.78:26000:0\", \"129.21.113.71:26000:0\", \"195.74.96.45:26000:0\", \"206.129.112.27:26000:0\", \"199.67.51.101:26000:0\", \"38.156.101.2:26000:0\", \"204.177.39.44:26000:0\", \"207.173.16.53:26000:0\", \"207.175.30.130:26123:0\", \"128.52.38.15:26000:0\", \"204.49.131.19:26666:0\", \"129.21.114.129:26666:0\", \"128.2.237.78:26002:0\", \"18.238.0.24:26001:0\", \"140.247.155.208:26000:0\", \"208.137.139.8:26000:0\", \"141.219.81.85:26000:0\", \"208.203.244.13:26000:0\", \"208.137.128.24:26020:0\", \"140.180.143.197:26666:0\", \"205.189.151.3:26000:0\", \"199.247.126.23:26000:0\", \"18.238.0.24:26002:0\", \"206.98.138.166:26000:0\", \"128.2.74.204:26000:0\", \"198.87.96.254:26000:0\", \"204.209.212.5:26000:0\", \"207.171.0.68:26002:0\", \"159.134.244.133:26000:0\", \"195.170.128.5:26000:0\", \"198.164.230.15:26000:0\", \"130.236.249.227:26000:0\",",
+      "\"198.17.249.14:26000:0\", \"156.46.147.17:26000:0\", \"207.13.5.18:26000:0\", \"208.212.201.9:26000:0\", \"207.96.243.5:26000:0\", \"206.196.153.201:26000:0\", \"204.171.58.6:26000:0\", \"140.180.143.197:26000:0\", \"207.3.64.52:26000:0\", \"207.65.218.15:26000:0\", \"194.42.225.247:26000:0\", \"205.228.248.27:26000:0\", \"204.216.126.250:26000:0\", \"128.230.33.90:26000:0\", \"128.163.161.105:26000:0\", \"208.0.122.12:26000:0\", \"206.53.116.243:26000:0\", \"199.76.206.54:26000:0\", \"194.239.134.18:26000:0\", \"208.153.58.17:26000:0\", \"206.147.58.45:26000:0\", \"204.220.36.31:26000:0\", \"207.239.212.107:26000:0\", \"206.230.18.20:26000:0\", \"195.18.128.10:26000:0\", \"151.198.193.6:26000:0\", \"208.0.122.11:26000:0\", \"206.149.80.99:26000:0\", \"207.239.212.244:26000:0\", \"129.128.54.168:26000:0\", \"194.229.154.41:26000:0\", \"207.51.86.22:26000:0\", \"207.201.91.8:26000:0\", \"205.216.83.5:26000:0\", \"208.201.224.211:26000:0\", \"194.144.237.50:26000:0\", \"147.83.61.32:26000:0\", \"136.201.40.50:26000:0\", \"132.235.197.72:26000:0\", \"195.173.25.34:26000:0\", \"194.143.8.153:26000:0\", \"194.109.6.218:26000:0\", \"18.238.0.24:26000:0\", \"129.21.112.194:26000:0\", \"128.253.185.87:26000:0\", \"206.183.143.4:26000:0\", \"130.234.16.21:26000:0\", \"148.202.1.5:26000:0\", \"167.114.26.50:26000:0\", \"169.197.1.154:26000:0\", \"207.0.164.8:26000:0\", \"207.243.123.2:26000:0\", \"207.106.42.14:26000:0\", \"198.161.102.18:26000:0\", \"202.218.50.24:26000:0\", \"205.139.35.22:26000:0\", \"193.74.114.41:26000:0\", \"199.217.218.008:26000:0\", \"129.15.3.37:26000:0\", \"130.240.195.72:26000:0\", \"205.164.220.20:26000:0\", \"209.90.128.16:26000:0\", \"200.241.222.88:26000:0\", \"194.213.72.22:26000:0\", \"206.112.1.31:26000:0\", \"132.230.153.50:26000:0\", \"206.251.130.20:26000:0\", \"195.238.2.30:26000:0\", \"193.164.183.3:26000:0\", \"150.156.210.232:26000:0\", \"193.13.231.151:26000:0\", \"200.18.178.7:26000:0\", \"206.20.111.7:26000:0\", \"192.89.182.26:26000:0\", \"207.53.96.12:26000:0\", \"194.64.176.5:26000:0\", \"203.19.214.28:26000:0\", \"130.241.142.10:26000:0\", \"207.48.50.10:26000:0\", \"129.13.209.22:26000:0\", \"194.243.65.2:26000:0\", \"194.19.128.13:26000:0\", \"202.27.184.4:26000:0\", \"194.204.5.25:26000:0\", \"200.241.93.2:26000:0\", \"194.125.148.2:26000:0\", \"130.237.233.111:26000:0\", \"139.174.248.165:26000:0\", \"207.78.244.40:26000:0\", \"195.74.0.69:26000:0\", \"203.55.240.1:26000:0\", \"203.61.156.162:26000:0\", \"203.61.156.164:26000:0\", \"195.90.193.138:26000:0\", \"195.94.179.5:26000:0\", \"203.23.237.110:26000:0\", \"200.18.178.14:26000:0\", \"200.248.241.1:26000:0\", \"203.17.103.34:26000:0\", \"131.151.52.105:26000:0\", \"200.250.234.39:26000:0\", \"203.29.160.21:26000:0\", \"206.41.136.94:26000:0\", \"202.49.244.17:26000:0\", \"196.25.1.132:26000:0\", \"206.230.102.9:26000:0\", \"206.25.117.125:26000:0\", \"200.246.5.28:26000:0\", \"200.255.96.24:26000:0\", \"195.94.179.25:26000:0\", \"195.224.47.44:26000:0\", \"200.248.241.2:26000:0\", \"203.15.24.46:26000:0\", \"199.217.218.7:26000:0\", \"200.246.248.9:26000:0\", \"200.246.227.44:26000:0\", \"202.188.101.246:26000:0\", \"207.212.176.26:26000:0\", \"200.255.218.41:26000:0\", \"200.246.0.248:26000:0\", \"209.29.65.3:26000:0\", \"203.32.8.197:26000:0\", \"200.248.149.31:26000:0\", \"200.246.52.4:26000:0\", \"203.17.23.13:26000:0\", \"206.196.57.130:26001:0\", \"130.63.74.16:26000:0\", \"203.16.135.34:26000:0\", \"195.66.200.101:26000:0\", \"199.217.218.007:26000:0\", \"203.30.239.5:26000:0\", \"128.206.92.47:26000:0\", \"203.17.23.9:26000:0\", \"205.139.59.121:26000:0\", \"136.159.102.88:26000:0\", \"207.152.95.9:26000:0\", \"205.197.242.62:26000:0\", \"204.119.24.237:26000:0\", \"200.246.163.6:26000:0\", \"206.96.251.44:26000:0\", \"203.61.156.165:26000:0\", \"207.0.129.183:26000:0\", \"194.117.157.74:26000:0\", \"206.83.174.10:26000:0\", \"204.171.44.26:26000:0\", \"204.216.27.8:26000:0\", \"148.217.2.200:26000:0\", \"193.13.231.149:26000:0\", \"204.157.39.7:26000:0\", \"208.194.67.16:26012:0\", \"137.123.210.80:26000:0\", \"149.106.37.197:26000:0\", \"207.207.248.20:26000:0\", \"143.195.150.40:26000:0\", \"204.90.102.49:26000:0\", \"209.48.89.1:26000:0\", \"130.126.195.94:26000:0\", \"134.193.111.241:26500:0\", \"205.218.60.98:26001:0\", \"205.218.60.98:26000:0\", \"165.91.20.158:26000:0\", \"206.248.16.16:26001:0\", \"206.248.16.16:26002:0\", \"149.156.159.100:26000:0\", \"163.1.138.204:26000:0\", \"204.177.71.250:26000:0\", \"207.25.220.40:26000:0\", \"206.25.206.10:26000:0\", \"204.253.208.225:26000:0\", \"203.59.24.229:26000:0\", \"200.255.216.11:26000:0\", \"128.143.244.38:26000:0\", \"128.113.161.123:26000:0\", \"128.138.149.62:26000:0\", \"128.175.46.96:26000:0\","
+    ],
+    "type": null,
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "note": [
+      "00-00-0e (hex) Main Frame Div."
+    ],
+    "title": [
+      "Vendor Codes Fujitsu Limited Computer Systems Architecture Dept"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00000e"
+    ],
+    "date": [
+      "1015"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "title": [
+      "Kamikodanaka, Nakahara-Ku Kawasaki 211"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "base 16"
+    ],
+    "note": [
+      "USC Information Sciences Institute Internet Assigned Numbers.Authority 00-00-5E (hex) 4676 Admiralty Way 00005E (base 16) Marina Del Rey, CA 90292-6695"
+    ],
+    "title": [
+      "Racore Computer Products Inc. 2355 South 1070 West 00-00-58 (hex) Salt Lake City, UT 84119 000058"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Communications",
+        "given": "Cray"
+      },
+      {
+        "family": "P.O",
+        "given": "Ltd"
+      }
+    ],
+    "container-title": [
+      "Watford Business Park"
+    ],
+    "date": [
+      "base 16"
+    ],
+    "note": [
+      "Watford Hertswd 18XH United Kingdom"
+    ],
+    "title": [
+      "Box 254, Caxton Way 00-00-6D (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00006D"
+    ]
+  },
+  {
+    "genre": [
+      "Des Gatines-78370"
+    ],
+    "location": [
+      "Plaisir France"
+    ],
+    "title": [
+      "Dassault Automatismes Et Telecommunications 00-00-AE (hex) 9, Rue Elsa Triolet 0000AE (base 16) Z.I"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Co.",
+        "given": "Densan"
+      },
+      {
+        "given": "Ltd"
+      }
+    ],
+    "date": [
+      "base 16"
+    ],
+    "location": [
+      "New Zealand"
+    ],
+    "note": [
+      "Japan Industrial Research Limited P.O. Box 31-310 00-00-CD (hex) Lower Hutt 0000CD (base 16"
+    ],
+    "title": [
+      "1-23-11, Kamitakaido 00-00-CC (hex) Suginami-Ku, Tokyo 168 0000CC"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Imp"
+    ],
+    "issue": [
+      "1"
+    ],
+    "note": [
+      "Industrial Estate 00-00-E3 (hex) Consett, Co Dukham 0000E3 (base 16) DH86TJ United Kingdom"
+    ],
+    "title": [
+      "Integrated Micro Products Ltd"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "location": [
+      "Switzerland Showa"
+    ],
+    "note": [
+      "Electric Wire & Cable Co NO. 20-25, Seishin 8-Chome 00-20-16 (hex) Sagamihara,Kanagawa 002016 (base 16) 229 Japan"
+    ],
+    "title": [
+      "Actis Computer Sa 16 Chemin des Aulx 00-20-15 (hex) 1228 Plan les Ovates 002015 (base 16"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Co",
+        "given": "Ming Fortune Industry"
+      }
+    ],
+    "container-title": [
+      "Ltd"
+    ],
+    "issue": [
+      "5, Lane 45"
+    ],
+    "location": [
+      "Taipei Hsien Taiwan, R.O.C"
+    ],
+    "note": [
+      "hex) Pao Hsin Rd., Hsin Tien 002027 (base 16"
+    ],
+    "pages": [
+      "00–20–27"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Systems",
+        "given": "West Egg"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "note": [
+      "hex) Stamford, CT 06905 002028 (base 16"
+    ],
+    "pages": [
+      "– 286 00–20–28"
+    ],
+    "title": [
+      "65 High Ridge Road"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Products",
+        "given": "Teleprocessing"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "Building"
+    ],
+    "issue": [
+      "base 16"
+    ],
+    "location": [
+      "Simi Valley, CA 93063"
+    ],
+    "title": [
+      "4565 E. Industrial Street 00-20-29 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "002029"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Co",
+        "given": "Welltronix"
+      }
+    ],
+    "container-title": [
+      "Ltd"
+    ],
+    "genre": [
+      "Hwang Hsi 00-20-2C (hex) Shin- lin 00202C (base 16)"
+    ],
+    "issue": [
+      "36-1"
+    ],
+    "location": [
+      "Taipei Taiwan, R.O.C"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "BOX",
+        "given": "Genitech Pty Ltd P.O."
+      }
+    ],
+    "location": [
+      "Australia"
+    ],
+    "note": [
+      "hex) Asquith NSW 2077 002044 (base 16"
+    ],
+    "pages": [
+      "196 00–20–44"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Microsystems",
+        "given": "Huntsville"
+      },
+      {
+        "family": "P.O",
+        "given": "Inc"
+      }
+    ],
+    "location": [
+      "Huntsville, AL"
+    ],
+    "title": [
+      "Box12415 00-20-53 (hex"
+    ],
+    "type": null,
+    "volume": [
+      "35815"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "White Horse Industrial 4F."
+      }
+    ],
+    "container-title": [
+      "Chung Hsiao East Road"
+    ],
+    "location": [
+      "Taipei Taiwan, R.O.C",
+      "Winchester, Hampshire"
+    ],
+    "note": [
+      "NTL Advanced Products Division 00-20-AA (hex) Crawley Court 0020AA (base 16"
+    ],
+    "title": [
+      "NO.16, Alley 56, Lane 181 00-20-A9 (hex) Sec.4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0020A9 (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tech",
+        "given": "Ornet Data Communication"
+      }
+    ],
+    "container-title": [
+      "Box"
+    ],
+    "location": [
+      "Israel"
+    ],
+    "note": [
+      "hex) Carmiel20100 0020AE (base 16"
+    ],
+    "pages": [
+      "00–20–"
+    ],
+    "title": [
+      "P.O"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "323"
+    ]
+  },
+  {
+    "note": [
+      "Scltec Communications Systems 3 Apollo Place 00-20-B3 (hex) Lane Cove 0020B3 (base 16) N.S.W. 2066 Australia"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Suginami-Ku"
+    ],
+    "location": [
+      "Tokyo 167 Japan"
+    ],
+    "title": [
+      "Zax Corporation 20-12 Ogikubo 5-Chome 00-20-BB (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0020BB (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "Dantel P.O."
+      }
+    ],
+    "note": [
+      "hex) 2991 North Argyle Ave."
+    ],
+    "pages": [
+      "00–20– 9"
+    ],
+    "type": null,
+    "volume": [
+      "55013"
+    ]
+  },
+  {
+    "location": [
+      "Fresno, CA"
+    ],
+    "pages": [
+      "93727–1388"
+    ],
+    "type": null,
+    "volume": [
+      "0020E9 (base 16"
+    ]
+  },
+  {
+    "container-title": [
+      "Shinagawa-Ku"
+    ],
+    "location": [
+      "Tokyo, 141 Japan"
+    ],
+    "title": [
+      "U S C Corporation 7-19-1, Nishigotanda, 00-20-EF (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0020EF (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Co",
+        "given": "Zero One Technology"
+      }
+    ],
+    "container-title": [
+      "SEC"
+    ],
+    "issue": [
+      "base 16"
+    ],
+    "location": [
+      "Taiwan R.O.C"
+    ],
+    "title": [
+      "Ltd 4F, 111, Chung Shan N. Road 00-40-01 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "004001"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Co.",
+        "given": "Optec Daiichi Denko"
+      },
+      {
+        "given": "Ltd"
+      }
+    ],
+    "note": [
+      "Div. 00-40-39 (hex) 3-1-1 Marunouchi Chiyodaku 004039 (base 16) Tokyo 100 Japan Forks, Inc. 1-27-4 Iriya, 00-40-3C (hex) Iriya 1-27-4 Taito, 00403C (base 16) 110 Japan"
+    ],
+    "title": [
+      "Fiber Optics & Telecom"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "Nokia Data Communications P.O."
+      }
+    ],
+    "location": [
+      "Finland"
+    ],
+    "note": [
+      "hex) 90101 Oulu 004043 (base 16"
+    ],
+    "pages": [
+      "223 00–40–43"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "Hypertec Pty Ltd P.O."
+      }
+    ],
+    "date": [
+      "1782"
+    ],
+    "note": [
+      "hex) Macquarie Centre 00404C (base 16) NSW, 2113 Australia"
+    ],
+    "pages": [
+      "00–40–4"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Lockheed"
+      }
+    ],
+    "container-title": [
+      "Box"
+    ],
+    "issue": [
+      "base 16"
+    ],
+    "location": [
+      "Nashua, NH"
+    ],
+    "pages": [
+      "03061–0868"
+    ],
+    "title": [
+      "Sanders Daniel Webster Highway South 00-40-57 (hex) P.O"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "004057"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "K",
+        "given": "Yoshida Kogyo K."
+      }
+    ],
+    "note": [
+      "00-40-59 (hex) 200 Yoshida Kurobe City 004059 (base 16) Toyama Pref. 939 Japan"
+    ],
+    "title": [
+      "Technical Research Dept"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00-40-66"
+    ],
+    "note": [
+      "hex) 880 Isagozaw-Cho, Hitachi-Shi 004066 (base 16) Ibaraki-Ken, 319-14 Japan"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Cable And Wireless Communications, Inc",
+      "Box"
+    ],
+    "date": [
+      "1919"
+    ],
+    "location": [
+      "Harrisburg, PA"
+    ],
+    "note": [
+      "hex) M/S:106-14 004076 (base 16"
+    ],
+    "pages": [
+      "00–40–74",
+      "00–40–76",
+      "17105–3608"
+    ],
+    "title": [
+      "Gallows Road 004074 (base 16) Vienna, VA 22182-3964 AMP Incorporated P.O"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3608"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "S.A.A.B.Instruments A.B.P.O."
+      }
+    ],
+    "date": [
+      "1017"
+    ],
+    "location": [
+      "Sweden"
+    ],
+    "note": [
+      "hex) S-551 11 Jonkoping 004085 (base 16"
+    ],
+    "pages": [
+      "00–40–85"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "R.P.T.Intergroups Int’l"
+      }
+    ],
+    "container-title": [
+      "Taipei"
+    ],
+    "issue": [
+      "base 16"
+    ],
+    "location": [
+      "Taiwan, R.O.C"
+    ],
+    "title": [
+      "9f, 50 Min Chuan Rd 00-40-95 (hex) Hsin Tien"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "004095"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "P.O",
+        "given": "Valmet Automation Inc"
+      }
+    ],
+    "location": [
+      "Finland"
+    ],
+    "title": [
+      "Box 237 00-40-AA (hex) SF-33101 Tampere 0040AA (base 16"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Video Technology Computers Ltd"
+    ],
+    "issue": [
+      "F."
+    ],
+    "note": [
+      "hex) Tai Ping Industrial Center 0040B5 (base 16) 57 Ting Kok Road, Tai Po N.T., Hong Kong"
+    ],
+    "pages": [
+      "00–40– 5"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "container-title": [
+      "Bldg"
+    ],
+    "note": [
+      "Co., Ltd. 1-17 Sai Lau Kok Road 00-40-E7 (hex) Tsuen Wan, N.T. 0040E7 (base 16) Hong Kong"
+    ],
+    "title": [
+      "Arnos Instruments & Computer Systems (Group) 4/F., Eureka Ind"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "Microsystems, Inc. 69-52 Nagakude Kanihara, 00-40-F0 (hex) Nagakut. Ch."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0040F0"
+    ],
+    "date": [
+      "base 16"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "title": [
+      "Aich-Gun Aichi-Ken 480-11"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00-80-0D"
+    ],
+    "location": [
+      "Germany"
+    ],
+    "note": [
+      "hex) D-4130 Moers 00800D (base 16"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Co.",
+        "given": "Surigiken"
+      },
+      {
+        "given": "Ltd"
+      }
+    ],
+    "container-title": [
+      "Tokyo"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "title": [
+      "Youth Bldg, 4-1-9 Shinjuku 00-80-3D (hex) Shinjuku-Ku"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00803D (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ind",
+        "given": "Matsushita Electric"
+      }
+    ],
+    "container-title": [
+      "Kadoma"
+    ],
+    "issue": [
+      "base 16"
+    ],
+    "location": [
+      "Osaka, 571 Japan"
+    ],
+    "title": [
+      "Co Computer Division 00-80-45 (hex) 1006"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "008045"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Microsystems",
+        "given": "Cyclone"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "title": [
+      "25 Science Park"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Adsoft",
+        "given": "Ltd"
+      }
+    ],
+    "container-title": [
+      "Box"
+    ],
+    "location": [
+      "The Netherlands"
+    ],
+    "note": [
+      "hex) 5203 DH ‘S-Hertogenbosch 00805A (base 16"
+    ],
+    "pages": [
+      "00–80–5"
+    ],
+    "title": [
+      "Landstrasse 27A 00-80-57 (hex) CH-4313 Mohlin 008057 (base 16) Switzerland Tulip Computers Internat’l B.V P.O"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3333"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "Century Systems"
+      }
+    ],
+    "container-title": [
+      "Chuo-Ku"
+    ],
+    "location": [
+      "Tokyo 104 Japan Onelan Ltd"
+    ],
+    "pages": [
+      "107"
+    ],
+    "publisher": [
+      "P.O. Box"
+    ],
+    "title": [
+      "2-8-12 Minami-Cho 00-80-6D (hex) Kokubunji-Shi, Tokyo 00806D (base 16) 185 Japan Nippon Steel Corporation 31-1 Shinkawa 2-Choume 00-80-6E (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00806E (base 16"
+    ]
+  },
+  {
+    "citation-number": [
+      "00-80-6F"
+    ],
+    "note": [
+      "hex) Henley On Thames 00806F (base 16) Oxfordshire RG9 3NOQ United Kingdom"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Kanagawa"
+    ],
+    "issue": [
+      "base 16"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "title": [
+      "Victor Company Of Japan, Ltd. 58-7 Shinmei-Cho, Yokosuka 00-80-88 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "008088"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "B.V",
+        "given": "West Coast Technology"
+      }
+    ],
+    "container-title": [
+      "Box"
+    ],
+    "location": [
+      "The Netherlands"
+    ],
+    "note": [
+      "hex) 2601 DH Delft 00808D (base 16"
+    ],
+    "pages": [
+      "00–80–8"
+    ],
+    "title": [
+      "P.O"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3317"
+    ]
+  },
+  {
+    "container-title": [
+      "Market Street"
+    ],
+    "location": [
+      "Bracknell, Berk WRG12"
+    ],
+    "note": [
+      "1JB United Kingdom"
+    ],
+    "title": [
+      "Novus Networks Ltd John Scott House 00-80-9A (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00809A (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lanoptics",
+        "given": "Ltd P.O.Box"
+      }
+    ],
+    "note": [
+      "hex) Migdal Ha-Emek 00C000 (base 16) Israel, 10551 Diatek Patient Managment Systems, Inc."
+    ],
+    "pages": [
+      "184 00– 0–00"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00-C0-01"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "92121–1723"
+    ],
+    "title": [
+      "hex) 5720 Oberlin Drive 00C001 (base 16"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Taipei"
+    ],
+    "location": [
+      "Taiwan, R.O.C"
+    ],
+    "title": [
+      "Sercomm Corporation 420 Fu Hsin North Road, 5th Fl 00-C0-02 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00C002 (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "Norcontrol A.S.P.O."
+      }
+    ],
+    "date": [
+      "1024"
+    ],
+    "location": [
+      "Norway"
+    ],
+    "note": [
+      "hex) N-3194 Horten 00C00B (base 16"
+    ],
+    "pages": [
+      "00– 0–0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00C00E"
+    ],
+    "date": [
+      "base 16"
+    ],
+    "location": [
+      "Kanata, Ontario",
+      "Canada"
+    ],
+    "title": [
+      "Quantum Software Systems Ltd. 175 Terrence Matthews Crescent 00-C0-0F (hex"
+    ],
+    "type": null,
+    "volume": [
+      "00C00F (base 16",
+      "K2L 3T5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "B.P",
+        "given": "S.E.R.C.E.L."
+      }
+    ],
+    "location": [
+      "France"
+    ],
+    "note": [
+      "hex) 44474 Carquefou Cedex 00C01F (base 16"
+    ],
+    "pages": [
+      "439 00– 0–1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Co.",
+        "given": "Ohkura Electric"
+      },
+      {
+        "given": "Ltd"
+      }
+    ],
+    "container-title": [
+      "Saitama Pref"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "pages": [
+      "351–01"
+    ],
+    "title": [
+      "2-90-20 Shirako Wako City 00-C0-2A (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00C02A (base 16"
+    ]
+  },
+  {
+    "citation-number": [
+      "00-C0-2D"
+    ],
+    "location": [
+      "Kanagawa Japan"
+    ],
+    "title": [
+      "hex) Ashigara-Kami- Gun 00C02D (base 16"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "Integrated Engineering"
+      }
+    ],
+    "container-title": [
+      "Ellermanstraat"
+    ],
+    "location": [
+      "The Netherlands"
+    ],
+    "note": [
+      "hex) 1099 BW Amsterdam 00C030 (base 16"
+    ],
+    "pages": [
+      "00– 0–30"
+    ],
+    "title": [
+      "V"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "S.R.L",
+        "given": "Tower Tech"
+      }
+    ],
+    "genre": [
+      "(hex) 56124 Pisa 00C03C (base 16)"
+    ],
+    "location": [
+      "Italy"
+    ],
+    "title": [
+      "Via Ridolfi 6,8 00-C0-3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "P.O",
+        "given": "Fa Gebr Heller G.M.B.H."
+      }
+    ],
+    "container-title": [
+      "Dept"
+    ],
+    "location": [
+      "Germany"
+    ],
+    "note": [
+      "hex) 7440 Nurtingen 00C03E (base 16"
+    ],
+    "pages": [
+      "00– 0–3"
+    ],
+    "title": [
+      "Box 1428"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EE7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "K.K",
+        "given": "Toyo Denki Seizo"
+      }
+    ],
+    "container-title": [
+      "Ebinashi"
+    ],
+    "location": [
+      "Kanagawa, Japan"
+    ],
+    "pages": [
+      "243–04"
+    ],
+    "title": [
+      "4-6-32 Higashikashiwagaya 00-C0-50 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00C050 (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Co.",
+        "given": "Nippondenso"
+      },
+      {
+        "given": "Ltd"
+      }
+    ],
+    "date": [
+      "base 16"
+    ],
+    "note": [
+      "448 Japan Networks Northwest, Inc. P.O. Box 1188 00-C0-5B (hex) Issaquah, WA 98027 00C05B (base 16"
+    ],
+    "title": [
+      "1-1 Showa-Cho 00-C0-59 (hex) Kariya City Aichi 00C059"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "Id Scandinavia A.S.P.O."
+      }
+    ],
+    "location": [
+      "Norway"
+    ],
+    "note": [
+      "hex) N-5028 Bergen 00C060 (base 16"
+    ],
+    "pages": [
+      "4227 00– 0–60"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "GMBH",
+        "given": "Zahner-Elektrik"
+      },
+      {
+        "family": "P.O",
+        "given": "C.O.K.G."
+      }
+    ],
+    "note": [
+      "hex) Meguro-Ku, Tokyo153 00C06B (base 16) Japan SVEC Computer Corp. 3F, 531-1 Chung Cheng Rd."
+    ],
+    "title": [
+      "Box 1846 00-C0-6A (hex) Thueringer Strasse 12 00C06A (base 16) DW-8640 Kronach-Gundelsdorf Germany OSI Plus Corporation 2-1-23 Nakameguro 00-C0-6B"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00-C0-6C"
+    ],
+    "container-title": [
+      "Taipei"
+    ],
+    "location": [
+      "Taiwan, R.O.C"
+    ],
+    "title": [
+      "hex) Hsin-Tien City"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00C06C (base 16"
+    ]
+  },
+  {
+    "citation-number": [
+      "00-C0-6F"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "title": [
+      "hex) Kanagawa 254 00C06F (base 16"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Netstar",
+        "given": "Inc"
+      }
+    ],
+    "location": [
+      "Minneapolis, MN"
+    ],
+    "note": [
+      "79th Street 00C080 (base 16"
+    ],
+    "pages": [
+      "55425–1235"
+    ],
+    "title": [
+      "Cedar Business Center 00-C0-80 (hex) 1801 E"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "De Anza Blvd"
+    ],
+    "title": [
+      "Network Information Technology 10430 S"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Co.",
+        "given": "Yoshiki Industrial"
+      },
+      {
+        "given": "Ltd"
+      }
+    ],
+    "container-title": [
+      "Yonezawa Yamagata"
+    ],
+    "location": [
+      "Japan"
+    ],
+    "pages": [
+      "992"
+    ],
+    "title": [
+      "1-38 Matsugasaki 2, Chome 00-C0-99 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00C099 (base 16"
+    ]
+  },
+  {
+    "citation-number": [
+      "00-C0-9F"
+    ],
+    "location": [
+      "Taipei Taiwan, R.O.C"
+    ],
+    "title": [
+      "hex) Shih-Lin Dist"
+    ],
+    "type": null,
+    "volume": [
+      "00C09F (base 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Research",
+        "given": "Advance Micro"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "2045"
+    ],
+    "note": [
+      "Corporate Court 00-C0-A0 (hex) San Jose, CA 95131 00C0A0 (base 16"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Israel"
+    ],
+    "note": [
+      "Box 107 Yokneam 20692 00C0AC (base 16"
+    ],
+    "title": [
+      "Gambit Computer Communications Soltam Industrial Park 00-C0-AC (hex) P.O"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Taipei"
+    ],
+    "location": [
+      "Taiwan R.O.C"
+    ],
+    "title": [
+      "Comtree Technology Corporation 5F-7, NO. 1, Fu-Hsing North Rd 00-C0-D1 (hex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "00C0D1 (base 16"
+    ]
+  },
+  {
+    "location": [
+      "Taiwan, R.O.C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "P.O",
+        "given": "Fiberdata A.B."
+      }
+    ],
+    "location": [
+      "Sweden"
+    ],
+    "title": [
+      "Box 20095 00-C0-E7 (hex) S-16102 Bromma 00C0E7 (base 16"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "00C0ED"
+    ],
+    "date": [
+      "base 16"
+    ],
+    "note": [
+      "Sierra Vista, AZ 85635"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Celan Technology Inc"
+    ],
+    "issue": [
+      "101"
+    ],
+    "location": [
+      "Taiwan, R.O.C"
+    ],
+    "note": [
+      "Min-Hsiang St. 00-C0-F6 (hex) Hsin-Chu City 00C0F6 (base 16"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "San Jose",
+        "particle": "hex)"
+      }
+    ],
+    "citation-number": [
+      "00-C0-FA"
+    ],
+    "container-title": [
+      "Box"
+    ],
+    "location": [
+      "Bothell, WA"
+    ],
+    "pages": [
+      "98041–3003"
+    ],
+    "title": [
+      "CA 95112-4213 00C0FA (base 16) Advanced Technology Labs 22100 Bothell Highway S.E. 00-C0-FB (hex) P.O"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3003 00C0FB (base 16"
+    ]
+  },
+  {
+    "location": [
+      "Littleton, MA"
+    ],
+    "pages": [
+      "01460–1289"
+    ],
+    "title": [
+      "Digital Equipment Corporation LKG 1-2/A19 08-00-2B (hex) 550 King Street 08002B (base 16"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Silicon Graphics Inc. 2011 N. Shoreline Blvd. 08-00-69 (hex) P.O. Box 7311 080069 (base 16) Mountain View, CA 94039-7311 Casio Computer Co. Ltd. 3-2-1 Sakae-Cho 08-00-74 (hex) Hamuramachi, Nishitmagun 080074 (base 16) Tokyo 190-11 Japan Chipcom Corporation Southborough Office"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "08-00-8F"
+    ],
+    "genre": [
+      "(base 16)"
+    ],
+    "location": [
+      "Littleton, MA"
+    ],
+    "pages": [
+      "01460–1289"
+    ],
+    "title": [
+      "hex) 118 Turnpike Road 08008F (base 16) Southborough, MA 01772-1886 Digital Equipment Corporation LKG 1-2/A19 AA-00-00 (hex) 550 King Street AA0000"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "base 16"
+    ],
+    "location": [
+      "Littleton, MA"
+    ],
+    "note": [
+      "Littleton, MA 01460-1289 Digital Equipment Corporation LKG 1-2/A19 AA-00-04 (hex) 550 King Street AA0004 (base 16"
+    ],
+    "pages": [
+      "01460–1289"
+    ],
+    "title": [
+      "Digital Equipment Corporation LKG 1-2/A19 AA-00-03 (hex) 550 King Street AA0003"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Department of Defense’s Advanced Research Projects Agency"
+    ],
+    "note": [
+      "ARPA (later called DARPA)."
+    ],
+    "title": [
+      "ARPANET An experimental wide area network that spanned the United States in the 1960s, formed by the U.S"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellovin",
+        "given": "Steven"
+      },
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "date": [
+      "1675",
+      "1994-08"
+    ],
+    "title": [
+      "Security Concerns for IPng"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bellovin",
+        "given": "Steven M."
+      }
+    ],
+    "container-title": [
+      "Computer Communication Review"
+    ],
+    "date": [
+      "Pages 2–6 April 1989"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Security Problems in the TCP/IP Protocol Suite,’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bellovin",
+        "given": "Steven M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Sixth Usenix UNIX Security Symposium"
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Problem Areas for the IP Security Protocol"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Callon",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1997-09"
+    ],
+    "title": [
+      "RFC 2185, “Routing Aspects of IPv6 Transition”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "B."
+      },
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "date": [
+      "1671",
+      "1994-08"
+    ],
+    "title": [
+      "IPng: White Paper on Transition and Other Considerations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1999-03"
+    ],
+    "title": [
+      "RFC 2529, “Transmission of IPv6 over IPv4 Domains without Explicit Tunnels"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Daemon9",
+        "given": "route"
+      },
+      {
+        "given": "infinity"
+      }
+    ],
+    "container-title": [
+      "Phrack Magazine"
+    ],
+    "issue": [
+      "48"
+    ],
+    "title": [
+      "Project Neptune (Analysis of TCP SYN Flooding"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.phrack.com."
+    ],
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Daemon9",
+        "given": "route"
+      },
+      {
+        "given": "infinity"
+      }
+    ],
+    "container-title": [
+      "Phrack Magazine"
+    ],
+    "issue": [
+      "48"
+    ],
+    "title": [
+      "IP Spoofing Demystified"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.phrack.com."
+    ],
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deering",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998-12"
+    ],
+    "title": [
+      "RFC 2460, “Internet Protocol, Version 6 (IPv6) Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "Simson"
+      },
+      {
+        "family": "Spafford",
+        "given": "Gene"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly and Associates"
+    ],
+    "title": [
+      "Practical UNIX and Internet Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "Simson"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Practical UNIX and Internet Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "Simson"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Commerce, Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Web Security &"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilligan",
+        "given": "R.R.F.C."
+      }
+    ],
+    "date": [
+      "1933",
+      "1996-04"
+    ],
+    "title": [
+      "Transition Mechanisms for IPv6 Hosts and Routers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hiden",
+        "given": "Robert"
+      }
+    ],
+    "container-title": [
+      "www.huygens.org/~dillema/ietf/doc/history.html"
+    ],
+    "date": [
+      "1999-10-15"
+    ],
+    "title": [
+      "History of the IPng Effort"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hinden",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1993-09"
+    ],
+    "title": [
+      "RFC 1517-RFC 1519, “Classless Inter-Domain Routing"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1981-09"
+    ],
+    "title": [
+      "Information Sciences Institute, RFC 791, “Internet Protocol"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Internet Engineering Task Force (IETF), IPSec Working Group, www.ietf.org/html.charters/ipseccharter.html IETF Internet Software Consortium"
+    ],
+    "date": [
+      "1999-11-22"
+    ],
+    "pages": [
+      "–9907 ,"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Kaplan"
+      },
+      {
+        "family": "Associates",
+        "given": "Kovara"
+      }
+    ],
+    "note": [
+      "at March 31, 1993, teleconference, with accompanying workbook (Tucson, AZ)."
+    ],
+    "title": [
+      "Open VMS Security Policies and Procedures"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Kaplan"
+      }
+    ],
+    "date": [
+      "1993-04-01"
+    ],
+    "location": [
+      "Tucson, AZ"
+    ],
+    "title": [
+      "UNIX Security Policies and Procedures,’",
+      "teleconference, with accompanying workbook"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kaplan",
+        "given": "Ray"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Tucson, AZ"
+    ],
+    "publisher": [
+      "Kaplan & Kovara Associates"
+    ],
+    "title": [
+      "The Formulation, Implementation, and enforcement of a Security Policy"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kent",
+        "given": "Christopher"
+      },
+      {
+        "family": "Mogul",
+        "given": "Jeffrey"
+      }
+    ],
+    "date": [
+      "1987-12"
+    ],
+    "note": [
+      "revised paper"
+    ],
+    "publisher": [
+      "Western Research Laboratory"
+    ],
+    "title": [
+      "Fragmentation Considered Harmful"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kent",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998-11"
+    ],
+    "title": [
+      "RFC 2402, “IP Authentication Header"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kent",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998-11"
+    ],
+    "title": [
+      "RFC 2406, “IP Encapsulating Security Payload"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Knightmare",
+        "given": "Loompanics Unlimited"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Port Townsend, WA"
+    ],
+    "title": [
+      "Secrets of a Superhacker"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Narten",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1998-12"
+    ],
+    "title": [
+      "RFC 2461, “Neighbor Discovery in IPv6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dan",
+        "given": "Nessett"
+      }
+    ],
+    "container-title": [
+      "Network and Distributed Security Symposuim (NDSS) Proceedings"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "IPSEC: Friend or Foe"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Postel",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1980-08"
+    ],
+    "genre": [
+      "RFC 768,"
+    ],
+    "publisher": [
+      "USC/Information Sciences Institute"
+    ],
+    "title": [
+      "User Datagram Protocol, STD 6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Postel",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1981-11"
+    ],
+    "title": [
+      "RFC 801, “NCP/TCP transition plan"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "STD 7, RFC 793, USC/Information Sciences Institute"
+    ],
+    "date": [
+      "1981-09"
+    ],
+    "editor": [
+      {
+        "family": "Postel",
+        "given": "J."
+      }
+    ],
+    "title": [
+      "Transmission Control Protocol—DARPA—Internet Program Protocol Specification"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Reynolds",
+        "given": "J."
+      },
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "date": [
+      "1700",
+      "1994-10"
+    ],
+    "title": [
+      "Assigned Numbers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "RFPuppy"
+      }
+    ],
+    "container-title": [
+      "Phrack Magazine"
+    ],
+    "issue": [
+      "54"
+    ],
+    "title": [
+      "Remote OS Detection via TCP/IP Stack Fingerprinting"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.phrack.com."
+    ],
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schweizer",
+        "given": "Peter"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Atlantic Monthly Press"
+    ],
+    "title": [
+      "Friendly Spies"
+    ],
+    "type": "book"
+  }
+]
