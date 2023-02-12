@@ -1,0 +1,1322 @@
+[
+  {
+    "container-title": [
+      "Cryptography Engineering: Design Principles and Practical Applications"
+    ],
+    "date": [
+      "2012"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "For an introduction to applied cryptography, see: Ferguson, Niels, Bruce Schneier, and Tadayoshi Kohno"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "“Secure Hash Standards, Federal Information Processing Standards Publication.” FIPS PUB"
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "NIST, Gaithersburg, MD"
+    ],
+    "pages": [
+      "180–4"
+    ],
+    "publisher": [
+      "Information Technology Laboratory"
+    ],
+    "title": [
+      "Perusing the National Institute of Standards and Technology (NIST) standard that defines SHA-256 is a good way to develop an intuition for what cryptographic standards look like: NIST"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "Michael Bedford"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2013 International Conference on Compilers, Architectures and Synthesis for Embedded Systems"
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "An excellent paper on the evolution of mining hardware is",
+      "Bitcoin and the Age of Bespoke Silicon"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "see especially Section III on stability: Bonneau, Joseph, Andrew Miller, Jeremy Clark, Arvind Narayanan, Joshua A. Kroll, and Edward W. Felten."
+      }
+    ],
+    "container-title": [
+      "2015 IEEE Symposium on Security and Privacy"
+    ],
+    "date": [
+      "2015-05"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "title": [
+      "The “systematization of knowledge” paper on Bitcoin and cryptocurrencies",
+      "Research Perspectives and Challenges for Bitcoin and Cryptocurrencies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "container-title": [
+      "Financial Cryptography and Data Security"
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Berlin and Heidelberg"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Several papers that analyze mining strategy are: Eyal, Ittay, and Emin Gün Sirer. “Majority Is Not Enough: Bitcoin Mining Is Vulnerable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kroll",
+        "given": "Joshua A."
+      },
+      {
+        "family": "Davey",
+        "given": "Ian C."
+      },
+      {
+        "family": "Felten",
+        "given": "Edward W."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Workshop on the Economics of Information Security 2013"
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Eyal",
+        "given": "Ittay"
+      }
+    ],
+    "container-title": [
+      "2015 IEEE Symposium on Security and Privacy"
+    ],
+    "date": [
+      "2015-05"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "title": [
+      "The Miner’s Dilemma"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonneau",
+        "given": "Joseph"
+      },
+      {
+        "family": "Narayanan",
+        "given": "Arvind"
+      },
+      {
+        "family": "Miller",
+        "given": "Andrew"
+      },
+      {
+        "family": "Clark",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Kroll",
+        "given": "Joshua A."
+      },
+      {
+        "family": "Felten",
+        "given": "Edward W."
+      }
+    ],
+    "container-title": [
+      "Financial Cryptography and Data Security"
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "A study of mixing technologies and the source of the principles for effective mixing that we discussed can be found in",
+      "Mixcoin: Anonymity for Bitcoin with Accountable Mixes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Malte",
+        "given": "Rainer Böhme"
+      },
+      {
+        "family": "Breuker",
+        "given": "Dominic"
+      }
+    ],
+    "container-title": [
+      "2013 eCrime Researchers Summit"
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "A study of mixing services in practice, showing that many are not reputable, is: Möser",
+      "An Inquiry into Money Laundering Tools in the Bitcoin Ecosystem"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Foundations of Cryptography"
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "This classic book on cryptography includes a chapter on zero-knowledge proofs: Goldreich, Oded"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roger",
+        "given": "Nick Mathewson"
+      },
+      {
+        "family": "Syverson",
+        "given": "Paul"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Naval Research Lab"
+    ],
+    "title": [
+      "This paper describes the technical design of the anonymous communication network Tor: Dingledine",
+      "Tor: The Second-Generation Onion Router"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bonneau",
+        "given": "Joseph"
+      },
+      {
+        "family": "Miller",
+        "given": "Andrew"
+      },
+      {
+        "family": "Clark",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Narayanan",
+        "given": "Arvind"
+      },
+      {
+        "family": "Kroll",
+        "given": "Joshua A."
+      },
+      {
+        "family": "Felten",
+        "given": "Edward W."
+      }
+    ],
+    "container-title": [
+      "2015 IEEE Security and Privacy Conference"
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "title": [
+      "The “systematization of knowledge” paper on Bitcoin and cryptocurrencies is the following. See especially Section VII on anonymity and privacy",
+      "Research Perspectives and Challenges for Bitcoin and Cryptocurrencies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Brito",
+        "given": "Jerry"
+      },
+      {
+        "family": "Castillo",
+        "given": "Andrea"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "location": [
+      "Fairfax, VA"
+    ],
+    "publisher": [
+      "Mercatus Center at George Mason University"
+    ],
+    "title": [
+      "This is a guide to the regulatory issues that Bitcoin raises",
+      "Bitcoin: A Primer for Policymakers"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "70"
+    ],
+    "title": [
+      "A popular exposition of early work on digital cash, combined with a vision for a world with digital privacy, is: Chaum, David. “Security without Identification: Transaction Systems to Make Big Brother Obsolete"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ross"
+      },
+      {
+        "family": "Moore",
+        "given": "Tyler"
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "5799"
+    ],
+    "title": [
+      "A survey of the economics of information security, which discusses several reasons for market failure, is: Anderson",
+      "The Economics of Information Security"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "314"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "include",
+        "given": "Earlier",
+        "particle": "papers on memory-bound functions"
+      },
+      {
+        "family": "Abadi",
+        "given": "Martin"
+      },
+      {
+        "family": "Burrows",
+        "given": "Mike"
+      },
+      {
+        "family": "Manasse",
+        "given": "Mark"
+      },
+      {
+        "family": "Wobber",
+        "given": "Ted"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Internet Technology"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Moderately Hard, Memory-Bound Functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dwork",
+        "given": "Cynthia"
+      },
+      {
+        "family": "Goldberg",
+        "given": "Andrew"
+      },
+      {
+        "family": "Naor",
+        "given": "Moni"
+      }
+    ],
+    "container-title": [
+      "Advances in Cryptology—Crypto 2003"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "On Memory-Bound Functions for Fighting Spam"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Topics in Cryptology—CT-RSA"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "This paper discusses different hash function designs and the SHA-3 contest: Preneel, Bart. “The First 30 Years of Cryptographic Hash Functions and the NIST SHA-3 Competition"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Justin"
+      },
+      {
+        "family": "Zitzewitz",
+        "given": "Eric"
+      }
+    ],
+    "container-title": [
+      "Paper"
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "National Bureau of Economic Research"
+    ],
+    "title": [
+      "The following are papers by economists on the power of prediction markets: Wolfers",
+      "Prediction Markets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "w10504"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Arrow",
+        "given": "Kenneth J."
+      },
+      {
+        "family": "Forsythe",
+        "given": "Robert"
+      },
+      {
+        "family": "Gorham",
+        "given": "Michael"
+      },
+      {
+        "family": "Hahn",
+        "given": "Robert"
+      },
+      {
+        "family": "Hanson",
+        "given": "Robin"
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "The Promise of Prediction Markets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "320"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Bonneau",
+        "given": "Joseph"
+      },
+      {
+        "family": "Felten",
+        "given": "Edward W."
+      },
+      {
+        "family": "Kroll",
+        "given": "Joshua A."
+      },
+      {
+        "family": "Miller",
+        "given": "Andrew"
+      },
+      {
+        "family": "Narayanan",
+        "given": "Arvind"
+      }
+    ],
+    "container-title": [
+      "Workshop on the Economics of Information Security"
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "State College, PA"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "title": [
+      "The prediction market design we described is from this paper, coauthored by several of the present authors",
+      "On Decentralizing Prediction Markets and Order Books"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.jbonneau.com/doc/CBEKMN14-WEIS-decentralizing_prediction_markets.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Back",
+        "given": "Adam"
+      },
+      {
+        "family": "Corallo",
+        "given": "Matt"
+      },
+      {
+        "family": "Dashjr",
+        "given": "Luke"
+      },
+      {
+        "family": "Friedenbach",
+        "given": "Mark"
+      },
+      {
+        "family": "Maxwell",
+        "given": "Gregory"
+      },
+      {
+        "family": "Miller",
+        "given": "Andrew"
+      },
+      {
+        "family": "Poelstra",
+        "given": "Andrew"
+      },
+      {
+        "family": "Timón",
+        "given": "Jorge"
+      },
+      {
+        "family": "Wuille",
+        "given": "Pieter"
+      },
+      {
+        "family": "Kalodner",
+        "given": "Harry"
+      },
+      {
+        "family": "Carlsten",
+        "given": "Miles"
+      },
+      {
+        "family": "Ellenbogen",
+        "given": "Paul"
+      },
+      {
+        "family": "Bonneau",
+        "given": "Joseph"
+      },
+      {
+        "family": "Narayanan",
+        "given": "Arvind"
+      }
+    ],
+    "container-title": [
+      "Workshop on the Economics of Information Security"
+    ],
+    "date": [
+      "2014",
+      "2015"
+    ],
+    "note": [
+      "Available at",
+      "Available at http://randomwalker.info/publications/namespaces.pdf. The Ethereum white paper is: Various authors. “A Next-Generation Smart Contract and Decentralized Application Platform.” Available at"
+    ],
+    "title": [
+      "The sidechains white paper is",
+      "Enabling Blockchain Innovations with Pegged Sidechains",
+      "The following is a paper about Namecoin and alternate ways to design name/value stores using cryptocurrencies",
+      "An Empirical Study of Namecoin and Lessons for Decentralized Namespace Design"
+    ],
+    "type": "chapter",
+    "url": [
+      "https://blockstream.com/sidechains.pdf.",
+      "https://github.com/ethereum/wiki/wiki/White-Paper."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Luu",
+        "given": "Loi"
+      },
+      {
+        "family": "Teutsch",
+        "given": "Jason"
+      },
+      {
+        "family": "Kulkarni",
+        "given": "Raghav"
+      },
+      {
+        "family": "Saxena",
+        "given": "Prateek"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security"
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "This paper analyzes the incentive misalignment in Ethereum",
+      "Demystifying Incentives in the Consensus Computer"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "EDWARD",
+        "given": "W."
+      }
+    ],
+    "note": [
+      "His research on topics such as Internet security, privacy, copyright and copy protection, and electronic voting has been covered extensively in the popular press."
+    ],
+    "title": [
+      "FELTEN is a Professor of Computer Science and Public Affairs at Princeton, and the founding Director of the Center for Information Technology Policy. In 2011–12 he served as the first Chief Technologist at the U.S. Federal Trade Commission. His research interests include computer security and privacy, and technology law and policy. He has published more than 100 papers in the research literature, and two books"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Gox and"
+    ],
+    "issue": [
+      "A-256 and, 250, 253, 256; sidechains and, 260–63, 270, 278; signatures and, 246",
+      "ines and, 265–66, 270; wallets and, 247"
+    ],
+    "note": [
+      "Advanced Encryption Standard, 192 algorithms: altcoins and, 243, 266; anonymity and, 149; cryptography and, 3–4, 7, 15, 17–19, 26; decentralization and, 31–34, 38, 50, 273,",
+      "nonces and, 257; payments and, 242, 244, 251, 261, 263, 267–69; prediction markets and, 263, 268; private keys and, 246–47, 250; profits and, 245, 248, 253, 256, 270; proof of work and, 243, 257, 260–63, 270; public keys and, 265; pump-and-dump scams and, 244–45; puzzles and, 248–56, 270; reasons for launching, 243;",
+      "withdrawals and, 265–66. See also specific coins Amazon, xi AMD, 192 anonymity, xv; algorithms and, 149; attaching real-world identities and, 147–48; attacks and, 32–33, 40–41,",
+      "ethics of, 138–42, 165; fiat currencies and, 142; forks and, 159; high-level flows and, 158–59; identity and, 139–41, 148–52; idioms of use and, 146–47; joint control and, 145, 279; legal issues and, 142, 149, 152; linking and, 144–46; mathematics and, 160, 165; merge avoidance and, 158–59; miners and,",
+      "need for, 141–42; nodes and, 149–50; NSA and, 138; payments and, 140–42, 146–47, 158–59; peer-topeer networks and, 149, 151, 155; privacy and, 138–44, 149–54,",
+      "private keys and, 144, 156; proof of work and, 157; pseudonyms and,",
+      "public keys and, 139, 143–44, 163; puzzles and, 160; Satoshi and, xxii–xxvi; shared spending and, 145, 147; side channels and, 140, 153, 157–58, 164–65; signatures and,"
+    ],
+    "pages": [
+      "246–47,",
+      "253–55, 257–70",
+      "260–62",
+      "258–59",
+      "251–52",
+      "154–55,",
+      "164–65",
+      "164",
+      "159–60, 162–64",
+      "147–48",
+      "166–67",
+      "139–44,",
+      "164–65,",
+      "280"
+    ],
+    "title": [
+      "284; flooding, 67–69; mining and, 110, 194–95, 200–201, 208; networks and, 67, 69; platform issues and, 218–19; proof of work and, 243 (see also proof of work); protocol limitations and, 72–73; puzzles and, 200; storage and, 81; stylometry and, 176 altcoin infanticide, 244, 253, 256 altcoins: algorithms and, 243, 266; atomic cross-chain swaps and, 257–60; attacks and, 251, 253, 256–57, 269; Bitcoin and, 250–52, 260–63; block chains and",
+      "bootstrapping and, 244–45, 248–49, 253–54, 256, 260; cash and, 246; competition and, 251–52; consensus and, 242–43, 270–71; contesting a transfer and, 261–62; data structures and, 268–70; decentralization and, 42–43; deposits and, 258–59; double spending and, 244; escrow and, 247, 260; forks and, 171–73, 242–44, 248–49, 252–53, 256, 260, 262, 266, 270; hash functions and, 257, 270; hash pointers and, 254–55, 269; history of, 242–47; how to launch, 243–44; initial allocation and, 245–47; market capitalization and, 250; mathematics and, 267; merge mining and, 253–57; metadata and, 268; mining and, 242–57, 261–62, 266–70; nodes and",
+      "smart contracts and, 263–70; switching costs and, 252; third parties and, 250–51; transaction fees and, 266; valid blocks and",
+      "banks and, 141–42, 152; block chains and, 139–52, 156–58, 161–64; bootstrapping and, 155; cash and, xiii–xiv, 142–43, 159–60, 163–66; chunk size and, 154, 157, 165; clusters and, 145–49, 159, 164; CoinJoin and, 145, 156–59, 165–66, 257; competition and, 142; consensus and, 159; crime and, 142–43, 178–81, 240; cryptocurrencies and, 138, 141–43, 159–60, 163, 165–67; deanonymization and, 140–51, 154, 219; decentralization and, 142–43; defining, 138–39; deposits and, 148, 151–53, 160; double spending and",
+      "mixing and, 151–59; Mt"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "242, 244",
+      "251",
+      "242, 247",
+      "149",
+      "157",
+      "142, 157, 162",
+      "142, 154",
+      "62, 90",
+      "159, 164",
+      "32, 46",
+      "152",
+      "176, 180"
+    ]
+  },
+  {
+    "container-title": [
+      "illicit content and",
+      "mining and"
+    ],
+    "date": [
+      "191, 193"
+    ],
+    "note": [
+      "double spending and, 22 (see also double spending); exchange rate and, 132; fork, 131–36, 210 (see also forks); hackers and, 86,",
+      "networks and, 69; phishing, 283; platform issues and, 214, 216, 233–34; practical countermeasures and, 132; profits and, 233; protocol limitations and, 73; sabotage, 205–6; stake-grinding, 209–10; storage and, 82; Sybil, 32–33, 40–41; temporary blockwithholding, 133–34; vigilante, 205 automobiles,"
+    ],
+    "pages": [
+      "253",
+      "275",
+      "217–18",
+      "131–36,",
+      "209–10",
+      "273–74"
+    ],
+    "title": [
+      "application-specific integrated circuits (ASICs): altcoins and, 248–49, 256; ASIC honeymoon and, 197; ASIC-resistant puzzles and, 190, 192–98, 208, 211, 249; mining and, 116–22, 190–98, 208, 211 asymmetric information, 184 atomic cross-chain swaps, 257–60 atomicity, 275–76, 279 attacks: 51 percent attacker and, 48–49, 128–30, 132, 197, 208–11; altcoins and, 251, 253, 256–57, 269; anonymity and, 32–33, 40–41, 149, 154–55, 157, 164–65; block-discarding, 204–5; checkpointing and, 210; clairvoyance and, 214–16; cryptography and, 1, 16–17, 22; decentralization and"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32–37, 41, 43, 48–49, 283; denial-of-service (DOS), 34, 157",
+      "90, 152, 165, 203, 218, 267",
+      "127",
+      "195–98, 203–6",
+      "273"
+    ]
+  },
+  {
+    "citation-number": [
+      "247;"
+    ],
+    "note": [
+      "see also mining); OpenAssets and, 221–23, 241; order books and, 231, 236, 240–41, 268; overlay currencies and, 218–19, 247; platform issues and, 213–41 (see also platform issues); power of, 286; prediction markets and, 234–41; roots of, 175–78; Satoshi Nakamoto and, xvi–xvii, xxii–xxvi, 18, 46, 119, 176; sidechains and, 260–63, 270, 278; as smart property, 219–24; stakeholders and, 138, 173–75, 186, 203, 208, 244; switching costs and, 252; trust and, 280; zero-knowledge proofs and, 1, 160–64, 166, 229 “Bitcoin: A Peer to Peer Electronic Cash System” (Nakamoto), 176"
+    ],
+    "title": [
+      "beacons and, 229–34; colored coins and, 221–24, 277; consensus and, 168–70 (see also consensus); contesting a transfer and, 261–62; CreateMarket and, 236–38; crime and, 142–43, 178–81, 240; cypherpunks and, xvi–xvii, xxiv, 175–76, 188, 282; data feeds and, 234–39; deanonymization of, 143–51; decentralization and, 27–28, 272–85 (see also decentralization); denominations of, 46; escrow and, 60–64; forks and, 69, 73–75 (see also forks); future issues and, 272–85; governments’ notice of, 178–81; growth of, 176–78; illicit content and, 217–18; integration routes for, 275–78; licenses and, 186–89; lotteries and, 63, 224–34, 241; mandatory reporting and, 182–83; mining and, 190"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Bitcoin Core",
+      "altcoins and",
+      "decentralization and"
+    ],
+    "date": [
+      "135, 191, 200"
+    ],
+    "issue": [
+      "nymity and, 139–52, 156–58"
+    ],
+    "note": [
+      "174–75, 203, 210 Bitcoin Foundation, 174–75 Bitcoin Improvement Proposals (BIPs), 170, 174 Bitcoin mechanics: block chains and, 53, 56, 59–75, 286; block rewards and, 39–40, 45–46,",
+      "append-only ledger and, 22–23, 51, 213–19, 247; application layers and, 149–51; banks and, 61, 66; Bitcoin mechanics and, 53, 56, 59–75, 286; bootstrapping and, 47–48; certificates and, xx–xxi, 280; coinbase transactions and, 65–66, 74,",
+      "efficient verification and, 53; exchanges and, 88–89; genesis block and, 12, 77, 171–72, 201, 210, 219, 242; hard forks and, 47, 73–75, 135, 172–73, 241, 252, 266, 270; hash pointers and, 11–12; illicit content and, 217–18; integration routes for, 275–78; maintaining, 104; Merkle trees and, 12–14, 64–65, 92–93, 105–7, 201–2, 204, 217, 255, 269; mining and, xxii,",
+      "nodes and, 43 (see also nodes); orphan block and, 36, 46, 134; overlay currencies and, 218–19, 247; parameterizable cost and, 42–45; platform issues and, 217–19, 223–24, 232; Poisson distribution and, 43–44, 124; politics and, 66, 75; proof of membership and, 13–14; proof of nonmembership and, 14–15; Satoshi and, xxiii–xxiv; signatures and, 205–6; smart contracts and,"
+    ],
+    "pages": [
+      "170–71,",
+      "127–28,",
+      "208–11",
+      "257–70",
+      "277–78",
+      "161–64",
+      "204–6,",
+      "254–56",
+      "32–38, 46–50, 272–78, 281–85",
+      "104–5,",
+      "131–32, 133–34,",
+      "210"
+    ],
+    "title": [
+      "136, 205, 234; block-size conundrum of, 75; bootstrapping and, 59; capital controls and, 178; change address and, 52–53, 62, 145–47, 268; consensus and, 51, 64, 68, 75; consolidating funds and, 53; data structures and, 51–53, 64, 66, 71; green addresses and, 61–63; hash functions and, 56–57, 73; hash pointers and, 52, 54, 64–66; improvements and, 72–75; joint payments and, 53; latency and, 30–31, 36, 42–43, 46, 68–69, 132, 150, 213; mathematics and, 86; miners and, 51–56, 60–65, 68–74, 97–98; networks and, 66–72; nodes and, 59, 66–75; nonces and, 65; parameterizable cost and, 42–45; Pay-to-Script-Hash and, 59–60, 74, 218, 221; peer-to-peer networks and, 29, 59, 66–67; protocol limitations and, 72–75; puzzles and, 64; SHA-256 and, 57, 73; traditional assumptions and, 31–32; transactions and, 51–54; valid blocks and, 68, 73–74; verification and, 53, 56, 58, 71 Bitgold, xxii–xxiv BitTorrent, xi Black Hat conferences, 149–50 blacklisting, 135–36 blockchain.info, 88 block chains: 51 percent attacks and",
+      "Coin-Join and, 156–58; community and, 168–73, 181; competition and, 106; consensus and, 32–38, 104; contesting a transfer and, 261–62; cryptography and, 11–13, 17, 22–25; deanonymization and, 149–51"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72, 145",
+      "49, 66, 77, 98, 105",
+      "48–49, 128–30, 132, 197",
+      "242, 244, 246–47, 251, 253–55",
+      "alternative",
+      "88, 94, 105–7, 125",
+      "219",
+      "30",
+      "42",
+      "108, 130",
+      "207"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "altcoins",
+        "particle": "see also"
+      }
+    ],
+    "container-title": [
+      "crowd-funding services",
+      "altcoins and",
+      "anonymity and",
+      "compression function and",
+      "data structures and"
+    ],
+    "date": [
+      "284 cryptocurrencies, 286"
+    ],
+    "note": [
+      "double spending and, 22–25; Elliptic Curve Digital Signature Algorithm (ECDSA) and, 17–19, 26, 73, 80, 144, 216, 273, 276; encryption and, xi–xiii, xvii, 19, 84, 88, 179, 192; Fiat and, xv–xvi; genesis block and, 12, 77, 171–72, 201, 210, 219, 242; guarantees and, 159; hackers and, 86, 90, 152, 165, 203, 218, 267, 275; hash functions and, 2–26; hiding and, 2, 5–8, 19, 130; HTTP and, xii–xiii; identity and, 19–20; initialization vector (IV) and, 9, 10; lotteries and, 229; mathematics and, 1–2, 8, 26; Merkle-Damgård transform and, 9–10, 12; Merkle trees and, xvi, 12–14, 64–65, 92–93, 105–7, 201–2, 204, 217, 255, 269; message digests and, 4–5, 17; Naor and, xv–xvi; nonces and, 6–8; politics and, 285; prime numbers and, 84–85, 163, 199, 200–201; privacy and, 20; private keys and, 18 (see also private keys); proof of membership and, 13–14; proof of nonmembership and, 14–15; public keys and, 15–24, 29 (see also public keys); puzzles and, 2, 8–10, 41, 198; QR codes and, 77–78; random oracle model and, 10; RSA, xx, 163; secret sharing and, 83–87; SHA-256 and, 9–10; signatures and, 1, 15–26, 34, 80,"
+    ],
+    "pages": [
+      "275–76,",
+      "242–70",
+      "141–43, 159–60,",
+      "165–67",
+      "216–17,",
+      "258–59",
+      "18–25",
+      "21–22"
+    ],
+    "title": [
+      "Bitcoin–altcoin interactions and, 251–52; bootstrapping and, 47–48; community and, 168–69, 172, 174; contesting a transfer and, 261–62; crime and, 142–43, 178–81, 240; cryptography and, 1–3, 10, 15, 18–25; decentralization and, 27, 41, 43, 47–48, 278; ecosystem of, 242–70; mining and, 117, 137, 193–201, 206–11; nodes and, 217, 219; platform issues and, 234, 238–39, 241; politics and, 198; proof of stake and, 41, 206–11; Satoshi Nakamoto and, xvi–xvii, xxii–xxvi, 18, 46; security and, 1–3, 10, 15, 18–25 (see also security); sidechains and, 260–63, 270, 278; storage and, 76, 79–80, 83–85, 198; simple, 20–25; virtual machines and, 265–66, 270 cryptography: Advanced Encryption Standard and, 192; algorithms and, 3–4, 7, 15, 17–19, 26; attacks and, 1, 16–17, 22; automobiles and, 273; base-58 notation and, 77, 83; beacons and, 229–34, 268; binding and, 6–8, 280; block chains and, 11–13, 17, 22–25; Chaum and, xiv–xvi, xxv, 142–43, 175; ciphers and, 84, 192, 264; collision resistance and, 2–5; commitments and, 6–8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "264",
+      "75",
+      "138",
+      "163",
+      "19, 161–64, 214",
+      "222, 225–26, 234",
+      "9–10, 18, 111; cracking and, 82, 103, 264; cryptocurrencies and, 1–3, 10, 15",
+      "10–15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Wei"
+      },
+      {
+        "family": "xxii",
+        "given": "xxiv Dark Wallet"
+      }
+    ],
+    "collection-title": [
+      "peer-to-peer networks and"
+    ],
+    "container-title": [
+      "competition and",
+      "data structures and",
+      "disintermediation and",
+      "payments and"
+    ],
+    "note": [
+      "politics and, 282, 285; prediction markets and, 236–37, 279–82; privacy and, 284; private keys and, 273, 276, 283; proof of work and, 38–45, 50; public keys and, 29, 34, 273, 276; puzzles and, 41–43, 46–47, 50; security and, 279–80, 283–84; signatures and, 34, 48, 273–74, 276, 279; smart property and, 273–74, 281–85; StorJ and, 282; template for, 278–82; third parties and, 274; transaction fees and, 39–40, 45–46, 277; trust and, 280; valid blocks and, 30, 39, 48; wallets and, 28; Zerocoin and, 281–82 denial-of-service (DOS) attacks, 34, 157, 253 deposits: altcoins and, 258–59; anonymity and, 148, 151–53, 160; community and, 181; decentralization and, 258–59; exchanges and, 88–93, 100; mining and, 209; payment services and, 96–97; platform issues and, 226, 234"
+    ],
+    "pages": [
+      "27–28",
+      "41–43,",
+      "278–79,",
+      "282",
+      "275–76,",
+      "47–48, 278",
+      "258–59",
+      "278–79,",
+      "276–77",
+      "276–77, 281–82",
+      "46–50"
+    ],
+    "title": [
+      "144 data feeds, 234–39 data structures: altcoins and, 268–70; Bitcoin mechanics and, 51–53, 64, 66, 71; cryptography and, 10–15, 21–22; decentralization and, 34; distributed problem and, 169; Ethereum and, 269; genesis block and, 12, 77, 171–72, 201, 210, 219, 242; hash pointers and, 10–15; Merkle trees and, 12–14, 64–65, 92–93, 105–7, 201–2, 204, 217, 255, 269; mining and, 195; platform issues and, 213; proof of membership and, 13–14 deanonymization: anonymity and, 140–41, 143–51, 154, 219; attaching realworld identities and, 147–48; Bitcoin and, 143–51; block chains and, 149–51; clusters and, 145–49, 159, 164; identifying individuals and, 149; idioms of use and, 146–47; joint control and, 145, 279; linking and, 144–46; network-layer, 149–51; shared spending and, 145, 147; side channels and, 140, 153, 157–58, 164–65; stealth addresses and, 144; tagging and, 148–49; transaction graph analysis and, 149, 151, 164–66, 219, 222, 269 decentralization: algorithms and, 31–34, 38, 50, 273, 284; anonymity and, 142–43; atomicity and, 275–76, 279; attacks and, 32–37, 40–41, 43, 48–49, 128–30, 197, 208–11, 283; benefits of, 282–85; block chains and, 30–38, 46–50, 272–78, 281–85; bootstrapping and, 47–48, 59, 155, 197, 244–45, 248–49, 253–54, 256, 260; breaking traditional assumptions and, 31–32; Byzantine Generals Problem and, 31; cash and",
+      "cost of mining and, 45–47; crowd-funding services and",
+      "281; dispute mediation and, 278–79; double spending and, 34–38, 46, 49; fiat currencies and, 47; forks and, 47–48, 277; future institutions and, 272–85; hash functions and, 35, 41–43, 276–77; high-level flows and, 158–59; identity and, 19–20, 32–38, 41; incentives and, 38–45; legal issues and, 240, 279, 282, 284–85; levels of, 278; lotteries and, 33; mathematics and, 43; miners and, 277; mixing and, 155–59; nodes and, 28–49; nonces and, 41–44; order books and, 231, 236, 240–41, 268; parameterizable cost and, 42–45; paying for a proof and"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28, 38, 272, 282, 284; centralization and",
+      "27",
+      "47",
+      "281, 285; consensus and, 28–40, 46–50, 242, 275, 277",
+      "264",
+      "284; cryptocurrencies and, 27, 41, 43",
+      "34; deposits and",
+      "275",
+      "34–37, 39, 48, 274",
+      "28–32, 36, 42"
+    ]
+  },
+  {
+    "container-title": [
+      "Gox and"
+    ],
+    "note": [
+      "nodes and, 93; Ponzi schemes and, 89–90; privacy and, 91–94; private keys and, 91; proof of liabilities and, 91–94; proof of reserve and, 91, 93–94; security and, 274–75; Silk Road and, 180; simple market behavior and, 101–2; storage and, 87–94, 99–102; supply and demand issues and, 99–101; wallets and, 87–94; withdrawals and, 88–90"
+    ],
+    "pages": [
+      "147–48"
+    ],
+    "title": [
+      "escrow: altcoins and, 247, 260; Bitcoin mechanics and, 60–64; community and, 180–81; platform issues and, 227; scripts and, 60–61 Ethereum, 210, 278; chess in, 267–68; data structures and, 269; Frontier project and, 269–70; loop support and, 266; Namecoin and, 263, 265; Patricia tree and, 269; security and, 266–67; smart contracts and, 263–70; state and account balances in, 268–69; virtual machines and, 265–66, 270 ethics, 138–42, 165 exchanges: banks and, 88–91, 99, 102; block chains and, 88–89; cash and, 75, 99; currency markets and, 99–102; deposits and, 88–93, 100; fiat currencies and, 89, 99–102, 178; fractional reserve and, 88–89, 91; hash pointers and, 92–93; Mt"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "62, 90"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haber",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "xx hackers",
+      "hard forks",
+      "SHA-256",
+      "Bitcoin mechanics and"
+    ],
+    "note": [
+      "storage and, 78–79, 82; targets and, 8, 41–45, 105–6, 125, 160, 191, 196, 202–6, 254–55, 262–63, 270; timestamping and, 213–14 hash pointers: altcoins and, 254–55, 269;",
+      "block chains and, 11–12; cryptography and, 10–15, 17, 21–23; data structures and, 10–15; decentralization and, 35, 41; exchanges and, 92–93; genesis block and, 12, 77, 171–72, 201, 210, 219, 242; Goofycoin and, 21–24; merge mining and, 255; Merkle trees and, 12–14; platform issues and, 213; proof of membership and, 13–14; proof of nonmembership and, 14–15; tamper-evident logs and, 11–12, 83"
+    ],
+    "pages": [
+      "149–50,",
+      "275",
+      "73–75,",
+      "172–73,",
+      "270",
+      "161–64,",
+      "216–17,",
+      "225–26,",
+      "258–59",
+      "110–16,",
+      "256",
+      "64–66"
+    ],
+    "title": [
+      "Hashcash, xix–xx, xxiv hash functions: altcoins and, 257, 270; binding and, 6–8, 280; Bitcoin mechanics and, 56–57, 73; collision resistance and, 2–5; commitments and, 6–8",
+      "compression, 9–10, 18, 111; cryptography and, 2–10, 12, 15–20, 26; decentralization and, 41–43, 276–77; hiding and, 2, 5–8, 19, 130; initialization vector (IV) and, 9, 10; Merkle-Damgård transform and, 9–10, 12; message digests and, 4–5, 17; message size and, 17; mining and, 110–15, 120–22, 191–202, 208, 212, 250, 253, 256; modeling, 10; platform issues and, 213–14, 217, 232; properties of, 2–10; puzzle friendliness and, 8–10, 41, 198; random oracle model and, 10; search puzzles and, 8–9"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "86, 90",
+      "152, 165, 203, 218, 267",
+      "47",
+      "135",
+      "241, 252, 266",
+      "19",
+      "214",
+      "222",
+      "234",
+      "9–10, 57, 73, 82",
+      "120, 122, 191–202, 217, 250, 253",
+      "52, 54"
+    ]
+  },
+  {
+    "container-title": [
+      "secure multiparty"
+    ],
+    "note": [
+      "241; secure multiparty computation and, 224–34, 241 Lucre, xvii Madoff, Bernie, 90"
+    ],
+    "pages": [
+      "224–34,"
+    ],
+    "title": [
+      "lotteries: beacons and, 229–34; Bitcoin and, 63, 224–34, 241; cryptographic beacons and, 229; decentralization and, 33; fairness and, 225–27; financial data and, 231–32; military draft, 227–29; natural phenomena and, 230–31; NBA draft, 227; NIST beacon and, 229–30; online coin flipping and, 225"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "container-title": [
+      "anonymity and",
+      "cost of",
+      "CPU",
+      "hash functions and",
+      "puzzles and"
+    ],
+    "date": [
+      "191, 193, 195–98, 203–6",
+      "191, 200, 207",
+      "135, 190, 195, 198, 200–204, 206, 210",
+      "123, 195",
+      "124, 199, 202"
+    ],
+    "issue": [
+      "ardware for",
+      "igh variance and, 124, 125; hopping and",
+      "ematics and, 191, 195, 201; memoryless process and, 191; merge, 246, 248",
+      "nces and, 104–7"
+    ],
+    "note": [
+      "of nonmembership and, 14–15; sorted, 14 message digests, 4–5, 17 metadata: altcoins and, 268; platform issues and, 220–22; protocol limitations and, 74; transactions and, 53–54, 64 micropayments, xiv, 62–64, 268 Microsoft, xii military draft lottery, 227–29 min-entropy, 6, 8–9, 214 miners: altcoins and, 244–57,",
+      "modern professional, 117–19; negative externalities and, 198; nodes and,",
+      "nonoutsourceable puzzles and, 203–6; nothing-at-stake problem and, 209–10; open problems and, 136; overclocking and, 113, 115; payments and, 126–27, 131–32, 206–7; peerto-peer networks and, 117, 128; Poisson distribution and, 124, 125; pools and, 107, 124–30, 203–6, 233, 253, 256–57, 262; power of, 250–51; premining and, 244–45; private keys and, 205–6, 210; profits from, 45,",
+      "progress free puzzles and, 191, 199, 201; proof of retrievability and, 201; proof of stake and, 206–11; proof of work and, 40–42, 193, 195, 198–203, 208, 211; proportional model and, 127; pseudocode for, 112, 194; public good and, 203; public keys and,",
+      "sabotage and, 205–6; Satoshi Nakamoto and, 48, 204; at scale, 120–21; selfish, 134; SHA-256 and, 110–13, 116, 119, 120, 122, 191–202, 208, 250, 253, 256; shares and, 125–28; signatures and, 104, 205–6, 210; stake-grinding attacks and, 209–10; strategies for, 130–36; targets and, 105–6, 125, 126, 191, 196, 202–6, 254; time-memory tradeoffs and, 194–95; top-down approach and, 121; transaction fees and, 54, 97–98, 136, 203, 211; valid blocks and, 73–74, 105–6, 111–12, 113, 125–27, 133–34, 199, 204–5, 208, 210; verification and, 191, 195–96, 203; vigilante attacks and, 205; virtual, 206–11; waste and, 122 minting, 25, 65, 160–61 MIT license, 170 mixing: anonymity and, 151–59; automated client side and, 154; chunk size and, 154, 157, 165; CoinJoin and, 145, 156–59, 165–66, 257; decentralization and, 155–59; dedicated services for, 152–53; fees and,"
+    ],
+    "pages": [
+      "266–69",
+      "159–60, 162–64",
+      "131–36,",
+      "131–32, 133–34, 135–36,",
+      "131–32,",
+      "45–47,",
+      "111–12,",
+      "110–19",
+      "127–28",
+      "253–57,",
+      "270",
+      "111–13,",
+      "116–19, 124–25,",
+      "205",
+      "204–6",
+      "190–211, 248–56, 270"
+    ],
+    "title": [
+      "behavioral models of, 43; Bitcoin mechanics and, 51–56, 60–65, 68–74, 97–98; block chain maintenance and, 104–5; candidate block assemblage and, 105; community and, 172–73, 188; decentralization and, 277; fiat currencies and, 245; gamers and, 113; incentives and, 42–48; listening for transactions and, 104; Nash equilibrium and, 43; platform issues and, 216–19, 222–23, 232–34, 238, 240; profit and, 105; as stakeholders, 173; task of, 104–19 mining: 51 percent, 48–49, 128–30, 131–32, 197, 208–11; algorithms and, 110, 194–95, 200–201, 208; altcoins and, 242–57, 262, 267, 270; application-specific integrated circuits (ASICs) and, 116–22, 190–98, 208, 211, 248–49, 256; attacks and",
+      "209–10; blacklisting and, 135–36; block chains and",
+      "210; block-discarding attacks and, 204–5; bootstrapping and, 197; bottom-up approach and, 121–22, 198, 203; cash and, 123, 133; competition and, 105, 110, 117, 127, 133, 196, 212; consensus and",
+      "118, 248; cryptocurrencies and, 117, 137, 193–201, 206–11; Cunningham chain and, 200–201; data structures and, 195; deposits and, 209; difficulties of, 107–10; double spending and, 131–33; ecological issues and, 119–23; economic issues and, 45; energy consumption and, 119–24; equiprobable solution space and, 199; essential puzzle requirements and, 190–92; fieldprogrammable gate arrays (FPGAs) and, 114–16, 118, 192, 197; forks and, 131–36, 195, 209–10; future issues and, 118–19; gold",
+      "incentives for, 130–36; inexhaustible space and, 199–200; Landauer’s principle and, 119–20; legal issues and"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "261–62",
+      "142, 154",
+      "127",
+      "104–5, 108, 130",
+      "104–5, 108, 123",
+      "28, 42",
+      "107",
+      "248",
+      "256",
+      "267",
+      "210",
+      "47, 105–6, 110, 112",
+      "131, 133, 136, 190, 197",
+      "107, 202",
+      "64, 107, 119, 122"
+    ]
+  },
+  {
+    "container-title": [
+      "Tor and",
+      "Bitcoin mechanics and",
+      "mining and"
+    ],
+    "date": [
+      "190, 195"
+    ],
+    "note": [
+      "Simplified Payment Verification (SPV) and, 71,",
+      "transaction fees and, 97–98; whitelists and, 59, 67 New York Department of Financial Services (NYDFS), 186–89 New York Knicks, 227–29 nodes: altcoins and,",
+      "consensus and, 28–40, 46–50, 168; decentralization and, 28–49; exchanges and, 93; full, 217, 247, 277; honest, 29, 34–38, 43, 48–49; master, 66; Merkle trees and, 12–14, 64–65, 92–93,",
+      "parent, 13; payments and, 97–98; platform issues and, 217, 219; random, 33–35, 38, 40–41; Sybil attacks and, 32–33, 40–41; transaction pools and, 30 nonces: altcoins and, 257; Bitcoin mechanics and, 65; commit function and, 6; cryptography and, 6–8; decentralization and, 41–44; mining and, 104–7, 111–13, 124, 199, 202; platform issues and, 232; random, 6–7, 41, 199,"
+    ],
+    "pages": [
+      "46–50,",
+      "66–67, 96–97,",
+      "261",
+      "261–63,",
+      "179–81",
+      "260–62",
+      "66–75",
+      "269",
+      "210"
+    ],
+    "title": [
+      "network layer, 149–51 networks: algorithms and, 67, 69; attacks and, 69; Bitcoin mechanics and, 66–72; BOINC and, 198; bootstrapping and, 47–48; deanonymization and, 149–51; double spending and, 68–69; flooding algorithm and, 67–69; gossip protocol and, 67; hard forks and, 47, 73–75, 135, 172–73, 241, 252, 266, 270; lightweight, 71–72; orphan block and, 36, 46, 134; parameterizable cost and, 42–45; peer-to-peer, xi, xiv",
+      "277; size of, 69–70; social, 27–29; soft forks and, 47, 73–74, 159, 172–73, 241, 256, 260; storage requirements and, 70–71",
+      "anonymity and, 149–50"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28–30, 32, 36, 42",
+      "59",
+      "117, 128, 149, 151, 155, 176",
+      "218, 223, 247",
+      "143, 150, 153, 157, 167",
+      "242, 247",
+      "59",
+      "105–7, 201–2, 204, 217, 255",
+      "42, 104, 111, 113, 117, 125, 130, 134, 190, 203"
+    ]
+  },
+  {
+    "citation-number": [
+      "140–42,"
+    ],
+    "container-title": [
+      "and",
+      "smart contracts and"
+    ],
+    "note": [
+      "deposits and, 96–97 (see also deposits); disputes and, 60–61,",
+      "stakeholders and, 174; storage and, 86, 94–99; timestamps and, 31, 59, 63, 213–17, 222, 277; transaction fees and, 25, 39–42, 45–46, 54 (see also transaction fees) PayPal, ix, xii–xiii, 72, 285 pay-per-share model, 126–27"
+    ],
+    "pages": [
+      "276–77, 281–82",
+      "278–80, 283–85",
+      "261–63, 277",
+      "263–70"
+    ],
+    "title": [
+      "146–47, 154–55, 158–59; block chains and, 97–98 (see also block chains); community and, 174, 178–80; cryptography and, 86; decentralization and",
+      "exchanges and, 89, 91; fiat currencies and, 94–97; HTML and, 94–96; joint, 53; lock time and, 63–64; mechanics of, 53; micropayments and, xiv, 62–64, 268; mining and, 122, 126–27, 131–32, 206–7; nodes and, 97–98; peer-to-peer networks and, 96–97; platform issues and, 237–38; prediction markets and, 237–38; scripts and, 62–64; services for, 94–99; settlements and, 96, 221, 237–38, 242; Simplified Payment Verification (SPV"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34–37, 39, 48, 274",
+      "214, 238, 274",
+      "71, 190, 195, 218, 223, 247",
+      "64, 219"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Pay-to-Script-Hash"
+      }
+    ],
+    "container-title": [
+      "Bitcoin mechanics and",
+      "decentralization and",
+      "law enforcement and"
+    ],
+    "date": [
+      "P2SH"
+    ],
+    "issue": [
+      "A-256 and, 217; signatures and, 214"
+    ],
+    "note": [
+      "address, 59–60, 74, 218, 221 Peercoin, 208–10 peer-to-peer networks: altcoins and, 261; anonymity and, 149, 151, 155;",
+      "smart property and, 219–24; third parties and, 223; timestamping and, 213–14; transaction fees and, 216–18, 233, 240; unspendable outputs and, 217 Poisson distribution, 124, 125 Poisson process, 43–44 politics, vii, 220, 253, 286; blocks and, 66,",
+      "283; legal issues and, 204; military draft lottery and, 227–29; selling votes and, 204; Silk Road and, 165, 179–81, 189 Ponzi schemes, 89–90 Popper, Nathaniel, xxii pornography, 217–18 prediction markets: altcoins and, 263, 268; arbitration and, 238–39; CreateMarket and, 236–38; data feeds and, 234–39; decentralization and, 236–37, 279–82; order books and, 231, 236, 240–41, 268; payments and, 237–38; platform issues and, 234–41; power of, 235; profits from, 234–38, 240; real-world data feeds and, 234–41; settlement and, 237–38 prefix tree, 269 pre-mining, 244–45"
+    ],
+    "pages": [
+      "66–67",
+      "46–50",
+      "240–41,",
+      "216–17,",
+      "238–39",
+      "178–81,"
+    ],
+    "title": [
+      "mining and, 117, 128; parameterizable cost and, 42–45; payments and, 96–97; Satoshi white paper and, 176 PGP, xvii phishing, 283 physical property, 223 platform issues: algorithms and, 218–19; append-only logs and, 22, 51, 213–19, 247; attacks and, 214, 216, 233–34; block chains and, 217–19, 223–24, 232; clairvoyance and, 214–16; colored coins and, 221–24, 277; consensus and, 218–19; cryptocurrencies and, 234, 238–39, 241; data feeds and, 234–39; data structures and, 213; deposits and, 226, 234; domain names and, 29, 223–24, 248, 257; double spending and, 218; escrow and, 227; forks and, 233, 241; fungibility and, 219; hash functions and, 213–14, 217, 232; identity and, 216; illicit content and, 217–18; lotteries and, 224–34, 241; metadata and, 220–22; miners and, 216–19, 222–23, 232–34, 238, 240; nonces and, 232; OpenAssets and, 221–23, 241; order books and",
+      "268; overlay currencies and, 218–19, 247; payments and, 237–38; privacy and, 219; private keys and, 216–17, 239; public keys and",
+      "75; capital controls and, 178; crime and, 142–43, 178–81, 240; cryptocurrencies and, 198; cryptography and, 285; decentralization and, 282, 285; fiat currencies and, 183, 188"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59",
+      "28–32, 36, 42",
+      "231, 236",
+      "220, 226, 229",
+      "1, 135, 143, 149, 168"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "work",
+        "particle": "proof of"
+      }
+    ],
+    "container-title": [
+      "altcoins and"
+    ],
+    "date": [
+      "193, 195, 198–203, 208"
+    ],
+    "note": [
+      "verification and, 14–18 pump-and-dump scams, 244–45 puzzle friendliness, 8–10, 41, 198 puzzle-ID, 9 puzzles: algorithmically generated, 200; altcoins and, 248–56, 270; alternative, 190–211; anonymity and, 160; Bitcoin mechanics and, 64; block-discarding attacks and, 204–5; cryptography and, 2, 8–10; Cuckoo Cycle, 195; Cunningham chain and, 200–201; decentralization and, 41–43, 46–47, 50; equiprobable solution space and, 199; inexhaustible space and, 199–200; memory-bound, 193, 195, 211; memory-hard, 193–96, 211, 248, 270; mining and, 64, 107, 119, 122, 190–211, 248–56, 270; nothing-atstake problem and, 209–10; platform issues and, 232; proof of retrievability and, 201; sabotage attacks and, 205–6; scrypt and, 193–96, 202, 211, 248, 256; stake-grinding attacks and, 209–10; trends in, 256; vigilante attacks and, 205 QR codes, 77–78"
+    ],
+    "pages": [
+      "260–63,",
+      "40–42,",
+      "139–44,",
+      "164–65,",
+      "204–6"
+    ],
+    "title": [
+      "270; anonymity and, 157; decentralization and, 38–45, 50; economic issues and, 203; incentives and, 38–45; mining and",
+      "211; negative externalities and, 198; previous distributed computing projects and, 198–99; Primecoin and, 200–203; public good and, 203; puzzle adaption and, 199–200; spare cycles and, 198 proportional model, 127 protocol limitations: algorithms and, 72–73; attacks and, 73; improvements and, 72–75; metadata and, 74 pseudonymity",
+      "176, 180, 280 public good, 203 public keys, xiii; altcoins and, 265; anonymity and, 139, 143–44, 163; Boolean validation and, 15; community and, 175; compression and, 18; consensus and, 29; decentralization and, 29, 34, 273, 276; as identities, 18–24; mining and",
+      "platform issues and, 214–17, 236, 239; scripts and, 55–60; signatures and, 214; stealth addresses and, 144; storage and, 78–83; unforgeability and, 16; vanity address generation and, 78"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "243, 257",
+      "32, 46",
+      "152",
+      "107, 202"
+    ]
+  },
+  {
+    "container-title": [
+      "Bitcoin mechanics and"
+    ],
+    "issue": [
+      "y and"
+    ],
+    "note": [
+      "efficient, 53; mining and, 191, 195–96, 203; public keys and, 14–18; scripts and, 86; signatures and, 56, 58; Simplified Payment Verification (SPV) and, 71, 190, 195, 218, 223, 247, 261–63, 277; storage and, 86"
+    ],
+    "pages": [
+      "14–18"
+    ],
+    "title": [
+      "valid blocks: altcoins and, 253; Bitcoin mechanics and, 68, 73–74; community and, 168; decentralization and, 30, 39, 48; mining and, 73–74, 105–6, 111–13, 125–27, 133–34, 199, 204–5, 208, 210 vanity addresses, 78–79 verification: altcoins and, 260–62, 268"
+    ],
+    "type": "article-journal",
+    "volume": []
+  }
+]
