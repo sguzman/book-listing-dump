@@ -1,0 +1,1363 @@
+[
+  {
+    "author": [
+      {
+        "family": "Acar",
+        "given": "U."
+      },
+      {
+        "family": "Blelloch",
+        "given": "G."
+      },
+      {
+        "family": "Blumofe",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Twelfth Annual ACM Symposium on Parallel Algorithms and Architectures"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "1–12"
+    ],
+    "title": [
+      "The Data Locality of Work Stealing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Amdahl",
+        "given": "G.M."
+      }
+    ],
+    "container-title": [
+      "AFIP Conference Proceedings"
+    ],
+    "date": [
+      "1967-04"
+    ],
+    "location": [
+      "Reston, VA"
+    ],
+    "pages": [
+      "483–485"
+    ],
+    "publisher": [
+      "AFIPS Press"
+    ],
+    "title": [
+      "Validity of the single-processor approach to achieving large scale computing capabilities"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "An",
+        "given": "P."
+      },
+      {
+        "family": "Jula",
+        "given": "A."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "STAPL: An Adaptive, Generic Parallel C++ Library"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Lecture Notes in Computer Science"
+    ],
+    "pages": [
+      "193–208"
+    ],
+    "title": [
+      "Workshop on Language and Compilers for Parallel Computing, 2001"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2624"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "M.H."
+      },
+      {
+        "family": "Towle",
+        "given": "R.A."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      }
+    ],
+    "container-title": [
+      "ACM SIGAPP Applied Computing Review"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "5–6"
+    ],
+    "title": [
+      "Range partition adaptors: a mechanism for parallelizing STL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Blumofe",
+        "given": "R.D."
+      },
+      {
+        "family": "Papadopoulos",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "From"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Hood: A User-Level Threads Library for Multiprogrammed Multiprocessors"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://citeseer.ist.psu.edu/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Blumofe",
+        "given": "R.D."
+      },
+      {
+        "family": "Joerg",
+        "given": "C.F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 5th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "207–216"
+    ],
+    "title": [
+      "Cilk: An Efficient Multithreaded Runtime System"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://supertech.csail.mit.edu/papers/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boehm",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "C++ standards committee document N2047"
+    ],
+    "date": [
+      "2006-06"
+    ],
+    "title": [
+      "An Atomic Operations Library for C++"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Butenhof",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Programming with POSIX Threads"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Computers, C-21"
+    ],
+    "date": [
+      "1972-09"
+    ],
+    "pages": [
+      "948–960"
+    ],
+    "title": [
+      "Some Computer Organizations and Their Effectiveness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "R."
+      },
+      {
+        "family": "Järvi",
+        "given": "J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2003 ACM SIGPLAN conference on object-oriented programming, systems, languages, and applications"
+    ],
+    "date": [
+      "2003-10"
+    ],
+    "title": [
+      "A Comparative Study of Language Support for Generic Programming"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gustafson",
+        "given": "J.L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "532–533"
+    ],
+    "title": [
+      "Reevaluating Amdahl’s Law"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Halbherr",
+        "given": "M."
+      },
+      {
+        "family": "Zhou",
+        "given": "Y."
+      },
+      {
+        "family": "Joerg",
+        "given": "C.F."
+      }
+    ],
+    "container-title": [
+      "Computation Structures Group Memo"
+    ],
+    "date": [
+      "1994-03"
+    ],
+    "title": [
+      "MIMD-Style Parallel Programming Based on Continuation-Passing Threads"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://csg.csail.mit.edu/pubs/memos/Memo-355/memo-355.pdf."
+    ],
+    "volume": [
+      "355"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Halbherr",
+        "given": "M."
+      },
+      {
+        "family": "Zhou",
+        "given": "Y."
+      },
+      {
+        "family": "Joerg",
+        "given": "C.F."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2nd International Workshop on Massive Parallelism: Hardware, Software, and Applications"
+    ],
+    "date": [
+      "1994-09"
+    ],
+    "location": [
+      "Capri, Italy"
+    ],
+    "title": [
+      "MIMD-style parallel programming with continuation-passing threads"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "4"
+    ],
+    "title": [
+      "Concurrent Programming Concepts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "549–557"
+    ],
+    "title": [
+      "Monitors: An Operating System Structuring Concept"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17, 10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hudson",
+        "given": "R.L."
+      },
+      {
+        "family": "Saha",
+        "given": "B."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2006 International Symposium on Memory Management"
+    ],
+    "date": [
+      "2006-06",
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "From the Intel product web site,"
+    ],
+    "pages": [
+      "74–83"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "McRT-Malloc: a scalable transactional memory allocator",
+      "1133967. Intel Threading Building Blocks 1.0 for Windows, Linux, and Mac OS—Intel Software Network"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://doi.acm.org/10.1145/1133956.",
+      "http://www.intel.com/cd/"
+    ]
+  },
+  {
+    "date": [
+      "2002-10"
+    ],
+    "note": [
+      "From Intel web site:"
+    ],
+    "title": [
+      "A Formal Specification of Intel Itanium Processor Family Memory Ordering"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www.intel.com/design/itanium/downloads/"
+    ]
+  },
+  {
+    "date": [
+      "1998",
+      "1998"
+    ],
+    "publisher": [
+      "ISO/IEC"
+    ],
+    "title": [
+      "ISO/IEC 14882:1998(E) International Standard",
+      "Programming languages—C++"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1999",
+      "1999"
+    ],
+    "publisher": [
+      "ISO/IEC"
+    ],
+    "title": [
+      "ISO/IEC 9899:1999 International Standard",
+      "Programming languages—C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Järvi",
+        "given": "J."
+      },
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2004-09"
+    ],
+    "pages": [
+      "1705 04–0145"
+    ],
+    "title": [
+      "Decltype and auto (revision 4). C++ standards committee document"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kapur",
+        "given": "D."
+      },
+      {
+        "family": "Musser",
+        "given": "D.R."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 1981 Conference on Functional Programming Languages and Computer Architecture"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "59–63"
+    ],
+    "title": [
+      "Operators and Algebraic Structures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "MacDonald",
+        "given": "S."
+      },
+      {
+        "family": "Szafron",
+        "given": "D."
+      },
+      {
+        "family": "Schaeffer",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Ninth International Workshop on High-Level Parallel Programming Models and Supportive Environments"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Rethinking the Pipeline as Object-Oriented States with Transformations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Mahmoud",
+        "given": "Q.H."
+      }
+    ],
+    "date": [
+      "2005-03"
+    ],
+    "note": [
+      "Sun Developer Network. From"
+    ],
+    "title": [
+      "Concurrent Programming with J2SE 5.0"
+    ],
+    "type": null,
+    "url": [
+      "http://java.sun.com/developer/technicalArticles/J2SE/concurrency."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Massingill",
+        "given": "B.L."
+      },
+      {
+        "family": "Mattson",
+        "given": "T.G."
+      },
+      {
+        "family": "Sanders",
+        "given": "B.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Twelfth Pattern Languages of Programs Workshop"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Reengineering for Parallelism: An Entry Point for PLPP (Pattern Language for Parallel Programming) for Legacy Applications"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.cise.ufl.edu/research/ParallelPatterns/plop2005.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mattson",
+        "given": "T.G."
+      },
+      {
+        "family": "Sanders",
+        "given": "B.A."
+      },
+      {
+        "family": "Massingill",
+        "given": "B.L."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Patterns for Parallel Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McDowell",
+        "given": "C.E."
+      },
+      {
+        "family": "Helmbold",
+        "given": "D.P."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "Debugging Concurrent Programs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998",
+      "1998"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "D.R."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      }
+    ],
+    "container-title": [
+      "Software—Practice and Experience"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "623–642"
+    ],
+    "title": [
+      "Algorithm-Oriented Generic Libraries"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "D.R."
+      },
+      {
+        "family": "Derge",
+        "given": "G.J."
+      },
+      {
+        "family": "Saini",
+        "given": "A."
+      },
+      {
+        "family": "Alexander Stepanov",
+        "particle": "with foreword by"
+      }
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison Wesley",
+      "PDF"
+    ],
+    "title": [
+      "STL Tutorial and Reference Guide, Second Edition: C++ Programming with the Standard Template Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Narlikar",
+        "given": "G."
+      },
+      {
+        "family": "Blelloch",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Programming Languages and Systems"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "138–173"
+    ],
+    "title": [
+      "Space-Efficient Scheduling of Nested Parallelism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21, 1"
+    ]
+  },
+  {
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "2005-05"
+    ],
+    "issue": [
+      "5"
+    ],
+    "note": [
+      "From the OpenMP web site:"
+    ],
+    "title": [
+      "OpenMP C and C++ Application Program Interface"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.openmp.org."
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ottosen",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2006-09"
+    ],
+    "title": [
+      "Range Library Core. C++ standards committee document N2068"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Plauger",
+        "given": "P.J."
+      },
+      {
+        "family": "Lee",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "C++ Standard Template Library, Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rauchwerger",
+        "given": "L."
+      },
+      {
+        "family": "Arzu",
+        "given": "F."
+      },
+      {
+        "family": "Ouchi",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 4th International Workshop on Languages, Compilers, and Run-Time Systems for Scalable Computers (LCR"
+    ],
+    "date": [
+      "1998-05"
+    ],
+    "location": [
+      "Pittsburgh, PA"
+    ],
+    "title": [
+      "Standard Templates Adaptive Parallel Library"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "402–410"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Also Lecture Notes in Computer Science, 1511"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Robison",
+        "given": "A.D."
+      }
+    ],
+    "container-title": [
+      "From the Open Standards project"
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "A Proposal to Add Parallel Iteration to the Standard Library"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.open-std.org/jtc1/sc22/wg21/docs/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robison",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "title": [
+      "Memory Consistency & .NET"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Samko",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "C++ standards committee document"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "pages": [
+      "1958 06–028"
+    ],
+    "title": [
+      "A proposal to add lambda functions to the C++ standard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      },
+      {
+        "family": "Pyarali",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Louis, MO"
+    ],
+    "publisher": [
+      "Department of Computer Science, Washington University, St"
+    ],
+    "title": [
+      "Strategies for Implementing POSIX Condition Variables on Win32"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      },
+      {
+        "family": "Stal",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Pattern-Oriented Architecture"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Patterns for Concurrent and Networked Objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shah",
+        "given": "S."
+      },
+      {
+        "family": "Haab",
+        "given": "G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of the First European Workshop on OpenMP"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Flexible Control Structures for Parallelism in OpenMP"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.it."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Siek",
+        "given": "J."
+      },
+      {
+        "family": "Gregor",
+        "given": "D."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "From"
+    ],
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "see section 3.3.2 regarding pseudosignatures versus valid expressions)."
+    ],
+    "title": [
+      "Concepts for C++0x"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.osl.iu.edu/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      },
+      {
+        "family": "Lee",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "HP Laboratories Technical Report 95-11(R.1)."
+    ],
+    "title": [
+      "The Standard Template Library"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Greatest Common Measure: The Last 2500 Years"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C++, also known as D&E"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "Special"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      },
+      {
+        "family": "Reis",
+        "given": "G.Dos"
+      }
+    ],
+    "date": [
+      "2005-04"
+    ],
+    "genre": [
+      "Technical Report N1782=05-0042,"
+    ],
+    "note": [
+      "ISO/IEC SC22/JTC1/WG21, available from"
+    ],
+    "title": [
+      "A Concept Design (rev.1"
+    ],
+    "type": "report",
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      },
+      {
+        "family": "Reis",
+        "given": "G.Dos"
+      }
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Technical Report N1886=05-0146,"
+    ],
+    "note": [
+      "ISO/IEC SC22/JTC1/WG21, available from"
+    ],
+    "title": [
+      "Specifying C++ concepts"
+    ],
+    "type": "report",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Su",
+        "given": "E."
+      },
+      {
+        "family": "Tian",
+        "given": "X."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Fourth European Workshop on OpenMP"
+    ],
+    "date": [
+      "2002-09"
+    ],
+    "note": [
+      "Rome."
+    ],
+    "title": [
+      "Compiler Support of the Workqueuing Execution Model for Intel SMP Architectures"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.caspur.it/ewomp02/PAPERI/EWOMP02-03.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "note": [
+      "From"
+    ],
+    "title": [
+      "The Concurrency Revolution"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.ddj.com/dept/cpp/184401916."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "2005-03"
+    ],
+    "title": [
+      "The Free Lunch is Over: A Fundamental Turn Towards Concurrency in Software"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Voss",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2006-12"
+    ],
+    "note": [
+      "From DevX web site:"
+    ],
+    "title": [
+      "Enable Safe, Scalable Parallelism with Intel Threading Building Blocks’ Concurrent Containers"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www.devx."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Voss",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2006-10"
+    ],
+    "note": [
+      "From DevX web site:"
+    ],
+    "title": [
+      "Demystify Scalable Parallelism with Intel Threading Building Blocks’ Generic Parallel Algorithms"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Willcock",
+        "given": "J."
+      },
+      {
+        "family": "Järvi",
+        "given": "J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1968–06–0038"
+    ],
+    "title": [
+      "Lambda Expressions and Closures for C++"
+    ],
+    "type": null
+  }
+]
