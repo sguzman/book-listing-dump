@@ -1,0 +1,1662 @@
+[
+  {
+    "author": [
+      {
+        "given": "Qpop{"
+      }
+    ],
+    "note": [
+      "= \" « Q.size{) « endl; II => 2"
+    ],
+    "title": [
+      "; cout « \"after Q.pop{):\\n\"; cout « \"Q.frontO = \" « Q.frontO « endl; II => 4.5 cout « \"Q.size{"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "symbol=new char[strlen(p.symbol)+l]; strcpy(symbol,p.symbol); exponent=p.exponent;"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "if«coefficient==T(O))&&(coefficient==p.coefficient)"
+    ],
+    "editor": [
+      {
+        "family": "I",
+        "given": "I."
+      }
+    ],
+    "title": [
+      "return 1; return «exponent==p.exponent)&& (lstrcmp(symbol,p.symbol"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "delete[] symbol; coefficient=p.coefficient; symbol=new char[strlen(p.symbol)+l]; strcpy(symbol,p.symbol); exponent=p.exponent; return *this"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "p.coefficient/=T(p.exponent+l); p.exponent++; return p;"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "return 0;"
+    ],
+    "title": [
+      "if«(p.coefficient!=T(l»tt(p.coefficientl=T(-l»)I I (p.exponent==O» o«\"(\"«p.coefficient«\")\"; if(p.exponent) o«p.symbol; if(p.exponent>l) o«\"-\"«p.exponent"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Sum(char,char); Sum(int,Symbol<T>**,T*,int*,String); II Private member functions void diffRules(Symbol<T>**,char) const; void IntRules(Symbol<T>**,char) const;"
+    ],
+    "title": [
+      "private: II Private constructor Sum(const T,char"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "virtual int mxpand(Symbol<T>**); virtual int dxpand(Symbol<T>**); virtual void diff(Symbol<T>**,Symbol<T>*) const; virtual void integrate(Symbol<T>**,Symbol<T>*) const; virtual int funcSimp(inti,inti); virtual int shrink_i{) ; virtual int shrink_2(); virtual int shrink_3(Symbol<T>**); virtual int shrink_40; virtual int shrink_50"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ostream&,const Sum<T>&); friend istream & operator» (istream&,Sum<T>&);"
+    ],
+    "title": [
+      "friend ostream & operator"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Leen",
+        "given": "Ammeraal"
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "STL for c++ Programmers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "R.",
+        "given": "Anderson J."
+      },
+      {
+        "family": "T.",
+        "given": "Corbett A."
+      },
+      {
+        "family": "J.",
+        "given": "Reiser B."
+      },
+      {
+        "family": "LISP",
+        "given": "Essential"
+      },
+      {
+        "given": "Addison-Wesley"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1987"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Aslaksen",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "SIGSAM Bull"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "12–20"
+    ],
+    "title": [
+      "Multiple-valued Complex Functions and Computer Algebra"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ayres",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Modern Algebra, Schaum's Outline Series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "F",
+        "given": "Barnsley M."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press Professional"
+    ],
+    "title": [
+      "Fractals Everywhere"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "T",
+        "given": "Berry J."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Carmel, Indiana"
+    ],
+    "publisher": [
+      "SAMS"
+    ],
+    "title": [
+      "The Waite Group's C++ Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "M.",
+        "given": "Birtwistle G."
+      },
+      {
+        "family": "J.",
+        "given": "Dahl O."
+      },
+      {
+        "family": "B.",
+        "given": "Myhrhaug"
+      },
+      {
+        "family": "K",
+        "given": "Nygaard"
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Sweden, Auerbach, Philadelphia"
+    ],
+    "title": [
+      "SIMULA BEGIN, Studentlitteratur"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Brackx",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Computer Algebra with LISP and REDUCE: An Introduction to Computer-aided Pure Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "A",
+        "given": "Budd T."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Classic Data Structures in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "W",
+        "given": "Char B."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "First Leaves - A Tutorial Introduction to MAPLE V"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "G.",
+        "given": "Dautcourt"
+      },
+      {
+        "family": "P.",
+        "given": "Jann K."
+      },
+      {
+        "family": "E.",
+        "given": "Riemer"
+      },
+      {
+        "family": "M",
+        "given": "Riemer"
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Astronomische Nachrichten"
+    ],
+    "date": [
+      "1981"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "102, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "Davenport J."
+      },
+      {
+        "family": "Y.",
+        "given": "Siret"
+      },
+      {
+        "family": "E",
+        "given": "Tournier"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "2"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Computer Algebra: Systems and Algorithms for Algebraic Computation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Ellis M."
+      },
+      {
+        "family": "B",
+        "given": "Stroustrup"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Annotated C++ Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "L.",
+        "given": "Epstein R."
+      },
+      {
+        "family": "A",
+        "given": "Carnielli W."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Pacific Grove, California"
+    ],
+    "publisher": [
+      "Wadsworth & Brooks/Cole"
+    ],
+    "title": [
+      "Computability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "Froberg C."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1985"
+    ],
+    "publisher": [
+      "Benjamin-Cummings, Menlo Park"
+    ],
+    "title": [
+      "Numerical Mathematics, Theory and Computer Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Geist"
+      },
+      {
+        "family": "A.",
+        "given": "Beguelin"
+      },
+      {
+        "family": "J.",
+        "given": "Dongarra"
+      },
+      {
+        "family": "Weicheng",
+        "given": "Jiang"
+      },
+      {
+        "family": "V",
+        "given": "Manchek Rand Sunderam"
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "PVM: Parallel Virtual Machine, A User's Guide and Tutorial for Networked Parallel Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "D.",
+        "given": "Gray P."
+      },
+      {
+        "family": "R",
+        "given": "Mohamed"
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Pitman, London"
+    ],
+    "title": [
+      "Smalltalk-80: A Practical Introduction"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hearn",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "Rev. 10/93"
+    ],
+    "title": [
+      "REDUCE User's Manuel, Version 3.5, RAND publication CP78"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "W.",
+        "given": "Hehl F."
+      },
+      {
+        "family": "V.",
+        "given": "Winkelmann"
+      },
+      {
+        "family": "H.",
+        "given": "Meyer"
+      },
+      {
+        "given": "R.E.D.U.C.E."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "2"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hekmatpour",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "An Introduction to LISP and Symbol Manipulation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "A",
+        "given": "Holzgang D."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "1987"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "Alameda"
+    ],
+    "publisher": [
+      "SYBEX Inc"
+    ],
+    "title": [
+      "Understanding PostScript Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "G",
+        "given": "Howson A."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "A Handbook of Terms used in Algebra and Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "K.",
+        "given": "Jamsa"
+      },
+      {
+        "family": "C++",
+        "given": "Success",
+        "particle": "with"
+      },
+      {
+        "family": "Press",
+        "given": "Jamsa"
+      },
+      {
+        "family": "Vegas",
+        "given": "Las"
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1994"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D.",
+        "given": "Jenks R."
+      },
+      {
+        "family": "S",
+        "given": "Sutor R."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Axiom: The Scientific Computation System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Introduction to Object-Oriented Databases"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "Knuth D."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "container-title": [
+      "The Art of Computer Programming",
+      "Fundamental Algorithms"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "Knuth D."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "container-title": [
+      "The Art of Computer Programming"
+    ],
+    "date": [
+      "1981"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Seminumerical Algorithms"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "Knuth D."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "container-title": [
+      "The Art of Computer Programming"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Sorting and Searching"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lafore",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Mill Valley"
+    ],
+    "publisher": [
+      "Waite Group Press"
+    ],
+    "title": [
+      "Object-Oriented Programming in TURBO C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Linear Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "B.",
+        "given": "Lippman S."
+      },
+      {
+        "family": "Primer",
+        "given": "C.++"
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "McCarthy"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "date": [
+      "1965"
+    ],
+    "edition": [
+      "2"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "LISP 1.5 Programmer's Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "McGilton"
+      },
+      {
+        "family": "M.",
+        "given": "Campione"
+      },
+      {
+        "family": "Example",
+        "given": "PostScript",
+        "particle": "by"
+      },
+      {
+        "given": "Addison-Wesley"
+      },
+      {
+        "family": "H.",
+        "given": "MacCallum M.A."
+      },
+      {
+        "family": "J",
+        "given": "Wright F."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "date": [
+      "1992",
+      "1991"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "note": [
+      "34J"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "title": [
+      "Algebraic Computing with Reduce"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Mevel"
+      },
+      {
+        "family": "T.",
+        "given": "Gueguen"
+      },
+      {
+        "given": "Smalltalk-B.O."
+      }
+    ],
+    "citation-number": [
+      "35J"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Macmillan Education"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Prentice-Hall International"
+    ],
+    "title": [
+      "Object-Oriented Software Construction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Meyers"
+      },
+      {
+        "family": "C++",
+        "given": "Effective"
+      },
+      {
+        "family": "Addison-Wesley",
+        "given": "Reading"
+      },
+      {
+        "given": "M.A."
+      },
+      {
+        "family": "Kaufman",
+        "given": "Morgan"
+      },
+      {
+        "family": "Mateo",
+        "given": "San"
+      },
+      {
+        "family": "W.",
+        "given": "J.Oevel"
+      },
+      {
+        "family": "F.",
+        "given": "Postel"
+      },
+      {
+        "family": "G.",
+        "given": "Riischer"
+      },
+      {
+        "family": "S.",
+        "given": "Wehmeier"
+      },
+      {
+        "family": "Tutorium",
+        "given": "Das MuPAD"
+      },
+      {
+        "family": "Software",
+        "given": "SciFace"
+      },
+      {
+        "given": "Paderborn"
+      }
+    ],
+    "citation-number": [
+      "37J"
+    ],
+    "container-title": [
+      "38J Norvig P., Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp"
+    ],
+    "date": [
+      "1992",
+      "1991",
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "H.",
+        "given": "J.Press W."
+      },
+      {
+        "family": "A.",
+        "given": "Teukolsky S."
+      },
+      {
+        "family": "T.",
+        "given": "Vetterling W."
+      },
+      {
+        "family": "B",
+        "given": "Flannery"
+      }
+    ],
+    "note": [
+      "P., Numerical Recipes in C, The Art of Scientific Computing, Cambridge University Press (1992)."
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rayna",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "date": [
+      "1987",
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "42J Reiser M., The Oberon System: user guide and programmer's manual,"
+    ],
+    "publisher": [
+      "Springer-Verlag",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "REDUCE: Software for Algebraic Computation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "M.",
+        "given": "Reiser"
+      },
+      {
+        "family": "N.",
+        "given": "Wirth"
+      },
+      {
+        "family": "Oberon",
+        "given": "Programming",
+        "particle": "in"
+      },
+      {
+        "given": "Addison-Wesley"
+      },
+      {
+        "family": "H",
+        "given": "J.Risch R."
+      }
+    ],
+    "citation-number": [
+      "43J"
+    ],
+    "container-title": [
+      "Transactions of the American Mathematical Society"
+    ],
+    "date": [
+      "1992",
+      "1969"
+    ],
+    "pages": [
+      "167–189"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "139"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "A",
+        "given": "Smith M."
+      }
+    ],
+    "citation-number": [
+      "45J"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman and Hall"
+    ],
+    "title": [
+      "Object-Oriented Software in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "Steeb W."
+      },
+      {
+        "family": "N",
+        "given": "Euler"
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "container-title": [
+      "Algorithms and Computation with Reduce, BI-Wissenschaftsverlag"
+    ],
+    "date": [
+      "1988",
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "H.",
+        "given": "J.Steeb W."
+      },
+      {
+        "family": "D",
+        "given": "Lewien"
+      }
+    ],
+    "location": [
+      "Singapore",
+      "Mannheim"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "title": [
+      "Nonlinear Evolution Equations and Painleve Test"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "Steeb W."
+      },
+      {
+        "family": "D.",
+        "given": "Lewien"
+      },
+      {
+        "given": "Boine-Frankenhein"
+      }
+    ],
+    "citation-number": [
+      "48"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Mannheim"
+    ],
+    "title": [
+      "Object-Oriented Programming in Science with C++, BI-Wissenschaftsvedag"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "H",
+        "given": "Steeb W."
+      }
+    ],
+    "citation-number": [
+      "49"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "title": [
+      "Quantum Mechanics using Computer Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "Steeb W."
+      },
+      {
+        "family": "N",
+        "given": "Euler"
+      }
+    ],
+    "citation-number": [
+      "50"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Singapore"
+    ],
+    "publisher": [
+      "World-Scientific"
+    ],
+    "title": [
+      "Continuous Symmetries, Lie Algebras and Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H",
+        "given": "Steeb W."
+      }
+    ],
+    "citation-number": [
+      "51"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Singapore"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "title": [
+      "Problems and Solutions in Theoretical and Mathematical Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H",
+        "given": "Steeb W."
+      }
+    ],
+    "citation-number": [
+      "52"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Singapore"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "title": [
+      "The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Neural Networks, Genetic Algorithms, Fuzzy Logic with C++, Java, SymbolicC++ and Reduce Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephani",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "53"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "General Relativity"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "R",
+        "given": "Stoutemeyer D."
+      }
+    ],
+    "citation-number": [
+      "54"
+    ],
+    "container-title": [
+      "Notices of the American Mathematical Society"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "778–785,"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "55"
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "D",
+        "given": "Tennent R."
+      }
+    ],
+    "citation-number": [
+      "56"
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "Principles of Programming Languages, Prentice-Hall, Englewood Cliffs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "P.",
+        "given": "Thomas"
+      },
+      {
+        "family": "R",
+        "given": "Weedon"
+      }
+    ],
+    "citation-number": [
+      "57"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Wokingham"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Programming in Eiffel"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "S",
+        "given": "Touretzky D."
+      }
+    ],
+    "citation-number": [
+      "58"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Benjamin/Cummings, Redwood City"
+    ],
+    "title": [
+      "Common Lisp: A Gentle Introduction to Symbolic Computation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "T.",
+        "given": "Williams"
+      },
+      {
+        "family": "C.",
+        "given": "Kelley"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "59"
+    ],
+    "title": [
+      "Gnuplo: An Interactive Plotting Program"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.dartmouth.edu/gnuplot-info.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "Winston P."
+      },
+      {
+        "family": "Lisp",
+        "given": "Addison-Wesley"
+      }
+    ],
+    "citation-number": [
+      "60"
+    ],
+    "date": [
+      "1989"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "N.",
+        "given": "Wirth"
+      },
+      {
+        "family": "J",
+        "given": "Gutknecht"
+      }
+    ],
+    "citation-number": [
+      "61"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Project Oberon: The Design of an Operating System and Compilers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolfram",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "62"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Mathematica: A System for Doing Mathematics by Computer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Yan S."
+      },
+      {
+        "family": "S.",
+        "given": "Collofello J."
+      },
+      {
+        "family": "T",
+        "given": "MacGergor"
+      }
+    ],
+    "citation-number": [
+      "63"
+    ],
+    "container-title": [
+      "Proc. COMPSAC'78"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "60–65"
+    ],
+    "title": [
+      "Ripple Effect Analysis of Software Maintenance"
+    ],
+    "type": "paper-conference"
+  }
+]
