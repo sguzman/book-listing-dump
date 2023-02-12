@@ -1,0 +1,821 @@
+[
+  {
+    "note": [
+      "SEE ALSO: nexcpermutation"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Public Members: priority_queue<T, Container, Compare>: : container_type;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "priority_queue<T, Container, Compare>: : value_type;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void priority_queue<T, Container, Compare>::pop();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "priority_queue<T",
+        "given": "Container"
+      }
+    ],
+    "title": [
+      "Compare>: : value_type; The type stored in the priority queue"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Container"
+    ],
+    "publisher": [
+      ":back() const"
+    ],
+    "title": [
+      "Public Methods: value_type& queue<T, Container>: :back(); const value_type& queue<T"
+    ],
+    "type": "book"
+  },
+  {
+    "location": [
+      "Container"
+    ],
+    "publisher": [
+      ":front() const"
+    ],
+    "title": [
+      "value_type& queue<T, Container>: :front(); const value_type& queue<T"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "SEE ALSO: replace, replace30py, replace_copy_if"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Public Members: reverse_iterator<Iterator>: : difference_type;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Public Members: set<Key, Compare, Allocator>: : allocator_type;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "set<Key",
+        "given": "Compare"
+      },
+      {
+        "family": "Allocator>",
+        "given": "iterator"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "allocator_type set<Key, Compare, Allocator>:: get_allocator() const"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Returns the comparison function for the set"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template <class Key, class Compare, class Allocator> bool operator> ( const set<Key, Compare, Allocator>& x, const set<Key, Compare, Allocator>& y); Returns true if set x is lexicographically greater than set y. template <class Key, class Compare, class Allocator> bool operator>=( const set<Key, Compare, Allocator>& x, const set<Key, Compare, Allocator>& y"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "slist<T,"
+    ],
+    "location": [
+      "Allocator"
+    ],
+    "publisher": [
+      ":const_reference"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "last). reference slist<T, Allocator>: :front(); const_reference slist<T, Allocator>::front();"
+    ],
+    "title": [
+      "The first form erases the element immediately after it. The second form erases all elements in the range [first + 1"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "slist<T, Allocator>: :-slist();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Public Members: stack<T, Container>: : container_type;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Public Members: unary_function<Arg, Result>: : argument_type;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      ":operator A =( canst valarray<T>& a)i"
+    ],
+    "type": null,
+    "volume": [
+      "valarray<T>& valarray<T>"
+    ]
+  },
+  {
+    "title": [
+      ":operator&=( canst valarray<T>& a)i"
+    ],
+    "type": null,
+    "volume": [
+      "valarray<T>& valarray<T>"
+    ]
+  },
+  {
+    "title": [
+      ":operatorl=( canst valarray<T>& a)i"
+    ],
+    "type": null,
+    "volume": [
+      "valarray<T>& valarray<T>"
+    ]
+  },
+  {
+    "title": [
+      ":operator«=( canst valarray<T>& a)i"
+    ],
+    "type": null,
+    "volume": [
+      "valarray<T>& valarray<T>"
+    ]
+  },
+  {
+    "title": [
+      "Nonmember Functions: template<class T> valarray<T> abs(const valarray<T>& a)i Returns an array containing the absolute value of every member of a. template<class T> valarray<T> acos(const valarray<T>& a)i"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> valarray<T> sinh(const valarray<T>& a"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "vector<T, Allocator>: :const_referencei"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "vector<T,"
+    ],
+    "location": [
+      "Allocator"
+    ],
+    "publisher": [
+      ":iterator"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "size_type vector<T, Allocator>: :size() const;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template <class T, class Allocator> bool operator!=(const vector<T, Allocator>& x, const vector<T, Allocator>& y"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template <class T, class Allocator> bool operator>=(const vector<T, Allocator>& x, const vector<T, Allocator>& y"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Assigns the value of the vector x to the object, adjusting the allocated space as necessary"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void vector<bool, Allocator>: :pop_back();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Barreiro",
+        "given": "BM95 J."
+      },
+      {
+        "family": "Musser",
+        "given": "D."
+      },
+      {
+        "family": "Barreiro",
+        "given": "BFM95 J."
+      },
+      {
+        "family": "Fraley",
+        "given": "R."
+      },
+      {
+        "family": "Musser",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Doc"
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "included in HP distribution [STE95]."
+    ],
+    "issue": [
+      "X3J16/94-0218 WG211N0605"
+    ],
+    "location": [
+      "Troy, NY"
+    ],
+    "note": [
+      "included in HP distribution [STE95]. ."
+    ],
+    "title": [
+      "An STL Hash Table Implementation with Gradual Resizing, Computer Science Dept., Rensselaer Polytechnic Institute",
+      "Hash Tables for the Standard Template Library"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Glass",
+        "given": "GLA96 G."
+      }
+    ],
+    "date": [
+      "1996-01"
+    ],
+    "genre": [
+      "c++ Report,"
+    ],
+    "issue": [
+      "I"
+    ],
+    "pages": [
+      "18–21"
+    ],
+    "title": [
+      "STL in Action: Helper Algorithms"
+    ],
+    "type": "report",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Horstmann",
+        "given": "HOR95 C."
+      },
+      {
+        "family": "STL",
+        "given": "Safe"
+      },
+      {
+        "family": "Ignatchenko",
+        "given": "IG98 S."
+      },
+      {
+        "family": "Kasparek",
+        "given": "KAS96 L."
+      },
+      {
+        "family": "Keffer",
+        "given": "KEF95 T."
+      },
+      {
+        "family": "Koenig",
+        "given": "KOE94a A."
+      },
+      {
+        "family": "Koenig",
+        "given": "KOE94b A."
+      },
+      {
+        "family": "Koenig",
+        "given": "KOE94c A."
+      },
+      {
+        "family": "Larson",
+        "given": "LAR88 P."
+      },
+      {
+        "family": "Musser",
+        "given": "MUS87 D."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A."
+      },
+      {
+        "family": "Musser",
+        "given": "D."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proc. ACM SigAda International Conference",
+      "First International Joint Conference of ISSAC-88 and AAECC-6",
+      "C/C++ Users Journal",
+      "Dr. Dobb's Sourcebook",
+      "Journal of Object-Oriented Programming",
+      "Journal of Object-Oriented Programming",
+      "Journal of Object-Oriented Programming",
+      "Communications of the ACM"
+    ],
+    "date": [
+      "July/August 1998",
+      "1996-09",
+      "July/August 1995",
+      "1994-06",
+      "1994-09",
+      "November/December 1994",
+      "1988-04-04",
+      "1987-12",
+      "July 4-8,1988",
+      "1989"
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "issue": [
+      "IS"
+    ],
+    "location": [
+      "Boston",
+      "Rome, Italy",
+      "The Ada Generic Library"
+    ],
+    "note": [
+      "LINK A collection of STL-related links on the internet.",
+      "MUS89 D. Musser and A."
+    ],
+    "pages": [
+      "9,",
+      "19–27",
+      "7–11",
+      "45–47",
+      "69–72",
+      "59–62",
+      "446–457",
+      "88"
+    ],
+    "publisher": [
+      "Stepanov",
+      "Linear List Processing Packages, Springer-Verlag"
+    ],
+    "title": [
+      "STL Implementations and Thread Safety",
+      "Processing Variant Records with STL",
+      "Programming with the Standard Template Library",
+      "Templates and Generic Algorithms",
+      "Generic Iterators",
+      "File Iterators",
+      "Dynamic Hash Tables",
+      "A Library of Generic Algorithms in Ada",
+      "Generic Programming"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.mathcs.sjsu.edulfaculty/",
+      "http://www."
+    ],
+    "volume": [
+      "14",
+      "20",
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "MUS89a D."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Symbolic and Algebraic Computation Proceedings",
+      "Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "1989"
+    ],
+    "editor": [
+      {
+        "family": "Gianni",
+        "given": "P."
+      }
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Generic Programming"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "MUS94 D."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Software - Practice and Experience"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "pages": [
+      "7,",
+      "623–642"
+    ],
+    "title": [
+      "Algorithm-oriented Generic Libraries"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "MUS95a D."
+      },
+      {
+        "family": "Plauger",
+        "given": "PLA96 P.J."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "1995",
+      "1996-09"
+    ],
+    "genre": [
+      "included in HP distribution [STE95]."
+    ],
+    "location": [
+      "Troy, NY"
+    ],
+    "pages": [
+      "9,",
+      "8–17"
+    ],
+    "title": [
+      "Rationale for Adding Hash Tables to the C++ Standard Template Library, Computer Science Dept., Rensselaer Polytechnic Institute",
+      "Standard C/C++: Introduction to <algorithm>"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Richards",
+        "given": "RI99 E."
+      },
+      {
+        "family": "Scheifler",
+        "given": "SG86 R."
+      },
+      {
+        "family": "Gettys",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal",
+      "ACM Transactions on Graphics"
+    ],
+    "date": [
+      "1999-02",
+      "1986-04-02"
+    ],
+    "pages": [
+      "79–109"
+    ],
+    "title": [
+      "Adding Level-2 Thread Safety to Existing Objects",
+      "The X Window System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stepanov",
+        "given": "STE95 A."
+      },
+      {
+        "family": "Lee",
+        "given": "M."
+      },
+      {
+        "given": "Stevens"
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb's Journal"
+    ],
+    "date": [
+      "1998-09",
+      "1995",
+      "1995-03"
+    ],
+    "edition": [
+      "STE95a A"
+    ],
+    "location": [
+      "Palo Alto, CA"
+    ],
+    "pages": [
+      "3,",
+      "115–123"
+    ],
+    "publisher": [
+      "American National Standards Institute"
+    ],
+    "title": [
+      "STD98 International Standard, ISO/IEC 14882, Programming Languages-C++",
+      "The Standard Template Library, Hewlett-Packard Laboratories",
+      "Alexander Stepanov and STL"
+    ],
+    "type": "article-journal",
+    "url": [
+      "ftp://butler."
+    ],
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stepanov",
+        "given": "STE95b A."
+      }
+    ],
+    "container-title": [
+      "Byte"
+    ],
+    "date": [
+      "1995-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "177–178"
+    ],
+    "title": [
+      "The Standard Template Library"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrop",
+        "given": "STR91 B."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrop",
+        "given": "STR94 B."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrop",
+        "given": "STR94a B."
+      }
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1994-10-08"
+    ],
+    "pages": [
+      "30–34"
+    ],
+    "title": [
+      "Making a Vector Fit for a Standard"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vilot",
+        "given": "VIL94 M."
+      }
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1994-10-08"
+    ],
+    "pages": [
+      "22–35"
+    ],
+    "title": [
+      "An Introduction to the Standard Template Library"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vilot",
+        "given": "VIL95 M."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb's Journal"
+    ],
+    "date": [
+      "1995-08-08"
+    ],
+    "pages": [
+      "111–113"
+    ],
+    "title": [
+      "The C++ Standard Library"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wyk",
+        "given": "VWY90 C.",
+        "particle": "Van"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Data Structures and C Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zigmond",
+        "given": "ZIG95 D."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb'sJournal"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "location": [
+      "Index"
+    ],
+    "pages": [
+      "8,",
+      "18–24"
+    ],
+    "title": [
+      "Generic Programming and the C++ STL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  }
+]
