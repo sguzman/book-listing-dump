@@ -1,0 +1,1586 @@
+[
+  {
+    "note": [
+      "const Matrix& B) const; Appendix: Selected Source Code 365"
+    ],
+    "title": [
+      "Boolean operator==( II Equality"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "const Matrix& W) const; Matrix operator*( II Right scalar const Scalar& t) const; II multiple."
+    ],
+    "title": [
+      "Matrix operator-( ) const; II Negative. Matrix operator+( II Sum. const Matrix& W) const; Matrix operator-( II Difference"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Matrix operator*( II Matrix * matrix. const Matrix& A) const; Vector<Scalar> operator*( II Matrix * const Vector<Scalar>& W) const; II column vector"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Scalar Trace(const Matrix<Scalar>& A"
+    ],
+    "title": [
+      "template<class Scalar> II Column norm. double ColNorm(const Matrix<Scalar>& A); template<class Scalar> 1/ Trace"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "B.B",
+        "given": "EigenvalH See Section"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables, National Bureau of Standards Applied Mathematics Series"
+    ],
+    "date": [
+      "1964"
+    ],
+    "editor": [
+      {
+        "family": "Abramowitz",
+        "given": "I.} Milton"
+      },
+      {
+        "family": "Stegin",
+        "given": "Irene A."
+      }
+    ],
+    "issue": [
+      "55"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "United States Government Printing Office"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "aI",
+        "given": "Joel Adams",
+        "particle": "et"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1996",
+      "1991"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ",
+      "Scotts Valley, CA"
+    ],
+    "publisher": [
+      "Prentice"
+    ],
+    "title": [
+      "Turbo C++: An Introduction to Computing",
+      "3} Borland International, Inc., Turbo Assembler, Version 3.0: Quick Reference Guide, User's Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "International",
+        "given": "Borland"
+      },
+      {
+        "family": "Inc.",
+        "given": "Borland C.++ Development Suite"
+      },
+      {
+        "family": "NT"
+      },
+      {
+        "family": "Valley",
+        "given": "D.O.S.Scotts"
+      },
+      {
+        "given": "C.A."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1998",
+      "1993"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "note": [
+      "CD-ROM) [5} Richard 1. Burden and). Douglas Faires, Numerical Analysis,"
+    ],
+    "publisher": [
+      "PWS Kent"
+    ],
+    "title": [
+      "Version 5: Targets Windows 3.1, 95"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Man-Duen",
+        "given": "Choi"
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "American Mathematical Monthly"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "301–312"
+    ],
+    "title": [
+      "Tricks or Treats with the Hilbert Matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "90"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Conte",
+        "given": "S.D."
+      },
+      {
+        "family": "Boor",
+        "given": "Carl",
+        "particle": "de"
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1980"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Elementary Numerical Analysis: An Algorithmic Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Courant",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1936"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Interscience"
+    ],
+    "title": [
+      "Differential and Integral Calculus"
+    ],
+    "translator": [
+      {
+        "family": "McShane",
+        "given": "E.)"
+      }
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duncan",
+        "given": "Ray"
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Advanced MS-DOS"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "I.O.} Dyad Software"
+      },
+      {
+        "given": "M.++"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New Castle, WA"
+    ],
+    "title": [
+      "The Complete Math Libraryfor C++, Version 5.0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "II} Margaret A. Ellis and Bjarne Stroustrup"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Annotated C++ Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Finkbeiner",
+        "given": "Daniel T.",
+        "suffix": "II"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1978"
+    ],
+    "edition": [
+      "3d"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Freeman"
+    ],
+    "title": [
+      "Introduction to Matrices and Linear Transformations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Flowers",
+        "given": "B.H."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "title": [
+      "An Introduction to Numerical Methods in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Forsythe",
+        "given": "George E."
+      },
+      {
+        "family": "Moler",
+        "given": "Cleve B."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Englewood Cliff's, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Solution of Linear Algebraic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Forsythe",
+        "given": "George E."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "American Mathematical Monthly"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "931–955"
+    ],
+    "title": [
+      "Pitfalls in Computation, or Why a Math Book Isn't Enough"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "77"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gantmacher",
+        "given": "F.R."
+      }
+    ],
+    "citation-number": [
+      "l6"
+    ],
+    "container-title": [
+      "The Theory of Matrices"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Chelsea"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Samuel",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Steele, Jr., C",
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "A Reference Manual",
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Harbison and Guy 1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hille",
+        "given": "Einar"
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Analysis"
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Waltham, MA"
+    ],
+    "publisher": [
+      "Blaisdell"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "C.R.C. Standard Mathematical Tables"
+    ],
+    "date": [
+      "1957"
+    ],
+    "edition": [
+      "11th"
+    ],
+    "editor": [
+      {
+        "family": "Hodgman",
+        "given": "Charles D."
+      },
+      {
+        "others": true
+      }
+    ],
+    "location": [
+      "Cleveland, OH"
+    ],
+    "publisher": [
+      "Chemical Rubber Publishing Co"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Householder",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York",
+      "Standard",
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill,1970",
+      "IEEE Standard for Binary Floating-Point Arithmetic"
+    ],
+    "title": [
+      "The Numerical Treatment of a Single Nonlinear Equation",
+      "21} Institute of Electrical and Electronics Engineers, An American National"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "Intel Corporation, iAPX 286 Programmer's Reference Manual (including the iAPX 286 Numeric Supplement"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "International Business Machines Corporation, IBM Personal Computer Hardware Personal Reference Library Technical Reference"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Boca Raton"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Isaacson",
+        "given": "Eugene"
+      },
+      {
+        "family": "Keller",
+        "given": "Herbert B."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Analysis of Numerical Methods"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karpinski",
+        "given": "Richard"
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "container-title": [
+      "Byte"
+    ],
+    "date": [
+      "1985-02"
+    ],
+    "pages": [
+      "223–235"
+    ],
+    "title": [
+      "Paranoia: A Floating-Point Benchmark"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "Brian W."
+      },
+      {
+        "family": "Ritchie",
+        "given": "Dennis M."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "Englewood Cliff's, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Klatte",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "C-XSC: A C++ Class Libraryfor ExtendedScientiftcComputing"
+    ],
+    "translator": [
+      {
+        "family": "Corliss",
+        "given": "G.F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "container-title": [
+      "The Art of Computer Programming; Seminumerical Algorithms",
+      "The Art of Computer Programming"
+    ],
+    "date": [
+      "1973"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Fundamental Algorithms"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "Stanley B."
+      },
+      {
+        "family": "Primer",
+        "given": "C.++"
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maron",
+        "given": "Melvin J."
+      },
+      {
+        "family": "Lopez",
+        "given": "Robert J."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "3d"
+    ],
+    "location": [
+      "Pacific Grove, CA"
+    ],
+    "publisher": [
+      "Wadsworth"
+    ],
+    "title": [
+      "Numerical Analysis: A Practical Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meredith",
+        "given": "David B."
+      },
+      {
+        "given": "X."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "DOS Version"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Microsoft"
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Redmond"
+    ],
+    "title": [
+      "Microsoft MS-DOS Programmer's Reference, Version 6.0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Microsoft"
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "title": [
+      "Microsoft MS-DOS 6: User's Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Microsoft"
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "title": [
+      "Microsoft Windows 95 Resource Kit"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Microsoft"
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "title": [
+      "Microsoft Windows User's Guide, Version 3.1"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "36"
+    ],
+    "container-title": [
+      "Microsoft Corporation, The MS-DOS Encyclopedia"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "R. Duncan",
+        "particle": "ed."
+      }
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Norton",
+        "given": "J.Peter"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Sams Publishing"
+    ],
+    "title": [
+      "Imide the PC"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Norton",
+        "given": "Peter"
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Programmer's Guide to the IBM PC"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perry",
+        "given": "Paul J."
+      },
+      {
+        "family": "aI",
+        "particle": "et"
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "special"
+    ],
+    "location": [
+      "Carmel, IN"
+    ],
+    "publisher": [
+      "Que Corporation"
+    ],
+    "title": [
+      "Using Borland C++ 4"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Petzold",
+        "given": "Charles"
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "3d"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Programming Windows 3.1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Plauger",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Standard C Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Plauger",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Draft Standard C+ + Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "William",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Press et aI., Numerical Recipes in C: The Art ofScientific Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reverchon",
+        "given": "Alain"
+      },
+      {
+        "family": "Duchamp",
+        "given": "Marc"
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Mathematical Software Tools in C++"
+    ],
+    "translator": [
+      {
+        "family": "Fally",
+        "given": "Veronique"
+      },
+      {
+        "family": "Richter",
+        "given": "Sara"
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Software",
+        "given": "Rogue Wave"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Corvallis, OR"
+    ],
+    "title": [
+      "Math.h++: Powerful c++ Types for Numerical Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Software",
+        "given": "Rogue Wave"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Corvallis, OR"
+    ],
+    "title": [
+      "LAPACK.h++: A Toolbox ofC+ + Classesfor Numerical Linear Algebra"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shammas",
+        "given": "Namir Clement"
+      }
+    ],
+    "citation-number": [
+      "47"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Generic Programming for Borland C+ +"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "James T."
+      }
+    ],
+    "citation-number": [
+      "48"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Intertext/McGraw-Hill"
+    ],
+    "title": [
+      "Advanced Turbo C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "James T."
+      },
+      {
+        "given": "C.+"
+      }
+    ],
+    "citation-number": [
+      "49"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Intertext/McGraw-Hill"
+    ],
+    "title": [
+      "+ Applicatiom Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "James T."
+      }
+    ],
+    "citation-number": [
+      "50"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Intertext/McGraw-Hill"
+    ],
+    "title": [
+      "C++ for Scientists and Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "James T."
+      }
+    ],
+    "citation-number": [
+      "51"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Programmer's Guide to the IBM PC AT"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "378"
+    ],
+    "title": [
+      "C++ Toolkit for Engineers and Scientists"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "52"
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "53"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and ElIOlution o/C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Uspensky",
+        "given": "J.",
+        "particle": "v."
+      }
+    ],
+    "citation-number": [
+      "54"
+    ],
+    "date": [
+      "1948"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Theory 0/ Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Venit",
+        "given": "Stewart"
+      }
+    ],
+    "citation-number": [
+      "55"
+    ],
+    "container-title": [
+      "Mathematics Magazine"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "163–167"
+    ],
+    "title": [
+      "The Convergence of Jacobi and Gauss-Seidel Iteration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "56"
+    ],
+    "date": [
+      "1963",
+      "1994"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ",
+      "New York"
+    ],
+    "publisher": [
+      "Prentice-Hall",
+      "Dover Publications"
+    ],
+    "title": [
+      "Rounding Errors in Algebraic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Research",
+        "given": "Wolfram"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "57"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Champaign, IL"
+    ],
+    "title": [
+      "Mathematica: A System/or Doing Mathematics by Computer: User's Guide/or Microsoft Windows, Version 2.2.4"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wolfram",
+        "given": "Stephen"
+      }
+    ],
+    "citation-number": [
+      "58"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "3d"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "The Mathematica Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "c"
+      }
+    ],
+    "citation-number": [
+      "59"
+    ],
+    "date": [
+      "1975"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Ray Wylie, Adf)ancedEngineering Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "matrix inverses, 286-288 bouncing, avoiding, 146-147 rectangular systems, 280-286 complex Newton-Raphson iteration, Matrix inverses, 286-288 338-346 invertible matrix, 286-287 Equate2 template NR, 340-342"
+    ],
+    "pages": [
+      "257–260 334–346"
+    ],
+    "title": [
+      "Gauss elimination software, 268-279 New operator, function of, 29 Hilbert matrices, 289-292 Newton-Raphson iteration, 123, 139-149, linear equations"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "236–237 , 140"
+    ],
+    "title": [
+      "Matrix module, 229-256 failures of, 144-145 assignment, 240-241 graphical representation, 140-141 constructors, 234-236 MSP implementation of, 141-143 converters, 237-238 multidimensional,334-346 copiers, 238-240 Newton-Raphson formula, 336-338 data structure, 230-232 Newton's method, square root destructors"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "232–234"
+    ],
+    "title": [
+      "nonsquare/singular systems, 280-283 Selectors, 41-42 reduced echelon system, 280 Matrix module"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "floating-point basic input/output system (BIOS), 22-23 arithmetic, 75 Borland C++, 26-27 Row finder, Gauss elimination software, client programs, 28 273-274 Mathematical Software Package (MSP),"
+    ],
+    "title": [
+      "Reduced echelon system, 280 vectors, 154-155 GaussJordan computation of, 283-284 SIGFPE service function FPError, Reference parameters, 11 107-110 uses of, 30-31 Signal dispatcher, 105 Replacement operators, vectors, 180 Signaling, exception handling, 105-107 Riemann sums, in vector modules, 181-185 Signal service function, 106 Root function, ElemFunc module, Sine, complex hyperbolic sine, 85-86 118-119 Software layers Rounding methods"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "James",
+        "given": "T."
+      }
+    ],
+    "location": [
+      "San Francisco, CA 94132"
+    ],
+    "title": [
+      "Smith Mathematics Department San Francisco State University 1600 Holloway Avenue"
+    ],
+    "type": null
+  }
+]
