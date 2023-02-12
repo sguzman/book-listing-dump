@@ -1,0 +1,917 @@
+[
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "viii | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "x | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xii | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xiv | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xvi | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xviii | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxii | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxiv | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxvi | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxviii | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxx | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "EBCDIC (Extended Binary Coded Decimal Interchange Code) 1580"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1586"
+    ],
+    "title": [
+      "Header File cctype"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1587"
+    ],
+    "title": [
+      "Header File cfloat"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1588"
+    ],
+    "title": [
+      "Header File climits"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxxii | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxxiv | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "edition": [
+      "Eighth"
+    ],
+    "title": [
+      "xxxvi | C++ Programming: Program Design Including Data Structures"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1518"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1520"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "If no match is found, both forms return last1-1."
+    ],
+    "title": [
+      "template <class forwardItr1, class forwardItr2, class binaryPredicate> forwardItr1 find_first_of(forwardItr1 first1, forwardItr1 last1, forwardItr2 first2, forwardItr2 last2, binaryPredicate op); The first form returns the position, within the range first1...last1-1, of the first element of first2...last2-1 that is also in the range first1...last1-1. The second form returns the position, within the range first1...last1-1, of the first element of first2...last2-1 for which op(elemRange1, elemRange2) is true"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The program in Example 21-18 illustrates how to use the functions find_end and find_first_of"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1522"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1524"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1526"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1528"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1530"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1550"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1552"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1554"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1558"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Example 21-29 illustrates how the functions set_difference and set_symmetric_difference work"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1560"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1562"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1566"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1568"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1570"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1572"
+    ],
+    "title": [
+      "| Chapter 21: Standard Template Library (STL"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1580"
+    ],
+    "title": [
+      "| Appendix C: Character Sets"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "EBCDIC (Extended Binary Coded Decimal Interchange Code) | 1581"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SHRT_MIN Minimum short value"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Analysis and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horowitz",
+        "given": "E."
+      },
+      {
+        "family": "Sahni",
+        "given": "S."
+      },
+      {
+        "family": "Rajasekaran",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "­Computer Science Press"
+    ],
+    "title": [
+      "Computer Algorithms C11"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "N.M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "­Addison-Wesley"
+    ],
+    "title": [
+      "The C11 Standard Library: A Tutorial and Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Fundamental Algorithms",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Seminumerical Algorithms",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Searching and Sorting",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "S.B."
+      },
+      {
+        "family": "Lajoie",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C11 Primer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Malik",
+        "given": "D.S."
+      },
+      {
+        "family": "Sen",
+        "given": "M.K."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2010"
+    ],
+    "edition": [
+      "Revised"
+    ],
+    "location": [
+      "Singapore"
+    ],
+    "publisher": [
+      "Cengage Learning Asia"
+    ],
+    "title": [
+      "Discrete Mathematics: Theory and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reingold",
+        "given": "E.M."
+      },
+      {
+        "family": "Hensen",
+        "given": "W.J."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Little Brown and Company"
+    ],
+    "title": [
+      "Data Structures in Pascal"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sedgewick",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1998",
+      "2002"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "genre": [
+      "Parts 1–4,"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Algorithms in C"
+    ],
+    "type": null,
+    "volume": [
+      "Part 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C11"
+    ],
+    "type": "book"
+  },
+  {
+    "genre": [
+      "Print billingAmount"
+    ],
+    "title": [
+      "g. billingAmount = billingAmount + shippingAndHandlingFee h"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "bool operator==(const complexType& otherComplex) const; //overload =="
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "pages": [
+      "132878"
+    ],
+    "title": [
+      "Quick sort: 10000 × log2(10000) = 132878; merge sort"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1648 | Index"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1650 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1651"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1652 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1653"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1654 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1655"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1656 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1657"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1658 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1659"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1660 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1661"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1662 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1663"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1664 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1665"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1666 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1667"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1668 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1669"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1670 | Index"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1672 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1673"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1674 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1675"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1676 | Index"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "WCN 02-200-202 Index | 1677"
+    ],
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part. WCN 02-200-202 1678 | Index"
+    ],
+    "type": null
+  }
+]
