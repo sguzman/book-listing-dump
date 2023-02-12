@@ -1,0 +1,842 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "ANSI T1.105.06"
+    ],
+    "title": [
+      "Synchronous Optical Network (SONET): Physical Interface Specifications"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2000-10"
+    ],
+    "genre": [
+      "ITU-T Recommendation G.707,"
+    ],
+    "title": [
+      "Network Node Interface for the Synchronous Digital Hierarchy (SDH"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SONET/SDH",
+        "given": "P.P.P.",
+        "particle": "over"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "genre": [
+      "IETF RFC 2615,"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "genre": [
+      "RFC 1662,"
+    ],
+    "title": [
+      "PPP in HDLC-Like Framing"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2001-10"
+    ],
+    "genre": [
+      "ITU-T Recommendation G.7041,"
+    ],
+    "title": [
+      "The Generic Framing Procedure (GFP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2001-10"
+    ],
+    "genre": [
+      "ITU-T Recommendation G.7042,"
+    ],
+    "title": [
+      "Link Capacity Adjustment Scheme (LCAS) for Virtual Concatenated Signals"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1993-03"
+    ],
+    "genre": [
+      "ITU-T Recommendation I.311,"
+    ],
+    "title": [
+      "B-ISDN General Network Aspects"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1999-02"
+    ],
+    "genre": [
+      "ITU-T Recommendation I.361,"
+    ],
+    "title": [
+      "B-ISDN ATM Layer Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Broadband",
+        "given": "I.S.D.N."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "ANSI"
+    ],
+    "date": [
+      "1992-11"
+    ],
+    "issue": [
+      "S1"
+    ],
+    "pages": [
+      "92–605,"
+    ],
+    "title": [
+      "ATM Adaptation Layer for Constant Bit Rate Services Functionality and Specification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "T1"
+    ]
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "genre": [
+      "ITU-T Recommendation I.362.2,"
+    ],
+    "title": [
+      "B-ISDN ATM Adaptation Layer Type 2 Specification"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1993-03"
+    ],
+    "genre": [
+      "ITU-T Recommendation I.363,"
+    ],
+    "title": [
+      "B-ISDN ATM Adaptation Layer (AAL) Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "IP",
+        "given": "Classical"
+      },
+      {
+        "family": "ATM",
+        "given": "A.R.P.Over"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1998-04"
+    ],
+    "genre": [
+      "IETF RFC 2225,"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "2022"
+    ],
+    "location": [
+      "IETF, RFC"
+    ],
+    "title": [
+      "Support for Multicast Over UNI 3.0/3.1 Based ATM Networks"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Multicast Server Architectures for MARS-Based ATM Multicasting, IETF, RFC 2149"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "ATM Forum"
+    ],
+    "date": [
+      "1999-03"
+    ],
+    "title": [
+      "Traffic Management Specification Version 4.1"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "ATM Forum"
+    ],
+    "date": [
+      "2000-07"
+    ],
+    "title": [
+      "Addendum to Traffic Management V4.1 for an Optional Minimum Desired Cell Rate Indication for UBR"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "ATM Forum"
+    ],
+    "date": [
+      "1996-07"
+    ],
+    "title": [
+      "ATM User-Network Interface (UNI) Signalling Specification, Version 4.0"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1995"
+    ],
+    "note": [
+      "Broadband Integrated Services Digital Network (B-ISDN) – Digital Subscriber Signalling System No 2 (DSS 2) – User-Network Interface (UNI) Layer 3 Specification for Basic Call/Connection Control , ITU-T Recommendation Q.2931,"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1995-10"
+    ],
+    "note": [
+      "Broadband Integrated Services Digital Network (B-ISDN) – Digital Subscriber Signalling System No 2 (DSS 2) – User-Network Interface (UNI) Layer 3 Specification for Point-to-Multipoint Call/Connection Control , ITU-T Recommendation Q.2971,"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "ATM Forum"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "Private Network-Network Interface Specification Version 1.0 (PNNI 1.0"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "literal": "Editors"
+      }
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "33."
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "given": "Kaminow"
+      },
+      {
+        "given": "Li"
+      }
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Optical Fiber Telecommunications IVB: Components"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "Architecture of the Optical Transport Network , ITU-T G.872"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "35."
+    ],
+    "genre": [
+      "ITU-T G.709."
+    ],
+    "title": [
+      "Network Node Interfaces for the Optical Transport Network (OTN"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "36."
+    ],
+    "genre": [
+      "IETF RFC 3717."
+    ],
+    "title": [
+      "IP over Optical Networks: A Framework"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "37."
+    ],
+    "note": [
+      "Generalized Multi-Protocol Label Switching (GMPLS) Architecture, draft-ietf-ccampgmpls-architecture-07.txt"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "38."
+    ],
+    "pages": [
+      "– – – – – –08"
+    ],
+    "title": [
+      "GMPL Extensions for SONET and SDH Control"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "39."
+    ],
+    "genre": [
+      "IETF RFC 3471."
+    ],
+    "title": [
+      "Generalized MPLS-Signaling Functional Description"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "40."
+    ],
+    "genre": [
+      "IETF RFC 3472."
+    ],
+    "title": [
+      "Generalized MPLS-Signaling – CR-LDP Extensions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "41."
+    ],
+    "genre": [
+      "IETF RFC 3473."
+    ],
+    "title": [
+      "Generalized MPLS-Signaling – RSVP-TE Extensions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "42."
+    ],
+    "publisher": [
+      "Optical Internetworking Forum"
+    ],
+    "title": [
+      "User Network Interface (UNI) 1.0 Signaling Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "47."
+    ],
+    "container-title": [
+      "Digital Systems and Networks Digital Sections and Digital Line System – Access Network , ITU-T Recommendation G.992.1"
+    ],
+    "title": [
+      "Asymmetric Digital Subscriber Line (ADSL) Transceivers Series G: Transmission Systems and Media"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Series",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "48."
+    ],
+    "note": [
+      "Subscriber Line (ADSL) Transceivers, ITU-T Recommendation G.992.2."
+    ],
+    "title": [
+      "Transmission Systems and Media, Digital Systems and Networks Digital Sections and Digital Line System – Access Networks Splitterless Asymmetric Digital"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Series",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "container-title": [
+      "Access Networks; Asymmetric Digital Subscriber Line Transceivers 2 (ADSL 2), ITU-T Recommendation G.992.3"
+    ],
+    "title": [
+      "Transmission Systems and Media, Digital Systems and Networks; Digital Sections and Digital Line System"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Series",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "50."
+    ],
+    "container-title": [
+      "Splitterless Asymmetric Digital Subscriber Line Transceivers 2 (Splitterless ADSL2), ITU-T Recommendation G.992.4"
+    ],
+    "title": [
+      "Transmission Systems and Media, Digital Systems and Networks – Digital Sections and Digital Line System – Access Networks"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Transceivers",
+        "given": "Asymmetric Digital Subscriber Line"
+      }
+    ],
+    "citation-number": [
+      "51."
+    ],
+    "container-title": [
+      "Digital Systems and Networks Digital Sections and Digital Line System – Access Networks, ITU-T Recommendation G.992.5"
+    ],
+    "title": [
+      "Extended Bandwidth ADSL2 (ADSL2+) Series G: Transmission Systems and Media"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "52."
+    ],
+    "date": [
+      "1998-06"
+    ],
+    "genre": [
+      "DSL Forum TR-012,"
+    ],
+    "title": [
+      "Broadband Service Architecture for Access to Legacy Data Networks over ADSL (“PPP over ATM”"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "53."
+    ],
+    "container-title": [
+      "ATM Over ADSL Recommendation, DSL Forum TR-017"
+    ],
+    "date": [
+      "1999-03"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "54."
+    ],
+    "container-title": [
+      "DSL Forum TR-18"
+    ],
+    "date": [
+      "1999-05"
+    ],
+    "title": [
+      "References and Requirements for CPE Architectures for Data Access"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "55."
+    ],
+    "container-title": [
+      "PPP Over AAL5 , IETF RFC 2364"
+    ],
+    "date": [
+      "1998-07"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "56."
+    ],
+    "date": [
+      "2000-11"
+    ],
+    "publisher": [
+      "IETF, Internet-Draft"
+    ],
+    "title": [
+      "Layer Two Tunneling Protocol “L2TP”"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "57."
+    ],
+    "date": [
+      "2000-06"
+    ],
+    "genre": [
+      "IETF, RFC 2865,"
+    ],
+    "title": [
+      "Remote Authentication Dial in User Service (RADIUS"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "58."
+    ],
+    "container-title": [
+      "IETF, RFC 2516"
+    ],
+    "date": [
+      "1999-02"
+    ],
+    "title": [
+      "A Method for Transmitting PPP Over Ethernet (PPPoE"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "59."
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Cable Television Laboratories"
+    ],
+    "title": [
+      "Data-Over Cable Service Interface Specifications – Radio Frequency Interface Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "60."
+    ],
+    "date": [
+      "1998-10"
+    ],
+    "genre": [
+      "ITU-T Recommendation G.983.1,"
+    ],
+    "title": [
+      "Broadband Optical Access Systems Based on Passive Optical Networks (PON"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MPLS/Frame Relay Alliance specifications for voice over MPLS. This is an area of active development; check the MPLS/Frame Relay Alliance Web site for the latest specifications"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "61."
+    ],
+    "container-title": [
+      "J. van Bosse"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Signaling in Telecommunication Networks"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "62."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "D.J. Wright, Wiley"
+    ],
+    "title": [
+      "Voice over Packet Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "63."
+    ],
+    "container-title": [
+      "ATM Forum"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "Voice and Telephony over ATM – ATM Trunking Using AAL 1 for Narrowband Services, Version 1.0"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "64."
+    ],
+    "container-title": [
+      "ATM Forum"
+    ],
+    "date": [
+      "1997-01"
+    ],
+    "title": [
+      "Circuit Emulation Service Interoperability Specification, Version 2.0"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "of",
+        "given": "Specification"
+      }
+    ],
+    "citation-number": [
+      "65."
+    ],
+    "container-title": [
+      "64 Kbps Time Slot Trunking Over ATM – Using CES , ATM Forum"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "Dynamic Bandwidth Utilization"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "66."
+    ],
+    "date": [
+      "1999-02"
+    ],
+    "publisher": [
+      "ATM Forum"
+    ],
+    "title": [
+      "ATM Trunking Using AAL 2 for Narrowband Services"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "67."
+    ],
+    "genre": [
+      "ITU-T Recommendation I.366.2."
+    ],
+    "title": [
+      "AAL Type 2 Service-Specific Convergence Sublayer for Trunking"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "68."
+    ],
+    "container-title": [
+      "Segmentation and Reassembly Service-Specific Convergence Sublayer for the AAL Type 2 , ITU-T Recommendation I.366.1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "69."
+    ],
+    "container-title": [
+      "MPLS Forum"
+    ],
+    "date": [
+      "2001-07"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "Voice over MPLS – Bearer Transport Implementation Agreement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "70."
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "genre": [
+      "MPLS/Frame Relay Alliance 4.0,"
+    ],
+    "title": [
+      "TDM Transport over MPLS Using AAL"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "71."
+    ],
+    "date": [
+      "2003-08"
+    ],
+    "title": [
+      "I.366.2 Voice Trunking Format over MPLS Implementation Agreement, MPLS/Frame Relay Alliance 5.0.0"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "issue": [
+      "(Qt::BDiagPattern); painter.drawRect(QRect(40, 120, 80"
+    ],
+    "pages": [
+      "30"
+    ],
+    "title": [
+      "QPainter and 2D Graphics painter.setFont(QFont(\"Times\""
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "painter.setPen(ellipsePen); painter.drawEllipse(QPoint(80, 200), 50, 20); QPainterPath rectPath; rectPath.addRect(QRect(150, 20, 100, 50)); painter.setPen(QPen(Qt::red, 1, Qt::DashDotLine, Qt::FlatCap, Qt::MiterJoin)); painter.setBrush(Qt::yellow); painter.drawPath(rectPath);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "QSqlDatabase db = QSqlDatabase::addDatabase(\"QMYSQL\"); db.setHostName(\"127.0.0.1\"); db.setUserName(\"reonyx\"); db.setPassword(\"reonyx\"); db.setDatabaseName(\"testing\");"
+    ],
+    "type": null
+  }
+]
