@@ -1,0 +1,52 @@
+[
+  {
+    "note": [
+      "Serial.begin(19200); pinMode(pLED, OUTPUT); digitalWrite(pLED, LOW);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "cli(); ADC_result = ADC; sei(); Serial.print(\"ADC: \"); Serial.print(ADC_result,HEX); voltage = ADC_result* VACC/1024; Serial.print(\"\\tVoltage: \"); Serial.print(voltage,3); Serial.println(\" V\"); delay(1000);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.begin(19200); pinMode(pLED, OUTPUT); digitalWrite(pLED, LOW);"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "given": "Serialprint"
+      }
+    ],
+    "note": [
+      "\"); Serial.println(DIDR0, HEX); Serial.println(\"Setup finished.\"); delay(1000); Serial.println(\"ADC Timer triggered...\");"
+    ],
+    "title": [
+      "Serial.println(\"ADC Configuration for Timer triggered Mode\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "static boolean output = HIGH"
+    ],
+    "type": null
+  }
+]
