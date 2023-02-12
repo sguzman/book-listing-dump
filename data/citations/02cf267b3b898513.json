@@ -1,0 +1,20 @@
+[
+  {
+    "note": [
+      "deque <Student> ds; Student Lara(1, \"Brian Charles Lara\"); Student Beckham(2, \"David Beckham\"); Student Steffi(3, \"Steffi Graf\"); Student Maradona(4, \"Diego Maradona\"); Standard Template Library 573"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Student Tiger(5, \"Tiger Woods\"); Student Carl(6, \"Carl Lewis\"); ds.push_front(Lara); ds.push_front(Beckham); ds.push_front(Steffi); ds.push_front(Maradona); ds.push_front(Tiger); ds.push_front(Carl); deque <Student>::iterator StudentIndex;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Standard Template Library 579 vector <Student> vs; Student Lara(1, \"Brian Charles Lara\"); Student Beckham(2, \"David Beckham\"); Student Steffi(3, \"Steffi Graf\"); Student Maradona(4, \"Diego Maradona\"); Student Tiger(5, \"Tiger Woods\"); Student Carl(6, \"Carl Lewis\"); vs.push_back(Lara); vs.push_back(Beckham); vs.push_back(Steffi); vs.push_back(Maradona); vs.push_back(Tiger); vs.push_back(Carl); // Inserting the same data second time vs.push_back(Lara); vs.push_back(Beckham); vs.push_back(Steffi); vs.push_back(Maradona); vs.push_back(Tiger); vs.push_back(Carl); set <Student> SetStudent;"
+    ],
+    "type": null
+  }
+]
