@@ -1,0 +1,1206 @@
+[
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "Dimacs implementation file format"
+    ],
+    "type": null,
+    "url": [
+      "http://dimacs.rutgers.edu/Challenges/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "1999-03"
+    ],
+    "title": [
+      "Better template error messages"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "M.H."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Generic Programming and the STL. Professional computing series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Baumgartner",
+        "given": "G."
+      },
+      {
+        "family": "Russo",
+        "given": "V.F."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Software–Practice and Experience"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "863–889"
+    ],
+    "title": [
+      "Signatures: A language extension for improving type abstraction and subtype polymorphism in C++"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bellman",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Quarterly of Applied Mathematics"
+    ],
+    "date": [
+      "1958"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "87–90"
+    ],
+    "title": [
+      "On a routing problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Boost"
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "title": [
+      "Boost C++ Libraries"
+    ],
+    "type": null,
+    "url": [
+      "http://www.boost.org/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Broder",
+        "given": "A."
+      },
+      {
+        "family": "Kumar",
+        "given": "R."
+      },
+      {
+        "family": "Maghoul",
+        "given": "F."
+      },
+      {
+        "family": "Raghavan",
+        "given": "P."
+      },
+      {
+        "family": "Rajagopalan",
+        "given": "S."
+      },
+      {
+        "family": "Stata",
+        "given": "R."
+      },
+      {
+        "family": "Tomkins",
+        "given": "A."
+      },
+      {
+        "family": "Wiener",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "9th World Wide Web Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Graph structure in the web"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruce",
+        "given": "K.B."
+      },
+      {
+        "family": "Cardelli",
+        "given": "L."
+      },
+      {
+        "family": "Castagna",
+        "given": "G."
+      },
+      {
+        "family": "Hopkins Objects Group",
+        "given": "G.T.Leavens",
+        "particle": "the"
+      },
+      {
+        "family": "Pierce",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Theory and Practice of Object Systems"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "221–242"
+    ],
+    "title": [
+      "On binary methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cherkassky",
+        "given": "B.V."
+      },
+      {
+        "family": "Goldberg",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "publisher": [
+      "Stanford University"
+    ],
+    "title": [
+      "On implementing push-relabel method for the maximum flow problem"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Cormen",
+        "given": "T."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C."
+      },
+      {
+        "family": "Rivest",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dijkstra",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "269–271"
+    ],
+    "title": [
+      "A note on two problems in connexion with graphs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ford",
+        "given": "L.R."
+      },
+      {
+        "family": "Fulkerson",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "Can. Journal of Mathematics"
+    ],
+    "date": [
+      "1956"
+    ],
+    "pages": [
+      "399–404,"
+    ],
+    "title": [
+      "Maximal flow through a network"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Ford",
+        "given": "L.R."
+      },
+      {
+        "family": "Fulkerson",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1962"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Flows in networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Professional Computing. Addison-Welsey"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garey",
+        "given": "M."
+      },
+      {
+        "family": "Johnson",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "W.H. Freeman"
+    ],
+    "title": [
+      "Computers and Intractibility: A Guide to the Theory of NPCompleteness"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1985"
+    ],
+    "genre": [
+      "Technical Report MIT/LCS/TM-291,"
+    ],
+    "publisher": [
+      "MIT"
+    ],
+    "title": [
+      "A new max-flow algorithm"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "A.V."
+      },
+      {
+        "family": "Tarjan",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "Journal of the ACM"
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "A new approach to the maximum flow problem"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "R."
+      },
+      {
+        "family": "Hell",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Annals of the History of Computing"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "43–57"
+    ],
+    "title": [
+      "On the history of the minimum spanning tree problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hedrick",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Internet Requests For Comments (RFC) 1058"
+    ],
+    "date": [
+      "1988-06"
+    ],
+    "title": [
+      "Routing information protocol"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Karzanov",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "Sov. Math. Dokl"
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Determining the maximal flow in a network by the method of preflows"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Keene",
+        "given": "S.E."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "1989"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Programming in Common LISP: A Programmer’ s Guide to CLOS"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Stanford GraphBase: a platform for combinatorial computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kruskal",
+        "given": "J.B."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "Proceedings of the American Mathematical Sofiety"
+    ],
+    "date": [
+      "1956"
+    ],
+    "pages": [
+      "48–50,"
+    ],
+    "title": [
+      "On the shortest spanning subtree of a graph and the traveling salesman problem"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kuhl",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "1996-07"
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Technische Universitat"
+    ],
+    "title": [
+      "Design patterns for the implementation of graph algorithms"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Lajoie",
+        "given": "J."
+      },
+      {
+        "family": "Primer",
+        "given": "S.B.Lippman C.++"
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lawler",
+        "given": "E.L."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1976"
+    ],
+    "publisher": [
+      "Holt, Rinehart, and Winston"
+    ],
+    "title": [
+      "Combinatorial Opimization: Networks and Matroids"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Matula",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "container-title": [
+      "Sumposium on Foundations of Computer Science"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "249–251,"
+    ],
+    "title": [
+      "Determing edge connectivity in o(mn"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "McQuillan",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "container-title": [
+      "IEEE Transactions on Communications"
+    ],
+    "date": [
+      "1980-05"
+    ],
+    "title": [
+      "The new routing algorithm for the arpanet"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mehlhorn",
+        "given": "K."
+      },
+      {
+        "family": "Naher",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "The LEDA Platform of Combinatorial and Geometric Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "collection-title": [
+      "Prentice Hall International Series in Computer Science"
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Object-oriented Software Construction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "container-title": [
+      "International Symposium on the Theory of Switching"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "285–292"
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "title": [
+      "The shortest path through a maze"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Morgan",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Butterworth-Heinemann"
+    ],
+    "title": [
+      "Building an Optimizing Compiler"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Moy",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "date": [
+      "1994-03"
+    ],
+    "publisher": [
+      "Network Working Group Request for Comment"
+    ],
+    "title": [
+      "Rfc 1583: Ospf version 2"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "D.R."
+      },
+      {
+        "family": "Derge",
+        "given": "G.J."
+      },
+      {
+        "family": "Saini",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "STL tutorial and Reference Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "D.R."
+      },
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "container-title": [
+      "Using Ada (1987 International Ada Conference"
+    ],
+    "date": [
+      "1987-12"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "pages": [
+      "216–225,"
+    ],
+    "publisher": [
+      "ACM SIGAda"
+    ],
+    "title": [
+      "A library of generic algorithms in ada"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Myers",
+        "given": "N.C."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "title": [
+      "Traits: a new and useful template technique"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlman",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "37"
+    ],
+    "date": [
+      "1983-12"
+    ],
+    "publisher": [
+      "Computer Networks"
+    ],
+    "title": [
+      "Fault-tolerant broadcast of routing information"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Prim",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "container-title": [
+      "Bell System Technical Journal"
+    ],
+    "date": [
+      "1957"
+    ],
+    "pages": [
+      "1389–1401"
+    ],
+    "title": [
+      "Shortest connection networks and some generalizations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Siek",
+        "given": "J."
+      },
+      {
+        "family": "Lumsdaine",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "container-title": [
+      "First Workshop on C++ Template Programming"
+    ],
+    "date": [
+      "2000-10-10"
+    ],
+    "location": [
+      "Erfurt, Germany"
+    ],
+    "title": [
+      "Concept checking: Binding parametric polymorphism in C++"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Stepanov",
+        "given": "A.A."
+      },
+      {
+        "family": "Lee",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "container-title": [
+      "WG21/N0482, ISO Programming Language C++ Project"
+    ],
+    "date": [
+      "1994-05"
+    ],
+    "genre": [
+      "Technical Report X3J16/94-0095,"
+    ],
+    "title": [
+      "The Standard Template Library"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "special"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tarjan",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "container-title": [
+      "SIAM Journal on Computing"
+    ],
+    "date": [
+      "1972"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "146–160"
+    ],
+    "title": [
+      "Depth-first search and linear graph algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tarjan",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "container-title": [
+      "Society for Industrial and Applied Mathematics"
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "Data Structures and Network Algorithms"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Waerden",
+        "given": "B.L.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "date": [
+      "1970"
+    ],
+    "publisher": [
+      "Frederick Ungar Publishing"
+    ],
+    "title": [
+      "Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Warnsdorff",
+        "given": "H.C."
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "date": [
+      "1823"
+    ],
+    "location": [
+      "Schmalkalden"
+    ],
+    "title": [
+      "Des roesselsprungs einfachste und allgemeinste loesung"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "SiekINDEXfm"
+      }
+    ],
+    "date": [
+      "2001-11-09"
+    ],
+    "issue": [
+      "02"
+    ],
+    "type": null,
+    "volume": [
+      "3"
+    ]
+  }
+]
