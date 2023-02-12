@@ -1,0 +1,141 @@
+[
+  {
+    "note": [
+      "createStates(); createTransitions(); createConnections();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "initialState->assignProperty"
+      }
+    ],
+    "note": [
+      "true); initialState->assignProperty(initialCountSpinBox, \"minimum\", 1); initialState->assignProperty(initialCountSpinBox, \"maximum\", 100); initialState->assignProperty(initialCountSpinBox, \"value\", 60);"
+    ],
+    "title": [
+      "checked\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "tr(\"Res&ume\")); pausedState->assignProperty(this, \"running\", false);"
+    ],
+    "title": [
+      "pausedState = new QState(normalState); pausedState->assignProperty(pauseOrResumeButton, \"text\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "initialState->addTransition(initialState, SIGNAL(propertiesAssigned()), stoppedState); stoppedState->addTransition(startButton, SIGNAL(clicked()), runningState); runningState->addTransition(pauseOrResumeButton, SIGNAL(clicked()), pausedState); runningState->addTransition(stopButton, SIGNAL(clicked()), stoppedState); pausedState->addTransition(pauseOrResumeButton, SIGNAL(clicked()), runningState); pausedState->addTransition(stopButton, SIGNAL(clicked()), stoppedState); normalState->addTransition(quitButton, SIGNAL(clicked()), finalState);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "connect(runningState, SIGNAL(entered()), this, SLOT(start())); connect(pausedState, SIGNAL(entered()), this, SLOT(pause())); connect(&stateMachine, SIGNAL(finished()), this, SLOT(close())); "
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "extraStateMachine",
+        "given": "QStateMachine"
+      },
+      {
+        "family": "showExtraWidgetsState",
+        "given": "QState"
+      },
+      {
+        "family": "hideExtraWidgetsState",
+        "given": "QState"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "this); syntaxComboBox = new QComboBox(this); syntaxLabel->setBuddy(syntaxComboBox); syntaxComboBox->addItem(tr(\"Literal\"), QRegExp::FixedString); syntaxComboBox->addItem(tr(\"Regex\"), QRegExp::RegExp2); syntaxComboBox->addItem(tr(\"Wildcard\"), QRegExp::Wildcard); syntaxComboBox->setCurrentIndex(0);"
+    ],
+    "title": [
+      "wholeWordsCheckBox = new QCheckBox(tr(\"Whole Words Only\"), this); wholeWordsCheckBox->setChecked(false); syntaxLabel = new QLabel(tr(\"Syntax:\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "const int Duration = 1500"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "width()), sizeHint().height() + size.height()); animation->setEndValue(size); transition->addAnimation(animation);"
+    ],
+    "title": [
+      "animation = new QPropertyAnimation(this, \"size\"); animation->setDuration(Duration / 3); QSize size = extraSize(); size = QSize(qMax(size.width("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "For more about genie transitions see labs.qt.nokia.com/blogs/2008/12/15/genie-fx"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Epilogue"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "API Design Jasmin Blanchette",
+        "given": "The Little Manual",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "This very short document (www4.in.tum.de/~blanchet/api-design.pdf) provides ideas and insight into the design of APIs, and draws most of its examples from Qt"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Expressions",
+        "given": "Mastering Regular"
+      },
+      {
+        "family": "Friedl",
+        "given": "Third Edition Jeffrey E.F."
+      }
+    ],
+    "date": [
+      "2006",
+      "2007"
+    ],
+    "note": [
+      "PyQt can be used to create applications in their own right, and can also be used as a prototyping tool for C++/Qt programs. This page intentionally left blank"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "ISBN 0596528124) This is the standard text on regular expressions—a very interesting and useful book. Rapid GUI Programming with Python and Qt Mark Summerfield",
+      "ISBN 0132354187) This book teaches PyQt4 programing, probably the easiest route into Qt programming generally"
+    ],
+    "type": null
+  }
+]
