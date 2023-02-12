@@ -1,0 +1,6640 @@
+[
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "The authors would like to thank Professor Dr. Jörg Ott, co-chair of the SIP WG and early contributor to the MMUSIC WG for helping with data on SIP history"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "RFC stands for Request for Comments and many of them are Internet standards"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.I.P."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Johnston, Artech House"
+    ],
+    "title": [
+      "Understanding the Session Initiation Protocol, 2nd Edition, by Alan B"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gonzalo Camarillo",
+        "given": "S.I.P.Demystified",
+        "particle": "by"
+      },
+      {
+        "given": "McGraw-Hill"
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Henry Sinnreich",
+        "given": "S.I.P.Beyond VoIP",
+        "particle": "by"
+      },
+      {
+        "family": "Johnston",
+        "given": "Alan B."
+      },
+      {
+        "family": "Sparks",
+        "given": "Robert J."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "VON Publishing"
+    ],
+    "type": "book",
+    "url": [
+      "www.vonmag.com/books."
+    ]
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "title": [
+      "See the web site for P2P SIP at"
+    ],
+    "type": null,
+    "url": [
+      "www.p2psip.org."
+    ]
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "edition": [
+      "17th"
+    ],
+    "publisher": [
+      "by Harry Newton"
+    ],
+    "title": [
+      "Newton’s Telecommunications Dictionary"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "note": [
+      "Johnston et al. Internet draft, work in progress, IETF 2005."
+    ],
+    "title": [
+      "SIP Service Examples” by A"
+    ],
+    "type": null,
+    "url": [
+      "http://www1.ietf.org/internet-drafts/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Lennox",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Columbia University Tech/Report CUCS-010-99"
+    ],
+    "title": [
+      "Programming Internet Telephony Services"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "CPL: A Language for User Control of Internet Telephony Services"
+    ],
+    "translator": [
+      {
+        "family": "J. Lennox",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "RFC 3050. IETF"
+    ],
+    "date": [
+      "2001-01"
+    ],
+    "editor": [
+      {
+        "family": "J. Lennox",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "title": [
+      "Common Gateway Interface for SIP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "SUN Microsystems"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "SIP Specifications and the Java Platforms” P. O’Doherty et al"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "by P. Fallstrom et al. RFC 3761, IETF"
+    ],
+    "date": [
+      "2004-04"
+    ],
+    "title": [
+      "The E.164 to Uniform Resource Identifiers (URI) Dynamic Delegation Discovery System (DDDS) Application (ENUM"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Schulzrinne and C. Agboh. IETF"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "title": [
+      "SIP-H.323 Interworking Requirements” RFC 4123 by H"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "V. K",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "IETF"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "genre": [
+      "RFC 3976"
+    ],
+    "title": [
+      "Interworking SIP and IN Applications”",
+      "Gurbani et al"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "IETF"
+    ],
+    "date": [
+      "2001-12"
+    ],
+    "title": [
+      "MIME media types for ISUP and QSIG Objects”, RFC 3204 by E. Zimmerer et al"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "location": [
+      "Vemuri, IETF"
+    ],
+    "title": [
+      "SIP for Telephones: Context and Architectures”, RFC 3372 by A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "23"
+    ],
+    "note": [
+      "White paper by N. Deason, www.ubiquitysoftware .com/pdf/SIP_and_SOAP_1-3.pdf."
+    ],
+    "title": [
+      "SIP and SOAP”"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Lu et al. RFC 2458, IETF"
+    ],
+    "date": [
+      "1998-11"
+    ],
+    "title": [
+      "Toward the PSTN/Internet Inter-Networking—Pre-PINT Implementations” by H"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "genre": [
+      "RFC 3910,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The SPIRITS (Services in PSTN requesting Internet Services) Protocol” by V. Gurbani et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "26"
+    ],
+    "container-title": [
+      "by J. Rosenberg et al"
+    ],
+    "date": [
+      "2002-01"
+    ],
+    "title": [
+      "Telephony Routing over IP (TRIP"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "genre": [
+      "Internet draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP and SPAM"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "genre": [
+      "Internet draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Minimalist Security Framework for SIP” by H. Schulzrinne"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "29"
+    ],
+    "note": [
+      "See the Jericho Forum at www.opengroup.org/jericho."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "30"
+    ],
+    "container-title": [
+      "Varpiola. The Blackhat Briefings Conference"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "– – –05– –"
+    ],
+    "title": [
+      "The Art of SIP fuzzing and the Vulnerabilities found in VoIP” by M"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "by J. Waclawsky, Business Communication Review"
+    ],
+    "date": [
+      "2005-06"
+    ],
+    "title": [
+      "IMS 101: What You Need To Know"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.bcr.com/bcrmag/2005/06/p18.php."
+    ]
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Carpenter, RFC 1958, IETF"
+    ],
+    "date": [
+      "1986-06"
+    ],
+    "note": [
+      "Updated by RFC 3439."
+    ],
+    "title": [
+      "Architectural Principles of the Internet” by B"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "J. H. Saltzer",
+        "particle": "by"
+      },
+      {
+        "family": "Reed",
+        "given": "D.P."
+      },
+      {
+        "family": "Clark",
+        "given": "D.D."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "ACM TOCS"
+    ],
+    "date": [
+      "1984-11"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "277–288"
+    ],
+    "title": [
+      "End-To-End Arguments in System Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Carpenter, RFC 2775, IETF"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "title": [
+      "Internet Transparency” by B"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "pages": [
+      "– – – 05"
+    ],
+    "title": [
+      "ICFA SCIC Network Monitoring Report"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "RFC 3439 IETF"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "editor": [
+      {
+        "family": "R. Bush",
+        "particle": "by"
+      },
+      {
+        "family": "Meyer",
+        "given": "D."
+      }
+    ],
+    "title": [
+      "Some Internet Architectural Guidelines and Philosophy"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "S. Bradner",
+        "particle": "by"
+      },
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Rev"
+    ],
+    "date": [
+      "2026",
+      "1996-10"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The Internet Standards Process"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "note": [
+      "see:"
+    ],
+    "title": [
+      "Extensible Markup Language (XML) of the World Wide Web Consortium"
+    ],
+    "type": null,
+    "url": [
+      "www.w3.org/XML."
+    ]
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Schulzrinne, Dept. of Computer Science, Columbia University class"
+    ],
+    "title": [
+      "Modern Internet Architecture and Technology” by H"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Microsoft Technet"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Understanding DNS"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://technet"
+    ]
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "DNS Tutorial at the 63 IETF"
+    ],
+    "type": null,
+    "url": [
+      "http://edu.ietf.org/node/view/48."
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "RFC 3761, IETF"
+    ],
+    "date": [
+      "2004-04"
+    ],
+    "editor": [
+      {
+        "family": "P. Fallstrom",
+        "particle": "by"
+      },
+      {
+        "family": "Mealing",
+        "given": "M."
+      }
+    ],
+    "title": [
+      "The E.164 to Uniform Resource Identifiers (URI) Dynamic Delegation Discovery System (DDDS) Application (ENUM"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "by T. Berners-Lee. RFC 1630, IETF"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "title": [
+      "Universal Resource Identifiers in WWW: A Unifying Syntax for the Expression of Names and Addresses of Objects on the Network as used in the World-Wide Web"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "title": [
+      "See the IANA home page at www.iana.org"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Hoffman et al. RFC 2368"
+    ],
+    "date": [
+      "1998-07"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The mailto URL scheme” by P"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "RFC 1738, IETF"
+    ],
+    "date": [
+      "1994-12"
+    ],
+    "title": [
+      "Uniform Resource Locators” by T. Berners-Lee et al",
+      "This RFC has the level of a proposed standard, and there are several other RFCs with updates"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "RFC"
+    ],
+    "date": [
+      "2004-12"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The tel URI for Telephone Numbers” by H. Schulzrinne"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3966"
+    ]
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "RFC 3261,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP: Session Initiation Protocol"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "by P. Mockapetris. RFC 1034, IETF"
+    ],
+    "date": [
+      "1987-11"
+    ],
+    "title": [
+      "Domain Names—Concepts and Facilities"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "RFC 2219, IETF"
+    ],
+    "date": [
+      "1997-10"
+    ],
+    "editor": [
+      {
+        "family": "M. Hamilton",
+        "particle": "by"
+      },
+      {
+        "family": "Wright",
+        "given": "R."
+      }
+    ],
+    "title": [
+      "Use of DNS Aliases for Network Services"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "by A. Gulbrandsen et al. RFC 2782, IETF"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "title": [
+      "A DNS RR for specifying the location of services (DNS SRV"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "RFC 3263,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP): Locating SIP Servers"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "title": [
+      "The Web site for the North American ENUM trial is"
+    ],
+    "type": null,
+    "url": [
+      "http://enumllc"
+    ]
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "title": [
+      "The Web site for the European ENUM working group is www.ripe .net/ripe/wg"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16"
+    ],
+    "pages": [
+      "– – – –04–"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "note": [
+      "by J. Yu, Internet draft, IETF, November 2004, work in progress."
+    ],
+    "title": [
+      "New Parameters for the “tel” URI to Support Number Portability"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "note": [
+      "by J. Yu. Internet Draft, work in progress, IETF,"
+    ],
+    "title": [
+      "New Parameters for the ‘tel’ URI to Support Number Portability"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D. Petri",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "IETF"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "title": [
+      "A Framework for Session Initiation Protocol User Agent Profile Delivery",
+      "Internet Draft, work in progress"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "2006-01"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "IANA Registration for an Enumservice and ‘tel’ Parameter for Calling Name Delivery (CNAM) Information"
+    ],
+    "translator": [
+      {
+        "family": "R. Shockey",
+        "particle": "by"
+      },
+      {
+        "family": "Livingood",
+        "given": "J."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R. Arends",
+        "particle": "by"
+      },
+      {
+        "family": "Austein",
+        "given": "R."
+      },
+      {
+        "family": "Larson",
+        "given": "M."
+      },
+      {
+        "family": "Massey",
+        "given": "D."
+      },
+      {
+        "family": "Rose",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "2005-03"
+    ],
+    "genre": [
+      "RFC 4033,"
+    ],
+    "title": [
+      "DNS Security Introduction and Requirements"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "container-title": [
+      "The IETF WG on DNS extensions, see"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://ietf.org/html"
+    ]
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Publishers; ISBN",
+      "New York"
+    ],
+    "publisher": [
+      "Mark Handley, Ian Wakeman. Morgan Kaufmann",
+      "1558605843"
+    ],
+    "title": [
+      "Internetworking Multimedia” by Jon Crowcroft"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "V. Cerf",
+        "particle": "by"
+      },
+      {
+        "family": "Kahn",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "IEEE Transactions for Communications"
+    ],
+    "date": [
+      "1974-05"
+    ],
+    "note": [
+      "This paper is available online at several Web sites, see for example www.cse .ucsc.edu/research/ccrg/CMPE252/Papers/1974.pdf."
+    ],
+    "title": [
+      "A Protocol for Packet Network Intercommunication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Com-22"
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "RFC 2101"
+    ],
+    "date": [
+      "1997-02"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "IPv4 Address Behavior Today” by B. Carpenter et al"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "B. Quinn",
+        "particle": "by"
+      },
+      {
+        "family": "Almeroth",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2002-09"
+    ],
+    "genre": [
+      "RFC 3170."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "IP Multicast Applications: Challenges and Solutions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1996-02"
+    ],
+    "genre": [
+      "Internet-Draft,"
+    ],
+    "title": [
+      "The Internet Multimedia Conferencing Architecture"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Savetz et al. IDG"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "MBone: Multicasting Tomorrow’s Internet” by K"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Real-Time Internet Multimedia"
+    ],
+    "title": [
+      "The text of this book is available online at www.savetz.com/mbone"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "95"
+    ]
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Proceedings of the Internet Measurement Conference 2004 (IMC"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "editor": [
+      {
+        "family": "K. Sripanidkulchai",
+        "particle": "by"
+      },
+      {
+        "family": "Maggs",
+        "given": "B."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      }
+    ],
+    "location": [
+      "Taormina, Sicily, Italy"
+    ],
+    "title": [
+      "An Analysis of Live Streaming Workloads on the Internet"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "www.akamai.com."
+    ]
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "O’Riley"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "title": [
+      "What Is Web 2.0?” by T"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.oreillynet .com/pub/a/oreilly/tim/news/2005/09/30/what-is-Web-20 .html."
+    ]
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "IEEE Journal on Selected Areas in Communications"
+    ],
+    "date": [
+      "2002-10"
+    ],
+    "title": [
+      "Scribe: A large-scale and decentralized application level multicast infrastructure” by M. Castro et al"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "IEEE Infocom"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "An evaluation of Scalable Application-level Multicast Built Using Peerto-peer Overlays” by M. Castro et al"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Application Level Multicast using Content-Addressable Networks” by S. Ratnasamy et al"
+    ],
+    "type": "book",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "RFC 2439"
+    ],
+    "date": [
+      "1998-11"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "BGP Route Flap Damping” by C. Villamizar et al"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "RFC 3260"
+    ],
+    "date": [
+      "2002-04"
+    ],
+    "editor": [
+      {
+        "family": "D. Grossman",
+        "particle": "by"
+      }
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "New Terminology and Clarifications for Diffserv"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1997-09"
+    ],
+    "genre": [
+      "RFC 2210,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The Use of RSVP with IETF Integrated Services"
+    ],
+    "translator": [
+      {
+        "family": "J. Wroklawski",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2001-01"
+    ],
+    "genre": [
+      "RFC 3031,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Multiprotocol Label Switching Architecture” by E. Rosen et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Boyle",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "genre": [
+      "RFC 3346,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Applicability Statement for Traffic Engineering with MPLS"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "2003-07"
+    ],
+    "genre": [
+      "RFC 3550,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "RTP: A Transport Protocol for Real-Time Applications” by H. Schulzrinne et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Schulzrinne et al. IETF"
+    ],
+    "date": [
+      "2003-07"
+    ],
+    "title": [
+      "RTP Profile for Audio and Video Conferences with Minimal Control” by H"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "by A. Li. RFC 3558, IETF"
+    ],
+    "date": [
+      "2003-07"
+    ],
+    "title": [
+      "RTP Payload Format for Enhanced Variable Rate Codecs (EVRC) and Selectable Mode Vocoders (SMV"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "by H. Schulzrinne et al. RFC 2326, IETF"
+    ],
+    "date": [
+      "1998-04"
+    ],
+    "title": [
+      "Real Time Streaming Protocol (RTSP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "RFC 2327, IETF"
+    ],
+    "date": [
+      "1998-04"
+    ],
+    "editor": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "family": "Jacobson",
+        "given": "V."
+      }
+    ],
+    "title": [
+      "SDP: Session Description Protocol"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "2000-10"
+    ],
+    "genre": [
+      "RFC 2974,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Session Announcement Protocol"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "2004-07"
+    ],
+    "genre": [
+      "RFC 3851,"
+    ],
+    "title": [
+      "Secure/Multipurpose Internet Mail Extensions (S/MIME) Version 3.1 Message Specification” by Ramsdell, B"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "RFC 4210, IETF, September 2005. CHAPTER"
+    ],
+    "title": [
+      "Internet X.509 Public Key Infrastructure Certificate Management Protocol (CMP)”by C. Adams et al"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2002-11"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Guidelines for Authors of Extensions to SIP"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fielding",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1999"
+    ],
+    "genre": [
+      "IETF RFC 2616,"
+    ],
+    "title": [
+      "Hypertext Transfer Protocol — HTTP/1.1"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1982"
+    ],
+    "genre": [
+      "IETF RFC 821,"
+    ],
+    "title": [
+      "Simple Mail Transfer Protocol"
+    ],
+    "translator": [
+      {
+        "family": "J. Postel",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "S. Donovan",
+        "particle": "by"
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2004-02"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Session Timers in SIP",
+      "Internet Draft"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "family": "Crowcroft",
+        "given": "J."
+      },
+      {
+        "family": "Borman",
+        "given": "C."
+      },
+      {
+        "family": "Ott",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2000-07"
+    ],
+    "genre": [
+      "IETF Internet-Draft,"
+    ],
+    "publisher": [
+      "Work in Progress"
+    ],
+    "title": [
+      "The Internet Multimedia Conferencing Architecture"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      },
+      {
+        "family": "Handley",
+        "given": "M."
+      },
+      {
+        "family": "Schooler",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "RFC 3261,"
+    ],
+    "title": [
+      "SIP: Session Initiation Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.I.P."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Johnston"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Understanding the Session Initiation Protocol by A"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Braden, IETF"
+    ],
+    "title": [
+      "RFC 1121: Requirements for Internet Hosts — Communication Layers” by R"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "by A. Gulbrandsen. IETF RFC 2782"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "A DNS RR for specifying the location of services (DNS SRV"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "P. Faltstrom. IETF RFC 2916"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "E.164 number and DNS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2004-11"
+    ],
+    "genre": [
+      "IETF Internet-Draft,"
+    ],
+    "publisher": [
+      "Work in Progress"
+    ],
+    "title": [
+      "SCTP as a Transport for SIP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "family": "Jacobson",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "IETF RFC 2327,"
+    ],
+    "title": [
+      "SDP: Session Description Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D. Kutscher",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "genre": [
+      "IETF Internet Draft,"
+    ],
+    "publisher": [
+      "Work in Progress"
+    ],
+    "title": [
+      "Requirements for Session Description and Capability Negotiation"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "Donovan. IETF RFC 2976"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "The SIP INFO Method” by S"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "genre": [
+      "RFC 3515,"
+    ],
+    "title": [
+      "The Session Initiation Protocol (SIP) Refer Method” by R. Sparks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "H. Sinnreich",
+        "particle": "by"
+      },
+      {
+        "family": "Rawlins",
+        "given": "D."
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Donovan",
+        "given": "S."
+      },
+      {
+        "family": "Thomas",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "AAA Usage for IP Telephony with QoS",
+      "Internet Draft"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.aaaarch.org/pittsburgh/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "A. Johnston",
+        "particle": "by"
+      },
+      {
+        "family": "Rawlins",
+        "given": "D."
+      },
+      {
+        "family": "Sinnreich",
+        "given": "H."
+      },
+      {
+        "family": "Thomas",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "Internet Engineering Task Force"
+    ],
+    "title": [
+      "OSP Authorization Token Header for SIP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "G. Gross",
+        "particle": "by"
+      },
+      {
+        "family": "Sinnreich",
+        "given": "H."
+      },
+      {
+        "family": "Rawlins",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "QoS and AAA Usage with SIP Based IP Communications",
+      "Internet Draft"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.iptel.org/ietf/aaa/draft-gross-copssip.01.txt."
+    ]
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Herzog. IETF RFC 2750"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "RSVP Extensions for Policy Control” by S"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "S. Blake.",
+        "particle": "by"
+      },
+      {
+        "family": "Black",
+        "given": "D."
+      },
+      {
+        "family": "Carlson",
+        "given": "M."
+      },
+      {
+        "family": "Davies",
+        "given": "E."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Weiss",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "IETF RFC 2475,"
+    ],
+    "title": [
+      "An Architecture for Differentiated Services"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "title": [
+      "Information about PacketCable is available at"
+    ],
+    "type": null,
+    "url": [
+      "www.packetcable.com."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      },
+      {
+        "family": "Handley",
+        "given": "M."
+      },
+      {
+        "family": "Schooler",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "RFC 3261,"
+    ],
+    "title": [
+      "SIP: Session Initiation Protocol"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "editor": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "genre": [
+      "RFC 3262,"
+    ],
+    "title": [
+      "Reliability of Provisional Responses in Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "genre": [
+      "IETF Internet-Draft,"
+    ],
+    "publisher": [
+      "Work in Progress"
+    ],
+    "title": [
+      "Architectural Considerations for Providing Carrier Class Telephony Services Utilizing SIP-based Distributed Call Control Mechanisms” by W. Marshall, et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "editor": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "J.",
+        "given": "Schulzrinne"
+      },
+      {
+        "family": "H."
+      },
+      {
+        "family": "Kyzivat",
+        "given": "P."
+      }
+    ],
+    "genre": [
+      "RFC 3841,"
+    ],
+    "title": [
+      "Caller Preferences for the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B. Campbell",
+        "particle": "by"
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Huitema",
+        "given": "C."
+      },
+      {
+        "family": "Gurle",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "genre": [
+      "RFC 3428,"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP) Extension for Instant Messaging"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "Roach. RFC 3265,"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP)-Specific Event Notification” by A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "S. Petrack",
+        "particle": "by"
+      },
+      {
+        "family": "Conroy",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "IETF RFC 2848,"
+    ],
+    "title": [
+      "The PINT Service Protocol: Extensions to SIP and SDP for IP Access to Telephone Call Services"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "29"
+    ],
+    "publisher": [
+      "Roach. IETF Internet Draft, Work in Progress"
+    ],
+    "title": [
+      "Automatic Call Back Service in SIP” by A"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "30"
+    ],
+    "editor": [
+      {
+        "family": "S. Kent",
+        "particle": "by"
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "title": [
+      "Security Architecture for the Internet Protocol"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Campbell. IETF Internet draft, work in progress"
+    ],
+    "date": [
+      "2001-03"
+    ],
+    "title": [
+      "Framework for SIP Call Control Extensions” by B"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "IETF RFC 2824,"
+    ],
+    "title": [
+      "CPL: A Language for User Control of Internet Telephony Services"
+    ],
+    "translator": [
+      {
+        "family": "Lennox",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "T. Bray",
+        "particle": "by"
+      },
+      {
+        "family": "Paoli",
+        "given": "J."
+      },
+      {
+        "given": "C.M."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2000-10"
+    ],
+    "edition": [
+      "2nd edition)”"
+    ],
+    "genre": [
+      "Sperberg-McQueen.W3C Recommendation REC-xml-20001006,"
+    ],
+    "publisher": [
+      "World Wide Web Consortium"
+    ],
+    "title": [
+      "Extensible Markup Language (XML) 1.0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "by ISO (International Organization for Standardization), ISO Standard ISO 8879:1986(E), International Organization for Standardization"
+    ],
+    "date": [
+      "1986-10"
+    ],
+    "location": [
+      "Geneva, Switzerland"
+    ],
+    "title": [
+      "Information Processing —Text and Office Systems —Standard Generalized Markup Language (SGML"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "World Wide Web Consortium) Web page at:"
+    ],
+    "title": [
+      "HTML information is available at the W3C"
+    ],
+    "type": null,
+    "url": [
+      "http://w3.org/MarkUp."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J. Lennox",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "IETF RFC 3050,"
+    ],
+    "title": [
+      "Common Gateway Interface for SIP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "A. Kristensen",
+        "particle": "by"
+      },
+      {
+        "family": "Byttner",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "1999-09"
+    ],
+    "pages": [],
+    "title": [
+      "The SIP Servlet API",
+      "Internet Draft"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "K. Peterbauer",
+        "given": "S.I.P.Servlet A.P.I.Extensions”",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "note": [
+      "IETF Internet Draft, 2000, work in progress."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "JSR-000032",
+        "given": "J.A.I.N."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "title": [
+      "SIP Specification is available at"
+    ],
+    "type": null,
+    "url": [
+      "http://java.sun"
+    ]
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "title": [
+      "VoiceXML information is available at the VoiceXML Forum web page at"
+    ],
+    "type": null,
+    "url": [
+      "http://voicexml.org."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Kizivat",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "genre": [
+      "RFC 3841,"
+    ],
+    "title": [
+      "Caller Preferences for the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "editor": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Kizivat",
+        "given": "P."
+      }
+    ],
+    "genre": [
+      "RFC 3840,"
+    ],
+    "title": [
+      "Indicating User Agent Capabilities in the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "title": [
+      "Guidelines for Usage of the Session Initiation Protocol (SIP) Caller Preferences Extension"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Kizivat",
+        "given": "P."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lennox",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2001-05"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "note": [
+      "CHAPTER"
+    ],
+    "title": [
+      "CPL: A Language for User Control of Internet Telephony Services"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      },
+      {
+        "family": "Handley",
+        "given": "M."
+      },
+      {
+        "family": "Schooler",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "RFC 3261,"
+    ],
+    "title": [
+      "SIP: Session Initiation Protocol"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "A. Johnston",
+        "particle": "by"
+      },
+      {
+        "family": "Piscitello",
+        "given": "D."
+      }
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Understanding VoIP Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "J. Franks",
+        "particle": "by"
+      },
+      {
+        "family": "Hallam-Baker.",
+        "given": "P."
+      },
+      {
+        "family": "Hostetler",
+        "given": "J."
+      },
+      {
+        "family": "Lawrence",
+        "given": "S."
+      },
+      {
+        "family": "Leach",
+        "given": "P."
+      },
+      {
+        "family": "Luotonen",
+        "given": "A."
+      },
+      {
+        "family": "Stewart",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "genre": [
+      "RFC 2617,"
+    ],
+    "title": [
+      "HTTP Authentication: Basic and Digest Access Authentication"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1999-01"
+    ],
+    "editor": [
+      {
+        "given": "Dierks"
+      },
+      {
+        "family": "IETF",
+        "given": "C.Allen"
+      }
+    ],
+    "title": [
+      "The TLS Protocol version 1.0. RFC 2401 by T"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C. Jennings",
+        "particle": "by"
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "work in progress), October 2004."
+    ],
+    "title": [
+      "Certificate Management Service for SIP",
+      "Internet-Draft, draft-ietf-sipping-certs-00"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "IETF Internet-Draft,"
+    ],
+    "title": [
+      "Connection-Oriented Media Transport over the Transport Layer Security (TLS) Protocol in the Session Description Protocol (SDP"
+    ],
+    "translator": [
+      {
+        "family": "J. Lennox",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "title": [
+      "See the Wi-Fi Alliance at www.wi-fi.org"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "S. Kent",
+        "particle": "by"
+      },
+      {
+        "family": "Seo",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2005-12"
+    ],
+    "genre": [
+      "RFC 4301,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Security Architecture for the Internet Protocol"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "by P. Hoffman et al. RFC 2634"
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Enhanced Security Services for S/MIME"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "RFC"
+    ],
+    "date": [
+      "2002-11"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Private Extensions to the Session Initiation Protocol (SIP) for Asserted Identity within Trusted Networks”by C. Jennings et al"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3325"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J. Peterson",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2004-09"
+    ],
+    "genre": [
+      "IETF Internet-Draft, draft-ietf-sipidentity-03, work in progress,"
+    ],
+    "title": [
+      "Enhancements for Authenticated Identity Management in the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "RFC 3711"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "editor": [
+      {
+        "family": "M. Baugher",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The Secure Real-time Transport Protocol (SRTP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "RFC 2327, IETF"
+    ],
+    "date": [
+      "1998-04"
+    ],
+    "editor": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "family": "Jacobson",
+        "given": "M."
+      }
+    ],
+    "title": [
+      "SDP: Session Description Protocol"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "by J. Arkko et al. RFC 3880"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "MIKEY: Multimedia Internet KEYing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "J. Arkko",
+        "particle": "by"
+      },
+      {
+        "family": "Carrara",
+        "given": "E."
+      },
+      {
+        "family": "Lindholm",
+        "given": "F."
+      },
+      {
+        "family": "Naslund",
+        "given": "M."
+      },
+      {
+        "family": "Norrman",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2004-11"
+    ],
+    "genre": [
+      "Internet-Draft work in progress,"
+    ],
+    "title": [
+      "Key Management Extensions for Session Description Protocol (SDP) and Real Time Streaming Protocol (RTSP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "work in progress"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "editor": [
+      {
+        "family": "Andreasen",
+        "given": "F."
+      },
+      {
+        "family": "Baugher",
+        "given": "M."
+      },
+      {
+        "family": "Wing",
+        "given": "D."
+      }
+    ],
+    "title": [
+      "Session Description Protocol Security Descriptions for Media Streams"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "2004-06"
+    ],
+    "title": [
+      "Datagram Transport Layer Security"
+    ],
+    "translator": [
+      {
+        "family": "E. Rescorla",
+        "particle": "by"
+      },
+      {
+        "family": "TBD",
+        "given": "N.Modadugu R.F.C."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Fischl",
+        "particle": "by"
+      },
+      {
+        "family": "Tschofenig",
+        "given": "H."
+      },
+      {
+        "family": "Rescorla",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "genre": [
+      "IETF Internet-Draft,"
+    ],
+    "publisher": [
+      "Work in Progress"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP) for Media Over Datagram Transport Layer Security (DTLS"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "P. Zimmermann",
+        "particle": "by"
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "genre": [
+      "IETF Internet-Draft,"
+    ],
+    "publisher": [
+      "Work in Progress"
+    ],
+    "title": [
+      "ZRTP: Extensions to RTP for Diffie-Hellman Key Agreement for SRTP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "2006-01"
+    ],
+    "editor": [
+      {
+        "family": "Ylonen",
+        "given": "T.",
+        "particle": "by"
+      },
+      {
+        "family": "RFC",
+        "given": "C.Lonvick"
+      }
+    ],
+    "title": [
+      "SSH Protocol Architecture"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1994-05"
+    ],
+    "genre": [
+      "IETF RFC 1631,"
+    ],
+    "title": [
+      "The IP Network Address Translator"
+    ],
+    "translator": [
+      {
+        "family": "K. Egevang",
+        "particle": "by"
+      },
+      {
+        "family": "Francis",
+        "given": "P."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Hain. IETF RFC 2993"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Architectural Implications of NAT” by T"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "genre": [
+      "IETF RFC 2277,"
+    ],
+    "title": [
+      "Internet Transparency"
+    ],
+    "translator": [
+      {
+        "family": "B. Carpenter",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2001-03"
+    ],
+    "genre": [
+      "IETF Internet draft,",
+      "work in progress."
+    ],
+    "title": [
+      "NAT Friendly Application Design Guidelines” by D. Senie"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D. Wing",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2005-06"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "title": [
+      "Common Local Transmit and Receive Ports (Symmetric RTP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Weinberger",
+        "given": "J."
+      },
+      {
+        "family": "Huitema",
+        "given": "C."
+      },
+      {
+        "family": "Mahy",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2003-03"
+    ],
+    "genre": [
+      "RFC 3489,"
+    ],
+    "title": [
+      "STUN—Simple Traversal of User Datagram Protocol (UDP) Through Network Address Translators (NATs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Mahy",
+        "given": "R."
+      },
+      {
+        "family": "Huitema",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "title": [
+      "Traversal Using Relay NAT(TURN"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "title": [
+      "Interactive Connectivity Establishment (ICE): A Methodology for Network Address Translator (NAT) Traversal for Offer/Answer Protocols"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boulton",
+        "given": "C."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Camarillo",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "title": [
+      "Best Current Practices for NAT Traversal for SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2003-12"
+    ],
+    "genre": [
+      "IETF RFC 3665,"
+    ],
+    "title": [
+      "SIP Basic Call Flow Examples” by A. Johnston, et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C. Jennings",
+        "particle": "by"
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Watson",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2002-11"
+    ],
+    "genre": [
+      "IETF RFC 3325,"
+    ],
+    "title": [
+      "Private Extensions to the Session Initiation Protocol (SIP) for Asserted Identity within Trusted Networks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C. Jennings",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "2003-03"
+    ],
+    "note": [
+      "CHAPTER"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Managing Client Initiated Connections in SIP",
+      "Internet Draft"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "A. Vemuri",
+        "particle": "by"
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2002-09"
+    ],
+    "genre": [
+      "IETF RFC 3372,"
+    ],
+    "title": [
+      "Session Initiation Protocol for Telephones (SIP-T): Context and Architectures"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2000-06"
+    ],
+    "genre": [
+      "IETF RFC 2871,"
+    ],
+    "title": [
+      "A framework for Telephony Routing Over IP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "M. Bangalore",
+        "particle": "by"
+      },
+      {
+        "family": "Kumar",
+        "given": "R."
+      },
+      {
+        "family": "Salama",
+        "given": "H."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Shah",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "Internet Draft, work in progress,"
+    ],
+    "title": [
+      "A Telephony Gateway REgistration Protocol (TGREP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "IETF RFC 3666, BCP 76"
+    ],
+    "date": [
+      "2003-12"
+    ],
+    "editor": [
+      {
+        "family": "A. Johnston",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "G. Camarillo",
+        "particle": "by"
+      },
+      {
+        "family": "Roach",
+        "given": "A."
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Ong",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "genre": [
+      "IETF RFC 3398,"
+    ],
+    "title": [
+      "SIP to ISUP Mapping"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "E. Zimmerer",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2001-12"
+    ],
+    "genre": [
+      "IETF RFC 3204,"
+    ],
+    "title": [
+      "MIME Media Types for ISUP and QSIG"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "note": [
+      "Johnston, et al. IETF Internet Draft, February 2006, work in progress."
+    ],
+    "title": [
+      "SIP Service Examples” by A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R. Sparks",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "genre": [
+      "RFC 3515,"
+    ],
+    "title": [
+      "The Session Initiation Protocol (SIP",
+      "Refer Method"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R. Sparks",
+        "particle": "by"
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Petrie",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "title": [
+      "SIP Call Control – Transfer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Lennox",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Porta",
+        "given": "T.",
+        "particle": "La"
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1999-01"
+    ],
+    "genre": [
+      "Technical Report CUCS-002-99,"
+    ],
+    "publisher": [
+      "Columbia University Computer Science"
+    ],
+    "title": [
+      "Implementing Intelligent Network Services with the Session Initiation Protocol"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Camarillo",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2004-04"
+    ],
+    "genre": [
+      "RFC 3725,"
+    ],
+    "title": [
+      "Best Current Practices for Third Party Call Control (3pcc) in the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "by R. Mahy, et al. Work in progress"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "title": [
+      "A Call Control and Multi-Party Usage Framework for the Session Initiation Protocol (SIP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "IETF Internet Draft"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "editor": [
+      {
+        "family": "R. Mahy",
+        "particle": "by"
+      },
+      {
+        "family": "Jennings",
+        "given": "C."
+      }
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "title": [
+      "Remote Call Control in SIP using the REFER Method and the Session-Oriented Dialog Package"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "H. Schulzrinne",
+        "particle": "by"
+      },
+      {
+        "family": "Singh",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2000-09-11"
+    ],
+    "location": [
+      "Atlanta, Georgia"
+    ],
+    "publisher": [
+      "IP Telecom Services Workshop"
+    ],
+    "title": [
+      "Unified Messaging Using SIP and RTSP"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "RFC2326, IETF"
+    ],
+    "date": [
+      "1998-04"
+    ],
+    "editor": [
+      {
+        "family": "H. Schulzrinne",
+        "particle": "by"
+      },
+      {
+        "family": "Rao",
+        "given": "A."
+      },
+      {
+        "family": "Lanphier",
+        "given": "R."
+      }
+    ],
+    "title": [
+      "Real-Time Streaming Protocol (RTSP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "Internet Draft, IETF, October 2005, work in progress."
+    ],
+    "title": [
+      "Guidelines for Usage of the SIP Caller Preferences Extension"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Kyzivat",
+        "given": "P."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2001-04"
+    ],
+    "genre": [
+      "RFC 3087,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Control of Service Context Using SIP Request-URI"
+    ],
+    "translator": [
+      {
+        "family": "B. Campbell",
+        "particle": "by"
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jennings",
+        "given": "C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP URIs for Applications such as Voicemail and Interactive Voice"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "RFC 4244, IETF"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "editor": [
+      {
+        "family": "M. Barnes",
+        "particle": "by"
+      }
+    ],
+    "title": [
+      "An Extension to the Session Initiation Protocol (SIP) for Request History Information"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "Roach. RFC 3265,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP-Specific Event Notification” by A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "genre": [
+      "RFC 3842,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Message Summary and Message Waiting Indication Event Package for SIP” by R. Mahy"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R. Mahy",
+        "particle": "by"
+      },
+      {
+        "family": "Slain",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2000-07"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP Extensions for Message Waiting Indication",
+      "Expired Internet Draft"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "genre": [
+      "RFC 3860,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Common Profile for Instant Messaging"
+    ],
+    "translator": [
+      {
+        "family": "J. Peterson",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "genre": [
+      "RFC 3265,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP)-Specific Event Notification"
+    ],
+    "translator": [
+      {
+        "family": "A. B. Roach",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Y. Nomura",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP Event Notification for Internet Media Guides",
+      "Internet Draft"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "genre": [
+      "RFC 3680."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A SIP Event Package for Registrations"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "genre": [
+      "RFC 4235,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "An INVITE Initiated Dialog Event Package for SIP"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Mahy. Internet Draft. IETF"
+    ],
+    "date": [
+      "2002-10"
+    ],
+    "title": [
+      "A Message Summary and Message Waiting Indication Event Package for SIP” by R"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "by J. Rosenberg et al. Internet Draft"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "title": [
+      "A SIP Event Package for Conference State"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "genre": [
+      "Garcia-Martin:. Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A SIP Event Package and Data Format for Various Settings in Support for the Push-to-talk Over Cellular (PoC) Service” by A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "title": [
+      "SIP Event Package for Keys” B. Culpepper et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2005-12"
+    ],
+    "genre": [
+      "Internet Draft,",
+      "work in progress."
+    ],
+    "title": [
+      "A SIP Event Package for Key Press Stimulus” by E. Burger et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "by R. Mahy. Internet Draft"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Location Event Package using the Session Initiation Protocol (SIP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "al",
+        "particle": "by M. Rahman at"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Session Initiation Protocol (SIP) Event Package for Device Information"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "2002-09"
+    ],
+    "location": [
+      "Internet Draft, IETF"
+    ],
+    "title": [
+      "Toward the Definition of the SIP Events Package for SPIRITS Protocol” I. Faynberg et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "by J. M. Polk. Internet Draft. IETF"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "title": [
+      "Extending SIP Reason Header for Preemption Events"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "genre": [
+      "RFC 3856."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Presence Event Package for SIP"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "genre": [
+      "RFC 2779,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Instant Messaging/Presence Protocol Requirements” by M. Day et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "by H. Sugano et al. RFC 3863. IETF"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "title": [
+      "Presence Information Data Format (PIDF"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Day. RFC 2778"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Model for Presence and Instant Messaging” by M"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Data Model for Presence"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "genre": [
+      "RFC 3994."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Indication of Message Composition for Instant Messaging” by H. Schulzrinne"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "note": [
+      "by H. Schulzrinne et al. Internet Draft, IETF September 2005, work in progress."
+    ],
+    "title": [
+      "RPID: Rich Presence Extensions to the Presence Information Data Format (PIDF"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Internet Draft,",
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The Message Session Relay Protocol” by B. Campbell et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C. Jennings",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Relay Extensions for the Message Sessions Relay Protocol (MSRP",
+      "Internet Draft"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "2000-12"
+    ],
+    "genre": [
+      "RFC 3428,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP) Extension for Instant Messaging” by B. Campbell et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "M. Handley",
+        "particle": "by"
+      },
+      {
+        "family": "Crowcroft",
+        "given": "J."
+      },
+      {
+        "family": "Borman",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2000-07"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The Internet Multimedia Conferencing Architecture",
+      "Internet Draft"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H. Schulzrinne",
+        "particle": "by"
+      },
+      {
+        "family": "Agboh",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "RFC 4123,"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP)-H.323",
+      "Interworking Requirements"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "genre": [
+      "RFC 4353,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Framework for Conferencing with the Session Initiation Protocol"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "O. Levin",
+        "particle": "by"
+      },
+      {
+        "family": "Even",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "genre": [
+      "IETF RFC 4245,"
+    ],
+    "title": [
+      "High-Level Requirements for Tightly Coupled SIP Conferencing"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "IETF Internet Draft, June 2005, work in progress."
+    ],
+    "title": [
+      "Session Initiation Protocol Call Control - Conferencing for User Agents"
+    ],
+    "translator": [
+      {
+        "family": "A. Johnston",
+        "particle": "by"
+      },
+      {
+        "family": "Levin",
+        "given": "O."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "editor": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "genre": [
+      "Kizivat RFC 3840,"
+    ],
+    "title": [
+      "Indicating User Agent Capabilities in the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Levin.”",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "IETF Internet Draft,",
+      "work in progress."
+    ],
+    "title": [
+      "A Session Initiation Protocol (SIP) Event Package for Conference State"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Sparks"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "title": [
+      "The Session Initiation Protocol (SIP) Refer Method, RFC 3515” by R"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "type": null,
+    "url": [
+      "www.ietf.org/html.charters/xcon-charter.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "M. Barnes",
+        "particle": "by"
+      },
+      {
+        "family": "Boulton",
+        "given": "C."
+      },
+      {
+        "family": "Levin",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "IETF Internet Draft,",
+      "work in progress."
+    ],
+    "title": [
+      "A Framework and Data Model for Centralized Conferencing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "G. Camarillo",
+        "particle": "by"
+      },
+      {
+        "family": "Ott",
+        "given": "J."
+      },
+      {
+        "family": "Drage",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "genre": [
+      "IETF Internet Draft,"
+    ],
+    "note": [
+      "work in progress. CHAPTER"
+    ],
+    "title": [
+      "The Binary Floor Control Protocol (BFCP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "title": [
+      "See the web site for OMA at www.openmobilealliance.org"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "IEEE Internet Computing"
+    ],
+    "date": [
+      "1999-07"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "89–92"
+    ],
+    "title": [
+      "W* Effect Considered Harmful” by R. Khare"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "pages": [
+      "271"
+    ],
+    "publisher": [
+      "SIP Application Level Mobility"
+    ],
+    "title": [
+      "The 3GPP web site is www.3gpp.org"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Waclawski. Business Communications Review"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "note": [
+      "A summary of this article is also available online at"
+    ],
+    "pages": [
+      "54–58"
+    ],
+    "title": [
+      "IMS: A Critique of the Grand Plan” by J"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.bcr.com/bcrmag/2005/10/p54.php."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "al",
+        "particle": "by F. Vakil et."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "IETF"
+    ],
+    "date": [
+      "2001-12"
+    ],
+    "title": [
+      "Supporting Service Mobility with SIP",
+      "Internet Draft, archive"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd"
+    ],
+    "title": [
+      "IP for 3G: Networking Technologies for Mobile Communications by D. Wisely et al"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Schulzrinne and E. Wedlund. Mobile Computing and Communications Review"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Application-Layer Mobility Using SIP” by H"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.cs.columbia.edu/~hgs/papers/Schu0007_Application.pdf."
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Columbia University"
+    ],
+    "title": [
+      "SIP for Mobility” by H. Schulzrinne"
+    ],
+    "type": "book",
+    "url": [
+      "www.cs .columbia.edu/~hgs/papers/2001/sip2001_mobility.pdf."
+    ]
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1997-03"
+    ],
+    "genre": [
+      "RFC 2131,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Dynamic Host Configuration Protocol” by R. Droms"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10]”DHCP"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "genre": [
+      "RFC 3361,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Option for SIP Servers” by H. Schulzrinne"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Mahy et al. Internet Draft. IETF"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "title": [
+      "A Call Control and Multi-party usage framework for SIP” by R"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "genre": [
+      "RFC 3515,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The SIP Refer Method” by R. Sparks"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "2005-03"
+    ],
+    "genre": [
+      "Internet Draft,",
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Indicating Media Handling Features in SIP for Seamless Session Mobility” by Xu Mingqiang"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "title": [
+      "SPEERMINT WG in the IETF"
+    ],
+    "type": null,
+    "url": [
+      "www.ietf.org/html.charters/wgdir.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "C. Perkins",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "genre": [
+      "RFC 3344,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "IP Mobility Support for IPv4"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "C. Perkins",
+        "particle": "by"
+      },
+      {
+        "family": "Johnson",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1999-02"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Route Optimization in Mobile IP",
+      "Internet Draft"
+    ],
+    "type": "book",
+    "url": [
+      "http://mosquitonet.stanford.edu/"
+    ]
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "note": [
+      "by Jin-Woo Jung et al. Globecom 2003 conference."
+    ],
+    "title": [
+      "Performance Evaluation of Two Layered Mobility Management using Mobile IP and Session Initiation Protocol"
+    ],
+    "type": null,
+    "url": [
+      "http://w3.antd.nist.gov/pubs/sipmip-jwjung-globecom2003.pdf."
+    ]
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "title": [
+      "See the home page for IEEE 802.21 at www.ieee802.org/21/index .html"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "2005-04"
+    ],
+    "note": [
+      "See also"
+    ],
+    "publisher": [
+      "Columbia University"
+    ],
+    "title": [
+      "Seamless Handover across Heterogeneous Networks - An IEEE 802.21 Centric Approach” by A. Dutta et al"
+    ],
+    "type": null,
+    "url": [
+      "http://www1.cs.columbia.edu/~dutta/research/mpamobiquitous.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J. Arkko",
+        "particle": "by"
+      },
+      {
+        "family": "Aboba",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Network Discovery and Selection Problem",
+      "Internet Draft"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Emergency Call Information in the Domain System"
+    ],
+    "translator": [
+      {
+        "family": "B. Rosen",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Marshall",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Requirements for Emergency Context Resolution with Internet Technologies",
+      "Internet Draft"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "GEOPRIV",
+        "given": "I.E.T.F."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "type": null,
+    "url": [
+      "http://ietf.org/html.charters/geoprivcharter.html."
+    ]
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Wikipedia"
+    ],
+    "title": [
+      "Emergency telephone number"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://en.wikipedia"
+    ]
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Schulzrinne. Internet Draft,",
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Emergency Services URI for SIP” by H"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2005-12"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Security Threats and Requirements for Emergency Calling” by H. Tschofenig et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2005-12-06"
+    ],
+    "note": [
+      "prepared by the National Emergency Number Association (NENA"
+    ],
+    "publisher": [
+      "VoIP-Packet Technical Committee"
+    ],
+    "title": [
+      "NENA Interim VoIP Architecture for Enhanced 9-1-1 Services (i2"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "genre": [
+      "RFC 4190,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Framework for Supporting Emergency Telecommunications Service (ETS) in IP Telephony” by K. Carlberg et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "genre": [
+      "RFC 3487,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Requirements for Resource Priority Mechanisms for SIP” by H. Schulzrinne"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "H. Schulzrinne",
+        "particle": "by"
+      },
+      {
+        "family": "Polk",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Communications Resource Priority for SIP",
+      "Internet Draft"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Extending the SIP Reason Header for Preemption Events"
+    ],
+    "translator": [
+      {
+        "family": "J. Polk",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "title": [
+      "IETF working group on Internet Emergency Preparedness"
+    ],
+    "type": null,
+    "url": [
+      "http://ietf"
+    ]
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "2005-08"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "title": [
+      "Implementing an ETS for Real Time Communications in the IP Suite"
+    ],
+    "translator": [
+      {
+        "family": "F. Baker",
+        "particle": "by"
+      },
+      {
+        "family": "Polk",
+        "given": "J."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "G. Camarillo",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "2002-10"
+    ],
+    "genre": [
+      "RFC 3312,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Integration of Resource Management and SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2005-12"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "title": [
+      "A Framework for Supporting ETS within a Single Administrative Domain"
+    ],
+    "translator": [
+      {
+        "family": "K. Carlberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "genre": [
+      "RFC 3351,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "User Requirements for SIP in Support of Deaf, Hard of Hearing and Speech-impaired individuals"
+    ],
+    "translator": [
+      {
+        "family": "N. Charlton",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Draft ETSI Guide EG"
+    ],
+    "pages": [
+      "2005–02"
+    ],
+    "title": [
+      "Human Factors; Duplex Universal Speech and Text Communication"
+    ],
+    "type": "chapter",
+    "volume": [
+      "202 320"
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "ITU-T Series H"
+    ],
+    "date": [
+      "05/99"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "note": [
+      "Freely available online at www.itu.int/home/ index.html."
+    ],
+    "title": [
+      "Application Profile-Sign Language and lip-reading real-time conversations using low bit rate video communications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Supplement 1"
+    ]
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP Telephony Device Requirements” by H. Sinnreich et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Internet Draft RFC2793bis to update RFC 2793, IETF"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "title": [
+      "RTP Payload for Text Conversation” by G. Hellstrom et al"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "title": [
+      "The home page for the Swedish Synface project is www.speech.kth.se/ synface/index.htm"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "by G. Camarillo et al. RFC 4117, IETF"
+    ],
+    "date": [
+      "2005-06"
+    ],
+    "title": [
+      "Transcoding Services Invocation in SIP Using Third Party Call Control (3pcc"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Mr"
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Borthick. The Business Communication Review"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "pages": [
+      "16–17"
+    ],
+    "title": [
+      "QoS vs. Mr. Bandwidth” by S"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Technical Note, Telchemy, Inc"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "title": [
+      "Voice Quality Measurement"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://telchemy.com/appnotes/TelchemyVoiceQuality"
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "by T. Friedman et al. RFC 3611, IETF"
+    ],
+    "date": [
+      "2003-11"
+    ],
+    "title": [
+      "RTP Control Protocol Extended Reports (RTCP XR"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "by P. Sorquist. Global IP Sound AB, white paper"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Network and Acoustic Echo Issues in Voice-Over-Packet Telephony Systems"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.global ipsound.com."
+    ]
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "title": [
+      "The home page for the iLBC freeware is www.ilbcfreeware.org"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2004-12"
+    ],
+    "genre": [
+      "RFC 3951,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Internet Low Bit Rate Codec (iLBC) “ by S. Andersen et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "by A. Duric et al. RFC 3952"
+    ],
+    "date": [
+      "2004-12"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Real-time Transport Protocol (RTP) Payload Format for Internet Low Bit Rate Codec (iLBC) Speech"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "RTP Payload Format for the Speex Codec” by G. Herlein et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "title": [
+      "The home page for the open source SPEEX codec is www.speex.org"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "GIPS Voice Quality Enhancement” Datasheet of Global IP Sound A B"
+    ],
+    "type": null,
+    "url": [
+      "www.globalipsound.com."
+    ]
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "genre": [
+      "RFC 3714,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "IAB Concerns Regarding Congestion Control for Voice Traffic in the Internet"
+    ],
+    "translator": [
+      {
+        "family": "S. Floyd",
+        "particle": "by"
+      },
+      {
+        "family": "Kempf",
+        "given": "J."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "CacheLogic Research. www.cachelogic.com"
+    ],
+    "title": [
+      "Peer-to-Peer in 2005"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "Linux Review"
+    ],
+    "date": [
+      "2004-11"
+    ],
+    "title": [
+      "Peer to peer network traffic may account for up to 85% of Internet bandwidth usage"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://linuxreviews"
+    ]
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "2001-08-06"
+    ],
+    "editor": [
+      {
+        "family": "C. M. Marsan",
+        "particle": "by"
+      }
+    ],
+    "publisher": [
+      "Network World"
+    ],
+    "title": [
+      "Experts call MPLS bad for the ‘Net"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "by J. Duffy. Network World"
+    ],
+    "date": [
+      "2001-08-10"
+    ],
+    "title": [
+      "Warning: MPLS and Rapid Spanning Tree could be hazardous to your network"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "H. Sinnreich",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP Telephony Device Requirements and Configuration",
+      "Internet Draft"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "2005-12"
+    ],
+    "genre": [
+      "Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Framework for Supporting Emergency Telecommunication Services (ETS) Within a Single Administrative Domain"
+    ],
+    "translator": [
+      {
+        "family": "K. Carlberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "2005-12"
+    ],
+    "genre": [
+      "Pendleton. Internet Draft,",
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "SIP Service Quality Reporting Event” by A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Faynberg",
+        "given": "I."
+      },
+      {
+        "family": "Gabuzda",
+        "given": "L."
+      },
+      {
+        "family": "Kaplan",
+        "given": "M."
+      },
+      {
+        "family": "Shah",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "McGraw-Hill Series on The Intelligent Network Standards, Their Application to Services"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "genre": [
+      "RFC 3525."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Gateway Control Protocol Version 1” C. Groves et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "J. Rosenberg at al. Internet Draft, IETF"
+    ],
+    "date": [
+      "2001-03"
+    ],
+    "title": [
+      " An Application Server Component Architecture for SIP"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "J. Rosenberg et al. RFC"
+    ],
+    "date": [
+      "2004-04"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Best Current Practices for Third-Party Call Control (3pcc) in SIP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3725"
+    ]
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "The World Wide Web Consortium (W3C"
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "title": [
+      "Voice Extensible Markup Language (VoiceXMLTM) Version 1.0"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.w3.org/TR/ voicexml."
+    ]
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2001-04"
+    ],
+    "genre": [
+      "RFC 3087,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Control of Service Context using SIP Request-URI"
+    ],
+    "translator": [
+      {
+        "family": "Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2006-04"
+    ],
+    "editor": [
+      {
+        "family": "Jennings",
+        "given": "C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "genre": [
+      "IETF RFC 4458,"
+    ],
+    "note": [
+      "CHAPTER"
+    ],
+    "title": [
+      "Session Initiation Protocol (SIP) URIs for Applications such as Voicemail and Interactive Voice Response (IVR"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "E",
+        "given": "N.O.T."
+      }
+    ],
+    "title": [
+      "Mosaic was the first popular browser that made the Web accessible to millions of users"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Background and History of peer-to-peer” by CacheLogic"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "K. Ross",
+        "particle": "by"
+      },
+      {
+        "family": "Rubenstein",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Polytechnic University and Columbia University"
+    ],
+    "title": [
+      "P2P Systems",
+      "Tutorial from NY"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "L. G. Erice",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Brooklyn, NY",
+      "France"
+    ],
+    "publisher": [
+      "and Institute EURECOM Sofia Antipolis"
+    ],
+    "title": [
+      "Hierarchical Peer-to-peer Systems",
+      "Polytechnic University"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "genre": [
+      "RFC 3724."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "The Rise of the Middle and the Future of End-to-End: Reflections on the Evolution of the Internet Architecture"
+    ],
+    "translator": [
+      {
+        "family": "J. Kempf",
+        "particle": "by"
+      },
+      {
+        "family": "Austein",
+        "given": "R."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "S. Crocker",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1969-04"
+    ],
+    "publisher": [
+      "UCLA"
+    ],
+    "title": [
+      "Host Software",
+      "RFC 1"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "Columbia University Technical Report EE200415-1."
+    ],
+    "publisher": [
+      "February"
+    ],
+    "title": [
+      "SOS: Secure Overlay Services” by A. Keromytis et al"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Internet Draft,",
+      "work in progress."
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Interactive Connectivity Establishment (ICE"
+    ],
+    "translator": [
+      {
+        "family": "J. Rosenberg",
+        "particle": "by"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stoica",
+        "given": "R.Morris"
+      },
+      {
+        "family": "Karger",
+        "given": "D."
+      },
+      {
+        "family": "Kaashoek",
+        "given": "M."
+      },
+      {
+        "family": "Balakrishnan",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "ACM SIGCOMM"
+    ],
+    "date": [
+      "2001",
+      "2001-08"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "149–160"
+    ],
+    "title": [
+      "Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications” by I"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "2005-03"
+    ],
+    "note": [
+      "by A. Johnston. Internet Draft, IETF, work in progress,"
+    ],
+    "title": [
+      "SIP, P2P, and Internet Communications"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "First International Workshop on Peer-to-Peer Systems"
+    ],
+    "date": [
+      "2002-03"
+    ],
+    "editor": [
+      {
+        "family": "R. Cox",
+        "particle": "by"
+      },
+      {
+        "family": "Muthitacharoen",
+        "given": "A."
+      },
+      {
+        "family": "Morris",
+        "given": "R."
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "title": [
+      "Serving DNS using a Peer-to-Peer Lookup Service"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "genre": [
+      "Baset. Internet Draft,"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Requirements for SIP-based Peer-to-Peer Internet Telephony” by S"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R. Mahy",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "2003-03"
+    ],
+    "pages": [
+      "– – – – –02"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "A Call Control and Multi-party usage framework for SIP",
+      "Internet Draft"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "genre": [
+      "Technical Report CUCS-044-04,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Columbia University"
+    ],
+    "title": [
+      "Peer-to-Peer Internet Telephony using SIP” by Kundan Singh and Henning Schulzrinne"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "2005"
+    ],
+    "editor": [
+      {
+        "family": "D. Bryan",
+        "particle": "by"
+      },
+      {
+        "family": "Lowekamp",
+        "given": "B."
+      }
+    ],
+    "location": [
+      "Williamsburg, VA"
+    ],
+    "publisher": [
+      "William and Mary University"
+    ],
+    "title": [
+      "SOSIMPLE: A SIP/SIMPLE Base P2P VoIP and IM System"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "title": [
+      "Nimcat/Avaya Networks P2P Enterprise nimX Phone System"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "citation-number": [
+      "16"
+    ],
+    "title": [
+      "PEERIO Server-free Telephony System"
+    ],
+    "type": null,
+    "url": [
+      "http://peerio.com."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "D. A. Bryan",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "location": [
+      "Williamsburg, VA"
+    ],
+    "publisher": [
+      "IETF and William and Mary University"
+    ],
+    "title": [
+      "Use Cases for Peer-to-Peer SIP",
+      "Internet Draft"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "P. Zimmermann",
+        "particle": "by"
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "genre": [
+      "IETF Internet Draft, work in progress,"
+    ],
+    "title": [
+      "ZRTP: Extensions to RTP for Diffie-Hellman Key Agreement for SRTP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "AG Projects"
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "SIP Thor: Scalable SIP solutions for millions of subscribers"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://ag-projects.com."
+    ]
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "2004-09"
+    ],
+    "publisher": [
+      "Baset and H. Schulzrinne. Columbia University"
+    ],
+    "title": [
+      "An Analysis of the Skype Peer-to-Peer Internet Telephony Protocol” by S"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "H. Sinnreich",
+        "particle": "by"
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "CHAPTER"
+    ],
+    "publisher": [
+      "VON Publishing"
+    ],
+    "title": [
+      "SIP Beyond VoIP"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "References"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "H. Sinnreich",
+        "particle": "by"
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "VON Publishing LLC"
+    ],
+    "title": [
+      "SIP Beyond VoIP"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "by J. Rosenberg. Internet Draft, IETF, October 2005, work in progress."
+    ],
+    "title": [
+      "Obtaining and Using Globally Routable User Agent (UA) URIs (GRUU) in the Session Initiation Protocol (SIP"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "Wired Magazine"
+    ],
+    "date": [
+      "2006-02"
+    ],
+    "pages": [
+      "39"
+    ],
+    "title": [
+      "Cyberspace is Dead–well, the word anyway"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "title": [
+      "Instant Communication and Collaboration across Businesses, Applications and Devices"
+    ],
+    "type": null,
+    "url": [
+      "http://tello.com."
+    ]
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2004-09"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "publisher": [
+      "University of New South Wales"
+    ],
+    "title": [
+      "Survey of Research towards Robust Peer-to-Peer Search Methods",
+      "Index"
+    ],
+    "translator": [
+      {
+        "family": "J. Risson",
+        "particle": "by"
+      },
+      {
+        "family": "Moors",
+        "given": "T."
+      }
+    ],
+    "type": "report"
+  }
+]
