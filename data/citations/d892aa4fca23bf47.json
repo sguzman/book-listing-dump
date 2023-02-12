@@ -1,0 +1,876 @@
+[
+  {
+    "title": [
+      "std::string convertArabicNumberToRomanNumeral(unsigned int arabicNumber) { std::string romanNumeral; while (arabicNumber >= arabicToRomanMappings[0].arabicNumber) { romanNumeral += arabicToRomanMappings[0].romanNumeral; arabicNumber -= arabicToRomanMappings[0].arabicNumber; } while (arabicNumber >= arabicToRomanMappings[1].arabicNumber) { romanNumeral += arabicToRomanMappings[1].romanNumeral; arabicNumber -= arabicToRomanMappings[1].arabicNumber; } while (arabicNumber >= arabicToRomanMappings[2].arabicNumber) { romanNumeral += arabicToRomanMappings[2].romanNumeral; arabicNumber -= arabicToRomanMappings[2].arabicNumber"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "0"
+    ],
+    "title": [
+      "class Observer { public: virtual ~Observer() = default; virtual int getId() = 0; virtual void update("
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "ObserverPtr observer1 = std::make_shared<TableView>(spreadsheetModel); spreadsheetModel.addObserver(observer1); ObserverPtr observer2 = std::make_shared<BarChartView>(spreadsheetModel"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "3 1415926"
+    ],
+    "title": [
+      "ObserverPtr observer3 = std::make_shared<PieChartView>(spreadsheetModel); spreadsheetModel.addObserver(observer3); spreadsheetModel.changeCellValue(\"C\""
+    ],
+    "type": null,
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "note": [
+      "int main() { Logger logger = LoggerFactory::create(); // ...log something... return 0;"
+    ],
+    "title": [
+      "Listing 9-37. Using the LoggerFactory to create a Logger instance #include \"LoggerFactory.h"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Logger createLogger(OutputTarget outputTarget) const { switch (outputTarget) { case OutputTarget::FILE: return std::make_shared<FilesystemLogger>(); case OutputTarget::STDOUT"
+    ],
+    "type": null,
+    "url": [
+      "default: return std::make_shared<StandardOutputLogger>();"
+    ]
+  },
+  {
+    "note": [
+      "return (customerId.isValid() && ! forename.empty() && ! surname.empty() && billingAddress->isValid() && shippingAddress->isValid());"
+    ],
+    "title": [
+      "class Customer { public: // ...more member functions here... virtual ~Customer() = default; virtual bool isPersistable() const noexcept {"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "if (customer.isPersistable()) { // ...write the customer to a database here"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "{"
+    ],
+    "title": [
+      "class CustomerRepository { public: OptionalCustomer findCustomerByName(const std::string& name"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "// Option 2: Provide a substitute for a possibly missing object auto customer = optionalCustomer.value_or(NotFoundCustomer("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "int main() { print<AStruct>(42); print<int>(42); print(42);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      " Enumeration1 enumVar1 { }; print(enumVar1); Enumeration2 enumVar2 { }; print(enumVar2);"
+    ],
+    "title": [
+      "Listing 9-46. Thanks to SFINAE, there is a matching print() function for arguments of different type enum Enumeration1 { Literal1, Literal2 enum class Enumeration2 : int { Literal1, Literal2 class Clazz { }; int main("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "print(42); Clazz instance { }; print(instance);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "~Clazz() { delete [] resourceToManage;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 9-51. The content of file Customer.cpp #include \"Customer.h"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "class Customer { public: Customer(); virtual ~Customer();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "private: std::string forename; std::string surname; CustomerIdentifier id;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "class Customer : public Person { public: Customer(); virtual ~Customer("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "private: std::string forename; std::string surname; CustomerIdentifier id;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "Kent"
+      },
+      {
+        "family": "Beedle",
+        "given": "Mike"
+      },
+      {
+        "family": "Bennekum",
+        "given": "Arie",
+        "particle": "van"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Beck01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "retrieved 9-24-2016."
+    ],
+    "title": [
+      "Manifesto for Agile Software Development"
+    ],
+    "type": null,
+    "url": [
+      "http://agilemanifesto.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "Kent"
+      }
+    ],
+    "citation-number": [
+      "Beck02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Test-Driven Development: By Example"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Buschmann",
+        "given": "Frank"
+      },
+      {
+        "family": "Meunier",
+        "given": "Regine"
+      },
+      {
+        "family": "Rohnert",
+        "given": "Hans"
+      },
+      {
+        "family": "Sommerlad",
+        "given": "Peter"
+      }
+    ],
+    "citation-number": [
+      "Busch96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Pattern-Oriented Software Architecture Volume 1: A System of Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohn",
+        "given": "Mike"
+      }
+    ],
+    "citation-number": [
+      "Cohn09"
+    ],
+    "date": [
+      "2009"
+    ],
+    "edition": [
+      "1st"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Succeeding with Agile: Software Development Using Scrum"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "Eric J."
+      }
+    ],
+    "citation-number": [
+      "Evans04"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "1st"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Domain-Driven Design: Tackling Complexity in the Heart of Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Fernandes12"
+    ],
+    "note": [
+      "retrieved 6-4-2017."
+    ],
+    "title": [
+      "Martinho Fernandes: Rule of Zero"
+    ],
+    "type": null,
+    "url": [
+      "https://rmf.io/cxx11/rule-of-zero,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "citation-number": [
+      "Fowler02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Patterns of Enterprise Application Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "citation-number": [
+      "Fowler03"
+    ],
+    "date": [
+      "2003-11"
+    ],
+    "note": [
+      "retrieved 5-1-2017."
+    ],
+    "title": [
+      "Anemic Domain Model"
+    ],
+    "type": null,
+    "url": [
+      "https://martinfowler.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "citation-number": [
+      "Fowler04"
+    ],
+    "date": [
+      "2004-01"
+    ],
+    "note": [
+      "retrieved 7-19-2017."
+    ],
+    "title": [
+      "Inversion of Control Containers and the Dependency Injection pattern"
+    ],
+    "type": null,
+    "url": [
+      "https://martinfowler.com/articles/injection.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Gamma95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable, Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "GAOIMTEC92"
+    ],
+    "container-title": [
+      "Saudi Arabia"
+    ],
+    "date": [
+      "1992"
+    ],
+    "note": [
+      "retrieved 12-26-2013."
+    ],
+    "title": [
+      "United States General Accounting Office. GAO/IMTEC-92-26: Patriot Missile Defense: Software Problem Led to System Failure at Dhahran"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.fas.org/spp/starwars/gao/im92026.htm,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "Andrew"
+      },
+      {
+        "family": "Thomas",
+        "given": "David"
+      }
+    ],
+    "citation-number": [
+      "Hunt99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Pragmatic Programmer: From Journeyman to Master"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Organization",
+        "given": "International Standardization"
+      }
+    ],
+    "citation-number": [
+      "ISO11"
+    ],
+    "container-title": [
+      "ISO/IEC"
+    ],
+    "issue": [
+      "2011"
+    ],
+    "publisher": [
+      "Standard for Programming Language C++"
+    ],
+    "title": [
+      "JTC1/SC22/WG21 (The C++ Standards Committee"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14882"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jeffries",
+        "given": "Ron"
+      }
+    ],
+    "citation-number": [
+      "Jeffries98"
+    ],
+    "note": [
+      "retrieved 9-24-2016."
+    ],
+    "title": [
+      "You’re NOT Gonna Need It!"
+    ],
+    "type": null,
+    "url": [
+      "http://ronjeffries.com/xprog/articles/practices/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laboratory",
+        "given": "N.A.S.A.Jet Propulsion"
+      }
+    ],
+    "citation-number": [
+      "JPL99"
+    ],
+    "date": [
+      "1999-09"
+    ],
+    "note": [
+      "URL:",
+      "retrieved 7-7-2013."
+    ],
+    "title": [
+      "Mars Climate Orbiter Team Finds Likely Cause of Loss"
+    ],
+    "type": null,
+    "url": [
+      "http://mars.jpl.nasa.gov/msp98/news/mco990930.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "citation-number": [
+      "Knuth74"
+    ],
+    "container-title": [
+      "ACM Journal Computing Surveys"
+    ],
+    "date": [
+      "1974-12"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "retrieved 5-3-2014."
+    ],
+    "title": [
+      "Structured Programming with Go To Statements"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://cs.sjsu.edu/~mak/CS185C/"
+    ],
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "Andrew"
+      },
+      {
+        "family": "Moo",
+        "given": "Barbara E."
+      }
+    ],
+    "citation-number": [
+      "Koenig01"
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "note": [
+      "retrieved 5-16-2017."
+    ],
+    "title": [
+      "C++ Made Easier: The Rule of Three"
+    ],
+    "type": null,
+    "url": [
+      "http://www.drdobbs.com/c-made-easier-the-rule-of-three/184401400,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Langr",
+        "given": "Jeff"
+      }
+    ],
+    "citation-number": [
+      "Langr13"
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "Pragmatic Bookshelf"
+    ],
+    "title": [
+      "Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liskov",
+        "given": "Barbara H."
+      },
+      {
+        "family": "M",
+        "given": "Jeanette"
+      }
+    ],
+    "citation-number": [
+      "Liskov94"
+    ],
+    "container-title": [
+      "ACM Transactions on Programming Languages and Systems (TOPLAS"
+    ],
+    "date": [
+      "1994-11"
+    ],
+    "issue": [
+      "6"
+    ],
+    "note": [
+      "retrieved 12-30-2014."
+    ],
+    "pages": [
+      "1811–1841"
+    ],
+    "title": [
+      "Wing: A Behavioral Notion of Subtyping"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://dl.acm.org/citation.cfm?doid=197320.197383,"
+    ],
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert C."
+      }
+    ],
+    "citation-number": [
+      "Martin96"
+    ],
+    "container-title": [
+      "ObjectMentor"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "note": [
+      "retrieved 12-30-2014."
+    ],
+    "title": [
+      "The Liskov Substitution Principle"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.objectmentor.com/resources/articles/lsp.pdf,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert C."
+      }
+    ],
+    "citation-number": [
+      "Martin03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Agile Software Development: Principles, Patterns, and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert C."
+      }
+    ],
+    "citation-number": [
+      "Martin09"
+    ],
+    "date": [
+      "2009"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Clean Code: A Handbook Of Agile Software Craftsmanship"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert C."
+      }
+    ],
+    "citation-number": [
+      "Martin11"
+    ],
+    "date": [
+      "2011"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Clean Coder: A Code of Conduct for Professional Programmers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "citation-number": [
+      "Meyers05"
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++: 55 Specific Ways to Improve Your Programs and Designs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "citation-number": [
+      "OMG15"
+    ],
+    "container-title": [
+      "Version 2.5"
+    ],
+    "note": [
+      "OMG Document Number: formal/2015-03-01.",
+      "retrieved 11-5-2016."
+    ],
+    "title": [
+      "OMG Unified Modeling LanguageTM (OMG UML"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.omg.org/spec/UML/2.5,"
+    ]
+  },
+  {
+    "citation-number": [
+      "Parnas07"
+    ],
+    "note": [
+      "retrieved 9-24-2016."
+    ],
+    "title": [
+      "ACM Special Interest Group on Software Engineering: ACM Fellow Profile of David Lorge Parnas"
+    ],
+    "type": null,
+    "url": [
+      "http://www.sigsoft.org/SEN/parnas.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ram",
+        "given": "Stefan"
+      }
+    ],
+    "citation-number": [
+      "Ram03"
+    ],
+    "note": [
+      "retrieved 11-3-2013."
+    ],
+    "title": [
+      "Homepage: Dr. Alan Kay on the Meaning of “Object-Oriented Programming"
+    ],
+    "type": null,
+    "url": [
+      "http://www.purl.org/stefan_ram/pub/doc_kay_oop_en),"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "C++",
+        "given": "Peter Sommerlad Meeting"
+      }
+    ],
+    "citation-number": [
+      "Sommerlad13"
+    ],
+    "date": [
+      "2013"
+    ],
+    "note": [
+      "Simpler C++ with C++11/14. November 2013.",
+      "retrieved 1-2-2014."
+    ],
+    "type": null,
+    "url": [
+      "http://wiki.hsr.ch/PeterSommerlad/files/MeetingCPP2013_SimpleC++.pdf,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "ThoughtWorks"
+      }
+    ],
+    "citation-number": [
+      "Thought08"
+    ],
+    "container-title": [
+      "multiple authors). The ThoughtWorks® Anthology: Essays on Software Technology and Innovation. Pragmatic Bookshelf"
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Inc"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "Wipo1886"
+    ],
+    "note": [
+      "retrieved 3-9-2014."
+    ],
+    "title": [
+      "World Intellectual Property Organization (WIPO): Berne Convention for the Protection of Literary and Artistic Works"
+    ],
+    "type": null,
+    "url": [
+      "http://www.wipo.int/treaties/en/ip/berne/index.html,"
+    ]
+  }
+]
