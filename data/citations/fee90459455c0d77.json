@@ -1,0 +1,120 @@
+[
+  {
+    "director": [
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      }
+    ],
+    "note": [
+      "20\"); Serial.print(year); Serial.print(\" \");"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "sprintf",
+        "given": "Serialprint"
+      },
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "second = bcdToDec(Wire.read()); minute = bcdToDec(Wire.read("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void setup() { Wire.begin(); Serial.begin(9600);"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1307"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "readTime",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "given": "Serialprint"
+      }
+    ],
+    "note": [
+      "20\"); Serial.print(year); Serial.print(\" \");"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "sprintf",
+        "given": "Serialprint"
+      },
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Adafruit Industries, www.adafruit.com, United States Arduino Store, http://store.arduino.cc/eu, Italy Cooking Hacks, www.cooking-hacks.com, Spain DFRobot, www.dfrobot.com, China Earthshine Electronics, www.earthshineelectronics.com, United Kingdom Farnell, http://uk.farnell.com, United Kingdom Little Bird Electronics, http://littlebirdelectronics.com, Australia Maker SHED, www.makershed.com"
+      }
+    ],
+    "note": [
+      "United States Mouser Electronics, www.mouser.com, United States .:oomlout:., www.oomlout.co.uk, United Kingdom Parallax, www.parallax.com/Store, United States Pololu Robotics & Electronics, www.pololu.com, United States RobotShop, www.robotshop.com/eu, France Seeed Studio, www.seeedstudio.com/depot, China ServoCity, www.servocity.com, United States Solarbotics, www.solarbotics.com, Canada SparkFun Electronics, www.sparkfun.com, United States"
+    ],
+    "title": [
+      "United States Modern Device"
+    ],
+    "type": null,
+    "url": [
+      "http://shop.moderndevice.com"
+    ]
+  },
+  {
+    "container-title": [
+      "Evans was a resident and contributor to the Grounding Open Source Hardware residency and summit at the Banff New Media Institute in Alberta, Canada, in 2009 and contributor to the Open Hardware Summit in New York, in 2011"
+    ],
+    "note": [
+      "He received an MFA at California State University, Long Beach, in 2008 and a BFA at Arizona State University in 2005."
+    ],
+    "title": [
+      "■Brian Evans is an artist working in electronic media and Assistant Professor at Metropolitan State College of Denver, where he teaches multidisciplinary courses in art and design on topics that include spatial media, electronics, and 3D fabrication. Many of his classes use opensource hardware, including MakerBot or RepRap 3D printers and the Arduino electronics platform, in the creation of new works in art and design. His work has been shown at the Los Angeles Municipal Art Gallery at Barnsdall Park, the Orange County Center for Contemporary Art, and the University Art Museum at California State University, Long Beach"
+    ],
+    "type": "chapter"
+  }
+]
