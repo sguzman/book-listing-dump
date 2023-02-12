@@ -1,0 +1,239 @@
+[
+  {
+    "note": [
+      "pDC->SetMapMode(MM_ISOTROPIC); CSize szWindow(100 * pDC->GetDeviceCaps(HORZSIZE), 100 * pDC->GetDeviceCaps(VERTSIZE)); CSize szViewport(pDC->GetDeviceCaps(HORZRES), pDC->GetDeviceCaps(VERTRES)); pDC->SetWindowExt(szWindow); pDC->SetViewportExt(szViewport); SCROLLINFO scrollInfo;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CClientDC dc(this); OnPrepareDC(&dc);"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "PAGE_TOTALHEIGHT –2 * (PAGE_TOTALHEIGHT - yBottom), xRight, PAGE_TOTALHEIGHT); pDC->DrawText(stPage, rcFooter, DT_SINGLELINE | DT_CENTER | DT_VCENTER"
+    ],
+    "pages": [
+      "–"
+    ],
+    "title": [
+      "stPage.Format(\"Page %d of %d\", iPageNum + 1, m_pWordDoc->GetPageNum()); CRect rcFooter(xLeft"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "A.V.el at"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "pages": [
+      "1009"
+    ],
+    "publisher": [
+      "Addison Wesley Publishing Company"
+    ],
+    "title": [
+      "Compilers: Principles, Techniques, and Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Deitel",
+        "given": "H.M."
+      },
+      {
+        "family": "Deitel",
+        "given": "P.J.C.++ how to Program"
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Indianapolis",
+      "References"
+    ],
+    "pages": [
+      "1429"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Sixth Edi�������������������� tion"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Feuer",
+        "given": "A.R."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "pages": [
+      "452"
+    ],
+    "publisher": [
+      "Addison Wesley Developers Press"
+    ],
+    "title": [
+      "MFC Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Petzold",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "location": [
+      "Redmond"
+    ],
+    "pages": [
+      "1497"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Windows Programming: The Definitive Guide to the Win32 API"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Prosise",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Redmond"
+    ],
+    "pages": [
+      "1337"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Programming Windows with MFC: The Premier Resource for Object-Oriented Programming on 32-bit Windows Platforms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shepherd",
+        "given": "G."
+      },
+      {
+        "family": "Wingo",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "pages": [
+      "736"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "MFC Internals: The Inside the Microsoft Foundation Class Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "M.A."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "pages": [
+      "586"
+    ],
+    "publisher": [
+      "��������� Addison Wesley"
+    ],
+    "title": [
+      "Data Structures and Algorithm Analysis in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "pages": [
+      "470"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Introduction to Graph Theory"
+    ],
+    "type": "book"
+  }
+]
