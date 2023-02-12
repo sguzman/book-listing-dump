@@ -1,0 +1,150 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Profile.Theme = CType(FCLoginView.FindControl(“ThemeList”"
+      }
+    ],
+    "title": [
+      "_ DropDownList).SelectedValue"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wrox.Web.GlobalEvents",
+        "given": "Namespace"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "❑ http://www.developerfusion.co.uk: The UK developer community for ASP.NET. ❑ http://www.asp.net: The official Microsoft ASP.NET web site."
+    ],
+    "title": [
+      "A lot of a developer’s time will be spent on the Web looking up new concepts or error messages. Here’s a list of some good places to start, if you get stuck: ❑ http://p2p.wrox.com: The Wrox forums and first place to ask with trouble on the book"
+    ],
+    "type": "webpage"
+  },
+  {
+    "pages": [
+      "350–351"
+    ],
+    "title": [
+      "components components content assemblies and custom server controls, 382–383 code, separating from"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "described, 93 web site folder setup, 659–664 TreeView, 101–102 Microsoft Windows XP Home Edition setup, 667 .NET Framework (Microsoft), 1–2, 658"
+    ],
+    "pages": [
+      "93–94 664–667"
+    ],
+    "title": [
+      "Microsoft Windows Microsoft Windows SiteMapPath authentication, 129, 131 adding to page, 87–91 system requirement, 8 breadcrumb functions, 86–87 Microsoft Windows Explorer code, 92 described, 11 levels, modifying, 92–93 global exception handling, 583–585 tree nodes (SiteMapDataSource) Network Service account, adding Write permissions, adding"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "login controls product page, building, 475–481 coding, 111, 120–121 Master page, creating, 31 described, 107 themes, viewing, 161–163 personalized site, 108–111 web service user account configuration, 111–119 adding to application, 451–453 tracking and personalization, improving, 524 League Table mini view, creating, 454–458 users, adding to roles, 124–128 Web.config file, editing, 54–55"
+    ],
+    "pages": [
+      "483–490"
+    ],
+    "title": [
+      "described, 5 componentization file, identifying, 51 code-behind file, creating, 355–357 site design, 44–47 user control, creating, 373–376 site membership Content page, creating, 33–35 age, requesting, 319–320 data controls with parameters, 249–252 authentication described, 11–13 described, 129 e-commerce site, creating Forms model, 129–131 adding to shopping cart, 493–496 configuration process, 128 check out, 509–518 described, 124 creating shopping cart"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "99 sound, playing, 716 page design, 93–94 source controls, 216–217 TreeView, 101–102 Source View SiteMapDataSource tree nodes, 93–94 events, 195 SiteMapPath server controls, adding, 78–81"
+    ],
+    "title": [
+      "SiteMapDataSource server control SortedList collection, 303, 546 customizing, 100 sorting GridView data, 233–236 Menu control, 94–95"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "216 , 101–102"
+    ],
+    "title": [
+      "URL (Uniform Resource Locator) described, 151 TreeView layout and styling best practices data-bound controls, 214–216 accessibility, 178–179 navigation controls, 101–102 usability, 177–178 server controls stylesheet and customization, 166 data type and uses"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.S.S."
+      }
+    ],
+    "note": [
+      "enabling, 612–614 users, storing preferred, 418–424 offline application (App_Offline.htm), 614"
+    ],
+    "title": [
+      "142–150 styling, 156–157, 158 described, 137–138 XML data, reading, 260–262 style attribute, 138–141 troubleshooting successful use, 137 App_Data permissions"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "317–318 creating, 528–529 Try/Catch object disposal, 528–530 exceptions, trapping, 570–576 two-tier application data layers, 359–360"
+    ],
+    "title": [
+      "Wrox United site sample, 171–177 setup, 670 third-party web services, consuming, 429–432 true/false three-tier application data layers, 360–361 logical operators, 314–316 thumbnail images single selections"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Access, 680 installation, 654–659 diagrams, 683–688 page, running, 16–17 MDF file, SQL databases saved as, 682–683 product catalog, building, 468–475 non-listed, 679 Properties window, 21–22 SQL Server, SQL databases on, 680–682 publishing site,"
+    ],
+    "pages": [
+      "604–609"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "691–692 code-behind file, creating, 355–357 uploading pictures, 281–286 user control, creating, 373–376 views, examining and creating, 692–696 Content page, creating, 33–35"
+    ],
+    "title": [
+      "GridView control, adding, 231–232 sample code directories, 14–16 multiple controls, 253–257 single-file code, editing, 354 opening, 679 Solution Explorer, 11–13 stored procedures Toolbox, 18–21 data and parameters, 537–540 tracing, 554 examining (SPROC), 696–697 uploading files, 280 modifying, 534 validation controls, 563–565 tables web services discovery, adding, 447–450 examining structure, 689–690 VWD (Visual Web Developer) Solution Explorer existing, caution about observing and editing, 690 componentization new, creating and adding data"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "creating, 454–458 setup, checking with, 668 Web.config file, editing, 54–55 static page, creating, 58–63 style attribute, 138–141 XHTML standards, complying with, 69–70 W XML data, 258–260 warnings, 24 data writing controls, 267–272 weather service, 429–432 Database Explorer, 25 web browser data-bound controls, configuring with, 217 editing configuration information and code files, 52–55 debugging, 593–597 HTML understanding, 181"
+    ],
+    "title": [
+      "VWD (Visual Web Developer Express) data controls with parameters, 249–252 adding to shopping cart, 501–505 described, 11–13 caching output, 549–550 e-commerce site, creating Cassini web server, 11 adding to shopping cart, 493–496 creating, opening, an using web sites and pages, 14 check out, 509–518 CSS and themes, integrating, 166–168 creating shopping cart, 483–490 data reading controls product page, building, 475–481 GridView control, adding, 231–232 Master page, creating, 31 ListBox control, adding, 230 themes, viewing, 161–163 personalized site, 108–111 web service postback, checking for, 190–191 adding to application, 451–453 security, 132–135 League Table mini view"
+    ],
+    "type": "webpage"
+  },
+  {
+    "pages": [
+      "171–177"
+    ],
+    "title": [
+      "stripping from strings, 295–296 objectives, 30 styling, 712 themes"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "579 with XCOPY, 610–611 new records, adding, 273–275 results and fixtures, web service returning, 441–446 options, 266 roles uploading pictures, 278–286 described, 387–388 Wrox United site Fan Club, 389–397 checkout sample, introduced, 3–4 application level tracing, 590–592 setup, 664 debugging, 592–596 Site Map, creating, 46–47 exceptions, trapping, 573–576 style sheet, 702 logging exceptions, 577–580 web service page level tracing, 588–589 adding to application, 451–453 components, 9–10 League Table mini view, creating, 454–458 Content pages, creating, 40–41 for PocketPC, 458–463 creating on desktop, 10 WroxShoppingCart object, 483–490 creating with two practice pages, 15–16 WSDL (Web Services Description Language) contract,"
+    ],
+    "title": [
+      "Windows Explorer (Microsoft) user news controls, 377–382 described, 11 user profiles, building, 410–418 global exception handling, 583–585 Web.config file, viewing, 49–52 Network Service account, adding Write permissions, events, triggering from database, 195–200 664–667 exception handling web site folder setup, 659–664 custom error pages, 586–587 Windows (Microsoft) global, 583–585 authentication, 130, 132 health monitoring, 619–621 system requirement, 8 identity, 131–135 Windows XP Home Edition (Microsoft) setup, 667 navigation controls World Wide Web (WWW), 4 Menu, 94–99 write-only class properties, 335 SiteMapPath, 86–93 writing data TreeView, 101–102 DataKeyNames, 266–267 news user control, 377–382 deleting records, 275–278 newsletter, sending out, 318 described, 265–266 publishing existing records, changing, 267–272 with VWD, 605–609 to file (WriteLine method"
+    ],
+    "type": "webpage"
+  }
+]
