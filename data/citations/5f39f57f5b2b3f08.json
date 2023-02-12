@@ -1,0 +1,835 @@
+[
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "third"
+    ],
+    "title": [
+      "Ecma International, ECMAScript Language Specification, Standard Ecma-262"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "container-title": [
+      "Information technology — Vocabulary — ISO/IEC 9899:1999, Programming languages — C"
+    ],
+    "title": [
+      "ISO/IEC 2382 (all parts"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "genre": [
+      "Programming languages —"
+    ],
+    "note": [
+      "C, Technical Corrigendum 1"
+    ],
+    "title": [
+      "ISO/IEC 9899:1999/Cor.1:2001(E"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "container-title": [
+      "Programming languages — C, Technical Corrigendum 2"
+    ],
+    "title": [
+      "ISO/IEC 9899:1999/Cor.2:2004(E"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "genre": [
+      "Programming languages —"
+    ],
+    "note": [
+      "C, Technical Corrigendum 3"
+    ],
+    "title": [
+      "ISO/IEC 9899:1999/Cor.3:2007(E"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "ISO/IEC 9945:2003, Information Technology — Portable Operating System Interface (POSIX"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "ISO/IEC 10646-1:1993, Information technology — Universal Multiple-Octet Coded Character Set (UCS) — Part 1: Architecture and Basic Multilingual Plane"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "ISO/IEC TR 19769:2004, Information technology — Programming languages, their environments and system software interfaces — Extensions for the programming language C to support new character data types"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "istream_iterator<T,charT,traits,Distance> operator++(int);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template <class T, class charT, class traits, class Distance> bool operator!=(const istream_iterator<T,charT,traits,Distance> &x, const istream_iterator<T,charT,traits,Distance> &y"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "or *s, respectively. Constructs an end-of-stream iterator if s.rdbuf() is null."
+    ],
+    "title": [
+      "Effects: Constructs an istreambuf_iterator<> that uses the basic_streambuf<> object *(s.rdbuf("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "Returns: c.end()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "-> decltype(std::begin(c)); 6 Returns: std::begin(c)."
+    ],
+    "title": [
+      "Returns: array + N. template <class C> auto cbegin(const C& c"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "note": [
+      "Returns: c.rbegin()."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "10 Returns: reverse_iterator<T*>(array + N). template <class T, size_t N> reverse_iterator<T*> rend(T (&array)[N]); 11 Returns: reverse_iterator<T*>(array)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14"
+    ],
+    "note": [
+      "-> decltype(std::rend(c)); 15 Returns: std::rend(c)."
+    ],
+    "title": [
+      "Returns: std::rbegin(c). template <class C> auto crend(const C& c"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> complex<T> operator+(const complex<T>&); template<class T> complex<T> operator-(const complex<T>&"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> complex<T> pow(const complex<T>&, const T&); template<class T> complex<T> pow(const complex<T>&, const complex<T>&); template<class T> complex<T> pow(const T&, const complex<T>&"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "location": [
+      "Returns"
+    ],
+    "publisher": [
+      "*this"
+    ],
+    "title": [
+      "Effects: Multiplies the complex value rhs by the complex value *this and stores the product in *this"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "Returns: complex<T>(lhs) += rhs. template<class T> complex<T> operator-(const complex<T>& lhs); 4 Remarks: unary operator"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "Returns: complex<T>(-lhs.real(),-lhs.imag())."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "note": [
+      "Returns: complex<T>(lhs) -= rhs."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "7 Returns: complex<T>(lhs) *= rhs."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "note": [
+      "Returns: complex<T>(lhs) /= rhs."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "11 Returns: rhs.real() != lhs.real() || rhs.imag() != lhs.imag()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "note": [
+      "or atan2(imag(x), real(x))."
+    ],
+    "title": [
+      "Returns: The phase angle of x"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "Returns: complex<double>{0.0, static_cast<double>(d)}. constexpr complex<float> operator\"\"if(long double d); constexpr complex<float> operator\"\"if(unsigned long long d); 4 Returns: complex<float>{0.0f, static_cast<float>(d)}"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "A::A(result_type s);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "title": [
+      "Effects: Same as discrete_distribution(wl.begin("
+    ],
+    "type": null,
+    "url": [
+      "wl.end())."
+    ]
+  },
+  {
+    "type": null,
+    "volume": [
+      "template<class T> valarray<T> atan2(const valarray<T>&, const valarray<T>&); template<class T> valarray<T> atan2(const valarray<T>&, const T&); template<class T> valarray<T> atan2(const T&, const valarray<T>"
+    ]
+  },
+  {
+    "title": [
+      "template<class T> valarray<T> pow(const valarray<T>&, const valarray<T>&); template<class T> valarray<T> pow(const valarray<T>&, const T&); template<class T> valarray<T> pow(const T&, const valarray<T>&"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "volume": [
+      "valarray<T>& operator*= (const valarray<T>&); valarray<T>& operator/= (const valarray<T>&); valarray<T>& operator%= (const valarray<T>"
+    ]
+  },
+  {
+    "note": [
+      "8 Effects: Same as valarray(il.begin(), il.size())."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Basic Linear Algebra Subprograms",
+        "given": "B.L.A.S.",
+        "particle": "stands for"
+      }
+    ],
+    "citation-number": [
+      "288"
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "genre": [
+      "Technical Report MCS-P1-0888,"
+    ],
+    "publisher": [
+      "Argonne National Laboratory (USA), Mathematics and Computer Science Division"
+    ],
+    "title": [
+      "C++ programs may instantiate this class. See, for example, Dongarra, Du Croz, Duff, and Hammerling: A set of Level 3 Basic Linear Algebra Subprograms"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "title": [
+      "Returns: use_facet< ctype<char_type> >(getloc()).narrow(c,dfault"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "note": [
+      "void exceptions(iostate except); 12 Postcondition: except == exceptions()."
+    ],
+    "title": [
+      "Returns: A mask that determines what elements set in rdstate() cause exceptions to be thrown"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "13 Effects: Calls clear(rdstate())."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "3 Effects: Calls str.unsetf(ios_base::boolalpha). 4 Returns: str. ios_base& showbase(ios_base& str); 5 Effects: Calls str.setf(ios_base::showbase)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "note": [
+      "Returns: str. ios_base& noshowbase(ios_base& str); 7 Effects: Calls str.unsetf(ios_base::showbase)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "note": [
+      "Returns: str. ios_base& showpoint(ios_base& str); 9 Effects: Calls str.setf(ios_base::showpoint)."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "10 Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "4 Returns: str. ios_base& oct(ios_base& str); 5 Effects: Calls str.setf(ios_base::oct, ios_base::basefield)."
+    ],
+    "title": [
+      "Effects: Calls str.setf(ios_base::hex, ios_base::basefield"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "note": [
+      "Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "8 Effects: Calls str.unsetf(ios_base::floatfield). 9 Returns: str."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "location": [
+      "Effects"
+    ],
+    "publisher": [
+      "None"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Otherwise"
+    ],
+    "note": [
+      "returns traits::to_int_type(*gptr())."
+    ],
+    "title": [
+      "Returns: If the input sequence read position is not available, returns underflow("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "Returns: xsputn(s,n)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "location": [
+      "Effects"
+    ],
+    "publisher": [
+      "None"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "Effects: Calls basic_istream<charT, traits>::swap(rhs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "Effects: Calls basic_ios<charT, traits>::swap(rhs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template <class charT, class traits, class Allocator> void swap(basic_stringstream<charT, traits, Allocator>& x, basic_stringstream<charT, traits, Allocator>& y"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "335"
+    ],
+    "date": [
+      "27.9.2"
+    ],
+    "title": [
+      "The function signature fclose(FILE*) is declared in <cstdio>"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "Returns: rdbuf()->is_open()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "Returns: rdbuf()->is_open()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "note": [
+      "Returns: rdbuf()->is_open()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "Returns: char_traits<charT>::length(p);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "20 Effects: Same as basic_regex(il.begin(), il.end(), f)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "Returns: str().compare(s.str())."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "title": [
+      "Effects: Move-assigns m to *this. The postconditions of this function are indicated in Table 142"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "20"
+    ],
+    "title": [
+      "Effects: If owns calls pm->unlock_shared("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "4 Effects: x.swap(y)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "Returns: owns"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "condition_variable_any(const condition_variable_any&) = delete; condition_variable_any& operator=(const condition_variable_any&) = delete"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15"
+    ],
+    "location": [
+      "Effects"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Period>& rel_time); 20 Effects: Equivalent to: return wait_until(lock, chrono::steady_clock::now() + rel_time);"
+    ],
+    "title": [
+      "template <class Lock, class Rep, class Period> cv_status wait_for(Lock& lock, const chrono::duration<Rep"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "28"
+    ],
+    "title": [
+      "Effects: Equivalent to: return wait_until(lock, chrono::steady_clock::now() + rel_time"
+    ],
+    "type": null,
+    "url": [
+      "std::move(pred));"
+    ]
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "Returns: An ntbs incorporating code().message("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "note": [
+      "and then as if promise(std::move(rhs)).swap(*this). 9 Returns: *this."
+    ],
+    "title": [
+      "Effects: Abandons any shared state (30.6.4"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "27 Effects: x.swap(y)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "note": [
+      "if any)."
+    ],
+    "title": [
+      "Effects: constructs a shared_future object that refers to the same shared state as rhs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "title": [
+      "Postcondition: valid() returns the same value as rhs.valid("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "title": [
+      "Effects: Constructs an object of class strstreambuf, initializing the base class with streambuf(). The postconditions of this function are indicated in Table 157"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "26"
+    ],
+    "title": [
+      "Effects: Implementation defined, except that setbuf(0, 0) has no effect"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "2 Effects: Calls rdbuf()->freeze(freezefl)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2"
+    ],
+    "location": [
+      "Returns"
+    ],
+    "publisher": [
+      "&sb"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "Returns: rdbuf()->pcount()."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "Returns: pointer_to_unary_function<Arg, Result>(f)."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "2 Effects: Calls a.release()."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "3 Postconditions: *this holds the pointer returned from a.release(). template<class Y> auto_ptr(auto_ptr<Y>& a) throw();"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "title": [
+      "Requires: The expression delete get() is well formed"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "14 Effects: delete get()."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "template<class Y> operator auto_ptr<Y>() throw(); 4 Effects: Calls release()."
+    ],
+    "title": [
+      "template<class Y> operator auto_ptr_ref<Y>() throw(); 3 Returns: An auto_ptr_ref<Y> that holds *this"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "note": [
+      "auto_ptr& operator=(auto_ptr_ref<X> r) throw("
+    ],
+    "title": [
+      "Returns: An auto_ptr<Y> that holds the pointer returned from release("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "title": [
+      "Effects: Calls reset(p.release()) for the auto_ptr p that r holds a reference to"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "7 Returns: *this"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "0100-167F,"
+    ],
+    "date": [
+      "1681"
+    ],
+    "pages": [
+      "180 –1"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "200B-200D,"
+    ],
+    "date": [
+      "2040"
+    ],
+    "pages": [
+      "2060–206"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2070"
+    ],
+    "pages": [
+      "2460–24 , 2776–2793, 2 00–2 , 2 80–2 3004–3007, 3021–302 , 3031–303"
+    ],
+    "type": null
+  }
+]
