@@ -1,0 +1,2353 @@
+[
+  {
+    "title": [
+      "■■ The Instrumentation, Systems, and Automation Society (ISA) document ISA-TR99.00.01-2004, Security Technologies for Manufacturing and Control Systems, March 11, 2004: This report evaluates a number of electronic security tools and methods for use in manufacturing and control systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ISA-TR99.00.02-2004",
+        "given": "I.S.A.Technical Report"
+      }
+    ],
+    "title": [
+      "Integrating Electronic Security into the Manufacturing and Control System Environment, April 2004: This report provides direction to appliers of control systems and security practitioners on achieving effective electronic security for these systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "C.C."
+      }
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "genre": [
+      "Version 2.1,"
+    ],
+    "title": [
+      "Common Criteria for Information Technology Security Evaluation"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "CC1"
+    ],
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "–99–031,"
+    ],
+    "title": [
+      "Common Criteria Part 1: Introduction and General Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "CC2"
+    ],
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "–99032,"
+    ],
+    "title": [
+      "Common Criteria Part 2: Security Functional Requirements"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "CC3"
+    ],
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "–99033,"
+    ],
+    "title": [
+      "Common Criteria Part 3: Security Assurance Requirements"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C.E.M."
+      }
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "title": [
+      "Common Evaluation Methodology Part 2: Evaluation Methodology, Version 1.0, CEM99/045"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.A.R.C.H.I.T.E.C.T.U.R.E."
+      },
+      {
+        "given": "Locally"
+      },
+      {
+        "family": "V.REMOTE",
+        "particle": "analysis keystroke logger etc"
+      },
+      {
+        "family": "V.3RDPARTY",
+        "given": "V.N.O.R.I.S.K.Remotely A.T.T.A.C.K.R.E.P.L.A.Y.Unauthorized replay Packet capture tool"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.A.R.C.H.I.T.E.C.T.U.R.E."
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.N.O.R.I.S.K.Remotely A.T.T.A.C.K.S.P.O.O.F.Impersonating",
+        "particle": "an Exploitation of weak"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "Locally"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "particle": "authorized user user authentication"
+      },
+      {
+        "family": "V.NOPOLICIES",
+        "given": "Remotely mechanism V3RDPARTY"
+      },
+      {
+        "family": "V.SERVICES",
+        "given": "V.N.O.R.I.S.K.A.T.T.A.C.K.D.O.S.Overloading",
+        "particle": "the Denial of service attack"
+      },
+      {
+        "given": "V.R.E.M.O.T.E."
+      },
+      {
+        "family": "V.SERVICES",
+        "given": "File",
+        "particle": "deletion on compromised"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "Locally"
+      },
+      {
+        "family": "data",
+        "particle": "control"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "particle": "business ICS file servers"
+      },
+      {
+        "given": "V.N.O.P.O.L.I.C.I.E.S."
+      }
+    ],
+    "container-title": [
+      "ATTACK LABEL ATTACK METHOD VULNERABILITIES OPPORTUNITY 1 ATTACK.SNIFF Unauthorized traffic Packet capture tool",
+      "continued) DESCRIPTION ATTACK LABEL ATTACK METHOD VULNERABILITIES OPPORTUNITY 1 ATTACK.DESTROY Destruction of ICS",
+      "V.NORISK information ATTACK.BYPASS Bypass of system Modification of ICS V.SERVICES, V.REMOTE, Locally & security functions configurations of V.ARCHITECTURE, V.NORISK Remotely and mechanisms components ATTACK.PHYSICAL Compromise of poorly Unauthorized access to V.ARCHITECTURE",
+      "Trojan) V.NOTRAINING"
+    ],
+    "issue": [
+      "3RDPARTY"
+    ],
+    "note": [
+      "V.NOPOLICIES, Locally implemented and/or physically secured areas V.NOTRAINING, V.NORISK controlled physical housing system assets security mechanisms (e.g. perimeter security breach) ATTACK.NATURE Acts of nature Environmental occurrences V.ARCHITECTURE, V.NOPOLICIES, Locally causing system such as earthquake, V.NOTRAINING V.SPOF, V.NORISK unavailability flood and fire"
+    ],
+    "title": [
+      "Locally & of captured traffic keystroke logger etc V.REMOTE,V.3RDPARTY",
+      "Remotely network from the Internet causing V.ARCHITECTURE, V.SPOF, system downtime V.3RDPARTY, V.NORISK ATTACK.ERROR Operator error ICS system operator error V.SERVICES, V.NOPOLICIES, Locally causing security breach V.NOTRAINING, V.NORISK ATTACK.SOCIAL Social engineering Unsolicited contact with V.NOPOLICIES, V.NOTRAINING, Locally & of authorized users employee with the intent of V.NORISK Remotely discovering user credentials or acquiring sensitive information ATTACK.VIRUS Virus infection of ICS Virus propagation via email V.SERVICES, V.REMOTE, Locally system components system or Internet down- V.ARCHITECTURE, V.NOPOLICIES, loaded content (e.g",
+      "Remotely data or configuration V.NOTRAINING, V.NORISK information ATTACK.MODIFY Modification of ICS File modification on V.SERVICES, V.REMOTE, Locally & control data, business compromised ICS file servers V.ARCHITECTURE, V.NOPOLICIES, Remotely data or configuration V.NOTRAINING"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "V"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "or outside the protected boundary of the ICS network (remotely)."
+    ],
+    "title": [
+      "The description for opportunity relates to whether the attack can be conducted within the ICS network (locally"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "RISK CATEGORY RISK CATEGORY LABEL DESCRIPTION THREATS VULNERABILITIES ASSETS RISK.MANAGE Risks associated with T.BAD_COMMAND, V.PLAINTEXT, V.SERVICES, ASSET.ACTUATOR, the security roles and T.REPUDIATE, V.REMOTE, ASSET.SENSOR, responsibilities applicable T.PRIVILEGE, V.ARCHITECTUREV. ASSET.CONTROLLER, to all ICS users, as well as T.NO_FAULT_RECORD, NOPOLICIES, ASSET.HMI"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "the development"
+      },
+      {
+        "family": "T.REPUDIATE",
+        "given": "V.R.E.M.O.T.E."
+      },
+      {
+        "family": "ASSET.SENSOR",
+        "given": "endorsement"
+      },
+      {
+        "family": "T.PRIVILEGE",
+        "given": "V.A.R.C.H.I.T.E.C.T.U.R.E.V.A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "T.NO_FAULT_RECORD",
+        "particle": "maintenance of the"
+      },
+      {
+        "family": "NOPOLICIES",
+        "given": "A.S.S.E.T.H.M.I."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "instruction stipulated T.I.N.F.E.C.T.I.O.N.V.N.O.T.R.A.I.N.I.N.G."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "by"
+      }
+    ],
+    "container-title": [
+      "the corporate V.3RDPARTY V.NORISK ASSET.COMMS, ASSET.CTRLPROCESS, ASSET.CTRLINFO, ASSET.BUSINFO RISK.RISKMAN Risks associated with the T.DISCLOSURE"
+    ],
+    "location": [
+      "V.PLAINTEXT, V.SERVICES",
+      "T.EVIL_DESTRUCTION, V.SPOF, V.NOPOLICIES, ASSET.HMI, ASSET.REMOTE, T.CTRL_TAMPER, V.NOTRAINING, ASSET.COMMS, T.BAD_COMMAND, V.3RDPARTY V.NORISK ASSET.CTRLPROCESS, T.SPOOF, T.REPUDIATE, ASSET.CTRLINFO, T.DOS, T.PRIVILEGE, ASSET.BUSINFO T.NO_FAULT_RECORD, T.DISASTER, T.INFECTION"
+    ],
+    "note": [
+      "ASSET.ACTUATOR, management of the risk T.EVIL_ANALYSIS, V.REMOTE, ASSET.SENSOR, assessment processes T.EVIL_MODIFICATION, V.ARCHITECTURE, ASSET.CONTROLLER, for the ICS."
+    ],
+    "title": [
+      "ASSET.REMOTE, risks associated with the V.NOTRAINING, ASSET.COMMS, successful implementation V.3RDPARTY V.NORISK ASSET.CTRLPROCESS of the organizational security policies. RISK.SECPOLICY Risks associated with T.BAD_COMMAND"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "T.REPUDIATE",
+        "given": "R.I.S.K.A.S.S.E.T.C.T.R.L.Risks",
+        "particle": "associated with"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "asset classification"
+      },
+      {
+        "family": "T.PRIVILEGE",
+        "given": "V.R.E.M.O.T.E."
+      },
+      {
+        "family": "ASSET.SENSOR",
+        "given": "labeling"
+      },
+      {
+        "family": "T.INFECTION",
+        "particle": "media"
+      },
+      {
+        "family": "ASSET.CONTROLLER",
+        "given": "V.A.R.C.H.I.T.E.C.T.U.R.E."
+      },
+      {
+        "given": "management"
+      },
+      {
+        "family": "V.NOPOLICIES",
+        "given": "TPHYSICAL_ACCESS"
+      },
+      {
+        "family": "ASSET.HMI",
+        "given": "A.S.S.E.T.R.E.M.O.T.E."
+      },
+      {
+        "family": "V.NOTRAINING",
+        "particle": "accountability."
+      },
+      {
+        "family": "ASSET.COMMS",
+        "given": "V3RDPARTY V.N.O.R.I.S.K.A.S.S.E.T.C.T.R.L.P.R.O.C.E.S.S."
+      },
+      {
+        "family": "ASSET.CTRLINFO",
+        "given": "A.S.S.E.T.B.U.S.I.N.F.O.R.I.S.K.P.E.R.S.O.N.N.E.L.Risks associated with TBAD_COMMAND"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "personnel vetting"
+      },
+      {
+        "family": "T.SPOOF",
+        "given": "T.R.E.P.U.D.I.A.T.E."
+      },
+      {
+        "given": "V.R.E.M.O.T.E."
+      }
+    ],
+    "container-title": [
+      "ASSET.REMOTE, of duties and system T.DISASTER, T.INFECTION, V.NOTRAINING, ASSET.COMMS, usage agreements. T.PHYSICAL_ACCESS V.3RDPARTY V.NORISK ASSET.CTRLPROCESS"
+    ],
+    "location": [
+      "T.PRIVILEGE, V.ARCHITECTURE, ASSET.CONTROLLER, training, separation T.NO_FAULT_RECORD, V.SPOF, V.NOPOLICIES, ASSET.HMI"
+    ],
+    "title": [
+      "ASSET.SENSOR, security awareness"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "T.PHYSICAL_ACCESS V.ARCHITECTUREV. ASSET.ACTUATOR",
+        "given": "R.I.S.K.C.A.T.E.G.O.R.Y.R.I.S.K.C.A.T.E.G.O.R.Y.L.A.B.E.L.D.E.S.C.R.I.P.T.I.O.N.T.H.R.E.A.T.S.V.U.L.N.E.R.A.B.I.L.I.T.I.E.S.A.S.S.E.T.S.R.I.S.K.P.H.Y.S.I.C.A.L.Risks",
+        "particle": "associated with"
+      },
+      {
+        "family": "NOPOLICIES",
+        "particle": "unauthorized physical"
+      },
+      {
+        "family": "ASSET.SENSOR",
+        "given": "access and/or damage V.N.O.T.R.A.I.N.I.N.G."
+      },
+      {
+        "family": "ASSET.CONTROLLER",
+        "given": "to system components V.N.O.R.I.S.K.A.S.S.E.T.H.M.I."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "A.S.S.E.T.C.O.M.M.S.R.I.S.K.E.N.V.I.R.O.N.Risks associated with T.D.I.S.A.S.T.E.R.V.A.R.C.H.I.T.E.C.T.U.R.E.V.S.P.O.F."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "the effects of natural V.N.O.P.O.L.I.C.I.E.S."
+      },
+      {
+        "family": "ASSET.SENSOR",
+        "given": "disasters"
+      },
+      {
+        "family": "fire",
+        "given": "V.N.O.T.R.A.I.N.I.N.G.",
+        "particle": "such as"
+      },
+      {
+        "family": "ASSET.CONTROLLER",
+        "given": "V.N.O.R.I.S.K."
+      },
+      {
+        "given": "flood"
+      },
+      {
+        "family": "ASSET.HMI",
+        "particle": "earthquake."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "A.S.S.E.T.C.O.M.M.S."
+      },
+      {
+        "family": "ASSET.CTRLPROCESS",
+        "given": "A.S.S.E.T.C.T.R.L.I.N.F.O."
+      },
+      {
+        "family": "T.DISCLOSURE",
+        "given": "A.S.S.E.T.B.U.S.I.N.F.O.RISKEVIL_ACCESS Risks",
+        "particle": "associated with"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "the illicit use"
+      },
+      {
+        "family": "T.EVIL_ANALYSIS",
+        "particle": "modifica-"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.S.E.N.S.O.R."
+      },
+      {
+        "given": "tion"
+      },
+      {
+        "family": "T.EVIL_MODIFICATION",
+        "particle": "destruction"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "T.EVIL_DESTRUCTION",
+        "particle": "of company data or"
+      },
+      {
+        "family": "V.SPOF",
+        "given": "V.N.O.P.O.L.I.C.I.E.S."
+      },
+      {
+        "family": "ASSET.HMI",
+        "given": "A.S.S.E.T.R.E.M.O.T.E."
+      },
+      {
+        "family": "T.CTRL_TAMPER",
+        "particle": "inappropriate access"
+      },
+      {
+        "family": "V.NOTRAINING",
+        "given": "A.S.S.E.T.C.O.M.M.S."
+      },
+      {
+        "family": "T.BAD_COMMAND",
+        "particle": "to information."
+      },
+      {
+        "family": "ASSET.CTRLPROCESS",
+        "given": "V3RDPARTY V.N.O.R.I.S.K."
+      },
+      {
+        "family": "T.SPOOF",
+        "given": "Risks",
+        "particle": "associated with"
+      },
+      {
+        "family": "T.REPUDIATE",
+        "given": "A.S.S.E.T.C.T.R.L.I.N.F.O."
+      },
+      {
+        "family": "T.DOS",
+        "particle": "the inability to make"
+      },
+      {
+        "given": "T.P.R.I.V.I.L.E.G.E."
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "the threat to information TEVIL_ANALYSIS"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.C.O.M.M.S."
+      },
+      {
+        "given": "confidentiality"
+      },
+      {
+        "family": "T.SPOOF",
+        "given": "V.A.R.C.H.I.T.E.C.T.U.R.E.V.A.S.S.E.T.C.T.R.L.P.R.O.C.E.S.S."
+      },
+      {
+        "family": "privacy",
+        "given": "unauthorized T.P.R.I.V.I.L.E.G.E.N.O.P.O.L.I.C.I.E.S."
+      },
+      {
+        "family": "ASSET.CTRLINFO",
+        "given": "disclosure"
+      },
+      {
+        "family": "V.NOTRAINING",
+        "particle": "clear"
+      },
+      {
+        "family": "TBD V.SERVICES",
+        "given": "A.S.S.E.T.B.U.S.I.N.F.O.",
+        "particle": "desk practices. V.3RDPARTY V.NORISK RISK.INTEGRATE Risks associated with"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.A.C.T.U.A.T.O.R."
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "particle": "the integration of"
+      },
+      {
+        "family": "ASSET.SENSOR",
+        "given": "security requirements V.S.P.O.F."
+      },
+      {
+        "family": "V.NOPOLICIES",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "V.NOTRAINING",
+        "particle": "into the systems"
+      },
+      {
+        "given": "A.S.S.E.T.H.M.I."
+      },
+      {
+        "family": "ASSET.CTRLINFO",
+        "given": "A.S.S.E.T.B.U.S.I.N.F.O.R.I.S.K.N.E.T.C.O.M.M.S.Risks associated with T.D.I.S.C.L.O.S.U.R.E."
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "the protection of TEVIL_ANALYSIS"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.S.E.N.S.O.R."
+      },
+      {
+        "family": "T.CTRL_TAMPER",
+        "particle": "network commu-"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "T.SPOOF",
+        "particle": "nications at the"
+      },
+      {
+        "family": "T.DOS",
+        "given": "V.S.P.O.F."
+      },
+      {
+        "family": "V.NOPOLICIES",
+        "given": "A.S.S.E.T.H.M.I."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "logical"
+      },
+      {
+        "family": "T.NO_FAULT_RECORD",
+        "particle": "physical"
+      },
+      {
+        "family": "V.NOTRAINING",
+        "given": "A.S.S.E.T.C.O.M.M.S."
+      },
+      {
+        "family": "T.INFECTION",
+        "particle": "layers."
+      },
+      {
+        "family": "ASSET.CTRLPROCESS",
+        "given": "V3RDPARTY V.N.O.R.I.S.K."
+      },
+      {
+        "family": "ASSET.CTRLINFO",
+        "given": "TPHYSICAL_ACCESS"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "connections to other TEVIL_ANALYSIS"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.S.E.N.S.O.R."
+      },
+      {
+        "family": "T.EVIL_MODIFICATION",
+        "given": "I.T.",
+        "particle": "systems."
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "T.EVIL_DESTRUCTION",
+        "given": "V.S.P.O.F."
+      },
+      {
+        "family": "V.NOPOLICIES",
+        "given": "A.S.S.E.T.H.M.I."
+      },
+      {
+        "family": "ASSET.REMOTE",
+        "given": "TCTRL_TAMPER"
+      },
+      {
+        "family": "V.NOTRAINING",
+        "given": "A.S.S.E.T.C.O.M.M.S."
+      },
+      {
+        "family": "T.SPOOF",
+        "given": "T.D.O.S."
+      },
+      {
+        "family": "ASSET.CTRLPROCESS",
+        "given": "V3RDPARTY V.N.O.R.I.S.K."
+      },
+      {
+        "family": "T.PRIVILEGE",
+        "given": "A.S.S.E.T.C.T.R.L.I.N.F.O."
+      },
+      {
+        "family": "T.NO_FAULT_RECORD",
+        "given": "A.S.S.E.T.B.U.S.I.N.F.O.T.I.N.F.E.C.T.I.O.N.R.I.S.K.I.N.T.E.R.N.E.T.Risks associated with T.D.I.S.C.L.O.S.U.R.E."
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "the use of the Internet TEVIL_ANALYSIS"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.S.E.N.S.O.R."
+      },
+      {
+        "family": "T.EVIL_MODIFICATION",
+        "particle": "email services both"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "given": "internal"
+      },
+      {
+        "family": "T.EVIL_DESTRUCTION",
+        "particle": "external"
+      },
+      {
+        "family": "V.SPOF",
+        "given": "V.N.O.P.O.L.I.C.I.E.S."
+      },
+      {
+        "family": "ASSET.HMI",
+        "given": "A.S.S.E.T.R.E.M.O.T.E."
+      },
+      {
+        "family": "ICS. T.CTRL_TAMPER",
+        "particle": "to the"
+      },
+      {
+        "family": "V.NOTRAINING",
+        "given": "A.S.S.E.T.C.O.M.M.S."
+      },
+      {
+        "family": "T.SPOOF",
+        "given": "T.D.O.S."
+      },
+      {
+        "family": "ASSET.CTRLPROCESS",
+        "given": "V3RDPARTY V.N.O.R.I.S.K."
+      },
+      {
+        "family": "T.PRIVILEGE",
+        "given": "A.S.S.E.T.C.T.R.L.I.N.F.O."
+      },
+      {
+        "family": "T.DISCLOSURE",
+        "given": "T.I.N.F.E.C.T.I.O.N.A.S.S.E.T.B.U.S.I.N.F.O.R.I.S.K.R.E.M.O.T.E.Risks",
+        "particle": "associated with"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "the connection of TEVIL_ANALYSIS"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.S.E.N.S.O.R."
+      },
+      {
+        "family": "T.EVIL_MODIFICATION",
+        "particle": "remote users to the"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "V.SERVICES",
+        "given": "V.N.O.P.O.L.I.C.I.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "security auditing"
+      },
+      {
+        "family": "T.REPUDIATE",
+        "given": "V.N.O.T.R.A.I.N.I.N.G."
+      },
+      {
+        "family": "ASSET.SENSOR",
+        "given": "security breach TNO_FAULT_RECORD"
+      },
+      {
+        "family": "ASSET.CONTROLLER",
+        "given": "V.N.O.R.I.S.K."
+      },
+      {
+        "given": "detection"
+      },
+      {
+        "family": "ASSET.HMI",
+        "given": "A.S.S.E.T.R.E.M.O.T.E."
+      },
+      {
+        "family": "response",
+        "given": "incident A.S.S.E.T.C.O.M.M.S."
+      }
+    ],
+    "container-title": [
+      "RISK CATEGORY RISK CATEGORY LABEL DESCRIPTION THREATS VULNERABILITIES ASSETS RISK.NEED2KNOW Risks associated with T.DISCLOSURE",
+      "RISK CATEGORY RISK CATEGORY LABEL DESCRIPTION THREATS VULNERABILITIES ASSETS RISK.CONNECT Risks associated with T.DISCLOSURE",
+      "Table 10 (continued) RISK CATEGORY RISK CATEGORY LABEL DESCRIPTION THREATS VULNERABILITIES ASSETS RISK.ONLINE Risks associated with T.DISCLOSURE",
+      "ASSET.ACTUATOR, the delivery of online T.NO_FAULT_RECORD, V.REMOTE, ASSET.SENSOR, services, including T.INFECTION V.ARCHITECTURE, ASSET.CONTROLLER, statutory requirements",
+      "ASSET.REMOTE, security issues and V.NOTRAINING, ASSET.COMMS, controls, publishing and V.3RDPARTY V.NORISK ASSET.CTRLPROCESS, third-party security. ASSET.CTRLINFO, ASSET.BUSINFO RISK.OPSMANAGE Risks associated with T.DISCLOSURE",
+      "RISK CATEGORY RISK CATEGORY LABEL DESCRIPTION THREATS VULNERABILITIES ASSETS RISK.IDS Risks associated with T.BAD_COMMAND"
+    ],
+    "editor": [
+      {
+        "family": "ASSET.CTRLPROCESS",
+        "given": "V.N.O.R.I.S.K."
+      },
+      {
+        "family": "T.PRIVILEGE",
+        "given": "A.S.S.E.T.C.T.R.L.I.N.F.O."
+      }
+    ],
+    "location": [
+      "T.EVIL_DESTRUCTION, V.SPOF, V.NOPOLICIES, ASSET.HMI, ASSET.REMOTE, T.CTRL_TAMPER, V.NOTRAINING, ASSET.COMMS, T.SPOOF, T.DOS, V.3RDPARTY",
+      "T.DOS, V.PLAINTEXT, V.SERVICES",
+      "V.SPOF, V.NOPOLICIES, ASSET.HMI",
+      "V.PLAINTEXT, V.SERVICES"
+    ],
+    "note": [
+      "ASSET.ACTUATOR, managing system T.EVIL_ANALYSIS, V.REMOTE, ASSET.SENSOR, changes, such as changes T.EVIL_MODIFICATION, V.ARCHITECTURE, ASSET.CONTROLLER, not approved or audited T.EVIL_DESTRUCTION, V.SPOF, V.NOPOLICIES, ASSET.HMI, ASSET.REMOTE, correctly, lack of T.CTRL_TAMPER, V.NOTRAINING, ASSET.COMMS, consultation with T.BAD_COMMAND, V.3RDPARTY V.NORISK ASSET.CTRLPROCESS, relevant parties, loss of T.SPOOF, T.REPUDIATE, ASSET.CTRLINFO, skilled people, and lack T.DOS, T.PRIVILEGE, ASSET.BUSINFO of correct documentation. T.NO_FAULT_RECORD, Risks associated with the T.DISASTER, T.INFECTION, use of technology for data T.PHYSICAL_ACCESS and system control, including data protection, backup, disaster recovery, inadequate security, and insufficient capacity, etc. (continued) Table 10 (continued"
+    ],
+    "title": [
+      "ASSET.BUSINFO individuals accountable T.NO_FAULT_RECORD for the actions they take when using the systems. (continued) Table 10 (continued",
+      "ASSET.REMOTE, development cycle V.3RDPARTY V.NORISK ASSET.COMMS, and the selection of ASSET.CTRLPROCESS, third party products",
+      "continued) Table 10 (continued",
+      "ICS network",
+      "reporting and forensic ASSET.CTRLPROCESS evidence requirements"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "T.EVIL_DESTRUCTION",
+        "given": "R.I.S.K.C.O.N.T.I.N.U.I.T.Y.Risks",
+        "particle": "associated with"
+      },
+      {
+        "family": "V.PLAINTEXT",
+        "given": "V.S.E.R.V.I.C.E.S."
+      },
+      {
+        "family": "ASSET.ACTUATOR",
+        "given": "ensuring the uninterrupted TCTRL_TAMPER"
+      },
+      {
+        "family": "V.REMOTE",
+        "given": "A.S.S.E.T.S.E.N.S.O.R."
+      },
+      {
+        "family": "T.BAD_COMMAND",
+        "particle": "availability of all key"
+      },
+      {
+        "family": "V.ARCHITECTURE",
+        "given": "A.S.S.E.T.C.O.N.T.R.O.L.L.E.R."
+      },
+      {
+        "family": "T.DOS",
+        "particle": "business resources"
+      },
+      {
+        "family": "T.DISASTER",
+        "given": "V.S.P.O.F."
+      },
+      {
+        "family": "V.NOPOLICIES",
+        "given": "A.S.S.E.T.H.M.I."
+      },
+      {
+        "given": "A.S.S.E.T.R.E.M.O.T.E."
+      }
+    ],
+    "note": [
+      "required to support T.INFECTION, V.NOTRAINING, ASSET.COMMS, essential (or critical) T.PHYSICAL_ACCESS V.3RDPARTY V.NORISK ASSET.CTRLPROCESS, business activities. ASSET.CTRLINFO,"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ABT Associates. The Economic Impact of Nuclear Terrorist Attacks on Freight Transport Systems in an Age of Seaport Vulnerability, Executive Summary"
+    ],
+    "date": [
+      "2003-04-30"
+    ],
+    "title": [
+      "The following documents and publications provide additional information on SCADA systems and SCADA security topics"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Guidelines for Managing and Analyzing the Security Vulnerabilities of Fixed Chemical Sites"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "title": [
+      "American Institute of Chemical Engineers (AIChE) Center for Process Safety"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Institute",
+        "given": "American Petroleum"
+      }
+    ],
+    "container-title": [
+      "Appendix B"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "title": [
+      "SCADA Security (API Standard 1164, Draft"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Amin",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Automation, Control and Complexity: An Integrated Approach"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "263–286"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "National Infrastructures as Complex Interactive Networks"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2003-05"
+    ],
+    "location": [
+      "Vancouver, Canada"
+    ],
+    "publisher": [
+      "CanSecWest Conference"
+    ],
+    "title": [
+      "Attacking Networked Embedded Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bald",
+        "given": "G."
+      },
+      {
+        "family": "Director",
+        "given": "Acting Assistant"
+      },
+      {
+        "family": "Counterterrorism Division",
+        "given": "F.B.I."
+      }
+    ],
+    "note": [
+      "Congressional Testimony before the Senate Judiciary Committee, Subcommittee on Terrorism, Technology, and Homeland Security). January 27, 2004."
+    ],
+    "title": [
+      "Covering the Waterfront — A Review of Seaport Security Since September 11, 2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Barletta",
+        "given": "W."
+      },
+      {
+        "family": "Westby",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Meeting the Challenge of Homeland Security, Second Edition"
+    ],
+    "date": [
+      "2003-10"
+    ],
+    "pages": [
+      "9–12"
+    ],
+    "title": [
+      "The Role of National Laboratories and Universities in Bay Area Preparedness"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellovin",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "CRYPTO ‘98, 18th Annual International Cryptology Conference"
+    ],
+    "date": [
+      "1998-08"
+    ],
+    "location": [
+      "Santa Barbara, CA"
+    ],
+    "title": [
+      "Cryptography and the Internet, Advances in Cryptology"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Berinato",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "CIO Magazine"
+    ],
+    "date": [
+      "2002-03-15"
+    ],
+    "title": [
+      "Debunking the Threat to Water Utilities"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Beum",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Control Engineering"
+    ],
+    "date": [
+      "2004-06-01"
+    ],
+    "title": [
+      "Technology Update: Cyber Security Guidance-Interface Technologies"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Byres",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "IEEE Industry Applications Magazine"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "5"
+    ],
+    "location": [
+      "September/October"
+    ],
+    "title": [
+      "Designing Secure Networks for Process Control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Byres",
+        "given": "E."
+      },
+      {
+        "family": "Hoffman",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "InTech Magazine"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "title": [
+      "IT Security and the Plant Floor"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Byres",
+        "given": "E."
+      },
+      {
+        "family": "Carter",
+        "given": "J."
+      },
+      {
+        "family": "Elramly",
+        "given": "A."
+      },
+      {
+        "family": "Hoffman",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "ISA 2002 Emerging Technologies Conference"
+    ],
+    "date": [
+      "2002",
+      "1987"
+    ],
+    "location": [
+      "Chicago",
+      "Geneva"
+    ],
+    "publisher": [
+      "October",
+      "Consultation Committee, International Telephone and Telegraph, International Telecommunications Union"
+    ],
+    "title": [
+      "Worlds in Collision —Ethernet and the Factory Floor",
+      "CCITT, The Directory-Authentication Framework (Recommendation X.509"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Foundation",
+        "given": "Civil Engineering Research"
+      }
+    ],
+    "container-title": [
+      "Designing and Managing Vulnerability"
+    ],
+    "date": [
+      "2001-10"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "American Society of Civil Engineering"
+    ],
+    "title": [
+      "Protecting Infrastructure"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cole",
+        "given": "E."
+      },
+      {
+        "family": "Krutz",
+        "given": "R."
+      },
+      {
+        "family": "Connelly",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The Network Security Bible"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "National Petroleum Council"
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "title": [
+      "Committee on Critical Infrastructure Protection. Securing Oil and Natural Gas Infrastructures in the New Economy"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "National Academy Press"
+    ],
+    "title": [
+      "Computer Science and Telecommunications Board, National Research Council. Embedded, Everywhere"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "National Academy Press"
+    ],
+    "title": [
+      "Computer Science and Telecommunications Board, National Research Council. The Internet’s Coming of Age"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dacey",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "October"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Critical Infrastructure Protection: Challenges in Securing Control Systems (GAO Document GAO-04-140T"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deininger",
+        "given": "R."
+      }
+    ],
+    "location": [
+      "McLean, VA"
+    ],
+    "publisher": [
+      "Water Pipeline Database, Science Applications International Corporation"
+    ],
+    "title": [
+      "The Threat of Chemical and Biological Agents to the Public Water Supply Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Homeland Security",
+        "given": "Department",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2003-04-15"
+    ],
+    "genre": [
+      "(Federal Register, 6 CFR Part 29)."
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Department of Homeland Security"
+    ],
+    "title": [
+      "Procedures for Handling Critical Infrastructure Information; Proposed Rule"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Transportation",
+        "given": "Department",
+        "particle": "of"
+      },
+      {
+        "family": "Administration",
+        "given": "Federal Transit"
+      }
+    ],
+    "date": [
+      "2004-03-09"
+    ],
+    "genre": [
+      "CFR Part 659),"
+    ],
+    "issue": [
+      "46"
+    ],
+    "pages": [
+      "49"
+    ],
+    "title": [
+      "Rail Fixed Guideway Systems; State Safety Oversight; Proposed Rule (Federal Register"
+    ],
+    "type": null,
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "date": [
+      "1999-04"
+    ],
+    "genre": [
+      "Federal Response Plan."
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "title": [
+      "Federal Emergency Management Agency"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Frankel",
+        "given": "Y."
+      },
+      {
+        "family": "Herzberg",
+        "given": "A."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "IEEE Personal Communications"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "pages": [
+      "16–27"
+    ],
+    "title": [
+      "Enhanced Security Protocols for the CDPD Network: Security Issues in a CDPD Wireless Network"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fraser",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "1997-09"
+    ],
+    "title": [
+      "Site Security Handbook (RCF 2196"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Haimes",
+        "given": "Y."
+      },
+      {
+        "family": "Jiang",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Journal of Infrastructure Systems",
+      "Ports.” Current Maritime Developments"
+    ],
+    "date": [
+      "2001-03",
+      "2005-03-03"
+    ],
+    "title": [
+      "Leontief-Based Model of Risk in Complex Interconnected Infrastructures",
+      "Holland-Knight Attorneys. “The State of U.S"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2002-11-25"
+    ],
+    "genre": [
+      "Public Law 107-296,"
+    ],
+    "title": [
+      "Homeland Security Act of 2002"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Security",
+        "given": "Homeland"
+      }
+    ],
+    "container-title": [
+      "January"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Process for Reporting Lessons Learned from Seaport Exercises Needs Further Attention (GAO-05-170, Report to Congressional Requesters"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "The Heritage Foundation"
+    ],
+    "title": [
+      "Homeland Security Task Force. Defending the American Homeland"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Network",
+        "given": "Honeywell Limited Experion P.K.S."
+      },
+      {
+        "family": "EP-DSX173",
+        "given": "Security Planning Guide"
+      }
+    ],
+    "container-title": [
+      "Data Acquisition, and Automatic Control (IEEE Standard C37.1-1994"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "location": [
+      "Australia"
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "Release 210",
+      "IEEE Standard Definition, Specification, and Analysis of Systems Used for Supervisory Control"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "(IEEE Standard 7-4.3.2)."
+    ],
+    "publisher": [
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "IEEE Standard for Digital Computers in Safety Systems of Nuclear Power Generating Stations"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Draft/RFC"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "4"
+    ],
+    "location": [
+      "Magdeburg, Germany"
+    ],
+    "title": [
+      "Industrial Automation Open Networking Association (IAONA). The IAONA Handbook for Network Security"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "note": [
+      "International Standard ISO/IEC 17799)."
+    ],
+    "title": [
+      "Information Technology — Code of Practice for Information Security Management"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Instrumentation",
+        "given": "Systems"
+      },
+      {
+        "family": "Society",
+        "given": "Automation"
+      }
+    ],
+    "date": [
+      "2004-04-00"
+    ],
+    "title": [
+      "Integrating Electronic Security into the Manufacturing and Control Systems Environment"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Instrumentation",
+        "given": "Systems"
+      },
+      {
+        "family": "Society",
+        "given": "Automation"
+      }
+    ],
+    "date": [
+      "2004-04-00"
+    ],
+    "title": [
+      "Security Technologies for Manufacturing and Control Systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Commission",
+        "given": "International Electrotechnical"
+      }
+    ],
+    "date": [
+      "2004-12"
+    ],
+    "genre": [
+      "(IEC/SC 65C/WG 13 Draft v1.04),"
+    ],
+    "title": [
+      "Enterprise Network — Control Network Interconnection Profile (ECI"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Invensys Inc. Process Control Network Reference Architecture"
+    ],
+    "date": [
+      "2004-01-01"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Invensys Inc. Process Network Security: Firewall Configuration and Policies"
+    ],
+    "date": [
+      "2004"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "N."
+      },
+      {
+        "family": "Moss",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Sixth ODVA Annual Meeting"
+    ],
+    "date": [
+      "2000-03-08"
+    ],
+    "location": [
+      "Tampa, FL"
+    ],
+    "title": [
+      "Introducing Ethernet/IP"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "C."
+      },
+      {
+        "family": "Dalton",
+        "given": "C."
+      },
+      {
+        "family": "Osmanoglu",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "RSA Press"
+    ],
+    "title": [
+      "Security Architecture-Design, Deployment & Operations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Krutz",
+        "given": "R."
+      },
+      {
+        "family": "Vines",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The CISSP Prep Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Little",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Thirty-Sixth Annual Hawaii International Conference on System Sciences"
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "IEEE Computer Society"
+    ],
+    "title": [
+      "Toward More Robust Infrastructure: Observations on Improving the Resilience and Reliability of Critical Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Luthy",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Water Science and Technology Board, National Research Council"
+    ],
+    "title": [
+      "Safety of Our Nation’s Water (Testimony before the House Committee on Science"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "MODBUS Application Protocol Specification"
+    ],
+    "date": [
+      "2002-06-12"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Modbus Organization"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "date": [
+      "March 26–27, 2003",
+      "April 1–2, 2003"
+    ],
+    "location": [
+      "Portland, OR",
+      "and Seattle, WA"
+    ],
+    "title": [
+      "National Infrastructure Simulation and Analysis Center (NISAC). Interactive Workshops"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "National Infrastructure Simulation and Analysis Center (NISAC). Presentation on the Interdependent Energy Infrastructure Simulation System (IEISS"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "publisher": [
+      "NISAC Capabilities Demonstrations, Los Alamos National Laboratory"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "National Research"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "title": [
+      "Improving Surface Transportation Security: A Research and Development Strategy"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997-12"
+    ],
+    "location": [
+      "Arlington, VA"
+    ],
+    "title": [
+      "National Security Telecommunications Advisory Committee. Report on the Likelihood of a Widespread Telecommunications Outage"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Noble",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "SMD Conference of Software Standards and Data. Federal Energy Regulatory Commission"
+    ],
+    "date": [
+      "2002-07-18"
+    ],
+    "title": [
+      "Proposal for FERC Security Standards"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "North American Electric Reliability"
+      }
+    ],
+    "container-title": [
+      "June"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Security Guidelines for the Electricity Sector, version 1.0"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "North American Electric Reliability"
+      }
+    ],
+    "date": [
+      "2003-06-20"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "title": [
+      "SQL Slammer Worm Lessons Learned for Consideration by the Electricity Sector"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Homeland Security",
+        "given": "Office",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "2002-07",
+      "2002"
+    ],
+    "genre": [
+      "Deterrence, Protection, and Preparation (Special Report 270)."
+    ],
+    "location": [
+      "Washington, DC",
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Transportation Research Board"
+    ],
+    "title": [
+      "National Strategy for Homeland Security",
+      "Panel on Transportation, Committee on Science and Technology for Countering Terrorism"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Peerenboom",
+        "given": "J."
+      },
+      {
+        "family": "Fisher",
+        "given": "R."
+      },
+      {
+        "family": "Whitfield",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "CRIS/DRM/ IIT/NSF Workshop on Mitigating the Vulnerability of Critical Infrastructures to Catastrophic Failures",
+      "2001. President’s Commission on Critical Infrastructure Protection. Critical Foundations: Protecting America’s Infrastructures"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Washington, DC",
+      "Washington, DC"
+    ],
+    "publisher": [
+      "September"
+    ],
+    "title": [
+      "Recovering from Disruptions of Interdependent Critical Infrastructures"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Riley",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Science, and Transportation Committee"
+    ],
+    "date": [
+      "2004-03-23"
+    ],
+    "title": [
+      "Terrorism and Rail Security (CT-244, Testimony presented to the Senate Commerce"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rinaldi",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 37th Hawaii International Conference on System Sciences"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Modeling and Simulating Critical Infrastructures and Their Interdependencies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Rinaldi",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "location": [
+      "Colorado Springs, CO"
+    ],
+    "publisher": [
+      "United States Air Force Institute for National Security Studies (Occasional Paper"
+    ],
+    "title": [
+      "Sharing the Knowledge: Government-Private Sector Partnerships to Enhance Information Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rinaldi",
+        "given": "S."
+      },
+      {
+        "family": "Peerenboom",
+        "given": "J."
+      },
+      {
+        "family": "Kelly",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "IEEE Control Systems Magazine"
+    ],
+    "date": [
+      "2001-12"
+    ],
+    "pages": [
+      "11–25"
+    ],
+    "title": [
+      "Identifying, Understanding, and Analyzing Critical Infrastructure Interdependencies"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Schneier",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Dr Dobbs Journal"
+    ],
+    "date": [
+      "1999-12"
+    ],
+    "title": [
+      "Attack Trees"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Scinteie",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "ALSTOM Transport Information Solutions"
+    ],
+    "date": [
+      "2004-01"
+    ],
+    "title": [
+      "Implementing Passenger Information, Entertainment, and Security Systems in Light Rail Transit"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Stephanou",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2001-03-13"
+    ],
+    "publisher": [
+      "The SANS Institute"
+    ],
+    "title": [
+      "Assessing and Exploiting the Internal Security of an Organization"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Information Security Management-Specification for Information Security Management Systems (British Standard BS 7799"
+    ],
+    "title": [
+      "The British Standards Institution"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "2003-07-12"
+    ],
+    "location": [
+      "London, UK"
+    ],
+    "publisher": [
+      "National Infrastructure Security Co-ordination Center (NISCC"
+    ],
+    "title": [
+      "The Electronic Attack Threat to Supervisory Control and Data Acquisition (SCADA) Control & Automation Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "The National Academy Press"
+    ],
+    "title": [
+      "The National Academy of Science. Complex and Interdependent Systems, Making the Nation Safer: The Role of Science and Technology in Countering Terrorism"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Conference of Mayors. A National Action Plan for Safety and Security in America’s Cities. December 2001. U.S. Department of Transportation, Federal Transit Administration, Office of Public Affairs. “DOT, American Public Transit Association Form Partnership to Protect Public Transportation Infrastructure.” Safety and Security Newsletter",
+      "Department of Energy"
+    ],
+    "date": [
+      "2002-09",
+      "2003-01-23"
+    ],
+    "genre": [
+      "(DOT 8-03)."
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "title": [
+      "The President’s Critical Infrastructure Protection Board & the Office of Energy Assurance, U.S. Department of Energy Office of Independent Oversight and Performance Assurance. 21 Steps to Improve Cyber Security of SCADA Networks. U.S",
+      "U.S"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Transportation",
+        "given": "U.S.Department",
+        "particle": "of"
+      }
+    ],
+    "container-title": [
+      "Department of Transportation, Federal Transit Administration, Office of Safety and Security. Handbook for Transit Safety and Security Certification (Final Report). November 2002. U.S. General Accounting Office. Critical Infrastructure Protection: Challenges for Selected Agencies and Industry Sectors",
+      "Transit Security Newsletter"
+    ],
+    "date": [
+      "2003-03",
+      "2003"
+    ],
+    "issue": [
+      "ue No. 35"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "pages": [
+      "–03–233"
+    ],
+    "publisher": [
+      "February"
+    ],
+    "title": [
+      "Federal Transit Administration, Office of Safety and Security",
+      "U.S"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "Potential Vulnerability of Plant Computer Network to Worm Infection (NRC Information Notice 2003-14"
+    ],
+    "date": [
+      "2003-08-29"
+    ],
+    "location": [
+      "Washington DC"
+    ],
+    "title": [
+      "United States Nuclear Regulatory Commission"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "October"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "USA Patriot Act (Public Law 107-56"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "House",
+        "given": "White"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "pages": [
+      "33–34"
+    ],
+    "publisher": [
+      "February"
+    ],
+    "title": [
+      "The National Strategy for the Physical Protection of Critical Infrastructures and Key Assets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolfe",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Intermodal Freight Security and Technology Workshop"
+    ],
+    "date": [
+      "April 27–29, 2002"
+    ],
+    "location": [
+      "Long Beach, CA"
+    ],
+    "title": [
+      "Freight Transportation Security and Productivity: Complete Report"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wool",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer Magazine"
+    ],
+    "date": [
+      "2004-06"
+    ],
+    "title": [
+      "A Quantitative Study of Firewall Configuration Errors",
+      "Index"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "HSARPA), 151 gas industry SCADA system, 127, Homeland Security Council, 2 142–143, 144 Homeland Security Presidential Gas Technology Institute, 127 Directives (HSPD), 2–3"
+    ],
+    "pages": [
+      "115–116"
+    ],
+    "title": [
+      "Office) document 04-140T (Critical Homeland Security Advanced Infrastructure Protection, Challenges Research Projects Agency in Securing Control Systems"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "75 GPS (Global Positioning System), 151 HSARPA (Homeland Security Guide for Assessing the Security Controls Advanced Research Projects in Federal Information Systems (NIST Agency), 151 Special Publication SP 800-53A), HSPD (Homeland Security Presidential 121–122 Directives), 2–3 Guide for the Security Certification and HTTP (HyperText Transfer Protocol), Accreditation of Federal Information 47"
+    ],
+    "note": [
+      "69 Systems (NIST Special Publication human machine interface. See HMI SP 800-37), 119–120 human resources security awareness of security, fostering, 97,"
+    ],
+    "title": [
+      "Generally Accepted Principles and Honeyd honeypot, 85 Practices for Securing Information Honeynet Project, 85–87 Technology Systems (NIST Special host-based IDS, 18, 98–99, 103 Publication SP 800-14), 134–135 hot stand-by system, 7, 20 Gigabit Ethernet, 58 Houston Port attack"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "ISMS (information security manageing (ISSE), 127–130 ment system), 112–113 Institute of Electrical & Electronics ISO (independent system operator), 91 Engineers standards. See IEEE ISO (International Organization for standards Standardization) standards Instrumentation, Systems",
+      "See ISA"
+    ],
+    "issue": [
+      "2000"
+    ],
+    "pages": [
+      "11898–1,",
+      "53"
+    ],
+    "title": [
+      "Information Assurance Technical TR99.00.01-2004, Security Technolo-Framework Forum (IATFF), 127, gies for Manufacturing and Con-130 trol Systems, 41, 113–114 information disclosure, unauthorized, TR99.00.02-2004, Integrating Elec-176, 186 tronic Security into the Manufacinformation security management turing and Control System system (ISMS), 112–113 Environment, 41, 114–115 information technology. See IT research done by, 126 information-system security engineer",
+      "54 Automation Society"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "genre": [
+      "(ISA report 1779:2005"
+    ],
+    "note": [
+      "Code of Practice for Informa-TR99.00.02-2004), 41, 114–115 tion Security Management), 110, International Electrotechnical 111–112 Commission standards. See IEC ISSE (information-system security standards engineering), 127–130"
+    ],
+    "title": [
+      "Integrating Electronic Security into the 9506-2:2000, 53 Manufacturing and Control System 15408, 160 Environment"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "literal": "SP 800-53A"
+      }
+    ],
+    "note": [
+      "190–193 Technology Systems (NIST), 134–135 physical security, 165, 167, 169, SP 800-37, Guide for the Security Certifi- 179, 190 cation and Accreditation of Federal policy, 167–168, 172, 180–181 Information Systems (NIST), 119–120 power outage, 167, 179"
+    ],
+    "title": [
+      "Guide for Assessing the migration strategy, 191 Security Controls in Federal Informa- monitoring, 167, 193 tion Systems (NIST), 121–122 network connectivity assumption, SP 800-14, Generally Accepted Principles 169 and Practices for Securing Information objective list"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Networks",
+        "particle": "lyzing"
+      }
+    ],
+    "container-title": [
+      "Security Technologies System Protection Profile for Industrial for Manufacturing and Control Control Systems (NIST). See SPP ICS Systems (ISA"
+    ],
+    "pages": [
+      "113–114"
+    ],
+    "title": [
+      "101 protocol. See TCP/IP system architecture overview, 7–9 Trivial File Transfer Protocol (TFTP), 69 system, embedded, 40 TR99.00.01-2004"
+    ],
+    "type": "chapter",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TR99.00.02-2004",
+        "given": "N.I.S.T.)"
+      }
+    ],
+    "container-title": [
+      "See STOE Control System Environment (ISA"
+    ],
+    "title": [
+      "Integrating Electronic system shutdown log, 105 Security into the Manufacturing and System Target of Evaluation"
+    ],
+    "type": "chapter"
+  }
+]
