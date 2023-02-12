@@ -1,0 +1,168 @@
+[
+  {
+    "location": [
+      "ProductPK)product.getPrimaryKey()).productID"
+    ],
+    "title": [
+      "productPK ="
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Understanding the Extensible Markup Language"
+    ],
+    "pages": [
+      "627"
+    ],
+    "title": [
+      "Go back to the first page for a quick link to buy this book online!"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "<?xml version=\"1.0\" standalone=\"yes\"?> <!DOCTYPE library ["
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "<!ELEMENT book (title, author+, pages, description?, (hardcover | softcover))>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J. D",
+        "given": "The",
+        "particle": "text"
+      }
+    ],
+    "title": [
+      "Salinger is normal character text, and it is valid #PCDATA for this <author> element"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Understanding the Extensible Markup Language"
+    ],
+    "pages": [
+      "629"
+    ],
+    "title": [
+      "Go back to the first page for a quick link to buy this book online!"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "For example, take the following snippet from Source C.1:"
+    ],
+    "title": [
+      "This is an attribute list declaration. It declares rules for the isbn attribute within the <book> element"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Source D.2 Declaring an EJB Reference within an EJB 1.1 Deployment Descriptor (continues"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Source D.3 is fairly self-explanatory, save for the res-auth entry. The following section has more details on this element"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "STATUS_ROLLEDBACK The current transaction has been rolled back. STATUS_UNKNOWN The status of the current transaction cannot be determined"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "interprocess communication"
+    ],
+    "note": [
+      "isCallerInRole(), 135t, 139–140, 200t, 657, 694t RMI Registry service provider, 605–611 isIdentical(), 697t RMI URLs, 514 isolation service providers, 567–570 and EJB 1.1, 653–654, 656 setting up software, 577–578 and locking, 284 and singleton pattern, 604 transactions, 269, 281–289 Java 2 Platform, Enterprise Edition (J2EE), isolation levels, 283–285, 653–654, 656, 706t 3. See also Enterprise JavaBeans; Java Remote Method Invocation; specific Jad decompiler, 259 J2EE technologies Jasmine’s Computer Parts, Inc.. See e-com- compatibility issues, 670"
+    ],
+    "pages": [
+      "32–33 577–593"
+    ],
+    "title": [
+      "intelligent load balancing, 675–676 Java Naming and Directory Interface (JNDI) interactive browser, 582–593 accessibility of JTA via, 673 interface, 8–9 architecture, 566–567 and RMI, 509–510 basic steps, 578–580 interface-based programming, 9 benefits, 565–566 Interface Definition Language (IDL), 556 as bridge between naming and directory OMG, 310–315, 325–326 services, 565, 592–593 interface keyword, 9 core packages, 578 Interface Repository (CORBA), 310 with EJB, 601–602 Internet, 614 and EJB 1.1, 640–650 XML recommended as standard, 617 home object location, 91–94 Internet Inter-ORB Protocol (IIOP), 307. See with Java RMI, 602–611 also Java Remote Method Invocation- with JDBC, 593–601 IIOP overview, 29, 33–34, 561 with Java RMI, 33, 505 programming concepts, 570–577 and server-side component architecture, 26 programming details (naming package"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "pages": [
+      "582–593"
+    ],
+    "title": [
+      "session bean client, 90–95 javax.naming package, 578, 580–582 tips, 531 example"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Java Remote Method Invocation-IIOP (RMI- selected classes, 581–582t IIOP), 77,",
+      "javax.naming.spi.ObjectFactory interface, 604t standardized by EJB 1.1, 639–640 javax.Naming.StringRefAddr class, 604t java.rmi.Remote, 76, 78, 510, 558 javax.rmi.CORBA package, 330 java.rmi.RemoteException, 76, 510 javax.rmi package, 330–331 Java RMI remote stubs, 510–511, 520–521 javax.rmi.PortableRemoteObject package, 330 acquiring via JNDI, 602 javax.transaction.UserTransaction interface,"
+    ],
+    "pages": [
+      "32–33",
+      "522– 294–295"
+    ],
+    "title": [
+      "329–332 selected interfaces, 580–581t EJB object handles, 142–143 javax.Naming.RefAddr class, 604t EJB server support, 672–673 javax.naming.Referenceable interface, 603t nonsupport of distributed garbage collec- javax.Naming.Reference class, 604t tion, 554 javax.naming.spi interface"
+    ],
+    "type": null,
+    "volume": [
+      "578 overview, 29",
+      "java.rmi.server.UnicastRemoteObject"
+    ]
+  },
+  {
+    "collection-title": [
+      "Java Transaction Service"
+    ],
+    "note": [
+      "javax.ejb.EnterpriseBean interface, 72–73, 294"
+    ],
+    "pages": [
+      "35–36,"
+    ],
+    "title": [
+      "javax.ejb.EJBHome interface, 78, 79, 694, 695t JTA UserTransacation interface. See javax.ejb.EJBMetaData, 695 javax.transaction.UserTransaction javax.ejb.EJBObject interface, 74–76, 102, interface 696–697t JTS"
+    ],
+    "type": null,
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "Object Naming"
+      }
+    ],
+    "container-title": [
+      "178 and purchase decision"
+    ],
+    "pages": [
+      "671–672"
+    ],
+    "title": [
+      "568–569 beans; container-managed persistent ObjectNotFound exception, 702–703 entity beans object query language (OQL"
+    ],
+    "type": "chapter"
+  }
+]
