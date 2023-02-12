@@ -1,0 +1,27 @@
+[
+  {
+    "container-title": [
+      "SELECT DAYNAME(‘1961-06-20’); SELECT DAYOFMONTH(‘1986-10-25’); SELECT DAYOFYEAR(‘2001-06-16’); SELECT DAYOFWEEK(NOW()); SELECT MONTH(‘1973-11-25’); SELECT MONTHNAME(‘1965-01-29’); SELECT QUARTER(‘1936-04-01’); SELECT WEEK(‘1979-04-16’); SELECT WEEKDAY(NOW()); SELECT YEAR(‘1988-08-08’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DATE_ADD",
+        "given": "S.E.L.E.C.T."
+      }
+    ],
+    "container-title": [
+      "second); SELECT ‘1991-03-16’ + 10 year; SELECT DATE_SUB(‘1997-01-01’, INTERVAL 431 month",
+      "INTERVAL"
+    ],
+    "title": [
+      "INTERVAL 745 day); SELECT DATE_ADD(‘1971-03-12’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  }
+]
