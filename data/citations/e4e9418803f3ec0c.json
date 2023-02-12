@@ -1,0 +1,1501 @@
+[
+  {
+    "note": [
+      "unsigned long set_def_return_card(in unsigned long value); unsigned long set_max_return_card(in unsigned long value);"
+    ],
+    "title": [
+      "readonly attribute OctetSeq request_id_stem; unsigned long set_def_search_card(in unsigned long value); unsigned long set_max_search_card(in unsigned long value); unsigned long set_def_match_card(in unsigned long value); unsigned long set_max_match_card(in unsigned long value"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "unsigned long set_def_hop_count(in unsigned long value); unsigned long set_max_hop_count(in unsigned long value"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "CosNaming::Name ec_name"
+    ],
+    "issue": [
+      "(1); ec_name[0].id = CORBA::string_dup(\"event_channel\")"
+    ],
+    "title": [
+      "// Obtain a reference to the root NamingContext. CosNaming::NamingContext_var root_nc = resolve_init<CosNaming::NamingContext>(orb, \"NameService\") ; // Create the Name of the event channel binding"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Unified Modeling Language User Guide",
+      "A tutorial for UML with lots of examples"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Butenhof",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming with Posix Threads",
+      "A good introduction to programming with threads. The book uses the C language for its code examples but you should have no problem translating examples into C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Association",
+        "given": "European Computer Manufacturers"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "publisher": [
+      "European Computer Manufacturers Association"
+    ],
+    "title": [
+      "Portable Common Tool Environment (PCTE): Abstract Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Mandatory reading for every OO programmer."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns",
+      "The canonical book on patterns, containing a host of solutions to common programming problems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "J."
+      },
+      {
+        "family": "Reuter",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "note": [
+      "A very detailed and thorough treatment of transaction processing. Not for the faint-hearted."
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hofstadter",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Bach"
+    ],
+    "publisher": [
+      "An Eternal Golden Braid"
+    ],
+    "title": [
+      "Gödel, Escher"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Well worth reading. Institute of Electrical and Electronics Engineers. 1985. IEEE 754-1985 Standard for Binary Floating-Point Arithmetic"
+    ],
+    "location": [
+      "New York",
+      "Piscataway, NJ"
+    ],
+    "publisher": [
+      "Basic Books",
+      "Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "A fascinating treatise on the nature of thought, computability, and recursion. The book transcends the disciplines of art and science and contains many thought-provoking ideas bordering on the metaphysical"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Standardization",
+        "given": "International Organization",
+        "particle": "for"
+      }
+    ],
+    "container-title": [
+      "Latin Alphabet"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "publisher": [
+      "International"
+    ],
+    "title": [
+      "ISO/IEC 8859-1 Information Technology—8-bit Single-Byte Coded Graphic Character Sets —Part 1"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Lakos",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Mandatory reading if you are involved in C++ development requiring more than two or three programmers."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Large-Scale C++ Software Design",
+      "An excellent book on how to design the physical structure of large C++ software such that the resulting system is efficient, comprehensible, and maintainable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "B."
+      },
+      {
+        "family": "Berg",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Englewood, NJ"
+    ],
+    "note": [
+      "Another good introduction to programming with threads."
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Threads Primer: A Guide to Multithreaded Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Implementation of the 4.4BSD Operating System",
+      "Describes the internals of the 4.4BSD implementation of UNIX. While not directly relevant to CORBA or C++, many of the design ideas described in this book apply to programming in general"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "D.R."
+      },
+      {
+        "family": "Saini",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "STL Tutorial and Reference Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Mandatory reading for every C++ programmer."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "An excellent introduction and reference to the Standard Template Library"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++",
+      "Fifty solid pieces of advice for how to write clean and comprehensible C++ code. Very well written in a down-to-earth style"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Another thirty-five solid pieces of advice. Just as good as Effective C++."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Effective C++"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Norman",
+        "given": "D.A."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Every software engineer should read this book."
+    ],
+    "publisher": [
+      "Doubleday"
+    ],
+    "title": [
+      "The Design of Everyday Things",
+      "A fascinating book on human-machine interfaces, with examples from many design disciplines, including computing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "99–07–41"
+    ],
+    "title": [
+      "C++ Language Mapping Specification"
+    ],
+    "type": null,
+    "url": [
+      "ftp://ftp.omg."
+    ]
+  },
+  {
+    "location": [
+      "Framingham, MA"
+    ],
+    "note": [
+      "The complete C++ language mapping specification."
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "container-title": [
+      "Revision"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "note": [
+      "If you have questions on details of CORBA, the answers should be in this document."
+    ],
+    "pages": [
+      "98–12–01"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "The Common Object Request Broker: Architecture and Specification",
+      "The official CORBA specification. Of interest mainly to ORB implementers and not for the faint-hearted"
+    ],
+    "type": "article-journal",
+    "url": [
+      "ftp://ftp.omg."
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "container-title": [
+      "Revised Submission. ftp://ftp.omg"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "note": [
+      "IT-SC book: Advanced CORBA® Programming with C++"
+    ],
+    "pages": [
+      "98–05–04"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "CORBA/Firewall Security"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "container-title": [
+      "Revised Submission. ftp://ftp.omg"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "pages": [
+      "98–05–06"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "CORBA Messaging"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "pages": [
+      "98–07–05"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "CORBAservices: Common Object Services Specification. ftp://ftp.omg",
+      "A collection of specifications for the various CORBA services. A good place to look for clarification if your vendor's documentation is inadequate"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "RFP. ftp://ftp.omg. org/pub/docs/formal/98-04-10.pdf."
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "Fault-Tolerant CORBA Using Entity Redundancy"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "literal": "Draft RFP. ftp://ftp.omg."
+      }
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "pages": [
+      "97–08–08"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "Garbage Collection of CORBA Objects"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "JIDM Interaction Translation. ftp://ftp.omg. org/pub/docs/telecom/98-10-10.pdf."
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "pages": [
+      "97–08–14"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "Meta-Object Facility (MOF) Specification"
+    ],
+    "type": "book",
+    "url": [
+      "ftp://ftp.omg."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "container-title": [
+      "Revised Submission. ftp://ftp.omg"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "pages": [
+      "98–09–04"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "Notification Service"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "ORB Portability Enhancement RFP. ftp://ftp.omg. org/pub/docs/1995/95-06-26.pdf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Object Management"
+      }
+    ],
+    "container-title": [
+      "Revised Submission. ftp://ftp.omg"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Framingham, MA"
+    ],
+    "pages": [
+      "97–11–01"
+    ],
+    "publisher": [
+      "Object Management Group"
+    ],
+    "title": [
+      "Person Identification Service"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "The Open"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "Technical Standard C706."
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "The Open Group"
+    ],
+    "title": [
+      "DCE 1.1: Remote Procedure Call"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "The Open"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "The Open Group"
+    ],
+    "title": [
+      "Inter-Domain Management: Specification Translation. Preliminary Specification P509"
+    ],
+    "type": "book",
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pope",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The CORBA Reference Guide",
+      "A high-level overview of CORBA. Explains the OMG technology adoption process and contains an overview of the CORBA object model and architectural components. Briefly explains each of the CORBA services"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rumbaugh",
+        "given": "J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Unified Modeling Language Reference Manual",
+      "The complete definition of the syntax and semantics of UML"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 11th Annual Sun Users Group Conference"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "214–225"
+    ],
+    "publisher": [
+      "SUG"
+    ],
+    "title": [
+      "The ADAPTIVE Communication Environment: Object-Oriented Network Programming Components for Developing Client/Server Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "container-title": [
+      "Pattern Languages of Program Design"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "James O. Coplien",
+        "particle": "ed."
+      },
+      {
+        "family": "Schmidt",
+        "given": "Douglas C."
+      }
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Reactor: An Object Behavioral Pattern for Concurrent Event Demultiplexing and Event Handler Dispatching"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      },
+      {
+        "family": "Vinoski",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "50–59"
+    ],
+    "title": [
+      "Comparing Alternative Programming Techniques for Multi-threaded Servers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      },
+      {
+        "family": "Vinoski",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "56–66"
+    ],
+    "title": [
+      "Comparing Alternative Programming Techniques for Multi-threaded Servers-The Thread-Pool Concurrency Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      },
+      {
+        "family": "Vinoski",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "47–56"
+    ],
+    "title": [
+      "Comparing Alternative Programming Techniques for Multi-threaded Servers-The Thread-per-Session Concurrency Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "54–60"
+    ],
+    "title": [
+      "Evaluating Architectures for Multithreaded Object Request Brokers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "bible",
+        "given": "C.++"
+      }
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley. The"
+    ],
+    "title": [
+      "Even if you know C++ already, this book is worth reading. Also useful as a more approachable reference than the C++ Standard"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Englewood, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Distributed Operating Systems",
+      "Even though this book is specific to distributed operating systems, many of the ideas presented apply to distributed systems in general. A fertile source of design advice for your own distributed applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cargill",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Programming Style",
+      "A fertile source of design and programming advice from one of the experts in the field"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "J.O."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Advanced C++ Programming Styles and Idioms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "M.A."
+      },
+      {
+        "family": "Carroll",
+        "given": "M.D."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "Highly recommended."
+    ],
+    "location": [
+      "Reading, MA",
+      "Reading, MA"
+    ],
+    "note": [
+      "Provides practical advice on designing, implementing, and deploying reusable C++ classes and libraries."
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The book that used programming patterns before the term was even coined",
+      "Designing and Coding Reusable C++"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "S."
+      },
+      {
+        "family": "Lajoie",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "literal": "C++ Primer. 3rd Ed."
+      }
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "An outstanding book on C++, somewhat more approachable than Stroustrup's book."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "R.B."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Lots of practical advice on how to write C++ code that works."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Strategies and Tactics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C++",
+      "Provides an interesting behind-the-scenes look at the design decisions that shaped C++. Highly recommended reading, especially if you sometimes wonder why a particular language feature works the way it does"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cormen",
+        "given": "T."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C."
+      },
+      {
+        "family": "Rivest",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "note": [
+      "A very comprehensive (despite its title) reference on data structures and algorithms. Not for beginners."
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Harel",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "title": [
+      "Algorithmics: The Spirit of Computing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "container-title": [
+      "Fundamental Algorithms"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA",
+      "Reading, MA"
+    ],
+    "note": [
+      "IT-SC book: Advanced CORBA® Programming with C++"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "An excellent overview of the foundations of computer science. Fun to read even if you have been a computer professional for years",
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "container-title": [
+      "Seminumerical Algorithms"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Not for the casual reader."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming",
+      "Sorting and Searching",
+      "Donald Knuth's books are considered bibles of computer science. They offer the most complete treatment of data structures and algorithms in existence"
+    ],
+    "type": null,
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Good advice on how to keep object-oriented development on track."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object Solutions: Managing the Object-Oriented Project"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Brooks",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "given": "Anniversary"
+      }
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "First published twenty years ago, it is still as relevant today as it was then. A classic."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Mythical Man-Month",
+      "One of the first (and best) books on the complexities of managing software projects"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gabriel",
+        "given": "R.P."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "United Kingdom"
+    ],
+    "note": [
+      "A very interesting collection of essays on project management, programmer psychology, patterns, and the quest for the Right Thing."
+    ],
+    "publisher": [
+      "Oxford",
+      "Oxford University Press"
+    ],
+    "title": [
+      "Patterns of Software: Tales from the Software Community"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Liberty",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Clouds to Code. Birmingham, United Kingdom: Wrox Press. A rare inside look at an industrial software project, providing an excellent analysis of the reasons for successes and failures"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Yourdon",
+        "given": "E."
+      },
+      {
+        "family": "Becker",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "Mission Impossible"
+    ],
+    "publisher": [
+      "Projects"
+    ],
+    "title": [
+      "Death March: The Complete Software Developer's Guide to Surviving"
+    ],
+    "type": "book"
+  },
+  {
+    "location": [
+      "Englewood, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "A good study of why software projects go wrong and sound advice on how to save yourself if you end up on a death march project"
+    ],
+    "type": "book"
+  }
+]
