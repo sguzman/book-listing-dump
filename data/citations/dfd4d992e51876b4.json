@@ -1,0 +1,54 @@
+[
+  {
+    "note": [
+      "protected: void Reset(); TState* ErrorOnStateEntry(TInt aError); TState* ErrorOnStateExit(TInt aError); private: RSocket iSocket; CSmsMessage* iSmsMsg;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "smsSettings",
+        "given": "TSmsUserDataSettings"
+      },
+      {
+        "family": "smsSettings.SetAlphabet",
+        "given": "smsSettingsSetTextCompressed"
+      }
+    ],
+    "title": [
+      "// Convert address to unicode string required by CSmsMessage"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "__ASSERT_ALWAYS(aAddress.Length("
+    ],
+    "note": [
+      "<= KGdpMaxAddressLen, GdpUtil::Fault(GdpUtil::EBadSendAddress)); TBuf<KGdpMaxAddressLen> bufAddress; bufAddress.Copy(aAddress);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "KSMSAddrFamily, KSockDatagram, KSMSDatagramProtocol); User::LeaveIfError(ret);"
+    ],
+    "title": [
+      "// Open a socket TInt ret = iSender.iSocket.Open(iSender.iResMan.iSocketServer"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "User"
+    ],
+    "publisher": [
+      ""
+    ],
+    "title": [
+      "// Open a write stream on the socket and stream our message. RSmsSocketWriteStream writeStream(iSender.iSocket); TRAP(ret, writeStream << *(iSender.iSmsMsg"
+    ],
+    "type": "book"
+  }
+]
