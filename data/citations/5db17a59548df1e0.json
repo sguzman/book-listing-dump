@@ -1,0 +1,107 @@
+[
+  {
+    "author": [
+      {
+        "family": "Serial.println",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.println",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "note": [
+      "Serial.print(irKeyCodes[i++]); Serial.println(\";\"); Serial.print(\"const long IR_PIVOT_CCW = \"); Serial.print(irKeyCodes[i++]); Serial.println(\";\"); Serial.print(\"const long IR_HALT = \"); Serial.print(irKeyCodes[i++]); Serial.println(\";\");"
+    ],
+    "title": [
+      "Serial.print(\"const long IR_PIVOT_CW = \""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.begin(9600); blinkNumber(8); // open port while flashing. Needed for Leonardo only lookBegin(); moveBegin(); remoteBegin(irReceivePin); /// added Remote tab moveSetSpeed(MIN_SPEED + 10) ; // Run at 10% above minimum speed Serial.println(\"Ready\");"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "OUTPUT); motorStop(motor"
+    ],
+    "title": [
+      "void motorBegin(int motor) pinMode(M_DIR_PIN[motor"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "digitalWrite"
+      }
+    ],
+    "container-title": [
+      "LOW"
+    ],
+    "note": [
+      "motorSetSpeed(motor, speed);"
+    ],
+    "title": [
+      "HIGH); motorSetSpeed(motor, speed); void motorReverse(int motor, int speed) digitalWrite(M_DIR_PIN[motor"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "director": [
+      {
+        "family": "{DATA_start, DATA_LEFT, DATA_CENTER, DATA_RIGHT,DATA_DRIFT,DATA_DISTANCE, DATA_nbrItems}",
+        "particle": "enum"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "dataDisplayBegin(DATA_nbrItems, labels, minRange, maxRange ); Serial.println(\"Ready\"); void loop() lineSense(); int distance = pingGetDistance(pingPin); sendData(DATA_DISTANCE, distance); // send distance"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "sendData"
+      }
+    ],
+    "note": [
+      "rightVal); // send right sensor values"
+    ],
+    "title": [
+      "// send left sensor value sendData(DATA_CENTER, centerVal); // send center sensor value sendData(DATA_RIGHT"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "pinMode(pingPin, OUTPUT); digitalWrite(pingPin, LOW); delayMicroseconds(2); digitalWrite(pingPin, HIGH); delayMicroseconds(5); digitalWrite(pingPin, LOW);"
+    ],
+    "type": null
+  }
+]
