@@ -1,0 +1,923 @@
+[
+  {
+    "author": [
+      {
+        "family": "Kerievsky",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2004",
+      "1999"
+    ],
+    "title": [
+      "Refactoring to Patterns. Addison-Wesley Signature Series. In this book Joshua Kerievsky addresses the question of how patterns can be inserted into an OO system step by step. The book is a consequent continuation of Fowler"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Opdyke",
+        "given": "W.F."
+      }
+    ],
+    "container-title": [
+      "It focuses on refactoring to push the development of frameworks"
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Refactoring Object-Oriented Frameworks Ph.D. thesis, University of Illinois at Urbana-Champaign. The first comprehensive work dealing with refactoring"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "note": [
+      "This standard work on design patterns also contains patterns References and Further Reading 77"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns. Elements of Reusable Object-Oriented Software"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "A."
+      },
+      {
+        "family": "Thomas",
+        "given": "D.Tell"
+      },
+      {
+        "family": "ask",
+        "particle": "don't"
+      }
+    ],
+    "genre": [
+      "JDepend."
+    ],
+    "note": [
+      "JDepend analyzes the dependencies between packages and classes and calculates Robert Martin’s metrics (see Martin, 1997)."
+    ],
+    "title": [
+      "A depiction of the Tell, don’t ask principle"
+    ],
+    "type": null,
+    "url": [
+      "http://www.pragmaticprogrammer.com/ppllc/papers/1998_05.html.",
+      "http://www.clarkware.com/software/JDepend.html."
+    ]
+  },
+  {
+    "citation-number": [
+      "JDepend4Eclipse."
+    ],
+    "title": [
+      "JDepend as an Eclipse plugin"
+    ],
+    "type": null,
+    "url": [
+      "http://andrei.gmxhome.de/jdepend4eclipse."
+    ]
+  },
+  {
+    "date": [
+      "1989"
+    ],
+    "editor": [
+      {
+        "family": "Kerner",
+        "given": "H."
+      }
+    ],
+    "title": [
+      "Rechnernetze nach ISO-OSI, CCITT. Describes the ISO-OSI layer model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lakos",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Large-Scale C++ Software Design. Addison-Wesley. This book introduces important architecture principles of comprehensive software systems that are relevant beyond the C++ context"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lieberherr",
+        "given": "K."
+      },
+      {
+        "family": "Holland",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "IEEE Software. September"
+    ],
+    "date": [
+      "1989"
+    ],
+    "note": [
+      "The article depicts the Law of Demeter."
+    ],
+    "pages": [
+      "38–48"
+    ],
+    "title": [
+      "Assuring Good Style for Object-Oriented Programs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mackinnon",
+        "given": "T."
+      },
+      {
+        "family": "Freeman",
+        "given": "S."
+      },
+      {
+        "family": "Craig",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "The original article about Mock Objects was introduced at the XP 2000 conference",
+      "XP"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "title": [
+      "Endo-Testing: Unit Testing with Mock Objects",
+      "Conference. The online version of this resource can be found at"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.connextra.com/aboutUs/mockobjects.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marquardt",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Sixth European Conference on Pattern Languages of Programming and Computing"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Dependency Structures. Architectural Diagnoses and Therapies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bolour",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "Article about the Eclipse plugin model."
+    ],
+    "title": [
+      "Notes on the Eclipse Plugin Architecture"
+    ],
+    "type": null,
+    "url": [
+      "http://www.eclipse.org/articles/Article-Plugin-architecture/plugin_architecture.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "J.O."
+      },
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Pattern Languages of Program Design. Addison-Wesley. Contains many important articles about software architectures and patterns"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Foote",
+        "given": "B."
+      },
+      {
+        "family": "Opdyke",
+        "given": "W.F."
+      }
+    ],
+    "container-title": [
+      "Pattern Languages of Program Design. Addison-Wesley"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Coplien",
+        "given": "J.O."
+      },
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "note": [
+      "Groundwork article about frameworks."
+    ],
+    "pages": [
+      "239–257"
+    ],
+    "title": [
+      "Lifecycle and refactoring patterns that support evolution and reuse"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "also the plugin pattern (among others)."
+    ],
+    "title": [
+      "Patterns of Enterprise Application Architecture. Addison-Wesley. Contains many important design patterns for the programming of comprehensive business applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Inversion of Control Containers and the Dependency Injection Pattern",
+      "Here, Fowler focuses on the inversion of control containers and discusses several approaches to the generation of plugins"
+    ],
+    "type": null,
+    "url": [
+      "http://martinfowler.com/articles/injection.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freese",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 4th International Conference on Extreme Programming and Agile Processes in Software Engineering, XP 2004"
+    ],
+    "date": [
+      "2003"
+    ],
+    "editor": [
+      {
+        "family": "Marchesi",
+        "given": "M."
+      },
+      {
+        "family": "Succi",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "Genova, Italy"
+    ],
+    "title": [
+      "Inline method considered helpful: an approach to interface evolution"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "note": [
+      "The design pattern bible. Also contains the facade pattern."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns. Elements of Reusable Object-Oriented Software"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lippert",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of XP 2004 International Conference on Extreme Programming and Agile Processes in Software Engineering. Springer, LNCS. This XP-2004 conference contribution elaborates on the problems of large refactorings in an 156 4 Large Refactorings"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Towards a proper integration of large refactorings in agile software development"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "R.C."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "note": [
+      "In this article, DIP (Dependency Inversion Principle) is also described."
+    ],
+    "title": [
+      "Stability. C++ Report. Even though this contribution is several years old, its content has neither collected dust, nor is it C++-specific"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thun",
+        "given": "F.",
+        "particle": "Schulz von"
+      },
+      {
+        "family": "Taschenbuch",
+        "given": "Rowohlt"
+      }
+    ],
+    "container-title": [
+      "Development and Value Diagram"
+    ],
+    "date": [
+      "1998"
+    ],
+    "note": [
+      "personal ways of communication, approaches to communication improvement."
+    ],
+    "title": [
+      "Miteinander reden",
+      "Volume Two of this bestselling series. How to develop a systemic view of mutual restraints and vicious circles in communication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thun",
+        "given": "F.",
+        "particle": "Schulz von"
+      },
+      {
+        "family": "Taschenbuch",
+        "given": "Rowohlt"
+      }
+    ],
+    "container-title": [
+      "Analogies between teams consisting of several persons and the inner team, the References and Further Reading 157"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Miteinander reden",
+      "Volume Three of this bestselling series"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "title": [
+      "This mailing list discusses database-related topics with a focus on agile methods"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ambler",
+        "given": "S.W."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "The process of database refactoring",
+      "An article that gives an overview of database refactorings, including descriptions of the development processes"
+    ],
+    "type": null,
+    "url": [
+      "http://www.agiledata.org/essays/databaseRefactoring.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ambler",
+        "given": "S.W."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Catalog of database refactorings",
+      "A catalogue of frequently used refactorings of database schemas"
+    ],
+    "type": null,
+    "url": [
+      "http://www.agiledata.org/essays/databaseRefactoringCatalog.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Celko",
+        "given": "J."
+      },
+      {
+        "given": "Harlekijn"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "title": [
+      "SQL for Smarties – Advanced SQL Programming",
+      "This book provides an introduction to advanced SQL concepts and presents suggestions for solutions for recurring modeling problems, such as the mapping of tree structures to relational databases"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "M."
+      },
+      {
+        "family": "Sadalage",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Evolutionary database design",
+      "This article explains the basic concepts of evolutionary database design. Refactorings of database schemas, the migration of data as well as refactorings of database access codes are examined"
+    ],
+    "type": null,
+    "url": [
+      "http://www.martinfowler.com/articles/evodb.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sadalage",
+        "given": "P."
+      },
+      {
+        "family": "Schuh",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "Presented at XP/Agile Universe 2002, www.xpuniverse.com. Here, among other issues, the deprecated marker of database elements is discussed."
+    ],
+    "title": [
+      "The agile database: tutorial notes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bloch",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "In this book you will find – besides a number of very useful tips for Java programming"
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "an instruction for realizing typesafe and expandable enumeration types (typesafe enums) in Java."
+    ],
+    "title": [
+      "Effective Java. Addison-Wesley. Bloch argues that inheritance must be planned. If inheritance from a class has not explicitly been provided for, it should rather be prevented (for example through setting the class to final"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Refactoring: Improving the Design of Existing Code. Addison-Wesley. Not only does Fowler describe basic refactorings here, he also introduces the distinction between public and published interfaces"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Beck",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "Among them are patterns that simplify evolution between subsystems, such as, for example, the Adaptable mechanism."
+    ],
+    "title": [
+      "Contributing to Eclipse – Principles, Patterns, Plug-ins. Addison-Wesley, Eclipse Series. In this standard work about plugin development with Eclipse the authors depict very diverse mechanisms realized in the Eclipse framework"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gosling",
+        "given": "J."
+      },
+      {
+        "family": "Joy",
+        "given": "B."
+      },
+      {
+        "family": "Steele",
+        "given": "G."
+      },
+      {
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "The Java Language Specification. Addison-Wesley. A language specification for Java"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Havenstein",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Diploma thesis,"
+    ],
+    "location": [
+      "Germany"
+    ],
+    "note": [
+      "Here, tools for the handling of refactoring tags as well as implementation methods for these tools are presented. Also discusses how much help converters can provide for migration."
+    ],
+    "publisher": [
+      "Software Engineering Group, Dept. of Informatics, University of Hamburg"
+    ],
+    "title": [
+      "Werkzeuge für die Migrationsunterstützung von Anwendungen auf neue Rahmenwerksversionen"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Havenstein",
+        "given": "A."
+      },
+      {
+        "family": "Roock",
+        "given": "S."
+      },
+      {
+        "family": "Villasimius",
+        "given": "Cagliari"
+      },
+      {
+        "given": "Italy"
+      }
+    ],
+    "container-title": [
+      "Proceedings of Extreme Programming Conference 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Refactoring tags for automatic refactoring of framework",
+      "This article is the first one to introduce the concept of refactoring tags"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "JavaSoft"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "Describes work with the deprecated tag."
+    ],
+    "title": [
+      "How and When to Deprecate APIs. Part of the Java2 Documentation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lippert",
+        "given": "M."
+      },
+      {
+        "family": "Roock",
+        "given": "S.Wolf"
+      },
+      {
+        "given": "H."
+      },
+      {
+        "family": "Züllighoven",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "2001 Extreme Programming Examined. Addison-Wesley. Conference publication of the XP-2000 Conference"
+    ],
+    "date": [
+      "2001"
+    ],
+    "editor": [
+      {
+        "family": "Succi",
+        "given": "G."
+      },
+      {
+        "family": "Marchesi",
+        "given": "M."
+      }
+    ],
+    "note": [
+      "Illustrates various experiences in the use of XP techniques (such as refactoring) for frameworks."
+    ],
+    "pages": [
+      "103–117"
+    ],
+    "title": [
+      "JWAM and XP – using XP for framework development"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "note": [
+      "Just like with using the deprecated tag in Java, the compiler will generate warnings for obsolete elements. References and Further Reading 247"
+    ],
+    "title": [
+      "Eiffel: The Language. Prentice-Hall. Meyer introduces the reader to the language Eiffel, which offers an option for marking classes and methods as deprecated with the keyword obsolete"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pipka",
+        "given": "J.U."
+      },
+      {
+        "family": "M",
+        "given": "Mezini"
+      }
+    ],
+    "container-title": [
+      "Informatik"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "note": [
+      "To support the integration process, a tool-based solution for the recognition of such conflicts is introduced as an example: the Java Migration Browser JaMB."
+    ],
+    "title": [
+      "Weiterentwicklung objektorientierter Softwaresysteme: Risiken und deren Vermeidung",
+      "Springer-Verlag. This work provides an overview of important migration conflicts in literature and practice, which are further scrutinized using Java. The focus is on conflict scenarios that can emerge during the integration of more complex subsystem versions"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rivières",
+        "given": "J.des"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "The focus is only on binary compatibility, not on source code compatibility though."
+    ],
+    "title": [
+      "Evolving Java-based APIs",
+      "Depicts possible API changes and their compatibilities"
+    ],
+    "type": null,
+    "url": [
+      "http://wwweclipse.org/eclipse/development/java-api-evolution.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roock",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Conference publication of the XP-2000 Conference"
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "editor": [
+      {
+        "family": "Succi",
+        "given": "G."
+      },
+      {
+        "family": "Marchesi",
+        "given": "M."
+      }
+    ],
+    "note": [
+      "Analyses of problems related to API changes and some ideas for solutions."
+    ],
+    "pages": [
+      "71–82"
+    ],
+    "title": [
+      ": eXtreme frameworking – how to aim applications at evolving frameworks",
+      "Extreme Programming Examined. Addison-Wesley"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Szyperski",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Component Software. Addison-Wesley. Standard work about components that also offers insights on some of the aspects discussed here"
+    ],
+    "type": null
+  }
+]
