@@ -1,0 +1,1264 @@
+[
+  {
+    "note": [
+      "const std::string& legend = string(\"* \"), long freq = 1);"
+    ],
+    "title": [
+      "// Print the vector that is the difference of two vectors void printDifferenceInExcel(const Vector<double, long>& x, const Vector<double, long>& y1, const Vector<double, long>& y2, const std::string& title = string(\"Difference\"), const std::string& horizontal = string(\"X Values\"), const std::string& vertical = string(\"Y Values\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ExcelDriver& excel = ExcelDriver::Instance(); excel.MakeVisible(true);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "public: // Public functions ExtendedOption(); ExtendedOption(const ExtendedOption& option2); Datasim Visualisation Package in Excel: Drivers and Mechanisms 381"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ExtendedOption& operator = (const ExtendedOption& option2"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Delta, Gamma, Vega, Theta, Rho, Coc, Elasticity"
+    ],
+    "title": [
+      "enum OptionValueType {Value"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "F."
+      },
+      {
+        "family": "Scholes",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Political Economy"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "637–654"
+    ],
+    "title": [
+      "The Pricing of Options and Corporate Liabilities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "81"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boyle",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "323–338"
+    ],
+    "title": [
+      "Options: A Monte Carlo Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buschmann",
+        "given": "F."
+      },
+      {
+        "family": "Meunier",
+        "given": "R."
+      },
+      {
+        "family": "Rohnert",
+        "given": "H."
+      },
+      {
+        "family": "Sommerlad",
+        "given": "P."
+      },
+      {
+        "family": "Stal",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley & Sons Ltd"
+    ],
+    "title": [
+      "Pattern-Oriented Software Architecture: A System of Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Carr",
+        "given": "P."
+      },
+      {
+        "family": "Madan",
+        "given": "D.B."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999",
+      "Summer"
+    ],
+    "title": [
+      "Option valuation using the fast Fourier transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clewlow",
+        "given": "L."
+      },
+      {
+        "family": "Strickland",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley and Sons Ltd"
+    ],
+    "title": [
+      "Implementing Derivatives Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Options Markets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Ross",
+        "given": "S."
+      },
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "229–263"
+    ],
+    "title": [
+      "Option Pricing: A Simplified Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlquist",
+        "given": "G."
+      },
+      {
+        "family": "Bjorck",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "note": [
+      "Numerical Methods, Prentice-Hall, Englewood Cliffs NJ."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Duffy",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "genre": [
+      "PhD Thesis,"
+    ],
+    "location": [
+      "Dublin, Ireland"
+    ],
+    "publisher": [
+      "Trinity College"
+    ],
+    "title": [
+      "Uniformly convergent difference schemes for problems with a small parameter in the leading derivative"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Duffy",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "From Chaos to Classes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Duffy",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley and Sons Ltd"
+    ],
+    "title": [
+      "Financial Instrument Pricing in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Duffy",
+        "given": "D.J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley and Sons Ltd"
+    ],
+    "title": [
+      "Finite Difference Methods in Financial Engineering, a Partial Differential Equation Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eysenck",
+        "given": "M.W."
+      },
+      {
+        "family": "Keane",
+        "given": "M.T."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Cognitive Psychology, Psychology Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fabozzi",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Englewood Cliffs NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Bond Markets, Analysis and Strategies"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Foley",
+        "given": "J.D."
+      },
+      {
+        "family": "Dam",
+        "given": "A.",
+        "particle": "van"
+      },
+      {
+        "family": "Feiner",
+        "given": "S.K."
+      },
+      {
+        "family": "Hughes",
+        "given": "J.F."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Reading MA"
+    ],
+    "publisher": [
+      "Computer Graphics, Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Frege",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Translations from the philosophical writings of Gottlieb Frege"
+    ],
+    "date": [
+      "1952"
+    ],
+    "editor": [
+      {
+        "family": "Geach",
+        "given": "P."
+      },
+      {
+        "family": "Black",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "Basic Blackwell, Oxford"
+    ],
+    "title": [
+      "On sense and reference"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Glassermann",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Monte Carlo Methods in Financial Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "GOF",
+        "given": "Gamma"
+      },
+      {
+        "family": "E.",
+        "given": "Helm"
+      },
+      {
+        "family": "R.",
+        "given": "Johnson"
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Reading MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns, Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haug",
+        "given": "E.G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "McGraw-Hill New York"
+    ],
+    "title": [
+      "The Complete Guide to Option Pricing Formulas"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heston",
+        "given": "S.L."
+      }
+    ],
+    "container-title": [
+      "Options The Review of Financial Studies"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "327–343"
+    ],
+    "title": [
+      "A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Englewood Cliffs NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Options, Futures and other Derivative Securities"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaeckel",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley and Sons Ltd"
+    ],
+    "title": [
+      "Monte Carlo Methods in Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Keiler",
+        "given": "H.B."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Numerical Methods for Two-Point Boundary Value Problems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D.M."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "note": [
+      "K & R 1988) The C Programming Language, Prentice-Hall, Englewood Cliffs NJ."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kloeden",
+        "given": "P."
+      },
+      {
+        "family": "Platen",
+        "given": "E."
+      },
+      {
+        "family": "Schurz",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Numerical Solution of SDE Through Computer Experiments, Springer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Landin",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "An Introduction to Algebraic Structures"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "Interval Analysis, Prentice-Hall, Englewood Cliffs NJ"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Analysis, SIAM, Philadelphia"
+    ],
+    "title": [
+      "Methods and Analysis of Interval"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pauling",
+        "given": "L."
+      },
+      {
+        "family": "Bright Wilson",
+        "given": "E.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Quantum Mechanics with Applications to Chemistry"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W.H."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S.A."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W.T."
+      },
+      {
+        "family": "Flannery",
+        "given": "B.P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "Numerical Recipes in C++, Cambridge University Press, Cambridge."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New London"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Real and Complex Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Scheid",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Numerical Analysis, Schaum’s Outline Series"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sobol",
+        "given": "I.M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Boca Raton"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "A Primer for the Monte Carlo Method"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Spiegel",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Complex Variables, Schaum’s Outline Series"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stoer",
+        "given": "J."
+      },
+      {
+        "family": "Bulirsch",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Introduction to Numerical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Topper",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley and Sons Ltd"
+    ],
+    "title": [
+      "Financial Engineering with Finite Elements"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Volkovyskii",
+        "given": "L.I."
+      },
+      {
+        "family": "Lunts",
+        "given": "G.L."
+      },
+      {
+        "family": "Aramanovich",
+        "given": "I.G."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "A Collection of Problems on Complex Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmott",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley and Sons Ltd"
+    ],
+    "title": [
+      "Derivatives: The Theory and Practice of Financial Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "P.G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York. Index"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "title": [
+      "Exotic Options: A Guide to Second-Generation Options"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "79–92, 364 Bisection method 93, 105–9 Black-Scholes options pricing model 31–3, 37, backward induction 220–1, 245–6, 255–63,",
+      "backward iterators 177–8 see also partial differential equations see also iterators assumptions 246, 265–70 Backward in Time and Centred in Space (BTCS) concepts 31–3, 37, 246, 259–60, 265–82,"
+    ],
+    "pages": [
+      "259–60, 265–82, 283–303,",
+      "316–18 381–7"
+    ],
+    "title": [
+      "Asian options 339–40 ‘Bill of Materials’ 149–50 assemblies-parts relationships, property sets binary operators, concepts 64–9, 182 213–15 binomial method 31, 153, 158, 201, 203, 215–16, assert 44–5 219–21, 245–63, 318, 321–2, 340–1, 347–9 assignment operators 33–4, 70–1, 116–19 see also lattice structures AssocArray 187–202 basket options 321–2 association relationships, concepts 229–33, C++ 245–63, 347–9 238–42, 348–9 class design/structure 250–60 associative arrays, concepts 187–8, 196–202 classes 245–63 associative matrices comparisons with other methods 340–1 concepts 176, 187–8, 196–202 concepts 31, 153, 158, 201, 203, 215–16, QF applications 199–200 219–21, 245–63, 318, 321–2, 340–1, 347–9 AssocMatrix 187–202 design patterns 252–62 asymptotic complexity Monte Carlo simulation 340–1 see also efficiency issues multidimensional binomial method 321–2 concepts 170–83 overview 246–9 AT&T 7 performance issues 262–3, 340–1 ATL see ActiveX Template Library pricing 31, 153, 158, 201, 203, 215–16, attributes 219–21, 245–63, 321–2, 340–1, 347–9 see also member data process steps 258–9 concepts 8–9, 31–2 simple solver 219–21, 249–63 automatic memory software requirements 249–50 see also stack test cases 259–60 concepts 55–7"
+    ],
+    "type": null,
+    "volume": [
+      "246",
+      "309, 366"
+    ]
+  },
+  {
+    "note": [
+      "346–9 binomial method 245–63 examples 171–2 concepts 7–11, 16–17, 19–30, 31–47, 49–62, complexity classes 172 75–8, 86–92, 99–111, 115–19, 133–52, compliance characteristics, software quality 171–2, 225–33, 346–9 12–13 concrete classes 115–19, 210–13, 358–9 Component Object Model (COM) 27, 347–8,"
+    ],
+    "pages": [
+      "159 210–13, 380–1,"
+    ],
+    "title": [
+      "circles 237–8 collection-members relationship, property sets circular lists 172–3 210, 213–15 class 21–5 COM see Component Object Model class libraries 8, 40–1 comment lines 16–19 class-based object-oriented languages, concepts Common Base Class scenario 394–6 32–3 compilation classes concepts 7–8, 15, 18, 20–2, 25–6, 58, 104, 134, see also template classes 139, 154, 159, 354 abstract concepts 32–3, 115–19, 133–4, errors 25–6",
+      "399 compile-time parametric arrays 81–2 accessibility issues 33–4, 40–1 complex 64–78, 306 aggregation relationships 227–33, 238–42, complex numbers 348–9 arrays 84–6 algorithms 171–2, 213–15 concepts 63–78, 84–92, 279 arrays 86–92, 196–202, 364 financial applications 84 association relationships 229–33, 238–42, complexity analysis 348–9 concepts 170–83"
+    ],
+    "type": null,
+    "volume": [
+      "104, 134, 139, 154"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "default"
+      }
+    ],
+    "note": [
+      "payoffs declarations/directives, concepts 97–9, 354 cosine function 73–4 ‘deep’ copies cost-of-carry 9–10, 32–47, 234–42, 269–82, see also assignment. . . 365–6, 380–7 objects 33–4, 70–1, 205 count 177 deep hierarchies, problems 127 cout 18–19, 21–2, 28–9, 43–5, 50, 53–4, 60–1, default constructors 66–7, 71–2, 80–2, 97, 100–3, 108, 119, see also constructors 122–7, 135–7, 405–6 concepts 54–5, 57, 76–8, 81–2, 86–7, 116–19, Covey, Stephen 345 124–7, 160–3, 192–202, 206–7, 227–33, Cox, Ross and Rubinstein (CRR) 245, 248–63 239–42, 255–63, 306–9 cpp files 16–18, 19–26, 28, 35–9, 56, 58, 160–3, defining attribute view 8–9, 31"
+    ],
+    "pages": [
+      "357–8"
+    ],
+    "title": [
+      "code files constant algorithms, concepts 171–2 see also source code const cast 139 concepts 16–22, 31–8 constructors cognitive psychology 8–9 see also copy",
+      "Index 413 concepts 32–4, 54–7, 75–8, 81–92, 115–19, data 124–30, 154–5, 159–60, 176–85, 192–202, see also member data 204–7, 227–33, 239–42, 255–63, 306–9 conversion routines 27–9, 137–9, 181–2 detailed examination 54–5 header files 16–19, 31–4 kinds 54–5, 57, 81, 124–5, 176–85 initialisation 16, 34, 55, 255–63, 375–6 container-contents relationships, property sets robustness issues 49–62 215 security issues 49–62 containers 27, 40–1, 44–5, 60, 75–8, 147–8, 169, structures 75–8 172–6, 178–83, 187–202, 203–22, 245–63 types 16–19, 32–3, 209–13, 353–61 see also matrices; vectors variable name 16–19 algorithms 169–70, 172–6, 178–83, 187–202, data modeling, property sets 213–15 213–15 data structures 32–3, 153–4, 169–85, 187–202, types 41, 75, 169, 172–6, 178–9, 187–202 299–303, 315–26, 346–9 contingent claims 373 computer sciences 169–70, 172–6, 346–9 continuous compounding 42–5 concepts 169–85, 187–202, 203–22, 315–26, continuous dividends 260–3, 315–18 346–9 continuous spaces 94–6, 260–3, 305, 378–9 efficiency issues 170–83, 299–300 control variates 340 information access 176–85, 251–2 convection-diffusion equations 268–82, 283–303, introduction 172–6 334–6 iterators 177–83, 208–13 see also Black-Scholes options pricing model navigation 177–83, 208–13 conversion routines, data 27–9, 137–9, 181–2 QF applications 187–202, 203–22, 299–303, coordinates 159–63 315–26 copy 34, 37, 177, 180 types 172–6, 187–202, 203 copy constructors Datasim visualisation package 373–89 see also constructors date 65 concepts 54–5, 57, 86–7, 116–19, 161–3, DDE see Dynamic Data Exchange 306–9 deallocation essentials, memory management 65, correlation options 127–30, 283–303 79–92, 113–15, 346–9, 356–9 see also basket options; multi-factor option debug facilities 80"
+    ],
+    "type": null,
+    "volume": [
+      "353"
+    ]
+  },
+  {
+    "container-title": [
+      "concepts"
+    ],
+    "genre": [
+      "concepts 93–6,"
+    ],
+    "note": [
+      "functional programming styles 11, 326, data members"
+    ],
+    "pages": [
+      "236–7,",
+      "358–9, 363–71 265–82, 283–303,",
+      "333–6, 340–1,",
+      "347–9, 384–7 358–9,",
+      "31–4, 58 347–9, 384–7",
+      "270–5 346–9"
+    ],
+    "title": [
+      "find 177 application areas 96, 104–9 finite difference schemes 31",
+      "363–71 basket options 283–303 examples 95–6, 104–9 comparisons with other methods 340–1 namespaces 98–9 concepts 265–82, 283–303, 309, 333–6, 340–1, function prototypes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "128, 158",
+      "C 357",
+      "309",
+      "98–9, 104–9, 117–23, 357",
+      "16"
+    ]
+  },
+  {
+    "container-title": [
+      "futures markets, technical analysis",
+      "IDispatch 401 GBM see Geometric Brownian Motion if statement 10–11",
+      "implicit finite difference scheme, concepts 266, relative unpopularity",
+      "GOF",
+      "generalisation/specialisation relationships"
+    ],
+    "issue": [
+      "RESULT, IUnknown interface 401–6 gammas 31–47, 245–63, 278, 282, 308–14"
+    ],
+    "note": [
+      "see also inheritance. . . IHedge 397–8,",
+      "301–2 Geometric Brownian Motion (GBM) 246–9, implied trees 203 315–18 implied volatility geometric processes, SDEs 334–6 see also volatility get 58 calculations 108–9, 202 getString 27–9 concepts 108–9, 202 global functions information-hiding principle, concepts 89, 101, see also non-member functions 193–4, 358 concepts 58, 96 inheritance mechanism 13, 79, 93, 96, 99–111, Glockenspiel 7 113–31, 134–7, 158, 209–15, 225–33, GOF see ‘Gang of Four’ 346–9, 391–9"
+    ],
+    "pages": [
+      "369–70",
+      "381–7",
+      "228–33,",
+      "375",
+      "49–50, 117–19,",
+      "137–8, 155–7, 162–3, 235–42, 271–2, 225–33, 238–42 308–10, 381–3, 404–6",
+      "153–65, 346–9",
+      "154 273–5, 279–82,"
+    ],
+    "title": [
+      "functionality characteristics, software quality h file extension 35 12–13 Halton numbers 340 functions header files 15, 16–30, 31–8, 40–5, 58, 88–9, see also member functions 353–4, 374–7 calls 49–51 array classes 88–9 categories 94–5 canonical header files 116–19 concepts 9–11, 16–30, 31–47, 93–111, 158–65, compilation errors 25–6 176–85 concepts 16–22, 31–8, 42–5, 58, 88–9, 353–4 financial engineering 94–6, 104–9, 113–31, confusions 18 367–70 contents 16 friend functions 69–70, 72–4 private part 33–4, 40, 52–4, 56 global functions 58 public part 33–4, 40–1, 56 header files 16–19, 31–4, 88–9 templates 23 input arguments 16–17, 363–71 heap 56",
+      "names 16–17 see also free store non-member functions 57, 58, 69–71, 96, 158, algorithms 177 160–3 concepts 79–80, 82–92, 177, 346–9, 356, 364, principle of substitutability 116–17 369–70 return types 16–17 hedging 9–10, 397–8, 403–6 scope resolution operator (::) 35, 41, 101–2, helper functions 54–5 116–18, 393–4 heterogeneous data types, property sets 209–13 signatures 16, 18 hierarchies, concepts 9, 238–41 template functions 10–11, 22–5, 27–9, 158–65, historical background, C++ 7–8 179–83, 201–2 hollow circles 237–8 future values 42–7 hpp files 16–17",
+      "hyperbolic functions 72–4 ‘Gang of Four",
+      "403–6 classes 113, 225–33 IID, IUnknown interface 401–6 generic data structures 32–3, 153–4, 169–85, IInstrument 397–8, 402–6 187–202, 203–22, 315–26 implementation, software lifecycle 225 see also data structures implementation inheritance, concepts 113 concepts 169–85, 315–26 implicit Euler finite difference schemes 273–4, generic programming 279–82, 301–2 concepts 10–11"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65, 79–92, 177, 346–9, 356, 364",
+      "19–23, 34–9, 42–5, 56, 58, 88",
+      "374",
+      "223",
+      "238, 241, 255, 260",
+      "16–25, 38",
+      "113",
+      "130"
+    ]
+  },
+  {
+    "container-title": [
+      "concepts",
+      "linear interpolation"
+    ],
+    "date": [
+      "203 interpolation 203"
+    ],
+    "genre": [
+      "interest rates 41–5,"
+    ],
+    "note": [
+      "concepts 310–14, 359 linear regression 310–14, 363, 367–70 methods 310–13, 367–70 lines 227–33, 237–42 interviews, programmers 363 linker errors 26 iostream 18–19, 24–5, 28–9, 71–2, 145–9, Linux 45 159–63, 357–8 list 170, 201, 236–42 ISO 9126 quality characteristics 11–12, 14, 341 lists 41, 169, 172–3, 201, 206, 236–42 ISO standards 11–12, 14, 169, 341 concepts 169, 172–3 iterative schemes, numerical analysis 105–9 nodes 172–3 iterators types 172–3 see also pointers local directories 19–22 concepts 169–85, 188–9, 195–202, 208–15, logarithmic algorithms, concepts 171–2 230–3, 239–42 logic 8–9 examples 179–83, 188–9, 195–202 errors 26–7 maps 188–9 logical units 170–83 property sets 208–13 lognormal processes 333 types 177–8 longs 28–9, 300–3"
+    ],
+    "pages": [
+      "122–7, 135–7,",
+      "215–21, 245–63, 315–26, 349 363–71,",
+      "27–9, 35–8, 40–1,",
+      "147–8,",
+      "380–7",
+      "367–70",
+      "310–14"
+    ],
+    "title": [
+      "inner product spaces 76–8 lattice structures input arguments, functions 16–17, 363–71 see also binomial method; trinomial method input/output mechanisms (I/O) 18–19, 21–5, advanced data structures 318–21 28–9, 43–5, 50, 53–4, 60–1, 65–7, 71–2, comparisons with other methods 340–1 80–2",
+      "373–406 examples 217–21 inputs, application activities 347 generic structures 322–6 insert 190–6 issues 215–16 installability characteristics, software quality 13 law of large numbers 331–2, 343 instances 8–11, 32–3, 115–19, 176–85 layering, software 348–9 see also classes lazy initialisation 375–6 examples 9–10 learnability characteristics, software quality 13 instantiation least squares interpolation, concepts 310–14, see also template classes 367–70 concepts 163, 169–70, 176, 392–9 legacy applications 28–9 int 354 libraries int main 18–19, 22, 24–5, 28–9, 80–2, 96, see also Standard Template Library 114–15, 122–3 C 366–71 intension of a concept, defining attribute view 8–9 concepts 8",
+      "efficiency issues 203 interface 396–8, 402–6 Fortran 11, 203 interface inheritance, concepts 113, 396–8 string stream library 27–9 interfaces 113, 178, 187–202, 232–3, 255–63, LIFO structures 173 373–406 lightweight payoff classes 119–23 interoperability characteristics, software quality limits.h library 367 12–13 linear algorithms, concepts 171–2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "97, 100–2, 108",
+      "203",
+      "71–2, 75",
+      "234–42, 268–303, 315–26, 187–202, 203–22, 363–71, 373–89 333–43, 365–6",
+      "282, 310–14, 328, 359",
+      "203, 282"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "American",
+        "particle": "see also"
+      },
+      {
+        "family": "call...",
+        "given": "European"
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "options"
+    ],
+    "genre": [
+      "concepts 82–92,",
+      "parabolic differential equations 283–4,",
+      "paradigms, concepts 7–11,",
+      "basket options 283–303,"
+    ],
+    "issue": [
+      "mial method 31, 153, 158, 201, 203"
+    ],
+    "note": [
+      "overview, C++ 345–9 Predictor-Corrector method 336 OWL 347 preprocessor, C 354–5 present value 42–7 Pade approximation see Cayley map pricing",
+      "parametrised classes, concepts 232–3 347–9 parsers 65–6 Black-Scholes options pricing model 31–3, 37, partial differential equations (PDEs) 127–30,",
+      "see also Black-Scholes options pricing model Monte Carlo simulation 224, 333–43, 347–9 basket options 285–303 trinomial method 153, 158, 201, 215–19, 245, C++ classes 292–7 263, 297–8, 315–26, 340–1, 347–9 Pascal Calling Convention 396–7 principle of substitutability, concepts 116–17 path generation 336 print 21, 78, 81–3, 100–3, 124–7, 188–91, payoff classes/functions 197–200, 209–10 advanced inheritance 113–31 priority queues 174 lightweight payoff classes 119–23 private 33–4, 40, 52–4, 56, 67–70, 74, 76–7, super lightweight payoff classes 121–3 88–9, 104, 107–9, 114–15, 120–3, 125–30, PDEs see partial differential equations 154–5, 194–202, 206–7, 214–15, 227–33, performance issues 255–62, 284–303 see also efficiency. . . ; optimization procedural programming styles 11, 41, 58 comparisons of numerical methods 340–1 processing, application activities 347 tips 58–60, 262–3, 340–1 programmers philosophy 8–9 see also software Planck’s constant 279 C basics 353–61 POC see Proof-of-Concept interviews 363 pointers 79, 82–96, 117–23, 136–52, 353, 355–7, productivity issues 203"
+    ],
+    "pages": [
+      "209–10,",
+      "245–63, 265–303, 333–43, 399 380–7, 403–6 82–92, 356–7",
+      "358–9,",
+      "381–7",
+      "140–9 141–5",
+      "403–6",
+      "346–9,",
+      ", 49–62, 232–3 215–16, 219–21,",
+      "340–1,",
+      "259–60, 265–82, 283–303,",
+      "262–3, 265–82, 283–303,",
+      "381–7 381–7"
+    ],
+    "title": [
+      "; function pointers 93–6, 98–9, 104–9, 117–23, pricing; put",
+      "363–71 Black-Scholes options pricing model 31–3, 37, Virtual Function Tables 399 246, 259–60, 265–82, 283–303, 309, 366, poles, rational interpolation 311 381–7 polylines 227–33, 237–42 correlation options 127–30, 283–303 polymorphism The Greeks 260–3",
+      "see also dynamic casting; virtual modeling 9–10, 31–47 concepts 96, 102–4, 106–9, 113–15, 134–52, Monte Carlo simulation 224, 333–43 209, 228–42 payoff functions 113–31, 245–63 polynomials, concepts 93, 310–14 Ornstein-Uhlenbeck model 318–19 portability characteristics, software quality 12–13 Orthogonal Base Class scenario 391–3 portfolios 137, 209–13 OS see operating system information access 137 ostream 160–3 postconditions, exception-handling mechanism out-performance options 128–30, 284–303 141–5 outputs powers of numbers 43–4 application activities 347 pragmatic exception mechanisms, concepts 145–9 exported data 373–89 preconditions, exception-handling mechanism overflow/underflow errors 26–7"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 9–10, 31–47, 108–9, 175",
+      "93–6, 136–52, 353, 355–6, 213–21, 234–42",
+      "357",
+      "278, 282, 308, 373",
+      "80",
+      "8, 9–10, 31–47, 108–9, 213–21, 226–7, pair 188–9 234–42, 245–63, 265–82, 283–326, 366",
+      "384–7 380–7",
+      "41–5, 58, 130",
+      "245–63, 321–2",
+      "246",
+      "309, 366",
+      "312, 328"
+    ]
+  },
+  {
+    "container-title": [
+      "STL"
+    ],
+    "note": [
+      "visualisation packages in Excel 373–89 365–6, 380–7 vegas 381–7 binomial method 31, 153, 158, 201, 203, virtual 34, 41, 76, 88–9, 102–4, 106–9, 113–31, 215–16, 219–21, 245–63 134–7, 142–9, 204–5, 228–42, 289–303 trinomial method 153, 158, 201, 215–19, 245, see also polymorphism 263, 297–8, 315–26 concepts 102–4, 113–16, 134–7 understandability characteristics, software quality function tables 399 7, 12–13 Virtual Function Tables 399 unexpected 150 Visitor pattern 205, 214–15, 240–1"
+    ],
+    "pages": [
+      "215–19,",
+      "297–303, 322–6, 346–9",
+      "297–8, 315–26, 340–1,",
+      "346–9 347–9",
+      "283–303, 315–26, 333–43,"
+    ],
+    "title": [
+      "Tanh integration rule 358, 360 C++ 306–9 technical analysis, futures markets 322–5 definition 305 template 23–5, 143–5, 154–65, 190–202, numerical analysis 305–14 204–8, 217, 220–1, 232–3 solving 305–9 template classes sparse arrays 190–1 complete example 159–63 trigonometric functions 72–4, 366–7 concepts 22–5, 44–5, 75–8, 153–65, 190–202, trinomial method 153",
+      "347–9 creation 154–65 see also lattice structures reusability benefits 157–8 C++ 315–26, 347–9 syntax 154–65, 170 comparisons with other methods 340–1 test programs 162–3 concepts 315–26, 340–1, 347–9 usage examples 156–8, 190–202, 322–6 Monte Carlo simulation 340–1 template functions short rate trees 318–21 concepts 10–11, 22–5, 27–9, 158–65, 179–83, try 144–52, 378–9 201–2 try, throw and catch, exception-handling namespaces 158–65 mechanism 141–52, 302, 378–9 template mechanism 153–4, 267 two-dimensional shapes 123–7, 190–1, 223–42 templates, concepts 10–11, 22–5, 27–9, 44–5, two-factor options 127–30",
+      "temporal data types 203 typedef 44, 157–8, 190–1, 196–202, 208, tensors 231–3, 357 see also arrays; matrices typeid 134–7 visualisation packages in Excel 373–89 type info 134–7 terminate 150–2 test programs ULONG, IUnknown interface 402–6 binomial method 259–60 UML see Unified Modeling Language Black-Scholes options pricing model 276–8 unary operators, concepts 64–5, 182 424 Index underlying assets 31, 32–47, 153, 158, 201, 203"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "158, 201",
+      "245, 203–22, 267–82",
+      "263",
+      "283–303, 321–2, 343, 81–2, 153–65, 190–202",
+      "169 215–21, 245–63"
+    ]
+  },
+  {
+    "container-title": [
+      "Visual Basic"
+    ],
+    "date": [
+      "197"
+    ],
+    "genre": [
+      "STL sets 194–6"
+    ],
+    "note": [
+      "weak law, law of large numbers 331–2 Variational pattern 237–42 Weibull distribution 388"
+    ],
+    "pages": [
+      "401 124–5,",
+      "245–6, 250–1,",
+      "194–6 271–82, 298–303, 357–8",
+      "104–9,",
+      "16–19 331–43"
+    ],
+    "title": [
+      "Unified Modeling Language (UML) 119–20",
+      "265–7, Visual Studio 20 286–7, 292–3 visualisation packages 149, 373–89 see also design patterns; documentation issues basic driver functionality 373–6 union 357–8, 366 concepts 373–89 unique 177 functionality 373–6 up-and-out calls 338–9 option values 380–7 upcasting, concepts 138–9 sensitivities (the Greeks) 380–7 usability characteristics, software quality 12–13 void 21, 34, 36–8, 52–5, 81–2, 95–6, 100–9, user-defined types 23, 28–9, 79–92, 194–6, 116–19, 124–7, 134–7, 142–9, 160–3",
+      "187–8, user-friendly sets, concepts 191–6 190–202, 234–42, 246–63, 268–303, ‘uses’ hierarchy 348 315–26, 365–6, 380–7 using 97 see also implied volatility using declarations/directives, concepts 97–9, Black-Scholes options pricing model 268–303 354 calculations 104–9 fixed-income applications 104–9 valarray 178–83, 363 map applications 190–1 value calls see call by value surface modeling applications 187–8, 190–202 variable name"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "147, 337, 373",
+      "224–32",
+      "208–13 188–9, 193–200, 207–10, 227–33, 239–42, concepts 79–92",
+      "volatility 9–10, 31–47, 93"
+    ]
+  }
+]
