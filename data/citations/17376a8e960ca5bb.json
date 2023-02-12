@@ -1,0 +1,69 @@
+[
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "This action brings up the Properties dialog"
+    ],
+    "title": [
+      "Select your server from the Applications list box, and then click the Properties button"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Select the Security tab."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "You can use the default access and launch permissions or create custom permissions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Make sure that SYSTEM is in the launch and access permissions. If you are using the default access or launch permissions, use the Default Security tab to make sure these permissions contain SYSTEM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "machine",
+        "given": "Run O.L.E.V.I.E.W.E.X.E.",
+        "particle": "on the client"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Make sure Expert Mode is selected on the View menu"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "machine",
+        "given": "Run O.L.E.V.I.E.W.E.X.E.",
+        "particle": "on the server"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Make sure Expert Mode is selected on the View menu"
+    ],
+    "type": null
+  }
+]
