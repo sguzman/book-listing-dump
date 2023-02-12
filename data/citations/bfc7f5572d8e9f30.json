@@ -1,0 +1,56 @@
+[
+  {
+    "title": [
+      "Create a new sketch in the Arduino IDE, and add the setup() and loop() functions in Listing 3-5"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "LISTING 3-5: setup() function for the Nine-Pixel Animation Machine"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "digitalWrite(13,"
+    ],
+    "note": [
+      "HIGH); digitalWrite(12, LOW); digitalWrite(11, HIGH);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "digitalWrite(7,"
+    ],
+    "note": [
+      "HIGH); digitalWrite(6, LOW); digitalWrite(5, HIGH);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Next, you’ll create an O like the one in Figure 3-11 to go with the X"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "digitalWrite(13,"
+    ],
+    "note": [
+      "HIGH); digitalWrite(12, HIGH); digitalWrite(11, HIGH); digitalWrite(10, HIGH); digitalWrite(9, LOW); digitalWrite(8, HIGH); digitalWrite(7, HIGH); digitalWrite(6, HIGH); digitalWrite(5, HIGH);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "digitalWrite(13,"
+    ],
+    "note": [
+      "HIGH); digitalWrite(12, LOW); digitalWrite(11, HIGH); digitalWrite(10, LOW); digitalWrite(9, HIGH); digitalWrite(8, LOW); digitalWrite(7, HIGH); digitalWrite(6, LOW); digitalWrite(5, HIGH); void oChar() digitalWrite(13, HIGH); digitalWrite(12, HIGH); digitalWrite(11, HIGH); digitalWrite(10, HIGH); digitalWrite(9, LOW); digitalWrite(8, HIGH); digitalWrite(7, HIGH); digitalWrite(6, HIGH); digitalWrite(5, HIGH);"
+    ],
+    "type": null
+  }
+]
