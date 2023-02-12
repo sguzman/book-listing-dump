@@ -1,0 +1,369 @@
+[
+  {
+    "author": [
+      {
+        "family": "PWD=/usr/local",
+        "given": "U.S.E.R.=root"
+      },
+      {
+        "family": "Nov",
+        "given": "C.O.M.M.A.N.D.=/usr/bin/ftp",
+        "particle": "bambam"
+      },
+      {
+        "family": "PWD=/usr/local",
+        "given": "U.S.E.R.=root"
+      },
+      {
+        "family": "Nov",
+        "given": "C.O.M.M.A.N.D.=/usr/bin/ftp",
+        "particle": "dino"
+      }
+    ],
+    "issue": [
+      "v 9 10:07:44 : d7742 : TTY=pts/2",
+      "09",
+      "ome/guest ; USER=root ; COMMAND=/usr/bin/whoami Jul 23 17:35:47 : d7996 : TTY=pts/3 ; PWD=/home/guest ; USER=root ; COMMAND=/usr/sbin/mount /usr/local/common Oct 2 09:29:33 : d7742 : TTY=pts/1 ; PWD=/home/d7742 ; USER=root ; COMMAND=/usr/bin/su -Nov 14 16:01:31 : d7742 : TTY=pts/0 ; PWD=/home/d7742"
+    ],
+    "note": [
+      "; USER=root ; COMMAND=/usr/bin/su - root Nov 14 16:03:58 : rmichael : TTY=pts/0 ; PWD=/home/rmichael ; USER=root ; COMMAND=/usr/bin/su - root Nov 15 11:31:32 : d7742 : TTY=pts/0 ; PWD=/scripts ; USER=root ; COMMAND=/usr/bin/pwdadm -f NOCHECK rmichael Nov 15 11:31:32 : d7742 : TTY=pts/0 ; PWD=/scripts ; USER=root ; COMMAND=/usr/bin/pwdadm rmichael Nov 15 11:31:32 : d7742 : TTY=pts/0 ; PWD=/scripts ; USER=root ;"
+    ],
+    "type": null,
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "hp4"
+    ],
+    "note": [
+      "May 7 07:02:23 EDT 2002 -s_q_nam not accepting requests since Tue May 7 07:02:23 EDT 2002 -# lpstat -p"
+    ],
+    "title": [
+      "accepting requests since May 07 07:02 2002 yogi_hp4_1ps accepting requests since May 07 07:02 2002 long_queue not accepting requests since Tue"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "printer long_queue disabled since Tue May 7 07:02:01 EDT 2002. available. stopped by user printer s_q_nam disabled since Tue May 7 07:02:01 EDT 2002. available. stopped by user printer hp4 unknown state. enabled since May 07 07:30 2002. available."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "enabled since May"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "30"
+    ],
+    "note": [
+      "available."
+    ],
+    "title": [
+      "printer yogi_hp4_1ps unknown state"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "07"
+    ]
+  },
+  {
+    "note": [
+      "May 7 07:02:23 EDT 2002 -# lpstat -p"
+    ],
+    "title": [
+      "long_queue not accepting requests since Tue May 7 07:02:23 EDT 2002 -s_q_nam not accepting requests since Tue"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "printer long_queue disabled since Tue May 7 07:02:01 EDT 2002. available. stopped by user printer s_q_nam disabled since Tue May 7 07:02:01 EDT 2002. available. stopped by user printer hp4 unknown state. enabled since May 07 07:30 2002. available."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "enabled since May"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "30"
+    ],
+    "note": [
+      "available."
+    ],
+    "title": [
+      "printer yogi_hp4_1ps unknown state"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "07"
+    ]
+  },
+  {
+    "citation-number": [
+      "pdisk0"
+    ],
+    "note": [
+      "Available 34-08-5B91-13-P SSA160 Physical Disk Drive pdisk13 Available 34-08-5B91-14-P SSA160 Physical Disk Drive pdisk14 Available 34-08-5B91-16-P SSA160 Physical Disk Drive pdisk15 Available 34-08-5B91-15-P SSA160 Physical Disk Drive"
+    ],
+    "title": [
+      "Available 34-08-5B91-01-P SSA160 Physical Disk Drive pdisk1 Available 34-08-5B91-02-P SSA160 Physical Disk Drive pdisk2 Available 34-08-5B91-03-P SSA160 Physical Disk Drive pdisk3 Available 34-08-5B91-04-P SSA160 Physical Disk Drive pdisk4 Available 24-08-5B91-05-P SSA160 Physical Disk Drive pdisk5 Available 24-08-5B91-07-P SSA160 Physical Disk Drive pdisk6 Available 24-08-5B91-06-P SSA160 Physical Disk Drive pdisk7 Available 24-08-5B91-08-P SSA160 Physical Disk Drive pdisk8 Available 24-08-5B91-09-P SSA160 Physical Disk Drive pdisk9 Available 24-08-5B91-10-P SSA160 Physical Disk Drive pdisk10 Available 24-08-5B91-11-P SSA160 Physical Disk Drive pdisk11 Available 24-08-5B91-12-P SSA160 Physical Disk Drive pdisk12"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "fs_mon_AIX_MBFREE.ksh: This shell script is used to monitor an AIX system for full filesystems using the MB free method. fs_mon_AIX_MBFREE_excep.ksh: This shell script is used to monitor an AIX system for full filesystems using the MB free method with exceptions capability"
+    ],
+    "type": null,
+    "url": [
+      "fs_mon_AIX_PC_MBFREE.ksh:"
+    ]
+  },
+  {
+    "title": [
+      "Basic AIX filesystem monitoring using the percent method with exceptions capability"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This shell script is used to monitor an HP-UX system for full filesystems using the MB free method"
+    ],
+    "type": null,
+    "url": [
+      "fs_mon_HPUX_MBFREE_excep.ksh:"
+    ]
+  },
+  {
+    "title": [
+      "fs_mon_HPUX_excep.ksh: Basic HP-UX filesystem monitoring using the percent method with exceptions capability"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "fs_mon_LINUX_MBFREE.ksh: This shell script is used to monitor a Linux system for full filesystems using the MB free method"
+    ],
+    "type": null,
+    "url": [
+      "fs_mon_LINUX_MBFREE_excep.ksh:"
+    ]
+  },
+  {
+    "title": [
+      "fs_mon_SUNOS_MBFREE.ksh: This shell script is used to monitor a SunOS system for full filesystems using the MB free method"
+    ],
+    "type": null,
+    "url": [
+      "fs_mon_SUNOS_MBFREE_excep.ksh:"
+    ]
+  },
+  {
+    "title": [
+      "Basic SunOS filesystem monitoring using the percent method with exceptions capability"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "HP-UX_swap_mon.ksh:"
+    ]
+  },
+  {
+    "title": [
+      "proc_mon.ksh: Process monitor that informs the user when the process ends"
+    ],
+    "type": null,
+    "url": [
+      "proc_wait.ksh:"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "proc_watch_timed.ksh:"
+    ]
+  },
+  {
+    "container-title": [
+      "Physical"
+    ],
+    "publisher": [
+      "and Physical Partitions"
+    ],
+    "title": [
+      "stale_VG_PV_LV_PP_mon.ksh: This shell script is used to monitor AIX stale partitions in Volume Groups"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Volumes, Logical Volumes"
+    ]
+  },
+  {
+    "citation-number": [
+      "sudo-1.6.3p7.tar.gz:"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "print_UP_HP-UX.ksh: Enables all HP-UX System V printers and queues. print_UP_Linux.ksh:"
+    ],
+    "title": [
+      "enable_AIX_classic.ksh: Enables all AIX “classic” print queues. print_UP_AIX.ksh: Enables all AIX System V printers and queues"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "PQ_all_in_one.ksh: Enables all printing and queuing on AIX, HP-UX, Linux, and SunOS by auto detecting the UNIX flavor"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "get_ftp_files.ksh:"
+    ]
+  },
+  {
+    "title": [
+      "get_ftp_files_pw_var.ksh: Script to retrieve files from a remote machine using FTP. This script gets its password from an environment file somewhere on the system, defined in the script"
+    ],
+    "type": null,
+    "url": [
+      "put_ftp_files_pw_var.ksh:"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "float_divide.ksh:"
+    ]
+  },
+  {
+    "citation-number": [
+      "equate_base_16_to_10.ksh:"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "AIX_paging_mon: Function to monitor AIX paging space"
+    ],
+    "type": null,
+    "url": [
+      "HP_UX_swap_mon:"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "load_default_keyboard:"
+    ]
+  },
+  {
+    "title": [
+      "This function executes the correct ping command based on UNIX, the UNIX flavor, AIX, HP-UX, Linux, or SunOS"
+    ],
+    "type": null,
+    "url": [
+      "ping_nodes:"
+    ]
+  },
+  {
+    "location": [
+      "Linux_printing"
+    ],
+    "title": [
+      "AIX_SYSV_printing: Enables AIX printers and queues using System V printing subsystem. HP_UX_printing: Enables HP-UX printers and print queues using System V printing"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "all_defined_pdisks:"
+    ]
+  },
+  {
+    "container-title": [
+      "Index"
+    ],
+    "title": [
+      "check_for_smbclient_command: Checks for the existence of the smbclient command and ensures the file is executable"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "application program interface), 261 float_divide script, 573–579 application monitoring float_multiply script, 565–570 APIs and SNMP traps, 261 float_subtract script, 556–561 HTTP server, checking, 259–260 functions, creating, 582–583"
+    ],
+    "title": [
+      "aliases for /etc/sudoers file, 384, 488 bc utility all_defined_pdisks function, 501–503 float_add script, 546–552 all_varied_on_pdisks function, 503–505 float_average script, 579–582 API"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "colon (:) lpc (AIX), 408–412 checking NFS for, 113–118 lpc (Linux), 417–418 getopts command and, 229, 562, 604 lpc (Solaris), 425–429 columns heading, removing in command lpstat (AIX), 412–414 output, 45–46 lpstat (HP-UX), 414–417 command-line arguments lpstat (Solaris), 429–431 overview of, 13–14 lsdev, 501–503 parsing with getopts, 29–30, 244–245, lslv, 299"
+    ],
+    "pages": [
+      "10–12"
+    ],
+    "title": [
+      "check_for_null_message function, 629 hostname, 467, 478 check_for_null_winlist function, 628 HP-UX print control, 414–417 check_for_smbclient_command function, iostat, 179, 186–188, 203–208 639–640 kill, 500–501 check_HTTP_server function, 259–260 last, 22–23 check return code ($?), 25–26 line, 54, 58–62 chmod command, 18–20 Linux print control, 417–422 cleanup function, 500–501 list of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "106–109"
+    ],
+    "title": [
+      "AIX paging monitor, 151–153, 154 exceptions file that worked best with AIX system snapshot commands, testers, 127–128 338–340 filename, creating unique, 536–539, AIX System V printing, 411–412 541–543 all_defined_pdisks function, 503 file system monitoring for AIX, 101–102 all-in-one paging and swap space file system monitoring for AIX with monitor, 169–175 exceptions capability"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "480–482 631–639, 641"
+    ],
+    "title": [
+      "Linux print control, 420–421 percentage free-MB free combination, Linux swap space monitor, 162–163, 164 121–127 list_of_disks function, 506–507 pinging, automated hosts, with load_default_keyboard function, 268–269 notification, 324–328, 331 loading KEYS array, 280–281 pop-up messages, sending to Windows, logging keystrokes"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See pop-up method, 63–64, 76–77 messages, sending to Windows lpc command message bar, creating, 611–612"
+    ],
+    "title": [
+      "method, 65–66 145–146 while LINE=’line’ with file descriptors memory leak, 153 method, 64–65 menu, creating while read $FILENAME from Bottom for Operations staff, 609–618 method, 58 select command and, 42–43 while read LINE with file descriptors message, broadcasting"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AIX, 408–412 mget subcommand, 449 Linux, 417–418 MIB (Management Information Base), 86 Solaris, 425–429 Miller, Todd,"
+    ],
+    "pages": [
+      "378"
+    ],
+    "type": null,
+    "volume": [
+      "370"
+    ]
+  }
+]
