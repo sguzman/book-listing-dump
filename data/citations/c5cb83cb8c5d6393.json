@@ -1,0 +1,430 @@
+[
+  {
+    "author": [
+      {
+        "family": "References",
+        "given": "C.++"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "The C.++ Standard Library Nicolai"
+      }
+    ],
+    "citation-number": [
+      "Josuttis99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 0–201–37926–0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Meyers] Effective C.++ Scott"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 0–201–56364–9"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Language",
+        "given": "The C.++ Programming"
+      },
+      {
+        "family": "Stroustrup",
+        "given": "Special Edition Bjarne"
+      }
+    ],
+    "citation-number": [
+      "Stroustrup97"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "– 0–201–70073–5"
+    ],
+    "publisher": [
+      "Qt References"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "C++",
+        "given": "G.U.I."
+      }
+    ],
+    "citation-number": [
+      "Blanchette06"
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "Blanchette",
+        "given": "Jasmin"
+      },
+      {
+        "family": "Summerfield",
+        "given": "Mark"
+      }
+    ],
+    "pages": [
+      "0–13–187249–4"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Programming with Qt 4"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "C++",
+        "given": "G.U.I."
+      }
+    ],
+    "citation-number": [
+      "Blanchette04"
+    ],
+    "date": [
+      "2004"
+    ],
+    "editor": [
+      {
+        "family": "Blanchette",
+        "given": "Jasmin"
+      },
+      {
+        "family": "Summerfield",
+        "given": "Mark"
+      }
+    ],
+    "pages": [
+      "0–13–124072–2"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Programming with Qt 3"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Designing Qt-Style C++ APIs. Matthias Ettrich",
+        "particle": "qtapistyle]"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "Trolltech."
+    ],
+    "type": null,
+    "url": [
+      "http://doc.trolltech.com/qq/qq13-apis.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "qttestlib"
+      }
+    ],
+    "container-title": [
+      "Brad Harris"
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "developer.kde.org. OOP References"
+    ],
+    "title": [
+      "Writing Unittests for Qt 4 and KDE4 with QtTestLib"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Buschmann",
+        "given": "Pattern-Oriented Software Architecture Frank"
+      },
+      {
+        "family": "Meunier",
+        "given": "Regine"
+      },
+      {
+        "family": "Rohnert",
+        "given": "Hans"
+      },
+      {
+        "family": "Sommerlad",
+        "given": "Peter"
+      },
+      {
+        "family": "Stal",
+        "given": "Michael"
+      }
+    ],
+    "citation-number": [
+      "Buschmann96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "0–471–95869–7"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Distilled",
+        "given": "U.M.L."
+      }
+    ],
+    "citation-number": [
+      "Fowler04"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "Martin Fowler"
+    ],
+    "pages": [
+      "– 0–321–19368–7"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Design Patterns Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Gamma95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "– 0–201–63361–2"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "Martin98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Martin",
+        "given": "Robert C."
+      },
+      {
+        "family": "Riehle",
+        "given": "Dirk"
+      },
+      {
+        "family": "Buschmann",
+        "given": "Frank"
+      }
+    ],
+    "pages": [
+      "– 293–312 0–201–31011–2"
+    ],
+    "title": [
+      "Pattern Languages of Program Design 3"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Docbook",
+        "particle": "docbook]"
+      }
+    ],
+    "container-title": [
+      "Norman Walsh"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The Definitive Guide",
+      "O’Reilly Associates"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.docbook.org/tdg/en/html/docbook.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Docbook XSL",
+        "particle": "docbookxsl]"
+      }
+    ],
+    "container-title": [
+      "Bob Stayton"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "The Complete Guide",
+      "SageHill Enterprises"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.sagehill.net/docbookxsl/"
+    ]
+  },
+  {
+    "citation-number": [
+      "w3c"
+    ],
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "W3C (World Wide Web Consortium)."
+    ],
+    "title": [
+      "w3c Recommendation: XHTML 1.0 The Extensible HyperText Markup Language"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/xhtml1/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Expression",
+        "given": "Mastering Regular"
+      },
+      {
+        "family": "Friedl",
+        "given": "Second Edition Jeffrey"
+      }
+    ],
+    "citation-number": [
+      "Friedl98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "1–56592–257–3"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "Rehman03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "0–13–009115–4"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Linux Development Platform. Rafeeq Ur Rehman and Christopher Paul"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "See Element Reference @ W3Schools.com (http://www.w3schools.com/ tags/default.asp) for a good quick reference guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anti-patterns",
+        "given": "A."
+      }
+    ],
+    "note": [
+      "exercises, 372–373 Arithmetic operators importing objects, 376–380 addition, 25, 510 and libraries, 363–365 division, 26 overview of, 361–363 modulus, 26–27 qApp and Singleton pattern, 365–366 multiplication, 26"
+    ],
+    "pages": [
+      "360 158–163"
+    ],
+    "title": [
+      "342–343 Abstract base classes, 148–152 API (Application Programmer’s Abstract Factory pattern Interface), 179 benefits of, 369–372 Applications, reusable components, 171 creating rules and friend functions, ArgumentList, 159–163 366–369 Arguments, processing command-line, defined"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "535–536 of encapsulation, 54 virtual inheritance, 534–535 relationships, 537 virtual pointers and virtual tables and, Implicitly shared containers, 224–225 524–526"
+    ],
+    "title": [
+      "Identifiers overriding, 154 overview of, 19–22 polymorphism and virtual destructors, scope of, 51, 465 526–528 Identity, QObject, 192–193 public, protected, and private derivation, IDEs (integrated development environments) 536–538 finding header files within, 86 QStringList and, 97–99 open source, 594–597 resolving multiple inheritance conflicts, if statement, 481 532–534 Images, QWidgets, 248–251 review questions, 539 Implementation simple derivation, 136–140 class definitions, 50–51 virtual base classes and"
+    ],
+    "type": null
+  }
+]
