@@ -1,0 +1,128 @@
+[
+  {
+    "pages": [
+      "837"
+    ],
+    "title": [
+      "The Extensible Application Markup Language (XAML"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "c18.indd"
+    ],
+    "title": [
+      "876 4/2/2014 8:26:53 AM Transitions ❘ 877"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "FontSize=\"32\" Foreground=\"Red\" Background=\"Gray\" BorderBrush=\"Black\" Height=\"90\" Width=\"150\" HorizontalAlignment=\"Center\" VerticalAlignment=\"Center\" Tapped=\"Start_Tapped\"/>"
+    ],
+    "title": [
+      "<Button Grid.Row=\"0\" Content=\"Start"
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      "–"
+    ],
+    "type": null
+  },
+  {
+    "source": [
+      "Duration=\"00:00:3\" BeginTime=\"00:00:5\" Storyboard.TargetName=\"buttonRotate\" Storyboard.TargetProperty=\"Angle\" AutoReverse=\"True\">"
+    ],
+    "title": [
+      "<DoubleAnimation From=\"1\" To=\"90"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "class",
+        "given": "CBox"
+      }
+    ],
+    "title": [
+      "Multifile Project Using (example) – class constructors"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "class context menu (MFC) – CMyApp class (MFC"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CMyDoc class (MFC) – const_pointer_cast"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "116–118"
+    ],
+    "note": [
+      "defined, (example), 17–18 581–582 CRectangle class, 695–697, 808 control notification messages, 639 CScaleDialog class, 765–768 dialog controls, supporting, 755–758 CS_HREDRAW, 590 d edit box controls (See CText class; edit CSingleDocTemplate class (MFC), 616 d box controls) CSketcherDoc class game controls, adding, 850–852 initializing color and element type spin button controls (See spin button members and, 653 controls) members, adding (color and element tab sequence, 764–765 mode and), 651–652 conversion, type, 56 menu message handlers and, 648–649 d cooperative multitasking, 596–597 CSketcherView class, 667 copy() algorithm, 560, 562 CStack class, 472–473 888 c_str() function, converting strings objects with – default constructors"
+    ],
+    "title": [
+      "CreatePen() function, 673–674, 693, 694, control variables, 765 733–734 controls CreateWindow() function, 591–593 adding to dialog boxes, 749–751 Creating a Project for a Win32 Console d basics of, 748–749 Application (example), 11–13 d control elements (XAML), 842 Creating an Empty Console Project control menu (windows"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Destructor",
+        "given": "Calling Wrong"
+      }
+    ],
+    "note": [
+      "Free Store, Using, 165–167 Accessing, 438–440 friend, Using to Calculate Surface Area, Program, Simple, 27–31 300–302 Project for a Win32 Console Application, Function Arguments, Omitting, 228–229 Creating, 11–13 Function Pointers, Passing, 226–227 Protected Members, Using, 444–446 Function Templates, Using, 243–244 Queue Containers, Using, 530–537 Functions, Using, 185–188 Receiving a Variable Number of Inheritance, More Than One Level of, Arguments, 204–206 465–466 Receiving Command-Line Arguments, Inherited Functions, Using, 455 203–204 Input Stream Iterators, Using, 557–559 Recursion in Lambda Expressions, lambda expressions, Using, 570–574 575–576 Lists, Working with, 520–522 Recursive Functions, 214–217 Lucky Stars with Pointers, 151–152 References Returning, 210–212 Manipulators, Using, 49–50 References with Virtual Functions, Using, Map Containers, Using, 548–555 460–461 Minimal MFC Application, 606–610 Returning Bad Pointers, 207–208"
+    ],
+    "title": [
+      "467–469 Multidimensional Arrays, Passing, , Catching Exceptions Thrown by new 195–196 Operator, 235–237 Multiple Strings, Storing, 138–140 CGlassBox, Fixing, 456–457 Nested Classes, Using, 473–474 Class Template, Using, 367–369 Nested try Blocks, 233–234 Classes, Using, 281–282 Object Copy Operations, Tracing, CMessage Class, Using, 328–329 352–354 Comma Operator, 60–61 Objects in Vectors, Storing, 504–508 Complete Overloading of Comparison Operator Overloading, 334–335 Operators, 337–339 Output to the Command Line, 48 const, Passing, 199–200 Overloaded Functions, Using, 238–240 Constructors, Calling, 440–443 Overloading Assignment Operators, Copy Constructors Derived Classes, 342–344 448–450 Pass-by-Pointer, 191–192 Counting Characters Revisited, 160–162 Pass-by-Reference, 197–198 Counting Instances of Class Types, Passing-by-Value, 190 312–313 Perfect Forwarding, 373–376 Creeping Inefficiencies, 359–361 Pointer Notation When Passing Arrays, Default Values for Constructor 193–194 Arguments, Supplying, 293–294 Pointers, Using, 149–150 Derived Classes, Using, 435–437 Pointers in Vectors, Storing, 509–511 Destructor, Simple, 324–326 Pointers to Base and Derived Classes, Efficient Object Copy Operations, 459–460 355–356 Pointers to Classes, 315–316 Empty Console Project, Creating, 17–18 Pointers to Functions, 223–225 Enumerations, Using, 82–83 Predicate for Filtering Lists, 525–528 Escape Sequences, Using, 51–52 Private Data Members, 298–299 Explicit Use of this, 304–306 Private Members of Base Classes"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "702–703 MFC Class Wizard, 778 drawing mode, setting, 703–705 MFC drawing, 667–678 elements, creating, 707–708 CDC class for, 669 mouse, capturing, 711 n circles, 671–673 OnMouseMove() handler, 705–707 n in color (See MFC drawing in color) WM_LBUTTONUP messages, 708–709 n graphics, displaying, 669–671 mouse programming for drawing, 680–709 OnDraw() function, 667–668 basics of, 681–682 sketch drawing, 709–712 mouse for drawing (See mouse, using MFC drawing in color for drawing; WM_MOUSEMOVE message basics of, 673–675 handler) brushes and, 676–678 mouse message handlers (See mouse"
+    ],
+    "title": [
+      "MFC Application Wizard output CElement base class, 691–692 m application class, 626–627 CLine class, 692–695 document class, 628–629 CRectangle class, 695–697 executable modules, creating, 631 element classes, defining, 687–690 m frame window class, 627–628 redrawing client area, 686–687 M program, running, 631–632 WM_MOUSEMOVE message handler program, workings of, 632–633 (See WM_MOUSEMOVE message handler) TextEditor project folder, 623–624 mouse message handlers. See also WM_ m view class, 630–631 MOUSEMOVE message handler m viewing classes, 625–626 basics of, 682–684 m viewing project files, 625 basics of completing"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "client coordinates, 723–725 basics of applying, 801 coordinate systems, 722–723 document changes, recording, 801–803 getting started, 720–721 in document class definition, 794–795 .sdf extension, 13 in document class implementation, SDI (Single Document Interface), 614. See 795–798 also MFC Application Wizard output documents, serializing, 803–805 SDI applications element classes, serializing, 805–809 command message processing and, 642 exercising, 809–811 creating, 619–623 (See also MFC functionality of CObject-based classes,"
+    ],
+    "pages": [
+      "77–78,",
+      "793–794, 799–800"
+    ],
+    "title": [
+      "SCARY iterators, 485 forward_list container templates, schema numbers, 799 528–529 scope list containers (See list containers) basics of, 72–73 Priority Queue Containers, Using declared within functions, 183 (example), 534–537 scope resolution operator",
+      "183 priority queue containers basics, screen coordinates, 769 532–533 scrolling queue containers, 530–532 with scaling, 773–775 stack containers, 537–538 scrollbars, 774–775 serialization scrolling views basics of"
+    ],
+    "type": null,
+    "volume": [
+      "32",
+      "692"
+    ]
+  },
+  {
+    "note": [
+      "Show_How_Tapped() handler (MemoryTest project) – Standard Template Library"
+    ],
+    "type": null
+  }
+]
