@@ -1,0 +1,765 @@
+[
+  {
+    "note": [
+      "❑ ToString: Converts the selection to the following: 12/13/2004 12:00:00 AM."
+    ],
+    "title": [
+      "❑ ToShortTimeString: Converts the selection to a time value (no date is included) in a short format: 12:00 AM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "❑ ToUniversalTime: Converts the selection to universal time (UTC): 12/13/2004 6:00:00 AM"
+    ],
+    "type": null
+  },
+  {
+    "pages": [],
+    "title": [
+      "C# Queue peopleQueue = new Queue("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Person x = (Person)peopleStack.Pop(); Response.Write(x.FullName + “<BR/>”); x = (Person)peopleStack.Pop(); Response.Write(x.FullName + “<BR/>”); x = (Person)peopleStack.Peek(); //Peek, not Pop Response.Write(x.FullName + “<BR/>”); x = (Person)peopleStack.Pop(); Response.Write(x.FullName + “<BR/>”"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "AutoGenerateColumns=”False” AllowSorting=”True” AllowPaging=”True” AutoGenerateEditButton=”true”>"
+    ],
+    "title": [
+      "<asp:GridView ID=”GridView1” Runat=”server” DataSourceID=”SqlDataSource1” DataKeyNames=”CustomerID"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "<asp:CommandField ShowHeader=”True” HeaderText=”Command"
+    ],
+    "type": null,
+    "url": [
+      "ShowEditButton=”True”></asp:CommandField>"
+    ]
+  },
+  {
+    "container-title": [
+      "AutoGenerateColumns=”False” AllowSorting=”True” AllowPaging=”True” AutoGenerateEditButton=”true”>"
+    ],
+    "title": [
+      "<asp:GridView ID=”GridView1” Runat=”server” DataSourceID=”SqlDataSource1” DataKeyNames=”CustomerID"
+    ],
+    "type": "chapter"
+  },
+  {
+    "location": [
+      "SortExpression=”CustomerID"
+    ],
+    "publisher": [
+      "Visible=”False”></asp:BoundField>"
+    ],
+    "title": [
+      "<asp:BoundField ReadOnly=”True” HeaderText=”CustomerID” DataField=”CustomerID"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "ShajarCom.CommandType = CommandType.Text"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ShajarComConnectionOpen"
+      }
+    ],
+    "type": null
+  },
+  {
+    "producer": [
+      {
+        "family": "NorthWindBulkOp.ColumnMappings.Add",
+        "given": "NorthWindBulkOpColumnMappingsAdd"
+      },
+      {
+        "given": "NorthWindBulkOpColumnMappingsAdd"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "“Title”); NorthWindBulkOp.ColumnMappings.Add(JobTitleColMap); NorthWindBulkOp.BulkCopyTimeout = 500000000;"
+    ],
+    "title": [
+      "JobTitleColMap = new SqlBulkCopyColumnMapping(“Source”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "ShajarReader = ShajarCom.ExecuteReader("
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 12-6: Committing a transaction after successfully completing the bulk copy operation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "NorthWindBulkOp",
+        "given": "SqlBulkCopy"
+      }
+    ],
+    "publisher": [
+      "SqlBulkCopyOptions.Default, Transaction"
+    ],
+    "title": [
+      "NorthWindBulkOp = new SqlBulkCopy(new SqlConnection(NorthWindConString"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "U.S",
+        "given": "Home News"
+      }
+    ],
+    "publisher": [
+      "Market Report NYSE Funds Weather"
+    ],
+    "title": [
+      "World Technology Sports Finance Quotes Markets U.S"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "started at 1/29/2006 11:22:30 AM. Create folder App_Data in the remote Web site."
+    ],
+    "title": [
+      "Copy from ‘C:\\Documents and Settings\\Billy\\My Documents\\Visual Studio 2005\\WebSites\\Wrox’ to ‘C:\\Documents and Settings\\Billy\\My Documents\\Visual Studio 2005\\WebSites\\Copy Here"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Copy from ‘C:\\Documents and Settings\\Billy\\My Documents\\Visual Studio 2005\\WebSites\\Wrox’ to ‘C:\\Documents and Settings\\Billy\\My Documents\\Visual Studio"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "Completed at 1/29/2006 11:22:30 AM."
+    ],
+    "title": [
+      "Here’ is finished"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "www.aspnetresources.com ASP.NET World: www.aspnetworld.com DotNetJunkies: www.dotnetjunkies.com GotDotNet: www.gotdotnet.com International .NET Association: www.ineta.org Microsoft’s Classic ASP Site:"
+    ],
+    "title": [
+      "Angry Coder: www.angrycoder.com ASP 101: www.asp101.com ASP Alliance: www.aspalliance.com ASP Alliance Lists: www.aspadvice.com The ASP.NET Developer Portal: msdn.microsoft.com/asp.net ASP.NET Homepage: www.asp.net ASP.NET Resources"
+    ],
+    "type": null,
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url=/library/enus/dnanchor/html/activeservpages.asp"
+    ]
+  },
+  {
+    "note": [
+      "Microsoft Developer Centers: msdn.microsoft.com/developercenters Microsoft Forums: forums.microsoft.com Microsoft Newsgroups: msdn.microsoft.com/newsgroups/"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "432–434 (User.Identity property), 691–692 callback, 432, 449–451 configuration canceling, 451 file, 1077–1078 described, 429 support, 1076 interface (IAsyncResult), 432 URL, 1076–1077 multiple wait handles, 440–448 described, 583–584 Poll approach, 434–437 MMC tab, 1125–1126 SQLCommand class methods, 429–431 page views, controlling by login, 613–615 Wait approach, 437–440 programming asynchronous connections, 451–452 authorized user information, working with bulk loading from variety of sources (User.Identity property), 691–692 columns, mapping to destination tables described, 690 (SqlBulkCopyColumnMapping), 408–410 identity information, additional, 693–695 constructors, 406–407 Windows role, checking (User.IsInRole()), customizing, 405 692–693 data reader example, 410–415 public methods methods, 408 membership API, 628–629 progress (SqlRowsCopied event), 415–416 roles API, 629–630 properties, 406 role management for Web site data source link (Connection object), 391 changing, 616–618 disconnected data, handling (DataSet and DataTable), described, 615–616 402–404 web.config file, 618–619 forward-only and read-only cursor (DataReader Web Site Administration Tool, 628 object), 393–395 access control lists, 826–831 namespaces and classes, 389–391 actions parameters, 398–401 design-time, 924–927 result set, opening over same connection (MARS) items, Web Parts zones, 655–658 GridView control, 423–427"
+    ],
+    "title": [
+      "abstract class (WaitHandle class), 432–434 access users, adding credentials, turning off, 599–600 application registration, changing, 598–599 installation program, building, 1155–1156 Continue button, 591–592 rules, managing with WAT, 1112–1114 programming, 595–598 access authentication registration process, incorporating personalization configuration properties into, 592–595 described, 1073 stored, seeing where users are, 589–591 forms, 1074–1075 wizard, 587–589 Microsoft Passport, 1074 Web site, setting up for membership Windows, 1073 <authentication> element, 585–586 credentials, asking for described, 584–585 access, turning off, 599–600 <forms> element, 586–587 Login server control, 600–603 Windows-based programmatic logging in, 603–604 application, creating, 674–675 described, 583–584 Basic, 678 files and folders, specific, 689–690 defining groups, 676–677 forms-based Digest, 679 database values, authenticating against, 685–686 groups (<allow> and <deny> nodes), 675–676 described, 679–683 HTTP transmission method, 677 login control, 686–688 users, creating, 672–674 access authorization access authorization to page, 644–646 application roles PostBack events, raising, 896–897 adding, 619–620 request-processing pipeline handler to project, caching, 627 940–941 checking users, 625–627 snippets, 43 deleting, 621–622 Addition Web service, 1039–1040 gathering all users, 622–624 administration and management particular user, gathering all, 624–625 ASP.NET, 6–9 removing users, 625 authorization, limiting, 1076–1077 retrieving, 621 ADO.NET data management users, adding, 622 asynchronous command execution authorized user information, working with abstract class (WaitHandle class"
+    ],
+    "type": "webpage"
+  },
+  {
+    "pages": [
+      "997–999"
+    ],
+    "title": [
+      "application folders advertising (AdRotator) mobile device banner, 176–177 Image control, 994–995 mobile devices, 985–988 Link control"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "file",
+        "given": "X.M.L."
+      }
+    ],
+    "pages": [
+      "774 , 16–17"
+    ],
+    "title": [
+      "175–176 TextView control, 993–994 age range, validating, 227–228 multiple skin options, 293–295 aliases, listing"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "application folders (continued) application folders (continued) IDE, page-building, 18–20 configuration, 1061 influential blogs, 1193–1194 data dictionary string tables (App_GlobalResources page framework Folder), 81–84 described, 1078–1080 data stores (App_Datafolder), 80–81 include files, 1080–1081 page, resources used for single master pages, 15–16 (App_LocalResApp_LocalResources), 84 themes, 16–17 themes (App_Themes), 81 performance and scalability, 9 Web services, remote (App_WebReferences), 85 server controls, 17–18 XML browser identification files (App_Browsers), 85 ASPNET credentials, 696–698 Application Programming Interface. See API assembly Application tab classes, .wsdlfiles, and typed datasets MMC, 1128–1129 (App_Codefolder), 80 WAT page directives (@Assembly), 64 offline, taking,",
+      "counting items (ICollection), 311–312 callback, 432, 449–451 dictionaries (IDictionary), 313–314 canceling, 451 enumerating all objects (IEnumerable and described, 429 IEnumerator), 310–311 interface (IAsyncResult), 432 hashtables, 314–317 multiple wait handles, 440–448 keys, list sorted by (SortedList), 317–318 Poll approach, 434–437 lists (IList), 312–313 SQLCommand class methods, 429–431 Queues and Stacks, 318–320 Wait approach, 437–440 creating simple Person class, 299–300 asynchronous connections, 451–452 finding objects atomization, 466 comparing (IComparable), 304–305 attributes identity versus equivalence, 302–303 directories and files, 824–825 like objects (BinarySearch), 305–306 listing all (NameTable), 466–468 overriding equals, 303–304 page directives, specifying @Page, 57–59 printing, 300–302 server controls resizing, 302 class, 867–868 sorting objects, 306–307 property/event, 868–869 ASP (Active Server Pages), 2 XML class, adding, 470–471 ASP.NET authentication administration and management, 6–9 configuration compilation system, 14–15 described, 1073 data access objects, 17 forms, 1074–1075 developer productivity, 3–6 Microsoft Passport, 1074 developer tools Windows, 1073 membership and role management, 9–10 credentials, asking for personalization, 10 access, turning off, 599–600 portal framework, 10–12 Login server control, 600–603 site navigation, 12–14 programmatic logging in, 603–604 history, 1–3 described, 583–584 Index binding data files and folders, specific, 689–690 retrieving, 621 forms-based users, adding, 622 database values, authenticating against, 685–686 authorized user information, working with described, 679–683 (User.Identity property), 691–692 login control, 686–688 configuration methods and properties, 688–689 file, 1077–1078 setting (<authentication> node), 671–672 support, 1076 web.config file values, authenticating against, URL, 1076–1077 683–685 described, 583–584 measures, applying, 670–671 MMC tab, 1125–1126"
+    ],
+    "pages": [
+      "432–434"
+    ],
+    "title": [
+      "1118 resource (.resx) files, creating, 547–548 settings, managing, 1114–1115 assigning SMTP, 1115–1116 master pages, 272 tracing and debugging information, 1116–1118 programming themes, 295–296 arrays asterisk (*), 1077 classes and interfaces (System.Collections asynchronous callbacks, 884–887 namespace) asynchronous command execution ArrayList, 307–310 abstract class (WaitHandle class"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "585–586 autogenerating data, 364 described, 584–585 automatic saves, continuing with, 570–571 <forms> element, 586–587 Windows-based application, creating, 674–675 B Basic, 678 backward navigation, blocking (AllowReturn defining groups, 676–677 attribute), 203 Digest, 679 banner, advertising, 176–177 groups (<allow> and <deny> nodes), 675–676 base class, HTML server control (HtmlControl), HTTP transmission method,"
+    ],
+    "pages": [
+      "677 110–111"
+    ],
+    "title": [
+      "Microsoft Passport identity system, 689 page views, controlling by login, 613–615 MMC tab, 1126–1128 programming online users, counting, 607–608 authorized user information, working with page-level events, triggering, 90 (User.Identity property), 691–692 passwords, changing or retrieving forgotten described, 690 recovery server control, 610–612 identity information, additional, 693–695 server control, 609–610 Windows role, checking (User.IsInRole()), status, logging in or out, 604–605 692–693 username, displaying, 606–607 public methods users, adding membership API, 628–629 application registration, changing, 598–599 roles API, 629–630 Continue button, 591–592 role management for Web site programming, 595–598 changing, 616–618 registration process, incorporating personalization described, 615–616 properties into, 592–595 web.config file, 618–619 stored, seeing where users are, 589–591 Web Site Administration Tool, 628 wizard, 587–589 auto completion (AutoCompleteType), input form, Web site, setting up for membership 138–139 <authentication> element"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "counting, 462–463, 466–468 updating and deleting data, 377–378 namespaces, 458–461 source controls read-only database, querying, 476–478 caching, 349–350 schema, defining, 457–458 described, 333–336 validating, 464–465 source link (Connection object), 391 XML, 454–455 SqlDataSource control XSLT list of authors, 486–487, 490"
+    ],
+    "title": [
+      "inline syntax hidden changes, 387 ControlState management, 735–739 described, 386–387 mobile devices, 1019–1021 XML, 387–388 states, managing, 189–190 ListBox, 384 ViewState illusion, 890–891 Menu, 385–386 validation server control middle-layer business objects (ObjectDataSource blank entries, disallowing, and requiring changes, 223 control) drop-down lists, 223–224 configuring, 347–348 error message, 220–221 customer class, creating, 344–347 initial text, changing (InitialValue property), 222 page source code, 348–349 results, viewing, 221–222 RadioButtonList, 384 sample, 219–220 single data record blogs, influential ASP.NET, 1193–1194 described, 370–371, 379–380 bookstore sample document display, customizing, 371–372 authors’ names, handling, 470–471 displaying and editing data, 381–384 counting books and printing total price, 468–470 with GridView, 372–376 creating with XmlWriter, 472–474 inserting data, 376–377 elements"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "960"
+    ],
+    "title": [
+      "Index buttons breadcrumb navigation (SiteMapPath control) public assemblies, 964–965 child elements, listed, 508 RCW, 954–955 depth of pages, displaying releasing manually"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ParentLevelsDisplayed property), 507 samples, 955–959 described, 502–504 described, 949–950 direction of links, changing (PathDirection early versus late binding, 971–972 property), 506 error handling, 960–963, 972–974 link elements, separating symbol (PathSeparator .NET components within COM objects property), 504–506 generating, 968–970 tooltips for links, generating (ShowToolTips private assemblies, 974 property), 507–508 public assemblies, 975 browser precompiled concern prior to ASP.NET, 93–94 described, 950–952 configuring capabilities, 1070–1071 using, 952–953 detecting and reacting to capabilities from unmanaged code, CCW, 965–968"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "designer classes, 924 type converters, 911–912 input form text box (AutoPostBack), 137–138 buffer uploads, 1082–1083 sample page event, 66–67"
+    ],
+    "pages": [
+      "276–277"
+    ],
+    "title": [
+      ".browser files, 887–889 buttons information, accessing, 889–890 clicking master pages, adjusting to different"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "127–129 Windows-based postback versus, 120–122 application, creating, 674–675 and server working together, 238 Basic, 678 state management options listed, 708 defining groups, 676–677 validation, disabling, 241–242 Digest, 679 client-side features groups (<allow> and <deny> nodes), 675–676 customizing, 233–235 HTTP transmission method, 677 server controls users, creating, 672–674 asynchronous callbacks, 884–887 child elements embedded resources, 883 breadcrumb navigation (SiteMapPath control), 508 script, enabling, 878–883 site map, starting from, 539–541 validation server control versus, 216–217 child properties, exposing, 902–903 CLR (Common Language Runtime) classes debugging, 791, 798 ADO.NET data management, 389–391 types, retrieving from XML (XmlReader), 468–469 application folders (App_Codefolder) CLS (Common Language Specification), 328 assembly, building into single, 80 coding creating, 76–78 authorization described, 75–76 authorized user information, working with method, adding, 78–79 (User.Identity property), 691–692 attributes, 867–868 described, 690 default template server controls, 909–910 identity information, additional, 693–695 enumerating all objects (IEnumerable and Windows role, checking (User.IsInRole()), IEnumerator), 310–311 692–693 name, associating caching @MasterType, 65 custom, creating, 752–756 @Register, 63–64 data with Cache object, 750 reading and writing files, 837–840 disparate dependencies of different types SOAP headers, 1049–1051 (AggregateCacheDependency class), static, 1186 751–752 System.Collections namespace inheritable dependencies (CacheDependency ArrayList, 307–310 class), 752 counting items (ICollection), 311–312 previous edition’s dependencies, 750–751 dictionaries (IDictionary), 313–314 change status notifications, 26 enumerating all objects (IEnumerable and code-behind model, 53–55 IEnumerator), 310–311 configuration files hashtables, 314–317 connection strings, enumerating, 1089–1092 keys, list sorted by (SortedList), 317–318 described, 1087–1089 coding (continued) coding (continued) RCW, 954–955 manipulating, 1092–1093 releasing manually, 960 remotely, working, 1093–1095 samples, 955–959 end user personalization COM-Callable Wrapper (CCW), 965–968 anonymous users, migrating, 568–569 command window, debugging and error-handling, 774 automatic saves, continuing with, 570–571 commands. See also individual commands listed by events, exposing (ProfileModule class), 567 name profiles, 569–570 compilation, listed, 87–88 logging in, 603–604 mobile devices, 994 master pages, 253–256 comment tags, 108 server controls, building, 97–98 common elements. See master pages snippets, 41–43 Common Language Runtime (CLR) themes debugging, 791, 798 assigning, 295–296 types, retrieving from XML (XmlReader), 468–469"
+    ],
+    "pages": [
+      "222 692–693"
+    ],
+    "title": [
+      "checking users’ authorization (continued) checking users’ authorization (continued) range configuration dates and other string characters, 228–231 file, 1077–1078 integer value, 228 support, 1076 sample, 227–228 URL, 1076–1077 reporting described, 583–584 with dialog box, 240–241 MMC tab, 1125–1126 errors as bulleted list, 238–239 page views, controlling by login, 613–615 images and sounds, 242–243 programming limiting to one, 239–240 authorized user information, working with required fields (User.Identity property), 691–692 blank entries, disallowing, and requiring changes, 223 described, 690 drop-down lists, 223–224 identity information, additional, 693–695 error message, 220–221 Windows role, checking (User.IsInRole()), initial text, changing (InitialValue property",
+      "results, viewing, 221–222 public methods sample, 219–220 membership API, 628–629 rules, 215 roles API, 629–630 XML role management for Web site against XML Schema (XmlReader), 464–465 changing, 616–618 XPath, 475 described, 615–616 checking users’ identity web.config file, 618–619 configuration Web Site Administration Tool, 628 described, 1073 checking users’ entries forms, 1074–1075 application roles, 625–627 Microsoft Passport, 1074 buttons without, 139 Windows, 1073 CheckBox, 154–155 credentials, asking for client- versus server-side, 216–217 access, turning off, 599–600 client-side Login server control, 600–603 asynchronous callbacks, 884–887 programmatic logging in, 603–604 disabling, 241–242 described, 583–584 JavaScript file, 883 files and folders, specific, 689–690 customizing forms-based client and server working together, 238 database values, authenticating against, 685–686 client-side, 233–235 described, 679–683 complexity, 235–237 login control, 686–688 events triggering, 218–219 methods and properties, 688–689 form elements, comparing setting (<authentication> node), 671–672 against constants, 226–227 web.config file values, authenticating against, against other controls, 224–226 683–685 form types, 215–216 measures, applying, 670–671 generally, 10 Microsoft Passport identity system, 689 groups, 244–247 MMC tab, 1126–1128 manipulating, 217–218 online users, counting, 607–608 membership and role management, 9–10 page-level events, triggering, 90 mobile device controls, 1008–1009 passwords, changing or retrieving forgotten pattern, defining with regular expression recovery server control, 610–612 (RegularExpressionValidator) server control, 609–610 e-mail address example, 232 status, logging in or out, 604–605 other uses, 233 username, displaying, 606–607 Index coding users, adding lists (IList), 312–313 application registration, changing, 598–599 Queues and Stacks, 318–320 Continue button, 591–592 viewing in Visual Studio 2005, 33 programming, 595–598 Web Parts Portal Framework, 661–662 registration process, incorporating personalization clearing collection lists, 312–313 properties into, 592–595 client stored, seeing where users are, 589–591 application, invoking XML Web Services from, wizard, 587–589 1036–1039 Web site, setting up for membership callback feature <authentication> element, 585–586 HTML button control and TextBox server control, described, 584–585 123–126 <forms> element, 586–587 with parameters to retrieve returned value"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SkinID, assigning, 296 Common Language Specification (CLS), 328 user authentication, 595–598 common tasks, programming (smart tags), 36–37 collapsing nodes, 522–526 comparison collections finding objects (IComparable), 304–305 bit values, compact list of (BitArray), 321 input field dictionaries (ListDictionary and constants, testing against, 226–227 HybridDictionary), 320–321 control, 218 generics testing against other, 224–226 described, 325 compilation dictionary, 327–328 commands, listed, 87–88"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "showing, 415–416 creating, 663–666 Web site applications, 31 DLL, 667–668 counting dragging and dropping onto page, 668 books and printing total price, 468–470 personalization, 666–667 bookstore elements, 462–463, 466–468 items in collection (ICollection), 311–312 online users, 607–608 D credentials data access, turning off, 599–600 debugging tools, 796 Login server control, 600–603 PostBack handling, 899–900 programmatic logging in, 603–604 programming with Cache object, 750 cross-page posting retrieval speed in fire hose mode, 340 button controls, 142 storing control values, exposing, 71–72 application folders (App_Datafolder), 80–81 described, 69–70 in-process session state, 712–715 exposed properties, consuming, 73–74 populating bulleted list from, 187–189 first page, checking whether from, 74–75 table, building, 4–5 origin of (@PreviousPageType), 64 viewing postback and values, 70–71 debugging and error-handling, monitoring, 777–780"
+    ],
+    "title": [
+      "section handlers, grouping (<configSections> Web Parts zones, 633–634 section), 1062 Continue button, 591–592 server file, 1060–1061 Continue keyword, 1189–1190 session object, 710–711 control events, 206–207 session state control state, 894–895 described, 1060, 1064–1065 control values, exposing, 71–72 Web Farm support, 1065–1068 controls settings, locking, 1078 content pages, accessing, 263–264 strings, connecting, 1063–1064 Web Parts zones, adding, 652–655 cookies cookies current page, setting link to, 506 anonymous identification, changing name of, 564 CurrentNode, 542–544 data, filtering, 340 cursor, placing (Focus()) on input form, 136–137 drawbacks, 551 Custom Actions Editor, 1168–1169 role, deleting upon authentication, 627 Custom Errors tab, 1124–1125 session state, 714–715 Customer class, business object, 344–347 state management, 732 customizing unsupported, maintaining session state without, client and server working together, 238 729–730, 1130 client-side, 233–235 copying complexity, 235–237 batch processing updates end user personalization properties, 560–562 benefits, 421–422 GridView Bound List columns, 361–363 described, 416 installation program, 1146–1150 employee records, coding, 417–421 regions, 918–924 bulk loading data themes, 296–298 class properties and methods, 405–408 type converters, 912–914 columns, mapping, 408–410 Web Farm state store, 1067–1068 with data reader, 410–415 Web Parts progress"
+    ],
+    "type": "webpage"
+  },
+  {
+    "pages": [
+      "884–887 , 386–387 , 241–242"
+    ],
+    "title": [
+      "Index data entry text box (TextBox) paging, 357–360 CheckBox, 154–155 sorting columns, 355–357 client- versus server-side, 216–217 inline syntax client-side changes, 387 asynchronous callbacks"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "387–388",
+      "883"
+    ],
+    "publisher": [
+      "JavaScript file"
+    ],
+    "type": "book",
+    "volume": [
+      "XML"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "ListBox"
+      }
+    ],
+    "note": [
+      "collection of items (CheckBoxList), 157 integer value, 228 conflicts, detecting, 342–343 sample, 227–228 connection, configuring, 336–339 reporting DataSet or DataReader retrieval, 340 with dialog box, 240–241 filtering data (SelectParameters), 340–342 errors as bulleted list, 238–239 servers listed, 336 images and sounds, 242–243 TreeView, 384–385 limiting to one, 239–240 XmlDataSource control required fields described, 482–484 blank entries, disallowing, and requiring documents, 343–344 changes, 223 namespace qualification unavailable, 483 drop-down lists, 223–224 Web services, 485–486 error message, 220–221 weblog example, 484–485 initial text, changing (InitialValue property), 222"
+    ],
+    "pages": [
+      "228–231"
+    ],
+    "title": [
+      "384 customizing Menu, 385–386 client and server working together, 238 middle-layer business objects (ObjectDataSource client-side, 233–235 control) complexity, 235–237 configuring, 347–348 events triggering, 218–219 customer class, creating, 344–347 form elements, comparing page source code, 348–349 against constants, 226–227 RadioButtonList, 384 against other controls, 224–226 single data record form types, 215–216 described, 370–371, 379–380 generally, 10 display, customizing, 371–372 groups, 244–247 displaying and editing data, 381–384 manipulating, 217–218 with GridView, 372–376 membership and role management, 9–10 inserting data, 376–377 mobile device controls, 1008–1009 updating and deleting data, 377–378 pattern, defining with regular expression source controls (RegularExpressionValidator) caching, 349–350 e-mail address example, 232 described, 333–336 other uses, 233 source link (Connection object), 391 range SqlDataSource control dates and other string characters"
+    ],
+    "type": "report"
+  },
+  {
+    "note": [
+      "inheritable (CacheDependency class), 752 creating, 1166–1167 previous edition’s, 750–751 order, changing, 1168"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "reporting",
+        "given": "S.Q.L.Server"
+      }
+    ],
+    "note": [
+      "SQL Server 2005 cache invalidation, 760–761 collections (ListDictionary and steps, 756–757 HybridDictionary), 320–321 tables, enabling, 758, 759 generics, 327–328 viewing, 758–759 string tables (App_GlobalResources Folder), deploying applications 81–84 installation program, building, 1155–1159 Digest, authentication, 679 pre-deployment steps, 1134–1135 direction changing navigation links (PathDirection XCopy property), 506"
+    ],
+    "pages": [
+      "313–314"
+    ],
+    "title": [
+      "240–241 database, disabling, 760 dictionaries disabling tables, 760 classes and interfaces (System.Collections invalidation, enabling databases for, 757–758 namespace"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "912–914 (@OutputCache), 65–66 described, 910–911 user control (@Control), 60–61 designer classes, 914–915 directories regions, 915 access control lists, 826–831 type converters, 911–912 authorization information, sending, 1077–1078 UI type editors, 927–928 Directory and DirectoryInfo classes, 809–814 desktop shortcut to Web application, creating, 1163 properties and attributes, 824–825"
+    ],
+    "title": [
+      "actions, 924–927 namespaces and class names, associating composite, 916–918 (@Register), 63–64 custom to define regions, 918–924 page or user control output caching policies custom type converters"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CheckBoxList), 156–157 954–955 custom Web Parts, 667–668 instantiation while compiling, 86 E page code, finding, 88 early binding, 971–972 precompiled business objects, 950–953 Edit and Continue (Lack of) Support, or Edit and private assemblies, 974 Refresh, 797 reference, adding, 35–36 editing document configuration files, 1095–1097 internal stylesheets, 107–108 customized Web page views (Web Parts), 648 XSLT, transforming, 486–487 GridView document window columns, 361–363 ASP.NET pages, creating, 22 row data, 363–366 code change status notifications, 26 single data record, (FormView), 381–384"
+    ],
+    "title": [
+      "Developer Solution Kits demo Web applications, 10–11 setting/getting current, 814–815 disconnected data, handling disconnected data, handling drop-down list DataSet and DataTable, 402–404 choice, requiring, 223–224 two-day mechanism (SqlDataAdapter class), 395–398 DropDownList, 384 disparate dependencies, 751–752 ListBox versus, 150 disparate systems, XML Web services table views, choosing, 643–644 described, 1023–1024 Dynamic Help, 33 SOAP request and response, 1024–1025 dynamic item style, 532 display Dynamic Link Library (DLL) bulleted list, 186–187 ActiveX, adding to References section of project, data 954–955 details and GridView together, 372–376 custom Web Parts, 667–668 DetailsView, 371–372 instantiation while compiling, 86 FormView, 381–384 page code, finding, 88 GridView Bound List control, 353–355 precompiled business objects, 950–953 mobile device private assemblies, 974 Image control, 994–995 reference, adding, 35–36 Link control, 997–999 dynamic object placeholder, 181 TextView control, 993–994 dynamic substitute, cache preserving, 745–747 DLL (Dynamic Link Library) dynamically populating collection of items ActiveX, adding to References section of project"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "48 application, 776 commands (FtpWebRequest and from components, 781–782 FtpWebResponse), 852–854 data, viewing, 777–780 File Types Editor, 1165–1166 described, 775 files forwarding, 782 access control lists, 826–831 page-by-page, 776 authentication, 689–690 System.Diagnostics.Trace and Page.Trace, 776 copying with XCOPY, 1136–1138 text file, routing to (TraceListeners), 783–787 Directory and DirectoryInfo classes, 809–814 expanding nodes, 522–526 displaying, 816–820 exposed properties, consuming, 73–74 DriveInfo class, 806–809 eXtensible HyperText Markup Language (XHTML), format, configuring, 1062 772–773 information, viewing, 1122 eXtensible Markup Language. See XML master pages, 251–252 eXtensible Stylesheet Language Transformations (XSLT) network communications document, transforming, 486–487 file system (FileWebRequest and processor (XslCompiledTransform), 488–489 FileWebResponse), 854–855 SQL output, transforming, 495–497 FTP commands (FtpWebRequest and SQL query, modifyiing to return, 495–497 FtpWebResponse), 852–854 Web server control, 489–491 mail from Web page, 855–856 eXtensible Stylesheet Language (XSL) style sheet, WebRequest and HttpWebResponse classes, 177–178 848–852 external stylesheets, 104–107 paths, 820–824 properties and attributes, 824–825"
+    ],
+    "title": [
+      "errors (continued) errors (continued) hidden images and sounds, 242–243 ControlState management, 735–739 summary, 238–241 mobile devices, 1019–1021 event model, 709–710 states, managing, 189–190 events ViewState illusion, 890–891 anonymous identification, 566–567 validation server control attributes, 868–869 blank entries, disallowing, and requiring changes, 223 bulk loading handler, 415–416 drop-down lists, 223–224 exposing (ProfileModule class), 567 error message, 220–221 log, sending tracing information to, 785–786 initial text, changing (InitialValue property), 222 master pages ordering, 277–278 results, viewing, 221–222 Menu server control, 535–536 sample, 219–220 page file extensions button-click, sample, 66–67 mapping, 945–946 listed, 67–68 securing, 700–702 page loading, 67 File System Editor server controls desktop shortcut to Web application, creating, 1163 button click, 98–99 opening, 1147 from Properties window of Visual Studio, 100 Project Output, adding items to, 1161–1163 specific page, 98 properties, listed, 1160–1161 triggering server validation, 218–219 File Transfer Protocol (FTP) execution, monitoring application locations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "streams",
+        "given": "compressing footer section"
+      },
+      {
+        "given": "repeated"
+      }
+    ],
+    "issue": [
+      "entication> node)"
+    ],
+    "note": [
+      "375–376 hyperlinks, setting, 143–144 parameters, 376 images, 143–144 SelectParameters, 340–342 JavaScript event, triggering, 141–142 finding logic, 140–141 folders, 41–43 steps, events controlling, 206–207 HTML server controls, 108–109 validation, 139, 218–219 objects CheckBox comparing (IComparable), 304–305 described, 153–154 identity versus equivalence, 302–303 text, aligning, 155–156 like objects (BinarySearch), 305–306 value, assigning, 155 overriding equals, 303–304 verification, 154–155"
+    ],
+    "pages": [
+      "688–689 156–157",
+      "671–672"
+    ],
+    "title": [
+      "See master pages Deflate, 843–844 For Each loop GZip, 842–843 as C# language iterator, 1178–1180 HTTP output, 844–847 collection, counting, 311–312 supported types, 88–89, 1059–1060 hashtable, 316 uploading writing, 301–302 advantages, 190–191 For loop byte array, moving from stream object to, 196 collection, counting, 311–312 naming, 192–193 hashtable, 316 permissions, 193–194 writing, 301–302 sample, 191–192 forms. See also validation size limits, 194–195 authentication stream object, placing into, 195–196 configuring, 1074–1075 filling database values, working against, 685–686 bulleted list from data store, 187–189 described, 679–683 calendar, 231 login control, 686–688 dynamic collection of items (CheckBoxList), methods and properties",
+      "form element with default values, 222 web.config file values, authenticating against, user controls from host Web page, 862 683–685 filter, mobile device, 1015–1017 buttons filtering SqlDataSource data creating, 139 with expression"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "mapping, 945–946 described, 69–70 file location (ImageUrl), 162–163 exposed properties, consuming, 73–74 HTTP, handling, 943–944 first page, checking whether from, 74–75 menu items, separating with, 534–535 origin of (@PreviousPageType), 64 mobile devices, 994–995 postback and values, 70–71 navigation menu based on (ImageMap) TextBox control checking hotspots, 213 cursor, dynamically placing in element (Focus() specifying hotspots, 211–213 method), 136–137 URL, navigating to different, 213 mapping, 135–136 outputting, request-processing pipeline handler, forward slash (/), 484 943–944 forwarding Web page view customization, 657–658 cursor (DataReader object), 393–395 Web site navigation debugging and error-handling, monitoring menu items, 534–535 (tracing), 782 paths, separating, 506 tracing debugging and error-handling, 782 pop-out symbol, 533–534 Framework interface, implementing themes, including, 290–293 (@Implements), 63 TreeView, 519–520 FrontPage Extensions, server utilizing, 48–49 greater than sign (>), 504, 774 FTP (File Transfer Protocol) GridView application locations, 48 Bound List control commands (FtpWebRequest and customizing columns, 361–363 FtpWebResponse), 852–854 deleting data, 368–370"
+    ],
+    "title": [
+      "Finish button CheckBoxList creating, 205–206 data binding, 384 information, saving, 206, 207 designing, 158 steps, controlling, 203–204 populating, 156–157 fire hose mode, 340 element sequence, 207–211 first page end user personalization properties, 554–556 cross-page posting, 74–75 filtering data, 340 image, loading, 163 <forms>, element to web.config file, 586–587 navigating to, 506 HTML select box, including (DropDownList), folders 145–148 authentication long workflows, breaking into manageable segments, files, uploading, 193–194 207 specific, 689–690 longer HTML select box (ListBox server control), finding, 41–43 152–153 forms (continued) forms (continued) generics master page, choosing and coding, 256–261 collections, specialized mobile devices described, 325 container, 981–982 dictionary, 327–328 navigating between, 1010 lists, 326–327 user control, 1010–1013 HTML server controls (HtmlGenericControl), RadioButton 113–114 change, detecting, 160 Visual Basic and C# language described, 159–160 collections of objects, 1172–1176 RadioButtonList methods, 1176–1178 creating, 161 Global Application Class, adding, 89–90 data binding, 384 Global Assembly Cache (GAC), 975 RadioButton versus, 160 global namespace qualifiers, 1182–1183 value, checking, 161–162 graphics smart auto-completion, 138–139 as bullets, 186 submitting to another page buttons, 143–144 button controls, 142 error notification, 242–243 control values, exposing, 71–72 file extension"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "validating, 244–247 namespace), 314–317 login, providing view for, 614–615 generic dictionary, 327–328"
+    ],
+    "title": [
+      "<allow> and <deny> nodes, 675–676 hashtables end user personalization properties, 558–559 classes and interfaces (System.Collections form boxes"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "GUID (unique identifier) iterating, 41–43 anonymous personalization, 566 header, 204–205. See also master pages content pages, 266–268 help, 33 master page, creating on first request, 263–264 hidden fields Guthrie, Scott (Microsoft employee), 2 ControlState management, 735–739 GZip compression, 842–843 mobile devices, 1019–1021 states, managing, 189–190 ViewState illusion, 890–891 H hierarchical data hackers, 216–217 menu, 385–386 handheld devices TreeView AdRotator, 985–988 adding nodes, 526–527 calendar, 988–990 check boxes, creating, 515–517 command, 994 data binding, 384–385 emulators, 1014–1015 described, 509–510"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "HTML (HyperText Markup Language) (continued) short-term storage, 739–740 populating dynamically,",
+      "499 single-node (HtmlContainerControl), 111 HyperText Markup Language. See HTML styling, 875–877 HyperText Transfer Protocol. See HTTP tag attributes, 873–874 tags, rendering, 871–873 styles, changing, 102–103 I templated controls, 903–910 IBuySpy demo Web applications, 10–11 validating, 39–41 icons, TreeView server control, 518–520 XSLT output, 489–491 ID HTTP (HyperText Transfer Protocol) anonymous personalization, 566 access, granting or denying, 1077 browser, 1071 buffer uploads, 1082–1083 content pages, 266–268 caching, 747–750 control, 874–875 cookie mechanism, 732 HTML server control base class, 110 digest authentication, 679 master page, creating on first request, 263–264 events, 709–710 IDE (Integrated Development Environment). See Visual HttpHandlers Studio 2005 defined, 858 identity embedded resources, accessing, 883 ASPNET credentials, 696–698 file extension, mapping, 945–946 information, programming, 693–695 generic, 940–944 objects, finding, 302–303 HttpModules IIS (Internet Information Server) described, 930–931 application locations, 47–48 IIS wildcards, 938–940 authentication schemes, 585, 1073 output, modifying, 932–934 caching, 1084 URL rewriting, 934–938 debugging, 792 HttpWebResponse classes, 848–852 file extension, mapping, 945–946 output streams, compressing, 844–847 no need for, 20 page event lifecycle, 869 security requests, processing, 929–930 file extensions, 700–702 rules, assigning, 1126 IP address and domain name restrictions, 699–700 session state management MMC snap-in, 702–703 configuring, 710–711 virtual directory or standalone application location, 45 trace information, 714–715 wildcards, 938–940"
+    ],
+    "title": [
+      "188–189 stateless nature, 705 starting value, changing, 185 status codes for exception and error handling, style, 184–185 802–803 text mode, 186–187 transport protocols button control and TextBox server control, 123–126 HTTP-GET, 1040–1043 code, displaying in browser (Literal control), 134–135 HTTP-POST, 1024–1025, 1043 CSS server controls, applying to, 103 WebMethod attribute, 1030–1031 generic control (HtmlGenericControl), 113–114 Windows-based authentication transmission HTTP-POST request, sending, 1043 method, 677 interpretations, challenge facing multiple browsers, hyperlinks 93–94 adding to GridView, 363 select box, 145–148 appearance with button behavior, 143 server controls direction, changing, 506 base class (HtmlControl), 110–111 image or text, 145 changing, 109–110 mobile devices, 997–999 finding, 108–109 site navigation, 499 listed, 94, 111–112 Web pages, navigating among"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "224–226 paths, separating, 506 form types, 215–216 pop-out symbol, 533–534 generally, 10 themes, including, 290–293 groups, 244–247 TreeView, 519–520 manipulating, 217–218 immediate window, debugging and error-handling, 774 membership and role management, 9–10 impersonation, 696–698 mobile device controls, 1008–1009 importing pattern, defining with regular expression namespace (@Import), 62–63 (RegularExpressionValidator) Visual Studio 2005 settings, 37–39 e-mail address example, 232 include files, 251, 1080–1081 other uses, 233 information, browser capability, 889–890 range InfoSet, XML, 456 dates and other string characters, 228–231"
+    ],
+    "title": [
+      "buttons, 143–144 application roles, 625–627 error notification, 242–243 buttons without, 139 file extension, mapping, 945–946 CheckBox, 154–155 file location (ImageUrl), 162–163 client- versus server-side, 216–217 HTTP, handling, 943–944 client-side menu items, separating with, 534–535 asynchronous callbacks, 884–887 mobile devices, 994–995 disabling, 241–242 navigation menu based on (ImageMap) JavaScript file, 883 checking hotspots, 213 customizing specifying hotspots, 211–213 client and server working together, 238 URL, navigating to different, 213 client-side, 233–235 outputting, request-processing pipeline handler, complexity, 235–237 943–944 events triggering, 218–219 Web page view customization, 657–658 form elements, comparing Web site navigation against constants, 226–227 menu items, 534–535 against other controls"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "688–689 removing, 282 setting (<authentication> node), 671–672 single page, applying, 279–281 web.config file values, authenticating against, StyleSheetTheme attribute, 283 683–685 Web pages, removing, 283 measures, applying, 670–671 loops Microsoft Passport identity system, 689 as C# language iterator, 1178–1180 MMC tab, 1126–1128 collection, counting, 311–312 online users, counting, 607–608 hashtable, 316 page-level events, triggering, 90 writing, 301–302 passwords, changing or retrieving forgotten recovery server control, 610–612 server control, 609–610 M status, logging in or out, 604–605 machine.config file username, displaying, 606–607 application, 1061 users, adding applying, 1061–1062 application registration, changing, 598–599 changes, detecting, 1062 Continue button, 591–592 described, 1060–1061 programming, 595–598 format, 1062 registration process, incorporating personalization manipulating, 1092–1093 properties into, 592–595 Remote Servers, altering from, 1093–1095 sections, 1063"
+    ],
+    "title": [
+      "credentials, asking for images, including, 290–293 access, turning off, 599–600 skin (styles definition for server controls), 285–287 Login server control, 600–603 custom controls, 296–298 programmatic logging in, 603–604 multiple skin options, 293–295 described, 583–584 page framework, 16–17 files and folders, specific, 689–690 programming forms-based assigning, 295–296 database values, authenticating against, 685–686 SkinID, assigning, 296 described, 679–683 server controls login control, 686–688 disabling, 877–878 methods and properties"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "result set, opening over same connection, 422–423 described, 742 master pages QueryString parameters, specifying (VaryByParam), advantages of using, 249–251 742–743 assigning, 272 UserControls, performance gains from caching, 278 (VaryByControl), 743 coding, 253–256 VaryByCustom, 743–744 container-specific,",
+      "CacheDependency overriding property, 268 class), 752 server control, exposing, 268–269 previous edition’s dependencies, 750–751 specifying template, 261–262 responses, XML Web services, 1047–1048 title, 262–263 SQL Server dependency default content, specifying, 270–271 database, disabling, 760 event ordering, 277–278 disabling tables, 760 files, 251–252 invalidation, enabling databases for, 757–758 framework, 15–16 SQL Server 2005 cache invalidation, 760–761 nesting, 272–275 steps, 756–757 partial classes, 252–253 tables, enabling, 758, 759 properties, parsing (@Master), 59–60 viewing, 758–759 typed references or members (@MasterType), 65 substitution following, 745–747 maximum range, input, 228 Menu, 385–386 maximum request length, 1082"
+    ],
+    "pages": [
+      "276–277 , 744–745"
+    ],
+    "title": [
+      "content pages programming building, 256–259 custom, creating, 752–756 controls, accessing, 263–264 data with Cache object, 750 GUID, 266–268 disparate dependencies of different types Label control, 264–266 (AggregateCacheDependency class), mixing types and languages, 259–261 751–752 overriding Label control, 269–270 inheritable dependencies"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "756–757 (App_Codefolder), 78–79 tables, enabling, 758, 759 forms-based authentication, 688–689 viewing, 758–759 generics, 1176–1178 end user personalization overloading, XML Web services, 1044–1047 Express Edition files, 571–573 server controls, building, 95 scripts, 578–580 Microsoft Data Access Component (MDAC) setup wizard, 573–578 ADO.NET reliance, 405 membership service asynchronous processing, 429 credentials, checking, 685–686 Microsoft Developer Network (MSDN) Forums, 41 data store, creating, 587 Microsoft Developer Network (MSDN) style, TreeView table, viewing, 589–591 control with, 511 queries, executing (Command object), 391–392 Microsoft Development Environment, 491–492 sessions, storing, 724–727, 1066–1067 Microsoft Internet Explorer file contents, 1071 Web Farm support, 1066–1067 Microsoft Management Console (MMC) XML Application tab, 1128–1129 extracting, 479 Authentication tab, 1126–1128 loading, manipulating, and editing, 482 Authorization tab, 1125–1126 retrieving, 494–497 Custom Errors tab, 1124–1125 support, 492 described, 6 Microsoft SQL Server 2005, 760–761 functions, 1122 Microsoft SQL Server Express Edition, 571–573"
+    ],
+    "title": [
+      "methods invalidation, enabling databases for, 757–758 bulk loading from variety of sources, 408 SQL Server 2005 cache invalidation, 760–761 classes, .wsdlfiles, and typed datasets steps"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "creating new, 977–980 N Mobile Web Form namespace Code view, 981 ADO.NET data management, 389–391 Design view, 980 class names, associating (@Register), 63–64"
+    ],
+    "title": [
+      "StyleSheets multiple user control or page, compiling or parsing applying, 984–985 (@Reference), 66 creating and customizing, 983–984 multiple wait handles, asynchronous command global for all forms, creating, 985 execution, 440–448 TextBox, 991–993 multiple Web sites with multiple frameworks, TextView, 993–994 1086–1087 user control, 1010–1013 My keyword, 1190–1192 validation controls, 1008–1009 Visual Basic or Visual C# application"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "App_LocalResApp_LocalResources"
+      }
+    ],
+    "note": [
+      "348–349 adding, 619–620 specifying (StartingNodeUrl property), 541 caching, 627 structure options checking users, 625–627 code-behind model, 53–55 deleting, 621–622 described, 50–51 gathering all users, 622–624 inline coding, 51–53 particular user, gathering all, 624–625"
+    ],
+    "title": [
+      "84 validating, 232 sections, turning on and off (Multiview and View) performance buttons, 199–200 ASP.NET generally, 9 described, 196–199 in-process session state, 717–719 end user view, 200 permissions source code, middle-layer business objects application roles (ObjectDataSource control"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "uploading, 193–194 events, exposing (ProfileModule class), 567"
+    ],
+    "title": [
+      "file, 1077–1078 multiple providers, 581 support, 1076 programmatic access URL, 1076–1077 anonymous users, migrating, 568–569 described, 583–584 automatic saves, continuing with, 570–571 files"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "form"
+    ],
+    "note": [
+      "group, 558–559 public methods IntelliSense, 556–557 membership API, 628–629 read-only, 563 roles API, 629–630 registration details, storing, 592–595 role management for Web site SQL Server changing, 616–618 scripts, 578–580 described, 615–616 setup wizard, 573–578 web.config file, 618–619 SQL Server Express Edition, 571–573 Security tab, WAT, 1101 PhoneCall setting, mobile device, 996–997 Web Site Administration Tool, 628 pictures persisting DataSets, 479–480 as bullets, 186"
+    ],
+    "pages": [
+      "554–556 692–693"
+    ],
+    "title": [
+      "MMC tab, 1125–1126 profiles, 569–570 page views, controlling by login, 613–615 properties, creating programming custom types, 560–562 authorized user information, working with default values, providing, 562–563 (User.Identity property), 691–692 defining in web.config file, 553–554 described, 690 defining types, 559 identity information, additional, 693–695 described, 552–553 Windows role, checking (User.IsInRole("
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "command, 994 state management, 733–734 emulators, 1014–1015 posting, cross-page filters, 1015–1017 button controls, 142 Form control container, 981–982 control values, exposing, 71–72 forms, navigating between, 1010 described, 69–70 images, 994–995 exposed properties, consuming, 73–74 label, 990–991 first page, checking whether from, 74–75 link, 997–999 origin of (@PreviousPageType), 64 lists, 999–1002 postback and values, 70–71 master pages, adjusting to different, 276–277 precompiling Mobile Web Form business objects Code view, 981 described, 950–952 Design view, 980 using, 952–953 event handling, 981 for deployment, 87 HTML view, 980 described, 14–15 ObjectList, 1003 Web application, 1142–1144 Panel control container, 981–983 Previous button PhoneCall, 996–997 information, saving, 206 SelectionList, 1004–1007 steps, controlling, 203–204 state management printing hidden fields, 1019–1021 arrays, 300–302 session, 1019 total price of counted books, 468–470 ViewState, 1017–1018 private assemblies, 963–964 StyleSheets processor affinity, 712 applying, 984–985 processor, XSLT, 488–489 creating and customizing, 983–984 profiles, end user, 569–570 global for all forms, creating, 985 program TextBox, 991–993 caching, 761–763 TextView, 993–994 copying Web site, 31"
+    ],
+    "pages": [
+      "988–990 , 68–69"
+    ],
+    "title": [
+      "Person class buttons, 143–144 comparability, adding, 304–305 error notification, 242–243 creating simple, 299–300 file extension, mapping, 945–946 finding individuals, 302–303 file location (ImageUrl), 162–163 generic dictionary, 327–328 HTTP, handling, 943–944 hashtable, retrieving, 314–317 menu items, separating with, 534–535 list using generics, 326–327 mobile devices, 994–995 overriding equals, 303–304 navigation menu based on (ImageMap) printing, 300–302 checking hotspots, 213 pushing, popping, and peeking in stack, 319–320 specifying hotspots, 211–213 queuing, 318–319 URL, navigating to different, 213 resizing, 302 outputting, request-processing pipeline handler, sorting, 306–307 943–944 personalization Web page view customization, 657–658 anonymous identification Web site navigation cookie, changing name of, 564 menu items, 534–535 described, 563–564 paths, separating, 506 events, 566–567 pop-out symbol, 533–534 length of time cookie stored, changing, 564–565 themes, including, 290–293 options, 567 TreeView, 519–520 pipe character (|) pipe character (|), 505 user control, 1010–1013 placeholder validation controls, 1008–1009 dynamic substitution, 747 Visual Basic or Visual C# application, creating new, server control 977–980 creating, 181 Portal Framework, Web Parts master pages, 270, 275 class properties, 661–662 plus sign (+), 519 developer tools, 10–12 Poll approach, asynchronous command execution, manager methods, 659 434–437 manager properties, 658–659 polymorphism, 1044 zone properties, 660–661 pop-out symbol, changing, 533–534 postbacks populating client callback feature versus, 120–122 bulleted list from data store, 187–189 cross-page posting, 70–71 calendar, 231 data, handling, 899–900 dynamic collection of items (CheckBoxList), drop-down list, generating subentries, 147–148 156–157 events, raising form element with default values, 222 adding, 896–897 user controls from host Web page, 862 handling, 898–899 portable devices initiating, 895–896 AdRotator, 985–988 hotspot images, 212–213 calendar"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "81–84 defining types, 559 data stores (App_Datafolder), 80–81 described, 552–553 page, resources used for single form, 554–556 (App_LocalResApp_LocalResources), 84 group, 558–559 themes (App_Themes), 81 IntelliSense, 556–557 Web services, remote (App_WebReferences), 85 read-only, 563 XML browser identification files (App_Browsers), 85 forms-based authentication, 688–689 programming server control events, 100 authorization state illusion (ViewState), 892–893 authorized user information, working with property accessors, 1186–1187 (User.Identity property), 691–692 protecting configuration settings, 1095 described, 690 providers identity information, additional, 693–695 adding, editing, or removing, 1128 Windows role, checking (User.IsInRole()), setting up, 1118–1120 692–693 public assemblies, 964–965"
+    ],
+    "title": [
+      "settings, storing specific, 1087 user authentication, 595–598 state management, 731 progress, bulk loading, 415–416 themes, 281 project Windows-based authentication, creating, 674–675 creating new, 34 program folders setup, 863–867 classes, .wsdlfiles, and typed datasets Project Output, adding items to, 1161–1163 (App_Codefolder) properties assembly, building into single, 80 attributes, 868–869 creating, 76–78 directories and files, 824–825 described, 75–76 end user personalization method, adding, 78–79 custom types, 560–562 configuration, 1061 default values, providing, 562–563 data dictionary string tables (App_GlobalResources defining in web.config file, 553–554 Folder"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "attaching, 1127 handler described, 615–616 adding to project, 940–941 developer tools, 9–10 described, 940 individual user, getting roles, 624–625 file extension, mapping in IIS, 945–946 looking up all users, 622–624 image, outputting, 943–944 removing users from roles, 625 page template, 941–942 WAT, 1111–1112, 1127"
+    ],
+    "title": [
+      "runtime settings rendering server controls roles management page event lifecycle, 869–870 additional information, 693–695 services, 871–873 application report, validation deleting, 621–622 with dialog box, 240–241 gathering all users, 622–624 errors as bulleted list, 238–239 users, adding, 622 images and sounds for error notification, 242–243 caching, 627 limiting to one, 239–240 changing, 616–618 request priority, 1083–1084 checking users, 625–627, 692–693 request-processing pipeline data providers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Simple Object Access Protocol (SOAP"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "HTML elements remote (App_WebReferences), 85 base class (HtmlControl), 110–111 rendering server controls, 871–873 changing, 109–110 session finding, 108–109 debugging, starting single-node (HtmlContainerControl),",
+      "841–842 properties, modifying, 892–893 File System Editor, creating desktop, 1163 text box, viewing, 891–892 reading and writing files, 841–842 types and, 893 side navigation, customizing, 203 tag attributes, 873–875 sidebar navigation buttons, 206 templated signup process container class, 905–908 form default class, 909–910 building, 208 described, 903 input information, pushing out, 208–209 inner control class, 904–905 membership link, 209–211 Web page, adding to, 908–909 JavaScript on Web page, 115–117, 119 themes and skins membership CSS files, including, 287–290 forms, creating, 588–589 default, 280 provider, changing rules, 598–599 disabling, 877–878 open access, blocking, 599–600 removing, 282 personalization properties, incorporating, 592–595 Web Server, 95 Simple Mail Transport Protocol (SMTP), 1115–1116"
+    ],
+    "title": [
+      "111 attaching to process, 793 passwords, changing or retrieving forgotten, 609–610 F5, 793 PostBack data, handling, 899–900 simpler remote, 793–795 PostBack events, raising Windows XP Service Pack 2, 795 adding, 896–897 filtering data, 340 handling, 898–899 mobile devices, 1019 initiating, 895–896 session object project setup, 863–867 configuring, 710–711 rendering described, 708 page event lifecycle, 869–870 event model, 709–710 services, 871–873 in-process, 711–719 request-processing pipeline handler transparency, 715–717 adding to project, 940–941 session state configuration described, 940 described, 1060, 1064–1065 file extension, mapping in IIS, 945–946 Web Farm support, 1065–1068 image, outputting, 943–944 settings page template, 941–942 locking, 1078 request-processing pipeline module mode of page, changing, 648–651 IIS wildcards, 938–940 saving and importing, 37–39 interface, implementing, 930–931 WAT application, 1114–1115 output, modifying, 932–934 setup wizard URL rewriting, 934–938 SQL Server, 573–578 state illusion (ViewState) WAT security, 1102–1109 control state, 894–895 shortcuts hidden form field, 890–891 file I/O, reading and writing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Explorer",
+        "given": "Server"
+      }
+    ],
+    "note": [
+      "StartFromCurrentNode property), 539–540 requests, 1053–1055 described, 538 request, 1024–1025 integer value for starting point response, 1025 (StartingNodeOffset property), 540–541 sending request, 1038 page, specifying (StartingNodeUrl property), 541 transport protocols, 1044 root node (ShowStartingNode property), 538–539 single data record sitemap localization described, 370–371, 379–380 assembly resource (.resx) files, creating, 547–548 display, customizing, 371–372 testing results, 549–550 displaying and editing data, 381–384 Web.config file, 546–547 with GridView, 372–376 Web.sitemap file, 545–546 inserting data, 376–377 TreeView server control updating and deleting data, 377–378 adding nodes, 526–527 single page, theme for, 279–281 check boxes, creating, 515–517 single-node HTML server control, 111 described, 509–510 site links, 499 expanding and collapsing nodes, 522–526 site map, 12–13 icons, specifying custom, 518–520"
+    ],
+    "title": [
+      "32 Simple Object Access Protocol (SOAP) services, Web disparate systems, 1024–1025 callback, using with, 127–129 exposing custom datasets as displaying (XmlDataSource control), 485–486 sample, 1028–1029 Simple Object Access Protocol (SOAP) (continued) Simple Object Access Protocol (SOAP) (continued) site links, 499 WebMethod attribute, 1030–1031 Site Map API WebService attribute, 1030 CurrentNode, 542–544 headers properties listed, 541 classes representing, 1049–1051 SiteMap Data Provider consuming, 1051–1053 current node of page, retrieving only described, 1048–1049"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ParentLevelsDisplayed property), 507 XML-based site maps, 500–502 described, 502–504 SiteMap direction of links, changing (PathDirection class property), 506 data source, binding, 349 link elements, separating symbol (PathSeparator described, 499 property), 504–506 hierarchical data, displaying, 384–385, 386 tooltips for links, generating (ShowToolTips Menu control, 529 property), 507–508 data provider developer tools, 12–14 current node of page, retrieving only hyperlinks, 499 (StartFromCurrentNode property), 539–540 Menu server control described, 538 described, 527–529 integer value for starting point dynamic item style, 532 (StartingNodeOffset property), 540–541 events, 535–536 page, specifying (StartingNodeUrl property), 541 images, separating items with, 534–535 root node (ShowStartingNode property), 538–539 layout, 533 localization pop-out symbol, changing, 533–534 assembly resource (.resx) files, creating, 547–548 predefined style, 530 testing results, 549–550 static item style, 531 Web.config file, 546–547 styles, applying, 529 Web.sitemap file, 545–546 XML file, binding, 536–537"
+    ],
+    "title": [
+      "Site Map API Label control, populating, 518 CurrentNode, 542–544 lines connecting nodes, specifying, 520–522 properties listed, 541 multiple options, selecting, 514–515 site navigation root and tree nodes, 512 breadcrumb navigation (SiteMapPath control) styles, identifying built-in, 511 child elements, listed, 508 XML file, binding, 512–514 depth of pages, displaying URL mapping, 544–545"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "described, 502–504 SQL query direction of links, changing (PathDirection parameterized statements, 398–401 property), 506 state management, 724–727 link elements, separating symbol (PathSeparator Stored Proc, debugging, 798–799 property), 504–506 XML, modifying to return (FOR XML AUTO clause), tooltips for links, generating (ShowToolTips 493–495 property), 507–508 XSLT, modifyiing to return, 495–497 size limits, uploading files, 194–195 SQL Server 2005 (Microsoft), 760–761"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "756–757 described, 1048–1049 tables, enabling, 758, 759 requests, 1053–1055 viewing, 758–759 request, 1024–1025 end user personalization response, 1025 Express Edition files, 571–573 sending request, 1038 scripts, 578–580 transport protocols, 1044 setup wizard, 573–578"
+    ],
+    "title": [
+      "headers invalidation, enabling databases for, 757–758 classes representing, 1049–1051 SQL Server 2005 cache invalidation, 760–761 consuming, 1051–1053 steps"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Explorer",
+        "given": "Solution"
+      }
+    ],
+    "note": [
+      "479 described, 333–336 loading, manipulating, and editing, 482 SqlDataSource, 336–339 retrieving, 494–497 support, 492 SQL Server Yukon 2005 (Microsoft) SQL Server Yukon 2005 (Microsoft), 497–498 status squiggles, 771, 772 authentication, logging in or out, 604–605 Stack class Http exception and error handling codes, 802–803 classes and interfaces (System.Collections step, user navigation namespace), 318–320 backward navigation, blocking (AllowReturn generic, 1174–1175 attribute), 203 integers, generic with, 1175–1176 button structure (StepType attribute), 203–204 non-generic, 1173–1174 control events, 206–207"
+    ],
+    "title": [
+      "30–32 membership service sorting credentials, checking, 685–686 array objects, 306–307 data store, creating, 587 classes and interfaces, 317–318 table, viewing, 589–591 GridView Bound List columns, 355–357 queries, executing (Command object), 391–392 sounds, error notification, 242–243 sessions, storing, 724–727, 1066–1067 source controls Web Farm support, 1066–1067 caching, 349–350 XML data binding extracting"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "Start"
+      }
+    ],
+    "note": [
+      "739–740 out-of-process, 719–724 user authentication, 589–591 PostBacks and cross-page PostBacks, 733–734 streams session object compressing configuring, 710–711, 1060 Deflate, 843–844 described, 708 GZip, 842–843 event model, 709–710 HTTP output, 844–847 in-process, 711–719 object, placing into, 195–196 transparency, 715–717 reading and writing files, 832–837 short-term storage with strings. See also connection strings HttpContext.Current.Items, 739–740 collections, specialized (StringCollection, SQL-backed, 724–727 StringDictionary, and"
+    ],
+    "title": [
+      "Visual Studio 2005, 22 creating, 201–202 starting, application, 90 form elements, 207–211 starting value, bulleted list, 185 header text, 204–205 state illusion (ViewState) navigating, 202, 205–206 control state, 894–895 Next, Previous, and Finish buttons, 201–204 hidden form field, 890–891 return, allowing or disallowing, 203 properties, modifying, 892–893 sample, 201–202 text box, viewing, 891–892 side navigation, customizing, 203 types and, 893 user’s current, viewing, 199–200 state management store sample document Application object, 731 authors’ names, handling, 470–471 choices, 706–708 counting books and printing total price, 468–470 cookieless, 729–730 creating with XmlWriter, 472–474 cookies, 732 elements, counting, 462–463, 466–468 described, 705 namespaces, 458–461 extending with other providers, 728–729 read-only database, querying, 476–478 hidden fields schema, defining, 457–458 server control, 189–190 validating, 464–465 ViewState, and ControlState, 735–739 XML, 454–455 means to maintain, choosing correct, 730–731 XSLT list of authors, 486–487, 490 MMC, 1129–1130 storing mobile devices cookies, changing length of time, 564–565 hidden fields, 1019–1021 identifiers, changing, 565 session, 1019 state management with short-term ViewState, 1017–1018 HttpContext.Current.Items"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "423–426 client-side, 233–235 loading table from reader, 402–403 complexity, 235–237 multiple asynchronous processes, 444–447 events triggering, 218–219 multiple wait handles, 440–442 form elements, comparing parameterized SQL statement, 399–400 against constants, 226–227 single asynchronous process, wait approach handling, against other controls, 224–226 437–438 form types, 215–216 transaction, committing after bulk loading, 414–415"
+    ],
+    "title": [
+      "V cross-page posting, 70–71 validation specifying @Page, 57–59 application roles, 625–627 VaryByCustom output caching, 743–744 buttons without, 139 VB (Visual Basic) CheckBox, 154–155 ActiveX DLL, 956, 957–958 client- versus server-side, 216–217 ADO.NET data management client-side batch updating, 417–419 asynchronous callbacks, 884–887 bulk loading, 411–413 disabling, 241–242 callback asynchronous command processing, JavaScript file, 883 449–450 customizing DataReader object, 393–394 client and server working together, 238 GridView control and MARS"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Visual Studio 2005 (Microsoft) (continued"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Visual Studio 2005 (Microsoft) (continued) Security tab page tabs, 24–25 access rules, managing, 1112–1114 stylesheet, incorporating, 106 described,",
+      "688–689 Start Page, 22 setting (<authentication> node), 671–672 submaster pages, trouble creating, 274–275 web.config file values, authenticating against, Toolbox, 28–30 683–685 WAT, accessing, 1100 buttons XML files, viewing, 460–461 creating, 139 XML Web services files, 1025–1026 hyperlinks, setting, 143–144 Visual Studio Style Builder, 103–104 images, 143–144 VSI (Visual Studio Installer), 1145 JavaScript event, triggering, 141–142 logic, 140–141 steps, events controlling, 206–207 W validation, 139, 218–219 Wait approach, asynchronous command execution, CheckBox 437–440 described, 153–154 WAT (Web Site Administration Tool) text, aligning, 155–156 accessing programmatically, 8–9 value, assigning, 155 Application tab verification, 154–155 offline, taking, 1118 CheckBoxList settings, managing, 1114–1115 data binding, 384 SMTP, 1115–1116 designing, 158 tracing and debugging information, 1116–1118 populating, 156–157 described, 1099–1101 element sequence, 207–211 Home tab, 1101 end user personalization properties, 554–556 Provider tab, 1118–1120 filtering data, 340 Index Web server controls"
+    ],
+    "title": [
+      "1101–1102 tag navigator, 24 new users, creating, 1110 views, 23–24 roles, managing, 1111–1112 Dynamic Help, 33 setup wizard, 1102–1109 File System Editor, opening, 1147 users, managing, 1110–1111 HTML Welcome screen, 7 elements, listed, 108 Web browser validating, 39–41 concern prior to ASP.NET, 93–94 Master Pages, viewing, 255 configuring capabilities, 1070–1071 Menu control styles, 530–532 detecting and reacting to capabilities MultiView control, creating, 197 .browser files, 887–889 new projects, creating, 34 information, accessing, 889–890 page-building, 18–20 master pages, adjusting to different, 276–277 Properties window, 32–33, 100 type converters, 911–912 references to other objects, making, 34–36 Web Farm support Regular Expression Editor, 232–233 custom state store, 1067–1068 resources, Internet, 41 SQL server, 1066–1067 Server Explorer, 32 state server, 1065–1066 server-side controls Web forms. See also validation built-in, 857 authentication creating, 100 configuring, 1074–1075 script tags, 142 database values, working against, 685–686 settings, saving and importing, 37–39 described, 679–683 Solution Explorer, 30–32 login control, 686–688 SqlDataSource control, typical, 339 methods and properties"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "exposing, 71–72 images as bullets, 186 described, 69–70 populating from data store, 187–189 exposed properties, consuming, 73–74 starting value, 185 first page, checking whether from, 74–75 styling, 184–185 origin of (@PreviousPageType), 64 buttons postback and values, 70–71 function, multiple from same (CommandName), TextBox control 140–141 cursor, dynamically placing in element (Focus() hyperlink, 145 method), 136–137 image, custom (ImageButton), 143–144 mapping, 135–136 JavaScript, client-side, 141–142"
+    ],
+    "title": [
+      "<forms>, element to web.config file, 586–587 zones HTML select box, including (DropDownList), 145–148 actions of items, 655–658 long workflows, breaking into manageable segments, controls, adding, 652–655 207 default elements, 639–640 longer HTML select box (ListBox server control), layouts, 634–638 152–153 managing state and content, 633–634 master page, choosing and coding, 256–261 modification, turning off, 652 mobile devices, 981–982, 1010–1013 orientation, 639 mobile devices, navigating between, 1010 template, 639 RadioButton Web server change, detecting, 160 application locations, 46–47 described, 159–160 built-in, 45 RadioButtonList Web server controls creating, 161 advantages, 131–132 data binding, 384 advertising (AdRotator) RadioButton versus, 160 banner, 176–177 value, checking, 161–162 XML file, 175–176 smart auto-completion, 138–139 bulleted list submitting to another page creating, 183–184 button controls, 142 DisplayMode, 186–187 control values"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "162–163 Web services image-based navigation menu (ImageMap) callback, using with, 127–129 checking hotspots, 213 displaying (XmlDataSource control), 485–486 specifying hotspots, 211–213 remote (App_WebReferences), 85 URL, navigating to different, 213 rendering server controls, 871–873 input form text box (TextBox) Web site auto completion (AutoCompleteType), 138–139 blogs, influential listed with addresses, 1194 button, clicking (AutoPostBack), 137–138 membership, setting up for cursor, placing (Focus()), 136–137 <authentication>, element to web.config file, described, 135 585–586 multiline, 136 described, 584–585 passwords, 135 <forms>, element to web.config file, 586–587 ListBox site map data, binding, 336 DropDownList versus, 150 Web Site Administration Tool (WAT) items, adding, 152–153 accessing programmatically, 8–9 multiple items, allowing users to select, 150 Application tab sample, 151–152 offline, taking, 1118 page layout (Panel) settings, managing, 1114–1115 horizontal alignment, 180 SMTP, 1115–1116 left side scrollbar, 180 tracing and debugging information, 1116–1118 scrollbar example, 178–180 described, 1099–1101 page sections, turning on and off (Multiview and View) Home tab, 1101 buttons, 199–200 Provider tab, 1118–1120 described, 196–199 Security tab end user view, 200 access rules, managing, 1112–1114 RadioButton described, 1101–1102 change, detecting, 160 new users, creating, 1110 described, 159–160 roles, managing, 1111–1112 removing control collection items, 148–149 setup wizard, 1102–1109 sequence of steps for end user users, managing, 1110–1111 backward navigation, blocking (AllowReturn Welcome screen, 7 attribute), 203 Web site navigation button structure (StepType attribute), 203–204 breadcrumb navigation (SiteMapPath control) control events, 206–207 child elements, listed, 508 form elements, 207–211 depth of pages, displaying header (HeaderText attribute), 204–205 (ParentLevelsDisplayed property), 507"
+    ],
+    "title": [
+      "Web gardening, 712 looks like hyperlink (LinkButton), 143 Web Parts OnClick event, 139 custom without validation, 139 creating, 663–666 Calendar DLL, 667–668 date ranges, 169–171 dragging and dropping onto page, 668 day, selecting, 167–168 personalization, 666–667 day, week, or month selections, 169 described, 11, 631–633 outputting format, 168 mode of page, changing style and behavior, 172–175 adding list, 641–644 without styles, 166 adding to page, 644–646 CheckBox connecting, 651 described, 153–154 moving, 646–648 text, aligning, 155–156 settings, 648–651 value, assigning, 155 user tasks, 640–641 verification, 154–155 Portal Framework collection of items (CheckBoxList) class properties, 661–662 binding with SQLDataSource, 157 manager methods, 659 dynamically populating, 156–157 manager properties, 658–659 styling properties, 158 zone properties, 660–661 Web server controls (continued) Web server controls (continued) navigating, 202 collection of radio buttons (RadioButtonList), 161–162 navigation system, 205–206 dynamic object placeholder, 181 sample, 201–202 files, uploading side navigation, customizing, 203 advantages, 190–191 tables byte array, moving from stream object to, 196 captions, 165–166 naming, 192–193 rows, adding, 164–165 permissions, 193–194 three-rowed, producing, 163–164 sample, 191–192 text size limits, 194–195 displaying in browser (Label), 132–134 stream object, placing into, 195–196 outputting without code (Literal), 134–135 hidden fields, managing states, 189–190 XML, transforming with XSL style sheet, 177–178 HTML select box, 145–148 XSLT, 489–491 image file location (ImageUrl"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "shortcuts, 841–842 problems, 475 streams, 832–837 XPath and,"
+    ],
+    "pages": [
+      "475–478"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Visual Studio.NET",
+        "particle": "wsdlfiles editing in"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "XHTML (eXtensible HyperText Markup Language), 177–178 772–773 Index zones, Web Parts XmlReader XMLHTTP callback capability, 126 CLR types, retrieving, 468–469 XmlReader described, 461–463 CLR types, retrieving, 468–469 elements and attributes, listing all (NameTable), described, 461–463 466–468 elements and attributes, listing all (NameTable), serialization and subtrees (ReadSubtree and 466–468 XmlSerialization), 470–471 serialization and subtrees (ReadSubtree and validating XML against XML Schema, 464–465 XmlSerialization), 470–471"
+    ],
+    "pages": [
+      "458–461"
+    ],
+    "title": [
+      "assembly, building into single, 80 element syntax checking tool, 1096–1097 creating, 76–78 file, binding described, 75–76 Menu server control, 536–537 method, adding, 78–79 TreeView server control, 512–514 InfoSet, 456 inline syntax, 387–388 X site map files, 12–13, 500–502 XCOPY deployment SQL query, modifyiing to return (FOR XML AUTO described, 1135–1138 clause), 493–495 VS Copy Web site option, 1138–1142 Web server controls, transforming with XSL style sheet"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "XPath expressions (XPathDocument), 475 validating XML against XML Schema, 464–465 XSD (XML Schema Definition), 457–458 XML, 461–463 XSLT XmlWriter, 461–463, 472–474 debugging, 491–492 XPath, 475–478 document, transforming, 486–487 XSD (XML Schema Definition), 457–458 processor (XslCompiledTransform), 488–489 XSL (eXtensible Stylesheet Language) style sheet, Web server control,"
+    ],
+    "pages": [
+      "489–491 177–178"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Definition",
+        "given": "X.M.L.Schema"
+      }
+    ],
+    "note": [
+      "form (CheckBox control) asynchronously, 1055–1058 creating, 153–154 client application, invoking from, 1036–1039 verifying, 155 described, 1034 debugging and error-handling diagnostic switches, reference, adding, 1035–1036 787–788"
+    ],
+    "title": [
+      "457–458 XSLT (eXtensible Stylesheet Language Transformations) XML Web services document, transforming, 486–487 building processor (XslCompiledTransform), 488–489 base file, 1027–1028 SQL output, transforming, 495–497 Visual Studio files, 1025–1026 SQL query, modifyiing to return, 495–497 WebService page directive, 1026–1027 Web server control, 489–491 caching responses, 1047–1048 communicating between disparate systems described, 1023–1024 Y SOAP request and response, 1024–1025 Yes/No values consuming check boxes"
+    ],
+    "type": null
+  }
+]
