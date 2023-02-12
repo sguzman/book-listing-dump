@@ -1,0 +1,58 @@
+[
+  {
+    "title": [
+      "SELECT demographics.query (‘ declare namespace ss=”http://schemas.microsoft.com/sqlserver/2004/07/adventureworks/StoreSurvey”; for $sa in /ss:StoreSurvey return"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "316–329"
+    ],
+    "title": [
+      "viewing, 138–139 SOAP SchemaGen property of Bulk Load utility, configuring 262–263 endpoints"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "annotated schemas and, 228 native XML and, 312–314 assembly and, 414 overview of, 311–312"
+    ],
+    "pages": [
+      "329–330"
+    ],
+    "title": [
+      "SchemaPath property of SqlXmlCommand overview of, 314 object, 383 Web methods, 314–316 secondary XML index deployment scenarios, 334–335 overview of, 19–20, 114–115 endpoints PATH, 115–116 building client application, 341–351 PROPERTY, 117–118 consuming and using, 337–339 VALUE, 116–117 granting permissions, 339–341 securing endpoint, 351–352 securing, 351–352 security guidelines and limitations of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "280–282"
+    ],
+    "title": [
+      "enhancements to, 5 mappings, 63, 364–365 new methods for, 11 XSD schema Transform method and, 304, 305 executing XPath query against"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "atomization and"
+    ],
+    "note": [
+      "constructors, 501–503 XSLT creating XML using, 501–503 document, components of, 298–299 description of, 21, 487 enhancements to, 295 FLWOR statement, 95–97, 488–489 guidelines for, 308 functions nodes, 299 aggregate, 496–499 overview of, 296–299 context, 499–501 templates, 300–301 data() function, 495–496 Transform method of XslCompiledstring() function, 496 Transform class, 304–306 operators XslCompiledTransform class, 301–304, arithmetic, 492–493 307–308 comparison, 490–492 XsltSettings class, 306–307 logical, 493–495 XSLT processing performance, 5 value comparison, 492 XslTransform class, 307 overview of, 85–86 XsltSettings class, 306–307 path expressions Axis step, 92–93 overview of, 85, 91–92, 487–488 Prolog, 89–91, 487 quantification and, 24–26, 88–89 relational variables and columns, 502–505 sequence and,"
+    ],
+    "pages": [
+      "88 383",
+      "87–88"
+    ],
+    "title": [
+      "XmlWriterSettings class, 11–12 generating, and FOR XML clause, 164–166 XPath preparing for import into collection, 146 expression, 486–487 XML views and, 212 overview of, 486 XSD, using within WSDL file, 357 query XSINIL directive of FOR XML statement, 167 SQLXMLOLEDB provider and, 280–282 xsl property of SQLXMLOLEDB provider, 279, XSD schema and, 227–228 282–285 XPathDocument class, 8–9, 304 XslCompiledTransform class, 301–304, XPathNavigator class, 9–10, 304 307–308 XQuery language XslCompileTransform class, 10–11 advantages of, 485–486 XslPath property of SqlXmlCommand object"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24",
+      "23"
+    ]
+  }
+]
