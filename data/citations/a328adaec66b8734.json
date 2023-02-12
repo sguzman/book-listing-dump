@@ -1,0 +1,312 @@
+[
+  {
+    "author": [
+      {
+        "family": "Grama",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "publisher": [
+      "China Machine Press"
+    ],
+    "title": [
+      "Introduction to Parallel Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "S."
+      },
+      {
+        "family": "Yanli",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "publisher": [
+      "China Water Power Press"
+    ],
+    "title": [
+      "High Performance Computing on GPUs Using NVIDIA CUDA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Akhter",
+        "given": "S."
+      },
+      {
+        "family": "Roberts",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "publisher": [
+      "Publishing House of Electronics Industry"
+    ],
+    "title": [
+      "Multi-core Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Research",
+        "given": "Asia-Pacific"
+      },
+      {
+        "family": "Ltd",
+        "given": "Development"
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "publisher": [
+      "Tsinghua Press"
+    ],
+    "title": [
+      "Release the Potential of Multicore"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "publisher": [
+      "Higher Education Press"
+    ],
+    "title": [
+      "Design and Analysis of Parallel Algorithm"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Kirk"
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Beijing"
+    ],
+    "publisher": [
+      "Tsinghua Press"
+    ],
+    "title": [
+      "D.: Programming Massively Parallel Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "X."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "2007"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "title": [
+      "Improving program cache performance by program analysis and optimization"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "K."
+      },
+      {
+        "family": "Zhang",
+        "given": "Y."
+      },
+      {
+        "family": "Hu",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Acta Biophys. Sin"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "533–559"
+    ],
+    "title": [
+      "Development and frontier of electron microscopy 3D reconstruction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benzi",
+        "given": "R."
+      },
+      {
+        "family": "Succi",
+        "given": "S."
+      },
+      {
+        "family": "Vergassola",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "Phys. Rep"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "145–197"
+    ],
+    "title": [
+      "The lattice Boltzmann equation: theory and applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "222"
+    ]
+  },
+  {
+    "citation-number": [
+      "10"
+    ],
+    "title": [
+      "under the armor of knights corner intel mic architecture/GeorgeChrysos"
+    ],
+    "type": null,
+    "url": [
+      "http://www.slideshare.net/IntelXeon/under-the-armor-of-knights-cornerintel-mic-architecture-at-hotchips-2012"
+    ]
+  },
+  {
+    "note": [
+      "Now, the procedure for the driver installation: 1. Decompress KNC_beta_oem-2.1.3653-8-rhel-6.0.gz Instruction: tar KNC_beta_oem-2.1.3653-8-rhel-6.0.gz"
+    ],
+    "title": [
+      "Users can select the appropriate instructions. For example, you can use yum in Red Hat, and zipper in SuSE"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Open the folder KNC_beta_oem-2.1.3653-8-rhel-6.0 and check the files included in this folder"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "issue": [
+      "x86_64 0:0372-8.el6 intel-mic-gpl.x86_64 0:2.1.3653-8.el6",
+      "2",
+      "2"
+    ],
+    "pages": [
+      "– 86 64",
+      "– – – 86 64",
+      "– – – 86 64",
+      "2 1 3653–8 6"
+    ],
+    "title": [
+      "Install the *.rpm files in this folder: [root@mic4 KNC_beta_oem-2.1.3653-8-rhel–6.0]# sudo yum install --nogpgcheck --no plugins --disablerepo=* *.rpm When the following option appears, select “y” to begin installation: Is this ok [y/N]: y When the following results appear, it means the installation is complete: Installed"
+    ],
+    "type": null,
+    "volume": [
+      "0",
+      "0",
+      0
+    ]
+  }
+]
