@@ -1,0 +1,1934 @@
+[
+  {
+    "title": [
+      "DSS application an application whose foundation of data is the data warehouse. dual database the practice of separating high-performance, transactionoriented data from decision-support data. dual database management systems the practice of using multiple database management systems to control different aspects of the database environment"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Executive Information Systems (EIS) systems designed for the top executive, featuring drill-down analysis and trend analysis. explorer an individual who does not know what he or she wants at the outset of analysis. extract/load/transformation (ELT) the process of taking legacy application data and integrating it into the data warehouse. exploration warehouse a structure specifically designed for statistical processing that searches for business patterns. external data (1) data originating from other than the operational systems of a corporation; (2) data residing outside the central processing complex"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "fourth-generation language language or technology designed to allow the end user unfettered access to data"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Adelman",
+        "given": "Sid"
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "title": [
+      "The Data Warehouse Database Explosion",
+      "A very good discussion of why volumes of data are growing as fast as they are in the data warehouse environment and what can be done about it"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Geiger",
+        "given": "Jon"
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "title": [
+      "Data Element Definition",
+      "A good description of the definitions required in the system of record"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Geiger",
+        "given": "Jon"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "title": [
+      "What’s in a Name",
+      "A discussion of the implications of naming structures in the data warehouse environment"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilbreath",
+        "given": "Roy"
+      },
+      {
+        "given": "M.D."
+      }
+    ],
+    "publisher": [
+      "Under review"
+    ],
+    "title": [
+      "Informational Processing Architecture for Outcomes Management.” A description of data warehouse as it applies to health care and outcomes analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilbreath",
+        "given": "Roy"
+      },
+      {
+        "family": "M.D.",
+        "given": "Jill Schilp"
+      },
+      {
+        "family": "Pickton",
+        "given": "Robert"
+      }
+    ],
+    "container-title": [
+      "HealthCare Information Management"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Towards an Outcomes Management Informational Processing Architecture",
+      "A discussion of the architected environment as it relates to healthcare"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "Stephen"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "title": [
+      "The Financial Impact of Data Warehousing",
+      "A description of the cost benefit analysis report done by IDC"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "Stephen"
+      }
+    ],
+    "date": [
+      "1996-04"
+    ],
+    "genre": [
+      "IDC Special Report"
+    ],
+    "title": [
+      "The Foundations of Wisdom",
+      "International Data Corporation (Toronto, Canada). The definitive study on the return on investment for data warehouse, as well as the measurement of cost effectiveness"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Hackney",
+        "given": "Doug"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "title": [
+      "Vendors Are Our Friends",
+      "Doug Hackney talks about beneficial relationships with vendors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hufford",
+        "given": "Duane"
+      },
+      {
+        "given": "A.M.S."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-01"
+    ],
+    "title": [
+      "A Conceptual Model for Documenting Data Synchronization Requirements",
+      "Data synchronization and data warehouse"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hufford",
+        "given": "Duane"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-01"
+    ],
+    "title": [
+      "Data Warehouse Quality, Part 1",
+      "A description of data warehouse quality"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hufford",
+        "given": "Duane"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "Data Warehouse Quality, Part II",
+      "The second part of the discussion on data quality"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Imhoff",
+        "given": "Claudia"
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "title": [
+      "End Users: Use ‘Em or Lose ‘Em",
+      "An excellent discussion of the ways to manage the end-user data warehouse effort"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Imhoff",
+        "given": "Claudia"
+      },
+      {
+        "family": "Geiger",
+        "given": "Jon"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-04"
+    ],
+    "title": [
+      "Data Quality in the Data Warehouse",
+      "A description of the parameters used to gauge the quality of warehouse data"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "Choosing the Correct Approach to Data Warehousing: ‘Big Bang’ vs. Iterative",
+      "A discussion of the proper strategic approach to data warehousing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "ComputerWorld"
+    ],
+    "date": [
+      "1996-07-29"
+    ],
+    "title": [
+      "Commentary: The Migration Path",
+      "A brief description of some of the issues of migrating to the data warehouse"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "title": [
+      "Cost Justification in the Data Warehouse",
+      "A discussion of how to justify DSS and a data warehouse on the cost of reporting"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Application Development Trends"
+    ],
+    "date": [
+      "1994-01"
+    ],
+    "title": [
+      "Data Warehouse Lays Foundation for Bringing Data Investment Forward",
+      "A description of data warehouse and the relation to legacy systems"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "title": [
+      "Data Warehouse Security: Encrypting Data",
+      "A description of some of the challenges of data warehouse security and industrial-strength security"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-09"
+    ],
+    "title": [
+      "The Future in History",
+      "A discussion of the value of historical information"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-10"
+    ],
+    "title": [
+      "Knowing Your DSS End-User: Tourists, Explorers, Farmers",
+      "A description of the different categories of end users"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "title": [
+      "Managing the Data Warehouse: The Data Content Card Catalog",
+      "An introduction to the notion of a data content card catalog, that is, the stratification of data content"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-02"
+    ],
+    "title": [
+      "Managing the Data Warehouse Environment",
+      "Defining who the data warehouse administrator is"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Enterprise Systems Journal"
+    ],
+    "date": [
+      "1996-08"
+    ],
+    "title": [
+      "Measuring Capacity in the Data Warehouse",
+      "A discussion of how capacity should be measured in the data warehouse and DSS environment"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-01"
+    ],
+    "title": [
+      "Monitoring the Data Warehouse Environment",
+      "What a data monitor for the data warehouse environment is and why you would need it"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Sybase Server"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Rethinking Data Relationships for Warehouse Design",
+      "A discussion of the issues data warehouse data relationships"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "July/Aug 1996"
+    ],
+    "title": [
+      "SAP and the Data Warehouse",
+      "A description of why the data warehouse is still needed in the face of SAP"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Enterprise Systems Journal"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "Security in the Data Warehouse: Data Privatization",
+      "A data warehouse requires a very different approach to security than the traditional VIEW-based approach offered by DBMS vendors"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "note": [
+      "lightly summarized data, and highly summarized data."
+    ],
+    "title": [
+      "Summary Data: The New Frontier",
+      "A description of the different types of summary data, including dynamic summary data, static summary data"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "title": [
+      "User Reaction to the Data Warehouse",
+      "A description of the different user types in data warehousing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-04"
+    ],
+    "title": [
+      "Virtual Data Warehouse: The Snake Oil of the ‘90s",
+      "A discussion of the virtual data warehouse and how the concept tries to attach itself to the legitimacy of the data warehouse"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "container-title": [
+      "MIS"
+    ],
+    "date": [
+      "1996-02"
+    ],
+    "note": [
+      "An interview with Bill Inmon in November of 1995 in Australia."
+    ],
+    "title": [
+      "In the Words of Father Inmon"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Jordan",
+        "given": "Arthur"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "Data Warehouse Integrity: How Long and Bumpy the Road?",
+      "A discussion of the issues of data quality inside the data warehouse"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "David"
+      }
+    ],
+    "container-title": [
+      "DBMS Magazine"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "title": [
+      "The Doctor of DSS",
+      "An interview with Ralph Kimball"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lambert",
+        "given": "Bob"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1995-12"
+    ],
+    "title": [
+      "Break Old Habits to Define Data Warehousing Requirements",
+      "A description of how the end user should be approached to determine DSS requirements"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lambert",
+        "given": "Bob"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "Data Warehousing Fundamentals: What You Need to Know to Succeed",
+      "Several significant strategies for data warehousing to guide you through a successful implementation"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Laney",
+        "given": "Doug"
+      }
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "title": [
+      "Are OLAP and OLTP Like Twins?” DMR",
+      "A comparison of the two environments"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Myer",
+        "given": "Andrea"
+      }
+    ],
+    "container-title": [
+      "Inside Decisions"
+    ],
+    "date": [
+      "1996-03"
+    ],
+    "title": [
+      "An Interview with Bill Inmon",
+      "An interview discussing the start of data warehousing, the use of data warehousing for competitive advantages, the origins of Prism Solutions, and building the first data warehouse"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "Ken"
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-12"
+    ],
+    "title": [
+      "Parallelism in the Database Layer",
+      "An excellent discussion of the differences between DSS parallelism and OLTP parallelism"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "Ken"
+      }
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "title": [
+      "Who Needs Scalable Systems?” DMR",
+      "A good discussion of the issues of scalability in the data warehouse environment"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Swift",
+        "given": "Ron"
+      }
+    ],
+    "container-title": [
+      "DMR"
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "title": [
+      "Creating Value through a Scalable Data Warehouse Framework",
+      "A very nice discussion of the data warehousing issues scale"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanler",
+        "given": "Richard"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-02"
+    ],
+    "title": [
+      "Data Warehouses and Data Marts: Choose Your Weapon",
+      "A description of the differences between data marts and the current level detail of the data warehouse"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanler",
+        "given": "Richard"
+      }
+    ],
+    "container-title": [
+      "Data Management Review"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "title": [
+      "Taking Your Data Warehouse to a New Dimension on the Intranet",
+      "A discussion of the different components of the data warehouse as they relate to the intranet"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Winsberg",
+        "given": "Paul"
+      }
+    ],
+    "container-title": [
+      "INFODB"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "title": [
+      "Modeling the Data Warehouse and the Data Mart",
+      "A description of architecture and modeling as it relates to different types of data warehouses"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "George"
+      }
+    ],
+    "container-title": [
+      "DMR",
+      "Books Adamson, Christopher, and Michael Venerable. Data Warehouse Design Solutions"
+    ],
+    "date": [
+      "1996-10",
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Developing a Data Warehouse",
+      "A very good discussion of snapshots and the basic structures of a data warehouse"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Adelman",
+        "given": "Sid"
+      },
+      {
+        "family": "Moss",
+        "given": "Larissa"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Data Warehouse Project Management"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berry",
+        "given": "Michael"
+      },
+      {
+        "family": "Linoff",
+        "given": "Gordon"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Data Mining Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brackett",
+        "given": "Mike"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The Data Warehouse Challenge"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Devlin",
+        "given": "Barry"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Data Warehouse: From Architecture to Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dodge",
+        "given": "Gary"
+      },
+      {
+        "family": "Gorman",
+        "given": "Tim"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Oracle8i Data Warehousing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dyche",
+        "given": "Jill"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The CRM Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dyche",
+        "given": "Jill"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "E-data: Turning Data into Information with Data Warehousing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "English",
+        "given": "Larry"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Improving Data Warehouse and Business Information Quality"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hackathorn",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan Kaufman"
+    ],
+    "title": [
+      "Web Farming for the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Imhoff",
+        "given": "Claudia"
+      },
+      {
+        "family": "Loftis",
+        "given": "Lisa"
+      },
+      {
+        "family": "Geiger",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Building the Customer-Centric Enterprise"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Building the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Building the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Building the Operational Data Store"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "QED"
+    ],
+    "title": [
+      "Data Architecture: The Information Paradigm"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Third Wave Processing: Database Machines and Decision Support Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Hackathorn",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Using the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Geiger",
+        "given": "Jon"
+      },
+      {
+        "family": "Zachman",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw Hill"
+    ],
+    "title": [
+      "Data Stores, Data Warehousing and the Zachman Framework"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Glassey",
+        "given": "Katherine"
+      },
+      {
+        "family": "Welch",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Managing the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Imhoff",
+        "given": "Claudia"
+      },
+      {
+        "family": "Sousa",
+        "given": "Ryan"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Corporate Information Factory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Kaplan",
+        "given": "Jeff"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Information Systems Architecture: Development in the 90s"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Kelley",
+        "given": "Chuck"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "QED Pub Group"
+    ],
+    "title": [
+      "RDB/VMS: Developing the Data Warehouse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Montanari",
+        "given": "Joyce"
+      },
+      {
+        "family": "Terdeman",
+        "given": "Bob"
+      },
+      {
+        "family": "Meers",
+        "given": "Dan"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Data Warehousing for E-Business"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Osterfelt",
+        "given": "Sue"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "QED"
+    ],
+    "title": [
+      "Understanding Data Pattern Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Rudin",
+        "given": "Ken"
+      },
+      {
+        "family": "Buss",
+        "given": "Christopher"
+      },
+      {
+        "family": "Sousa",
+        "given": "Ryan"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Data Warehouse Performance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Inmon",
+        "given": "W.H."
+      },
+      {
+        "family": "Terdeman",
+        "given": "R.H."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Exploration Warehousing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kachur",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Data Warehouse Management Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kelly",
+        "given": "Sean"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Data Warehousing: The Key to Mass Customization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimball",
+        "given": "Ralph"
+      },
+      {
+        "family": "Merz",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The Data Webhouse Toolkit"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimball",
+        "given": "Ralph"
+      },
+      {
+        "family": "Reeves",
+        "given": "Laura"
+      },
+      {
+        "family": "Ross",
+        "given": "Margy"
+      },
+      {
+        "family": "Thornthwaite",
+        "given": "Warren"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The Data Warehouse Lifecycle Toolkit"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimball",
+        "given": "Ralph"
+      },
+      {
+        "family": "Ross",
+        "given": "Margy"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The Data Warehouse Toolkit: Practical Techniques for Building Dimensional Data Warehouses"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Love",
+        "given": "Bruce"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Enterprise Information Technologies"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marco",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Meta Data Repository"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parsaye",
+        "given": "Kamran"
+      },
+      {
+        "family": "Chignell",
+        "given": "Marc"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Intelligent Database Tools and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Silverston",
+        "given": "Len"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "The Data Model Resource Book Volume I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sullivan",
+        "given": "Dan"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Document Warehousing and Text Mining"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Swift",
+        "given": "Ron"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Accelerating Customer Relationships"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tannenbaum",
+        "given": "Adrienne"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Metadata Solutions"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "atomic environment, 16–18 architected environment, migrating CASE tools, 22 to. See also legacy data."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "differences from the operational departmental environment"
+    ],
+    "pages": [
+      "282 16–18, 25–28",
+      "16–18 , 282"
+    ],
+    "title": [
+      "CLDS cycle, 21 agents of change, 281–282 data example, 17–18 cleansing operational data, data integration, 18–19 280–282 data warehouse environment, delta lists"
+    ],
+    "type": "chapter"
+  },
+  {
+    "genre": [
+      "ERP (enterprise resource planning), cost justification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Web",
+        "particle": "warehouse to"
+      }
+    ],
+    "container-title": [
+      "84–88 data types, and DSS analysts, data mart level. See departmental"
+    ],
+    "pages": [
+      "460–461"
+    ],
+    "title": [
+      "291–293, 301 data passage problem, developing Web to warehouse, 291, 300–310 distributed warehouses, 234 data item set (DIS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "redundancy, 228–231 OLAP foundation, 177–178 related warehouses, 217–223 problems, 179–181 requirements, by level, 228–231 required facilities, 173 typical cases, 213–215 history of DSS (decision support unrelated warehouses, 215–217 systems), 4 global decision support systems (DSS). See accessing, 207–211 DSS (decision support systems). assessing need for, 194–197 default values, designing, 109 definition, 193–194 delta lists, 282 description, 198–201 denormalization, 94–102 mapping to local, 201–205 departmental environment, 16–18 moving data into, 208–210 dependent data marts, 371. See also operational data, 210–211 data marts. redundancy, 206–207 derived (calculated) data independently evolving, 213 excluding, 272 local illustration, 98 accessing, 207–211 I/O reduction, 96 assessing need for, 194–197 versus primitive data, 14–15 Index 527"
+    ],
+    "pages": [
+      "232–234 175–181"
+    ],
+    "title": [
+      "data warehouses, cost justification definition, 193–194 (continued) description, 197–198 description, 418–419 mapping to global, 201–205 value of historical data, 425–426 moving data to global, 208–210 ROI (return on investment), 461 technological distribution, 211–213 speed of data, 423–424 types of, 193–194 time value of data, 422–424 databases, designing. See tradeoffs, 421–422 designing databases; designing data warehouses, distributed warehouses. developing data-driven methodology, 286 across distributed locations, day 1 to day n phenomenon, 39–41 218–219 DBMS (database management coordinating development system) groups, 226–231 for data warehouses corporate data models, 219–223 changing for existing data data passage problem, 234 warehouses, 174–175 leaving detailed data, 234 cubes, 177–178 metadata, 223, 234–235 data-warehouse specific, 172–174 on multiple levels, 223–226 freespace, 174 multiple platforms, common indexing, 174 detail data, 235–236 load-and-access processing, 172 multiple platforms, same data multidimensional processing, type"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "warehouses on multiple levels, 223–226 format inconsistencies, 74 multiple platforms, common detail integration, 72–74 data, 235–236 limiting, 75–77 multiple platforms, same data loading, 74–76 type, 232–234 Index 529 redundancy, 228–231 global related warehouses, 217–223 accessing, 207–211 requirements, by level, 228–231 assessing need for, 194–197 typical cases, 213–215 definition, 193–194 unrelated warehouses, 215–217 description, 198–201 dimensions, database, 360–361 mapping to local, 201–205 direct access storage device moving data into, 208–210"
+    ],
+    "pages": [
+      "234–235"
+    ],
+    "title": [
+      "example, 119–121 developing distributed warehouses credit scoring example, 123–125 across distributed locations, description, 117–118 218–219 direct access, 118–119 coordinating development groups, examples, 119–126 226–231 indirect access, 119–126 corporate data models, 219–223 retail personalization example, data passage problem, 234 121–123 leaving detailed data, 234 operational data, to data metadata"
+    ],
+    "type": null,
+    "volume": [
+      "223"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.A.S.D."
+      }
+    ],
+    "container-title": [
+      "redundancy"
+    ],
+    "pages": [
+      "206–207"
+    ],
+    "title": [
+      "4, 37. See also disk operational data, 210–211 storage; storage"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "DIS (data item set"
+    ],
+    "note": [
+      "as unstructured data,",
+      "data passage problem, 234 description, 243–245 leaving detailed data, 234 performance indicators, 244 metadata, 223, 234–235 DSS (decision support systems). See on multiple levels, 223–226 also data warehouses. multiple platforms, common architected environment detail data, 235–236 architectural environment, 16–18 multiple platforms, same data atomic environment, 16–18 type, 232–234 CASE tools, 22 redundancy, 228–231 CLDS cycle, 21 related warehouses, 217–223 data example, 17–18 requirements, by level, 228–231 data integration, 18–19 typical cases, 213–215 data warehouse environment, unrelated warehouses,"
+    ],
+    "pages": [
+      "84–88",
+      "322–323 218–219",
+      "321–322,",
+      "245–247",
+      "215–217 16–18, 25–28"
+    ],
+    "title": [
+      "independently evolving, 213 discovery mode of inquiry, 276 local disk storage. See also DASD; accessing, 207–211 storage. assessing need for, 194–197 access speed, 342–343 definition, 193–194 archival, 343–345 description, 197–198 description, 340 mapping to global, 201–205 media transparency, 345 moving data to global, 208–210 near-line storage, 341 technological distribution, 211–213 performance, 342–343 types of, 193–194 distributed warehouses. See also documents. See also unstructured data warehouses. data. developing in two-tiered data warehouses, across distributed locations",
+      "coordinating development 322–323, 328–329 groups, 226–231 drill-down analysis corporate data models, 219–223 creating data for"
+    ],
+    "type": "chapter",
+    "volume": [
+      "321–322",
+      "307"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "given": "E.T.L."
+      }
+    ],
+    "note": [
+      "ROI (return on investment), 461 operational environment, tourists, 459 16–18, 22 types of, 457–460 patterns of hardware user community, 459–460 utilization, 22 user view sessions, 83–84 primitive versus derived data, dual level granularity, 46–50 14–15 removing bulk data, 23–24 E reporting, 64–65 EAI (enterprise application SDLC (system development life integration), 403 cycle), 20–22 eBusiness environment spiral development, 21 clickstream data, 394–396 transforming legacy systems, data granularity, 394–396"
+    ],
+    "pages": [
+      "23–24"
+    ],
+    "title": [
+      "requirements for warehouses 18–19 data models, 378 individual environment, 16–18 relational foundation, 378–379 levels of data, 16–18 statistical processing, 379–380 migration from production Zachman framework, 134–135 environment"
+    ],
+    "type": "report"
+  },
+  {
+    "container-title": [
+      "data",
+      "communications"
+    ],
+    "note": [
+      "trends, contextual data, 185–188 unstructured communications, two-tiered warehouse 321–322 definition, 320 visualizing unstructured data, description,",
+      "probabilistic matching, 311–312 U problems, 309 unstructured data. See also removing stop words, 310–311 structured data. text basis for, 308–311 categories of, 307 themed matches CIF (corporate information industrially recognized themes, factory), 408 313–316 close identifiers, 328 linkage through abstraction,",
+      "data volume, 326–327 linkage through metadata, description, 306 318–319 documents, 307, 321–322, 322–323, linkage through themes, 317–318 328–329 naturally occurring themes, history of IT, 403 316–317 identifiers, 328 raw match of data, 317 SOM (self-organizing map), unstructured visualization, 404 324–327 updating, ODS, 430–431 sources of, 305 user requirements. See requirements two-tiered warehouse for warehouses. definition, 320 users, warehouses. See DSS analysts. description, 320 users, Web documents, 321–322, 322–323 mindset, 290 keys, 321–322 movements, tracking, 290–291 libraries, 321–322 profiles, 295–297 structured tier versus tracking movements, 290–291 unstructured, 321–322 Index 543"
+    ],
+    "pages": [
+      "320 323–324",
+      "87 310–311",
+      "328–329 318–319"
+    ],
+    "title": [
+      "See also business documents, 321–322, 322–323 intelligence. keys, 321–322 visualizing, 323–324. See also libraries, 321–322 business intelligence. structured tier versus unstructured, warehouse structure, 325–326 321–322 unstructured data, integrating with unstructured communications, structured. See also two-tiered 321–322 warehouse. visualizing unstructured data, fundamental mismatches, 310 323–324. See also business matching all information, 312–313 intelligence. matching text across environments, “Type of"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "85",
+      "307"
+    ]
+  }
+]
