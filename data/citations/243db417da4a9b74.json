@@ -1,0 +1,375 @@
+[
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "Advanced F.P.G.A."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "By Steve Kilts Copyright #"
+    ],
+    "type": "book"
+  },
+  {
+    "source": [
+      "SboxEnc SboxEnc0(.iPreMap(RotWord[31:24]), .oPostMap(SubWord[31:24])); SboxEnc SboxEnc1(.iPreMap(RotWord[23:16]), .oPostMap(SubWord[23:16])); SboxEnc SboxEnc2(.iPreMap(RotWord[15:8]), .oPostMap(SubWord[15:8])); SboxEnc SboxEnc3(.iPreMap(RotWord[7:0]), .oPostMap(SubWord[7:0])); ‘ifdef",
+      "SboxEnc SboxEncNk8_0(.iPreMap(PrevKey[31:24]), .oPostMap(SubWordNk8[31:24])); SboxEnc SboxEncNk8_1(.iPreMap(PrevKey[23:16]), .oPostMap(SubWordNk8[23:16])); SboxEnc SboxEncNk8_2(.iPreMap(PrevKey[15:8]), .oPostMap(SubWordNk8[15:8])); SboxEnc SboxEncNk8_3(.iPreMap(PrevKey[7:0]), .oPostMap(SubWordNk8[7:0]));"
+    ],
+    "title": [
+      "Nk8 wire [31:0] SubWordNk8; // Substitution only when Nk = 8"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "Advanced F.P.G.A."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "By Steve Kilts Copyright #"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "^ S3x2;"
+    ],
+    "source": [
+      "PolyMultx2Enc PolyMultS1x2(.iPolyIn(iColumnIn[23:16]), .oPolyOut(S1x2)); PolyMultx2Enc PolyMultS2x2(.iPolyIn(iColumnIn[15:8]), .oPolyOut(S2x2)); PolyMultx2Enc PolyMultS3x2(.iPolyIn(iColumnIn[7:0]), .oPolyOut(S3x2)); PolyMultx3Enc PolyMultS0x3(.iPolyIn(iColumnIn[31:24]), .oPolyOut(S0x3)); PolyMultx3Enc PolyMultS1x3(.iPolyIn(iColumnIn[23:16]), .oPolyOut(S1x3)); PolyMultx3Enc PolyMultS2x3(.iPolyIn(iColumnIn[15:8]), .oPolyOut(S2x3)); PolyMultx3Enc PolyMultS3x3(.iPolyIn(iColumnIn[7:0]), .oPolyOut(S3x3));"
+    ],
+    "title": [
+      "// Sum terms over GF(2) assign S0PostMap = S0x2 ^ S1x3 ^ iColumnIn[15:8] ^ iColumnIn[7:0]; assign S1PostMap = iColumnIn[31:24] ^ S1x2 ^ S2x3 ^ iColumnIn[7:0]; assign S2PostMap = iColumnIn[31:24] ^ iColumnIn[23:16] ^ S2x2 ^ S3x3; assign S3PostMap = S0x3 ^ iColumnIn[23:16] ^ iColumnIn[15:8"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "MapColumnEnc MapColumnEnc0(.iClk(iClk),.iReset(iReset",
+      "MapColumnEnc MapColumnEnc1(.iClk(iClk), .iReset(iReset"
+    ],
+    "issue": [
+      "ut ({wPostMap[127:120], wPostMap[119:112], wPostMap[111:104], wPostMap[103:96]}))"
+    ],
+    "source": [
+      ".iColumnIn({iBlockIn[95:88], iBlockIn[87:80], iBlockIn[79:72], iBlockIn[71:64]}), .oColumnOut({wPostMap[95:88], wPostMap[87:80], wPostMap[79:72], wPostMap[71:64]})); MapColumnEnc MapColumnEnc2(.iClk(iClk), .iReset(iReset), .iColumnIn({iBlockIn[63:56], iBlockIn[55:48], iBlockIn[47:40], iBlockIn[39:32]}), .oColumnOut({wPostMap[63:56], wPostMap[55:48], wPostMap[47:40], wPostMap[39:32]})); MapColumnEnc MapColumnEnc3(.iClk(iClk), .iReset(iReset), .iColumnIn({iBlockIn[31:24], iBlockIn[23:16], iBlockIn[15:8], iBlockIn[7:0]}), .oColumnOut({wPostMap[31:24],"
+    ],
+    "type": null,
+    "url": [
+      "wPostMap[23:16], wPostMap[15:8], wPostMap[7:0]}));"
+    ],
+    "volume": []
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "assign PolyPreShift = {1’b0, iPolyIn}; assign PolyPostShift = (PolyPreShift << 1) ^ PolyPreShift; assign PolyReduced = PolyPostShift[8] ? (PolyPostShift ^ (9’b100011011)): PolyPostShift; assign oPolyOut = PolyReduced[7:0]; endmodule // PolyMultx3Enc module ShiftRowsEnc( output [32 *‘Nb - 1:0] oBlockOut, output oValid, input [32 *‘Nb - 1:0] iBlockIn, // Data input to be transformed input iReady); assign oValid = iReady; assign",
+      "assign oBlockOut[31:24] = iBlockIn[31:24]; assign oBlockOut[39:32] = iBlockIn[71:64]; assign oBlockOut[47:40] = iBlockIn[111:104]; assign oBlockOut[55:48] = iBlockIn[23:16]; assign oBlockOut[63:56] = iBlockIn[63:56]; assign oBlockOut[71:64] = iBlockIn[103:96]; assign oBlockOut[79:72] = iBlockIn[15:8]; assign oBlockOut[87:80] = iBlockIn[55:48]; assign oBlockOut[95:88] = iBlockIn[95:88]; assign oBlockOut[103:96] = iBlockIn[7:0]; assign oBlockOut[111:104] = iBlockIn[47:40]; assign oBlockOut[119:112] = iBlockIn[87:80]; assign oBlockOut[127:120] = iBlockIn[127:120]; endmodule // ShiftRowsEnc"
+    ],
+    "type": null,
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "issue": [
+      "0",
+      "8",
+      "120"
+    ],
+    "source": [
+      ".iPreMap(iBlockIn[7:0])); SboxEnc SboxEnc2(",
+      "SboxEnc SboxEnc9( .oPostMap(wPostMap[71:64]), .iPreMap( iBlockIn[71:64])); SboxEnc SboxEnc10(.oPostMap(wPostMap[79:72]), .iPreMap( iBlockIn[79:72])); SboxEnc SboxEnc11(.oPostMap(wPostMap[87:80]), .iPreMap( iBlockIn[87:80])); SboxEnc SboxEnc12(.oPostMap(wPostMap[95:88]), .iPreMap( iBlockIn[95:88])); SboxEnc SboxEnc13(.oPostMap(wPostMap[103:96]), .iPreMap( iBlockIn[103:96])); SboxEnc SboxEnc14(.oPostMap(wPostMap[111:104]), .iPreMap( iBlockIn[111:104])); SboxEnc SboxEnc15(.oPostMap(wPostMap[119:112]), .iPreMap( iBlockIn[119:112])); SboxEnc SboxEnc16(.oPostMap(wPostMap[127:120]), .iPreMap("
+    ],
+    "title": [
+      "// This block performs the SboxEnc transformation on the iBlockIn data // and places it on oBlockOut module SubBytesEnc( output reg [32 *‘Nb - 1:0] oBlockOut, output reg oValid, input iClk, iReset, iReady, input [32 *‘Nb - 1:0] iBlockIn); // Data input to be transformed wire [32 *‘Nb - 1:0] wPostMap; SboxEnc SboxEnc1("
+    ],
+    "type": null,
+    "volume": [
+      "7",
+      "15",
+      "127"
+    ]
+  },
+  {
+    "date": [
+      "2007"
+    ],
+    "genre": [
+      "output registerFile_Port3_WriteStrobe, output [31:0] registerFile_Port4_DataIn, output [4:0] registerFile_Port4_AddressIn, output registerFile_Port4_WriteStrobe, input clock, input srcProcessorReset, input canRun, input [31:0] memory_Port1_DataOut, input [31:0] memory_Port2_DataOut, input [31:0] registerFile_Port1_DataOut, input [31:0] registerFile_Port2_DataOut, input [31:0] registerFile_Port3_DataOut, input [31:0] registerFile_Port4_DataOut,"
+    ],
+    "issue": [
+      "terFile_Port1_DataIn, output [4:0] registerFile_Port1_AddressIn, output registerFile_Port1_WriteStrobe, output [31:0] registerFile_Port2_DataIn, output [4:0] registerFile_Port2_AddressIn, output registerFile_Port2_WriteStrobe, output [31:0] registerFile_Port3_DataIn, output [4:0] registerFile_Port3_AddressIn"
+    ],
+    "publisher": [
+      "Advanced FPGA Design. By Steve Kilts Copyright #",
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "The module defined in this appendix belongs to the SRC processor example of Chapter 17. module SrcProcessor( output hasExecutedStop, output"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "issue": [
+      "RegisterWrite; wire [4:0] intoStage3_Ra; wire [31:0"
+    ],
+    "note": [
+      "wire fromStage2_BranchIsTaken; wire [31:0] fromStage1_PC; wire [31:0] fromStage1_IR; wire [31:0] fromStage1_NextPC; wire stage1IsStalled; // Stage2 declarations wire [31:0] intoStage2_PC; wire [31:0] intoStage2_IR; wire [31:0] intoStage2_NextPC; wire [31:0] fromStage2_PC; wire [31:0] fromStage2_IR; wire [31:0] fromStage2_DecodedIR; wire [31:0] fromStage2_X; wire [31:0] fromStage2_Y; wire [31:0] fromStage2_MD; wire fromStage2_IsRegisterWrite; wire [4:0] fromStage2_Ra; wire [31:0] fromStage2_NextPC; wire fromStage2_IsStop; wire [4:0] ra; wire [31:0] contentsRaFromRegisterFile; wire [4:0] rb; wire [31:0] contentsRbFromRegisterFile; wire [4:0] rc; wire [31:0] contentsRcFromRegisterFile; wire isRegisterWriteInStage3; wire [4:0] raInStage3; wire [31:0",
+      "fromStage3_PC; wire [31:0] fromStage3_IR; wire [31:0] fromStage3_DecodedIR; wire [31:0] fromStage3_Z; wire [31:0] fromStage3_MD; wire fromStage3_IsRegisterWrite; wire [4:0] fromStage3_Ra; // Stage4 declarations wire [31:0] intoStage4_PC; wire [31:0] intoStage4_IR; wire [31:0] intoStage4_DecodedIR; wire [31:0] intoStage4_Z; wire [31:0] intoStage4_MD; wire intoStage4_IsRegisterWrite; wire [4:0] intoStage4_Ra; wire [31:0] fromStage4_PC; wire [31:0] fromStage4_IR; wire [31:0] fromStage4_DecodedIR; wire [31:0] fromStage4_Z; wire fromStage4_IsRegisterWrite; wire [4:0] fromStage4_Ra; wire [31:0] toDataMemory_Address; wire [31:0] toDataMemory_Data; wire toDataMemory_WriteStrobe; wire [31:0] fromDataMemory_Data; // Stage5 declarations wire [31:0] intoStage5_PC; wire [31:0] intoStage5_IR; wire [31:0] intoStage5_DecodedIR; wire [31:0] intoStage5_Z; wire intoStage5_IsRegisterWrite; wire [4:0] intoStage5_Ra; wire fromStage5_IsStop; wire [4:0] toRegisterFile_Address; wire [31:0] toRegisterFile_Data; wire toRegisterFile_WriteStrobe; // unused but included here for completeness wire [31:0] fromRegisterFile_Data;"
+    ],
+    "title": [
+      "contentsRaFromStage3; wire contentsRaFromStage3Ready; wire isRegisterWriteInStage4; wire [4:0] raInStage4; wire [31:0] contentsRaFromStage4; wire contentsRaFromStage4Ready; wire isRegisterWriteInStage5; wire [4:0] raInStage5; wire [31:0] contentsRaFromStage5; wire contentsRaFromStage5Ready; wire enableForwarding; Appendix B 305 // Stage3 declarations wire"
+    ],
+    "type": null,
+    "volume": [
+      "e3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WILLIAM J. DALLY",
+        "given": "M.A.R.K.A.L.E.X.A.N.D.E.R.Power",
+        "particle": "distribution"
+      },
+      {
+        "family": "W",
+        "given": "J.O.H.N."
+      }
+    ],
+    "container-title": [
+      "Digital Systems Engineering. decoupling capacitors. Xilinx XAPP623"
+    ],
+    "date": [
+      "2005-02",
+      "1998"
+    ],
+    "location": [
+      "Cambridge, San Jose, CA"
+    ],
+    "publisher": [
+      "Cambridge University Press",
+      "UK"
+    ],
+    "title": [
+      "system (PDS) design: using bypass/ POULTON"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "ALFKE",
+        "given": "P.E.T.E.R."
+      },
+      {
+        "family": "HEURING",
+        "given": "C.L.I.F.F.O.R.D.E.C.U.M.M.I.N.G.S.V.I.N.C.E.N.T.P."
+      },
+      {
+        "family": "Simulation",
+        "given": "H.A.R.R.Y."
+      },
+      {
+        "family": "F. JORDAN",
+        "particle": "synthesis techniques for"
+      }
+    ],
+    "container-title": [
+      "SNUG 2002 Longmann"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "title": [
+      "Computer Systems Design asynchronous FIFO design with asynchro- and Architecture. Addison Wesley nous pointer comparisons"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Group)",
+        "given": "Synopsys Users"
+      },
+      {
+        "family": "San Jose",
+        "given": "C.A.P.H.I.L.I.P.P.E.G.A.R.R.A.U.L.T."
+      },
+      {
+        "family": "April",
+        "given": "B.R.I.A.N."
+      }
+    ],
+    "container-title": [
+      "Xilinx (think local, not global). Xilinx Tech- White Paper WP231"
+    ],
+    "date": [
+      "2002",
+      "2006-01"
+    ],
+    "location": [
+      "San Jose, CA XClusives, San Jose, CA"
+    ],
+    "title": [
+      "PHILOFSKY . HDL coding practices to KEN CHAPMAN . Get smart about reset accelerate design performance"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "JOHNSON",
+        "given": "H.O.W.A.R.D.W."
+      },
+      {
+        "family": "GRAHAM",
+        "given": "M.A.R.T.I.N.K.E.N.C.O.F.F.M.A.N.Real World F.P.G.A.Design"
+      }
+    ],
+    "citation-number": [
+      "2001."
+    ],
+    "date": [
+      "2000",
+      "1992"
+    ],
+    "location": [
+      "River, NJ",
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall, Upper Saddle Handbook of Black Magic. Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: A with Verilog"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CUMMINGS",
+        "given": "C.L.I.F.F.O.R.D.E."
+      },
+      {
+        "family": "Board",
+        "given": "Boston M.A.Standards"
+      },
+      {
+        "family": "New York",
+        "given": "N.Y.March C.L.I.F.F.O.R.D.E.C.U.M.M.I.N.G.S."
+      }
+    ],
+    "container-title": [
+      "SNUG 2001 nology (NIST). Advanced Encryption San Jose, CA (Synopsys Users Group), Standard (AES). Federal Information March 2001. Processing Standards Publication 197, CLIFFORD E. CUMMINGS . New Verilog",
+      "HDLCON 2002, nology (NIST). Secure Hash Standard San Jose, CA May 2002. (SHA). Federal Information Processing CLIFFORD E. CUMMINGS , STEVE GOLSON , Standards Publication 180-2, Gaithersburg, AND DON MILLS . Asynchronous & MD 20899 2001 synchronous reset design techniques — SAMIR PALNITKAR . Verilog HDL, A Guide part deux. SNUG 2003 (Synopsys Users to Digital Design and Synthesis"
+    ],
+    "date": [
+      "2003-09",
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD",
+      "Boston, MA",
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "IEEE",
+      "Prentice Group",
+      "Hall"
+    ],
+    "title": [
+      "Full case parallel The Institute of Electrical and Electronics case, the evil twins of verilog synthesis. Engineers (IEEE). IEEE Standard for SNUG 1999 (Synopsys Users Group) Binary Floating-Point Arithmetic",
+      "Synthesis and 1985. scripting techniques for designing multi- National Institute of Standards and Techasynchronous clock designs",
+      "20899 November 2001 techniques for creating parameter- 2001. ized models (or down with ` define and National Institute of Standards and Techdeath of a defparam!"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "Advanced F.P.G.A."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "By Steve Kilts Copyright #"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PORAT",
+        "given": "B.O.A.Z."
+      },
+      {
+        "given": "Sons"
+      }
+    ],
+    "date": [
+      "1997",
+      "2005-09"
+    ],
+    "location": [
+      "York",
+      "Sunnyvale, CA"
+    ],
+    "publisher": [
+      "John Wiley",
+      "Synplicity White papers"
+    ],
+    "title": [
+      "A Course in Digital Signal Synplicity Inc. Fast timing closure on Processing",
+      "FPGA designs using graph-based phys-New",
+      "ical synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "Advanced F.P.G.A."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "By Steve Kilts Copyright #"
+    ],
+    "type": "book"
+  }
+]
