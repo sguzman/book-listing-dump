@@ -1,0 +1,50 @@
+[
+  {
+    "author": [
+      {
+        "family": "SubgroupBallotKHR",
+        "given": "SubgroupEqMaskKHR"
+      },
+      {
+        "given": "GroupNonUniformBallot"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SubgroupBallotKHR",
+        "given": "SubgroupGeMaskKHR"
+      },
+      {
+        "given": "GroupNonUniformBallot"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SubgroupBallotKHR",
+        "given": "SubgroupGtMaskKHR"
+      },
+      {
+        "given": "GroupNonUniformBallot"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SubgroupBallotKHR",
+        "given": "SubgroupLeMaskKHR"
+      },
+      {
+        "given": "GroupNonUniformBallot"
+      }
+    ],
+    "type": null
+  }
+]

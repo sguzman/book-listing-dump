@@ -1,0 +1,143 @@
+[
+  {
+    "note": [
+      "D; begin wire[3:0] Q; process(Enable, Clk) wire[3:0] Code1; variable Flag : boolean := true; wire[3:0] Code2; variable Cnt : integer range 0 to 255; wire[3:0] Code3;"
+    ],
+    "title": [
+      "OneShot–VHDL CodeSelection–Verilog library ieee; module CodeSelection(ShiftIn, Clk, Bout); use ieee.std_logic_1164.all; input ShiftIn; input Clk; entity oneShot is output [4:1]Bout; port(Enable, Clk: in std_logic; Qout: buffer std_logic); wire[3:0] A; end entity oneShot; wire[3:0] B; wire[3:0] C; architecture oneShotBehavior of oneShot is wire[3:0"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Q); input [3:0] D; input [9:0] D; input Clk; output [3:0] Q; output [3:0]Q;"
+    ],
+    "title": [
+      "FourBitParSftReg–Verilog BCDEncoder–Verilog module FourBitParSftReg(D, Clk, Q); module BCDEncoder(D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "98-99,"
+    ],
+    "container-title": [
+      "Process control system",
+      "Register stack",
+      "Regulation",
+      "Relocatable code",
+      "Product term"
+    ],
+    "date": [
+      "Refresh",
+      "Procedure",
+      "190",
+      "250, 195-202",
+      "288-300",
+      "Product",
+      "193, 199"
+    ],
+    "issue": [
+      "ter, 19",
+      "ter array, 561 363-372, 374-376, 379-381, 385"
+    ],
+    "note": [
+      "560 Program, 24, 36, 39-40, 44, 76, 93, 114, 149-150, 163, Remainder, 17, 54-55, 74-75, 79-80,",
+      "Removable storage, 484"
+    ],
+    "pages": [
+      "117–119, 121–148, 155–156,",
+      "561 158–165, 167–175,",
+      "179–180, 181–193,",
+      "157–158, 160–161,",
+      "302–303,",
+      "28–29,",
+      "42–43,",
+      "242–246,",
+      "207–223, 225–226, 228–229,",
+      "384–400, 404–424, 236–240,",
+      "246–273, 276–278,",
+      "538",
+      "159–160 426–427,",
+      "489–490, 496–497, 499–500, 280–286,",
+      "521–524, 553–554,",
+      "560–562 319–320, 322–339, 341–349, 351–361,",
+      "71–73,",
+      "387–397,",
+      "406–415, 417–422,",
+      "182–184, 187–190,",
+      "562",
+      "451–457,",
+      "478–480, 492–496, 498–500,",
+      "188–190,",
+      "98–101,",
+      "504–508,",
+      "518–519, 521–522,",
+      "536–537,",
+      "550–551, 553–563",
+      "203–206, 210–211, 217–218,",
+      "351–355,"
+    ],
+    "title": [
+      "502"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "102, 114",
+      "498-500, 502-503, 525, 542",
+      "177",
+      "55-56, 59, 77, 79, 85, 88",
+      "214, 260",
+      "40",
+      "45, 129",
+      "204",
+      "296, 304, 308, 373",
+      "242, 244",
+      "409, 412, 421, 444, 477, 533",
+      "28",
+      "483",
+      "302-306, 310-311, 313",
+      "558",
+      "17, 56, 59",
+      "523 399-402, 404",
+      "427, 431",
+      "217, 341, 453, 455, 467, 528, 553, 555, 560",
+      "340 433-436, 438-442, 444, 446, 448",
+      "561 461-476",
+      "113, 115, 163, 182",
+      "84",
+      "104",
+      "510, 513, 516",
+      "110, 112, 561 534",
+      "540",
+      "165, 187, 200",
+      "224, 228, 271, 290, 301, 303, 348"
+    ]
+  },
+  {
+    "issue": [
+      "oot, 9, 34 246, 316"
+    ],
+    "note": [
+      "Output impedance, 559 Repeated division-by-2 method, 54, 57 Overflow, 69-70,"
+    ],
+    "pages": [
+      "560 357–358,",
+      "406–407,",
+      "484–485, 509–510,",
+      "553–557,",
+      "159–161,",
+      "321–325, 327–333,",
+      "344–345,"
+    ],
+    "type": null,
+    "volume": [
+      "102",
+      "372, 376",
+      "409, 463",
+      "538",
+      "559-562 Reset, 24, 29, 42, 44, 129",
+      "335"
+    ]
+  }
+]
