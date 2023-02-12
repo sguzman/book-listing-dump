@@ -1,0 +1,1492 @@
+[
+  {
+    "note": [
+      "X0 = 0.4 p.u. Line L3: X+ = X- = 0.15 p.u. X0 = 0.2 p.u. Load: X+ = X- = 0.9 p.u. X0 = 1.2 p.u."
+    ],
+    "title": [
+      "Generator G1: X+ = 0.2 p.u. X- = 0.12 p.u. X0 = 0.06 p.u. Generator G2: X+ = 0.33 p.u. X- = 0.22 p.u. X0 = 0.066 p.u. Transformer T1: X+ = X- = X0 = 0.2 p.u. Transformer T2: X+ =X- = X0 = 0.225 p.u. Transformer T3: X+ = X- = X0 = 0.27 p.u. Transformer T4: X+ = X- = X0 = 0.16 p.u. Line L1: X+ = X- = 0.14 p.u. X0 = 0.3 p.u. Line L2: X+ = X- = 0.20 p.u"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Line L1"
+    ],
+    "note": [
+      "X+ = X- = 0.14 p.u. X0 = 0.3 p.u. Line L2: X+ = X- = 0.35 p.u. X0 = 0.6 p.u."
+    ],
+    "title": [
+      "Obtain the sequence networks for the system shown in Figure 7.53 in the case of a fault at F. Assume the following data in pu on the same base are given: Generator G1: X+ = 0.2 p.u. X- = 0.12 p.u. X0 = 0.06 p.u. Generator G2: X+ = 0.33 p.u. X- = 0.22 p.u. X0 = 0.066 p.u. Transformer T1: X+ = X- = X0 = 0.2 p.u. Transformer T2: X+ =X- = X0 = 0.225 p.u. Transformer T3: X+ = X- = X0 = 0.27 p.u. Transformer T4: X+ = X- = X0 = 0.16 p.u"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "P.M."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Analysis of Faulted Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "P.M."
+      },
+      {
+        "family": "Fouad",
+        "given": "A.A."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Ames, Iowa"
+    ],
+    "publisher": [
+      "The Iowa State University Press"
+    ],
+    "title": [
+      "Power System Control and Stability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Arrillaga",
+        "given": "J."
+      },
+      {
+        "family": "Arnold",
+        "given": "C.P."
+      },
+      {
+        "family": "Harker",
+        "given": "B.J."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Computer Modeling of Electrical Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bergen",
+        "given": "A.R."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Power Systems Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bergseth",
+        "given": "F.R."
+      },
+      {
+        "family": "Venkata",
+        "given": "S.S."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Introduction to Electric Energy Devices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blackburn",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dekker"
+    ],
+    "title": [
+      "Protective Relaying"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blackburn",
+        "given": "J.L."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Newark, New Jersey"
+    ],
+    "publisher": [
+      "Westinghouse Electric Corporation"
+    ],
+    "title": [
+      "Applied Protective Relaying"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blackwell",
+        "given": "W.A."
+      },
+      {
+        "family": "Grigsby",
+        "given": "L.L."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "PWS"
+    ],
+    "title": [
+      "Introductory Network Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Circuit Analysis of AC Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Concordia",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1951"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Synchronous Machine – Theory and Performance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Crary",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1955"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Power System Stability"
+    ],
+    "type": "book",
+    "volume": [
+      "II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Elgered",
+        "given": "O.I."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Electric Energy Systems Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "El-Abiad",
+        "given": "A.H."
+      }
+    ],
+    "container-title": [
+      "AIEE Trans"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "323–332,"
+    ],
+    "title": [
+      "Digital Calculation of Line-to-Ground Short-Circuits by Matrix Method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "79"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "El-Hawary",
+        "given": "M.E."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Electrical Power Systems Design and Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "E.P.R.I."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Palo Alto, California"
+    ],
+    "publisher": [
+      "Electric Power Research Institute"
+    ],
+    "title": [
+      "Transmission Line Reference Book, 345 kV and Above"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Feinberg",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Modern Power Transformer Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fink",
+        "given": "D.G."
+      },
+      {
+        "family": "Beaty",
+        "given": "H.W."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Standard Handbook for Electrical Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fitzgerald",
+        "given": "A.E."
+      },
+      {
+        "family": "Higginbotham",
+        "given": "D.E."
+      },
+      {
+        "family": "Grabel",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Basic Electrical Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fitzgerald",
+        "given": "A.E."
+      },
+      {
+        "family": "Kingsley",
+        "given": "C."
+      },
+      {
+        "family": "Umans",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "edition": [
+      "Fourth"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Electric Machinery"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fortescue",
+        "given": "C.L."
+      }
+    ],
+    "container-title": [
+      "AIEE Trans"
+    ],
+    "date": [
+      "1918"
+    ],
+    "pages": [
+      "1027–1140,"
+    ],
+    "title": [
+      "Method of Symmetrical Components Applied to the Solution of Polyphase Networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fouad",
+        "given": "A.A."
+      },
+      {
+        "family": "Vijay",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Power System Transient Stability Analysis Using the Transient Energy Function Method"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "A.C."
+      },
+      {
+        "family": "Franklin",
+        "given": "D.P.The J."
+      },
+      {
+        "family": "Book",
+        "given": "P.Transformer"
+      }
+    ],
+    "date": [
+      "11th",
+      "1983"
+    ],
+    "editor": [
+      {
+        "given": "Ed)"
+      }
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Butterworths"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Company",
+        "given": "General Electric"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Electric Utility Systems and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Company",
+        "given": "General Electric"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Palo Alto, California"
+    ],
+    "publisher": [
+      "Electric Power Research Institute"
+    ],
+    "title": [
+      "Transmission Line Reference Book – 345 kV and Above"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Glover",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "PWS Publishing Company"
+    ],
+    "title": [
+      "Power System Analysis and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gönen",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Electric Power Distribution Systems Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gross",
+        "given": "C.A."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Power System Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Guile",
+        "given": "A.E."
+      },
+      {
+        "family": "Paterson",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Edinburgh"
+    ],
+    "publisher": [
+      "Oliver & Boyd"
+    ],
+    "title": [
+      "Electrical Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gungor",
+        "given": "B.R."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harcourt, Brace, Jovanovich, Inc"
+    ],
+    "title": [
+      "Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayt",
+        "given": "W.H.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Kemmerly",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Engineering Circuit Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heydt",
+        "given": "G.T."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "MacMillan Publishing Company"
+    ],
+    "title": [
+      "Computer Analysis Methods for Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimbark",
+        "given": "E.W."
+      }
+    ],
+    "date": [
+      "1948"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Power System Stability",
+      "Elements of Stability Calculations"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kimbark",
+        "given": "E.W."
+      }
+    ],
+    "date": [
+      "1950"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Power System Stability",
+      "Power Circuit Breakers and Protective Relays"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kimbark",
+        "given": "E.W."
+      }
+    ],
+    "date": [
+      "1956"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Power System Stability",
+      "Synchronous Machines"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kirchmayer",
+        "given": "L.K."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Economic Operation of Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kirchmayer",
+        "given": "L.K."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Economic Control of Interconnected Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knable",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Electrical Power Systems Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kundur",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Power System Stability and Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kusic",
+        "given": "G.L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Aided Power System Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nasar",
+        "given": "S.A."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "MacMillan Publishing Company"
+    ],
+    "title": [
+      "Electric Energy Conversion and Transmission"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Neuenswander",
+        "given": "J.R."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Scranton, Pennsylvania"
+    ],
+    "publisher": [
+      "International Textbook Company"
+    ],
+    "title": [
+      "Modern Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Phadke",
+        "given": "A.G."
+      },
+      {
+        "family": "Thorpe",
+        "given": "J.S."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Computer Relaying for Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rustebakke",
+        "given": "H.M."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Electric Utility Systems and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sarma",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Dubuque, Iowa"
+    ],
+    "publisher": [
+      "Brown"
+    ],
+    "title": [
+      "Electric Machines"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sauer",
+        "given": "P.W."
+      },
+      {
+        "family": "Pai",
+        "given": "M.A."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Power System Dynamics and Stability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "L.P."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Halsted Press"
+    ],
+    "title": [
+      "Advanced Power System Analysis and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stagg",
+        "given": "G.W."
+      },
+      {
+        "family": "El-Abiad",
+        "given": "A.H."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Computer Methods in Power System Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevenson",
+        "given": "W.D.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Elements of Power System Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevenson",
+        "given": "W.D."
+      },
+      {
+        "family": "Grainger",
+        "given": "J.J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Power System Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stott",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Power Apparatus and Systems"
+    ],
+    "date": [
+      "1955-10"
+    ],
+    "title": [
+      "Decoupled Newton Load Flow"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "PAS-91"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stott",
+        "given": "B."
+      },
+      {
+        "family": "Alsac",
+        "given": "O."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Power Apparatus and Systems"
+    ],
+    "date": [
+      "1974-05"
+    ],
+    "pages": [
+      "859–869,"
+    ],
+    "title": [
+      "Fast Decoupled Load Flow"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "PAS-93"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sullivan",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Power System Planning"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "C.W."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Power System Voltage Stability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wadhwa",
+        "given": "C.L."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Electrical Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "C.F."
+      },
+      {
+        "family": "Evens",
+        "given": "R.D."
+      }
+    ],
+    "date": [
+      "1933"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Symmetrical Components"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallach",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Calculations and Programs for Power System Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weedy",
+        "given": "B.M."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Electric Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weeks",
+        "given": "W.L."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper & Row Publishers"
+    ],
+    "title": [
+      "Transmission and Distribution of Electrical Energy"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Westinghouse Electric"
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Newark, New Jersey"
+    ],
+    "publisher": [
+      "Westinghouse"
+    ],
+    "title": [
+      "Applied Protective Relaying"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Westinghouse Electric"
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Pittsburgh, Pennsylvania"
+    ],
+    "publisher": [
+      "Westinghouse"
+    ],
+    "title": [
+      "Electric Transmission and Distribution Reference Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wood",
+        "given": "A.J."
+      },
+      {
+        "family": "Wollenberg",
+        "given": "B.F."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Power Generation Operation and Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yamayee",
+        "given": "Z.A."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Electromechanical Energy Devices and Power Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "Yao-nan"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Electric Power Systems Dynamics"
+    ],
+    "type": "book"
+  }
+]
