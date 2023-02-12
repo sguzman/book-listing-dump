@@ -1,0 +1,20 @@
+[
+  {
+    "note": [
+      "imGuiPopFlagsAndStyles(); ImGui::Unindent(indentSize); ImGui::Separator(); ImGui::Text(\"SSAO:\"); ImGui::Indent(indentSize); ImGui::Checkbox(\"Enable SSAO\", &g_EnableSSAO); imGuiPushFlagsAndStyles(g_EnableSSAO); ImGui::Checkbox(\"Enable SSAO blur\", &g_EnableBlur); ImGui::SliderFloat(\"SSAO scale\", &g_SSAOParams.scale_, 0.0f, 2.0f); ImGui::SliderFloat(\"SSAO bias\", &g_SSAOParams.bias_, 0.0f, 0.3f); ImGui::SliderFloat(\"SSAO radius\", &g_SSAOParams.radius, 0.02f, 0.2f); ImGui::SliderFloat(\"SSAO attenuation scale\", &g_SSAOParams.attScale, 0.5f, 1.5f); ImGui::SliderFloat(\"SSAO distance scale\", &g_SSAOParams.distScale, 0.0f, 1.0f); imGuiPopFlagsAndStyles(); ImGui::Unindent(indentSize); ImGui::Separator(); ImGui::Text(\"HDR:\"); ImGui::Indent(indentSize); ImGui::Checkbox(\"Enable HDR\", &g_EnableHDR); imGuiPushFlagsAndStyles(g_EnableHDR); ImGui::SliderFloat(\"Exposure\", &g_HDRParams.exposure_, 0.1f, 2.0f); ImGui::SliderFloat(\"Max white\", &g_HDRParams.maxWhite_, 0.5f, 2.0f); ImGui::SliderFloat(\"Bloom strength\", &g_HDRParams.bloomStrength_, 0.0f, 2.0f); ImGui::SliderFloat(\"Adaptation speed\", &g_HDRParams.adaptationSpeed_, 0.01f, 0.5f); imGuiPopFlagsAndStyles(); ImGui::Unindent(indentSize); ImGui::Separator(); ImGui::Text(\"Shadows:\"); ImGui::Indent(indentSize); 636 Advanced Rendering Techniques and Optimizations"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Vulkan 183-188 OpenGL graphics pipeline Microsoft Visual Studio 2019 tessellation"
+    ],
+    "note": [
+      "integrating into 280-290 download link 5 OpenGL Image (GLI) 346 installing, steps 5 OpenGL Mathematics (GLM"
+    ],
+    "title": [
+      "math offscreen rendering doing, with OpenGL Mathematics implementing, in OpenGL 462-465 (GLM) 30-35 onscreen charts McGuire Computer Graphics Archive rendering 226-228 reference link 16 OpenGL 4.6 mesh data with Approaching Zero Driver storage, organizing 240-244 Overhead (AZDO) 2 mesh geometry data with Vulkan 2 using, in Vulkan 146-150 OpenGL API calls MeshOptimizer intercepting 72-76 about 64-70 OpenGL demo application used, for generating LODs 277-280 rendering techniques, mesh rendering implementing 629-638 organizing"
+    ],
+    "type": "chapter"
+  }
+]
