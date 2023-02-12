@@ -1,0 +1,4925 @@
+[
+  {
+    "author": [
+      {
+        "family": "Gilchrist",
+        "given": "G.W1995"
+      }
+    ],
+    "container-title": [
+      "Problem: Evolution of two components of thermal adaptation Fitness measure: Geometric mean of r",
+      "American Naturalist"
+    ],
+    "pages": [
+      "252–270"
+    ],
+    "title": [
+      "Specialists and generalists in changing environments. I. Fitness landscapes of thermal sensitivity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "146"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Orzack",
+        "given": "S.H."
+      },
+      {
+        "family": "Tuljapurkar",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Problem: Optimal clutch size in a temporally variable environment Fitness measure: Long-term growth rate of population",
+      "Ecology"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "2659–2665"
+    ],
+    "title": [
+      "Reproductive effort in variable environments, or environmental variation is for the birds"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Simons",
+        "given": "A.M."
+      },
+      {
+        "family": "Johnston",
+        "given": "M.O."
+      }
+    ],
+    "container-title": [
+      "Problem: Evolution of timing of reproduction in the plant Lobelia inflate",
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "233–243"
+    ],
+    "title": [
+      "Suboptimal timing of reproduction in Lobelia inflata may be a conservative bet-hedging strategy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Nc.Alleles <- ASSIGN.LOCI(C.loci, N.Pop, Pc) # Alleles common to X & Y #"
+      }
+    ],
+    "note": [
+      "N.Pop, 2*Y.loci) # Y composition G.Cmatrix <- matrix(Nc.Alleles, N.Pop, 2*C.loci) # C composition"
+    ],
+    "title": [
+      "Now make three matrices for loci in individuals G.Xmatrix <- matrix(Nx.Alleles, N.Pop, 2*X.loci) # X composition G.Ymatrix <- matrix(Ny.Alleles"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "P.Y) # Phenotypic correlation print(c(Rg, Rp)"
+    ],
+    "title": [
+      "Rg <- cor(G.X, G.Y) # Genetic correlation Rp <- cor(P.X"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SELECTION <- function(Phenotype, Genotype, T0) # Selection function"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "G.Y) # Genetic correlation Rp <- cor(P.X, P.Y) # Phenotypic correlation # Store results Output[Igen,1:9] <- c(Igen, VarGX, VarGY, mean(P.X), mean(P.Y), h2.X, h2.Y, Rg, Rp"
+    ],
+    "title": [
+      "G.X <- rowSums(G.Xmatrix) þ rowSums(G.Cmatrix) # X Genotypic values VarGX <- var(G.X) # Vg for X G.Y <- rowSums(G.Ymatrix) þ S*rowSums(G.Cmatrix)# Y Genotypic values VarGY <- var(G.Y) # Vg for Y # Create phenotypic values Env <- mvrnorm(n1⁄4N.Pop, mu1⁄4c(0,0), Sigma1⁄4Ematrix) # Environmental values P.X <- G.X þ Env[,1] # Vector of X phenotypes P.Y <- G.Y þ Env[,2] # Vector of Y phenotypes VarPX <- var(P.X) # Phenotypic variance of X VarPY <- var(P.Y) # Phenotypic variance of Y h2.Y <- VarGY/VarPY # Heritability of Y Rg <- cor(G.X"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Selection",
+        "given": "Apply"
+      }
+    ],
+    "note": [
+      "SELECTION(P.X, G.Cmatrix, T0[Igen]"
+    ],
+    "title": [
+      "Note that selection here is only a function of X ParentX <- SELECTION(P.X, G.Xmatrix, T0[Igen]) ParentY <- SELECTION(P.X, G.Ymatrix, T0[Igen]) ParentC <"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1000"
+    ],
+    "note": [
+      "P.T - F.T/(F.TþF.S) # Change in rho return(Delta"
+    ],
+    "title": [
+      "# Population size N.T <- P.T*N # Number of territorial males N.S <- (1-P.T)*N # Number of satellite males N.S.per.T <- N.S/N.T # Satellite males per territorial male Sat.Fitness <- 5/N.S.per.T # Fitness of satellite F.S <- N.T*Sat.Fitness # Total Fitness of satellites F.T <- 0.8*N.T # Total Fitness of territorials Delta <"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N."
+      },
+      {
+        "literal": ". . ."
+      }
+    ],
+    "container-title": [
+      "# Probability of 1,2,3..N.S satellites Prob.x <- apply(Sat.nos,1, BINOM, N.S, probty) # Fitness of satellite for each number per territorial Sat.Fitness <- 5/Sat.nos # Frequency distribution of satellites per territorial Freq <",
+      "N.S"
+    ],
+    "date": [
+      "1000"
+    ],
+    "note": [
+      "F.S <- sum(Freq*Sat.Fitness) # Fitness of satellites F.T <- (1*N.T*P.zero þ 0.8*N.T*(1-P.zero)) # Fitness of territorials Delta <- P.T - F.T/(F.TþF.S) # Change in proportion of territial males return(Delta"
+    ],
+    "pages": [
+      "– 1–"
+    ],
+    "title": [
+      "# Population size N.T <- round(P.T*N) # Integer number of territorials N.S <- N-N.T # Number of satellites probty <- 1/N.T # Probability for binomial model P.zero <- dbinom(x=0, size=N.S, probty) # Probty of no satellites N.T.zero <- N.T*P.zero # Nos of territorials without satellites # Iterate over all territorial male counts > 0 # Line below shows how to do it using a loop #Prob.x <- matrix(0, N.S,1);for (x in 1:N.S){ Prob.x[x] <-dbinom(x, size=N.S, probty) } # Better approach is to use the apply function # Generate a vector with number of satellites per territorial 1",
+      "N.S Sat.nos <- matrix(seq(from=1, to=N.S"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "or vector TABLE. MATRIX): N.T.S < length(TABLE) Total fitness of territorial males is given by equation (5.23)."
+    ],
+    "title": [
+      "Calculate the total fitness of territorial males. First we must calculate the number of territorial males that receive satellites, N.T.S, which is simply obtained by the number of entries in the list TABLE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "N.T <- round(Npop*P.T"
+      }
+    ],
+    "note": [
+      "This represents # the territorial males assigned to the satellite males"
+    ],
+    "title": [
+      "# Integral nos of territorial males N.S <- Npop - N.T # Nos of satellite males X <- seq(from=1, to=N.T) # Label Territorial males # Draw at random with replacement N.S integers of vector X"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ayala",
+        "given": "F.J."
+      },
+      {
+        "family": "Campbell",
+        "given": "C.A."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Ecology and Systematics"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "115–138"
+    ],
+    "title": [
+      "Frequency-dependent selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Beauchamp",
+        "given": "G.U.Y."
+      }
+    ],
+    "container-title": [
+      "Journal of Theoretical Biology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "21–35"
+    ],
+    "title": [
+      "Learning rules for social foragers: Implications for the producerscrounger game and ideal free distribution theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "207"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Begon",
+        "given": "M."
+      },
+      {
+        "family": "Parker",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Oikos"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "293–302"
+    ],
+    "title": [
+      "Should egg size and clutch size decrease with age?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benton",
+        "given": "R.A."
+      },
+      {
+        "family": "Grant",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "677–688"
+    ],
+    "title": [
+      "Optimal reproductive effort in stochastic, densitydependent environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benton",
+        "given": "T.G."
+      },
+      {
+        "family": "Grant",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology Research"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "769–789"
+    ],
+    "title": [
+      "Evolutionary fitness in ecology: comparing measures of fitness in stochastic, density-dependent environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bond",
+        "given": "A.B."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Ecology Evolution and Systematics"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "489–514"
+    ],
+    "title": [
+      "The evolution of color polymorphism: Crypticity searching images, and apostatic selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boulding",
+        "given": "E.G."
+      },
+      {
+        "family": "Hay",
+        "given": "T."
+      },
+      {
+        "family": "Holst",
+        "given": "M."
+      },
+      {
+        "family": "Kamel",
+        "given": "S."
+      },
+      {
+        "family": "Pakes",
+        "given": "D."
+      },
+      {
+        "family": "Tie",
+        "given": "A.D."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "1976–1987"
+    ],
+    "title": [
+      "Modelling the genetics and demography of step cline formation: Gastropod populations preyed on by experimentally introduced crabs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brommer Jon",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Biological Reviews (Cambridge"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "377–404"
+    ],
+    "title": [
+      "The evolution of fitness in life-history theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brommer Jon",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Ecology Letters"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "802–810"
+    ],
+    "title": [
+      "Reproductive timing and individual fitness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bshary",
+        "given": "R."
+      },
+      {
+        "family": "Bergmueller",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "405–420"
+    ],
+    "title": [
+      "Distinguishing four fundamental approaches to the evolution of helping"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cade",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "1312–1313"
+    ],
+    "title": [
+      "Acoustically orienting parasitoids: Fly phonotaxis to cricket song"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "190"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cade",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Zoology"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "226–228"
+    ],
+    "title": [
+      "Effects of fly parasitoids on nightly calling duration in field crickets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carranza",
+        "given": "J."
+      },
+      {
+        "family": "Polo",
+        "given": "V."
+      },
+      {
+        "family": "Valencia",
+        "given": "J."
+      },
+      {
+        "family": "Mateos",
+        "given": "C."
+      },
+      {
+        "family": "Cruz",
+        "given": "C.",
+        "particle": "de la"
+      }
+    ],
+    "container-title": [
+      "Animal Behaviour"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "1535–1542"
+    ],
+    "title": [
+      "How should breeders react when aided by helpers?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Caswell",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Sunderland, MA"
+    ],
+    "publisher": [
+      "Sinauer Associates, Inc"
+    ],
+    "title": [
+      "Matrix Population Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Caswell",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Sunderland, MA"
+    ],
+    "publisher": [
+      "Sinauer"
+    ],
+    "title": [
+      "Matrix Population Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Caswell",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Sinauer, Sunderland, MA"
+    ],
+    "title": [
+      "Matrix Population Models: Construction, Analysis and Interpretation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Caswell",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Ecology Letters"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "380–387"
+    ],
+    "title": [
+      "Sensitivity analysis of equilibrium in densitydependent matrix population models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charlesworth",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "352–370"
+    ],
+    "title": [
+      "Selection in populations with overlapping generations. 1. The use of Malthusian parameters in population genetics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charlesworth",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "III Conditions for genetic equilibrium. Theoretical Population Biology"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "377–395"
+    ],
+    "title": [
+      "Selection in populations with overlapping generations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charlesworth",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "47–52"
+    ],
+    "title": [
+      "Natural selection on multivariate traits in age-structured populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "251"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Charlesworth",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Evolution in Age Structured Populations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Charnov",
+        "given": "E.L."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Life History Invariants"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Charnov",
+        "given": "E.L."
+      }
+    ],
+    "container-title": [
+      "Florida Entomologist"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "5–21"
+    ],
+    "title": [
+      "Evolution of host selection and clutch size in parasitoid wasps"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Heredity"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "347–352"
+    ],
+    "title": [
+      "The evidence for apostatic selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "453–474"
+    ],
+    "title": [
+      "The evolution of genetic diversity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "205"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clarke",
+        "given": "C.W."
+      },
+      {
+        "family": "Mangel",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Dynamic State Variable Models in Ecology: Methods and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "Clutton-Brock",
+        "given": "T.H."
+      }
+    ],
+    "location": [
+      "Chicago, IL"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "title": [
+      "Reproductive Success"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Theoretical Biology"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "119–129"
+    ],
+    "title": [
+      "Optimizing reproduction in a randomly varying environment"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cole",
+        "given": "L.C."
+      }
+    ],
+    "container-title": [
+      "Quarterly Review of Biology"
+    ],
+    "date": [
+      "1954"
+    ],
+    "pages": [
+      "103–137"
+    ],
+    "title": [
+      "The population consequences of life history phenomena"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crawley",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons Ltd"
+    ],
+    "title": [
+      "Statistical Computing: An Introduction to Data Analysis using S-Plus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Crawley",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons Ltd"
+    ],
+    "title": [
+      "The R Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Creel",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "229–231"
+    ],
+    "title": [
+      "How to measure inclusive fitness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "241"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crow",
+        "given": "J.F."
+      },
+      {
+        "family": "Kimura",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper and Row"
+    ],
+    "title": [
+      "An Introduction to Population Genetics Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Demetrius",
+        "given": "L."
+      },
+      {
+        "family": "Ziehe",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "323–345"
+    ],
+    "title": [
+      "Darwinian fitness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Den Boer",
+        "given": "P.J."
+      }
+    ],
+    "container-title": [
+      "Acta Biotheoretica"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "165–194"
+    ],
+    "title": [
+      "Spreading of risk and stabilization of animal numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dennis",
+        "given": "B."
+      },
+      {
+        "family": "Desharnais",
+        "given": "R.A."
+      },
+      {
+        "family": "Cushing",
+        "given": "J.M."
+      },
+      {
+        "family": "Constantino",
+        "given": "R.F."
+      }
+    ],
+    "container-title": [
+      "Ecological Monographs"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "261–281"
+    ],
+    "title": [
+      "Nonlinear demographic dynamics – mathematical models, statistical methods, and biological experiments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dugatkin",
+        "given": "L.A."
+      },
+      {
+        "family": "Reeve",
+        "given": "H.K."
+      }
+    ],
+    "container-title": [
+      "Advances in the Study of Behavior"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "101–133"
+    ],
+    "publisher": [
+      "Academic Press Inc"
+    ],
+    "title": [
+      "Behavioral ecology and levels of selection – dissolving the group selection controversy"
+    ],
+    "type": "chapter",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dugatkin",
+        "given": "L.A."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Game Theory & Animal Behavior"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eadie",
+        "given": "J.M."
+      },
+      {
+        "family": "Fryxell",
+        "given": "J.M."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "621–641"
+    ],
+    "title": [
+      "Density dependence, frequency-dependence, and alternative nesting strategies in goldeneyes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "140"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ebenman",
+        "given": "B."
+      },
+      {
+        "family": "Johansson",
+        "given": "A."
+      },
+      {
+        "family": "Jonsson",
+        "given": "T."
+      },
+      {
+        "family": "Wennergren",
+        "given": "U."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London –Series B: Biological Sciences"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "1145–1151"
+    ],
+    "title": [
+      "Evolution of stable population dynamics through natural selection"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "263"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Endler",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Natural Selection in the Wild"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Endler",
+        "given": "J.A."
+      }
+    ],
+    "container-title": [
+      "Philosophical Transactions of the Royal Society of London B"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "505–523"
+    ],
+    "title": [
+      "Frequency-dependent predation, crypsis and aposematic coloration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "319"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ferriere",
+        "given": "R."
+      },
+      {
+        "family": "Fox",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Trends In Ecology & Evolution"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "480–485"
+    ],
+    "title": [
+      "Chaos and evolution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ferriere",
+        "given": "R."
+      },
+      {
+        "family": "Gatto",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "126–171"
+    ],
+    "title": [
+      "Lyapunov exponents and the mathematics of invasion in oscillatory or chaotic populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fisher",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "1930"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Claredon Press"
+    ],
+    "title": [
+      "The Genetical Theory of Natural Selection"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fletcher",
+        "given": "J.A."
+      },
+      {
+        "family": "Zwick",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "252–262"
+    ],
+    "title": [
+      "Unifying the theories of inclusive fitness and reciprocal altruism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "168"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fumagalli",
+        "given": "M."
+      },
+      {
+        "family": "Cagliani",
+        "given": "R."
+      },
+      {
+        "family": "Pozzoli",
+        "given": "U."
+      },
+      {
+        "family": "Riva",
+        "given": "S."
+      },
+      {
+        "family": "Comi",
+        "given": "G.P."
+      },
+      {
+        "family": "Menozzi",
+        "given": "G."
+      },
+      {
+        "family": "Bresolin",
+        "given": "N."
+      },
+      {
+        "family": "Sironi",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Genome Research"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "199–212"
+    ],
+    "title": [
+      "Widespread balancing selection and pathogen-driven selection at blood group antigen genes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Galvani",
+        "given": "A."
+      },
+      {
+        "family": "Johnstone",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Behavioral Ecology and Sociobiology"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "161–168"
+    ],
+    "title": [
+      "Sperm allocation in an uncertain world"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "A."
+      },
+      {
+        "family": "West",
+        "given": "S.A."
+      },
+      {
+        "family": "Barton",
+        "given": "N.H."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "207–226"
+    ],
+    "title": [
+      "The relation between multilocus population genetics and social evolution theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "169"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gilchrist",
+        "given": "G.W."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "252–270"
+    ],
+    "title": [
+      "Specialists and generalists in changing environments. I. Fitness landscapes of thermal sensitivity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "146"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gilchrist",
+        "given": "G.W."
+      }
+    ],
+    "container-title": [
+      "Cell and Molecular Responses to Stress",
+      "Environmental Stressors and Gene Responses"
+    ],
+    "date": [
+      "2000"
+    ],
+    "editor": [
+      {
+        "family": "Storey",
+        "given": "J.M."
+      },
+      {
+        "family": "Storey",
+        "given": "K.B."
+      }
+    ],
+    "location": [
+      "Amsterdam, the Netherlands"
+    ],
+    "pages": [
+      "55–70"
+    ],
+    "publisher": [
+      "Elsevier Science"
+    ],
+    "title": [
+      "The evolution of thermal sensitivity in changing environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gillespie",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "831–836"
+    ],
+    "title": [
+      "The role of environmental grain in the maintenance of genetic variation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "108"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gillespie",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Genetics"
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "Fox",
+        "given": "C.W."
+      },
+      {
+        "family": "Wolf",
+        "given": "J.B."
+      }
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Stochastic processes in evolution"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillespie",
+        "given": "J.H."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "1010–1014"
+    ],
+    "title": [
+      "Natural selection for variance in offspring numbers: A new evolutionary principle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "111"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grafen",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "425–426"
+    ],
+    "title": [
+      "How not to measure inclusive fitness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "298"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grafen",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Behavioural Ecology"
+    ],
+    "date": [
+      "1984"
+    ],
+    "editor": [
+      {
+        "family": "Krebs",
+        "given": "J.R."
+      },
+      {
+        "family": "Davies",
+        "given": "N.B."
+      }
+    ],
+    "location": [
+      "Sunderland, MA"
+    ],
+    "pages": [
+      "62–84"
+    ],
+    "publisher": [
+      "Sinauer Associates Inc"
+    ],
+    "title": [
+      "Natural selection, kin selection and group selection"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Grafen",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "303–306"
+    ],
+    "title": [
+      "Selection pressures on vital rates in density dependent populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "264"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grafen",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Ecology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "680–693"
+    ],
+    "title": [
+      "Elasticity analysis for density-dependent populations in stochastic environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "81"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grafen",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Animal Ecology"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "94–105"
+    ],
+    "title": [
+      "Density-dependent populations require density-dependent elasticity analysis: An illustration using the LPA model of Tribolium"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Greenman",
+        "given": "J.V."
+      },
+      {
+        "family": "Benton",
+        "given": "T.G."
+      },
+      {
+        "family": "Boots",
+        "given": "M."
+      },
+      {
+        "family": "White",
+        "given": "A.R."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "68–78"
+    ],
+    "title": [
+      "The evolution of oscillatory behavior in age-structured species"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "166"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gross",
+        "given": "M.R."
+      }
+    ],
+    "container-title": [
+      "Zeitschrift fuer Tierpsychologie"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "1–26"
+    ],
+    "title": [
+      "Sneakers, satellites and parentals: Polymorphic mating strategies in North American sunfishes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gross",
+        "given": "M.R."
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "47–48"
+    ],
+    "title": [
+      "Disruptive selection for alternative life histories in salmon"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "313"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gross",
+        "given": "M.R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciencess"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "USA"
+    ],
+    "pages": [
+      "6937–6940"
+    ],
+    "title": [
+      "Alternative male life histories in bluegill sunfish"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "77"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Guillaume",
+        "given": "F."
+      },
+      {
+        "family": "Whitlock",
+        "given": "M.C."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "2398–2409"
+    ],
+    "title": [
+      "Effects of migration on the genetic covariance matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haldane",
+        "given": "J.B.S."
+      },
+      {
+        "family": "Jayakar",
+        "given": "S.D."
+      }
+    ],
+    "container-title": [
+      "Journal of Genetics"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "237–242"
+    ],
+    "title": [
+      "Polymorphism due to selection of varying direction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hamilton",
+        "given": "W.D."
+      }
+    ],
+    "container-title": [
+      "I. Journal of Theoretical Biology"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "1–16"
+    ],
+    "title": [
+      "The genetical evolution of social behavior"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hammerstein",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Game Theory and Animal Behavior"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Dugatkin",
+        "given": "L.A."
+      },
+      {
+        "family": "Reeve",
+        "given": "H.K."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "3–15"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "What is evolutionary game theory?"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Harley",
+        "given": "C.B."
+      }
+    ],
+    "container-title": [
+      "Journal of Theoretical Biology"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "611–633"
+    ],
+    "title": [
+      "Learning the evolutionary stable strategy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "89"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "W.E."
+      },
+      {
+        "family": "Lucas",
+        "given": "J.R."
+      }
+    ],
+    "container-title": [
+      "Behavioral Ecology"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "705–712"
+    ],
+    "title": [
+      "A state-based model of sperm allocation in a groupbreeding salamander"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hedrick",
+        "given": "P.W."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Sudbury, MA"
+    ],
+    "publisher": [
+      "Jones and Bartlett Publishers"
+    ],
+    "title": [
+      "Genetics of Populations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heino",
+        "given": "M."
+      },
+      {
+        "family": "Johan",
+        "given": "A.J.Metz"
+      },
+      {
+        "family": "Kaitala",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Trends in Ecology & Evolution"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "367–370"
+    ],
+    "title": [
+      "The enigma of frequency-dependent selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Houston",
+        "given": "A.I."
+      },
+      {
+        "family": "McNamara",
+        "given": "J.M."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "243–253"
+    ],
+    "title": [
+      "Phenotypic plasticity as a state-dependent lifehistory decision"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Houston",
+        "given": "A.I."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Models of Adaptive Behaviour"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hutchings",
+        "given": "J.A."
+      },
+      {
+        "family": "Myers",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Oecologia"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "169–174"
+    ],
+    "title": [
+      "Mating success of alternative maturation phenotypes in male Atlantic salmon, Salmo salar"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Johst",
+        "given": "K."
+      },
+      {
+        "family": "Doebeli",
+        "given": "M."
+      },
+      {
+        "family": "Brandl",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London – Series B: Biological Sciences"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "1147–1154"
+    ],
+    "title": [
+      "Evolution of complex dynamics in spatially structured populations"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "266"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "A.G."
+      },
+      {
+        "family": "Arnold",
+        "given": "S.J."
+      },
+      {
+        "family": "Burger",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "1747–1760"
+    ],
+    "title": [
+      "Stability of the G-matrix in a population experiencing pleiotropic mutation, stabilizing selection, and genetic drift"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "A.G."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1639–1654"
+    ],
+    "title": [
+      "Evolution and stability of the G-matrix on a landscape with a moving optimum"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Katsukawa",
+        "given": "Y."
+      },
+      {
+        "family": "Katsukawa",
+        "given": "T."
+      },
+      {
+        "family": "Matsuda",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Population Ecology"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "265–272"
+    ],
+    "title": [
+      "Indeterminate growth is selected by a trade-off between high fecundity and risk avoidance in stochastic environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kawecki",
+        "given": "T.J."
+      },
+      {
+        "family": "Stearns",
+        "given": "S.C."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "155–174"
+    ],
+    "title": [
+      "The evolution of life histories in spatially heterogeneous environments: Optimal reaction norms revisited"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kerkoff",
+        "given": "A.J."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology Research"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1003–1020"
+    ],
+    "title": [
+      "Expectation, explanation and masting"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "King",
+        "given": "O.D."
+      },
+      {
+        "family": "Masel",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "560–575"
+    ],
+    "title": [
+      "The evolution of bet-hedging adaptations to rare scenarios"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kirkpatrick",
+        "given": "M."
+      },
+      {
+        "family": "Lande",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "485–503"
+    ],
+    "title": [
+      "The evolution of maternal characters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "W.D."
+      }
+    ],
+    "container-title": [
+      "Ethol.ogy and Sociobiol.ogy"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "73–84"
+    ],
+    "title": [
+      "Reciprocal altruism is birds – a critical review"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "W.D."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "309–320"
+    ],
+    "title": [
+      "A comparison of methods to partition selection acting via components of fitness: Do larger male bullfrogs have greater hatching success?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kokko",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Modelling for Field Biologists"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Krause",
+        "given": "A."
+      },
+      {
+        "family": "Olson",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Basics of S-PLUS"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lack",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Ibis"
+    ],
+    "date": [
+      "1947"
+    ],
+    "pages": [
+      "302–352"
+    ],
+    "title": [
+      "The significance of clutch size 1. Intraspecific variation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "89"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lalonde",
+        "given": "R.G."
+      },
+      {
+        "family": "Roitberg",
+        "given": "B.D."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "127–131"
+    ],
+    "title": [
+      "Chaotic dynamics can select for long-term dormancy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "168"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lande",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "463–479"
+    ],
+    "title": [
+      "Genetic-variation and phenotypic evolution during allopatric speciation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "116"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lande",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Ecology"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "607–615"
+    ],
+    "title": [
+      "A quantitative genetic theory of life history evolution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lande",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "1835–1846"
+    ],
+    "title": [
+      "Expected relative fitness and the adaptive topography of fluctuating selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Landes",
+        "given": "D.S."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Belknap Press"
+    ],
+    "title": [
+      "Revolution in Time"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leslie",
+        "given": "P.H."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1945"
+    ],
+    "pages": [
+      "183–212"
+    ],
+    "title": [
+      "On the use of matrices in certain population mathematics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lessard",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "19–27"
+    ],
+    "title": [
+      "Long-term stability from fixation probabilities in finite populations: New perspectives for ESS theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "68"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lessells",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "46– 63"
+    ],
+    "title": [
+      "Why are males bad for females? Models for the evolution of damaging male mating behavior"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "165"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levene",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1953"
+    ],
+    "pages": [
+      "331–333"
+    ],
+    "title": [
+      "Genetic equilibrium when more than one ecological niche is available"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "87"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levins",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciencess"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "USA"
+    ],
+    "pages": [
+      "1061–1065"
+    ],
+    "title": [
+      "The effect of random variations of different types on population growth"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lewontin",
+        "given": "R.C."
+      },
+      {
+        "family": "Cohen",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the National Academy of Sciences (USA"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "1056–1060"
+    ],
+    "title": [
+      "On population growth in a randomly varying environment"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lotka",
+        "given": "A.J."
+      }
+    ],
+    "container-title": [
+      "American Journal of Science"
+    ],
+    "date": [
+      "1907"
+    ],
+    "pages": [
+      "199–216"
+    ],
+    "title": [
+      "Studies on the mode of growth of material aggregates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lynch",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Genetical Research"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "255–264"
+    ],
+    "title": [
+      "Estimating genetic correlations in natural populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "74"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Malthus",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "J"
+    ],
+    "date": [
+      "1798"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Johnson"
+    ],
+    "title": [
+      "An Essay on the Principle of Population"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mangel",
+        "given": "M."
+      },
+      {
+        "family": "Clark",
+        "given": "C.W."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Dynamic Modeling in Behavioral Ecology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mani",
+        "given": "G.S."
+      },
+      {
+        "family": "Clarke",
+        "given": "B.C."
+      },
+      {
+        "family": "Sheltom",
+        "given": "P.R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "15–28"
+    ],
+    "title": [
+      "A model of quantitative traits under frequency-dependent balancing selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "240"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "May",
+        "given": "R.M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Ecological Society of Australia"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "18–56"
+    ],
+    "title": [
+      "Stability in model ecosystems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "May",
+        "given": "R.M."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "621–650"
+    ],
+    "title": [
+      "Stability in randomly fluctuating versus deterministic environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "107"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maynard Smith",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Evolution and the Theory of Games"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maynard Smith",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Evolutionary Genetics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Metz",
+        "given": "J.A.J."
+      },
+      {
+        "family": "Roger",
+        "given": "M.Nisbet"
+      },
+      {
+        "family": "Geritz",
+        "given": "S.A.H."
+      }
+    ],
+    "container-title": [
+      "Trends in Ecology & Evolution"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "198–202"
+    ],
+    "title": [
+      "How should we define ‘fitness’ for general ecological scenarios?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mylius",
+        "given": "S.D."
+      },
+      {
+        "family": "Diekmann",
+        "given": "O."
+      }
+    ],
+    "container-title": [
+      "Oikos"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "218–224"
+    ],
+    "title": [
+      "On evolutionarily stable life histories, optimization and the need to be specific about density dependence"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "74"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nunez-Farfan",
+        "given": "J."
+      },
+      {
+        "family": "Fornoni",
+        "given": "J."
+      },
+      {
+        "family": "Valverde",
+        "given": "P.L."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Ecology Evolution and Systematics"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "541–566"
+    ],
+    "title": [
+      "The evolution of resistance and tolerance to herbivores"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "O’Brien",
+        "given": "E.E."
+      },
+      {
+        "family": "Brown",
+        "given": "J.S."
+      }
+    ],
+    "container-title": [
+      "Journal of Ecology"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "438–446"
+    ],
+    "title": [
+      "Games roots play: Effects of soil volume and nutrients"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "96"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olausson",
+        "given": "A."
+      },
+      {
+        "family": "Ronningen",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Acta Agriculturae Scandinavica"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "201–208"
+    ],
+    "title": [
+      "Estimation of genetic parameters for threshold characters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oli",
+        "given": "M.K."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London – Series B: Biological Sciences"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "307–311"
+    ],
+    "title": [
+      "Hamilton goes empirical: Estimation of inclusive fitness from life-history data"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "270"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Orzack",
+        "given": "S.H."
+      },
+      {
+        "family": "Hines",
+        "given": "W.G.S."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "1183–1193"
+    ],
+    "title": [
+      "The evolution of strategy variation: Will an ESS evolve?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tuljapurkar",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "901–923"
+    ],
+    "title": [
+      "Population dynamic in variable environments. VII. The demography and evolution of iteroparity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "133"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tuljapurkar",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Ecology"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "2659–2665"
+    ],
+    "title": [
+      "Reproductive effort in variable environments, or environmental variation is for the birds"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pepper",
+        "given": "J.W."
+      }
+    ],
+    "container-title": [
+      "Journal of Theoretical Biology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "355–368"
+    ],
+    "title": [
+      "Relatedness in trait group models of social evolution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "206"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peterson",
+        "given": "J.H."
+      },
+      {
+        "family": "Roitberg",
+        "given": "B.D."
+      },
+      {
+        "family": "Ydenberg",
+        "given": "R.C."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology Research"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "1187–1197"
+    ],
+    "title": [
+      "When nesting involves two sequential, mutually exclusive activities: What’s a mother to do?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Queller",
+        "given": "D.C."
+      }
+    ],
+    "container-title": [
+      "Animal Behaviour"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "229–232"
+    ],
+    "title": [
+      "The measurement and meaning of inclusive fitness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rand",
+        "given": "D.A."
+      },
+      {
+        "family": "Wilson",
+        "given": "H.B."
+      },
+      {
+        "family": "McGlade",
+        "given": "J.M."
+      }
+    ],
+    "container-title": [
+      "Philosophical Transactions of the Royal Society of London"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "261–283"
+    ],
+    "source": [
+      "Series B: Biological Sciences"
+    ],
+    "title": [
+      "Dynamics and evolution: Evolutionarily stable attractors, invasion exponents and phenotypic dynamics"
+    ],
+    "type": "chapter",
+    "volume": [
+      "343"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ratnieks",
+        "given": "F.L.W."
+      },
+      {
+        "family": "Wenseleers",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Trends in Ecology & Evolution"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "45–52"
+    ],
+    "title": [
+      "Altruism in insect societies and beyond: Voluntary or enforced?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reeve",
+        "given": "J.P."
+      }
+    ],
+    "container-title": [
+      "Genetical Research"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "83–94"
+    ],
+    "title": [
+      "Predicting long-term response to selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reeve",
+        "given": "J.P."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "244–254"
+    ],
+    "title": [
+      "Predicting the evolution of sexual size dimorphism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Oecologia"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "259–275"
+    ],
+    "title": [
+      "The analysis of a population model demonstrating the importance of dispersal in a heterogeneous environment"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Oecologia"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "245–258"
+    ],
+    "title": [
+      "Spatial heterogeneity and the persistence of populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Oecologia"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "202–208"
+    ],
+    "title": [
+      "Optimizing development time in a seasonal environment: The “ups and downs” of clinal variation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "405–422"
+    ],
+    "title": [
+      "On being the right size"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "118"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Oecologia"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "30–37"
+    ],
+    "title": [
+      "The cost of being able to fly: A study of wing polymorphism in two species of crickets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Fisheries and Aquatice Sciences"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "984–1000"
+    ],
+    "title": [
+      "The evolution of life history parameters in teleosts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Heredity"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "163–168"
+    ],
+    "title": [
+      "Selection for changes in the incidence of wing dimorphism in Gryllus firmus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Chapman and Hall"
+    ],
+    "title": [
+      "The Evolution of Life Histories: Theory and Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "772–798"
+    ],
+    "title": [
+      "Habitat persistence and the evolution of wing dimorphism in insects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "144"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Heredity"
+    ],
+    "pages": [
+      "36–41"
+    ],
+    "title": [
+      "1994b The evolution of dimorphic traits: Effect of directional selection on heritability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Quarterly Review of Biology"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "3–35"
+    ],
+    "title": [
+      "The evolution of threshold traits in animals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Chapman and Hall"
+    ],
+    "title": [
+      "Evolutionary Quantitative Genetics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Heredity"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "25–32"
+    ],
+    "title": [
+      "Evolution of threshold traits: The balance between directional selection, drift and mutation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "80"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "513–529"
+    ],
+    "title": [
+      "The maintenance of phenotypic and genetic variation in threshold traits by frequency-dependent selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Heredity"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "404–411"
+    ],
+    "title": [
+      "The threshold model as a general purpose normalizing transformation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "86"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Sunderland, MA"
+    ],
+    "publisher": [
+      "Sinauer Associates"
+    ],
+    "title": [
+      "Life History Evolution"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Introduction to Computer-Intensive Methods of Data Analysis in Biology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Physiological & Biochemical Zoology"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "358–369"
+    ],
+    "title": [
+      "Laboratory evolution of the migratory polymorphism in the sand cricket: Combining physiology with quantitative genetics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "80"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A.and"
+      }
+    ],
+    "container-title": [
+      "Experimental Evolution"
+    ],
+    "date": [
+      "2009"
+    ],
+    "editor": [
+      {
+        "family": "Garland",
+        "given": "T."
+      },
+      {
+        "family": "Rose",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "publisher": [
+      "University of California Press"
+    ],
+    "title": [
+      "Modeling experimental evolution using individual-based variancecomponents models"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A.and"
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "47–58"
+    ],
+    "title": [
+      "The quantitative genetics of fluctuating asymmetry: A comparison of two models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A.and"
+      }
+    ],
+    "container-title": [
+      "Heredity"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "544–548"
+    ],
+    "title": [
+      "The estimation of the genetic correlation: The use of the jackknife"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "73"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roff",
+        "given": "D.A.and"
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1920–1930"
+    ],
+    "title": [
+      "The importance of growth and mortality costs in the evolution of the optimal life history"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ronningen",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Acta Agriculturae Scandinavica"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "135–142"
+    ],
+    "title": [
+      "Monte carlo simulation of statistical-biological models which are of interest in animal breeding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rudolf",
+        "given": "V.H.W."
+      },
+      {
+        "family": "Rodel",
+        "given": "M.O."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "121–142"
+    ],
+    "title": [
+      "Phenotypic plasticity and optimal timing of metamorphosis under uncertain time constraints"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ruxton",
+        "given": "G.D."
+      },
+      {
+        "family": "Broom",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "755–759"
+    ],
+    "title": [
+      "Evolution of kleptoparasitism as a war of attrition"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sharpe",
+        "given": "F.R."
+      },
+      {
+        "family": "Lotka",
+        "given": "A.J."
+      }
+    ],
+    "container-title": [
+      "Philosophical Magazine"
+    ],
+    "date": [
+      "1911"
+    ],
+    "pages": [
+      "435–438"
+    ],
+    "title": [
+      "A problem in age-distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sherratt",
+        "given": "T.N."
+      },
+      {
+        "family": "Harvey",
+        "given": "I.F."
+      }
+    ],
+    "container-title": [
+      "Biological Journal of the Linnean Society"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "167–186"
+    ],
+    "title": [
+      "Frequency-dependent food selection by arthropods – a review"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Simons",
+        "given": "A.M."
+      },
+      {
+        "family": "Johnston",
+        "given": "M.O."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "233–243"
+    ],
+    "title": [
+      "Suboptimal timing of reproduction in Lobelia inflata may be a conservative bet-hedging strategy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sinervo",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Genetica (Dordrecht"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "417–434"
+    ],
+    "title": [
+      "Runaway social games, genetic cycles driven by alternative male and female strategies, and the origin of morphs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "112–113"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sinervo",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Ecology Evolution and Systematics"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "581–610"
+    ],
+    "title": [
+      "The developmental, physiological, neural, and genetical causes and consequences of frequency-dependent selection in the wild"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sinervo",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "240–243"
+    ],
+    "title": [
+      "The rock-paper-scissors games and the evolution of alternative male strategies"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "380"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Slatkin",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Nature"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "704–705"
+    ],
+    "title": [
+      "Hedging one’s evolutionary bets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "250"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "T.B."
+      },
+      {
+        "family": "Skulason",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Ecology and Systematics"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "111–133"
+    ],
+    "title": [
+      "Evolutionary significance of resource polymorphisms in fishes, amphibians, and birds"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stearns",
+        "given": "S.C."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Evolution of Life Histories"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tabachnick",
+        "given": "B.G."
+      },
+      {
+        "family": "Fidell",
+        "given": "L.S."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Allyn and Bacon"
+    ],
+    "title": [
+      "Using Multivariate Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "P.D."
+      },
+      {
+        "family": "Wild",
+        "given": "G."
+      },
+      {
+        "family": "Gardner",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Jourunal of Evolutionary Biology"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "301–309"
+    ],
+    "title": [
+      "Direct fitness or inclusive fitness: How shall we model kin selection?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thorne",
+        "given": "B.L."
+      }
+    ],
+    "container-title": [
+      "Annual Review of Ecology and Systematics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "27–54"
+    ],
+    "title": [
+      "Evolution of eusociality in termites"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tuljapurkar",
+        "given": "S.D."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "141–165"
+    ],
+    "title": [
+      "Population-dynamics in variable environments. III. Evolutionary dynamics of r-selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tuljapurkar",
+        "given": "S.D."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "227–294"
+    ],
+    "title": [
+      "An uncertain life: Demography in random environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tuljapurkar",
+        "given": "S.D."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Berlin, Germany"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Population Dynamics in Variable Environments"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tuljapurkar",
+        "given": "S.D."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "314–342"
+    ],
+    "title": [
+      "Population-dynamics in variable environments. 1. Long-run growth-rates and extinction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Turelli",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Theoretical Population Biology"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "140–178"
+    ],
+    "title": [
+      "Random environments and stochastic calculus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dooren",
+        "given": "T.J.M.",
+        "particle": "van"
+      },
+      {
+        "family": "Metz",
+        "given": "J.A.J."
+      }
+    ],
+    "container-title": [
+      "Journal of Evolutionary Biology"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "41–62"
+    ],
+    "title": [
+      "Delayed maturation in temporally structured populations with non-equilibrium dynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tienderen",
+        "given": "P.H.",
+        "particle": "van"
+      }
+    ],
+    "container-title": [
+      "Ecology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "666–679"
+    ],
+    "title": [
+      "Elasticities and the link between demographic and evolutionary dynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "81"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Venables",
+        "given": "W.N."
+      },
+      {
+        "family": "Ripley",
+        "given": "B.D."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Modern Applied Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Via",
+        "given": "S."
+      },
+      {
+        "family": "Lande",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Evolution"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "505–522"
+    ],
+    "title": [
+      "Genotype-environment interaction and the evolution of phenotypic plasticity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wajnberg",
+        "given": "E."
+      },
+      {
+        "family": "Bernhard",
+        "given": "P."
+      },
+      {
+        "family": "Hamelin",
+        "given": "F."
+      },
+      {
+        "family": "Boivin",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Behavioral Ecology and Sociobiology"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1–10"
+    ],
+    "title": [
+      "Optimal patch time allocation for time-limited foragers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wakano",
+        "given": "J.Y."
+      },
+      {
+        "family": "Ihara",
+        "given": "Y."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "32– 44"
+    ],
+    "title": [
+      "Evolution of male parental care and female multiple mating: Game-theoretical and two-locus diploid models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "166"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weber",
+        "given": "T.P."
+      },
+      {
+        "family": "Ens",
+        "given": "B.J."
+      },
+      {
+        "family": "Houston",
+        "given": "A.I."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "377–401"
+    ],
+    "title": [
+      "Optimal avian migration: A dynamic model of fuel stores and site use"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "West",
+        "given": "A.S."
+      },
+      {
+        "family": "Pen",
+        "given": "I."
+      },
+      {
+        "family": "Griffin",
+        "given": "A.S."
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "72–75"
+    ],
+    "title": [
+      "Cooperation and competition between relatives"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "296"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "A."
+      },
+      {
+        "family": "Greenman",
+        "given": "J.V."
+      },
+      {
+        "family": "Benton",
+        "given": "T.G."
+      },
+      {
+        "family": "Boots",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Evolutionary Ecology Research"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "387–398"
+    ],
+    "title": [
+      "Evolutionary behaviour in ecological systems with trade-offs and non-equilibrium population dynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilbur",
+        "given": "H.M."
+      },
+      {
+        "family": "Rudolf",
+        "given": "V.H.W."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "398–411"
+    ],
+    "title": [
+      "Life-history evolution in uncertain environments: Bet hedging in time"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "168"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Genetics"
+    ],
+    "date": [
+      "1931"
+    ],
+    "pages": [
+      "97–159"
+    ],
+    "title": [
+      "Evolution in Mendelian populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "American Naturalist"
+    ],
+    "date": [
+      "1969"
+    ],
+    "note": [
+      "This page intentionally left blank Author Index"
+    ],
+    "pages": [
+      "561–574"
+    ],
+    "title": [
+      "The theoretical course of directional selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "103"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barton",
+        "given": "N.H."
+      }
+    ],
+    "pages": [
+      "14"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "H Haldane, J. B. S. 39 L Hamelin, F. 402 Lack, D. 61 Hamilton, W. D. 14 Lalonde, R. D. 221 Hammerstein, P. 15 Lande, R."
+      },
+      {
+        "family": "Harley",
+        "given": "C.B."
+      },
+      {
+        "literal": "Landes, D. S. 16 Harris, W. E. 399 Leslie, P. H. 166 Harvey, I. F. 271 Lessard, S. 274 Hay, T. 269 Lessells, C. M. 401 Hedrick, P. W."
+      }
+    ],
+    "note": [
+      "5 Levene, H. 13 Heibo, E. 130, 140 Levins, R. 40 Heino, M. 15 Lewontin, R. C. 10, 39, 40 Hines, W. G. S. 274 Lively, C. M. 271, 276, 301 Holst, M. 269 Lotka, A. J. 4 Houston, A. I. 13, 341, 401 Lucas, J. R. 399 Hunter, C. M. 8 Lynch, M. 229 Hutchings, J. A. 15"
+    ],
+    "pages": [
+      "268",
+      "337"
+    ],
+    "type": null,
+    "volume": [
+      "5, 12, 59, 86, 227, 228",
+      "177, 275, 331, 335"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rand",
+        "given": "D.A."
+      }
+    ],
+    "pages": [
+      "268"
+    ],
+    "title": [
+      "7, 174 Via"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ratnieks",
+        "given": "F.L.W."
+      }
+    ],
+    "container-title": [
+      "AUTHOR INDEX"
+    ],
+    "pages": [
+      "140 446"
+    ],
+    "type": "chapter",
+    "volume": [
+      "14"
+    ]
+  }
+]
