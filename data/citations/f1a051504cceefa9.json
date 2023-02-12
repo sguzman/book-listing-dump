@@ -1,0 +1,2359 @@
+[
+  {
+    "note": [
+      "A system with unstructured additive uncertainty will be discussed in Problem A–10–18."
+    ],
+    "title": [
+      "EXAMPLE 10–14 Consider a control system with unstructured multiplicative uncertainty. We shall consider robust stability and robust performance of the system"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "pages": [
+      "10–123"
+    ],
+    "title": [
+      "WmT7 q 6"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "note": [
+      "Suppose that we cut the line at point A in Figure 10–43(a). Then we obtain Figure 10–43(d)."
+    ],
+    "title": [
+      "If Inequality (10–123) holds true, Inequality (10–122) will always be satisfied. By making the Hq norm of WmT to be less than 1, we obtain the controller K that will make the system stable"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Referring to Equation (10–121), T is given by"
+    ],
+    "title": [
+      "Replacing ¢ m by WmI, we obtain Figure 10–43(e). Redrawing Figure 10–43(e), we obtain Figure 10–43(f). Figure 10–43(f) is called a generalized plant diagram"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "812"
+    ],
+    "title": [
+      "Chapter 10 / Control Systems Design in State Space"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Rewriting Inequality (10–125), we have"
+    ],
+    "title": [
+      "EXAMPLE 10–15 Let us determine the P matrix in the generalized plant diagram of the control system considered in Example 10–14. We derived Inequality (10–125) for the control system to be robust stable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Thus"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "A.–1"
+      },
+      {
+        "family": "O.",
+        "given": "B.D."
+      },
+      {
+        "family": "Moore",
+        "given": "J.B."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Linear Optimal Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Athans",
+        "given": "A.–2"
+      },
+      {
+        "family": "M."
+      },
+      {
+        "family": "Falb",
+        "given": "P.L."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Optimal Control: An Introduction to the Theory and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barnet",
+        "given": "B.–1"
+      },
+      {
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "1–10"
+    ],
+    "title": [
+      "Matrices, Polynomials, and Linear Time-Invariant Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bayliss",
+        "given": "B.–2"
+      },
+      {
+        "family": "E",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "English Universities Press Limited"
+    ],
+    "title": [
+      "Living Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellman",
+        "given": "B.–3"
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Introduction to Matrix Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bode",
+        "given": "B.–4"
+      },
+      {
+        "family": "W",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1945"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostrand Reinhold"
+    ],
+    "title": [
+      "Network Analysis and Feedback Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brogan",
+        "given": "B.–5"
+      },
+      {
+        "family": "L",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Modern Control Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "B–6 Butman, S., and R. Sivan (Sussman),“On Cancellations"
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "317–8"
+    ],
+    "title": [
+      "Controllability and Observability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "C.–1"
+      },
+      {
+        "family": "P",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Process Dynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cannon",
+        "given": "C.–2"
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Dynamics of Physical Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.–3"
+      },
+      {
+        "family": "M.",
+        "given": "P."
+      },
+      {
+        "family": "Jayasuriya",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "ASME J. Dynamic Systems, Measurement, and Control"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "360–73"
+    ],
+    "title": [
+      "An Evaluation of Several Controller Synthesis Methodologies Using a Rotating Flexible Beam as a Test Bed"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "117"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "C.–4"
+      },
+      {
+        "family": "K",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company, Inc"
+    ],
+    "title": [
+      "Analysis of Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Churchill",
+        "given": "C.–5"
+      },
+      {
+        "given": "R.V."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Operational Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "882"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Coddington",
+        "given": "C.–6"
+      },
+      {
+        "family": "E.A."
+      },
+      {
+        "family": "Levinson",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1955"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Theory of Ordinary Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Craig",
+        "given": "C.–7"
+      },
+      {
+        "family": "J",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "publisher": [
+      "MA:AddisonWesley Publishing Company, Inc"
+    ],
+    "title": [
+      "Introduction to Robotics, Mechanics and Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "C.–8"
+      },
+      {
+        "family": "J",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Introduction to Nonlinear Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dorf",
+        "given": "D.–1"
+      },
+      {
+        "family": "C.",
+        "given": "R."
+      },
+      {
+        "family": "Bishop",
+        "given": "R.H."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "9th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Modern Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "E–1 Enns, M., J. R. Greenwood III, J. E. Matheson, and F. T. Thompson"
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Military Electronics"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "81–93"
+    ],
+    "title": [
+      "Practical Aspects of State-Space Methods Part I: System Formulation and Reduction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "MIL-8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "E.–2"
+      },
+      {
+        "family": "R",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "AIEE Trans. Part"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "547–51"
+    ],
+    "title": [
+      "Graphical Analysis of Control Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II, 67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "E.–3"
+      },
+      {
+        "family": "R",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "AIEE Trans Part"
+    ],
+    "date": [
+      "1950"
+    ],
+    "pages": [
+      "66–9"
+    ],
+    "title": [
+      "Control System Synthesis by Root Locus Method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II, 69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "E.–4"
+      },
+      {
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "ASME Trans"
+    ],
+    "date": [
+      "1954"
+    ],
+    "pages": [
+      "1135–44"
+    ],
+    "title": [
+      "R.,“The Use of Zeros and Poles for Frequency Response or Transient Response"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "76"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "E.–5"
+      },
+      {
+        "family": "R",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1954"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Control System Dynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "F.–1"
+      },
+      {
+        "family": "F",
+        "given": "G."
+      },
+      {
+        "family": "Powell",
+        "given": "J.D."
+      },
+      {
+        "family": "Emami-Naeini",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company, Inc"
+    ],
+    "title": [
+      "Feedback Control of Dynamic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Friedland",
+        "given": "F.–2"
+      },
+      {
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Control System Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "F.–3"
+      },
+      {
+        "family": "S.",
+        "given": "K."
+      },
+      {
+        "family": "Gonzalez",
+        "given": "R.C."
+      },
+      {
+        "family": "Lee",
+        "given": "C.S.G."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Robotics: Control, Sensing, Vision, and Intelligence"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gantmacher",
+        "given": "G.–1"
+      },
+      {
+        "family": "R",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "NewYork"
+    ],
+    "publisher": [
+      "Chelsea Publishing Company, Inc"
+    ],
+    "title": [
+      "Theory of Matrices"
+    ],
+    "type": "book",
+    "volume": [
+      "Vols. I and II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "G.–2"
+      },
+      {
+        "family": "F",
+        "given": "M."
+      },
+      {
+        "family": "Barnes",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "1942"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Transients in Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "G.–3"
+      },
+      {
+        "family": "E",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Nonlinear Automatic Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilbert",
+        "given": "G.–4"
+      },
+      {
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "J.SIAM Control, ser. A"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "128–51"
+    ],
+    "title": [
+      "G.,“Controllability and Observability in Multivariable Control Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "G.–5"
+      },
+      {
+        "family": "D."
+      },
+      {
+        "family": "Lathrop",
+        "given": "R.C."
+      }
+    ],
+    "container-title": [
+      "AIEE Trans. Part"
+    ],
+    "date": [
+      "1953"
+    ],
+    "pages": [
+      "273–88"
+    ],
+    "title": [
+      "The Synthesis of Optimum Response: Criteria and Standard Forms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II, 72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hahn",
+        "given": "H.–1"
+      },
+      {
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Theory and Application of Liapunov’s Direct Method"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "H.–2"
+      },
+      {
+        "family": "R",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostrand Reinhold"
+    ],
+    "title": [
+      "Finite Dimensional Vector Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Higdon",
+        "given": "H.–3"
+      },
+      {
+        "family": "T.",
+        "given": "D."
+      },
+      {
+        "family": "Cannon",
+        "given": "R.H.",
+        "suffix": "Jr"
+      }
+    ],
+    "container-title": [
+      "ASME Paper"
+    ],
+    "date": [
+      "1963"
+    ],
+    "issue": [
+      ""
+    ],
+    "pages": [
+      "63– –148,"
+    ],
+    "title": [
+      "On the Control of Unstable Multiple-Output Mechanical Systems"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Irwin",
+        "given": "I.–1"
+      },
+      {
+        "family": "D",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Macmillan, Inc"
+    ],
+    "title": [
+      "Basic Engineering Circuit Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jayasuriya",
+        "given": "J.–1"
+      },
+      {
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "ASME J. Dynamic Systems, Measurement, and Control"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "439–51"
+    ],
+    "title": [
+      "Frequency Domain Design for Robust Performance Under Parametric, Unstructured, or Mixed Uncertainties"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "115"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "K.–1"
+      },
+      {
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "K.–2"
+      },
+      {
+        "family": "E",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Bol. Soc Mat. Mex"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "102–19"
+    ],
+    "title": [
+      "Contributions to the Theory of Optimal Control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "K.–3"
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "Kalman",
+        "given": "K.–4"
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "Kalman",
+        "given": "K.–5"
+      },
+      {
+        "family": "E",
+        "given": "R."
+      },
+      {
+        "family": "Kalman",
+        "given": "K.–6"
+      },
+      {
+        "family": "E.",
+        "given": "R."
+      },
+      {
+        "family": "Bertram",
+        "given": "J.E."
+      },
+      {
+        "family": "Kalman",
+        "given": "K.–7"
+      },
+      {
+        "family": "E.",
+        "given": "R."
+      },
+      {
+        "family": "Ho",
+        "given": "Y.C."
+      },
+      {
+        "family": "Narendra",
+        "given": "K.S."
+      }
+    ],
+    "container-title": [
+      "Proc. First Intern. Cong. IFAC",
+      "Proc. Natl. Acad",
+      "Contributions to Differential Equations,Vol. 1",
+      "Basic Engineering",
+      "ASME J. Basic Engineering, ser. D"
+    ],
+    "date": [
+      "1960",
+      "1961",
+      "1962",
+      "1964",
+      "1960",
+      "1962"
+    ],
+    "location": [
+      "Moscow",
+      "London",
+      "Sci., USA"
+    ],
+    "pages": [
+      "481–92",
+      "596–600",
+      "51–60",
+      "371–93"
+    ],
+    "publisher": [
+      "Butterworths & Company Limited",
+      "New York:Wiley-Interscience Publishers, Inc"
+    ],
+    "title": [
+      "E.,“On the General Theory of Control Systems",
+      "Automatic and Remote Control",
+      "E.,“Canonical Structure of Linear Dynamical Systems",
+      "When Is a Linear Control System Optimal?” ASMEJ",
+      "Control System Analysis and Design via the Second Method of Lyapunov: I Continuous-Time Systems",
+      "Controllability of Linear Dynamic Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48",
+      "ser. D, 86",
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kautsky",
+        "given": "K.–8"
+      },
+      {
+        "family": "J."
+      },
+      {
+        "family": "Nichols",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Intern. J. Control"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "1129–55"
+    ],
+    "title": [
+      "Robust Pole Assignment in Linear State Feedback"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kreindler",
+        "given": "K.–9"
+      },
+      {
+        "family": "E."
+      },
+      {
+        "family": "Sarachick",
+        "given": "P.E."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "129–36"
+    ],
+    "title": [
+      "On the Concepts of Controllability and Observability of Linear Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "K.–10"
+      },
+      {
+        "family": "C",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Automatic Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LaSalle",
+        "given": "L.–1"
+      },
+      {
+        "family": "P",
+        "given": "J."
+      },
+      {
+        "family": "Lefschetz",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press, Inc"
+    ],
+    "title": [
+      "Stability by Liapunov’s Direct Method with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Levin",
+        "given": "L.–2"
+      },
+      {
+        "family": "S",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "The Control Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Levin",
+        "given": "L.–3"
+      },
+      {
+        "family": "S",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Control System Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Luenberger",
+        "given": "L.–4"
+      },
+      {
+        "family": "G",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Military Electr"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "74–80"
+    ],
+    "title": [
+      "Observing the State of a Linear System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "MIL-8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Luenberger",
+        "given": "L.–5"
+      },
+      {
+        "family": "G",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "596–602"
+    ],
+    "title": [
+      "An Introduction to Observers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "L–6 Lur’e,A. I., and E. N. Rozenvasser,“On"
+      }
+    ],
+    "container-title": [
+      "Proc. First Intern. Cong. IFAC"
+    ],
+    "date": [
+      "1960",
+      "1961"
+    ],
+    "location": [
+      "Moscow",
+      "London"
+    ],
+    "pages": [
+      "928–33"
+    ],
+    "publisher": [
+      "Butterworths & Company Limited"
+    ],
+    "title": [
+      "Methods of Constructing Liapunov Functions in the Theory of Nonlinear Control Systems",
+      "Automatic and Remote Control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "MathWorks",
+        "given": "M.–1"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Student Edition of MATLAB, version 5"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Melbourne",
+        "given": "M.–2"
+      },
+      {
+        "family": "G",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "ARS J"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "1723–8"
+    ],
+    "title": [
+      "Three Dimensional Optimum Thrust Trajectories for Power-Limited Propulsion Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Melbourne",
+        "given": "M.–3"
+      },
+      {
+        "family": "G.",
+        "given": "W."
+      },
+      {
+        "family": "Sauer",
+        "given": "C.G.",
+        "suffix": "Jr"
+      }
+    ],
+    "container-title": [
+      "AIAA J"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "54–60"
+    ],
+    "title": [
+      "Optimum Interplanetary Rendezvous with Power-Limited Vehicles"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Minorsky",
+        "given": "M.–4"
+      },
+      {
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostrand Reinhold"
+    ],
+    "title": [
+      "Nonlinear Oscillations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Monopoli",
+        "given": "M.–5"
+      }
+    ],
+    "container-title": [
+      "NASA CR152"
+    ],
+    "date": [
+      "1965-01"
+    ],
+    "title": [
+      "R.V.,“Controller Design for Nonlinear and Time-Varying Plants"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Noble",
+        "given": "N.–1"
+      },
+      {
+        "family": "B."
+      },
+      {
+        "family": "Daniel",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Applied Linear Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nyquist",
+        "given": "N.–2"
+      },
+      {
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Bell System Tech. J"
+    ],
+    "date": [
+      "1932"
+    ],
+    "pages": [
+      "126–47"
+    ],
+    "title": [
+      "Regeneration Theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "O.–1"
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "State Space Analysis of Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "O.–2"
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Solving Control Engineering Problems with MATLAB"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "O.–3"
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Designing Linear Control Systems with MATLAB"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "O.–4"
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Discrete-Time Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "O.–5"
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "System Dynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "884 References"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "O.–6"
+      },
+      {
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Pearson Prentice Hall"
+    ],
+    "title": [
+      "MATLAB for Control Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Phillips",
+        "given": "P.–1"
+      },
+      {
+        "family": "L.",
+        "given": "C."
+      },
+      {
+        "family": "Harbor",
+        "given": "R.D."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Feedback Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pontryagin",
+        "given": "P.–2"
+      },
+      {
+        "family": "S.",
+        "given": "L."
+      },
+      {
+        "family": "Boltyanskii",
+        "given": "V.G."
+      },
+      {
+        "family": "Gamkrelidze",
+        "given": "R.V."
+      },
+      {
+        "family": "Mishchenko",
+        "given": "E.F."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "The Mathematical Theory of Optimal Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "R–1 Rekasius, Z.V.,“A"
+      }
+    ],
+    "container-title": [
+      "IRE Trans. Automatic Control"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "217–22"
+    ],
+    "title": [
+      "General Performance Index for Analytical Design of Control Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rowell",
+        "given": "R.–2"
+      },
+      {
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "and D.Wormley, System Dynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "S.–1"
+      },
+      {
+        "family": "C.",
+        "given": "W."
+      },
+      {
+        "family": "Rideout",
+        "given": "V.C."
+      }
+    ],
+    "container-title": [
+      "IRE Trans. Automatic Control"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "22–35"
+    ],
+    "title": [
+      "Control System Performance Measures: Past, Present, and Future"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "S.–2"
+      },
+      {
+        "family": "J",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Electronics: Circuits and Devices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Staats",
+        "given": "S.–3"
+      },
+      {
+        "family": "F",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1966-03"
+    ],
+    "genre": [
+      "Plan B paper,"
+    ],
+    "publisher": [
+      "Dept. of Mech. Eng., University of Minnesota"
+    ],
+    "title": [
+      "A Survey of Adaptive Control Topics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "S.–4"
+      },
+      {
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press, Inc"
+    ],
+    "title": [
+      "Linear Algebra and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Truxal",
+        "given": "T.–1"
+      },
+      {
+        "family": "G",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1955"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "Automatic Feedback Systems Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Umez-Eronini",
+        "given": "U.–1"
+      },
+      {
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Pacific Grove, CA"
+    ],
+    "publisher": [
+      "Brooks兾Cole Publishing Company"
+    ],
+    "title": [
+      "System Dynamics and Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Valkenburg",
+        "given": "V.–1"
+      },
+      {
+        "family": "E",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Network Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Landingham",
+        "given": "V.–2",
+        "particle": "Van"
+      },
+      {
+        "family": "F.",
+        "given": "H."
+      },
+      {
+        "family": "Blackwell",
+        "given": "W.A."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "publisher": [
+      "Educational Monograph, College of Engineering, Oklahoma State University"
+    ],
+    "title": [
+      "Controller Design for Nonlinear and Time-Varying Plants"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Webster",
+        "given": "W.–1"
+      },
+      {
+        "family": "G",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Wiley Encyclopedia of Electrical and Electronics Engineering"
+    ],
+    "type": "book",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcox",
+        "given": "W.–2"
+      },
+      {
+        "family": "B",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "IRE Trans. Automatic Control"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "55–67"
+    ],
+    "title": [
+      "Analysis and Synthesis of Dynamic Performance of Industrial Organizations—The Application of Feedback Control Techniques to Organizational Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Willems",
+        "given": "W.–3"
+      },
+      {
+        "family": "C.",
+        "given": "J."
+      },
+      {
+        "family": "Mitter",
+        "given": "S.K."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "582–95"
+    ],
+    "title": [
+      "Controllability, Observability, Pole Allocation, and State Reconstruction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wojcik",
+        "given": "W.–4"
+      },
+      {
+        "family": "K",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "ASME J. Basic Engineering, ser. D"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "37–43"
+    ],
+    "title": [
+      "Analytical Representation of the Root Locus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "86"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wonham",
+        "given": "W.–5"
+      },
+      {
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "660–65"
+    ],
+    "title": [
+      "M.,“On Pole Assignment in Multi-Input Controllable Linear Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Z.–1"
+      },
+      {
+        "family": "K.",
+        "given": "J.C.Doyle"
+      },
+      {
+        "family": "Glover",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Robust and Optimal Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "Z.–2"
+      },
+      {
+        "family": "K."
+      },
+      {
+        "family": "Doyle",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Essentials of Robust Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ziegler",
+        "given": "Z.–3"
+      },
+      {
+        "family": "G.",
+        "given": "J."
+      },
+      {
+        "family": "Nichols",
+        "given": "N.B."
+      }
+    ],
+    "container-title": [
+      "ASME Trans"
+    ],
+    "date": [
+      "1942"
+    ],
+    "pages": [
+      "759–68"
+    ],
+    "title": [
+      "Optimum Settings for Automatic Controllers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "64"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Z–4 Ziegler, J. G., and N. B. Nichols,“Process"
+      }
+    ],
+    "container-title": [
+      "ASME Trans"
+    ],
+    "date": [
+      "1943"
+    ],
+    "pages": [
+      "433–44"
+    ],
+    "title": [
+      "Lags in Automatic Control Circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "note": [
+      "890 Index"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Openmirrors.com Root loci: State matrix, 31 general rules for constructing, 283–87 State observation: for positive-feedback system, 303–07 necessary and sufficient conditions for"
+    ],
+    "type": null
+  }
+]
