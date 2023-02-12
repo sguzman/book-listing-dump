@@ -1,0 +1,108 @@
+[
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Either would work. Answers to Self-Test Exercises 993"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "A major difference is that a vector container has random access iterators while a list has only bidirectional iterators"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "All except slist"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "vector and deque"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "They all can have mutable iterators"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "note": [
+      "If 'A' is not in s, then s.find('A') returns s.end()."
+    ],
+    "title": [
+      "If 'A' is in s, then s.find('A') returns an iterator located at the element 'A'"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "note": [
+      "as long as 1 ≤ N."
+    ],
+    "title": [
+      "Just note that aN + b ≤ (a + b)N"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Problem Solving with C++"
+    ],
+    "date": [
+      "2006",
+      "1953"
+    ],
+    "publisher": [
+      "More Than Human"
+    ],
+    "title": [
+      "The books entered so far, sorted alphabetically by author are: Savitch, Walter",
+      "Sturgeon, Theodore"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "container-title": [
+      "Problem Solving with C++"
+    ],
+    "date": [
+      "2006",
+      "1953"
+    ],
+    "location": [
+      "Theodore"
+    ],
+    "publisher": [
+      "Sturgeon",
+      "More Than Human"
+    ],
+    "title": [
+      "The books entered so far, sorted alphabetically by artist are: Kauffman, At Home in the Universe, 1996 Savitch, Walter"
+    ],
+    "type": "article-journal"
+  }
+]
