@@ -1,0 +1,56 @@
+[
+  {
+    "author": [
+      {
+        "family": "McConnel",
+        "given": "L.I.N.K.Steve"
+      }
+    ],
+    "note": [
+      "Martin, Clean Code"
+    ],
+    "title": [
+      "Code Complete https://www.amazon.com/Code-Complete-Practical-Handbook-Construc tion/dp/0735619670 LINK Robert C"
+    ],
+    "type": null,
+    "url": [
+      "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmansh"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McConnel",
+        "given": "L.I.N.K.Steve"
+      }
+    ],
+    "title": [
+      "Method for POST \"/object_template\": submitObjectTemplate :: AstroObjectTemplate -> Handler AstroObjectId"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McConnel",
+        "given": "L.I.N.K.Steve"
+      }
+    ],
+    "title": [
+      "Method for POST \"/orbital\": submitObjectOrbital :: AstroObjectId -> Orbital -> Handler AstroObjectId"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McConnel",
+        "given": "L.I.N.K.Steve"
+      }
+    ],
+    "title": [
+      "Method for POST \"/physical\": submitObjectPhysical :: AstroObjectId -> Physical -> Handler AstroObjectId"
+    ],
+    "type": null
+  }
+]

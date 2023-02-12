@@ -1,0 +1,2171 @@
+[
+  {
+    "note": [
+      "The bold references (e.g., [Abrahams96]) are hyperlinks in the online bibliography."
+    ],
+    "title": [
+      "Note: For browsing convenience, this bibliography is also available online at"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www.gotw.ca/pubHcations/c++cs/bibliography.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Abelson",
+        "given": "H."
+      },
+      {
+        "family": "Sussman",
+        "given": "G.J."
+      }
+    ],
+    "citation-number": [
+      "Abelson96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2\"d"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Structure and Interpretation of Computer Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Abrahams",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Abrahams96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "genre": [
+      "(STLport website,"
+    ],
+    "title": [
+      "Exception Safety in STLport"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Abrahams",
+        "given": "AbrahamsOla] D."
+      }
+    ],
+    "container-title": [
+      "Generic Programming: International Seminar on Generic Programming"
+    ],
+    "date": [
+      "April/May 1998"
+    ],
+    "editor": [
+      {
+        "family": "Jazayeri",
+        "given": "M."
+      },
+      {
+        "family": "Loos",
+        "given": "R."
+      },
+      {
+        "family": "Musser",
+        "given": "D."
+      }
+    ],
+    "location": [
+      "Dagstuhl Castle, Germany"
+    ],
+    "note": [
+      "Selected Papers, Lecture Notes in Computer Science 1766 (Springer, 2001)."
+    ],
+    "title": [
+      "Exception Safety in Generic Components"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Abrahams",
+        "given": "AbrahamsOlb] D."
+      }
+    ],
+    "note": [
+      "[Boost] website, 2001)."
+    ],
+    "title": [
+      "Error and Exception Handling"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuOOa] A."
+      }
+    ],
+    "date": [
+      "2000-04"
+    ],
+    "genre": [
+      "(C++ Report,"
+    ],
+    "issue": [
+      "4"
+    ],
+    "title": [
+      "Traits: The else-if-then of Types"
+    ],
+    "type": "report",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuOOb] A."
+      }
+    ],
+    "date": [
+      "2000-06"
+    ],
+    "genre": [
+      "(C++ Report,"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Traits on Steroids"
+    ],
+    "type": "report",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuOOc] A."
+      },
+      {
+        "family": "Marginean",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2000-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "title": [
+      "Change the Way You Write Exception-Safe Code—Forever"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "AlexandrescuOl ] A. Alexandrescu."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Modern C++ Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuOla] A."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "A Policy-Based basic_string Implementation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuO2a] A."
+      }
+    ],
+    "date": [
+      "2002-02"
+    ],
+    "genre": [
+      "(InformIT website,"
+    ],
+    "title": [
+      "Multithreading and the C++ Type System"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuO2b] A."
+      }
+    ],
+    "container-title": [
+      "Users Journal"
+    ],
+    "date": [
+      "April/June/August 2002"
+    ],
+    "issue": [
+      "C++",
+      "4,6,8"
+    ],
+    "title": [
+      "Discriminated Unions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C",
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuO3a] A."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2003-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Move Constructors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuO3b] A."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "title": [
+      "Assertions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuO3c] A."
+      },
+      {
+        "family": "Marginean",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Enforcements"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "AlexandrescuO3d] A."
+      },
+      {
+        "family": "Held",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2003-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "title": [
+      "Smart Pointers Reloaded"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "AlexandrescuO4"
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "title": [
+      "Lock-Free Data Structures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "C",
+        "given": "C.Allison"
+      },
+      {
+        "family": "Capsules",
+        "given": "C.++ Code"
+      }
+    ],
+    "citation-number": [
+      "Allison98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "M.H."
+      }
+    ],
+    "citation-number": [
+      "Austern99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Generic Programming and the STL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barton",
+        "given": "J."
+      },
+      {
+        "family": "Nackman",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "Barton94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Scientific and Engineering C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentley",
+        "given": "BentleyOO] J."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2\"d"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming Pearls"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "BetterSCM"
+      }
+    ],
+    "title": [
+      "Better SCM Initiative website"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boost",
+        "given": "Boost] C.++"
+      }
+    ],
+    "note": [
+      "The Mythical Man-Month (Addison-Wesley, 1975; [Brooks95] reprinted with corrections in 1995). D. Butenhof. Programming with POSIX Threads (Addison-[Butenhof97] Wesley, 1997)."
+    ],
+    "publisher": [
+      "F. Brooks"
+    ],
+    "title": [
+      "Boost Library Requirements and Guidelines\" (Boost web-[BoostLRGJ site"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cargill",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Cargill92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Programming Style"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "C90"
+    ],
+    "container-title": [
+      "ISO/IEC 9899:1990(E), Programming Languages — C (ISO C90 and ANSI C89 Standard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "C99"
+    ],
+    "note": [
+      "— C (revised ISO and ANSI C99 Standard)."
+    ],
+    "source": [
+      "ISO/IEC 9899:1999(E), Programming Languages"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "C++98"
+    ],
+    "container-title": [
+      "Programming Languages—C++"
+    ],
+    "editor": [
+      {
+        "given": "I.S.O."
+      },
+      {
+        "family": "Standard)",
+        "given": "A.N.S.I.C.++"
+      }
+    ],
+    "title": [
+      "ISO/IEC 14882:1998(E"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "I.S.O./I.E.C."
+      }
+    ],
+    "citation-number": [
+      "C++03"
+    ],
+    "date": [
+      "2004-11"
+    ],
+    "genre": [
+      "Technical Report on Standard Library Extensions (ISO C++ committee working document,"
+    ],
+    "note": [
+      "C++TR104] ISO/IEC JTC1/SC22/WG21/N1711. (Draft",
+      "to the C++ standard library due to be published in 2005, including shared_ptr."
+    ],
+    "title": [
+      "Programming Languages—C++ (updated ISO and ANSI C++ Standard including the contents of [C++98] plus errata corrections",
+      "This is a near-final draft of the extensions"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Cline",
+        "given": "M."
+      },
+      {
+        "family": "Lomow",
+        "given": "G."
+      },
+      {
+        "family": "FAQs",
+        "given": "M.Girou C.++"
+      }
+    ],
+    "citation-number": [
+      "Cline99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2\"d"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Constantine",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "Constantine95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Yourdon Press"
+    ],
+    "title": [
+      "Constantine on Peopleware"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Coplien92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Advanced C++ Programming Styles and Idioms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cormen",
+        "given": "CormenOl] T."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C."
+      },
+      {
+        "family": "Rivest",
+        "given": "R."
+      },
+      {
+        "family": "Stein",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "CVS] CVS home page."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cowan",
+        "given": "CowanOl] C."
+      },
+      {
+        "family": "Barringer",
+        "given": "M."
+      },
+      {
+        "family": "Beattie",
+        "given": "S."
+      },
+      {
+        "family": "Kroah-Hartman",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "{Proceedings of the 2001 USENIX Security Symposium"
+    ],
+    "date": [
+      "2001-08"
+    ],
+    "location": [
+      "Washington, D.C"
+    ],
+    "title": [
+      "FormatGuard: Automatic Protection From printf Format String Vulnerabilities"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gotchas",
+        "given": "S.Dewhurst C.++"
+      }
+    ],
+    "citation-number": [
+      "DewhurstO3"
+    ],
+    "date": [
+      "2003"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Dinkumware-Safe] Dinkumware Unabridged Library documentation (Dinkumware website)."
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "M."
+      },
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Ellis90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Annotated C++ Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Gamma95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "GnuMake] Gnu make (Gnu website)."
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "K. Henney",
+        "given": "GotW] H.Sutter Guru",
+        "particle": "of the Week column."
+      }
+    ],
+    "note": [
+      "HenneyOO] (EuroPLoP 2000 proceedings). K. Henney. \"C++ Patterns: Reference Accounting\""
+    ],
+    "title": [
+      "C++ Patterns: Executing Around Sequences"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "HenneyOl]"
+      },
+      {
+        "family": "Henney",
+        "given": "K."
+      },
+      {
+        "family": "Henney",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2001",
+      "2002-07"
+    ],
+    "genre": [
+      "(Application Develop-[HenneyO2a] ment Advisor,"
+    ],
+    "note": [
+      "Application Development"
+    ],
+    "pages": [],
+    "title": [
+      "Stringing Things Along",
+      "The Next Best String"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Advisor",
+        "given": "HenneyO2b]"
+      },
+      {
+        "family": "Henricson",
+        "given": "M."
+      },
+      {
+        "family": "Nyquist",
+        "given": "E."
+      },
+      {
+        "family": "Horstmann",
+        "given": "C.S."
+      }
+    ],
+    "date": [
+      "2002-10",
+      "1995"
+    ],
+    "note": [
+      "Horstmann95"
+    ],
+    "title": [
+      "Industrial Strength C++ (Pren-[Henricson97] tice Hall,1997",
+      "Safe STL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Standard Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Keffer",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Josuttis99"
+    ],
+    "title": [
+      "Rogue Wave C++ Design, Implementation, and Style"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Guide"
+      }
+    ],
+    "citation-number": [
+      "Keffer95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Pike",
+        "given": "R."
+      }
+    ],
+    "note": [
+      "son-Wesley, 1999)."
+    ],
+    "title": [
+      "The Practice of Programming (Addi-[Kernighan99"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1989-07-19"
+    ],
+    "note": [
+      "Software—Practice & Experi [Knuth89"
+    ],
+    "title": [
+      "The Errors of TeX"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "damental Algorithms"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "pages": [
+      "– 97"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Knuth97b] Semi-numerical Algorithms"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Knuth98"
+    ],
+    "container-title": [
+      "Sorting and Searching"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "A."
+      },
+      {
+        "family": "Moo",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Koenig97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Ruminations on C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lakos",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Lakos96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Large-Scale C++ Software Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liskov",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Liskov88"
+    ],
+    "container-title": [
+      "SIGPLAN Notices"
+    ],
+    "date": [
+      "1988-05"
+    ],
+    "issue": [
+      "5"
+    ],
+    "title": [
+      "Data Abstraction and Hierarchy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Martin96a] R.C."
+      }
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "genre": [
+      "(C++ Report, 8(5),"
+    ],
+    "title": [
+      "The Dependency Inversion Principle"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Martin96b] R.C."
+      }
+    ],
+    "date": [
+      "1996-10"
+    ],
+    "genre": [
+      "(C++ Report, 8(9),"
+    ],
+    "title": [
+      "Granularity"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Martin96c] R.C."
+      }
+    ],
+    "date": [
+      "1996-01"
+    ],
+    "genre": [
+      "(C++ Report, 8(1),"
+    ],
+    "title": [
+      "The Open-Closed Principle"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "Martin98"
+    ],
+    "container-title": [
+      "Pattern Languages of Program Design 3"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Martin",
+        "given": "R.C."
+      },
+      {
+        "family": "Riehle",
+        "given": "D."
+      },
+      {
+        "family": "Buschmann",
+        "given": "F."
+      }
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "MartinOO] R.C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Martin",
+        "given": "R.C."
+      }
+    ],
+    "note": [
+      "More C++ Gems (Cambridge University Press, 2000)."
+    ],
+    "title": [
+      "Abstract Classes and Pure Virtual Functions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McConnell",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "McConnell93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Code Complete"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Metrowerks",
+        "given": "Metrowerks]"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "MeyerOO] B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2'\"'"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Object-Oriented Software Construction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Meyers96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Meyers97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "MeyersOO] S."
+      }
+    ],
+    "note": [
+      "C/C++ Users journal, 18(2), February 2000)."
+    ],
+    "title": [
+      "How Non-Member Functions Improve Encapsulation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "MeyersOl] S."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective STL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      },
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "MeyersO4"
+    ],
+    "container-title": [
+      "Dr. Dobb's journal"
+    ],
+    "date": [
+      "2004-07"
+    ],
+    "issue": [
+      "7,8"
+    ],
+    "title": [
+      "C++ and the Perils of Double-Checked Locking, Part 1\" and \"...Part 2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Action",
+        "given": "MilewskiOl] B.Milewski C.++ In"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "G.A."
+      }
+    ],
+    "citation-number": [
+      "Miller56"
+    ],
+    "container-title": [
+      "The Psychological Review"
+    ],
+    "date": [
+      "1956"
+    ],
+    "title": [
+      "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "MozillaCRFAQ"
+      }
+    ],
+    "genre": [
+      "(Mozilla website)."
+    ],
+    "title": [
+      "Frequently Asked Questions About mozilla.org's Code Review Process"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Murray",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Murray93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Strategies and Tactics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Musser",
+        "given": "MusserOl] D.R."
+      },
+      {
+        "family": "Derge",
+        "given": "G.J."
+      },
+      {
+        "family": "Saini",
+        "given": "A."
+      }
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "Addison-Wesley, 2001)."
+    ],
+    "title": [
+      "STL Tutorial and Reference Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Parnas",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "ParnasO2"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Software Pioneers",
+      "New York"
+    ],
+    "publisher": [
+      "Contributions To Software Engineering, Springer-Verlag"
+    ],
+    "title": [
+      "The Secret History of Information Hiding"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Peters",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Peters99"
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "title": [
+      "The Zen of Python"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Piwowarski",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Piwowarski82"
+    ],
+    "note": [
+      "ACM SIGPLAN Notices, 9/1982)."
+    ],
+    "title": [
+      "A Nesting Level Complexity Measure"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Saks",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Saks99"
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "issue": [
+      "4,5,6"
+    ],
+    "note": [
+      "April, May, and June 1999)."
+    ],
+    "title": [
+      "Thinking Deeply,\" \"Thinking Deeper,\" and \"Thinking Even Deeper"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "SchmidtOl] D."
+      },
+      {
+        "family": "Stal",
+        "given": "M."
+      },
+      {
+        "family": "Rohnert",
+        "given": "H."
+      },
+      {
+        "family": "Buschmann",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Patterns for Concurrent and Networked Objects (Wiley"
+    ],
+    "title": [
+      "Pattern-Oriented Software Architecture"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "SeamonkeyCR"
+      }
+    ],
+    "genre": [
+      "(Mozilla website)."
+    ],
+    "title": [
+      "Seamonkey Code Reviewer's Guide"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Sedgewick",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Sedgewick98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fomitchev",
+        "given": "STLport-Debug] B."
+      }
+    ],
+    "genre": [
+      "(STLport website)."
+    ],
+    "title": [
+      "STLport: Debug Mode"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Stroustrup94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "StroustrupOO] B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "Special 3\"1"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "Sutter99"
+    ],
+    "note": [
+      "Guru of the Week #61)."
+    ],
+    "title": [
+      "ACID Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "SutterOO] H."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Exceptional C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "SutterO2"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Exceptional C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "SutterO3"
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2003-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "title": [
+      "Generalizing Observer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Style",
+        "given": "H.Sutter Exceptional C.++"
+      }
+    ],
+    "citation-number": [
+      "SutterO4"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "193"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "SutterO4a] H."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2004-07"
+    ],
+    "issue": [
+      "7"
+    ],
+    "title": [
+      "Function Types"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "SutterO4b] H."
+      }
+    ],
+    "container-title": [
+      "{C/C++ Users Journal"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "title": [
+      "When and How To Use Exceptions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "SutterO4c] H."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2004-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "title": [
+      "'Just Enough' Thread Safety"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "SutterO4d] H."
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal",
+      "Sutter and J. Hyslop. \"Hungarian wartHogs\""
+    ],
+    "date": [
+      "2004-11"
+    ],
+    "issue": [
+      "11"
+    ],
+    "note": [
+      "C/C++ Users"
+    ],
+    "title": [
+      "How to Provide (or Avoid) Points of Customization in Templates",
+      "H"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "Hyslop",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "SuttHyslOl] Journal"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "issue": [
+      "11"
+    ],
+    "title": [
+      "A Midsummer Night's Madness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C./C.++"
+      },
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "Hyslop",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "SuttHyslO2"
+    ],
+    "container-title": [
+      "Users Journal"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "title": [
+      "Sharing Causes Contention"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C./C.++"
+      },
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "Hyslop",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "SuttHyslO3"
+    ],
+    "container-title": [
+      "Users Journal"
+    ],
+    "date": [
+      "2003-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "C/C++ Users"
+    ],
+    "title": [
+      "Getting Abstractions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "Hyslop",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "SuttHyslO4a] Journal"
+    ],
+    "date": [
+      "2004-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "location": [
+      "C/C"
+    ],
+    "title": [
+      "Collecting Shared Objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tsai",
+        "given": "T."
+      },
+      {
+        "family": "Singh",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "SuttHyslO4b"
+    ],
+    "container-title": [
+      "Users Journal"
+    ],
+    "date": [
+      "2004-08",
+      "1994"
+    ],
+    "issue": [
+      "8"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Taligent's Guide to Designing Programs",
+      "Libsafe 2.0: Detection of Format String"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Exploits\"",
+        "given": "TsaiOl] Vulnerability"
+      }
+    ],
+    "date": [
+      "2001-03"
+    ],
+    "editor": [
+      {
+        "family": "Vandevoorde",
+        "given": "D."
+      },
+      {
+        "family": "Templates",
+        "given": "N.Josuttis C.++"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Addison-Wesley"
+      }
+    ],
+    "citation-number": [
+      "Vandevoorde03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Webber",
+        "given": "A.B."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Beedle & Associates"
+    ],
+    "title": [
+      "Modern Programming Languages: A Practical In-[WebberO3] troduction (Franklin"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Summary of Summaries"
+    ],
+    "type": null
+  }
+]
