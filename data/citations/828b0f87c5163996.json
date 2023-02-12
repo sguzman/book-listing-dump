@@ -1,0 +1,6748 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "methods for assessing the in ̄uence on estimator performance of sensor location and type and the number of sensors, 7. methods for top-down hierarchical system-level error budgeting, and"
+    ],
+    "title": [
+      "methods for detecting and correcting anomalous behavior of estimators, 2. predicting and detecting the effects of mismodeling and poor unobservability, 3. evaluation of suboptimal ®lters (using dual-state ®lters) and sensitivity analysis methods, 4. comparison of memory, throughput, and worldlength requirements for alternative implementation methods, 5. methods for decreasing computational requirements, 6"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "demonstration of the application of square-root ®ltering techniques to an INS-aided GPS navigator"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "the conventional Kalman ®lter, as published by R. E. Kalman"
+      },
+      {
+        "family": "Joseph",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "J. Bierman"
+    ],
+    "note": [
+      "Joseph-stabilized implementation as modi®ed by T. W. DeVries; 6. the Potter algorithm (due to J. E. Potter); 7. the Carlson ``triangular'' algorithm (N. A. Carlson); 8. the Bierman ``UD'' algorithm (G. J. Bierman); and"
+    ],
+    "title": [
+      "2. Swerling inverse implementation, published by P. Swerling before the Kalman ®lter; 3. Joseph-stabilized implementation as given by P",
+      "4. Joseph-stabilized implementation as modi®ed by G"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "the closed-form solution for this particular problem"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "B.D.O."
+      },
+      {
+        "family": "Moore",
+        "given": "J.B."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Books on Kalman Filtering and Its Applications 1",
+      "Optimal Filtering"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1971"
+    ],
+    "editor": [
+      {
+        "family": "Ansher",
+        "given": "R.N."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Physics and Beyond, Harper & Row"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Mathematical System Theory, The In ̄uence of R. E"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Antoulas",
+        "given": "A.C."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Kalman, Springer-Verlag"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Balakrishnan",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Kalman Filtering Theory, Optimization Software"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Battin",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Astronautical Guidance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Battin",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "American Institute of Aeronautics and Astronautics"
+    ],
+    "title": [
+      "An Introduction to the Mathematics and Methods of Astrodynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bierman",
+        "given": "G.J."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Factorization Methods for Discrete Sequential Estimation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blakelock",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Automatic Control of Aircraft and Missiles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bozic",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital and Kalman Filtering: An Introduction to Discrete-Time Filtering and Optimal Linear Estimation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "K. Brammer and G. Sif ̄ing"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Norwood, MA"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Kalman-Bucy Filters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R.G."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introduction to Random Signal Analysis and Kalman Filtering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R.G."
+      },
+      {
+        "family": "Hwang",
+        "given": "P.Y.C."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introduction to Random Signals and Applied Kalman Filtering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "R.G."
+      },
+      {
+        "family": "Hwhang",
+        "given": "P.Y.C."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introduction to Random Signals and Applied Kalman Filtering: With MATLAB Exercises and Solutions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bryson",
+        "given": "A.E.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Ho",
+        "given": "Y.-C."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Blaisdell, Waltham, MA"
+    ],
+    "title": [
+      "Applied Optimal Control"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bucy",
+        "given": "R.S."
+      },
+      {
+        "family": "Joseph",
+        "given": "P.D."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Filtering for Stochastic Processes, with Applications to Guidance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Catlin",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Estimation, Control, and the Discrete Kalman Filter"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "H.F."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Recursive Estimation and Control for Stochastic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chui",
+        "given": "C.K."
+      },
+      {
+        "family": "Chen",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Kalman Filtering with Real-Time Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "K.L."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harcourt Brace"
+    ],
+    "title": [
+      "A Course in Probability Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "M.H.A."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Linear Estimation and Stochastic Control, Halsted"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "A. Gelb, J. F. Kasper, Jr., R. A. Nash, Jr., C. F. Price, and A. A. Sutherland, Jr."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Applied Optimal Estimation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      },
+      {
+        "family": "Weill",
+        "given": "L.R."
+      },
+      {
+        "family": "Andrews",
+        "given": "A.P."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Global Positioning Systems, Inertial Navigation and Integration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jazwinski",
+        "given": "A.H."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Stochastic Processes and Filtering Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Lectures on Weiner and Kalman Filtering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Stroudsburg, PA"
+    ],
+    "publisher": [
+      "Hutchinson and Ross"
+    ],
+    "title": [
+      "Linear Least Squares Estimation, Dowden"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "Systems and Control Encyclopedia"
+    ],
+    "date": [
+      "1984"
+    ],
+    "editor": [
+      {
+        "family": "Singh",
+        "given": "M.G."
+      }
+    ],
+    "location": [
+      "Pergamon, Elmsford, NY"
+    ],
+    "title": [
+      "``State-space modelling: Square root algorithms,''"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kwaknernaak",
+        "given": "H."
+      },
+      {
+        "family": "Sivan",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Linear Optimal Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "1983"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C.T."
+      }
+    ],
+    "genre": [
+      "Parts 1±3,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Nonlinear and Kalman Filtering Techniques",
+      "Academic"
+    ],
+    "title": [
+      "Control and Dynamic Systems"
+    ],
+    "type": null,
+    "volume": [
+      "Vols. 19±21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "F.H."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Optimal Estimation with an Introduction to Stochastic Control Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maybeck",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Estimation, and Control"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Stochastic Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maybeck",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "container-title": [
+      "Estimation, and Control"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Stochastic Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Melsa",
+        "given": "J.L."
+      },
+      {
+        "family": "Cohen",
+        "given": "D.L."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Decision and Estimation Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendel",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Discrete Techniques of Parameter Estimation: The Equation Error Formulation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mendel",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "title": [
+      "Lessons in Digital Estimation Techniques, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mendel",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "IEEE Individual Learning Package"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "``Kalman ®ltering and other digital estimation techniques.''"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nahi",
+        "given": "N.E."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1969",
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "reprinted by Krieger,"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Estimation Theory and Applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Nevelson",
+        "given": "M.B."
+      },
+      {
+        "family": "Hazminskii",
+        "given": "R.Z."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "container-title": [
+      "American Mathematical Society., Transl. Math. Mono"
+    ],
+    "date": [
+      "1971"
+    ],
+    "issue": [
+      "47"
+    ],
+    "location": [
+      "Chicago"
+    ],
+    "title": [
+      "Stochastic Approximation and Recursive Estimation"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Ogata",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "State Space Analysis of Control Systems, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Papoulis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Probability, Random Variables, and Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parzen",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Holden-Day"
+    ],
+    "title": [
+      "Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pinson",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "Guidance and Control of Aerospace Vehicles"
+    ],
+    "date": [
+      "1963"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C.T."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "``Inertial guidance for cruise vehicles,''"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruymgaart",
+        "given": "P.A."
+      },
+      {
+        "family": "Soong",
+        "given": "T.T."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Mathematics of Kalman-Bucy Filtering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "G.T."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "container-title": [
+      "Control and Dynamic Systems"
+    ],
+    "date": [
+      "1976"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C.T."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "``Linear and nonlinear ®ltering techniques,''"
+    ],
+    "type": "chapter",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schultz",
+        "given": "D.G."
+      },
+      {
+        "family": "Melsa",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "State Functions and Linear Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "S.F."
+      }
+    ],
+    "citation-number": [
+      "45."
+    ],
+    "container-title": [
+      "Advances in Control Systems"
+    ],
+    "date": [
+      "1966"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C.T."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "``Applications of state-space methods to navigation problems,''"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sorenson",
+        "given": "H.W."
+      }
+    ],
+    "citation-number": [
+      "46."
+    ],
+    "container-title": [
+      "Advances in Control Systems"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "219 292"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "``Kalman ®ltering techniques,''"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "citation-number": [
+      "47."
+    ],
+    "container-title": [
+      "Theory and Application"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Sorenson",
+        "given": "H.W."
+      },
+      {
+        "family": "Ed.",
+        "given": "Kalman Filtering"
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Stengel",
+        "given": "R.F."
+      }
+    ],
+    "citation-number": [
+      "48."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Stochastic Optimal Control: Theory and Application"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Willsky",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Digital Signal Processing and Control and Estimation Theory: Points of Tangency, Areas of Intersection, and Parallel Directions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Young",
+        "given": "P.C."
+      }
+    ],
+    "citation-number": [
+      "50."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Recursive Estimation and Time Series"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Books on Mathematical Foundations for the Kalman Filter"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "51."
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Stochastic Differential Equations: Theory and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Baras",
+        "given": "J."
+      },
+      {
+        "family": "Mirelli",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "52."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Recent Advances in Stochastic Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Billingsley",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "53."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Probability and Measure"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bittanti",
+        "given": "S."
+      },
+      {
+        "family": "Laub",
+        "given": "A.J."
+      },
+      {
+        "family": "Willems",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "54."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Riccati Equation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bodewig",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "55."
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "North-Holland"
+    ],
+    "title": [
+      "Matrix Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brockett",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "56."
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Finite Dimensional Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coddington",
+        "given": "E.A."
+      },
+      {
+        "family": "Levinson",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "57."
+    ],
+    "date": [
+      "1955"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Theory of Ordinary Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Davenport",
+        "given": "W.D."
+      },
+      {
+        "family": "Root",
+        "given": "W.L."
+      }
+    ],
+    "citation-number": [
+      "58."
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Random Signals and Noise"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DeRusso",
+        "given": "P.M."
+      },
+      {
+        "family": "Roy",
+        "given": "R.J."
+      },
+      {
+        "family": "Close",
+        "given": "C.M."
+      }
+    ],
+    "citation-number": [
+      "59."
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "State Variables for Engineers, Wiley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dubes",
+        "given": "R.C."
+      }
+    ],
+    "citation-number": [
+      "60."
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "The Theory of Applied Probability, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gamkrelidze",
+        "given": "R.V."
+      },
+      {
+        "given": "Ser"
+      }
+    ],
+    "citation-number": [
+      "61."
+    ],
+    "container-title": [
+      "Dynamical Systems III",
+      "Encyclopedia of Mathematical Sciences"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "Arnold",
+        "given": "V.I."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gantmacher",
+        "given": "F.R."
+      }
+    ],
+    "citation-number": [
+      "62."
+    ],
+    "container-title": [
+      "The Theory of Matrices"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Chelsea, New York"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "63."
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Theory of Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ItoÃ",
+        "given": "K."
+      },
+      {
+        "family": "McKean",
+        "given": "H.P.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "64."
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Diffusion Processes and Their Sample Paths"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "65."
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Linear Systems, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Karatzas",
+        "given": "I."
+      },
+      {
+        "family": "Shreve",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "66."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Brownian Motion and Stochastic Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "J. H. Laning, Jr., and R. H. Battin"
+      }
+    ],
+    "citation-number": [
+      "67."
+    ],
+    "date": [
+      "1956"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Random Processes in Automatic Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LoeÁve",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "68."
+    ],
+    "date": [
+      "1963"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostrand Reinhold"
+    ],
+    "title": [
+      "Probability Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Luke",
+        "given": "Y.L."
+      }
+    ],
+    "citation-number": [
+      "69."
+    ],
+    "container-title": [
+      "The Special Functions and Their Approximations"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "70."
+    ],
+    "container-title": [
+      "Collected Works"
+    ],
+    "date": [
+      "1976"
+    ],
+    "editor": [
+      {
+        "family": "Masani",
+        "given": "P."
+      },
+      {
+        "family": "Ed.",
+        "given": "Norbert Weiner"
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "type": "chapter",
+    "volume": [
+      "Vols. 1±4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Masani",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "71."
+    ],
+    "container-title": [
+      "Norbert Wiener: Collected Works"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "``The life and work of Norbert Wiener,''"
+    ],
+    "type": "chapter",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "K.S."
+      }
+    ],
+    "citation-number": [
+      "72."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Krieger, Malabar, FL"
+    ],
+    "title": [
+      "Some Eclectic Matrix Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rao",
+        "given": "M.M."
+      }
+    ],
+    "citation-number": [
+      "73."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "``Probability,'' in Encyclopedia of Physical Science and Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reid",
+        "given": "W.T."
+      }
+    ],
+    "citation-number": [
+      "74."
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Riccati Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schweppe",
+        "given": "F.C."
+      }
+    ],
+    "citation-number": [
+      "75."
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Uncertain Dynamic Systems, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Searle",
+        "given": "S.R."
+      }
+    ],
+    "citation-number": [
+      "76."
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Linear Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sobczyk",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "77."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Dordrecht"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Stochastic Differential Equations with Applications to Physics and Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stratonovich",
+        "given": "R.L."
+      }
+    ],
+    "citation-number": [
+      "78."
+    ],
+    "date": [
+      "1963"
+    ],
+    "editor": [
+      {
+        "family": "Silverman",
+        "given": "R.A."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Gordon & Breach"
+    ],
+    "title": [
+      "Topics in the Theory of Random Noise"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zadeh",
+        "given": "L.A."
+      },
+      {
+        "family": "Desoer",
+        "given": "C.A."
+      }
+    ],
+    "citation-number": [
+      "79."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Linear System Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ZurmuÈhl",
+        "given": "R."
+      },
+      {
+        "given": "Matrizen"
+      }
+    ],
+    "citation-number": [
+      "80."
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Books on Numerical Methods"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Acton",
+        "given": "F.S."
+      }
+    ],
+    "citation-number": [
+      "81."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Washington DC",
+      "New York"
+    ],
+    "note": [
+      "edition published by Harper & Rowe,"
+    ],
+    "publisher": [
+      "Mathematical Association of America"
+    ],
+    "title": [
+      "Numerical Methods That Usually Work"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "E."
+      },
+      {
+        "family": "Bai",
+        "given": "Z."
+      },
+      {
+        "family": "Bischof",
+        "given": "C."
+      },
+      {
+        "family": "Demmel",
+        "given": "J."
+      },
+      {
+        "family": "Dongarra",
+        "given": "J."
+      },
+      {
+        "family": "Croz",
+        "given": "J.",
+        "particle": "Du"
+      },
+      {
+        "family": "Greenbvaum",
+        "given": "A."
+      },
+      {
+        "family": "Hammerling",
+        "given": "S."
+      },
+      {
+        "family": "McKenney",
+        "given": "A."
+      },
+      {
+        "family": "Ostrouchov",
+        "given": "S."
+      },
+      {
+        "family": "Sorensen",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "82."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "Guide, Society for Industrial and Applied Mathematics"
+    ],
+    "title": [
+      "LAPACK Users'"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahlquist",
+        "given": "G."
+      },
+      {
+        "family": "BjoÈrck",
+        "given": "A.Ê."
+      }
+    ],
+    "citation-number": [
+      "83."
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Numerical Methods"
+    ],
+    "translator": [
+      {
+        "literal": "N. Anderson, Trans.), Prentice-Hall"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dongarra",
+        "given": "J.J."
+      },
+      {
+        "family": "Moler",
+        "given": "C.B."
+      },
+      {
+        "family": "Bunch",
+        "given": "J.R."
+      },
+      {
+        "family": "Stewart",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "84."
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "Society for Industrial and Applied Mathematics"
+    ],
+    "title": [
+      "LINPACK Users' Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Forsythe",
+        "given": "G.E."
+      },
+      {
+        "family": "Malcolm",
+        "given": "M.A."
+      },
+      {
+        "family": "Moler",
+        "given": "C.B."
+      }
+    ],
+    "citation-number": [
+      "85."
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Methods for Mathematical Computations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gauss",
+        "given": "C.F."
+      }
+    ],
+    "citation-number": [
+      "86."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Theory of Motion of the Heavenly Bodies (English translation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gauss",
+        "given": "C.F."
+      }
+    ],
+    "citation-number": [
+      "87."
+    ],
+    "date": [
+      "1887"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "title": [
+      "Abhandlungen zur Methode der kleinsten Quadrate"
+    ],
+    "translator": [
+      {
+        "family": "Borsch",
+        "given": "German A."
+      },
+      {
+        "family": "Simon)",
+        "given": "P."
+      },
+      {
+        "family": "Stankiewicz",
+        "given": "P."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gear",
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "88."
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Numerical Initial Value Problems in Ordinary Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "Loan",
+        "given": "C.F.",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "89."
+    ],
+    "date": [
+      "1989"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Baltimore, MD"
+    ],
+    "publisher": [
+      "Johns Hopkins University Press"
+    ],
+    "title": [
+      "Matrix Computations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kahaner",
+        "given": "D."
+      },
+      {
+        "family": "Moler",
+        "given": "C."
+      },
+      {
+        "family": "Nash",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "90."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Numerical Methods and Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lawson",
+        "given": "C.L."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "91."
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Solving Least Squares Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nash",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "92."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Bristol"
+    ],
+    "publisher": [
+      "Adam Hilger"
+    ],
+    "title": [
+      "Compact Numerical Methods for Computers: Linear Algebra and Function Minimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W.H."
+      },
+      {
+        "family": "Flannery",
+        "given": "B.P."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S.A."
+      },
+      {
+        "family": "Vettering",
+        "given": "W.T."
+      }
+    ],
+    "citation-number": [
+      "93."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in FORTRAN"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ralston",
+        "given": "A."
+      },
+      {
+        "family": "Rabinowitz",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "94."
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "A First Course in Numerical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stoer",
+        "given": "J."
+      },
+      {
+        "family": "Bulirsh",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "95."
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Introduction to Numerical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Huffel",
+        "given": "S.",
+        "particle": "Van"
+      },
+      {
+        "family": "Vanderwalle",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "96."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "title": [
+      "The Total Least Squares Problem: Computational Aspects and Analysis, Society for Industrial and Applied Mathematics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Miscellaneous Books 97. R. M. L. Baker and M. W. Makemson"
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "An Introduction to Astrodynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jenkins",
+        "given": "G.M."
+      },
+      {
+        "family": "Watts",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "98."
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Holden-Day"
+    ],
+    "title": [
+      "Spectral Analysis and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "99."
+    ],
+    "date": [
+      "1981"
+    ],
+    "editor": [
+      {
+        "family": "Weiner",
+        "given": "Norbert"
+      },
+      {
+        "family": "Works",
+        "given": "Collected"
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "``Equations of Wiener-Hopf type in ®ltering theory and related applications,''"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schwartz",
+        "given": "M."
+      },
+      {
+        "family": "Shaw",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "100."
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Signal Processing, Discrete Spectral Analysis, Detection, and Estimation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strachey",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "101."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Penguin Books"
+    ],
+    "title": [
+      "Eminent Victorians"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Struik",
+        "given": "D.J."
+      }
+    ],
+    "citation-number": [
+      "102."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "A Concise History of Mathematics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "103."
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "note": [
+      "originally published in 1949 as Extrapolation, Interpolation, and Smoothing of Stationary Time Series with Engineering Applications)."
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Time Series"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "104."
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Ex-Pridigy: My Childhood and Youth"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      },
+      {
+        "family": "Mathematician",
+        "given": "I.Am",
+        "particle": "a"
+      }
+    ],
+    "citation-number": [
+      "105."
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Agee",
+        "given": "W.S."
+      },
+      {
+        "family": "Turner",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "106."
+    ],
+    "container-title": [
+      "Rep"
+    ],
+    "date": [
+      "1972-10"
+    ],
+    "issue": [
+      "38"
+    ],
+    "title": [
+      "Triangular Decomposition of a Positive De®nite Matrix Plus a Symmetric Dyad, with Applications to Kalman Filtering, White Sands Missile Range Tech"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Std",
+        "given": "A.N.S.I.=I.E.E.E."
+      }
+    ],
+    "citation-number": [
+      "107."
+    ],
+    "date": [
+      "1985",
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "The Institute of Electrical and Electronics Engineers"
+    ],
+    "title": [
+      "IEEE Standard for Binary Floating-Point Arithmetic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Center",
+        "given": "J.L."
+      },
+      {
+        "family": "D'Appolito",
+        "given": "J.A."
+      },
+      {
+        "family": "Marcus",
+        "given": "S.I."
+      }
+    ],
+    "citation-number": [
+      "108."
+    ],
+    "date": [
+      "1974-08"
+    ],
+    "genre": [
+      "Tech. Rep., TASC TR-316-4-2,"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "The Analytic Sciences Corporation"
+    ],
+    "title": [
+      "Reduced-Order Estimators and Their Application to Aircraft Navigation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Eskow",
+        "given": "E."
+      },
+      {
+        "family": "Schnabel",
+        "given": "R.B."
+      }
+    ],
+    "citation-number": [
+      "109."
+    ],
+    "container-title": [
+      "Collected Algorithms of the ACM, Association for Computing Machinery"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "``Algorithm 695: Software for a new modi®ed Cholesky factorization,''"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DiPietro",
+        "given": "R.C."
+      },
+      {
+        "family": "Farrar",
+        "given": "F.A."
+      }
+    ],
+    "citation-number": [
+      "110."
+    ],
+    "date": [
+      "1976"
+    ],
+    "genre": [
+      "Rep. No. R76-140268-1,"
+    ],
+    "location": [
+      "East Hartford, CT"
+    ],
+    "publisher": [
+      "United Technologies Research Center"
+    ],
+    "title": [
+      "Comparative Evaluation of Numerical Methods for Solving the Algebraic Matrix Riccati Equation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "DuPlessis",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "111."
+    ],
+    "container-title": [
+      "Rep"
+    ],
+    "date": [
+      "1967"
+    ],
+    "issue": [
+      "QN014239"
+    ],
+    "location": [
+      "Anaheim, CA"
+    ],
+    "publisher": [
+      "North American Rockwell, Autonetics Division"
+    ],
+    "title": [
+      "Poor Man's Explanation of Kalman Filtering, or How I Stopped Worrying and Learned to Love Matrix Inversion"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      },
+      {
+        "family": "Andrews",
+        "given": "A.P."
+      }
+    ],
+    "citation-number": [
+      "112."
+    ],
+    "container-title": [
+      "INS, & Navigation (Notes), Kalman Filtering Consulting Associates"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Anaheim, CA"
+    ],
+    "title": [
+      "Application of Kalman Filtering to GPS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "ItoÃ",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "113."
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "Bombay, India"
+    ],
+    "publisher": [
+      "Tata Institute of Fundamental Research"
+    ],
+    "title": [
+      "Lectures on Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "114."
+    ],
+    "date": [
+      "1954"
+    ],
+    "genre": [
+      "S.M. thesis,"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Dept. of Electrical Engineering, Massachusetts Institute of Technology"
+    ],
+    "title": [
+      "Phase-Plane Analysis of Nonlinear Sampled-Data Servomechanisms"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaminski",
+        "given": "P.G."
+      }
+    ],
+    "citation-number": [
+      "115."
+    ],
+    "date": [
+      "1971"
+    ],
+    "genre": [
+      "Ph.D. thesis,"
+    ],
+    "publisher": [
+      "Stanford University"
+    ],
+    "title": [
+      "Square Root Filtering and Smoothing for Discrete Processes"
+    ],
+    "type": "thesis"
+  },
+  {
+    "citation-number": [
+      "116."
+    ],
+    "container-title": [
+      "AGARDograph"
+    ],
+    "date": [
+      "1970-02"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C.T."
+      }
+    ],
+    "issue": [
+      "139"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "NATO Advisory Group for Aerospace Research and Development"
+    ],
+    "title": [
+      "Theory and Applications of Kalman Filtering"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "117."
+    ],
+    "container-title": [
+      "AGARDograph"
+    ],
+    "date": [
+      "1982"
+    ],
+    "editor": [
+      {
+        "family": "Leondes",
+        "given": "C.T."
+      }
+    ],
+    "issue": [
+      "256"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "NATO Advisory Group for Aerospace Research and Development"
+    ],
+    "title": [
+      "Advances in the Techniques and Technology of the Application of Nonlinear Filters and Kalman Filters"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "McGee",
+        "given": "L.A."
+      },
+      {
+        "family": "Schmidt",
+        "given": "S.F."
+      }
+    ],
+    "citation-number": [
+      "118."
+    ],
+    "date": [
+      "1985-11"
+    ],
+    "genre": [
+      "Technical Memorandum 86847,"
+    ],
+    "title": [
+      "Discovery of the Kalman Filter as a Practical Tool for Aerospace and Industry, National Aeronautics and Space Administration"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Potter",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "119."
+    ],
+    "container-title": [
+      "Report"
+    ],
+    "date": [
+      "1965",
+      "1965"
+    ],
+    "issue": [
+      "CR-270"
+    ],
+    "publisher": [
+      "National Aeronautics and Space Administration"
+    ],
+    "title": [
+      "A Matrix Equation Arising in Statistical Estimation Theory"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Rankin",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "120."
+    ],
+    "date": [
+      "1986"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Ames, IA"
+    ],
+    "publisher": [
+      "Iowa State University"
+    ],
+    "title": [
+      "Kalman Filtering Approach to Market Price Forecasting"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "J.M."
+      },
+      {
+        "family": "Marsh",
+        "given": "K.A."
+      }
+    ],
+    "citation-number": [
+      "121."
+    ],
+    "container-title": [
+      "Rockwell International First Annual Signal Processing Conference Proceedings"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "266 279"
+    ],
+    "title": [
+      "``Nonlinear ®ltering theory and its applications,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "122."
+    ],
+    "date": [
+      "1976-05"
+    ],
+    "editor": [
+      {
+        "family": "Schmidt",
+        "given": "G.T."
+      }
+    ],
+    "genre": [
+      "AGARD±LS± 82,"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "NATO Advisory Group for Aerospace Research and Development"
+    ],
+    "title": [
+      "Practical Aspects of Kalman Filtering Implementation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "S.F."
+      }
+    ],
+    "citation-number": [
+      "123."
+    ],
+    "date": [
+      "1970-02"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "NATO Advisory Group for Aerospace Research and Development"
+    ],
+    "title": [
+      "``Computational techniques in Kalman ®ltering,'' in Theory and Applications of Kalman Filtering, AGARDograph 139"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Thornton",
+        "given": "C.L."
+      }
+    ],
+    "citation-number": [
+      "124."
+    ],
+    "date": [
+      "1976"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "publisher": [
+      "University of California at Los Angeles, School of Engineering"
+    ],
+    "title": [
+      "Triangular Covariance Factorizations for Kalman Filtering"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Thornton",
+        "given": "C.L."
+      },
+      {
+        "family": "Bierman",
+        "given": "G.J."
+      }
+    ],
+    "citation-number": [
+      "125."
+    ],
+    "date": [
+      "1976"
+    ],
+    "genre": [
+      "JPL Technical Memorandum 33-771,"
+    ],
+    "location": [
+      "Pasadena"
+    ],
+    "title": [
+      "A Numerical Comparison of Discrete Kalman Filtering Algorithms: An Orbit Determination Case Study"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Widnall",
+        "given": "W.S."
+      },
+      {
+        "family": "Grundy",
+        "given": "P.A."
+      }
+    ],
+    "citation-number": [
+      "126."
+    ],
+    "date": [
+      "1973-05"
+    ],
+    "genre": [
+      "Tech. Rep. TR-03-73,"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Intermetrics"
+    ],
+    "title": [
+      "Inertial Navigation System Error Models"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodbury",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "127."
+    ],
+    "date": [
+      "1950"
+    ],
+    "genre": [
+      "Memorandum Report 42,"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Statistical Research Group, Princeton University"
+    ],
+    "title": [
+      "Inverting Modi®ed Matrices"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Allan",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "128."
+    ],
+    "container-title": [
+      "IEEE Proceedings"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "221 230,"
+    ],
+    "title": [
+      "``Statistics of atomic frequency standards,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "B.D.O."
+      }
+    ],
+    "citation-number": [
+      "129."
+    ],
+    "container-title": [
+      "International Journal of Control"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "295 306,"
+    ],
+    "title": [
+      "``Second-order convergent algorithms for the steady-state Riccati equation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "130."
+    ],
+    "container-title": [
+      "AIAA Journal"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "1165 1166,"
+    ],
+    "title": [
+      "``A square root formulation of the Kalman covariance equations,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "131."
+    ],
+    "container-title": [
+      "AIAA Journal of Guidance and Control"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "95 96,"
+    ],
+    "title": [
+      "``Marginal optimization of observation schedules,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Asher",
+        "given": "R.B."
+      },
+      {
+        "family": "Maybeck",
+        "given": "P.S."
+      },
+      {
+        "family": "Mitchell",
+        "given": "R.A.K."
+      }
+    ],
+    "citation-number": [
+      "132."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference Decision and Control"
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Houston, TX"
+    ],
+    "pages": [
+      "439 446"
+    ],
+    "title": [
+      "``Filtering for precision pointing and tracking with application for aircraft to satellite tracking,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Athans",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "133."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Guest Eds., ``Special issue on linear-quadratic-Gaussian problem,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bass",
+        "given": "R.W."
+      },
+      {
+        "family": "Norum",
+        "given": "V.D."
+      },
+      {
+        "family": "Schwartz",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "134."
+    ],
+    "container-title": [
+      "Journal of Mathematical Analysis and Applications"
+    ],
+    "date": [
+      "1966"
+    ],
+    "title": [
+      "``Optimal multichannel nonlinear ®ltering,''"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Battin",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "135."
+    ],
+    "container-title": [
+      "AIAA Journal of Guidance and Control"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "97 110,"
+    ],
+    "title": [
+      "``Space guidance evolutionÐa personal narrative,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bellantoni",
+        "given": "J.F."
+      },
+      {
+        "family": "Dodge",
+        "given": "K.W."
+      }
+    ],
+    "citation-number": [
+      "136."
+    ],
+    "container-title": [
+      "AIAA Journal"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "1309 1314,"
+    ],
+    "title": [
+      "``A square root formulation of the Kalman-Schmidt ®lter,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benedict",
+        "given": "T.R."
+      },
+      {
+        "family": "Bordner",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "137."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "27 32,"
+    ],
+    "title": [
+      "``Synthesis of an optimal set of radar track-while scan smoothing equation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bennet",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "138."
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "217 221,"
+    ],
+    "title": [
+      "``Triangular factors of modi®ed matrices,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benoit",
+        "given": "Commandant"
+      }
+    ],
+    "citation-number": [
+      "139."
+    ],
+    "container-title": [
+      "Bulletin GeÂodeÃsique et GeÂophysique Internationale"
+    ],
+    "date": [
+      "1924"
+    ],
+    "location": [
+      "Toulouse"
+    ],
+    "pages": [
+      "67 77,"
+    ],
+    "title": [
+      "``Sur une meÂthode de reÂsolution des eÂquations normales provenant de l'application de la meÂthode des moindes carreÂs a un systeÁme d'eÂquations lineÂaires en numbre infeÂrieur a celui des inconnuesÐapplication de la meÂthode a la resolution d'un systeÁme de®ni d'eÂquations lineÂaires (ProceÂdeÂ du Commandant Cholesky),''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bierman",
+        "given": "G.J."
+      }
+    ],
+    "citation-number": [
+      "140."
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "503 561,"
+    ],
+    "title": [
+      "``A new computationally ef®cient ®xed-interval discrete time smoother,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.Ê."
+      }
+    ],
+    "citation-number": [
+      "141."
+    ],
+    "container-title": [
+      "BIT"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "1 21,"
+    ],
+    "title": [
+      "BjoÈrck, ``Solving least squares problems by orthogonalization,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bletzacker",
+        "given": "F.R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "142."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Los Alamitos, CA"
+    ],
+    "publisher": [
+      "Computing Applications Software Technology Technical Papers"
+    ],
+    "title": [
+      "``Kalman ®lter design for integration of Phase III GPS with an inertial navigation system,''"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bode",
+        "given": "H.W."
+      },
+      {
+        "family": "Shannon",
+        "given": "C.E."
+      }
+    ],
+    "citation-number": [
+      "143."
+    ],
+    "container-title": [
+      "IRE Proceedings"
+    ],
+    "date": [
+      "1950"
+    ],
+    "pages": [
+      "417 425,"
+    ],
+    "title": [
+      "``A simpli®ed derivation of linear least-squares smoothing and prediction,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Botto",
+        "given": "J.-L."
+      },
+      {
+        "family": "Moustakides",
+        "given": "G.V."
+      }
+    ],
+    "citation-number": [
+      "144."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech and Signal Processing"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "1342 1348,"
+    ],
+    "title": [
+      "``Stabilizing the fast Kalman ®lter algorithms,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brodie",
+        "given": "K."
+      },
+      {
+        "family": "Eller",
+        "given": "D."
+      },
+      {
+        "family": "Seibert",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "145."
+    ],
+    "container-title": [
+      "Proceedings of the 1985 Winter Simulation Conference"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Gantz",
+        "given": "D."
+      },
+      {
+        "family": "Glais",
+        "given": "G."
+      },
+      {
+        "family": "Solomon",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "pages": [
+      "605 609,"
+    ],
+    "title": [
+      "``Performance analysis of integrated navigation systems,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "A. E. Bryson, Jr., and D. E. Johansen"
+      }
+    ],
+    "citation-number": [
+      "146."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "4 10,"
+    ],
+    "title": [
+      "``Linear ®ltering for time-varying systems using measurements containing colored noise,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bucy",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "147."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "198 206,"
+    ],
+    "title": [
+      "``Nonlinear ®ltering theory,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bucy",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "148."
+    ],
+    "container-title": [
+      "Journal of Mathematical Analysis Applications"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "1 8,"
+    ],
+    "title": [
+      "``Optimal ®ltering for correlated noise.''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carlson",
+        "given": "N.A."
+      }
+    ],
+    "citation-number": [
+      "149."
+    ],
+    "container-title": [
+      "AIAA Journal"
+    ],
+    "date": [
+      "1973"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1259 1265,"
+    ],
+    "title": [
+      "``Fast triangular formulation of the square root ®lter,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "G."
+      },
+      {
+        "family": "Chui",
+        "given": "C.K."
+      }
+    ],
+    "citation-number": [
+      "150."
+    ],
+    "container-title": [
+      "IEEE Transactions on Aerospace and Electronic Systems"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "149 154,"
+    ],
+    "title": [
+      "``A modi®ed adaptive Kalman ®lter for real-time applications,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Choe",
+        "given": "C.Y."
+      },
+      {
+        "family": "Tapley",
+        "given": "B.D."
+      }
+    ],
+    "citation-number": [
+      "151."
+    ],
+    "container-title": [
+      "AIAA Journal"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "681 683,"
+    ],
+    "title": [
+      "``A new method for propagating the square root covariance in triangular form,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Choi",
+        "given": "C.H."
+      },
+      {
+        "family": "Laub",
+        "given": "A.J."
+      }
+    ],
+    "citation-number": [
+      "152."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "770 776,"
+    ],
+    "title": [
+      "``Ef®cient matrix-valued algorithms for solving stiff differential Riccati equations,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "153."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "5 12,"
+    ],
+    "title": [
+      "``On the estimation of state variables and parameters for noisy dynamic systems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davison",
+        "given": "E.J."
+      },
+      {
+        "family": "Maki",
+        "given": "M.C."
+      }
+    ],
+    "citation-number": [
+      "154."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "71 73,"
+    ],
+    "title": [
+      "``The numerical solution of the matrix Riccati differential equation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dieci",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "155."
+    ],
+    "container-title": [
+      "SIAM Journal of Numerical Analysis"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "781 815,"
+    ],
+    "title": [
+      "``Numerical integration of the differential Riccati equation and some related issues,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dyer",
+        "given": "P."
+      },
+      {
+        "family": "McReynolds",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "156."
+    ],
+    "container-title": [
+      "Journal of Optimization Theory and Applications"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "444 458,"
+    ],
+    "title": [
+      "``Extension of square-root ®ltering to include process noise,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Einstein",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "157."
+    ],
+    "container-title": [
+      "Annelen der Physik"
+    ],
+    "date": [
+      "1905"
+    ],
+    "pages": [
+      "549 560,"
+    ],
+    "title": [
+      "``U È ber die von molekularkinetischen Theorie der WaÈrme geforderte Bewegung von in ruhenden FluÈssigkeiten suspendierten Teilchen,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fath",
+        "given": "A.F."
+      }
+    ],
+    "citation-number": [
+      "158."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "547 550,"
+    ],
+    "title": [
+      "``Computational aspects of the linear optimal regulator problem,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fitzgerald",
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "159."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "736 743,"
+    ],
+    "title": [
+      "``Divergence of the Kalman ®lter,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fokker",
+        "given": "A.D."
+      }
+    ],
+    "citation-number": [
+      "160."
+    ],
+    "container-title": [
+      "Annelen der Physik"
+    ],
+    "date": [
+      "1914"
+    ],
+    "pages": [
+      "810 820,"
+    ],
+    "title": [
+      "``Die mittlerer Energie rotierender elektrischer Dipole im Strahlungsfeld,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fortmann",
+        "given": "T.E."
+      }
+    ],
+    "citation-number": [
+      "161."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "599,"
+    ],
+    "title": [
+      "``A matrix inversion identity,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gaston",
+        "given": "F.M."
+      },
+      {
+        "family": "Irwin",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "162."
+    ],
+    "container-title": [
+      "IEE Proceedings"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "235 244,"
+    ],
+    "title": [
+      "``Systolic Kalman ®ltering: An overview,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "137"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gentleman",
+        "given": "W.M."
+      }
+    ],
+    "citation-number": [
+      "163."
+    ],
+    "container-title": [
+      "Journal of the Institute for Mathematical Applications"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "329 336,"
+    ],
+    "title": [
+      "``Least squares computations by Givens transformations without square roots,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Givens",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "164."
+    ],
+    "container-title": [
+      "Journal of the Society for Industrial and Applied Mathematics"
+    ],
+    "date": [
+      "1958"
+    ],
+    "pages": [
+      "26 50,"
+    ],
+    "title": [
+      "``Computation of plane unitary rotations transforming a general matrix to triangular form,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      }
+    ],
+    "citation-number": [
+      "165."
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "206 216,"
+    ],
+    "title": [
+      "``Numerical methods for solving linear least squares problems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      },
+      {
+        "family": "Payne",
+        "given": "H.J."
+      }
+    ],
+    "citation-number": [
+      "166."
+    ],
+    "container-title": [
+      "IEEE Transactions on Systems, Man, and Cybernetics"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "176 185,"
+    ],
+    "title": [
+      "``Identi®cation of parameters in a freeway traf®c model,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SMC-6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      }
+    ],
+    "citation-number": [
+      "167."
+    ],
+    "container-title": [
+      "Proceedings of PLANS '86ÐPosition Location and Navigation Symposium, Las Vegas, NV"
+    ],
+    "date": [
+      "1986-11-04",
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "``Application of Kalman ®ltering to the calibration and alignment of inertial navigation systems,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      },
+      {
+        "family": "Miyasako",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "168."
+    ],
+    "container-title": [
+      "Proceedings of Eighteenth Joint Services Conference on Data Exchange for Inertial Systems"
+    ],
+    "date": [
+      "1986-10-28",
+      "1986"
+    ],
+    "location": [
+      "San Diego, CA",
+      "San Diego, CA"
+    ],
+    "publisher": [
+      "IEEE Joint Services Data Exchange"
+    ],
+    "title": [
+      "``Gyro compliance estimation in the calibration and alignment of inertial measurement units,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      },
+      {
+        "family": "Miyasako",
+        "given": "R.S."
+      },
+      {
+        "family": "Smith",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "169."
+    ],
+    "container-title": [
+      "Proceedings of IEEE PLANS '88ÐPosition Location and Navigation Symposium"
+    ],
+    "date": [
+      "Nov",
+      "1988",
+      "1988"
+    ],
+    "location": [
+      "Orlando, FL",
+      "New York"
+    ],
+    "pages": [
+      "476 479,"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "``Application of ®xed point smoothing to the calibration, alignment, and navigation data of inertial navigation systems,''"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "29±Dec. 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grewal",
+        "given": "M.S."
+      },
+      {
+        "family": "Henderson",
+        "given": "V.D."
+      },
+      {
+        "family": "Miyasako",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "170."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "4 13,"
+    ],
+    "title": [
+      "``Application of Kalman ®ltering to the calibration and alignment of inertial navigation systems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heffes",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "171."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "541 543,"
+    ],
+    "title": [
+      "``The effects of erroneous models on the Kalman ®lter response,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Householder",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "172."
+    ],
+    "container-title": [
+      "Journal of the Association for Computing Machinery"
+    ],
+    "date": [
+      "1958"
+    ],
+    "pages": [
+      "339 342,"
+    ],
+    "title": [
+      "``Unitary triangularization of a nonsymmetric matrix,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Huddle",
+        "given": "J.R."
+      },
+      {
+        "family": "Wismer",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "173."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "421 423,"
+    ],
+    "title": [
+      "``Degradation of linear ®lter performance due to modeling error,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jordan",
+        "given": "T.L."
+      }
+    ],
+    "citation-number": [
+      "174."
+    ],
+    "container-title": [
+      "Mathematics of Computation"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "579 588,"
+    ],
+    "title": [
+      "``Experiments on error growth associated with some linear least-squares procedures,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jover",
+        "given": "J.M."
+      },
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "175."
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "783 786,"
+    ],
+    "title": [
+      "``A parallel architecture for Kalman ®lter measurement update and parameter update,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "176."
+    ],
+    "container-title": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1974"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "146 181,"
+    ],
+    "title": [
+      "``A view of three decades of linear ®ltering theory,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "177."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "646 655,"
+    ],
+    "title": [
+      "``An innovations approach to least squares estimation, Part I: Linear ®ltering in additive white noise,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kailath",
+        "given": "T."
+      },
+      {
+        "family": "Geesey",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "178."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "720 726,"
+    ],
+    "title": [
+      "``An innovations approach to least squares estimationÐPart IV: Recursive estimation given lumped covariance functions,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "179."
+    ],
+    "container-title": [
+      "ASME Journal of Basic Engineering"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "34 45,"
+    ],
+    "title": [
+      "``A new approach to linear ®ltering and prediction problems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "180."
+    ],
+    "container-title": [
+      "Proceedings of the Symposium on Engineering Applications of Random Function Theory and Probability"
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "Wiley, New York"
+    ],
+    "title": [
+      "``New methods and results in linear prediction and ®ltering theory,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      },
+      {
+        "family": "Bucy",
+        "given": "Richard S."
+      }
+    ],
+    "citation-number": [
+      "181."
+    ],
+    "container-title": [
+      "ASME Journal of Basic Engineering, Series D"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "95 108,"
+    ],
+    "title": [
+      "``New results in linear ®ltering and prediction theory,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "83"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "182."
+    ],
+    "container-title": [
+      "Proceeding of the First Symposium on Engineering Applications of Random Function Theory and Probability"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Wiley, New York"
+    ],
+    "title": [
+      "``New methods in Wiener ®ltering,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "P. G. Kaminski, A. E. Bryson, Jr., and S. F. Schmidt"
+      }
+    ],
+    "citation-number": [
+      "183."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "727 736,"
+    ],
+    "title": [
+      "``Discrete square root ®ltering: A survey of current techniques,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kao",
+        "given": "M.H."
+      },
+      {
+        "family": "Eller",
+        "given": "D.H."
+      }
+    ],
+    "citation-number": [
+      "184."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "``Multicon®guration Kalman ®lter design for highperformance GPS navigation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kenney",
+        "given": "C.S."
+      },
+      {
+        "family": "Liepnik",
+        "given": "R.B."
+      }
+    ],
+    "citation-number": [
+      "185."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "962 970"
+    ],
+    "title": [
+      "``Numerical integration of the differential matrix Riccati equation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Klein",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "186."
+    ],
+    "container-title": [
+      "AIAA Guidance and Control Conference"
+    ],
+    "date": [
+      "1976-08"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "title": [
+      "``Navigation software design for the user segment of the NAVSTAR GPS,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kolmogorov",
+        "given": "A.A."
+      }
+    ],
+    "citation-number": [
+      "187."
+    ],
+    "container-title": [
+      "Mathematische Annelen"
+    ],
+    "date": [
+      "1931"
+    ],
+    "pages": [
+      "415 458,"
+    ],
+    "title": [
+      "U È ber die analytichen Methoden in der Wahrscheinlichkeitsrechnung,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "104"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Konstantinov",
+        "given": "M.M."
+      },
+      {
+        "family": "Pelova",
+        "given": "G.B."
+      }
+    ],
+    "citation-number": [
+      "188."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "213 215,"
+    ],
+    "title": [
+      "``Sensitivity of the solutions to differential matrix Riccati equations,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kreindler",
+        "given": "E."
+      },
+      {
+        "family": "Sarachik",
+        "given": "P.E."
+      }
+    ],
+    "citation-number": [
+      "189."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "129 136,"
+    ],
+    "title": [
+      "``On the concepts of controllability and observability of linear systems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kruczynski",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "190."
+    ],
+    "container-title": [
+      "Global Positioning System: Papers Published in Navigation, Institute of Navigation",
+      "Journal of the Institute of Navigation"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Alexandria, VA"
+    ],
+    "title": [
+      "``Aircraft navigation with the limited operational phase of the Navstar Global Positioning System,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kushner",
+        "given": "H.J."
+      }
+    ],
+    "citation-number": [
+      "191."
+    ],
+    "container-title": [
+      "SIAM Journal on Control, Ser. A"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "106 119,"
+    ],
+    "title": [
+      "``On the differential equations satis®ed by conditional probability densities of Markov processes,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lainiotis",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "192."
+    ],
+    "container-title": [
+      "Information Sciences"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "191 202,"
+    ],
+    "title": [
+      "``Estimation: A brief survey,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laub",
+        "given": "A.J."
+      }
+    ],
+    "citation-number": [
+      "193."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "913 921,"
+    ],
+    "title": [
+      "``A Schur method for solving algebraic Riccati equations,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Legendre",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "194."
+    ],
+    "container-title": [
+      "Memoires Institute de France"
+    ],
+    "date": [
+      "1810"
+    ],
+    "pages": [
+      "149 154,"
+    ],
+    "title": [
+      "``Methode de moindres quarres, pour trouver le milieu de plus probable entre les resultats des differentes obvservations,''"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Levinson",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "195."
+    ],
+    "container-title": [
+      "Bulletin of the American Mathematical Society"
+    ],
+    "date": [
+      "1966"
+    ],
+    "issue": [
+      "1, Pt. II"
+    ],
+    "pages": [
+      "1 32,"
+    ],
+    "title": [
+      "``Wiener's Life,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ljung",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "196."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "36 50,"
+    ],
+    "title": [
+      "``Asymptotic behavior of the extended Kalman ®lter as a parameter estimator for linear systems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacFarlane",
+        "given": "A.G.J."
+      }
+    ],
+    "citation-number": [
+      "197."
+    ],
+    "container-title": [
+      "Journal of Electronic Control"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "643 654,"
+    ],
+    "title": [
+      "``An eigenvector solution of the optimal linear regulator,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matchett",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "198."
+    ],
+    "container-title": [
+      "IEEE National Aerospace and Electronics Conference"
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "``GPS-aided shuttle navigation,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McReynolds",
+        "given": "S.R."
+      }
+    ],
+    "citation-number": [
+      "199."
+    ],
+    "container-title": [
+      "AIAA Journal of Guidance, Control, and Dynamics"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "913 921,"
+    ],
+    "title": [
+      "``Fixed interval smoothing: Revisited,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maybeck",
+        "given": "P.S."
+      },
+      {
+        "family": "Reid",
+        "given": "J.G."
+      },
+      {
+        "family": "Lutter",
+        "given": "R.N."
+      }
+    ],
+    "citation-number": [
+      "200."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Conference on Decision and Control"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New Orleans, LA"
+    ],
+    "pages": [
+      "1192 1195"
+    ],
+    "title": [
+      "``Application of an extended Kalman ®lter to an advanced ®re control system,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meditch",
+        "given": "J.S."
+      }
+    ],
+    "citation-number": [
+      "201."
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "151 162,"
+    ],
+    "title": [
+      "``A survey of data smoothing for linear and nonlinear systems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mehra",
+        "given": "R.K."
+      }
+    ],
+    "citation-number": [
+      "202."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "307 319,"
+    ],
+    "title": [
+      "``A comparison of several nonlinear ®lters for reentry vehicle tracking,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mendel",
+        "given": "J.M."
+      },
+      {
+        "family": "Geiseking",
+        "given": "D.L."
+      }
+    ],
+    "citation-number": [
+      "203."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "847 869,"
+    ],
+    "title": [
+      "``Bibliography on the linear-quadratic-Gaussian problem,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Morf",
+        "given": "M."
+      },
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "204."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "487 497,"
+    ],
+    "title": [
+      "``Square root algorithms for least squares estimation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moler",
+        "given": "C."
+      },
+      {
+        "family": "Loan",
+        "given": "C.",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "205."
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "801 836,"
+    ],
+    "title": [
+      "``Nineteen dubious ways to compute the exponential of a matrix,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PadeÂ",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "206."
+    ],
+    "container-title": [
+      "Annals d'eÂcoles"
+    ],
+    "title": [
+      "``Sur la reÂpreÂsentation approcheÂe d'une fonction par des fractions rationelle,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9s Suppl., 1892"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Planck",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "207."
+    ],
+    "date": [
+      "1917"
+    ],
+    "pages": [
+      "324 341,"
+    ],
+    "publisher": [
+      "KoÈnig. Preussischen Akademie der Wissenschaft"
+    ],
+    "title": [
+      "U È ber einen Satz der statistischen Dynamik und seine Erweiterung in der Quantentheorie,'' Sitzungsberichte d"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Potter",
+        "given": "J.E."
+      },
+      {
+        "family": "Stern",
+        "given": "R.G."
+      }
+    ],
+    "citation-number": [
+      "208."
+    ],
+    "container-title": [
+      "Proceedings of 1963 AIAA Guidance and Control Conference"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "AIAA, New York"
+    ],
+    "title": [
+      "``Statistical ®ltering of space navigation measurements,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Potter",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "209."
+    ],
+    "container-title": [
+      "SIAM Journal of Applied Mathematics"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "496 501,"
+    ],
+    "title": [
+      "``Matrix quadratic solutions,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Poubelle",
+        "given": "M.-A."
+      },
+      {
+        "family": "Petersen",
+        "given": "I.R."
+      },
+      {
+        "family": "Gevers",
+        "given": "M.R."
+      },
+      {
+        "family": "Bitmead",
+        "given": "R.R."
+      }
+    ],
+    "citation-number": [
+      "210."
+    ],
+    "container-title": [
+      "F. Riccati,'' IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "651 654,"
+    ],
+    "title": [
+      "``A miscellany of results on an equation of Count J"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Price",
+        "given": "C.F."
+      },
+      {
+        "family": "Warren",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "211."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "699 702,"
+    ],
+    "title": [
+      "``An analysis of the divergence problem in the Kalman ®lter,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rauch",
+        "given": "H.E."
+      },
+      {
+        "family": "Tung",
+        "given": "F."
+      },
+      {
+        "family": "Striebel",
+        "given": "C.T."
+      }
+    ],
+    "citation-number": [
+      "212."
+    ],
+    "container-title": [
+      "AIAA Journal"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "1445 1450,"
+    ],
+    "title": [
+      "``Maximum likelihood estimates of linear dynamic systems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Riccati",
+        "given": "J.F."
+      }
+    ],
+    "citation-number": [
+      "213."
+    ],
+    "container-title": [
+      "Acta Eruditorum Quae Lipside Publicantur Supplementa"
+    ],
+    "date": [
+      "1724"
+    ],
+    "pages": [
+      "66 73,"
+    ],
+    "title": [
+      "``Animadversationnes in aequationes differentiales secundi gradus,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Richardson",
+        "given": "J.M."
+      },
+      {
+        "family": "Marsh",
+        "given": "K.A."
+      }
+    ],
+    "citation-number": [
+      "214."
+    ],
+    "container-title": [
+      "Proceedings of the 1991 Symposium on Maximum Entropy and Bayesian Methods"
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Seattle University"
+    ],
+    "title": [
+      "``Point process theory and the surveillance of many objects,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Schlee",
+        "given": "F.H."
+      },
+      {
+        "family": "Standish",
+        "given": "C.J."
+      },
+      {
+        "family": "Toda",
+        "given": "N.F."
+      }
+    ],
+    "citation-number": [
+      "215."
+    ],
+    "container-title": [
+      "AIAA Journal"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "1114 1120,"
+    ],
+    "title": [
+      "``Divergence in the Kalman ®lter,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "S.F."
+      }
+    ],
+    "citation-number": [
+      "216."
+    ],
+    "container-title": [
+      "AIAA Journal of Guidance and Control"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "4 7,"
+    ],
+    "title": [
+      "``The Kalman ®lter: Its recognition and development for aerospace applications,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schweppe",
+        "given": "F.C."
+      }
+    ],
+    "citation-number": [
+      "217."
+    ],
+    "container-title": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "61 70,"
+    ],
+    "title": [
+      "``Evaluation of likelihood functions for Gaussian signals,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IT-11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sherman",
+        "given": "J."
+      },
+      {
+        "family": "Morrison",
+        "given": "W.J."
+      }
+    ],
+    "citation-number": [
+      "218."
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1950"
+    ],
+    "pages": [
+      "124 127,"
+    ],
+    "title": [
+      "``Adjustment of an inverse matrix corresponding to a change in one element of a given matrix,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "219."
+    ],
+    "container-title": [
+      "IEEE Transactions on Aerospace and Electronic Systems"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "473 483,"
+    ],
+    "title": [
+      "``Estimating optimal tracking ®lter performance for manned maneuvering targets,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AES-6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R.A."
+      },
+      {
+        "family": "Behnke",
+        "given": "K.W."
+      }
+    ],
+    "citation-number": [
+      "220."
+    ],
+    "container-title": [
+      "IEEE Transactions on Aerospace and Electronic Systems"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "100 110,"
+    ],
+    "title": [
+      "``Real-time tracking ®lter evaluation and selection for tactical applications,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AES-7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "221."
+    ],
+    "container-title": [
+      "IEEE Transactions on Aerospace Electronic Systems"
+    ],
+    "date": [
+      "1970"
+    ],
+    "title": [
+      "``Estimating optimal tracking ®lter performance for manned maneuvering targets,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AES-6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Slepian",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "222."
+    ],
+    "container-title": [
+      "IRE Transactions on Information Theory"
+    ],
+    "date": [
+      "1954"
+    ],
+    "pages": [
+      "68 69,"
+    ],
+    "title": [
+      "``Estimation of signal parameters in the presence of noise,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IT-3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sorenson",
+        "given": "H.W."
+      }
+    ],
+    "citation-number": [
+      "223."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "557 562,"
+    ],
+    "title": [
+      "``On the error behavior in linear minimum variance estimation problems,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sorenson",
+        "given": "H.W."
+      }
+    ],
+    "citation-number": [
+      "224."
+    ],
+    "container-title": [
+      "Spectrum"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "63 68,"
+    ],
+    "title": [
+      "``Least-squares estimation: From Gauss to Kalman,''IEEE"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sorenson",
+        "given": "H.W."
+      }
+    ],
+    "citation-number": [
+      "225."
+    ],
+    "container-title": [
+      "Information Sciences"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "253 270,"
+    ],
+    "title": [
+      "``On the development of practical nonlinear ®lters,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stratovovich",
+        "given": "R.L."
+      }
+    ],
+    "citation-number": [
+      "226."
+    ],
+    "container-title": [
+      "Radio Engineering and Electronic Physics"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "1 19,"
+    ],
+    "title": [
+      "``Application of the theory of Markoff processes in optimal signal discrimination,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Swerling",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "227."
+    ],
+    "container-title": [
+      "Journal of Astronautical Sciences"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "46 52,"
+    ],
+    "title": [
+      "``First order error propagation in a stagewise differential smoothing procedure for satellite observations,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Strassen",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "228."
+    ],
+    "container-title": [
+      "Numerische Matematik"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "354,"
+    ],
+    "title": [
+      "``Gaussian elimination is not optimal,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sudharsanan",
+        "given": "S.I."
+      },
+      {
+        "family": "Sundhareshan",
+        "given": "M.K."
+      }
+    ],
+    "citation-number": [
+      "229."
+    ],
+    "container-title": [
+      "Proceedings of a Joint Conference on Neural Networks"
+    ],
+    "date": [
+      "1989-06"
+    ],
+    "location": [
+      "Washington DC",
+      "New York"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "``Neural network computational algorithms for least squares estimation problems,''"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Upadhyay",
+        "given": "T.M."
+      },
+      {
+        "family": "Damoulakis",
+        "given": "J.G."
+      }
+    ],
+    "citation-number": [
+      "230."
+    ],
+    "container-title": [
+      "IEEE Transactions on Aerospace Electronics Systems"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "481 491,"
+    ],
+    "title": [
+      "``Sequential piecewise recursive ®lter for GPS low dynamics navigation,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AES-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vanbegin",
+        "given": "M."
+      },
+      {
+        "family": "Dooren",
+        "given": "P.",
+        "particle": "Van"
+      },
+      {
+        "family": "Verhaegen",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "231."
+    ],
+    "container-title": [
+      "ACM Transactions on Mathematical Software"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "243 256,"
+    ],
+    "title": [
+      "``Algorithm 675: FORTRAN subroutines for computing the square root covariance ®lter and square root information ®lter in dense or Hessenberg forms,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Verhaegen",
+        "given": "M."
+      },
+      {
+        "family": "Dooren",
+        "given": "P.",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "232."
+    ],
+    "container-title": [
+      "IEEE Transactions on Automatic Control"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "907 917,"
+    ],
+    "title": [
+      "``Numerical aspects of different Kalman ®lter implementations,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ward",
+        "given": "R.C."
+      }
+    ],
+    "citation-number": [
+      "233."
+    ],
+    "container-title": [
+      "SIAM Journal of Numerical Analysis"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "600 611,"
+    ],
+    "title": [
+      "``Numerical computation of the matrix exponential with accuracy estimate,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Watanabe",
+        "given": "K."
+      },
+      {
+        "family": "Tzafestas",
+        "given": "S.G."
+      }
+    ],
+    "citation-number": [
+      "234."
+    ],
+    "container-title": [
+      "''IEE Proceedings"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "73 78,"
+    ],
+    "title": [
+      "``New computationally ef®cient formula for backwardpass ®xed interval smoother and its UD factorization algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "136D"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wiberg",
+        "given": "D.M."
+      },
+      {
+        "family": "Campbell",
+        "given": "L.A."
+      }
+    ],
+    "citation-number": [
+      "235."
+    ],
+    "container-title": [
+      "Proceedings of the IFAC Identi®cation and System Parameter Identi®cation Symposium"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "140 144,"
+    ],
+    "title": [
+      "``A discrete-time convergent approximation of the optimal recursive parameter estimator,''"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Widnall",
+        "given": "W.S."
+      },
+      {
+        "family": "Sinha",
+        "given": "P.K."
+      }
+    ],
+    "citation-number": [
+      "236."
+    ],
+    "container-title": [
+      "AIAA Journal of Guidance and Control"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "172 178,"
+    ],
+    "title": [
+      "``Optimizing the gains of the baro-inertial vertical channel,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zadeh",
+        "given": "L.A."
+      },
+      {
+        "family": "Ragazzini",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "237."
+    ],
+    "container-title": [
+      "Journal of Applied Physics"
+    ],
+    "date": [
+      "1950"
+    ],
+    "pages": [
+      "645 655,"
+    ],
+    "title": [
+      "``An extension of Wiener's theory of prediction,''",
+      "Index"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Langevin, P., 57 Inverarity, G., xviii Lanning, J. H."
+      },
+      {
+        "family": "Laplace",
+        "given": "P.S."
+      }
+    ],
+    "container-title": [
+      "L",
+      "Marquis de"
+    ],
+    "note": [
+      "62 derivative, 379 Laub, A. J., xviii Moore±Penrose, 362 Lawson, C. H., 264"
+    ],
+    "pages": [
+      "298",
+      "361",
+      "11,"
+    ],
+    "title": [
+      "Instability of the Kalman ®lter, 209, 271± Lamport",
+      "14 Inverse of matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "xviii 272",
+      "208",
+      "6"
+    ]
+  }
+]

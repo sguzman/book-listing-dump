@@ -1,0 +1,23 @@
+[
+  {
+    "author": [
+      {
+        "family": "Serial.begin",
+        "given": "Start Serial"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "displayConnectionDetails();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.print(F(\"\\nIP Addr: \")); cc3000.printIPdotsRev(ipAddress); Serial.print(F(\"\\nNetmask: \")); cc3000.printIPdotsRev(netmask); Serial.print(F(\"\\nGateway: \")); cc3000.printIPdotsRev(gateway); Serial.print(F(\"\\nDHCPsrv: \")); cc3000.printIPdotsRev(dhcpserv); Serial.print(F(\"\\nDNSserv: \")); cc3000.printIPdotsRev(dnsserv); Serial.println(); return true; "
+    ],
+    "type": null
+  }
+]
