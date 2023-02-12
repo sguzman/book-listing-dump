@@ -1,0 +1,481 @@
+[
+  {
+    "container-title": [
+      "S"
+    ],
+    "issue": [
+      "00"
+    ],
+    "note": [
+      "/usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "title": [
+      "# ps ax | grep ntop 1878 ?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "1879"
+    ],
+    "container-title": [
+      "? S 0:00 /usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1880"
+    ],
+    "container-title": [
+      "? S 0:00 /usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1881"
+    ],
+    "container-title": [
+      "? S 0:00 /usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1882"
+    ],
+    "container-title": [
+      "? S 0:00 /usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1883"
+    ],
+    "container-title": [
+      "? S 0:00 /usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1884"
+    ],
+    "container-title": [
+      "? S 0:00 /usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "1885"
+    ],
+    "container-title": [
+      "/usr/local/bin/ntop -d -P /home/ntop -u ntop -L -a /h #"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "genre": [
+      "export PATH=$PATH:/usr/java/j2sdk1.4.1_01/bin"
+    ],
+    "type": null
+  },
+  {
+    "author": [],
+    "title": [
+      "Phase II: connect Point-To-Point links"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.0897069"
+    ],
+    "title": [
+      "TCP host 3 src={0.0.0.3:10001} dest={0.0.0.14:1600} Active Open"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.0902842"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600} dest={0.0.0.3:10001} SYN recvd SSFNet 361"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.9199429"
+    ],
+    "title": [
+      "TCP host 2 src={0.0.0.2:10001} dest={0.0.0.14:1600} Active Open"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.9204565"
+    ],
+    "title": [
+      "TCP host 1 src={0.0.0.1:10001} dest={0.0.0.14:1600} Active Open"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.9205202"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600} dest={0.0.0.2:10001} SYN recvd"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.9210338"
+    ],
+    "container-title": [
+      "SUCCESS"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600} dest={0.0.0.1:10001} SYN recvd 15.1613078 [ sid 1 start 1.0897069 ] TCPclient 3 srv 4(0) rcvd 1000000B at 568.52kbps - read("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "15.1613078"
+    ],
+    "title": [
+      "TCP host 3 src={0.0.0.3:10001} dest={0.0.0.14:1600}Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15.1618851"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600} dest={0.0.0.3:10001}Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15.1618851"
+    ],
+    "container-title": [
+      "SUCCESS"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600}dest={0.0.0.3:10001}Passive Close 17.7129151 [ sid 1 start 1.9199429 ] TCPclient 2 srv 4(0) rcvd 1000000B at 506.554kbps - read("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "17.7129151"
+    ],
+    "title": [
+      "TCP host 2 src={0.0.0.2:10001} dest={0.0.0.14:1600}Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17.7134924"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600} dest={0.0.0.2:10001}Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17.7134924"
+    ],
+    "container-title": [
+      "SUCCESS"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.14:1600}dest={0.0.0.2:10001}Passive Close 17.721875 [ sid 1 start 1.9204565 ] TCPclient 1 srv 4(0) rcvd 1000000B at 506.283kbps - read("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "17.721875"
+    ],
+    "title": [
+      "TCP host 1 src={0.0.0.1:10001} dest={0.0.0.14:1600} Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17.7224523"
+    ],
+    "title": [
+      "TCP host 4"
+    ],
+    "type": null,
+    "url": [
+      "src={0.0.0.14:1600} dest={0.0.0.1:10001}Active"
+    ]
+  },
+  {
+    "author": [],
+    "title": [
+      "Phase II: connect Point-To-Point links"
+    ],
+    "type": null
+  },
+  {
+    "author": [],
+    "note": [
+      "5 routers and hosts ## Elapsed time: 0.667 seconds"
+    ],
+    "title": [
+      "Phase III: add static routes ## Net config"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "** Running for 100000000000 clock ticks (== 100.0 seconds sim time) 1.919942997 TCP host 3 src={0.0.0.2:10001} dest={0.0.0.3:1600} Active Open"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.920456578"
+    ],
+    "title": [
+      "TCP host 0 src={0.0.0.13:10001}dest={0.0.0.3:1600} Active Open"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.930046197"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.3:1600} dest={0.0.0.2:10001} SYN recvd"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1.941005111"
+    ],
+    "container-title": [
+      "SUCCESS"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.3:1600} dest={0.0.0.13:10001} SYN recvd 14.39844274 [ sid 1 start 1.919942997 ] tcpClient 3 srv 4(0) rcvd 10000000B at 6411.027kbps - read("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "14.39844274"
+    ],
+    "title": [
+      "TCP host 3 src={0.0.0.2:10001} dest={0.0.0.3:1600} Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14.40854594"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.3:1600} dest={0.0.0.2:10001} Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14.40854594"
+    ],
+    "container-title": [
+      "SUCCESS"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.3:1600} dest={0.0.0.2:10001} Passive Close 57.521336685 [ sid 1 start 1.920456578 ] TCPclient 0 srv 4(0) rcvd 10000000B at 1438.826kbps - read("
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "57.521336685"
+    ],
+    "title": [
+      "TCP host 0 src={0.0.0.13:10001} dest={0.0.0.3:1600} Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "57.541885218"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.3:1600} dest={0.0.0.13:10001} Active Close"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "57.541885218"
+    ],
+    "title": [
+      "TCP host 4 src={0.0.0.3:1600} dest={0.0.0.13:10001} Passive"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "■■ The NetLogger Web page: http://www-didc.lbl.gov/NetLogger ■■ The MySQL Web page: www.mysql.org ■■ The nl_tcpdump Web page: www.ittc.ku.edu/projects/enable/ tcpdump"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ip_dummynet/pico.000608.bin NIST Net ■■ The NIST Net Web page"
+    ],
+    "note": [
+      "■■ The dummynet Web page:",
+      "Network Traffic Generator ■■ The traffic Web page:"
+    ],
+    "title": [
+      "ip_dummynet/ ■■ The PicoBSD download"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://info.iet.unipi.it/~luigi0/",
+      "http://info.iet.unipi.it/~luigi/",
+      "http://snad.ncsl.nist.gov/itg/nistnet/",
+      "http://galileo.spaceports.com/~rsandila/"
+    ]
+  },
+  {
+    "title": [
+      "■■ The SSFNet Web page: www.ssfnet.org Index"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rizzo",
+        "given": "Luigi"
+      },
+      {
+        "family": "emulation",
+        "particle": "simulation. See also"
+      },
+      {
+        "family": "ns",
+        "given": "S.SSFNet Sandilands"
+      },
+      {
+        "given": "Robert"
+      }
+    ],
+    "container-title": [
+      "See SNMP simplex links"
+    ],
+    "note": [
+      "259 Sessions statistics, 202 rmmod command, 283–284 SFQ (stochastic fair queuing), simulat-Router statistics, 202 ing, 254–245 routers, simulating, 253–255,",
+      "DML (domain modeling language), buffer overflow, 81 346–353 CA (certificate authority), 139, firewalls, 255–256 147–149 graphical output, 323–324, 338–340 certificates, 139, 146–149 hosts, 349–350 digital certificates, 139 hubs, 251–252 encryption, 139 language, ns (Network Simulator), keys,",
+      "large ping packets, 7 links, 350–351 security, test environment. See also modeling language, 329–330 Nettest network agents, 326–327 ACLFile file, 139, 149–150 network applications, 327–329 CA (certificate authority), 139, network delays, 250–251 147–149 network devices, 251–257 certificates, 139, 146–149 network links, 325–326 defining test hosts, 143–144 network model elements, 324–329 keys, 139, 148–149 network nodes, 324 network traffic. See Network Traffic hosts, simulating, 349–350"
+    ],
+    "pages": [
+      "325",
+      "149–150",
+      "148–149 329–330"
+    ],
+    "title": [
+      "351–352 Simple Network Management Proto-RTC driver conflicts, 291–292 col (SNMP",
+      "See utilization building a model, 333–336, 356–360, Scalable Simulation Network (SSF), 368–370, 374–377 344–345 creating a development security environment, 355–356 ACLFile file"
+    ],
+    "type": "chapter",
+    "volume": [
+      "139",
+      "139"
+    ]
+  },
+  {
+    "note": [
+      "Generator installing, 354–355 networks, 245–246, 347–349. See also libraries, 345–346 ns; SSFNet links, simulating, 350–351 online resources, 390 networks, simulating, 347–349 packet-switching networks, 257 online resources, 390 point-to-point networks, 256 protocols, simulating, 352–353 protocols, 352–353 random number generator, 348–349"
+    ],
+    "type": "webpage"
+  },
+  {
+    "note": [
+      "QoS (quality of service), 254 results interpretation, 362–364, 379 random number generator, 348–349 routers, simulating, 351–352 RED (random early detection),",
+      "state variable speed, 133 SFQ (stochastic fair queuing), 254–245 statistical analysis switches, 252 bandwidth. See Pathload; Pathrate WANs (wide are networks), 256–257 Distribution statistics, 201–202"
+    ],
+    "pages": [
+      "66–67 360–362"
+    ],
+    "title": [
+      "255 running a model, 377–379 results interpretation, 362–364, running a simulation, 360–362 372–374, 379 stairstep graph sequences, 232 routers, 253–255, 351–352 standalone mode running a model, 371–372, 377–379 Iperf, 105–106 running a simulation, 336–338, netserver"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See Nettest; TCP_STREAM test, 70–71 security, test environment throughput testing, 70–71 file transfers, 112–113 TCP sessions, tracing. See tcptrace methods, application performance, TCP traffic analysis. See dbs; Iperf; 242–246"
+    ],
+    "title": [
+      "TCP network performance (continued) Telnet session analysis, 234–237 TCP_CRR test, 75 testing. See also tools TCP_RR test, 73–74 environment security"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.N.M.P."
+      }
+    ],
+    "container-title": [
+      "See net- traffic monitoring (watching), perf 200–202",
+      "See dbs; Iperf; measurements. See ntop netperf monitoring. See watching traffic watching traffic"
+    ],
+    "note": [
+      "See test, generating, 19. See also netalso ntop; tcpdump; WinDump works, traffic generators winpcap library, 22–25 traffic, generating for tests. See also TOS traffic, testing, 108–109 Network Traffic Generator traceroute command, 10–11 bulk data transfers, 306–308 tracing. See also ntop; tcpdump; tcp- client configuration, 313–315"
+    ],
+    "pages": [
+      "223–225",
+      "22–25, 35–39"
+    ],
+    "title": [
+      "network monitoring, 387 time sequence graph, 191–193 querying devices. See MIB; net-snmp; traffic measurements, 198–199 SNMP traffic module graph, 193–194 response time measurement",
+      "388 Traffic statistics, 200 TCP sessions, tracing. See tcptrace Usage statistics, 202 TCP traffic analysis. See dbs; Iperf; viewing data, 211–214 netperf watching HTTP sessions, 228–229 throughput measurement. watching test traffic, 317–320 See netperf trafclient, 313–315 tracing network activity. See tcptrace traffic UDP traffic analysis"
+    ],
+    "type": "chapter",
+    "volume": [
+      "209, 214"
+    ]
+  }
+]
