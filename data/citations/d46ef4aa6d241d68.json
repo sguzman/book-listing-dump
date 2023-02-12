@@ -1,0 +1,233 @@
+[
+  {
+    "container-title": [
+      "Services When building enterprise applications"
+    ],
+    "note": [
+      "it is often necessary to maintain"
+    ],
+    "title": [
+      "Chapter 13 - Development Environment Best Practices Using Web Service Sessions Chapter 14 - Production Environment Best Practices Chapter 15 - Developing Web Services andare operations Deploying Web stateless"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "Listing 15.4: CountingServiceImpl.java. package mastering.weblogic.ch15.example5; import java.util.ArrayList; import weblogic.webservice.context.ContextNotFoundException; import weblogic.webservice.context.WebServiceContext; import weblogic.webservice.context.WebServiceSession"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 12 - writer.add(ElementFactory.createStartElement(xsdStringName, Optimizing WebLogic Server Performance Chapter 13 - Development Environment Best Practices attrs)); writer.add(ElementFactory.createCharacterData(value)); Chapter 14 - Production Environment Best Practices writer.add(ElementFactory.createEndElement(xsdStringName"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "At the time of writing, the only way to set the trusted certificates is to add a few lines of code to the client: import weblogic.webservice.client.BaseWLSSLAdapter; Mastering BEA WebLogic Server: Best Practices for import weblogic.webservice.client.SSLAdapterFactory"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Optimizing WebLogic Server Performance"
+    ],
+    "title": [
+      "import weblogic.webservice.client.BaseWLSSLAdapter; Chapter 10 - Using WebLogic Security import weblogic.webservice.client.SSLAdapterFactory; Chapter 11 - Administering and Deploying Applications in WebLogic Server Chapter 12"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "List of Listings privateKeyPassphrase.toCharArray()); Certificate [] certChain = identityKeyStore.getCertificateChain(args[3]);"
+    ],
+    "title": [
+      "Chapter 13 - Development Environment Best Practices Chapter 14 - Production KeyStore Environment Best identityKeyStore Practices = KeyStore.getInstance('jks'); Chapter 15 - Developing and DeployingFileInputStream(clientKeyStoreFileName), identityKeyStore.load(new Web Services Index clientKeyStorePassword); List of Figures PrivateKey privateKey = (PrivateKey) List of Tables identityKeyStore.getKey(privateKeyAlias"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Server",
+        "given": "WebLogic"
+      }
+    ],
+    "pages": [
+      "140–146 ,125–126"
+    ],
+    "title": [
+      "469-471 Security Chapter 11 - Administering and Deploying Applications in WebLogic Server administering applications Chapter 12 - Optimizing WebLogic Server Performance application container, 460-461 Chapter 13 - Development Environment Best Practices architecture overview, 451,453-454 Chapter 14 - architecture, domain Production Environment 452-453 Best Practices Chapter 15 - Developing and execute queues and executeDeploying Web 453, threads, Services 454-458 Indexlisten ports and listen threads, 453, 460 List of Figures socket connections, managing, 453,458-460 List of Tables administration List of Listings authorization/authentication administration, 126-131 availability"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter roles and policies, 14 - Production 444-448 Best Practices Environment Chapter users and groups, 15 - Developing 443-444 and Deploying Web Services"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13"
+    ],
+    "pages": [
+      "219–223"
+    ],
+    "title": [
+      "- Development 181-182,Environment 185 Best Practices Chapter home 14 - Production methods,Environment 198-199 Best Practices Chapter MDB, 199-200 and Deploying Web Services 15 - Developing Index methods required, 182-185 references, List of Figures obtaining with Finder methods, 194-196 concurrency List of Tables strategies changes, handling one per transaction"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "advanced failures, migration, 536-539 administration, performance tuning, and configuration techniques. fault tolerance, hosted applications. Seecluster field groups Companion Web Site data retrieval, tuning, 241-242 finders-load-bean, tuning, 242-243"
+    ],
+    "title": [
+      "List of Listings Index Mastering BEA WebLogic Server: Best Practices for Building and Deploying J2EE Applications by Gregory Nyberg, Robert Patrick et ISBN:047128128x F al. John Wiley & Sons © 2003 (743 pages) factories, connection. Seeconnection factories,JMS This text provides best practices for developing and deploying failover,339-340 WebLogic Server 8.1 applications, and covers Web application, EJB development recommendations"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      ",475–477"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "587"
+    ],
+    "title": [
+      "Chapter 13 - Development Environment Best Practices production security, 655-656 Chapter 14 - Production Environment Best Practices flow chart, problem resolution"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "hotel reservation maintenance Chapter 3 - Designing an Example J2EE Application availability, 140-146 Chapter 4 - Building components, an Example listed, 131-132Web Application"
+    ],
+    "title": [
+      "navigation requirements, 51-54 application, EJB development recommendations, advanced administration, relationships in, 84-85 performance tuning, and configuration techniques. requirements, J2EE application example, 65-68 primary key, numeric,Companion 247-249 Web Site printing,11,33-36 Table of Contents private key. SeeSSL/TLS Mastering BEA WebLogic Server—Best Practices for Building and Deploying J2EE process dumps, generating, 592-593 Applications process encapsulation, 260-261 Introduction Chapter 1 - environment, production Building Web Applications 650-654 in WebLogic Chapter 2 - Choosing a Web Application Architecture property"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Invocation",
+        "given": "Remote Method"
+      }
+    ],
+    "title": [
+      "SeeRMI Chapter 13 - Development Environment Best Practices remote14 Chapter procedure call.Environment - Production SeeRPC Best Practices Chapter 15 - Developing replay wizards, 609-610and Deploying Web Services replica-aware stub, 466-467 List of Figures replication,462,465,644-646 List of Tables request"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "transparency, location, 339 Nyberg, Robert Patrick et by Gregory ISBN:047128128x al."
+      }
+    ],
+    "container-title": [
+      "EJB development recommendations"
+    ],
+    "note": [
+      "advanced applications,534-535 administration, performance tuning, and configuration bottlenecks, identifying and correcting, 584-586"
+    ],
+    "title": [
+      "Services security, 710-712 transport-level Web John Wiley & Sons © 2003 (743 pages) traps, SNMP, 530-533 This text provides best practices for developing and deploying troubleshooting WebLogic Server 8.1 applications, and covers Web application"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "694-695 Indexhome page, customizing, 695-696 List of Figures Java, 675-683 List of Tables JMS transport, 708-709 List of Listings application, adding to, 716-721 reservation security, 710-715 sessions,696-697"
+    ],
+    "title": [
+      "security, 658-660Enterprise JavaBeans in WebLogic Server Chapter 7 - Building servlet-centric, an58-60 56, Example EJB Application Chapter Turbine framework, 60Deploying WebLogic EJB Applications 8 - Packaging and Chapter 9 - Using WebWork WebLogic60 framework, JMS Chapter 10 - Using WebLogic Security Web servers, 586 Chapter 11 - Administering and Deploying Applications in WebLogic Server Web Services Chapter 12 - Optimizing WebLogic Server Performance clients, creating with WebLogic Server, 686-694 Chapter 13 - Development Environment Best Practices custom serializers, 697-702 Chapter 14 - Production Environment Best Practices development tools, 620 Chapter 15 - Developing and Deploying Web Services document-style messaging"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Windows"
+      }
+    ],
+    "note": [
+      "and covers Web WebLogic Server architecture, 673-674 application, EJB development recommendations, advanced administration, performance tuning, and configuration techniques."
+    ],
+    "title": [
+      "414-415,549,616 Mastering BEA WebLogic Server: Best Practices for wrappers.SeeJMS Building and Deploying J2EE Applications by Gregory WSDL (Web Services Nyberg, Description Robert Patrick et Language) ISBN:047128128x al. described,666-667 John696 static, publishing, Wiley & Sons © 2003 (743 pages) Web Services, 683-686provides best practices for developing and deploying This text WebLogic Server 8.1 applications"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 6: Building Enterprise JavaBeans in WebLogic Server Chapter 11 - Administering and Deploying Applications in WebLogic Server Chapter 12 - Optimizing WebLogic Server Performance Chapter 13 -6.2: Table Development Environment A Comparison Best of Select Practices Methods and Finder Methods Chapter 14 - Production Environment Best Practices Table Chapter 15 -6.3: Exclusive Developing andConcurrency Example Deploying Web Services"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 7: Building an Example EJB Application Table 7.1: Summary of Business-Tier Requirements"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "application, EJB development recommendations, advanced administration, performance tuning, and configuration Listing 1.2: ErrorCreator.jsp. techniques. Listing 1.3: ShowPerson.jsp. Companion Web Site Listing 1.4: EnterPerson_action.jsp. Table of Contents Listing Mastering 1.5: BEA CacheTest1.jsp. WebLogic Server—Best Practices for Building and Deploying J2EE Applications Listing"
+    ],
+    "issue": [
+      "6"
+    ],
+    "note": [
+      "Introduction Chapter 1 - 1.7: Listing Building Web Applications in WebLogic CacheTest3.jsp."
+    ],
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "Chapter 12: Optimizing WebLogic Server Performance Table 12.1: Guidelines for Adjusting Execute Queue Thread Count Mastering BEA WebLogic Server: Best Practices for List of Listings Building and Deploying J2EE Applications by Gregory Nyberg, Robert Patrick et ISBN:047128128x al. Chapter 1: John Building Web Wiley & Sons Applications © 2003 (743 pages) in WebLogic This text provides best practices for developing and deploying WebLogic Server 8.1 applications, and covers Web Listing 1.1: ErrorPage.jsp"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "note": [
+      "Chapter 13 - Development Environment Best Practices Listing Chapter 14 - 3.2: BetterHome_SA.jsp Production showing Environment Best improved self-assembly. Practices"
+    ],
+    "title": [
+      "Chapter 2 - Choosing a Web Application Architecture Listing Chapter 3 - 1.8: SimpleExcelServlet.java. Designing an Example J2EE Application Chapter 4 - Building an Example Web Application Listing 1.9: FancyExcelServlet.java. Chapter 5 - Packaging and Deploying WebLogic Web Applications Chapter 6 - 1.10: Listing Building Enterprise JavaBeans in WebLogic Server FancyExcelPage.jsp. Chapter 7 - Building an Example EJB Application Listing Chapter 8 - 1.11: WeakLoginTest.jsp. Packaging and Deploying WebLogic EJB Applications Chapter 9 - Using WebLogic JMS Chapter 3: Designing an Example J2EE Application Chapter 10 - Using WebLogic Security Chapter 11 - Administering and Deploying Applications in WebLogic Server Chapter 12 - 3.1: Listing Optimizing WebLogic Servershowing SimpleHome_SA.jsp Performance self-assembly"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "-"
+      }
+    ],
+    "title": [
+      "Building Environment Best Practices an Example EJB Application Chapter 8 - Packaging and Deploying WebLogic EJB Applications Chapter 9 - 13.1: Listing Using RunApplicationTests.jsp WebLogic JMS executes JUnit tests. Chapter 10 - Using WebLogic Security Listing Chapter 11 - 13.2: ReservationSessionTest.java. Administering and Deploying Applications in WebLogic Server Chapter 12 - Optimizing WebLogic Server Performance Listing 13.3: HomeTest.java performs simple Web tests"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 13 - Development Environment Best Practices Chapter 14 - Production Environment Best Practices Chapter 15: Developing and Deploying Web Services"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 15.5: NumbersToStringsServiceImpl.java. Listing 15.6: FileTransferServiceImpl.java"
+    ],
+    "type": null
+  }
+]
