@@ -1,0 +1,354 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Modern C++ Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Generic Programming and the STL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Glassborow",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "You Can Do It!"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The C++ Standard Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Langer",
+        "given": "A."
+      },
+      {
+        "family": "Kreft",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Standard C++ IOStreams and Locales"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vandevoorde",
+        "given": "D."
+      },
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Boston, MA, USA",
+      "Index"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "C++ Templates"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "C.H.O.’D."
+      }
+    ],
+    "pages": [
+      "37–40"
+    ],
+    "title": [
+      "xvii assignment Algol 325, 328 compound assignments 39–40 algorithm 42–3, 55–6, 84–6, 119–20, 184, concepts xx"
+    ],
+    "type": null,
+    "volume": [
+      "13–15, 20–2, 31"
+    ]
+  },
+  {
+    "date": [
+      "107, cstdlib 220",
+      "194, 212–13"
+    ],
+    "genre": [
+      ". . credit cards 179 concepts 17–18,"
+    ],
+    "note": [
+      "see also conditional operator; if. . .; switch implementation 158–60, 167–9, 203–6, 219, concepts 41–7, 58–9, 313–15 223–4, 241–3 structured programming 313–15 types 156–7 deck 182–91, 202–6, 262 containers xvi, 42–3, 53–9, 60, 69–71, 73, 84–6, deck-of-cards example, entity types 182–91, 109–31, 245–6, 289–303, 329, 335 193–210 see also std::vector deck.cpp 185–91 categories 301–2 deck.h 184–91 concepts 42–3, 53–9, 289–303 declaration statements 18–19, 20–2, 78–81, preloading 299–303 111–12, 135–40, 161–4, 175–8, 230–1, continue 52–3,",
+      "control expression, for loop 50–3 declarations 11, 18–19, 20–2, 62–7, 69–72, control flow xviii, 20–2, 26–9,",
+      "see also decisions; loops complexities 135–6, 161 conversions 79–80, 116–17, 257–61, 281–7, functions 77–81, 85–6, 96–7"
+    ],
+    "pages": [
+      "194–210, 214–19,",
+      "229–47, 21–2, 67–71 251–61, 278–81,",
+      "335",
+      "85–6,",
+      "265–6 135–6, 148–78,",
+      "180–1,",
+      "241–3, 272–3 329 252–61",
+      "313 310–11",
+      "41–60, 77–81, 85–6, 96–7, 111–12, 135–40, 157–8, 313–15, 329 161–4, 175–8, 230–1, 310–11"
+    ],
+    "title": [
+      "example code 47, 105 correct code, writing 22–3 form 47 cout 4–5, 6–7, 13–14, 19–29, 38, 42, 43, sequence points 105 51–9, 63–4, 66, 68–70, 71–2, 78, 81, 86–93, console application, project types 3–4 99–100, 106, 110–31, 126–7, 134, 137–9, console objects, concepts 4–7, 10–11, 13–14, 150–5",
+      "const type xvi, 17–18, 36–7, 41, 56, 85–6, 107, cpp file extension 161 113, 135–6, 148–78, 180–1, 183–91, 194, CPU 24 212–13, 216–21, 224–5, 240–7, 277–81, see also memory 297–303, 301, 306–7, 328–9, 335 create piece 259–60 see also derivative",
+      "Ctrl+5 keys 20 216–21, 224–5, 301, 306–7 Ctrl+D keys 125 placement issues 306–7 Ctrl+F7 keys (compile) 7–8 const iterator 290–303 Ctrl+N keys (New Project) 2, 7 const reverse iterator 290–303 Ctrl+Z keys 125 constructors xvii, 148–78, 156–67, 176–8, cxx file extension 161 188–91, 223–8, 241–3, 252–61, 272–3, 328–9, 335 data structures, STL 289–90 see also member functions debuggers 1, 5–6, 335 concepts 156–69, 176–8, 188–91, 223–4, decisions xviii, xx–xxi"
+    ],
+    "type": null,
+    "volume": [
+      "164",
+      "224",
+      "296–303, 309–10, 325",
+      "36–7, 41, 56",
+      "230",
+      "158",
+      "41–7, 58–9, 313–15",
+      "59",
+      "30"
+    ]
+  },
+  {
+    "date": [
+      "#include 4",
+      "193",
+      "xxiv"
+    ],
+    "genre": [
+      "smart 88–9,"
+    ],
+    "issue": [
+      "bn10 148–55"
+    ],
+    "location": [
+      "Java xiv, xv, xvii, xix"
+    ],
+    "note": [
+      "see also polymorphism",
+      "pointers input/output mechanisms xix, xx, 4, 6, 7, 11, 14, concepts 122–31,",
+      "type safety xvi 333–4, 336–7 instances see objects anonymous classes 333–4 instrumenting code, concepts 117–18, 159, C++ contrasts xvii, 13, 17, 18, 21, 45, 78–9,"
+    ],
+    "pages": [
+      "257–61 100–1",
+      "137–46,",
+      "167–9, 175–8,",
+      "234–47, 260–1",
+      "139–40,",
+      "155–6,",
+      "283–4,",
+      "218–28,",
+      "218–28",
+      "179–80 218–19",
+      "154–5, 165–7, 279–83",
+      "207–10, 289–303 19–22,",
+      "67–70, 86–93, 143–4, 153–5, 122–3,",
+      "289–303 164–7, 185–91, 251–61, 296–303 123–4 251–61 143–4, 153–5, 164–7,",
+      "185–91, 204–6, 258 78–9,",
+      "331,"
+    ],
+    "title": [
+      "ifstream 253–61, 263, 292–303 int type 4, 6, 7, 10–11, 13–17, 20–2, 34–5, 79, implementation 116–17, 125, 136–7, 194–6, 257–61, 281–3, constructors 158–60, 167–9, 203–6, 219, 308–9 223–4, 241–3 concepts 14–17, 20–2, 34–5, 79, 136–7, 194, copy constructors 159–60 257–61, 281–3 destructors 159–60, 219, 224–5 conversions 79–80, 116–17, 257–61, 281–3, entity types 181–2 308 member functions 160, 167–9 range 16–17, 34–5 value types 148–78 string conversions 257–61 implementation files, separate compilation 94–5, integer types 161–4 concepts 15–17, 20–3, 34–5, 37–8, 73, 136, implementation-defined behavior, concepts 137–46",
+      "148–55, 165–7, 213–14, integrated development environments (IDEs) xxiv, 220–1, 252, 278, 290–1, 308 1–7, 161 increment operator (++) 14, 37–8, 48–53, JGrasp xxiv 122 launching 2–7 indentation levels xviii–xix, 43–4 MinGW Developer Studio xxiv, 1 indeterminate 243–7 interface declaration, functions 77–81, 86–93 index and function operators 40 interpreted source code xix, xxi, 5, 79 industrial-strength code xvi iostream 4–5, 6, 7, 10–11, 13–14, 20–31, inheritance 211–28",
+      "isbn10.cpp 152–5 initialization ISBNs example, class concepts 148–55, arrays 196, 199 179–80 concepts 13–15, 18, 20–2, 25, 53–4, 178, 196, isbn test.cpp 152–5 199, 260–1, 307–11 ISO standards xiii, xiv–xv, 32 constructor lists 178 istream 77–81, 86–93, 99–102, 134, 154–5, default initialization 25, 196–9 181–2, 204–6, 270–2, 279–81, 290–303 for loop 50–3 iter 122–3 function-style/assignment-style contrasts iterator 290–303 307–11 iterators 51, 122–31, 193, 207–10, 289–303 inline function declarations, concepts 85–6, see also location; raw pointers"
+    ],
+    "type": null,
+    "volume": [
+      "enum 136",
+      "154, 161",
+      "6–7, 10–11, 13–14, 21–31, 94–5, 194",
+      "106",
+      "321, 327, 42–3, 64–6, 78, 84–93, 99–102, 106, 338 110–31, 134, 137–9, 142–5, 148",
+      "164, 213–14, 220–1, 252–61, 263",
+      "concepts 211",
+      "321 290–303, 308–9 fundamentals 211",
+      "95, 98",
+      "193",
+      "39",
+      "207",
+      "13, 17, 18, 21, 45",
+      "122, 147, 275, 325, 326, 327"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "OS",
+        "given": "X."
+      },
+      {
+        "family": "Mac",
+        "given": "Apple"
+      }
+    ],
+    "container-title": [
+      "concepts xvi"
+    ],
+    "date": [
+      "PL/1 xxi"
+    ],
+    "genre": [
+      "Playpen program 70–2,"
+    ],
+    "location": [
+      "Pinto, Marcelo"
+    ],
+    "note": [
+      "xxiii, 1, 9 piece ptr 241–7 ostream 77–81, 86–93,",
+      "pointers xvi, xviii, 17–18, 35, 40, 97, 136–7, overloading operators 149–50, 169–74, 193–210, 232–3, 241–7, arithmetic types",
+      "see also & (address-of operator); derivative 153–5, 164–7, 204–6, 209–10, 258, types"
+    ],
+    "pages": [
+      "137–9,",
+      "148–50, 154–64, 185–91, 213–14,",
+      "326 220–1, 224–5, 251–61, 279–81,",
+      "88–95 83–4",
+      "277–81 277–87",
+      "83–6, 88–93, 140–6,"
+    ],
+    "title": [
+      "290–303, playing-cards example 308–9, 318 class concepts 148, 155–91, 200–6 ostringstream 257–8 entity types 179–91, 200–6 output mechanisms xix, xx, 4, 6, 7, 11, 14, 19–22, Playpen program 39, 67–70, 86–93, 143–4, 153–5, 164–7, color names 26–7, 56, 70–2, 81–98 185–91, 251–61, 296–303 plotting modes 70–2, 81, 88–95 fundamentals 251–61 program samples 7–11, 24–7, 56, 70–2, overloading functions 81–98, 172–4 concepts 78, 83–6, 88–93, 97–8, 116–17, playpen.cpp xxv 120–2, 127–31, 156–67 playpen.h 8–11, 24–7 example code 83–6, 97–8, 116–17, 120–2, plot 284–5 127–8 plot square 88–95 function templates 116–17, 120–2, 127–31 plotting modes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "100, 134",
+      "332 142–6",
+      "323–4",
+      "81",
+      "21, 62, 78"
+    ]
+  },
+  {
+    "genre": [
+      "std::ofstream 252–61,",
+      "std::ostream 77–81, 86–93,"
+    ],
+    "pages": [
+      "318–20 41–3,",
+      "85–6,",
+      "137–9, 112–13,",
+      "142–6, 148–50, 154–64, 185–91, 213–14, 143–4, 148–55,",
+      "236–47,",
+      "255–6, 220–1, 224–5, 279–81, 290–303, 308–9,",
+      "289–303,",
+      "335"
+    ],
+    "type": null,
+    "volume": [
+      "263, 285",
+      "57, 58, 60, 61, 67–8, 73",
+      "100, 134",
+      "116–17, 119–20, 125–6, 130",
+      "207",
+      "252",
+      "260, 263",
+      "327"
+    ]
+  }
+]
