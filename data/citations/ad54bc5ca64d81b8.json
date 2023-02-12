@@ -1,0 +1,6339 @@
+[
+  {
+    "author": [
+      {
+        "given": "Boehm"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "SIGPLAN Notices"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "261–268"
+    ],
+    "title": [
+      "H.J.: Threads cannot be implemented as a library"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Buhr"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "ACM"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "117–120"
+    ],
+    "title": [
+      "P.A.: Are safe concurrency libraries possible? Commun"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Buhr"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2015"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "publisher": [
+      "School of Computer Science, University of Waterloo"
+    ],
+    "title": [
+      "P.A.: C++ annotated reference manual, version 6.1.0"
+    ],
+    "type": "report",
+    "url": [
+      "http://plg.uwaterloo.ca/usystem/pub/uSystem/u++-6.1.0.sh"
+    ],
+    "volume": [
+      "N2L 3G1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "given": "Ditchfield"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "USENIX C++ Technical Conference Proceedings"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Portland, Oregon, U.S.A"
+    ],
+    "pages": [
+      "207–224"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "G.: Adding concurrency to a programming language"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Ditchfield",
+        "given": "G."
+      },
+      {
+        "family": "Stroobosscher",
+        "given": "R.A."
+      },
+      {
+        "family": "Younger",
+        "given": "B.M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Software—Practice and Experience"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "137–172"
+    ],
+    "title": [
+      "Zarnke, C.R.: C++: Concurrency in the object-oriented language C++"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Ditchfield",
+        "given": "G."
+      },
+      {
+        "given": "Zarnke"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proceedings of the ACM SIGPLAN Workshop on Object-Based Concurrent Programming, Sept",
+      "SIGPLAN Notices"
+    ],
+    "date": [
+      "1989",
+      "1988"
+    ],
+    "issue": [
+      "4"
+    ],
+    "location": [
+      "San Diego, California, U.S.A"
+    ],
+    "pages": [
+      "18–21",
+      "26–27,"
+    ],
+    "title": [
+      "C.R.: Adding concurrency to a statically type-safe objectoriented programming language"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burns",
+        "given": "A."
+      },
+      {
+        "given": "Davies"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "G.: Concurrent Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Stroustrup"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "collection-title": [
+      "Scientific and Engineering Computation Series"
+    ],
+    "container-title": [
+      "Parallel Programming in C++"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Wilson",
+        "given": "G.V."
+      },
+      {
+        "family": "Lu",
+        "given": "P."
+      }
+    ],
+    "pages": [
+      "–"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "B.: A perspective on concurrency in C++"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Stroustrup"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "third edn"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "B.: The C++ Programming Language",
+      "Contents"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Abelson, H., Adams IV, N.I., Bartley"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1998"
+    ],
+    "director": [
+      {
+        "family": "D.H.",
+        "given": "Brooks"
+      },
+      {
+        "family": "G.",
+        "given": "Dybvig"
+      },
+      {
+        "family": "R.K.",
+        "given": "Friedman"
+      },
+      {
+        "family": "D.P.",
+        "given": "Halstead"
+      },
+      {
+        "family": "R.",
+        "given": "Hanson"
+      },
+      {
+        "family": "C.",
+        "given": "Haynes"
+      },
+      {
+        "family": "C.T.",
+        "given": "Kohlbecker"
+      },
+      {
+        "family": "E.",
+        "given": "Oxley"
+      },
+      {
+        "family": "D.",
+        "given": "Pitman"
+      },
+      {
+        "family": "K.M.",
+        "given": "Rozas"
+      },
+      {
+        "family": "G.J.",
+        "given": "G.L.S.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Sussman",
+        "given": "G.J."
+      },
+      {
+        "given": "Wand"
+      }
+    ],
+    "editor": [
+      {
+        "family": "M.",
+        "given": "Richard Kelsey"
+      },
+      {
+        "family": "Clinger",
+        "given": "W."
+      },
+      {
+        "family": "Rees",
+        "given": "J."
+      }
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "26–76"
+    ],
+    "title": [
+      "Revised5 report on the algorithmic language Scheme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ackermann",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1928"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "118–133"
+    ],
+    "title": [
+      "Zum hilbertschen aufbau der reellen zahlen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "99"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "A.V."
+      },
+      {
+        "family": "Lam",
+        "given": "M.S."
+      },
+      {
+        "family": "Sethi",
+        "given": "R."
+      },
+      {
+        "given": "Ullman"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Longman Publishing"
+    ],
+    "title": [
+      "J.D.: Compilers: Principles, Techniques, and Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Backus",
+        "given": "J.W."
+      },
+      {
+        "family": "Bauer",
+        "given": "F.L."
+      },
+      {
+        "family": "Green",
+        "given": "J."
+      },
+      {
+        "family": "Katz",
+        "given": "C."
+      },
+      {
+        "family": "McCarthy",
+        "given": "J."
+      },
+      {
+        "family": "Naur",
+        "given": "P."
+      },
+      {
+        "family": "Perlis",
+        "given": "A.J."
+      },
+      {
+        "family": "Rutishauser",
+        "given": "H."
+      },
+      {
+        "family": "Samuelson",
+        "given": "K."
+      },
+      {
+        "family": "Vauquois",
+        "given": "B."
+      },
+      {
+        "family": "Wegstein",
+        "given": "J."
+      },
+      {
+        "family": "Wijngaarden",
+        "given": "A.",
+        "particle": "van"
+      },
+      {
+        "family": "Woodger",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "ACM"
+    ],
+    "date": [
+      "1963"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "1–17"
+    ],
+    "title": [
+      "Revised report on the algorithmic language algol 60. Commun"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Böhm",
+        "given": "C."
+      },
+      {
+        "family": "Jacopini",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1966"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "366–371"
+    ],
+    "title": [
+      "Flow diagrams, turing machines and languages with only two formation rules"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Buhr"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "14–22"
+    ],
+    "title": [
+      "P.A.: A case for teaching multi-exit loops to beginning programmers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Reprinted in [32"
+    ],
+    "pages": [
+      "147–148",
+      "29–36"
+    ],
+    "title": [
+      "E.W.: Go to statement considered harmful"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "C.N."
+      },
+      {
+        "family": "LeBlanc",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Benjamin Cummings"
+    ],
+    "title": [
+      "R.J.: Crafting a Compiler"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "collection-title": [
+      "Professional Computing Series"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gosling",
+        "given": "J."
+      },
+      {
+        "family": "Joy",
+        "given": "B."
+      },
+      {
+        "family": "Steele",
+        "given": "G."
+      },
+      {
+        "family": "Bracha",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Java Language Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Griswold, R.E., Griswold, M.T",
+      "Englewood Cliffs"
+    ],
+    "publisher": [
+      "The Icon Programming Language. Prentice-Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "ACM"
+    ],
+    "date": [
+      "1961"
+    ],
+    "issue": [
+      "7"
+    ],
+    "location": [
+      "Hoare, C.A.R"
+    ],
+    "pages": [
+      "321"
+    ],
+    "title": [
+      "Algorithms 63/64: Partition/quicksort. Commun"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hudak",
+        "given": "P."
+      },
+      {
+        "given": "Fasel"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "1–53"
+    ],
+    "title": [
+      "J.H.: A gentle introduction to haskell"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "International Business Machines: OS and DOS PL/I Reference Manual"
+    ],
+    "date": [
+      "1981"
+    ],
+    "edition": [
+      "1st edn"
+    ],
+    "note": [
+      "Manual GC26-3977-0"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "1988",
+      "1974"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "issue": [
+      "4"
+    ],
+    "location": [
+      "Kernighan, B.W., Ritchie, D.M",
+      "Englewood Cliffs",
+      "Knuth, D.E"
+    ],
+    "note": [
+      "DOI"
+    ],
+    "pages": [
+      "261–301"
+    ],
+    "publisher": [
+      "The C Programming Language",
+      "Prentice Hall Software Series. Prentice-Hall"
+    ],
+    "title": [
+      "Structured programming with go to statements"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://doi.acm.org/10.1145/356635.356640"
+    ],
+    "volume": [
+      "16",
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liskov",
+        "given": "B."
+      },
+      {
+        "family": "Atkinson",
+        "given": "R."
+      },
+      {
+        "family": "Bloom",
+        "given": "T."
+      },
+      {
+        "family": "Moss",
+        "given": "E."
+      },
+      {
+        "family": "Schaffert",
+        "given": "J.C."
+      },
+      {
+        "family": "Scheifler",
+        "given": "R."
+      },
+      {
+        "given": "Snyder"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "A.: CLU Reference Manual"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "114"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacLaren",
+        "given": "M.D."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Proceedings of an ACM Conference on Language Design for Reliable Software",
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1977",
+      "March 28–30, 1977"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Raleigh, North Carolina, U.S.A"
+    ],
+    "pages": [
+      "101–104"
+    ],
+    "title": [
+      "Exception handling in PL/I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Madsen",
+        "given": "O.L."
+      },
+      {
+        "family": "Møller-Pedersen",
+        "given": "B."
+      },
+      {
+        "family": "Nygaard",
+        "given": "K."
+      },
+      {
+        "given": "Milner"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "J. Comput. Syst. Sci"
+    ],
+    "date": [
+      "1993",
+      "1978"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "pages": [
+      "348–375"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-oriented Programming in the BETA Programming Language",
+      "R.: A theory of type polymorphism in programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20",
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Murer",
+        "given": "S."
+      },
+      {
+        "family": "Omohundro",
+        "given": "S."
+      },
+      {
+        "family": "Stoutamire",
+        "given": "D."
+      },
+      {
+        "family": "Szyperski",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "ACM Trans. Progr. Lang. Syst"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "1–15"
+    ],
+    "title": [
+      "Iteration abstraction in sather"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Péter"
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1935"
+    ],
+    "issue": [
+      "111"
+    ],
+    "pages": [
+      "42–60"
+    ],
+    "title": [
+      "R.: Konstruktion nichtrekursiver funktionen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peterson",
+        "given": "W.W."
+      },
+      {
+        "family": "Kasami",
+        "given": "T."
+      },
+      {
+        "family": "Tokura",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1973"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "503–512"
+    ],
+    "title": [
+      "On the capabilities of while, repeat, and exit statements"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rees",
+        "given": "J."
+      },
+      {
+        "family": "Clinger",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "37–79"
+    ],
+    "title": [
+      "Revised3 report on the algorithmic language Scheme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Robinson"
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Bull. Am. Math. Soc"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "987–993"
+    ],
+    "title": [
+      "R.M.: Recursion and double recursion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rossum",
+        "given": "G.",
+        "particle": "van"
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "Drake",
+        "given": "Fred L.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": [
+      "Python Reference Manual, Release 2.5. Python Software Foundation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schemenauer",
+        "given": "N."
+      },
+      {
+        "family": "Peters",
+        "given": "T."
+      },
+      {
+        "given": "Hetland"
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "Tech. rep."
+    ],
+    "title": [
+      "M.L.: Simple generators"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.python.org/peps/pep-0255.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Steele"
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "G.: COMMON LISP: The Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Stroustrup"
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "B.: The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "30."
+    ],
+    "date": [
+      "1983"
+    ],
+    "edition": [
+      "ANSI/MIL-STD-1815A-1983 edn"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "United States Department of Defense: The Programming Language Ada: Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weissman",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Belmont"
+    ],
+    "publisher": [
+      "Dickenson Publishing"
+    ],
+    "title": [
+      "Lisp 1.5 Primer"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "Classics in Software Engineering"
+    ],
+    "date": [
+      "1979"
+    ],
+    "editor": [
+      {
+        "family": "Yourdon",
+        "given": "E.N."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Yourdon Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Agesen",
+        "given": "O."
+      },
+      {
+        "family": "Bak",
+        "given": "L."
+      },
+      {
+        "family": "Chambers",
+        "given": "C."
+      },
+      {
+        "family": "Chang",
+        "given": "B.W."
+      },
+      {
+        "family": "Hølzle",
+        "given": "U."
+      },
+      {
+        "family": "Maloney",
+        "given": "J.H."
+      },
+      {
+        "family": "Smith",
+        "given": "R.B."
+      },
+      {
+        "family": "Ungar",
+        "given": "D."
+      },
+      {
+        "family": "Wolczko",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Sun Microsystems"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Inc., and Stanford University"
+    ],
+    "title": [
+      "The SELF 3.0 Programmer’s Reference Manual"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Birrell",
+        "given": "A."
+      },
+      {
+        "family": "Brown",
+        "given": "M.R."
+      },
+      {
+        "family": "Cardelli",
+        "given": "L."
+      },
+      {
+        "family": "Donahue",
+        "given": "J."
+      },
+      {
+        "family": "Glassman",
+        "given": "L."
+      },
+      {
+        "family": "Gutag",
+        "given": "J."
+      },
+      {
+        "family": "Harning",
+        "given": "J."
+      },
+      {
+        "family": "Kalsow",
+        "given": "B."
+      },
+      {
+        "family": "Levin",
+        "given": "R."
+      },
+      {
+        "family": "Nelson",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "collection-title": [
+      "Prentice Hall Series in Innovative Technology"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Englewood Cliffs"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Systems Programming with Modula-3"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Buhr"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2015"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "publisher": [
+      "School of Computer Science, University of Waterloo"
+    ],
+    "title": [
+      "P.A.: C++ annotated reference manual, version 6.1.0"
+    ],
+    "type": "report",
+    "url": [
+      "http://plg.uwaterloo.ca/usystem/pub/uSystem/u++-6.1.0.sh"
+    ],
+    "volume": [
+      "N2L 3G1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Harji",
+        "given": "A."
+      },
+      {
+        "given": "Mok"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Advances in COMPUTERS"
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Zelkowitz",
+        "given": "M.V."
+      }
+    ],
+    "location": [
+      "London"
+    ],
+    "pages": [
+      "245–303"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "W.Y.R.: Exception handling"
+    ],
+    "type": "chapter",
+    "volume": [
+      "56"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Macdonald",
+        "given": "H.I."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "735–776"
+    ],
+    "title": [
+      "Zarnke, C.R.: Synchronous and asynchronous handling of abnormal events in the System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Till",
+        "given": "D."
+      },
+      {
+        "given": "Zarnke"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "835–870"
+    ],
+    "title": [
+      "C.R.: Assignment as the sole means of updating objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cargill"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "USENIX C++ Conference Proceedings"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "San Francisco, California, U.S.A"
+    ],
+    "pages": [
+      "315–323"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "T.A.: Does C++ really need multiple inheritance?"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Costanza",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "29–35"
+    ],
+    "title": [
+      "Dynamic scoped functions as the essence of AOP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drew",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Comput. Lang"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Gough, K.J.: Exception handling: Expecting the unexpected"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "4th edn"
+    ],
+    "title": [
+      "ECMA International Standardizing Information and Communication Systems: C# Language Specification, Standard ECMA-334"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Gehani"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "827–848"
+    ],
+    "title": [
+      "N.H.: Exceptional C or C with exceptions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "A."
+      },
+      {
+        "family": "Robson",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Smalltalk-80: The Language and Its Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Goodenough"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1975"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "683–696"
+    ],
+    "title": [
+      "J.B.: Exception handling: Issues and a proposed notation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gosling",
+        "given": "J."
+      },
+      {
+        "family": "Joy",
+        "given": "B."
+      },
+      {
+        "family": "Steele",
+        "given": "G."
+      },
+      {
+        "family": "Bracha",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Java Language Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kenah",
+        "given": "L.J."
+      },
+      {
+        "family": "Goldenberg",
+        "given": "R.E."
+      },
+      {
+        "given": "Bate"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1988",
+      "1984"
+    ],
+    "issue": [
+      "5"
+    ],
+    "location": [
+      "Bedford",
+      "Knudsen, J.L"
+    ],
+    "pages": [
+      "429–449"
+    ],
+    "publisher": [
+      "Digital Press",
+      "Exception"
+    ],
+    "title": [
+      "S.F.: VAX/VMS Internals and Data Structures Version 4.4",
+      "handling – a static approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16",
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Knudsen"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Softw"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "40–49"
+    ],
+    "title": [
+      "J.L.: Better exception handling in block structured systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "A."
+      },
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "J. Object-Oriented Program"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "16–33"
+    ],
+    "title": [
+      "Exception handling for C++"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liskov",
+        "given": "B.H."
+      },
+      {
+        "given": "Snyder"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Trans. Softw. Eng"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "546–558"
+    ],
+    "title": [
+      "A.: Exception handling in CLU"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SE-5(6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacLaren",
+        "given": "M.D."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Proceedings of an ACM Conference on Language Design for Reliable Software",
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1977",
+      "March 28–30, 1977"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Raleigh, North Carolina, U.S.A"
+    ],
+    "pages": [
+      "101–104"
+    ],
+    "title": [
+      "Exception handling in PL/I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Meyer"
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Englewood Cliffs"
+    ],
+    "publisher": [
+      "Prentice Hall Object-Oriented Series. Prentice-Hall"
+    ],
+    "title": [
+      "B.: Eiffel: The Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Milner",
+        "given": "R."
+      },
+      {
+        "family": "Tofte",
+        "given": "M."
+      },
+      {
+        "family": "Standard ML. MIT Press",
+        "given": "Commentary",
+        "particle": "on"
+      },
+      {
+        "given": "Cambridge"
+      },
+      {
+        "family": "Mitchell",
+        "given": "J.G."
+      },
+      {
+        "family": "Maybury",
+        "given": "W."
+      },
+      {
+        "family": "Sweet",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "1991",
+      "1979"
+    ],
+    "genre": [
+      "Tech. Rep. CSL–79–3,"
+    ],
+    "pages": [
+      "23"
+    ],
+    "publisher": [
+      "Xerox Palo Alto Research Center"
+    ],
+    "title": [
+      "Mesa language manual"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Mok"
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "location": [
+      "Waterloo, Ontario, Canada"
+    ],
+    "publisher": [
+      "University of Waterloo"
+    ],
+    "title": [
+      "W.Y.R.: Concurrent abnormal event handling mechanisms"
+    ],
+    "type": "thesis",
+    "url": [
+      "http://plg.uwaterloo.ca/pub/theses/-MokThesis.ps.gz"
+    ],
+    "volume": [
+      "N2L 3G1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motet",
+        "given": "G."
+      },
+      {
+        "family": "Mapinard",
+        "given": "A."
+      },
+      {
+        "family": "Geoffroy",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "IBM Syst. J"
+    ],
+    "date": [
+      "1996",
+      "1974"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Englewood Cliffs",
+      "Stevens, W.P., , Myers, G.J., Constantine, L.L"
+    ],
+    "pages": [
+      "115–139"
+    ],
+    "publisher": [
+      "Prentice Hall",
+      "Structured"
+    ],
+    "title": [
+      "Design of Dependable Ada Software",
+      "design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26",
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      },
+      {
+        "family": "Design",
+        "given": "The"
+      },
+      {
+        "family": "C++. Addison-Wesley",
+        "given": "Evolution",
+        "particle": "of"
+      },
+      {
+        "given": "Reading"
+      },
+      {
+        "given": "Tennent"
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "Acta Inf"
+    ],
+    "date": [
+      "1994",
+      "1977"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "Reprinted in [29"
+    ],
+    "pages": [
+      "28",
+      "97–112"
+    ],
+    "title": [
+      "R.D.: Language design methods based on semantic principles"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Wasserman"
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Tutorial: Programming Language Design"
+    ],
+    "date": [
+      "1980"
+    ],
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": [
+      "Computer Society Press, Los Alamitos"
+    ],
+    "title": [
+      "A.I"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Yemini",
+        "given": "S."
+      },
+      {
+        "given": "Berry"
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "ACM Trans. Progr. Lang. Syst"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "214–243"
+    ],
+    "title": [
+      "D.M.: A modular verifiable exception-handling mechanism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "ACM"
+    ],
+    "date": [
+      "1963"
+    ],
+    "issue": [
+      "7"
+    ],
+    "location": [
+      "Conway, M.E"
+    ],
+    "pages": [
+      "396–408"
+    ],
+    "title": [
+      "Design of a separable transition-diagram compiler. Commun"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hopcroft",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Ullman, J.D.: Introduction to Automata Theory, Languages and Computation"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1980"
+    ],
+    "editor": [
+      {
+        "family": "Goos",
+        "given": "G."
+      },
+      {
+        "family": "Hartmanis",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Marlin, C.D",
+      "New York"
+    ],
+    "publisher": [
+      "Coroutines",
+      "Springer"
+    ],
+    "title": [
+      "A Programming Methodology, a Language Design and an Implementation, Lecture Notes in Computer Science"
+    ],
+    "type": "book",
+    "volume": [
+      "95"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Amdahl"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proceedings of the April 18-20, 1967, Spring Joint Computer Conference, AFIPS"
+    ],
+    "date": [
+      "Spring",
+      "1967"
+    ],
+    "location": [
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "483–485"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "G.M.: Validity of the single processor approach to achieving large scale computing capabilities"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "G.R."
+      },
+      {
+        "given": "Schneider"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "3–43"
+    ],
+    "title": [
+      "F.B.: Concepts and notations for concurrent programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "Sharp",
+      "1994"
+    ],
+    "issue": [
+      "4"
+    ],
+    "location": [
+      "Bacon, D.F., Graham, S.L"
+    ],
+    "pages": [
+      "345–420"
+    ],
+    "title": [
+      "O.J.: Compiler transformations for high-performance computing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "given": "Harji"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Concurrency and Computation: Practice and Experience"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1133–1172"
+    ],
+    "title": [
+      "A.S.: Concurrent urban legends"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "genre": [
+      "Tech. Rep. 85.7"
+    ],
+    "note": [
+      "PN87614, Tandem Computers (1985)."
+    ],
+    "title": [
+      "Why do computers stop and what can be done about it?"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Anderson"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel Distrib. Syst"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "6–16"
+    ],
+    "title": [
+      "T.E.: The performance of spin lock alternatives for shared-memory multiprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "ACM Trans. Comput. Syst"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "E.D.",
+        "given": "Levy"
+      }
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Anderson, T.E., Bershad, B.N., Lazowska"
+    ],
+    "pages": [
+      "53–79"
+    ],
+    "title": [
+      "H.M.: Scheduler activations: Effective kernel support for the user-level management of parallelism"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.R.M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Architecture Reference Manual"
+    ],
+    "date": [
+      "2012"
+    ],
+    "issue": [
+      "b"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Brinch"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1973"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "223–245"
+    ],
+    "title": [
+      "P.: Concurrent programming concepts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bruijn",
+        "particle": "de"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1967"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Letter to the Editor"
+    ],
+    "pages": [
+      "137–138"
+    ],
+    "title": [
+      "N.G.: Additional comments on a problem in concurrent programming control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Dice",
+        "given": "D."
+      },
+      {
+        "given": "Hesselink"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Concurrency Comput. Pract. Exp"
+    ],
+    "date": [
+      "2015"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "651–701"
+    ],
+    "title": [
+      "W.H.: High-performance N-thread software solutions for mutual exclusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Dice",
+        "given": "D."
+      },
+      {
+        "given": "Hesselink"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Concurrency Comput. Pract. Exp"
+    ],
+    "date": [
+      "2016"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "144–165"
+    ],
+    "title": [
+      "W.H.: Dekker’s mutual exclusion algorithm made rw-safe"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Burns"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "SIGACT News"
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "42–47"
+    ],
+    "title": [
+      "J.E.: Mutual exclusion with linear waiting using binary shared variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burns",
+        "given": "J.E."
+      },
+      {
+        "given": "Lynch"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Proceedings of the 18th Annual Allerton Conference on Communications, Control and Computing"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Monticello, Illinois, USA"
+    ],
+    "note": [
+      "Accessed on March 2014"
+    ],
+    "pages": [
+      "833–842"
+    ],
+    "title": [
+      "N.A.: Mutual exclusion using indivisible reads and writes"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://groups.csail.mit.edu/tds/papers/Lynch/-allertonconf.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "J."
+      },
+      {
+        "family": "Yen",
+        "given": "L."
+      },
+      {
+        "family": "Diestelhorst",
+        "given": "S."
+      },
+      {
+        "family": "Pohlack",
+        "given": "M."
+      },
+      {
+        "family": "Hohmuth",
+        "given": "M."
+      },
+      {
+        "family": "Christie",
+        "given": "D."
+      },
+      {
+        "family": "Grossman",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proceedings of the 2010 43rd Annual IEEE/ACM International Symposium on Microarchitecture, MICRO ’43"
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "Washington, DC, USA"
+    ],
+    "pages": [
+      "39–50"
+    ],
+    "publisher": [
+      "IEEE Computer Society"
+    ],
+    "title": [
+      "Asf: Amd64 extension for lock-free data structures and transactional memory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cormen",
+        "given": "T.H."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C.E."
+      },
+      {
+        "given": "Rivest"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "collection-title": [
+      "Electrical Engineering and Computer Science Series"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "MIT Press/McGraw-Hill"
+    ],
+    "title": [
+      "R.L.: Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dice",
+        "given": "D."
+      },
+      {
+        "family": "Lev",
+        "given": "Y."
+      },
+      {
+        "family": "Marathe",
+        "given": "V.J."
+      },
+      {
+        "family": "Moir",
+        "given": "M."
+      },
+      {
+        "family": "Nussbaum",
+        "given": "D."
+      },
+      {
+        "family": "Olszewski",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings of the Twenty-second Annual ACM Symposium on Parallelism in Algorithms and Architectures, SPAA’10"
+    ],
+    "date": [
+      "2010"
+    ],
+    "location": [
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "325–334"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Simplifying concurrent algorithms by exploiting hardware transactional memory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1965"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "Eindhoven, Netherlands"
+    ],
+    "note": [
+      "Reprinted in [17"
+    ],
+    "pages": [
+      "43–112"
+    ],
+    "publisher": [
+      "Technological University"
+    ],
+    "title": [
+      "E.W.: Cooperating sequential processes"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1965"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "569"
+    ],
+    "title": [
+      "E.W.: Solution of a problem in concurrent programming control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doran",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Inf. Process. Lett"
+    ],
+    "date": [
+      "1980"
+    ],
+    "issue": [
+      "4/5"
+    ],
+    "pages": [
+      "206–208"
+    ],
+    "title": [
+      "Thomas, L.K.: Variants of the software solution to mutual exclusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1972"
+    ],
+    "issue": [
+      "11"
+    ],
+    "location": [
+      "Eisenberg, M.A., McGuire, M.R"
+    ],
+    "pages": [
+      "999"
+    ],
+    "title": [
+      "Further comments on Dijkstra’s concurrent programming control problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Programming Languages"
+    ],
+    "date": [
+      "1968",
+      "1966"
+    ],
+    "editor": [
+      {
+        "family": "Genuys",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "London, New York",
+      "Villard-de-Lans"
+    ],
+    "publisher": [
+      "Academic Press",
+      "NATO Advanced Study Institute"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Greenwald",
+        "given": "M."
+      },
+      {
+        "family": "Cheriton",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Proceedings of the Second USENIX Symposium on Operating Systems Design and Implementation"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Seattle, Washington, U.S.A"
+    ],
+    "pages": [
+      "123–136"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "The synergy between non-blocking synchronization and operating system structure"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hehner",
+        "given": "E.C.R."
+      },
+      {
+        "given": "Shyamasundar"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Inf. Process. Lett"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "196–198"
+    ],
+    "title": [
+      "R.K.: An implementation of P and V"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Herlihy",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "ACM Trans. Progr. Lang. Syst"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "124–149"
+    ],
+    "title": [
+      "Wait-free synchronization"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Herlihy",
+        "given": "M."
+      },
+      {
+        "family": "Luchangco",
+        "given": "V."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Moir",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "ACM Trans. Comput. Syst"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "146–196"
+    ],
+    "title": [
+      "Nonblocking memory management support for dynamic-sized data structures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Herlihy, M., Luchangco, V., Moir, M., Scherer III"
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proceedings of the Twenty-second Annual Symposium on Principles of Distributed Computing, PODC ’03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "92–101"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "W.N.: Software transactional memory for dynamic-sized data structures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Herlihy",
+        "given": "M."
+      },
+      {
+        "family": "Shavit",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers"
+    ],
+    "title": [
+      "The Art of Multiprocessor Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Hesselink"
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Acta Informatica"
+    ],
+    "date": [
+      "2013"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "199–228"
+    ],
+    "title": [
+      "W.H.: Verifying a simplification of mutual exclusion by Lycklama–Hadzilacos"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hyman",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1966"
+    ],
+    "issue": [
+      "1"
+    ],
+    "note": [
+      "Letter to the Editor"
+    ],
+    "pages": [
+      "45"
+    ],
+    "title": [
+      "Comments on a problem in concurrent programming control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1981"
+    ],
+    "edition": [
+      "9th edn"
+    ],
+    "pages": [
+      "22–7000–8"
+    ],
+    "publisher": [
+      "IBM"
+    ],
+    "title": [
+      "IBM System/370 Principles of Operation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Kessels"
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "Acta Inf"
+    ],
+    "date": [
+      "1982"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "135–141"
+    ],
+    "title": [
+      "J.L.W.: Arbitration without common modifiable variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1966"
+    ],
+    "issue": [
+      "5"
+    ],
+    "location": [
+      "Knuth, D.E"
+    ],
+    "note": [
+      "Letter to the Editor"
+    ],
+    "pages": [
+      "321–322"
+    ],
+    "publisher": [
+      "Additional"
+    ],
+    "title": [
+      "comments on a problem in concurrent programming control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Lamport"
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "453–455"
+    ],
+    "title": [
+      "L.: A new solution of dijkstra’s concurrent programming problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "J. ACM"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "313–326"
+    ],
+    "title": [
+      "The mutual exclusion problem: Part I–a theory of interprocess communication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "container-title": [
+      "J. ACM"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "327–348"
+    ],
+    "title": [
+      "The mutual exclusion problem: Part II–statement and solutions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mellor-Crummey",
+        "given": "J.M."
+      },
+      {
+        "family": "Scott",
+        "given": "M.L."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "ACM Trans. Comput. Syst"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "21–65"
+    ],
+    "title": [
+      "Algorithm for scalable synchronization on sharedmemory multiprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Michael"
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel Distrib. Syst"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "491–504"
+    ],
+    "title": [
+      "M.M.: Hazard pointers: Safe memory reclamation for lock-free objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "Proceedings of the Fifteenth Annual ACM Symposium on Principles of Distributed Computing, PODC’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Michael, M.M., Scott, M.L",
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "267–275"
+    ],
+    "publisher": [
+      "Simple",
+      "ACM"
+    ],
+    "title": [
+      "fast, and practical non-blocking and blocking concurrent queue algorithms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "MIPS Computer Systems Inc"
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "MIPS R4000 Microprocessor User’s Manual"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "36."
+    ],
+    "container-title": [
+      "Motorola",
+      "Inf. Process. Lett"
+    ],
+    "date": [
+      "1992",
+      "1981"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Peterson, G.L"
+    ],
+    "pages": [
+      "115–116"
+    ],
+    "publisher": [
+      "Myths"
+    ],
+    "title": [
+      "M68000 Family Programmer’s Reference Manual",
+      "about the mutual exclusion problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37",
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peterson",
+        "given": "G.L."
+      },
+      {
+        "given": "Fischer"
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "container-title": [
+      "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing, STOC ’77"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "91–97"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "M.J.: Economical solutions for the critical section problem in a distributed system (extended abstract"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "ArchitectureARM Architecture"
+    ],
+    "edition": [
+      "revised 3rd edn"
+    ],
+    "note": [
+      "Freescale Semiconductor (2005"
+    ],
+    "title": [
+      "Programming Environments Manual for 32-Bit Implementations of the PowerPC"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "MPCFPE32B"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Sites"
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "container-title": [
+      "Alpha Architecture Reference Manual. Digital Press, One Burlington Woods Drive"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "location": [
+      "Burlington"
+    ],
+    "title": [
+      "R.L"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "41."
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Bedford"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "VAX-11 Architecture Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zuo",
+        "given": "W."
+      },
+      {
+        "family": "Zuo",
+        "given": "W."
+      },
+      {
+        "family": "Jiaxing",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "Symposium on Intelligent Information Technology Application Workshops"
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Shanghai, China",
+      "Los Alamitos, CA, USA"
+    ],
+    "pages": [
+      "251–254"
+    ],
+    "publisher": [
+      "IEEE Computer Society"
+    ],
+    "title": [
+      "An intelligent multi-port memory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Andrews"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Sci. Comput. Program"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1–21"
+    ],
+    "title": [
+      "G.R.: A method for solving synronization problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "G.R."
+      },
+      {
+        "given": "Schneider"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "3–43"
+    ],
+    "title": [
+      "F.B.: Concepts and notations for concurrent programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Courtois",
+        "given": "P.J."
+      },
+      {
+        "family": "Heymans",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1971"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "667–668"
+    ],
+    "title": [
+      "Parnas, D.L.: Concurrent control with readers and writers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1965"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "Eindhoven, Netherlands"
+    ],
+    "note": [
+      "Reprinted in [9"
+    ],
+    "pages": [
+      "43–112"
+    ],
+    "publisher": [
+      "Technological University"
+    ],
+    "title": [
+      "E.W.: Cooperating sequential processes"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "341–346"
+    ],
+    "title": [
+      "E.W.: The structure of the “THE”–multiprogramming system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Acta Inf"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "115–138"
+    ],
+    "title": [
+      "E.W.: Hierarchical ordering of sequential processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1979"
+    ],
+    "genre": [
+      "Tech. Rep. EWD703,"
+    ],
+    "location": [
+      "Nuenen, Netherlands"
+    ],
+    "title": [
+      "E.W.: A tutorial on the split binary semaphore"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1980"
+    ],
+    "genre": [
+      "Tech. Rep. EWD734,"
+    ],
+    "location": [
+      "Nuenen, Netherlands"
+    ],
+    "title": [
+      "E.W.: The superfluity of the general semaphore"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Programming Languages"
+    ],
+    "date": [
+      "1968",
+      "1966"
+    ],
+    "editor": [
+      {
+        "family": "Genuys",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "London, New York",
+      "Villard-de-Lans"
+    ],
+    "publisher": [
+      "Academic Press",
+      "NATO Advanced Study Institute"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Holzmann",
+        "given": "G.J."
+      },
+      {
+        "family": "Pehrson",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Sci. Am"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "124–129"
+    ],
+    "title": [
+      "The first data networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Stroustrup"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "B.: The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coffman",
+        "given": "E.G.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Elphick",
+        "given": "M.J."
+      },
+      {
+        "family": "Shoshani",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "1971"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "DOI"
+    ],
+    "pages": [
+      "67–78"
+    ],
+    "title": [
+      "System deadlocks"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://doi.acm.org/10.1145/356586.356588"
+    ],
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1965"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "Eindhoven, Netherlands"
+    ],
+    "note": [
+      "Reprinted in [3"
+    ],
+    "pages": [
+      "43–112"
+    ],
+    "publisher": [
+      "Technological University"
+    ],
+    "title": [
+      "E.W.: Cooperating sequential processes"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Programming Languages"
+    ],
+    "date": [
+      "1968",
+      "1966"
+    ],
+    "editor": [
+      {
+        "family": "Genuys",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "London, New York",
+      "Villard-de-Lans"
+    ],
+    "publisher": [
+      "Academic Press",
+      "NATO Advanced Study Institute"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Havender"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IBM Syst. J"
+    ],
+    "date": [
+      "1968"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "74–84"
+    ],
+    "title": [
+      "J.W.: Avoiding deadlock in multitasking systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Holt"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "1972"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "179–196"
+    ],
+    "title": [
+      "R.C.: Some deadlock properties of computer systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Andrews"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Redwood City"
+    ],
+    "publisher": [
+      "Benjamin/Cummings Publishing"
+    ],
+    "title": [
+      "G.R.: Concurrent Programming: Principles and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Birrell",
+        "given": "A."
+      },
+      {
+        "family": "Brown",
+        "given": "M.R."
+      },
+      {
+        "family": "Cardelli",
+        "given": "L."
+      },
+      {
+        "family": "Donahue",
+        "given": "J."
+      },
+      {
+        "family": "Glassman",
+        "given": "L."
+      },
+      {
+        "family": "Gutag",
+        "given": "J."
+      },
+      {
+        "family": "Harning",
+        "given": "J."
+      },
+      {
+        "family": "Kalsow",
+        "given": "B."
+      },
+      {
+        "family": "Levin",
+        "given": "R."
+      },
+      {
+        "family": "Nelson",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "collection-title": [
+      "Prentice Hall Series in Innovative Technology"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Englewood Cliffs"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Systems Programming with Modula-3"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brinch Hansen",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1972"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "574–578"
+    ],
+    "title": [
+      "Structured multiprogramming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Brinch"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1973"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "223–245"
+    ],
+    "title": [
+      "P.: Concurrent programming concepts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Brinch"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Trans. Softw. Eng"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "199–206"
+    ],
+    "title": [
+      "P.: The programming language concurrent pascal"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hansen",
+        "given": "Brinch"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "363–396"
+    ],
+    "title": [
+      "P.: The design of Edison"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Buhr"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "ACM"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "117–120"
+    ],
+    "title": [
+      "P.A.: Are safe concurrency libraries possible? Commun"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      },
+      {
+        "family": "Fortier",
+        "given": "M."
+      },
+      {
+        "given": "Coffin"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "ACM Comput. Surv"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "63–107"
+    ],
+    "title": [
+      "M.H.: Monitor classification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dahl",
+        "given": "O.J."
+      },
+      {
+        "family": "Myhrhaug",
+        "given": "B."
+      },
+      {
+        "family": "Nygaard",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "522"
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Oslo Norway"
+    ],
+    "publisher": [
+      "Norwegian Computing Center"
+    ],
+    "title": [
+      "9 High-Level Concurrency Constructs 9",
+      "Simula67 Common Base Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Dijkstra"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Acta Inf"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "115–138"
+    ],
+    "title": [
+      "E.W.: Hierarchical ordering of sequential processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Operating Systems Techniques"
+    ],
+    "date": [
+      "1972"
+    ],
+    "editor": [
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      },
+      {
+        "family": "Perott",
+        "given": "R.H."
+      }
+    ],
+    "location": [
+      "Hoare, C.A.R",
+      "New York"
+    ],
+    "pages": [
+      "61–71"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Towards a theory of parallel programming"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "issue": [
+      "10"
+    ],
+    "location": [
+      "Hoare, C.A.R"
+    ],
+    "pages": [
+      "549–557"
+    ],
+    "title": [
+      "Monitors: An operating system structuring concept"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proceedings Second International Conference Software Engineering"
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Howard, J.H",
+      "San Francisco, U.S.A"
+    ],
+    "pages": [
+      "47–52"
+    ],
+    "publisher": [
+      "IEEE Computer Society"
+    ],
+    "title": [
+      "Signaling in monitors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Kessels"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1977"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "500–503"
+    ],
+    "title": [
+      "J.L.W.: An alternative to event queues for synchronization in monitors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lampson",
+        "given": "B.W."
+      },
+      {
+        "given": "Redell"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1980"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "105–117"
+    ],
+    "title": [
+      "D.D.: Experience with processes and monitors in mesa"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lea",
+        "given": "D."
+      },
+      {
+        "family": "Mitchell",
+        "given": "J.G."
+      },
+      {
+        "family": "Maybury",
+        "given": "W."
+      },
+      {
+        "family": "Sweet",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1997",
+      "1979"
+    ],
+    "edition": [
+      "1st edn"
+    ],
+    "genre": [
+      "Tech. Rep. CSL–79–3,"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "pages": [
+      "17"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Xerox Palo Alto Research Center"
+    ],
+    "title": [
+      "Concurrent Programming in Java: Design Principles and Patterns",
+      "Mesa language manual"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Trono"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "SIGCSE Bull"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Chapter 10 Active Objects"
+    ],
+    "pages": [
+      "8–10"
+    ],
+    "title": [
+      "J.A.: A new exercise in concurrency"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buhr",
+        "given": "P.A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Concurrency Comput. Pract. Exp"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1133–1172"
+    ],
+    "title": [
+      "Harji, A.S.: Concurrent urban legends"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cargill"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "USENIX C++ Conference Proceedings"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "San Francisco, California, U.S.A"
+    ],
+    "pages": [
+      "315–323"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "T.A.: Does C++ really need multiple inheritance?"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Crnogorac",
+        "given": "L."
+      },
+      {
+        "family": "Rao",
+        "given": "A.S."
+      },
+      {
+        "family": "Ramamohanarao",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "ECOOP ’98–Object-Oriented Programming, Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Jul",
+        "given": "E."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "571–601"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Classifying inheritance mechanisms in concurrent object-oriented programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1445"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matsuoka",
+        "given": "S."
+      },
+      {
+        "family": "Yonezawa",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Research Directions in Concurrent Object-Oriented Programming"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "Agha",
+        "given": "G."
+      },
+      {
+        "family": "Wegner",
+        "given": "P."
+      },
+      {
+        "family": "Yonezawa",
+        "given": "A."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "107–150"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Analysis of inheritance anomaly in object-oriented concurrent programming languages"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Modern C++ Design: Generic Programming and Design Patterns Applied"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Gentleman"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "435–466"
+    ],
+    "title": [
+      "W.M.: Message passing between sequential processes: the reply primitive and the administrator concept"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Halstead Jr."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "ACM Trans. Progr. Lang. Syst"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "501–538"
+    ],
+    "title": [
+      "R.H.: Multilisp: A language for concurrent symbolic programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lavender",
+        "given": "R.G."
+      },
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Active Object: An Object Behavioral Pattern for Concurrent Programming"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "pages": [
+      "483–499"
+    ],
+    "publisher": [
+      "Addison-Wesley Longman Publishing"
+    ],
+    "title": [
+      "Pattern languages of program design 2. chap"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Adve",
+        "given": "S.V."
+      },
+      {
+        "given": "Boehm"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "2010"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "90–101"
+    ],
+    "title": [
+      "H.J.: Memory models: A case for rethinking parallel languages and hardware"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adve",
+        "given": "S.V."
+      },
+      {
+        "family": "Gharachorloo",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "Tech. Rep. 7,"
+    ],
+    "location": [
+      "Palo Alto, California, 94301, U.S.A"
+    ],
+    "note": [
+      "Reprinted in [3]."
+    ],
+    "pages": [
+      "250"
+    ],
+    "publisher": [
+      "Western Research Laboratory",
+      "University Avenue"
+    ],
+    "title": [
+      "Shared memory consistency models: A tutorial"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.hpl.hp.com/techreports/Compaq-DEC/WRL-95-7.pdf,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adve",
+        "given": "S.V."
+      },
+      {
+        "family": "Gharachorloo",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "66–76"
+    ],
+    "title": [
+      "Shared memory consistency models: A tutorial"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Moore"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Technical Digest, International Electron Devices Meeting, IEEE"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "619"
+    ],
+    "title": [
+      "G.E.: Progress in digital integrated electronics"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "pp.11U13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Agha"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "G.A.: Actors: A Model of Concurrent Computation in Distributed Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "G.R."
+      },
+      {
+        "family": "Olsson",
+        "given": "R.A."
+      },
+      {
+        "family": "Coffin",
+        "given": "M."
+      },
+      {
+        "family": "Elshoff",
+        "given": "I."
+      },
+      {
+        "family": "Nilsen",
+        "given": "K."
+      },
+      {
+        "family": "Purdin",
+        "given": "T."
+      },
+      {
+        "given": "Townsend"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "ACM Trans. Progr. Lang. Syst"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "51–86"
+    ],
+    "title": [
+      "G.: An overview of the SR language and implementation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "8"
+    ],
+    "location": [
+      "Bershad, B.N., Lazowska, E.D., Levy, H.M"
+    ],
+    "pages": [
+      "713–732"
+    ],
+    "publisher": [
+      "PRESTO"
+    ],
+    "title": [
+      "A system for object-oriented parallel programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Board"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2013"
+    ],
+    "genre": [
+      "Tech. rep."
+    ],
+    "title": [
+      "O.A.R.: Openmp application program interface, version 4.0"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bretthauer",
+        "given": "H."
+      },
+      {
+        "family": "Christaller",
+        "given": "T."
+      },
+      {
+        "family": "Kopp",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Concurrency Comput. Pract. Exp"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "9"
+    ],
+    "location": [
+      "Buhr, P.A., Harji, A.S"
+    ],
+    "pages": [
+      "1133–1172"
+    ],
+    "publisher": [
+      "Concurrent"
+    ],
+    "title": [
+      "Multiple vs. single inheritance in object-oriented programming languages. what do we really want? Tech. Rep. Arbeitspapiere der GMD 415, Gesellschaft Für Mathematik und Datenverarbeitung mbH, Schloˇ Birlinghoven, Postfach 12 40, D-5205 Sankt Augustin 1, Deutschland (1989) 6",
+      "urban legends"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Butenhof, D.R",
+      "Boston"
+    ],
+    "publisher": [
+      "Programming with POSIX Threads. Professional Computing. Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Cargill"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "USENIX C++ Conference Proceedings"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "San Francisco, California, U.S.A"
+    ],
+    "pages": [
+      "315–323"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "T.A.: Does C++ really need multiple inheritance?"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Carriero",
+        "given": "N."
+      },
+      {
+        "family": "Gelernter",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "444–458"
+    ],
+    "title": [
+      "Linda in context"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ciesielski",
+        "given": "B."
+      },
+      {
+        "family": "Kreczmar",
+        "given": "A."
+      },
+      {
+        "family": "Lao",
+        "given": "M."
+      },
+      {
+        "family": "Litwiniuk",
+        "given": "A."
+      },
+      {
+        "family": "Przytycka",
+        "given": "T."
+      },
+      {
+        "family": "Salwicki",
+        "given": "A."
+      },
+      {
+        "family": "Warpechowska",
+        "given": "J."
+      },
+      {
+        "family": "Warpechowski",
+        "given": "M."
+      },
+      {
+        "family": "Szalas",
+        "given": "A."
+      },
+      {
+        "family": "Szczepanska-Wasersztrum",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1988"
+    ],
+    "genre": [
+      "Tech. rep.,",
+      "Pkin 8th Floor, 00-901"
+    ],
+    "location": [
+      "Warsaw, Poland"
+    ],
+    "publisher": [
+      "Institute of Informatics, University of Warsaw"
+    ],
+    "title": [
+      "Report on the programming language loglan’88"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahl",
+        "given": "O.J."
+      },
+      {
+        "family": "Myhrhaug",
+        "given": "B."
+      },
+      {
+        "family": "Nygaard",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Oslo Norway"
+    ],
+    "publisher": [
+      "Norwegian Computing Center"
+    ],
+    "title": [
+      "Simula67 Common Base Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Doeppner",
+        "given": "T.W."
+      },
+      {
+        "given": "Gebele"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings and Additional Papers C++ Workshop"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Santa Fe, New Mexico, U.S.A"
+    ],
+    "note": [
+      "726 13 Control Flow Paradigms"
+    ],
+    "pages": [
+      "94–107"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "A.J.: C++ on a parallel machine"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "International",
+        "given": "E.C.A.M."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "Geneva, Switzerland"
+    ],
+    "publisher": [
+      "ECMAScript"
+    ],
+    "title": [
+      "Rue du Rhone 114, CH-1204",
+      "Language Specification JavaScript"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "4th edn"
+    ],
+    "title": [
+      "ECMA International Standardizing Information and Communication Systems: C# Language Specification, Standard ECMA-334"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2015"
+    ],
+    "issue": [
+      "0"
+    ],
+    "location": [
+      "New York, New York 10018"
+    ],
+    "publisher": [
+      "Erlang Reference Manual User’s Guide"
+    ],
+    "title": [
+      "Erlang/OTP System Documentation, 1430 Broadway"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.erlang.org/doc/pdf/-otp-system-documentation.pdf"
+    ],
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Galletly",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "UCL (University College London) Press"
+    ],
+    "title": [
+      "OCCAM 2: Including OCCAM 2.1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gehani",
+        "given": "N.H."
+      },
+      {
+        "given": "Roome"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Summit"
+    ],
+    "publisher": [
+      "Silicon Press"
+    ],
+    "title": [
+      "W.D.: The Concurrent C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Gentleman"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Softw. Pract. Exp"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "435–466"
+    ],
+    "title": [
+      "W.M.: Message passing between sequential processes: the reply primitive and the administrator concept"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Griesemer",
+        "given": "R."
+      },
+      {
+        "family": "Pike",
+        "given": "R."
+      },
+      {
+        "family": "Thompson",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Google"
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Go Programming Language"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://golang.org/ref/spec"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hewitt",
+        "given": "C."
+      },
+      {
+        "family": "Bishop",
+        "given": "P."
+      },
+      {
+        "given": "Steiger"
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Proceedings of the 3rd International Joint Conference on Artificial Intelligence"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Standford, California, U.S.A"
+    ],
+    "pages": [
+      "235–245"
+    ],
+    "title": [
+      "R.: A universal modular ACTOR formalism for artificial intelligence"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "8"
+    ],
+    "location": [
+      "Hoare, C.A.R"
+    ],
+    "pages": [
+      "666–677"
+    ],
+    "title": [
+      "Communicating sequential processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ichbiah",
+        "given": "J.D."
+      },
+      {
+        "family": "Barnes",
+        "given": "J.G.P."
+      },
+      {
+        "family": "Firth",
+        "given": "R.J."
+      },
+      {
+        "family": "Woodger",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Washington, D.C., 20301, U.S.A"
+    ],
+    "publisher": [
+      "The Pentagon"
+    ],
+    "title": [
+      "Rationale for the Design of the ADA Programming Language. Under Secretary of Defense, Research and Engineering, Ada Joint Program Office, OUSDRE(R&AT"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Intermetrics"
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "COR.1:2000 edn"
+    ],
+    "title": [
+      "Inc.: Ada Reference Manual, international standard ISO/IEC 8652:1995(E) with",
+      "Language and Standards Libraries"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Labrèche",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "SIGPLAN Not"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "20–32"
+    ],
+    "title": [
+      "Interactors: A real-time executive with multiparty interactions in C++"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Lea"
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "2014"
+    ],
+    "publisher": [
+      "Oracle"
+    ],
+    "title": [
+      "D.: java.util.concurrency"
+    ],
+    "type": "book",
+    "url": [
+      "http://docs.oracle.com/javase/7/docs/api/java/-util/concurrent/package-summary.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liskov",
+        "given": "B."
+      },
+      {
+        "family": "Atkinson",
+        "given": "R."
+      },
+      {
+        "family": "Bloom",
+        "given": "T."
+      },
+      {
+        "family": "Moss",
+        "given": "E."
+      },
+      {
+        "family": "Schaffert",
+        "given": "J.C."
+      },
+      {
+        "family": "Scheifler",
+        "given": "R."
+      },
+      {
+        "family": "Snyder",
+        "given": "A."
+      },
+      {
+        "family": "Manual",
+        "given": "C.L.U.Reference"
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "114"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Madsen",
+        "given": "O.L."
+      },
+      {
+        "family": "Møller-Pedersen",
+        "given": "B."
+      },
+      {
+        "family": "Nygaard",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-oriented Programming in the BETA Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "J.G.",
+        "given": "Maybury"
+      },
+      {
+        "family": "W.",
+        "given": "Sweet"
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "2015",
+      "1979"
+    ],
+    "genre": [
+      "Tech. Rep. CSL–79–3,"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Knoxville, Tennessee",
+      "Mitchell"
+    ],
+    "publisher": [
+      "Message Passing Interface Forum, University of Tennessee",
+      "MPI",
+      "Xerox Palo Alto Research Center"
+    ],
+    "title": [
+      "A Message-Passing Interface Standard",
+      "29",
+      "Mesa language manual"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.mpi-forum.org/docs/-mpi-3.1/mpi31-report.pdf"
+    ],
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Murer",
+        "given": "S."
+      },
+      {
+        "family": "Omohundro",
+        "given": "S."
+      },
+      {
+        "family": "Stoutamire",
+        "given": "D."
+      },
+      {
+        "family": "Szyperski",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "ACM Trans. Progr. Lang. Syst"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "1–15"
+    ],
+    "title": [
+      "Iteration abstraction in sather"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "O’Farrell",
+        "given": "W.G."
+      },
+      {
+        "family": "Eigler",
+        "given": "F.C."
+      },
+      {
+        "family": "Pullara",
+        "given": "S.D."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "collection-title": [
+      "Scientific and Engineering Computation Series"
+    ],
+    "container-title": [
+      "Parallel Programming in C++"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Wilson",
+        "given": "G.V."
+      },
+      {
+        "family": "Lu",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "1–42"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Wilson, G.V.: ABC++"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rossum",
+        "given": "G.",
+        "particle": "van"
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "date": [
+      "2006"
+    ],
+    "editor": [
+      {
+        "family": "Drake",
+        "given": "Fred L.",
+        "suffix": "Jr"
+      }
+    ],
+    "title": [
+      "Python Reference Manual, Release 2.5. Python Software Foundation"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "ALPHARD: Form and Content"
+    ],
+    "date": [
+      "1981"
+    ],
+    "editor": [
+      {
+        "given": "M."
+      }
+    ],
+    "location": [
+      "Shaw",
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Shopiro",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "Proceedings and Additional Papers C++ Workshop"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Santa Fe, New Mexico, U.S.A"
+    ],
+    "pages": [
+      "77–94"
+    ],
+    "publisher": [
+      "USENIX Association"
+    ],
+    "title": [
+      "Extending the C++ task system for real-time control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "Svensk Standard SS"
+    ],
+    "pages": [
+      "61 14"
+    ],
+    "title": [
+      "Standardiseringskommissionen i Sverige: Databehandling – Programspråk – SIMULA (1987"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wirth",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "4th edn"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Programming in Modula-2",
+      "Texts and Monographs in Computer Science"
+    ],
+    "type": "book"
+  }
+]

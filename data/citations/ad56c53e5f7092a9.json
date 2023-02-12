@@ -1,0 +1,651 @@
+[
+  {
+    "citation-number": [
+      "11.6.12."
+    ],
+    "publisher": [
+      "Linear System Solvers"
+    ],
+    "title": [
+      "Add a member function SparseSolveO in §11.5 so that the finite difference stiffness matrix S will be stored in a sparse matrix and 426 11"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ascher",
+        "given": "U.M."
+      },
+      {
+        "family": "Petzold",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "AP98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "publisher": [
+      "Society of Industrial and Applied Mathematics"
+    ],
+    "title": [
+      "Computer Methods for Ordinary Differential Equations and Differential-Algeb raic Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Arnholm",
+        "given": "C.A."
+      }
+    ],
+    "citation-number": [
+      "Arn98"
+    ],
+    "container-title": [
+      "C/C++ User Group Library CD-ROM"
+    ],
+    "date": [
+      "1998"
+    ],
+    "note": [
+      "Web Address:"
+    ],
+    "title": [
+      "Portable mixed language programming using C++ and Fortran"
+    ],
+    "type": "chapter",
+    "url": [
+      "http:"
+    ],
+    "volume": [
+      "477"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Bli"
+      }
+    ],
+    "genre": [
+      "Web Address:"
+    ],
+    "title": [
+      "Blitz++ Numerical Library: A C++ Class Library for Scientific Computing"
+    ],
+    "type": null,
+    "url": [
+      "http:/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barton",
+        "given": "J.J."
+      },
+      {
+        "family": "Nackman",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "BN94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley Longman"
+    ],
+    "title": [
+      "Scient ific and Engineering C++ : An Introduct ion With Advanced Techniques and Examples"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheney",
+        "given": "W."
+      },
+      {
+        "family": "Kincaid",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "CK99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "fourth"
+    ],
+    "location": [
+      "Brooks/Cole, Pacific Grove, CA"
+    ],
+    "title": [
+      "Numerical Mathematics and Computing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cormen",
+        "given": "T.H."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C.E."
+      },
+      {
+        "family": "Rivest",
+        "given": "R.L."
+      }
+    ],
+    "citation-number": [
+      "CLR90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Furnish",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Fur97"
+    ],
+    "container-title": [
+      "Computers in Physics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "263–269"
+    ],
+    "title": [
+      "Disambiguated glommable expression templates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kincaid",
+        "given": "D."
+      },
+      {
+        "family": "Cheney",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "KC96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Brooks/Cole, Pacific Grove, CA"
+    ],
+    "title": [
+      "Numerical Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Knu98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming",
+      "second edit ion"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Landau",
+        "given": "R.H."
+      },
+      {
+        "family": "Fink",
+        "given": "P.J.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "LF93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "A Scientist 's and Engineer's Guide to Workstations and Supercomputers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "LipOO] S.B."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Essential C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "S.B."
+      },
+      {
+        "family": "Primer",
+        "given": "J.Lajoie C.++"
+      }
+    ],
+    "citation-number": [
+      "LL98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "third"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley Longman"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meurant",
+        "given": "G.A."
+      }
+    ],
+    "citation-number": [
+      "Meu99"
+    ],
+    "container-title": [
+      "Studies in Mathematics and Its Applications"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "North-Holland"
+    ],
+    "title": [
+      "Computer Solution of Large Linear Systems"
+    ],
+    "type": "chapter",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "lOON"
+      }
+    ],
+    "genre": [
+      "Web Address:"
+    ],
+    "title": [
+      "Object Oriented Numerics Web Page"
+    ],
+    "type": null,
+    "url": [
+      "http://www.oonumerics.org."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pet]",
+        "given": "P.E.T.E."
+      }
+    ],
+    "genre": [
+      "Web Address :"
+    ],
+    "location": [
+      "Pool POOMA"
+    ],
+    "note": [
+      "Web Address:"
+    ],
+    "publisher": [
+      "Parallel Object-Oriented Methods and Applications"
+    ],
+    "title": [
+      "Portable Expression Template Engine"
+    ],
+    "type": null,
+    "url": [
+      "http://www.acl.lanl.gov/pete.",
+      "http://www.acl.lanl.gov/pooma."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Saad",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "Saa96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "PWS Publishing"
+    ],
+    "title": [
+      "Iterative Methods for Sparse Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Ste99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "fourth"
+    ],
+    "location": [
+      "Brooks/Cole, Pacific Grove, CA"
+    ],
+    "title": [
+      "Calculus, Early Transcendentals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Str97"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "special"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley Longman"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vandevoorde",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Van98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Solutions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuizen",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "VeI95"
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "26–31"
+    ],
+    "title": [
+      "Expression templates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Varberg",
+        "given": "V.P.R.O.O.] D."
+      },
+      {
+        "family": "Purcell",
+        "given": "E.J."
+      },
+      {
+        "family": "Rigdon",
+        "given": "S.E."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "eighth"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Yan97"
+    ],
+    "container-title": [
+      "Journal of Scient ific Computing"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "99–117"
+    ],
+    "title": [
+      "A parallel grid modification and domain decomposition algorithm for local phenomena capturing and load balancing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Yan98"
+    ],
+    "container-title": [
+      "Domain Decomposition Methods 10, Contemporary Mathematics"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Cai",
+        "given": "X."
+      },
+      {
+        "family": "Mandel",
+        "given": "J."
+      },
+      {
+        "family": "Farhat",
+        "given": "C."
+      }
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "note": [
+      "Index"
+    ],
+    "pages": [
+      "365–373"
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "A nonoverlapping subdomain algorithm with Lagrange multipliers and its object oriented implementation for interface problems"
+    ],
+    "type": "chapter",
+    "volume": [
+      "218"
+    ]
+  }
+]
