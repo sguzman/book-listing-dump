@@ -1,0 +1,233 @@
+[
+  {
+    "author": [
+      {
+        "family": "Gottschling",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers (C++ In-Depth"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horton",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer Science + Business Media"
+    ],
+    "title": [
+      "Using the C++ Standard Template Libraries"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The C++ Standard Library: A Tutorial and Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karlsson",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Beyond the C++ Standard Library: An Introduction to Boost"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "S."
+      },
+      {
+        "family": "Lajoie",
+        "given": "J."
+      },
+      {
+        "family": "Primer",
+        "given": "B.Moo C.++"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Sebastopol"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "edition": [
+      "Fourth"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "note": [
+      "Note: Stroustrup’s FAQ has been merged with Marshall Cline’s to form the C++ FAQ at https://isocpp.org/faq.] Stroustrup, B. The C++ Programming Language,"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "C++11—the New ISO C++ Standard” <www.stroustrup.com/C++11FAQ.html>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "M.Extended S.T.L."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Collections and Iterators"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "Function isupper"
+    ],
+    "note": [
+      "determines whether its argument is an uppercase letter (A–Z)."
+    ],
+    "pages": [
+      "960",
+      "960"
+    ],
+    "title": [
+      "Section 22.7 Character-Handling Library • Function islower",
+      "determines if its argument is a lowercase letter (a–z"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "• Function isdigit",
+      "determines if its argument is a digit"
+    ],
+    "pages": [
+      "958",
+      "0–9"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "isalpha",
+        "given": "Function"
+      }
+    ],
+    "note": [
+      "determines if its argument is an uppercase (A–Z) or lowercase letter (a–z)."
+    ],
+    "pages": [
+      "958"
+    ],
+    "type": null
+  }
+]
