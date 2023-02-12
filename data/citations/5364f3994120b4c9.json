@@ -1,0 +1,7238 @@
+[
+  {
+    "author": [
+      {
+        "family": "First",
+        "given": "we show that Jt is monotone"
+      },
+      {
+        "family": "Clearly",
+        "given": "Jt",
+        "particle": "subadditive."
+      },
+      {
+        "literal": "we show that C ~ A. Let A E C and C E"
+      }
+    ],
+    "date": [
+      "28"
+    ],
+    "genre": [
+      "Next,"
+    ],
+    "note": [
+      "Since J.t* is subadditive, we only need to show that J.t*(C) ~ J.t*(C n A) + J.t*(C n A C ). If J.t*(C) = 00, this is clearly true. So let J.t*(C) < 00. From the definition of J.t*, for every f > 0, there exists a collection {Ai}~l of elements of Csuch that E:I J.t(Ai) < J.L*(C) + f."
+    ],
+    "title": [
+      ":::; J.t(A) for all A E C and Bl ~ B2 implies J.t*(Bl) :::; J.t*(B2). It is also easy to see that J.t*(Bl U B2) 'S J.t*(Bl) + J.t*(B2) for all B 1 ,B2 E 28. In fact, if {Bn}~l E 28 , then J.t*(U~lBi) :::; L::l J.t*(Bi). The proof is to notice that the collection of numbers whose inf is J.t* of the union includes all of the sums of the numbers whose infima are the J.t* values being added together"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J.t",
+        "given": "Since"
+      }
+    ],
+    "note": [
+      "we have 00 00"
+    ],
+    "title": [
+      "= J.t(Ai n A) + J.t(Ai n A C) for every i"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Either way, J.!2{Eoo ) = JEoo f(x)dJ.!l{X). Adding this into the sum of (A. 77) over all finite k gives"
+    ],
+    "title": [
+      "If J.!l(Eoo ) > 0, then J.!2{Eoo ) = 00 since v\",(Eoo ) < 0 for all o. If J.!l(Eoo ) = 0, then J.!2(Eoo) = 0 by absolute continuity"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Let J.L~(C) = Ie h(x,y)dJ.L"
+    ],
+    "issue": [
+      "x, y"
+    ],
+    "note": [
+      "Then J.L~ «J.Ll and J.LI « J.Li· The measure J.L~ induced on (8 2 ,A2 ) from J.Li by f(x,y} = x is J.L~(B) = J21T IB exp( _x 212)dx. A function 9 : 82 -+ IR is integrable with respect to J.L; if and only if exp( _x 2/2)g(x) is integrable with respect to Lebesgue measure."
+    ],
+    "title": [
+      "It follows that J.L(An) ~ nc for all n. Hence J.L is u-finite. For the \"only if\" part, assume that J.L is u-finite, and let {An}~=l be mutually disjoint sets such that 8 = U~=lAn and J.L(An) < 00 for all n. Define f(s) to equal TnlJ.L(An} for all sEAn and for all n such that J.L(An} > O. For n such that J.L(An) = 0, set f(s) = 0 if sEAn. Then o Example A.S6 (Continuation of Example A.84; see page 601). Let hex, y) = exp( _[x 2 + y2)/2). It is known that h is integrable with respect to J.Ll and h is everywhere strictly positive"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "title": [
+      "where h satisfying h(J(x» = g(x) is guaranteed to exist by Theorem A.42"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "pages": [
+      "583"
+    ],
+    "title": [
+      "Prove Proposi tion A.28 on"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "pages": [
+      "584"
+    ],
+    "title": [
+      "Prove Proposi tion A.32 on"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "pages": [
+      "584"
+    ],
+    "title": [
+      "Prove Proposi tion A.36 on"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Let"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "title": [
+      "A, p.) be a measure space, and let {jn};';\"=1 be a sequenc"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8ection"
+    ],
+    "type": null,
+    "url": [
+      "A.5:"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E."
+      }
+    ],
+    "title": [
+      "= E[E(XIF,.+dIF,.) = E(XIFn) = X n , so {(X,., Fn)}nE.N' is a martingale"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B.llI",
+        "given": "Example"
+      }
+    ],
+    "note": [
+      "B.112) hence {(IXnl,Fn)}nE.N' is a submartingale."
+    ],
+    "title": [
+      "If {(Xn, Fn)}\"E.N' is a martingale, then IXnl = IE(X\"+IIFn)1 :5 E(lXn+lIlFn"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "49This"
+    ],
+    "container-title": [
+      "Theorem"
+    ],
+    "issue": [
+      "3)"
+    ],
+    "note": [
+      "Stochastic Processes 647"
+    ],
+    "pages": [
+      "5"
+    ],
+    "title": [
+      "proposition is used in the proof of Theorem B.122. 50This lemma is proven by Doob (1953"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "citation-number": [
+      "5lThis"
+    ],
+    "title": [
+      "lemma is used in the proofs of Theorems B.U7 and B.122"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Appendix",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "648"
+    ],
+    "container-title": [
+      "Then X = limn _ oo Xn exists a.s. and EIXI"
+    ],
+    "pages": [
+      "00"
+    ],
+    "title": [
+      "Probability Theory Theorem B.117 (Martingale convergence theorem: part 1).52 Suppose that {(Xn,Fn)}~l is a submartingale such that sUPnEIXnl < 00"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "PROOF. Let X· = limsuPn-+oo Xn and X. = liminfn-+oo Xn."
+      }
+    ],
+    "note": [
+      "We will prove that J.L(B) = O. We can write"
+    ],
+    "title": [
+      "Let B = {s : X.{s) < X·(s)}"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "52This"
+    ],
+    "note": [
+      "It is borrowed from Billingsley (1986, Lemma 35.2). B.5. Stochastic Processes 649"
+    ],
+    "title": [
+      "theorem is used in the proof of Theorems B.118 and 1.121. 53This theorem is used in the proofs of Theorem 7.78 and Lemma 7.124. 54This lemma is used in the proofs of Theorems B.U8, B.122, and B.124"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AHLFORS",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Complex Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "AITCHISON",
+        "given": "J."
+      },
+      {
+        "family": "DUNSMORE",
+        "given": "I.R."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Statistical Prediction Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ALBERT",
+        "given": "J.H."
+      },
+      {
+        "family": "CHlB",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "669–679"
+    ],
+    "title": [
+      "Bayesian analysis of binary and polychotomous response data"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "88"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ALDOUS",
+        "given": "D.J."
+      }
+    ],
+    "container-title": [
+      "Journal of Multivariate Analysis"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "581–598"
+    ],
+    "title": [
+      "Representations for partially exchangeable random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ALDOUS",
+        "given": "D.J."
+      }
+    ],
+    "container-title": [
+      "Ecole d'EM de ProbabiliMs de Saint-Flour XIII-1983"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "HENNEQUlN",
+        "given": "P.L."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "1–198"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Exchangeability and related topics"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "ANDERSON",
+        "given": "T.W."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "An Introduction to Multivariate Statistical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ANSCOMBE",
+        "given": "F.J."
+      },
+      {
+        "family": "AUMANN",
+        "given": "R.J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "199–205"
+    ],
+    "title": [
+      "A definition of subjective probability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ANTONIAK",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "1152–1174"
+    ],
+    "title": [
+      "Mixtures of Dirichlet processes with applications to Bayesian nonparametric problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BAHADUR",
+        "given": "R.R."
+      }
+    ],
+    "container-title": [
+      "Sankhya"
+    ],
+    "date": [
+      "1957"
+    ],
+    "pages": [
+      "211–224"
+    ],
+    "title": [
+      "On unbiased estimates of uniformly minimum variance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARNARD",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Kalbfleisch and Dr. Sprott. Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "194–195"
+    ],
+    "title": [
+      "Discussion on paper by Dr"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARNARD",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Scandinavian Journal of Statistics"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "132–134"
+    ],
+    "title": [
+      "Conditional inference is not inefficient"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARNDORFF-NIELSEN",
+        "given": "O.E."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Parametric Statistical Models and Likelihood"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BARNETT",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Comparative Statistical Inference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BARRON",
+        "given": "A.R."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "26–30"
+    ],
+    "title": [
+      "Discussion of \"On the consistency of Bayes estimates\" by Diaconis and Freedman"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARRON",
+        "given": "A.R."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "genre": [
+      "Technical Report 7,"
+    ],
+    "location": [
+      "Champaign, IL"
+    ],
+    "publisher": [
+      "Department of Statistics, University of Illinois"
+    ],
+    "title": [
+      "The exponential convergence of posterior probabilities with implications for Bayes estimators of density functions"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "BASU",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Sankhya"
+    ],
+    "date": [
+      "1955"
+    ],
+    "pages": [
+      "377–380"
+    ],
+    "title": [
+      "On statistics independent of a complete sufficient statistic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BASU",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Sankhya"
+    ],
+    "date": [
+      "1958"
+    ],
+    "pages": [
+      "223–226"
+    ],
+    "title": [
+      "On statistics independent of sufficient statistics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BAYES",
+        "given": "References"
+      },
+      {
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "676"
+    ],
+    "container-title": [
+      "Philosophical Transactions of the Royal Society of London"
+    ],
+    "date": [
+      "1764"
+    ],
+    "pages": [
+      "37 –418"
+    ],
+    "title": [
+      "An essay toward solving a problem in the doctrine of chances"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BECKER",
+        "given": "R.A."
+      },
+      {
+        "family": "CHAMBERS",
+        "given": "J.M."
+      },
+      {
+        "family": "WILKS",
+        "given": "A.R."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Pacific Grove, CA"
+    ],
+    "publisher": [
+      "Wadsworth and Brooks/Cole"
+    ],
+    "title": [
+      "The New S Language: A Programming Environment for Data Analysis and Graphics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BERBERIAN",
+        "given": "S.K."
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Introduction to Hilbert Space"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Statistical Decision Theory and Bayesian Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      }
+    ],
+    "container-title": [
+      "Test"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "5–124"
+    ],
+    "title": [
+      "An overview of robust Bayesian analysis (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      },
+      {
+        "family": "BERRY",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Statistical Decision Theory and Related Topics IV"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "GUPTA",
+        "given": "S.S."
+      },
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "29–72"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The relevance of stopping rules in statistical inference (with discussion"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      },
+      {
+        "family": "SELLKE",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "112–122"
+    ],
+    "title": [
+      "Testing a point null hypothesis: The irreconcilability of P values and evidence (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BERK",
+        "given": "R.H."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "51–58"
+    ],
+    "title": [
+      "Limiting behavior of posterior distributions when the model is incorrect"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BERKSON",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1942"
+    ],
+    "pages": [
+      "37,325–335"
+    ],
+    "title": [
+      "Tests of significance considered as evidence"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "BERTI",
+        "given": "P."
+      },
+      {
+        "family": "REGAZZINI",
+        "given": "E."
+      },
+      {
+        "family": "RIGo",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "366–381"
+    ],
+    "title": [
+      "Coherent statistical inference and Bayes theorem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BICKEL",
+        "given": "P.J."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "1196–1217"
+    ],
+    "title": [
+      "Some asymptotic theory for the bootstrap"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BILLINGSLEY",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Convergence of Probability Measures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BILLINGSLEY",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Probability and Measure"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BISHOP",
+        "given": "Y.M.M."
+      },
+      {
+        "family": "FIENBERG",
+        "given": "S.E."
+      },
+      {
+        "family": "HOLLAND",
+        "given": "P.W."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Discrete Multivariate Analysis: Theory and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BLACKWELL",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1947"
+    ],
+    "pages": [
+      "105–110"
+    ],
+    "title": [
+      "Conditional expectation and unbiased sequential estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BLACKWELL",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "1,356–358"
+    ],
+    "title": [
+      "Discreteness of Ferguson selections"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BLACKWELL",
+        "given": "D."
+      },
+      {
+        "family": "DUBINS",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "882–886"
+    ],
+    "title": [
+      "Merging of opinions with increasing information"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BLACKWELL",
+        "given": "D."
+      },
+      {
+        "family": "RAMAMOORTHI",
+        "given": "R.V."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "1025–1026"
+    ],
+    "title": [
+      "A Bayes but not classically sufficient statistic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BLYTH",
+        "given": "C.R."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "22–42"
+    ],
+    "title": [
+      "On minimax statistical decision procedures and their admissibility"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BONDAR",
+        "given": "J.V."
+      }
+    ],
+    "container-title": [
+      ", Statistical Decision Theory and Related Topics IV"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "GUPTA",
+        "given": "S.S."
+      },
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "91–93"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Discussion of \"Conditionally acceptable frequentist solutions\" by George Casella"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BORTKIEWICZ",
+        "given": "L.V."
+      }
+    ],
+    "date": [
+      "1898"
+    ],
+    "location": [
+      "Leipzig"
+    ],
+    "publisher": [
+      "Teubne r"
+    ],
+    "title": [
+      "Das Gesetz der Kleinen Zahlen"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "G.E.P."
+      },
+      {
+        "family": "Cox",
+        "given": "D.R."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "211–246"
+    ],
+    "title": [
+      "An analysis of transfor mations (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "G.E.P."
+      },
+      {
+        "family": "TIAO",
+        "given": "G.C."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "119–129"
+    ],
+    "title": [
+      "A Bayesian approac h to some outlier problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BREIMAN",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BRENNER",
+        "given": "D."
+      },
+      {
+        "family": "FRASER",
+        "given": "D.A.S."
+      },
+      {
+        "family": "McDuNNOUGH",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Statistics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "163–172"
+    ],
+    "title": [
+      "On asymptotic normali ty of likelihood and conditio nal analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BROWN",
+        "given": "L.D."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "1068–1071"
+    ],
+    "title": [
+      "The conditio nal level of Student 's t test"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BROWN",
+        "given": "L.D."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1971"
+    ],
+    "note": [
+      "See also correction, Annals of Statistics, 1, 594-596."
+    ],
+    "pages": [
+      "855–903"
+    ],
+    "title": [
+      "Admissible estimat ors, recurren t diffusions, and insoluble bounda ry value problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BR.OWN",
+        "given": "L.D."
+      },
+      {
+        "family": "HWANG",
+        "given": "J.T."
+      }
+    ],
+    "container-title": [
+      "Statistical Decision Theory and Related Topics III"
+    ],
+    "date": [
+      "1982"
+    ],
+    "editor": [
+      {
+        "family": "GUPTA",
+        "given": "S.S."
+      },
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "205–230"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "A unified admissibility proof"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BUCK",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BUEHLER",
+        "given": "R.J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "845–863"
+    ],
+    "title": [
+      "Some validity criteria for statistic al inferenc es"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BUEHLER",
+        "given": "R.J."
+      },
+      {
+        "family": "FEDDERSON",
+        "given": "A.P."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "1098–1100"
+    ],
+    "title": [
+      "Note on a conditio nal propert y of Student 's t"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CASELLA",
+        "given": "G."
+      },
+      {
+        "family": "BERGER",
+        "given": "R.L."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "106–11"
+    ],
+    "title": [
+      "Reconciling Bayesian and frequentist evidence in the one-sided testing problem (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHALONER",
+        "given": "K."
+      },
+      {
+        "family": "CHURCH",
+        "given": "T."
+      },
+      {
+        "family": "LOUIS",
+        "given": "T.A."
+      },
+      {
+        "family": "MATTS",
+        "given": "J.P."
+      }
+    ],
+    "container-title": [
+      "The Statistic ian"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "341–353"
+    ],
+    "title": [
+      "Graphic al elicitati on of a prior distribu tion for a clinical trial"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHANG",
+        "given": "T."
+      },
+      {
+        "family": "VILLEGAS",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Statistic s"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "289–296"
+    ],
+    "title": [
+      "On a theorem of Stein relating Bayesian and classical inferences in group models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHAPMAN",
+        "given": "D."
+      },
+      {
+        "family": "ROBBINS",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "581–586"
+    ],
+    "title": [
+      "Minimu m variance estimat ion without regulari ty assump tions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHEN",
+        "given": "C.-F."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "540–546"
+    ],
+    "title": [
+      "On asympt otic normali ty of limiting density functions with Bayesian implications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHOW",
+        "given": "Y.S."
+      },
+      {
+        "family": "ROBBINS",
+        "given": "H."
+      },
+      {
+        "family": "SIEGMUND",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Hought on Mifflin"
+    ],
+    "title": [
+      "Great Expecta tions: The Theory of Optimal Stopping"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CHURCHILL",
+        "given": "R.V."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw Hill"
+    ],
+    "title": [
+      "Complex Variables and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CLARKE",
+        "given": "B.S."
+      },
+      {
+        "family": "BAR.RON",
+        "given": "A.R."
+      }
+    ],
+    "container-title": [
+      "Journal of Statistical Planning and Inference"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "41,37–6 0"
+    ],
+    "title": [
+      "Jeffreys' prior is asympto tically least favorable under entropy risk"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "CORNFIELD",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "577–594"
+    ],
+    "title": [
+      "A Bayesian test of some classical hypotheses-with applications to sequential clinical trials"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COX",
+        "given": "D.R."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1958"
+    ],
+    "pages": [
+      "357–372"
+    ],
+    "title": [
+      "Some problems connected with statistical inference"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "D.R."
+      }
+    ],
+    "container-title": [
+      "Scandinavian Journal of Statistics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "49–70"
+    ],
+    "title": [
+      "The role of significance tests"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "D.R."
+      },
+      {
+        "family": "HINKLEY",
+        "given": "D.V."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman and Hall"
+    ],
+    "title": [
+      "Theoretical Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CRAMER",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1945"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Mathematical Methods of Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CRAMER",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Skandinavisk Aktuarietidsk"
+    ],
+    "date": [
+      "1946"
+    ],
+    "pages": [
+      "85–94"
+    ],
+    "title": [
+      "Contributions to the theory of statistical estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAVID",
+        "given": "H.A."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Order Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DAWID",
+        "given": "A.P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Cambridge Philosophical Society"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "625–633"
+    ],
+    "title": [
+      "On the limiting normality of posterior distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAWID",
+        "given": "A.P."
+      }
+    ],
+    "container-title": [
+      "Exchangeability in Probability and Statistics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "editor": [
+      {
+        "family": "KOCH",
+        "given": "G."
+      },
+      {
+        "family": "SPIZZICHINO",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "217–232"
+    ],
+    "publisher": [
+      "North-Holland"
+    ],
+    "title": [
+      "Intersubjective statistical models"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DAWID",
+        "given": "A.P."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society (Series A"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "278–292"
+    ],
+    "title": [
+      "Statistical theory: The prequential approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "147"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAWID",
+        "given": "A.P."
+      },
+      {
+        "family": "STONE",
+        "given": "M."
+      },
+      {
+        "family": "ZIDEK",
+        "given": "J.V."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "189–233"
+    ],
+    "title": [
+      "Marginalization paradoxes in Bayesian and structural inference"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DEFINETTI",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Studies in Subjective Probability"
+    ],
+    "date": [
+      "1937"
+    ],
+    "editor": [
+      {
+        "family": "KYBURG",
+        "given": "H.E."
+      },
+      {
+        "family": "SMOKLER",
+        "given": "H.E."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "53–118"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Foresight: Its logical laws, its subjective sources"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DEFINETTI",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Theory of Probability"
+    ],
+    "type": "book",
+    "volume": [
+      "Vols. I and II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DEGROOT",
+        "given": "M.H."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Optimal Statistical Decisions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DEMoIVRE",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1756"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "A. Millar"
+    ],
+    "title": [
+      "The Doctrine of Chance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Probability"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "745–764"
+    ],
+    "title": [
+      "Finite exchangeable sequences"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Studies in Inductive Logic and Probability, II"
+    ],
+    "date": [
+      "1980"
+    ],
+    "editor": [
+      {
+        "family": "JEFFREY",
+        "given": "R.C."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "233–249"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "DeFinetti's generalizations of exchangeability"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Probability"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "115–130"
+    ],
+    "title": [
+      "DeFinetti's theorem for Markov chains"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Statistics: Applications and New Directions"
+    ],
+    "date": [
+      "1984"
+    ],
+    "editor": [
+      {
+        "family": "GHOSH",
+        "given": "J.K."
+      },
+      {
+        "family": "Roy",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Calcutta"
+    ],
+    "pages": [
+      "205–236"
+    ],
+    "publisher": [
+      "Indian Statistical Institute"
+    ],
+    "title": [
+      "Partial exchangeability and sufficiency"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "1–26"
+    ],
+    "title": [
+      "On the consistency of Bayes estimates (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "68–87"
+    ],
+    "title": [
+      "On inconsis tent Bayes estimat es of location"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Scandinavian Journal of Statistics"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "235–250"
+    ],
+    "title": [
+      "Cauchy 's equatio n and DeFine tti's theorem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      },
+      {
+        "family": "YLVISAKER",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "269–281"
+    ],
+    "title": [
+      "Conjug ate priors for exponen tial families"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DICKEY",
+        "given": "J.M."
+      }
+    ],
+    "container-title": [
+      "Bayesian Statistics"
+    ],
+    "date": [
+      "1980"
+    ],
+    "editor": [
+      {
+        "family": "BERNARDO",
+        "given": "J.M."
+      },
+      {
+        "family": "DEGROOT",
+        "given": "M.H."
+      },
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "location": [
+      "Valencia, Spain"
+    ],
+    "pages": [
+      "471–487"
+    ],
+    "publisher": [
+      "University Press"
+    ],
+    "title": [
+      "Beliefs about beliefs, a theory of stochas tic assessments of subjecti ve probabilities"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DOOB",
+        "given": "J.L."
+      }
+    ],
+    "container-title": [
+      "Le Calcul des Probabilites et ses Applications",
+      "Interna tionaux du Centre Nationa l de la Recherche Scientifique"
+    ],
+    "date": [
+      "1949"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "pages": [
+      "23–27"
+    ],
+    "publisher": [
+      "Colloques"
+    ],
+    "title": [
+      "Applica tion of the theory of marting ales"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DOOB",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "1953"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Stochastic Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DUBINS",
+        "given": "L.E."
+      },
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Bulletin of the American Mathematical Society"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "548–551"
+    ],
+    "title": [
+      "Random distribu tion functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DUGUNDJI",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Allyn and Bacon"
+    ],
+    "title": [
+      "Topology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DUNFORD",
+        "given": "N."
+      },
+      {
+        "family": "SCHWARTZ",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Interscience"
+    ],
+    "title": [
+      "Linear Operators, Part I: General Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DUNFORD",
+        "given": "N."
+      },
+      {
+        "family": "SCHWARTZ",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Interscience"
+    ],
+    "title": [
+      "Linear Operators, Part II: Spectral Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "EBERHARDT",
+        "given": "K.R."
+      },
+      {
+        "family": "MEE",
+        "given": "R.W."
+      },
+      {
+        "family": "REEVE",
+        "given": "C.P."
+      }
+    ],
+    "container-title": [
+      "Commu nications in Statisti cs-Simu lation and Computation"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "397–413"
+    ],
+    "title": [
+      "Compu ting factors for exact two-sided toleranc e limits for a normal distribu tion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EDWARDS",
+        "given": "W."
+      },
+      {
+        "family": "LINDMAN",
+        "given": "H."
+      },
+      {
+        "family": "SAVAGE",
+        "given": "L.J."
+      }
+    ],
+    "container-title": [
+      "Psychological Review"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "193–242"
+    ],
+    "title": [
+      "Bayesia n statistic al inference for psychological research"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EFRON",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "1–26"
+    ],
+    "title": [
+      "Bootstr ap method s: Anothe r look at the jackknif e"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EFRON",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "title": [
+      "The Jackknife, the Bootstrap and Other Resamp ling Plans. Philade lphia: Society for Industr ial and Applied Mathem atics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "EFRON",
+        "given": "B."
+      },
+      {
+        "family": "HINKLEY",
+        "given": "D.V."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "457–487"
+    ],
+    "title": [
+      "Assessing the accurac y of the maximum likelihood estimat or: Observe d versus expecte d Fisher informa tion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EFRON",
+        "given": "B."
+      },
+      {
+        "family": "MORRIS",
+        "given": "C.N."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Associa tion"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "311–319"
+    ],
+    "title": [
+      "Data analysis using Stein's estimat or and its generalizations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EFRON",
+        "given": "B."
+      },
+      {
+        "family": "TIBSHIRANI",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapm an and Hall"
+    ],
+    "title": [
+      "An Introduction to the Bootstrap"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ESCOBAR",
+        "given": "M.D."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "genre": [
+      "Ph.D. thesis,"
+    ],
+    "publisher": [
+      "Yale University"
+    ],
+    "title": [
+      "Estimating the Means of Several Normal Populations by Nonparametric Estimat ion of the Distribution of the Means"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "FABIUS",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "846–856"
+    ],
+    "title": [
+      "Asympt otic behavio r of Bayes' estimate s"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FERGUSON",
+        "given": "T.S."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Mathematical Statistics: A Decision Theoretic Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "FERGUSON",
+        "given": "T.S."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "209–230"
+    ],
+    "title": [
+      "A Bayesian analysis of some nonparametric problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FERGUSON",
+        "given": "T.S."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "615–629"
+    ],
+    "title": [
+      "Prior distributions on spaces of probability measures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FERRANDIZ",
+        "given": "J.R."
+      }
+    ],
+    "container-title": [
+      "Bayesian Statistics 2: Proceedings of the Second Valencia International Meeting"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "BERNARDO",
+        "given": "J.M."
+      },
+      {
+        "family": "DEG-ROOT",
+        "given": "M.H."
+      },
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "645–653"
+    ],
+    "publisher": [
+      "North Holland"
+    ],
+    "title": [
+      "Bayesian inference on Mahalanobis distance: An alternative to Bayesian model testing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "FIELLER",
+        "given": "E.C."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society (Series B"
+    ],
+    "date": [
+      "1954"
+    ],
+    "pages": [
+      "175–185"
+    ],
+    "title": [
+      "Some problems in interval estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHBURN",
+        "given": "P.C."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Utility Theory for Decision Making"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Philosophical Transactions of the Royal Society of London, Series A"
+    ],
+    "date": [
+      "1922"
+    ],
+    "pages": [
+      "309–368"
+    ],
+    "title": [
+      "On the mathematical foundations of theoretical statistics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "222A"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1924"
+    ],
+    "pages": [
+      "442–450"
+    ],
+    "title": [
+      "The conditions under which X2 measures the discrepancy between observation and hypothesis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "87"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Cambridge Philosophical Society"
+    ],
+    "date": [
+      "1925"
+    ],
+    "pages": [
+      "700–725"
+    ],
+    "title": [
+      "Theory of statistical estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London, A"
+    ],
+    "date": [
+      "1934"
+    ],
+    "pages": [
+      "285–307"
+    ],
+    "title": [
+      "Two new properties of mathematical likelihood"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "144"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Eugenics"
+    ],
+    "date": [
+      "1935"
+    ],
+    "pages": [
+      "391–398"
+    ],
+    "title": [
+      "The fiducial argument in statistical inference"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Science"
+    ],
+    "date": [
+      "1936"
+    ],
+    "pages": [
+      "115–137"
+    ],
+    "title": [
+      "Has Mendel's work been rediscovered?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1943"
+    ],
+    "pages": [
+      "103–104"
+    ],
+    "title": [
+      "Note on Dr. Berkson's criticism of tests of significance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FISHER",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "edition": [
+      "8th"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Hafner"
+    ],
+    "title": [
+      "The Design of Experiments"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "FRASER",
+        "given": "D.A.S."
+      },
+      {
+        "family": "McDuNNOUGH",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Canadian Journal of Statistics"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "183–190"
+    ],
+    "title": [
+      "Further remarks on asymptotic normality of likelihood and conditional analyses"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "1386–1403"
+    ],
+    "title": [
+      "On the asymptotic behavior of Bayes' estimates in the discrete case"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1977"
+    ],
+    "title": [
+      "A remark on the difference between sampling with and without replacement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72,681"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FREEDMAN",
+        "given": "D.A."
+      },
+      {
+        "family": "DIACONIS",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "454–461"
+    ],
+    "title": [
+      "On inconsistent M-estimators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FREEDMAN",
+        "given": "L.S."
+      },
+      {
+        "family": "SPIEGELHALTER",
+        "given": "D.J."
+      }
+    ],
+    "container-title": [
+      "The Statistician"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "153–160"
+    ],
+    "title": [
+      "The assessment ofsubjective opinion and its use in relation to stopping rules of clinical trials"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FREEMAN",
+        "given": "P.R."
+      }
+    ],
+    "container-title": [
+      "Bayesian Statistics"
+    ],
+    "date": [
+      "1980"
+    ],
+    "editor": [
+      {
+        "family": "BERNARDO",
+        "given": "J.M."
+      },
+      {
+        "family": "DEGROOT",
+        "given": "M.H."
+      },
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "location": [
+      "Valencia, Spain"
+    ],
+    "pages": [
+      "349–365"
+    ],
+    "publisher": [
+      "Univers ity Press"
+    ],
+    "title": [
+      "On the number of outliers in data from a linear model"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "GABRIEL",
+        "given": "K.R."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "224–250"
+    ],
+    "title": [
+      "Simulta neous test proced ures-so me theory of mUltiple comparisons"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GARTHWAITE",
+        "given": "P."
+      },
+      {
+        "family": "DICKEY",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society (Series B"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "462–474"
+    ],
+    "title": [
+      "Quantif ying expert opinion in linear regression problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GARTHWAITE",
+        "given": "P.H."
+      },
+      {
+        "family": "DICKEY",
+        "given": "J.M."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "1697–1719"
+    ],
+    "title": [
+      "Elicitat ion of prior distribu tions for variable-selection problems in regression"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GAVASAKAR",
+        "given": "U.K."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "genre": [
+      "Ph.D. thesis,"
+    ],
+    "publisher": [
+      "Carnegie Mellon University"
+    ],
+    "title": [
+      "A Study of Elicitation Procedures by Modelling the Errors in Responses"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "GEISSER",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "807–817"
+    ],
+    "title": [
+      "Estimat ion associat ed with linear discriminants"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GEISSER",
+        "given": "S."
+      },
+      {
+        "family": "EDDY",
+        "given": "W.F."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "153–160"
+    ],
+    "title": [
+      "A predictive approac h to model selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "74"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GELFAND",
+        "given": "A.E."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical ASSOCia tion"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "–409"
+    ],
+    "title": [
+      "Samplin g-based approac hes to calculating margina l densities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "85,398"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GEMAN",
+        "given": "S."
+      },
+      {
+        "family": "GEMAN",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "721–741"
+    ],
+    "title": [
+      "Stochas tic relaxati on, Gibbs distribu tions and the Bayesian restorat ion of images"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GNANADESIKAN",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Methods for Statistical Data Analysis of Multivariate Observations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "GOOD",
+        "given": "I.J."
+      }
+    ],
+    "container-title": [
+      "Informa tion Theory: Third London Symposium"
+    ],
+    "date": [
+      "1956"
+    ],
+    "editor": [
+      {
+        "family": "CHERRY",
+        "given": "C."
+      }
+    ],
+    "location": [
+      "London"
+    ],
+    "pages": [
+      "13–14"
+    ],
+    "publisher": [
+      "Butterw orths"
+    ],
+    "title": [
+      "Discussion of \"Chanc e and control: Some implica tions of random ization\" by G. Spencer Brown"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "HALL",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Bootstrap and Edgeworth Expansion"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HALL",
+        "given": "W.J."
+      },
+      {
+        "family": "WIJSMAN",
+        "given": "R.A."
+      },
+      {
+        "family": "GHOSH",
+        "given": "J.K."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "575–614"
+    ],
+    "title": [
+      "The relation ship between sufficiency and invariance with applicat ions in sequent ial analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HALMOS",
+        "given": "P.R."
+      }
+    ],
+    "date": [
+      "1950"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostran d"
+    ],
+    "title": [
+      "Measure Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HALMOS",
+        "given": "P.R."
+      },
+      {
+        "family": "SAVAGE",
+        "given": "L.J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1949"
+    ],
+    "pages": [
+      "225–241"
+    ],
+    "title": [
+      "Applica tion of the Radon-Nikody m theorem to the theory of sufficient statistic s"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HAMPEL",
+        "given": "F.R."
+      },
+      {
+        "family": "RONCHETTI",
+        "given": "E.M."
+      },
+      {
+        "family": "ROUSSEEUW",
+        "given": "P.J."
+      },
+      {
+        "family": "STAHEL",
+        "given": "W.A."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Robust Statistics: The Approach Based on Influence Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HARTIGAN",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Bayes Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HEATH",
+        "given": "D."
+      },
+      {
+        "family": "SUDDERTH",
+        "given": "W.D."
+      }
+    ],
+    "container-title": [
+      "American Statistician"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "188–189"
+    ],
+    "title": [
+      "DeFine tti's theorem on exchang eable variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HEATH",
+        "given": "D."
+      },
+      {
+        "family": "SUDDERTH",
+        "given": "W.D."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "907–919"
+    ],
+    "title": [
+      "Coherent inference from improper priors and from finitely additive priors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HEWITT",
+        "given": "E."
+      },
+      {
+        "family": "SAVAGE",
+        "given": "L.J."
+      }
+    ],
+    "container-title": [
+      "Transactions of the American Mathematical Society"
+    ],
+    "date": [
+      "1955"
+    ],
+    "pages": [
+      "470–501"
+    ],
+    "title": [
+      "Symmetric measures on cartesian products"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "80"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "HEYDE, C. C. and JOHNSTONE, 1. M."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "184–189"
+    ],
+    "title": [
+      "On asymptotic posterior normality for stochastic processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HILL",
+        "given": "B.M."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "806–825"
+    ],
+    "title": [
+      "Inference about variance components in the one-way model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HILL",
+        "given": "B.M."
+      },
+      {
+        "family": "LANE",
+        "given": "D."
+      },
+      {
+        "family": "SUDDERTH",
+        "given": "W.D."
+      }
+    ],
+    "container-title": [
+      "Annals of Probability"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "1586–1592"
+    ],
+    "title": [
+      "Exchangeable urn processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HOEL",
+        "given": "P.G."
+      },
+      {
+        "family": "PORT",
+        "given": "S.C."
+      },
+      {
+        "family": "STONE",
+        "given": "C.J."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Houghton Mifflin"
+    ],
+    "title": [
+      "Introduction to Probability Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HOGARTH",
+        "given": "R.M."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "271–294"
+    ],
+    "title": [
+      "Cognitive processes and the assessment of subjective probability distributions (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HUBER",
+        "given": "P.J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "73–101"
+    ],
+    "title": [
+      "Robust estimation of a location parameter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HUBER",
+        "given": "P.J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability"
+    ],
+    "date": [
+      "1967"
+    ],
+    "editor": [
+      {
+        "family": "LECAM",
+        "given": "L.M."
+      },
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "221–233"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "The behaviour of maximum likelihood estimates under nonstandard conditions"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HUBER",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "Society for Industrial and Applied Mathematics"
+    ],
+    "title": [
+      "Robust Statistical Procedures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HUBER",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Robust Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "JAMES",
+        "given": "W."
+      },
+      {
+        "family": "STEIN",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability"
+    ],
+    "date": [
+      "1960"
+    ],
+    "editor": [
+      {
+        "family": "NEY-MAN",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "361–379"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Estimation with quadratic loss"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "JAYNES",
+        "given": "E.T."
+      }
+    ],
+    "container-title": [
+      "Foundations of Probability Theory, Statistical Inference, and Statistical Theories of Science"
+    ],
+    "date": [
+      "1976"
+    ],
+    "editor": [
+      {
+        "family": "HARPER",
+        "given": "W.L."
+      },
+      {
+        "family": "HOOKER",
+        "given": "C.A."
+      }
+    ],
+    "location": [
+      "Dordrecht"
+    ],
+    "pages": [
+      "175–257"
+    ],
+    "publisher": [
+      "D. Reidel"
+    ],
+    "title": [
+      "Confidence intervals vs. Bayesian intervals (with discussion"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "JEFFREYS",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Theory of Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "JOHNSTONE, 1. M."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      },
+      {
+        "family": "DICKEY",
+        "given": "J.M."
+      },
+      {
+        "family": "WINKLER",
+        "given": "R.L."
+      },
+      {
+        "family": "SMITH",
+        "given": "W."
+      },
+      {
+        "family": "PETERS",
+        "given": "S.C."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1978",
+      "1980"
+    ],
+    "genre": [
+      "Master's thesis,"
+    ],
+    "pages": [
+      "845–854"
+    ],
+    "publisher": [
+      "Australian National University"
+    ],
+    "title": [
+      "Problems in limit theory for martingales and posterior distributions from stochastic processes",
+      "Interactive elicitation of opinion for a normal linear model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      },
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Bayesian Inference and Decision Techniques with Applic~t ions: Essays in Honor of Bruno DeFinetti"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "GOEL",
+        "given": "P."
+      },
+      {
+        "family": "ZELLNER",
+        "given": "A."
+      }
+    ],
+    "location": [
+      "Amster dam"
+    ],
+    "pages": [
+      "59–76"
+    ],
+    "publisher": [
+      "Elsevier SCience Publish ers"
+    ],
+    "title": [
+      "Statistical implications of finitely additive probability"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "B.",
+        "given": "K.A.D.A.N.E.J."
+      },
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "to appear."
+    ],
+    "title": [
+      "Reasoni ng to a fore~one conclusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "91"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KAGAN",
+        "given": "A.M."
+      },
+      {
+        "family": "LINNIK",
+        "given": "Y.V."
+      },
+      {
+        "family": "RAO",
+        "given": "C.R."
+      }
+    ],
+    "container-title": [
+      "Sankhya , Series A"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "37–40"
+    ],
+    "title": [
+      "On a charact erizatio n of the normal law based on a propert y of the sample average"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "date": [
+      "1982"
+    ],
+    "editor": [
+      {
+        "family": "KAHNEMAN",
+        "given": "D."
+      },
+      {
+        "family": "SLOVIC",
+        "given": "P."
+      },
+      {
+        "family": "TVERSKY",
+        "given": "A."
+      }
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambri dge Univers ity Press"
+    ],
+    "title": [
+      "Judgment Under Uncertainty: Heuristics and Biases"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "KASS",
+        "given": "R.E."
+      },
+      {
+        "family": "RAFTERY",
+        "given": "A.E."
+      }
+    ],
+    "container-title": [
+      "Journal of the Americ an Statistical Association"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "773–795"
+    ],
+    "title": [
+      "Bayes factors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "90"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KASS",
+        "given": "R.E."
+      },
+      {
+        "family": "STEFFEY",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of the Americ an Statistical Association"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "717–726"
+    ],
+    "title": [
+      "Approx imate Bayesian inferenc e in conditionally indepen dent hierarchical models (parame tric empiric al Bayes models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "84"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KASS",
+        "given": "R.E."
+      },
+      {
+        "family": "TIERNEY",
+        "given": "L."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Bayesian Statistics :1"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "BERNARDO",
+        "given": "J.M."
+      },
+      {
+        "family": "DEGROOT",
+        "given": "M.H."
+      },
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "pages": [
+      "261–278"
+    ],
+    "publisher": [
+      "Clarend on Press"
+    ],
+    "title": [
+      "Asympt otics in Bayesia n comput ation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "KASS",
+        "given": "R.E."
+      },
+      {
+        "family": "TIERNEY",
+        "given": "L."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Bayesian and Likelihood Methods in Statistics and Econometrics"
+    ],
+    "date": [
+      "1990"
+    ],
+    "editor": [
+      {
+        "family": "GEISSER",
+        "given": "S."
+      },
+      {
+        "family": "HODGES",
+        "given": "J.S."
+      },
+      {
+        "family": "PRESS",
+        "given": "S.J."
+      },
+      {
+        "family": "ZELLNER",
+        "given": "A."
+      }
+    ],
+    "note": [
+      "Amster dam: Elsevier (North Holland )."
+    ],
+    "pages": [
+      "473–488"
+    ],
+    "title": [
+      "The validity of posterio r expansi ons based on Laplace 's method"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "KEIFER",
+        "given": "J."
+      },
+      {
+        "family": "WOLFOWITZ",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1956"
+    ],
+    "pages": [
+      "887–906"
+    ],
+    "title": [
+      "Consistency of the maximu m likelihood estimat or in the presence of infinitely many inciden tal parame ters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KERRJDGE",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "1109–1110"
+    ],
+    "title": [
+      "Bounds for the frequency of misleading Bayes inferences"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KINDERMAN",
+        "given": "A.J."
+      },
+      {
+        "family": "MONAHAN",
+        "given": "J.F."
+      }
+    ],
+    "container-title": [
+      "A eM Transac tions on Mathematical Software"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "257–260"
+    ],
+    "title": [
+      "Compu ter generat ion of random variables using the ratio of uniform deviates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KINGMAN",
+        "given": "J.F.C."
+      }
+    ],
+    "container-title": [
+      "Annals of Probability"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "183–197"
+    ],
+    "title": [
+      "Uses of exchangeability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KNUTH",
+        "given": "D.E."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The 1E;Xbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "KRAFT",
+        "given": "C.H."
+      }
+    ],
+    "container-title": [
+      "Journal of Applied Probability"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "385–388"
+    ],
+    "title": [
+      "A class of distribu tion function processe s which have derivatives"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KRASKER",
+        "given": "W."
+      },
+      {
+        "family": "PRATT",
+        "given": "J.W."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistic s"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "55–58"
+    ],
+    "title": [
+      "Discussion of \"On the consiste ncy of Bayes estimate s\" by Diaconis and Freedm an"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KREM",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Publications of the Mathematical Institute of the Hungar ian Academy of Science"
+    ],
+    "date": [
+      "1963"
+    ],
+    "pages": [
+      "469–474"
+    ],
+    "title": [
+      "On the indepen dence in the limit of extreme and central order statistic s"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KSHIRSAGAR",
+        "given": "A.M."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Multivariate Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "KULLBACK",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Information Theory and Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LAMPORT",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UTEX: A Document Prepamtion System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LAURITZEN",
+        "given": "S.L."
+      }
+    ],
+    "container-title": [
+      "Scandinavian Journal of Statistics"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "65–91"
+    ],
+    "title": [
+      "Extreme point models in statistics (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LAURITZEN",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "1"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Extremal Families and Systems of Sufficient Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LAVINE",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "1222–1235"
+    ],
+    "title": [
+      "Some aspects of Polya tree distributions for statistical modelling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LAVINE",
+        "given": "M."
+      },
+      {
+        "family": "WASSERMAN",
+        "given": "L."
+      },
+      {
+        "family": "WOLPERT",
+        "given": "R.L."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "964–971"
+    ],
+    "title": [
+      "Bayesian inference with specified prior marginals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "86"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LAVINE",
+        "given": "M."
+      },
+      {
+        "family": "WASSERMAN",
+        "given": "L."
+      },
+      {
+        "family": "WOLPERT",
+        "given": "R.L."
+      }
+    ],
+    "container-title": [
+      "Journal of Statistical Planning and Inference"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Linearization of Bayesian robustness problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37,307-316"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LECAM",
+        "given": "L.M."
+      }
+    ],
+    "container-title": [
+      "University of California Publications in Statistics"
+    ],
+    "date": [
+      "1953"
+    ],
+    "pages": [
+      "277–330"
+    ],
+    "title": [
+      "On some asymptotic properties of maximl,lm likelihood estimates and related Bayes estimates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LECAM",
+        "given": "L.M."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "802–828"
+    ],
+    "title": [
+      "On the assumptions used to prove asymptotic normality of maximum likelihood estimates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LECOUTRE",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Communications in Statistics-Theory and Methods"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "2437–2446"
+    ],
+    "title": [
+      "Reconsideration of the F-test of the analysis of variance:' The semi-Bayesian significance test"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LECOUTRE",
+        "given": "B."
+      },
+      {
+        "family": "ROUANET",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Mathematiques et Sciences Humaines"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "71–82"
+    ],
+    "title": [
+      "Deux structures statistiques fondamentales en analyse de la variance univariee et mulitvariee"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LEHMANN",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1958",
+      "1167"
+    ],
+    "pages": [
+      "1"
+    ],
+    "publisher": [
+      "Annals of Mathematical Statistics"
+    ],
+    "title": [
+      "Significance level and power"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LEHMANN",
+        "given": "E.L."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Theory of Point Estimation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LEHMANN",
+        "given": "E.L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Testing Statistical Hypotheses"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "LEHMANN, E. 1. and SCHEFFE, H."
+      }
+    ],
+    "container-title": [
+      "Sankhya"
+    ],
+    "date": [
+      "1955"
+    ],
+    "note": [
+      "and correction 17, 250."
+    ],
+    "pages": [
+      "305–340",
+      "219–236,"
+    ],
+    "title": [
+      "Completeness, similar regions and unbiased estimates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10",
+      "Also 15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1957"
+    ],
+    "pages": [
+      "187–192"
+    ],
+    "title": [
+      "A statistical paradox"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "NOVICK",
+        "given": "M.R."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "45–58"
+    ],
+    "title": [
+      "The role of exchangeability in inference"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "PHILLIPS",
+        "given": "L.D."
+      }
+    ],
+    "container-title": [
+      "American Statistician"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "112–119"
+    ],
+    "title": [
+      "Inference for a Bernoulli process (a Bayesian view"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LINDLEY",
+        "given": "D.V."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "1–41"
+    ],
+    "title": [
+      "Bayes estimates for the linear model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LOEVE",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Probability Theory I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MAULDIN",
+        "given": "R.D."
+      },
+      {
+        "family": "SUDDERTH",
+        "given": "W.D."
+      },
+      {
+        "family": "WILLIAMS",
+        "given": "S.C."
+      },
+      {
+        "family": "D.",
+        "given": "R."
+      },
+      {
+        "family": "WILLIAMS",
+        "given": "S.C."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics",
+      "Proceedings of the American Mathematical Society"
+    ],
+    "date": [
+      "1992",
+      "1990"
+    ],
+    "pages": [
+      "1203–1221– ,",
+      "251–258"
+    ],
+    "title": [
+      "Polya trees and random distributions",
+      "Reinforced random walks and random distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20",
+      "110"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MENDEL",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Verhandlungen Naturforschender Vereines in Brunn"
+    ],
+    "date": [
+      "1866"
+    ],
+    "pages": [
+      "1"
+    ],
+    "title": [
+      "Versuche iiber pflanzenhybriden"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "METIVIER",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Zeitschrijt fur Wahrscheinlichkeitstheorie"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "332–344"
+    ],
+    "title": [
+      "Sur la construction de mesures alt~atoires presque surement absolument continues par rapport a une mesure donnee"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MORRIS",
+        "given": "C.N."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "78,47–65"
+    ],
+    "title": [
+      "Parametric empirical Bayes inference: Theory and applications (with discussion"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "NACHBIN",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Van Nostrand"
+    ],
+    "title": [
+      "The Haar Integral"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Giornale Dell'Istituto Italiano degli Attuari"
+    ],
+    "date": [
+      "1935"
+    ],
+    "pages": [
+      "320–334"
+    ],
+    "title": [
+      "Su un teorema concernente Ie cosiddette statistiche sufficienti"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      },
+      {
+        "family": "PEARSON",
+        "given": "E.S."
+      }
+    ],
+    "container-title": [
+      "Series A"
+    ],
+    "date": [
+      "1933"
+    ],
+    "pages": [
+      "289–337"
+    ],
+    "title": [
+      "On the problem of the most efficient test of statistical hypotheses. Philosophical 1hmsactions of the Royal Society of London"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "231"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      },
+      {
+        "family": "SCOTT",
+        "given": "E.L."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "1–32"
+    ],
+    "title": [
+      "Consistent estimates based on partially consistent observations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PEARSON",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Philosophical Magazine",
+      "Philosophical Magazine"
+    ],
+    "date": [
+      "1900"
+    ],
+    "issue": [
+      "Series), 50",
+      "Series), 1"
+    ],
+    "note": [
+      "See also correction,"
+    ],
+    "pages": [
+      "339–357",
+      "670–671"
+    ],
+    "title": [
+      "On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "PERLMAN",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability"
+    ],
+    "date": [
+      "1972"
+    ],
+    "editor": [
+      {
+        "family": "LECAM",
+        "given": "L.M."
+      },
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      },
+      {
+        "family": "SCOTT",
+        "given": "E.L."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "263–281"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "On the strong consistency of approximate maximum likelihood estimators"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PIERCE",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "1,241–250"
+    ],
+    "title": [
+      "On some difficulties in a frequency theory of inference"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PITMAN",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1939"
+    ],
+    "pages": [
+      "391–421"
+    ],
+    "title": [
+      "The estimation of location and scale parameters of a continuous population of any given form"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PRATT",
+        "given": "J.W."
+      }
+    ],
+    "container-title": [
+      "L. Lehmann. Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "163–167"
+    ],
+    "title": [
+      "Review of \"Testing Statistical Hypotheses\" by E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "56"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PRATT",
+        "given": "J.W."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1962"
+    ],
+    "pages": [
+      "314–316"
+    ],
+    "title": [
+      "Discussion of \"On the foundations of statistical inference\" by Allan Birnbaum"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "57"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "RAO",
+        "given": "C.R."
+      }
+    ],
+    "container-title": [
+      "Bulletin of the Calcutta Mathematical Society"
+    ],
+    "date": [
+      "1945"
+    ],
+    "pages": [
+      "81–91"
+    ],
+    "title": [
+      "Information and the accuracy a.ttainable in the estimation of statistical parameters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "RAO",
+        "given": "C.R."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Linear Statistical Inference and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ROBBINS",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability"
+    ],
+    "date": [
+      "1951"
+    ],
+    "editor": [
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "131–148"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Asymptotically subminimax solutions of compound statistical decision problems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "ROBBINS",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability"
+    ],
+    "date": [
+      "1955"
+    ],
+    "editor": [
+      {
+        "family": "NEY-MAN",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "157–164"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "An empirical Bayes approach to statistics"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ROBBINS",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "1–20"
+    ],
+    "title": [
+      "The empirical Bayes approach to statistical decision problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ROBERT",
+        "given": "C.P."
+      }
+    ],
+    "container-title": [
+      "Statistica Sinica"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "601–608"
+    ],
+    "title": [
+      "A note on Jeffreys-Lindley paradox"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ROBERTS",
+        "given": "H.V."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "763–775"
+    ],
+    "title": [
+      "Informative stopping rules and inferences about population size"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ROUANET",
+        "given": "H."
+      },
+      {
+        "family": "LECOUTRE",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "British Journal of Mathematical and Statistical Psychology"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "252–268"
+    ],
+    "title": [
+      "Specific inference in ANOVA: From significance tests to Bayesian procedures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ROYDEN",
+        "given": "H.L."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "RUBIN",
+        "given": "D.B."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "130–134"
+    ],
+    "title": [
+      "The Bayesian bootstrap"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "RUDIN",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Principles of Mathematical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SAVAGE",
+        "given": "L.J."
+      }
+    ],
+    "date": [
+      "1954"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The Foundations of Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SAVAGE",
+        "given": "L.J."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Methuen"
+    ],
+    "title": [
+      "The Foundations of Statistical Inference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHEFFE",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1947"
+    ],
+    "pages": [
+      "18,434–438"
+    ],
+    "publisher": [
+      "Annals of Mathematical Statistics"
+    ],
+    "title": [
+      "A useful convergence theorem for probability distributions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "611–615"
+    ],
+    "title": [
+      "User-oriented inference"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "78"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "Bayesian Statistics 4: Proceedings of the Second Valencia International Meeting"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "BERNARDO",
+        "given": "J.M."
+      },
+      {
+        "family": "BERGER",
+        "given": "J.O."
+      },
+      {
+        "family": "DAWID",
+        "given": "A.P."
+      },
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "pages": [
+      "419–434"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "title": [
+      "Bayesian analysis of linear models (with discussion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "A. Young. Statistical Science"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "408–410"
+    ],
+    "title": [
+      "Discussion of \"Bootstrap: More than a stab in the dark?\" by G"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "American Statistician"
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "to appear."
+    ],
+    "title": [
+      "P-values: What they are and what they are not"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "CARLIN",
+        "given": "B.P."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational and Graphical Statistics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "111–127"
+    ],
+    "title": [
+      "On the convergence of successive substitution sampling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of Statistical Planning and Inference"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "25,401–414"
+    ],
+    "title": [
+      "An approach to consensus and certainty with increasing evidence"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Zeitschrift fur Wahrscheinlichkeitstheorie"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "205–226"
+    ],
+    "title": [
+      "The extent of non-conglomerability of finitely additive probabilities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "66"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "840–847"
+    ],
+    "title": [
+      "State dependent utilities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "85"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SCHWARTZ",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Zeitschrift fur Wahrscheinlichkeitstheorie"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "10–26"
+    ],
+    "title": [
+      "On Bayes procedures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      },
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "Philosophy of Science"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "398–412"
+    ],
+    "title": [
+      "A conflict between finite additivity and avoiding Dutch Book"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SEIDENFELD",
+        "given": "T."
+      },
+      {
+        "family": "SCHERVISH",
+        "given": "M.J."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "2168–2217"
+    ],
+    "title": [
+      "A representation of partially ordered preferences"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SERFLING",
+        "given": "R.J."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Approximation Theorems of Mathematical Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SETHURAMAN",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Statistica Sinica"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "639–650"
+    ],
+    "title": [
+      "A constructive definition of Dirichlet priors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SINGH",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "1187–1195"
+    ],
+    "title": [
+      "On the asymptotic accuracy of Efron's bootstrap"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SMITH",
+        "given": "A.F.M."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society, Ser. B"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "67–75"
+    ],
+    "title": [
+      "A general Bayesian linear model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "SPJ0TVOLL,"
+    ],
+    "date": [
+      "1983"
+    ],
+    "editor": [
+      {
+        "family": "BICKEL",
+        "given": "P.J."
+      },
+      {
+        "family": "DOKSUM",
+        "given": "K."
+      },
+      {
+        "family": "J. L. HODGES",
+        "given": "A.Festschrift for Erich L.Lehmann",
+        "suffix": "JR."
+      }
+    ],
+    "location": [
+      "Belmont, CA"
+    ],
+    "pages": [
+      "409–432"
+    ],
+    "publisher": [
+      "Wadsworth"
+    ],
+    "title": [
+      "Preference functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "S.T.A.T.S.C.I."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Seattle"
+    ],
+    "publisher": [
+      "StatSci Division, MathSoft, Inc"
+    ],
+    "title": [
+      "S-PLUS, Version 3.1 (software package"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "STEIN",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1946"
+    ],
+    "pages": [
+      "498–499"
+    ],
+    "title": [
+      "A note on cumulative sums"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STEIN",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability"
+    ],
+    "date": [
+      "1956"
+    ],
+    "editor": [
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "197–206"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Inadmissibility of the usual estimator for the mean of a multivariate normal distribution"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STEIN",
+        "given": "C.M."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "editor": [
+      {
+        "family": "NEYMAN",
+        "given": "J."
+      },
+      {
+        "family": "LECAM",
+        "given": "L.M."
+      }
+    ],
+    "location": [
+      "Bernoulli, Bayes, Laplace",
+      "New York"
+    ],
+    "pages": [
+      "217–240"
+    ],
+    "publisher": [
+      "Anniversary",
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Approximation of improper prior measures by prior probability measures"
+    ],
+    "type": "book",
+    "volume": [
+      "pp"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STEIN",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "1135–1151"
+    ],
+    "title": [
+      "Estimation of the mean of a multivariate normal distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STIGLER",
+        "given": "S.M."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Belknap"
+    ],
+    "title": [
+      "The History of Statistics: The Measurement of Uncertainty before 1900"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "STONE",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "114–125"
+    ],
+    "title": [
+      "Strong inconsistency from uniform priors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STONE",
+        "given": "M."
+      },
+      {
+        "family": "DAWID",
+        "given": "A.P."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "369–375"
+    ],
+    "title": [
+      "Un-Bayesian implications of improper Bayes inference in routine statistical problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STRASSER",
+        "given": "References"
+      },
+      {
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "688"
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "1107–1113"
+    ],
+    "title": [
+      "Consistency of maximum likelihood and Bayes estimates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STRAWDERMAN",
+        "given": "W.E."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "385–388"
+    ],
+    "title": [
+      "Proper Bayes minimax estimators of the multivariate normal mean"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TAYLOR",
+        "given": "R.L."
+      },
+      {
+        "family": "DAFFER",
+        "given": "P.Z."
+      },
+      {
+        "family": "PATTERSON",
+        "given": "R.F."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Totowa, NJ"
+    ],
+    "publisher": [
+      "Rowman and Allanheld"
+    ],
+    "title": [
+      "Limit Theorems for Sums of Exchangeable Random Variables"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "TIERNEY",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Annals of Statistics"
+    ],
+    "date": [
+      "1994",
+      "1701"
+    ],
+    "title": [
+      "Markov chains for exploring posterior distributions (with discussion"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "TIERNEY",
+        "given": "L."
+      },
+      {
+        "family": "KADANE",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Journal of the American Statistical Association"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "82–86"
+    ],
+    "title": [
+      "Accurate approximations for posterior moments and marginal densities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "81"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "VENN",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1876"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "The Logic of Chance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "VERDINELLI",
+        "given": "I."
+      },
+      {
+        "family": "WASSERMAN",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Statistics and Computing"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "105–117"
+    ],
+    "title": [
+      "Bayesian analysis of outlier problems using the Gibbs sampler"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MISES",
+        "given": "V.O.N."
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Allen and Unwin"
+    ],
+    "title": [
+      "Probability, Statistics and Truth"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "NEUMANN",
+        "given": "V.O.N."
+      },
+      {
+        "given": "J."
+      },
+      {
+        "family": "MORGENSTERN",
+        "given": "O."
+      }
+    ],
+    "date": [
+      "1947"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Theory of Games and Economic Behavior"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "WALD",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1947"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Sequential Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "WALD",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1949"
+    ],
+    "pages": [
+      "595–601"
+    ],
+    "title": [
+      "Note on the consistency of the maximum likelihood estimate"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WALD",
+        "given": "A."
+      },
+      {
+        "family": "WOLFOWITZ",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "326–339"
+    ],
+    "title": [
+      "Optimum character of the sequential probability ratio test"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WALKER",
+        "given": "A.M."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "80–88"
+    ],
+    "title": [
+      "On the asymptotic behaviour of posterior distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B), 31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WALLACE",
+        "given": "D.L."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "30,864–876"
+    ],
+    "publisher": [
+      "Annals of Mathematical Statistics"
+    ],
+    "title": [
+      "Conditional confidence level properties"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "WELCH",
+        "given": "B.L."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1939"
+    ],
+    "pages": [
+      "58–69"
+    ],
+    "title": [
+      "On confidence limits and sufficiency, with particular reference to parameters of location"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WEST",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of the Royal Statistical Society"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "46,431–439"
+    ],
+    "title": [
+      "Outlier models and prior distributions in Bayesian linear regression"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Series B"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WILKS",
+        "given": "S.S."
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1941"
+    ],
+    "pages": [
+      "91–96"
+    ],
+    "title": [
+      "Determination of sample sizes for setting tolerance limits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "YOUNG",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Statistical Science"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "382–415"
+    ],
+    "title": [
+      "Bootstrap: More than a stab in the dark? (with discussion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ZELLNER",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "An Introduction to Bayesian Inference in Econometrics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Notation"
+      },
+      {
+        "family": "Index",
+        "given": "Abbreviation"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berkson",
+        "given": "J."
+      },
+      {
+        "family": "Berti",
+        "given": "P."
+      },
+      {
+        "family": "Bhattacharyya",
+        "given": "A."
+      },
+      {
+        "family": "Bickel",
+        "given": "P."
+      },
+      {
+        "family": "Doytchinov",
+        "given": "B."
+      },
+      {
+        "family": "Bishop",
+        "given": "Y.",
+        "particle": "ix"
+      }
+    ],
+    "container-title": [
+      "P",
+      "J",
+      "J",
+      "P"
+    ],
+    "date": [
+      "21",
+      "679 Billingsley"
+    ],
+    "issue": [
+      "",
+      ""
+    ],
+    "note": [
+      "462, 676 Dubins, L., 70, 455, 676, 679 Blackwell, D., 56, 86, 152, 455, 676 Dugundji, J., 666, 679 Blyth, C., 158, 676 Dunford, N., 507, 635, 667, 679 Bohrer, R., x Dunsmore, I., 325, 675 Bondar, J., 236, 676 Bortkiewicz, L., 462, 677 Eberhardt, K., 326, 679 Box, G., 21, 521, 677 Eddy, W., 521,681 Breiman, L., 618, 640, 677 Edwards, W., 222, 284, 679 Brenner, D., 435, 677 Efron, B., 166,330-331,335-336,423, Brown, L., 99, 160, 167, 677 679 Buck, C., 665, 677 Escobar, M., 60, 679 Buehler, R, 99, 677 Fabius, J., 61, 679 Carlin, B., 507, 686 Fedderson, A., 99, 677 Casella, G., 283, 677 692 Name Index Ferguson, T., 52, 56, 61, 173, 179, Johnstone,"
+    ],
+    "pages": [
+      "676 123,126,426,434,479–480,",
+      "678–680",
+      "681–682",
+      "645–646,",
+      "676",
+      "682 181,248,258,614,666,680"
+    ],
+    "title": [
+      "218, 281, 676 Diaconis",
+      "305 Dickey",
+      "330-331, 676 Doob"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "D",
+      "676 667",
+      "24, 679",
+      "36, 429, 507",
+      "46, 621, 636, 648",
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrandiz",
+        "given": "J."
+      },
+      {
+        "given": "Fieller"
+      },
+      {
+        "given": "Kingman"
+      }
+    ],
+    "container-title": [
+      "J",
+      "E",
+      "J"
+    ],
+    "note": [
+      "687-688 Fienberg, S., 462, 676 Kagan, A., 349, 683 Fishburn, P., 181, 680 Kahneman, D., 23, 683 Fisher, R., 89, 96, 217-218, 307, 370, Kasa, R., ix, 226, 446, 505, 683 373, 522, 680 Kerridge, D., 564, 683 Fraser, D., 435, 677, 680 Kiefer, J., 417, 420, 683 Freedman, D., 15, 28, 40-41, 46, 61, Kinderman, A.,",
+      "Knuth, D., x, 683 680 Kraft, C., 66, 683 Freedman, L., 24, 680 Krasker, W., 56, 683 Freeman, P., 524, 681 Krem, A., 408, 683"
+    ],
+    "pages": [
+      "24,183–184,446,564,",
+      "682–683,",
+      "683 70,123,126,330–331,426,",
+      "683 434,479–480,667,676,678–"
+    ],
+    "title": [
+      "669, 680 Kadane"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21",
+      "321, 680 655",
+      "660",
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "James, W., 163,682 Nobile, A., ix Jaynes, E."
+      }
+    ],
+    "note": [
+      "379, 682 Novick, M., ix, 6, 684 Jeffreys, H., 122, 229, 284, 682 Jiang, T., ix Oue, S., ix"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Tong: The Multivariate Normal Distribution. van der Vaart/Wellner: Weak Convergence and Empirical Processes: With Applications to Statistics. Vapnik: Estimation of Dependences Based on Empirical Data. Weerahandi: Exact Statistical Methods for Data Analysis. West/Harrison: Bayesian Forecasting and Dynamic Models. Wolter: Introduction to Variance Estimation. Yaglom: Correlation Theory of Stationary and Related Random Functions I: Basic Results. Yag/om: Correlation Theory of Stationary and Related Random"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Functions II"
+    ],
+    "publisher": [
+      "Supplementary Notes and References"
+    ],
+    "title": [
+      "Tanner: Tools for Statistical Inference: Methods for the Exploration of Posterior Distributions and Likelihood Functions"
+    ],
+    "type": "chapter"
+  }
+]
