@@ -1,0 +1,323 @@
+[
+  {
+    "citation-number": [
+      "64b/66b-encoding"
+    ],
+    "title": [
+      "Variant of 8b/10b-encoding used for 10-Gigabit networks with various cable types"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8b/10b"
+    ],
+    "title": [
+      "encoding An encoding procedure that converts an eight-bit data byte sequence into a ten-bit transmission word sequence that is optimized for serial transmission. The 8b/10b encoding is used, for example, for Fibre Channel, Gigabit Ethernet and InfiniBand"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Access control The granting or refusal of a request for access to services or resources based upon the identity of the requester"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Muller",
+        "given": "Storage Networks Explained U.Troppens R.Erkens W."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Ltd ISBN"
+    ],
+    "pages": [
+      "0–470–86182–7"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Arbitrated Loop One of the three Fibre Channel topologies. The other two are pointto-point and fabric"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SMI-S",
+        "given": "Bluefin",
+        "particle": "see"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CIFS Common Internet File System (CIFS), the network file system from Microsoft for Windows operating systems"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "DAS Direct Attached Storage (DAS) is storage that is directly connected to a server without a storage network, for example over SCSI or SSA"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "hardware, network topology, applications)."
+    ],
+    "title": [
+      "Discovery Discovery is the automatic detection of all resources used in the storage network"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "DMTF The Distributed Management Task Force (DMTF) is an association of manufacturers with the objective of driving forward the standardization of the management of IT systems"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Enhanced shared-nothing cluster Server clusters of up to several dozen servers. Enhanced shared-nothing clusters can react to load peaks with a delay"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ESCON The Enterprise System Connection (ESCON) is a serial I/O technology for mainframes"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Exchange An exchange is a logical communication connection between two Fibre Channel devices"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "External storage Storage (hard disks, tape drives), which is located outside the computer enclosure"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FCIA The Fibre Channel Industry Association (FCIA) is an association of manufacturers from the field of Fibre Channel technology"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FCIP Tunnelling protocol that transports the Fibre Channel traffic between two Fibre Channel devices via TCP/IP"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FICON Fibre Connection (FICON) is the mapping of the ESCON protocol on Fibre Channel"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "File/record layer Component of the SNIA Shared Storage Model that maps the database records and files on the block-oriented volumes of the storage device"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "HCA Host channel adapter (HCA) denotes the connection point of a server to an Infini-Band network"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "iFCP Internet FCP (iFCP), a new standard with the objective of replacing the network layer in a Fibre Channel SAN with a TCP/IP network"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Internal storage Storage (hard disks, tape drives) located inside the enclosure of the computer"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "IPFC IP over Fibre Channel (IPFC), the protocol mapping that makes it possible to use a Fibre Channel network for IP data traffic"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IP storage includes the protocols iSCSI, FCIP and iFCP"
+    ],
+    "title": [
+      "IP storage General term for storage networks that use TCP/IP as a transmission technique"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "JBOD Just a Bunch of Disks (JBOD) is the term for a disk subsystem without a controller"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "LAN-free back-up Back-up method of a network back-up system in which the back-up client copies the data directly to the back-up medium via the storage network bypassing the back-up server and the LAN"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Network",
+        "given": "M.A.N.Metropolitan Area"
+      }
+    ],
+    "title": [
+      "a data network with average geographic extension (maximum several 100 kilometres"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Media changer Mechanical transport device that can transport media between slots and drives"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "MIB file File that contains an MIB description"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Network Management System (NMS) In SNMP jargon a Network Management System is an application that monitors and manages components by means of the SNMP protocol"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "NIC Network Interface Controller (NIC), Network Interface Card (NIC); both terms for network cards"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "OOM Object-oriented modelling (OOM) is an object-oriented specification language, which is used for the description of the Common Information Model (CIM"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Point-in-time restore Point-in-time restore signifies the capability of a network back-up system to recreate any desired earlier state of a file system"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "server, storage) together."
+    ],
+    "title": [
+      "Point-to-point The simplest of the three Fibre Channel topologies, which solely connects two end devices"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Private loop A Fibre Channel arbitrated loop that is not connected to a fabric"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Roll forward See forward recovery"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SES The SCSI Enclosure Services (SES) are an in-band management interface for SCSI devices"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Service subsystem Component of the SNIA Shared Storage Model in which the management tasks of a shared storage environment are brought together"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SoIP Storage over IP (SoIP), the name of a product from Nishan Technologies (acquired by McData Corporation in September 2003). According to the manufacturer these products are compatible with various IP storage standards"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Storage consolidation Storage consolidation means the replacement of a large number of small storage systems by one more powerful large storage system"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Twin-tailed SCSI cabling Cabling method in which the storage devices are connected to two servers via a SCSI bus for the benefit of fault-tolerance"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ULP Upper level protocol (ULP). Application protocol of a Fibre Channel network. Examples of ULPs are SCSI and IP. Unmanaged hub Fibre Channel hub without management functions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "VI The Virtual Interface (VI) denotes a communication connection in the Virtual Interface Architecture (VIA"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "VI NIC VI-capable network card."
+      }
+    ],
+    "title": [
+      "Today VI-capable network cards exist for Fibre Channel, Ethernet and InfiniBand"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "WWNN The World Wide Node Name (WWNN) is the WWN for a device (server, storage device, switch, director) in a Fibre Channel network"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "WWPN The World Wide Port Name (WWPN) is the WWN for a connection port of a device (server, storage device, switch, director) in a Fibre Channel network"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "XCOPY SCSI command that realizes the 3rd-Party SCSI Copy Command"
+    ],
+    "type": null
+  }
+]
