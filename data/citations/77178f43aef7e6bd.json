@@ -1,0 +1,331 @@
+[
+  {
+    "container-title": [
+      "TMP"
+    ],
+    "note": [
+      "this is rarely the case."
+    ],
+    "title": [
+      "As a rule, don’t pass static constants to functions directly: struct MyStruct static const int value = 314; int main() double myarray[MyStruct::value]; std::fill_n(myarray, MyStruct::value, 3.14); // not recommended If fill_n takes the second argument by const reference, this code may fail linking. Taking the address of the constant requires the constant to be redeclared in the .cpp file (as is the case for any other static member"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "int(MyStruct::value), 3.14); For extreme portability, especially for enumerations and bool, you can build a function on the fly:"
+    ],
+    "title": [
+      "As a cheap workaround, you can build a temporary integer and initialize it with the constant: // not guaranteed by the standard, but usually ok std::fill_n(myarray"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Modern C++ Design”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vandevoorde",
+        "given": "D."
+      },
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Templates: The Complete Guide”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "D.",
+        "given": "Abrahams"
+      },
+      {
+        "family": "A",
+        "given": "Gurtovoy"
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Template Metaprogramming”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Addison-Wesley"
+    ],
+    "location": [
+      "Wilson, “Imperfect C"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Exceptional C++ Style”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Generic Programming and the STL”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cline",
+        "given": "M."
+      },
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "7",
+      "8"
+    ],
+    "title": [
+      "C++ FAQ (lite)”",
+      "Effective STL"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.rit.edu/~mjh/docs/c++-faq/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1995-02"
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "pages": [
+      "24–27"
+    ],
+    "title": [
+      "Curiously Recurring Template Patterns”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design and Evolution of C++”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barton",
+        "given": "J.J."
+      },
+      {
+        "family": "L.R",
+        "given": "Nackman"
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Scientific and Engineering C++”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuizen",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "editor": [
+      {
+        "family": "C++ Gems",
+        "particle": "reprinted in"
+      },
+      {
+        "family": "Lippman",
+        "given": "Stanley"
+      }
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "title": [
+      "Expression Templates”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "C",
+        "given": "Myers Nathan"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "note": [
+      "14] C++ 0x (C++11) Final Committee Draft: C++11 – ISO/IEC 14882:2011: $60 from ansi.org"
+    ],
+    "title": [
+      "A New and Useful Template Technique: Traits”"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.cantrip.org/traits.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Meyers"
+      },
+      {
+        "family": "C++",
+        "given": "Effective Modern"
+      },
+      {
+        "given": "O.’Reilly"
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "2014"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meucci",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Risk and Asset Allocation”"
+    ],
+    "type": "book"
+  }
+]

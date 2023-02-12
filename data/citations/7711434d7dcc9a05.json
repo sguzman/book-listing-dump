@@ -1,0 +1,44 @@
+[
+  {
+    "note": [
+      "send_motor_command(speed_motor1,direction_motor1,pwm1,dir1); send_ motor_command(speed_motor2,direction_motor2,pwm2,dir2);"
+    ],
+    "title": [
+      "These commands that come from the Yún are then applied to the motors as follows"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "server.listenOnLocalhost(); server.begin(); Then, the loop() function consists of listening to incoming connections as follows: YunClient client = server.accept();"
+    ],
+    "title": [
+      "In the setup() function, we also join the I2C bus: Wire.begin(); Then, we start the bridge: Bridge.begin(); The setup() function ends by starting the web server as follows"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "176"
+    ],
+    "title": [
+      "Raspberry Pi Home Automation with Arduino ISBN: 978-1-84969-586-2 Paperback"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Please check www.PacktPub.com for information on our titles BeagleBone Robotic Projects ISBN: 978-1-78355-932-9 Paperback: 244 pages Create complex and exciting robotic projects with the BeagleBone Black 1. Get to grips with robotic systems"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "332"
+    ],
+    "title": [
+      "Learning ROS for Robotics Programming ISBN: 978-1-78216-144-8 Paperback"
+    ],
+    "type": null
+  }
+]
