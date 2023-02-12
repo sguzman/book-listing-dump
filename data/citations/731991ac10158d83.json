@@ -1,0 +1,1324 @@
+[
+  {
+    "author": [
+      {
+        "family": "Appendix A",
+        "given": "Changes",
+        "particle": "to"
+      }
+    ],
+    "title": [
+      "New section, Section A.1 describing use without a DTD. – The location of the MathML DTDs described in Section A.2.1 and Section A.2.3 are now in the Math Working group area rather than distributed with this Recommendation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "New sections descriping parameterisation possibilities for the DTD: Section A.2.2.1 and Section A.2.2.2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "In Section A.2.4, the link to the W3C Note on SGML and XML has been corrected and changed to a bibliography reference"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "The MathML DTD as shown in Section A.2.5 Incorporates several corrections as listed in the MathML 2.0 Errata document, or listed in the change log at the end of the DTD"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "section",
+        "given": "New"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix B."
+    ],
+    "title": [
+      "Section A.3 describing the use of the W3C XML Schema for MathML"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix C."
+    ],
+    "title": [
+      "Many corrections, and new display format for the productions given in the grammar for Content Markup in Appendix B"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "C.2.1.2, C.2.2.4, C.2.3.2, C.2.3.9, C.2.3.11, C.2.3.12, C.2.3.3, C.2.3.7, C.2.4.7, C.2.5.3, C.2.5.8, C.2.5.9, C.2.7.3, C.2.9.6, C.2.10.6, C.2.11.3, C.2.11.7, C.2.11.8, C.2.2.2, C.2.2.7, C.2.2.9, C.2.2.10, C.2.2.13, C.2.2.14, C.2.2.15, C.2.2.16, C.2.2.17, C.2.3.1, C.2.3.5, C.2.3.18, C.2.5.1, C.2.3.4, C.2.3.6, C.2.3.10, C.2.4.1, C.2.5.4, C.2.3.20, C.2.3.25, C.2.4.3, C.2.4.4, C.2.4.5, C.2.4.6, C.2.5.4, C.2.5.5, C.2.5.6, C.2.5.7, C.2.5.10, C.2.6.1, C.2.6.2, C.2.6.3, C.2.6.4, C.2.6.7, C.2.6.8, C.2.7.1, C.2.7.2, C.2.8.1, C.2.8.2, C.2.8.3, C.2.8.4, C.2.8.5, C.2.8.6, C.2.8.7, C.2.8.8, C.2.8.9, C.2.8.10, C.2.8.11, C.2.8.12, C.2.8.13, C.2.8.14, C.2.8.15, C.2.8.16, C.2.8.17, C.2.8.18, C.2.8.19, C.2.8.20, C.2.8.21, C.2.8.22, C.2.8.23, C.2.8.24, C.2.8.25, C.2.8.26, C.2.8.27, C.2.9.7, C.2.10.1, C.2.10.2, C.2.10.5, C.2.11.2, C.2.3.8, C.2.3.19, C.2.3.26, C.2.3.27, C.2.4.8, C.2.11.10, C.2.11.11, C.2.11.13, C.2.11.14, C.2.2.18."
+    ],
+    "title": [
+      "Many corrections to the MathML Examples in C.2.1.1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix D."
+    ],
+    "title": [
+      "Clarify the use of definitionURL in Section C.1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "director": [
+      {
+        "family": "MathMLPresentationToken",
+        "given": "MathMLContentToken"
+      },
+      {
+        "family": "ment",
+        "given": "MathMLSpaceEl"
+      },
+      {
+        "family": "MathMLOperatorElement",
+        "given": "MathMLStyleElement"
+      },
+      {
+        "family": "MathMLFencedElement",
+        "given": "MathMLFractionElement"
+      },
+      {
+        "family": "MathMLContentElement",
+        "given": "MathMLIntervalElement"
+      },
+      {
+        "family": "MathMLApplyElement",
+        "given": "MathM-LEncloseElement"
+      },
+      {
+        "family": "MathMLActionElement",
+        "given": "MathMLTableRowElement"
+      },
+      {
+        "family": "MathMLCnElement",
+        "given": "MathML-CiElement"
+      },
+      {
+        "given": "MathMLTendsToElement"
+      }
+    ],
+    "title": [
+      "Corrections to the following interfaces"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix F."
+    ],
+    "title": [
+      "Modification of the description of tendsto in Section D.2.2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "They have been restored based on the groupings in MathML 1.01."
+    ],
+    "title": [
+      "Blank lines in Section F.5 used in the inferred mrow grouping algorithm were omitted"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix I."
+    ],
+    "title": [
+      "Some entity names in Section F.5 have been corrected and/or deleted to match the names in the MathML DTD"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "Document changes in Working Group membership in Section I.1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix J."
+    ],
+    "title": [
+      "Editorial changes in Section I.2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "New section Section J.1 describing changes in the Second Edition"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "note": [
+      "• Changes to Appendix K."
+    ],
+    "title": [
+      "Minor edits to the description of the earlier changes in Section J.2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "issue": [
+      "aviors], [CSS1], [CSS2], [DOM], [HTML4], [MathML1], [MathML2], [Modularization], [Namespaces], [RFC2045], [RFC2046]"
+    ],
+    "note": [
+      "SVG1.1], [XHTML], [XHTML-MathML-SVG], [XLink], [XML], [XMLSchemas], [XPath], [XPointer], [XSLT], [UAX15]. • Changes to Appendix L."
+    ],
+    "pages": [
+      "– ,"
+    ],
+    "title": [
+      "Added and updated many entries"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "New Appendix Appendix L incorporating Section L.1 and Section L.2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Z39.59-1998",
+        "given": "A.N.S.I./N.I.S.O."
+      },
+      {
+        "family": "DTD",
+        "given": "A.A.P.Math"
+      }
+    ],
+    "citation-number": [
+      "AAP-math"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Washington, DC) Bethesda, MD"
+    ],
+    "publisher": [
+      "Association of American Publishers, Inc"
+    ],
+    "title": [
+      "Standard for Electronic Manuscript Preparation and MarkUp"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Abramowitz",
+        "given": "Milton"
+      },
+      {
+        "family": "A",
+        "given": "Irene"
+      }
+    ],
+    "citation-number": [
+      "Abramowitz1997"
+    ],
+    "date": [
+      "1977-12"
+    ],
+    "pages": [
+      "0–4866–1272–4"
+    ],
+    "publisher": [
+      "Dover Publications Inc"
+    ],
+    "title": [
+      "Stegun (editors); Mathematical Fuctions: With Formulas, Graphs, and Mathematical Tables"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Behavioral Extensions to CSS World Wide Web Consortium Working Draft"
+    ],
+    "date": [
+      "1999-08-04"
+    ],
+    "editor": [
+      {
+        "family": "Apparao",
+        "given": "Behaviors] Vidur"
+      },
+      {
+        "family": "Glazman",
+        "given": "Daniel"
+      },
+      {
+        "family": "Wilson",
+        "given": "Chris"
+      }
+    ],
+    "note": [
+      "http://www.w3.org/TR/1999/ WD-becss-19990804"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "Bidi] Mark"
+      }
+    ],
+    "container-title": [
+      "Unicode Standard Annex #9"
+    ],
+    "date": [
+      "2000-08"
+    ],
+    "note": [
+      "http://www. unicode.org/unicode/reports/tr9/"
+    ],
+    "title": [
+      "The Bidirectional Algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Buswell",
+        "given": "S."
+      },
+      {
+        "family": "Healey",
+        "given": "E.R.Pike"
+      },
+      {
+        "family": "Pike",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "Buswell1996"
+    ],
+    "container-title": [
+      "UIUC Digital Library Initiative SGML Mathematics Workshop",
+      "and SGML Europe 96 Conference"
+    ],
+    "date": [
+      "1996-05",
+      "1996"
+    ],
+    "location": [
+      "Munich"
+    ],
+    "title": [
+      "SGML and the Semantic Representation of Mathematics"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cajori",
+        "given": "Florian"
+      },
+      {
+        "family": "Mathematical Notations",
+        "given": "A.History",
+        "particle": "of"
+      }
+    ],
+    "citation-number": [
+      "Cajori1928"
+    ],
+    "date": [
+      "1928",
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "paperback)."
+    ],
+    "pages": [
+      "820 0–486–67766–4"
+    ],
+    "publisher": [
+      "Open Court Publishing Co., La Salle Illinois",
+      "republished Dover Publications Inc"
+    ],
+    "type": null,
+    "volume": [
+      "I & II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carroll",
+        "given": "Lewis"
+      }
+    ],
+    "citation-number": [
+      "Carroll1871"
+    ],
+    "date": [
+      "1871"
+    ],
+    "publisher": [
+      "Macmillian & Co"
+    ],
+    "title": [
+      "Through the Looking Glass and What Alice Found There"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chaundy",
+        "given": "T.W."
+      },
+      {
+        "family": "Barrett",
+        "given": "P.R."
+      },
+      {
+        "family": "Batey",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Chaundy1954"
+    ],
+    "date": [
+      "1954"
+    ],
+    "location": [
+      "London"
+    ],
+    "note": [
+      "CSS1] Lie, Håkon Wium and Bert Bos; Cascading Style Sheets, level 1, W3C Recommendation, 17 December 1996. (http://www.w3.org/TR/1999/REC-CSS1-19990111"
+    ],
+    "pages": [
+      "105"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Printing of Mathematics. Aids for authors and editors and rules for compositors and readers at the University Press, Oxford"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "CSS2"
+    ],
+    "container-title": [
+      "Cascading Style Sheets, level 2 CSS2 Specification, W3C Recommendation"
+    ],
+    "date": [
+      "1998-05-12"
+    ],
+    "editor": [
+      {
+        "family": "Bos",
+        "given": "Bert"
+      },
+      {
+        "family": "Lie",
+        "given": "Håkon Wium"
+      },
+      {
+        "family": "Lilley",
+        "given": "Chris"
+      },
+      {
+        "family": "Jacobs",
+        "given": "Ian"
+      }
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.w3.org/TR/1998/REC-CSS2-19980512)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hors",
+        "given": "D.O.M.] Arnaud Le"
+      },
+      {
+        "family": "Hégaret",
+        "given": "Philippe Le"
+      },
+      {
+        "family": "Wood",
+        "given": "Lauren"
+      }
+    ],
+    "container-title": [
+      "Document Object Model (DOM) Level 2 Core Specification World Wide Web Consortium Recommendation"
+    ],
+    "date": [
+      "2000-11-13"
+    ],
+    "editor": [
+      {
+        "family": "Robie",
+        "given": "Jonathan"
+      },
+      {
+        "family": "Champion",
+        "given": "Mike"
+      },
+      {
+        "family": "Byrne",
+        "given": "Steve"
+      }
+    ],
+    "note": [
+      "http://www.w3.org/TR/2000/ REC-DOM-Level-2-Core-20001113"
+    ],
+    "title": [
+      "Gavin Nicol"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Higham",
+        "given": "Nicholas J."
+      }
+    ],
+    "citation-number": [
+      "Higham1993"
+    ],
+    "container-title": [
+      "Society for Industrial and Applied Mathematics (SIAM"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "pages": [
+      "241 0–89871–314–5"
+    ],
+    "title": [
+      "Handbook of writing for the mathematical sciences"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "HTML4"
+    ],
+    "container-title": [
+      "HTML 4.01 Specification"
+    ],
+    "date": [
+      "1999-12-24"
+    ],
+    "editor": [
+      {
+        "family": "Raggett",
+        "given": "Dave"
+      },
+      {
+        "family": "Hors",
+        "given": "Arnaud Le"
+      },
+      {
+        "family": "Jacobs",
+        "given": "Ian"
+      }
+    ],
+    "note": [
+      "http://www.w3.org/TR/1999/REC-html401-19991224); section on data types."
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "ISO-12083"
+    ],
+    "container-title": [
+      "ISO 12083:1993; ISO 12083 DTD Information and Documentation - Electronic Manuscript Preparation and Markup. International Standards Organization"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Geneva, Switzerland"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "JTC1/SC2/WG2",
+        "given": "I.S.O./I.E.C."
+      }
+    ],
+    "citation-number": [
+      "ISOIEC10646-1"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Geneva, Switzerland"
+    ],
+    "note": [
+      "Also published on CD-ROM. (http://anubis.dkuug.dk/JTC1/ SC2/WG2/docs/projects#10646-1"
+    ],
+    "publisher": [
+      "International Standards Organization"
+    ],
+    "title": [
+      "ISO/IEC 10646-1: 2000, Information technology – Universal-Octet Coded Character Set (UCS) – Part 1: Architecture and Basic Multilingual Plane"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "citation-number": [
+      "Knuth1986"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Providence",
+      "Reading, MA"
+    ],
+    "pages": [
+      "483 0–201–13448–9"
+    ],
+    "publisher": [
+      "American Mathematical Society",
+      "RI and Addison-Wesley Publ. Co"
+    ],
+    "title": [
+      "The TEXbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ion",
+        "given": "Patrick"
+      },
+      {
+        "family": "Miner",
+        "given": "Robert"
+      }
+    ],
+    "citation-number": [
+      "MathML1"
+    ],
+    "date": [
+      "1999-07-07"
+    ],
+    "title": [
+      "Mathematical Markup Language (MathML) 1.01 Specification W3C Recommendation, revision of"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/REC-MathML)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carlisle",
+        "given": "David"
+      },
+      {
+        "family": "Ion",
+        "given": "Patrick"
+      },
+      {
+        "family": "Miner",
+        "given": "Robert"
+      },
+      {
+        "family": "Poppelier",
+        "given": "Nico"
+      }
+    ],
+    "citation-number": [
+      "MathML2"
+    ],
+    "title": [
+      "Mathematical Markup Language (MathML) Version 2.0 W3C Recommendation 21 February 2001"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2001/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "Modularization] Robert"
+      },
+      {
+        "family": "Altheim",
+        "given": "Murray"
+      },
+      {
+        "family": "Boumphrey",
+        "given": "Frank"
+      },
+      {
+        "family": "Dooley",
+        "given": "Sam"
+      },
+      {
+        "family": "McCarron",
+        "given": "Shane"
+      }
+    ],
+    "container-title": [
+      "Modularization of XHTML[tm], World Wide Web Consortium Recommendation"
+    ],
+    "date": [
+      "2001-04-10"
+    ],
+    "editor": [
+      {
+        "family": "Wugofski",
+        "given": "Ted"
+      }
+    ],
+    "note": [
+      "http://www.w3.org/TR/2001/ REC-xhtml-modularization-20010410"
+    ],
+    "title": [
+      "Sebastian Schnitzenbaumer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Namespaces in XML, World Wide Web Consortium Recommendation"
+    ],
+    "date": [
+      "1999-01-14"
+    ],
+    "editor": [
+      {
+        "family": "Bray",
+        "given": "Namespaces] Tim"
+      },
+      {
+        "family": "Hollander",
+        "given": "Dave"
+      },
+      {
+        "family": "Layman",
+        "given": "Andrew"
+      }
+    ],
+    "note": [
+      "http://www.w3.org/TR/1999/ REC-xml-names-19990114"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Caprotti",
+        "given": "O."
+      },
+      {
+        "family": "Carlisle",
+        "given": "D.P."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "OpenMath2000"
+    ],
+    "container-title": [
+      "The OpenMath Standard"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "editor": [
+      {
+        "family": "Cohen",
+        "given": "M."
+      }
+    ],
+    "note": [
+      "http://www.openmath.org/standard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "John R."
+      }
+    ],
+    "citation-number": [
+      "Pierce1961"
+    ],
+    "container-title": [
+      "Symbols, Signals and Noise: the Nature and Process of Communication (1961"
+    ],
+    "date": [
+      "1980"
+    ],
+    "edition": [
+      "Revised"
+    ],
+    "isbn": [
+      "0-486-24061-4"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "305"
+    ],
+    "publisher": [
+      "Dover Publications Inc"
+    ],
+    "title": [
+      "An Introduction to Information Theory. Symbols, Signals and Noise"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Poppelier",
+        "given": "N.A.F.M."
+      },
+      {
+        "family": "Herwijnen",
+        "given": "E.",
+        "particle": "van"
+      },
+      {
+        "family": "Rowley",
+        "given": "C.A."
+      },
+      {
+        "family": "DTD’s",
+        "given": "Standard"
+      },
+      {
+        "family": "Publishing",
+        "given": "Scientific"
+      }
+    ],
+    "citation-number": [
+      "Poppelier1992"
+    ],
+    "container-title": [
+      "EPSIG News"
+    ],
+    "date": [
+      "1992",
+      "1992-09"
+    ],
+    "pages": [
+      "3,",
+      "10–19"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freed",
+        "given": "N."
+      },
+      {
+        "family": "Borenstein",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "RFC2045"
+    ],
+    "container-title": [
+      "RFC"
+    ],
+    "date": [
+      "2045-11"
+    ],
+    "title": [
+      "Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.ietf.org/rfc/rfc2045.txt)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freed",
+        "given": "N."
+      },
+      {
+        "family": "Borenstein",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "RFC2046"
+    ],
+    "container-title": [
+      "RFC"
+    ],
+    "date": [
+      "2045-11"
+    ],
+    "title": [
+      "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.ietf.org/rfc/rfc2046.txt)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Murata",
+        "given": "M."
+      },
+      {
+        "family": "St.Laurent",
+        "given": "S."
+      },
+      {
+        "family": "Kohn",
+        "given": "D."
+      },
+      {
+        "family": "Types",
+        "given": "X.M.L.Media"
+      }
+    ],
+    "citation-number": [
+      "RFC3023"
+    ],
+    "date": [
+      "2001-01"
+    ],
+    "genre": [
+      "RFC 3023,"
+    ],
+    "note": [
+      "http://www. ietf.org/rfc/rfc3023.txt"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rodionov",
+        "given": "Igor"
+      },
+      {
+        "family": "Watt",
+        "given": "Stephen"
+      }
+    ],
+    "citation-number": [
+      "RodWatt2000"
+    ],
+    "date": [
+      "2000-12"
+    ],
+    "genre": [
+      "Technical Report TR-00-23,"
+    ],
+    "note": [
+      "http://www.orcca.on.ca/ TechReports/2000/TR-00-24.html"
+    ],
+    "publisher": [
+      "Ontario Research Center for Computer Algebra"
+    ],
+    "title": [
+      "Content-Faithful Stylesheets for MathML"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "J. Clark",
+        "particle": "sgml-xml]"
+      },
+      {
+        "family": "SGML",
+        "given": "Comparison",
+        "particle": "of"
+      },
+      {
+        "family": "XML",
+        "given": "W3C Note"
+      },
+      {
+        "family": "Spivak",
+        "given": "M.D."
+      }
+    ],
+    "citation-number": [
+      "Spivak1986"
+    ],
+    "date": [
+      "1997-12",
+      "1986"
+    ],
+    "editor": [
+      {
+        "family": "Jackson",
+        "given": "Dean"
+      },
+      {
+        "family": "Ferraiolo",
+        "given": "Jon"
+      },
+      {
+        "family": "Fujisawa",
+        "given": "Jun"
+      }
+    ],
+    "issue": [
+      "ttp://www.w3.org/TR"
+    ],
+    "location": [
+      "Providence, RI, MA"
+    ],
+    "note": [
+      "SVG1.1",
+      "Scalable Vector Graphics (SVG) 1.1 Specification W3C Recommendation, 14 January 2003 (http://www.w3.org/TR/2003/REC-SVG11-20030114/"
+    ],
+    "pages": [
+      "– – –971215",
+      "290 0–8218–2999–8"
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "The Joy of TEX A gourmet guide to typesetting with the AMS-TEX macro package"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Swanson",
+        "given": "Ellen"
+      }
+    ],
+    "citation-number": [
+      "Swanson1979"
+    ],
+    "date": [
+      "1979"
+    ],
+    "edition": [
+      "Revised"
+    ],
+    "location": [
+      "Providence, R.I"
+    ],
+    "pages": [
+      "90 0–8218–0053–1"
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "Mathematics into type: Copy editing and proofreading of mathematics for editorial assistants and authors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Swanson",
+        "given": "Ellen"
+      }
+    ],
+    "citation-number": [
+      "Swanson1999"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Providence, R.I"
+    ],
+    "note": [
+      "ISBN: 0-8218-1961-5."
+    ],
+    "pages": [
+      "102"
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "Mathematics into type: Updated Edition"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thieme",
+        "given": "Romeo"
+      }
+    ],
+    "citation-number": [
+      "Thieme1983"
+    ],
+    "date": [
+      "1983"
+    ],
+    "editor": [
+      {
+        "family": "Billmann",
+        "given": "Karl"
+      },
+      {
+        "family": "Bodden",
+        "given": "Helmut"
+      },
+      {
+        "family": "Nacke",
+        "given": "Horst"
+      }
+    ],
+    "isbn": [
+      "3-8041-3549-8"
+    ],
+    "location": [
+      "Dusseldorf"
+    ],
+    "pages": [
+      "92"
+    ],
+    "publisher": [
+      "Werner-Verlag Gmbh"
+    ],
+    "title": [
+      "Satz und bedeutung mathematischer Formeln [Typesetting and meaning of mathematical formulas]. Reprint of the 1934 original"
+    ],
+    "type": "book",
+    "volume": [
+      "viii +"
+    ]
+  },
+  {
+    "citation-number": [
+      "UAX15"
+    ],
+    "title": [
+      "Unicode Standard Annex 15, Version 4.0.0; Unicode Normalization Forms, The Unicode Consortium, 2003-04-17"
+    ],
+    "type": null,
+    "url": [
+      "http://www.unicode.org/reports/tr15/tr15-23.html)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Unicode"
+      }
+    ],
+    "container-title": [
+      "Unicode3.2] The Unicode Consortium; The Unicode Standard",
+      "XXX + 1040. ISBN"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "isbn": [
+      "0-201-61633-5"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Reading MA",
+      "Reading MA"
+    ],
+    "note": [
+      "http://www.unicode.org/unicode/ standard/standard.html"
+    ],
+    "pages": [
+      "0–201–61633–5"
+    ],
+    "publisher": [
+      "Addison-Wesley Longman, Inc",
+      "Addison-Wesley Longman, Inc"
+    ],
+    "title": [
+      "The Unicode Consortium; The Unicode Standard, Version 3.0",
+      "XXX + 1040"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.unicode.org/unicode/standard/"
+    ],
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pemberton",
+        "given": "X.H.T.M.L.] Steve"
+      },
+      {
+        "family": "Altheim",
+        "given": "Murray"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2000-01-26"
+    ],
+    "note": [
+      "http://www.w3.org/TR/2000/ REC-xhtml1-20000126"
+    ],
+    "title": [
+      "XHTML[tm] 1.0: The Extensible HyperText Markup Language World Wide Web Consortium Recommendation"
+    ],
+    "type": null
+  }
+]
