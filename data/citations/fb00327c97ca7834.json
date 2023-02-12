@@ -1,0 +1,87 @@
+[
+  {
+    "citation-number": [
+      "8-16"
+    ],
+    "container-title": [
+      "IC Interfacing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "8-8"
+    ],
+    "title": [
+      "Complementary MOS Logic 8-17 Mixed-Voltage Interfacing 8-9 CMOS Series 8-18 Analog Voltage Characteristics Comparators 8-10 Low-Voltage Technology 8-19 Troubleshooting 8-11 Open-Collector/Open-Drain Outputs TOCCMC08_0131725793.QXD 12/19/2005 4:27 PM Page 489"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "complete simplification process, 138–141 parallel in/serial out-the 74ALS165/74HC165, 441–443 designing, 127–133 PRESENT state, 393–404 exclusive-NOR, 144–149 presettable, 379–380 exclusive-OR, 144–149 recycle, 363 Karnaugh map method, 133–144, 322 ring, 445–447, 594–596 parity generator and checker, 149–151 ripple,",
+      "serial in/parallel out-The 74ALS164/74HC164, sum of products form,"
+    ],
+    "pages": [
+      "128–133 437–439",
+      "277–280, 362–365 – – , 120–121 – , 394 , 121–126",
+      "120–121 443–445"
+    ],
+    "title": [
+      "Code converters, 624–627, 653–655 HDL, basic, 405–411 basic idea, 624–625 integrated circuit registers, 437 circuit implementation, 626–627 J-K excitation table, 397, 399 conversion process, 625–626 Johnson, 447–449 other implementations, 627 with MOD numbers <2N, 370–377 Column address strobe (CAS), 827 multistage arrangement, 388–389 Combinational logic circuits, 118–207 NEXT state, 393–404 algebraic simplification, 121–126 parallel in/parallel out-the 74ALS174/74HC174, complete design procedure"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Decimal system, 10–11 integrated circuits, 16 binary-to-decimal conversion, 26 multiplexer, 599 conversions, summary,",
+      "296–358 demultiplexer, 610–617 full adder, 319 ENABLE inputs, 578 hexadecimal addition, 314–315 liquid crystal displays (LCDs), 587–591 hexadecimal representation of signed row, 796–797 numbers, 316–317 simulation (HDL), 683 hexadecimal subtraction, 315–316 using HDL, 638–641 integrated circuit parallel adder, 326–328 Decoding number circles and binary arithmetic, 309 counters, 389–393 operations and circuits, 296–358 Johnson, counter, 448–449 parallel binary adder, 318–320 Decoupling, power-supply TTL, 517 signed number representation, 299–306 DeMorgan’s theorems, 80–83 summary, 349–350 implications of, 81–83 2’s complement system, addition, 306–307, 328 Demultiplexers (DEMUXs), 610–617, 648–651 2’s complement system, multiplication, 311 1-line-to-8-line, 610–612 2’s complement system, subtraction, 307–310, security monitoring system, applications, 612–613 328–331 Dependency notation, 95–96 Digital signal processing (DSP), 764–768"
+    ],
+    "pages": [
+      "10–13"
+    ],
+    "title": [
+      "decimal to binary conversion, 22–29 one-shots, HDL, 461–467 counting range, 28 pulses, 220–221 decimal to hex conversion, 30–31 quantity, 719 hex to decimal conversion, 29–30 ramp ADC, 740–745 Decimal-to-BCD priority encoder (74147), 592–593 up/down, 757 Decision control structures in HDL, 184–192 representation, 4–5 Decoders, 577–584 storage oscilloscope (DSO), 767–765 1-of-10, 581–582 related applications, 765 1-of-8, 578–580 Digital and analog systems, 5–9 3-line-to-8-line, 578–580 Digital arithmetic, 296–358 4-to-10, 581–582 BCD addition, 312–314 address, 797–798 binary addition, 298–299 applications, 582–584 binary division, 311–312 BCD to decimal, 581–582 binary multiplication, 310–311 BCD to 7 segment drivers, 584–587 carry propagation, 325–326 binary to octal, 578–580 circuits, 317–318 column, 796–797 circuits and operations"
+    ],
+    "type": null,
+    "volume": [
+      "33 number systems"
+    ]
+  },
+  {
+    "note": [
+      "141 MOS (see also MOS logic family) format, 134–135 summary, 558 looping, 135–138 terminology, 490–497 method, 133–144 unipolar, 155–156 simplification, 322"
+    ],
+    "title": [
+      "basic characteristics, 153–160 K bipolar, 155–156, 543–546 Karnaugh map defined, 489–490 complete simplification process, 138–141 ECL, 543–546 don’t-care conditions, 142–143 interfacing, 548–552 filling from output expression"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Integrated-circuit packages, 495–497 summary, 143–144 common, 496 Keypad encoder project (HDL), 687–693 (see also HDL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "management",
+        "given": "Small-project"
+      }
+    ],
+    "note": [
+      "679 Synchronous (parallel) counters, 367–370 SODIMM (small-outline, dual-in-line memory actual ICs, 369–370"
+    ],
+    "title": [
+      "678–679 Synchronous data transmission system, 613–617 definition, 678 receiver operation, 614–615 strategic planning, 678 system timing, 615–616 synthesis and testing, 681 transmitter operation, 614 system integration and testing"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "keypad encoder project (HDL), 687–693 WITH, 182 (see also HDL) VLSI (very large scale integration), 154–155, 489 simulation, 693 Volatile memory, 788 solution, 691–693 Voltage LIBRARY, 647–648 comparators, 554–556 components, 273–275 controlled oscillator, linear (VCO), 758 libraries, 180 to frequency ADC, 758 libraries of parameterized modules, 347–348 level translator, 553 local signals, 106–107 levels, invalid, 494–495"
+    ],
+    "type": null
+  }
+]
