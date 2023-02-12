@@ -1,0 +1,138 @@
+[
+  {
+    "author": [
+      {
+        "family": "WordDocument",
+        "particle": "void"
+      },
+      {
+        "given": "OnShiftEndKey"
+      }
+    ],
+    "title": [
+      "{ CharInfo charInfo = charList[editIndex]; int endCharIndex = charInfo.ParagraphPtr()->First() + charInfo.LineInfoPtr()->Last("
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "DEFINE_VOID_LISTENER",
+        "given": "DEFINE_VOID_LISTENER"
+      },
+      {
+        "family": "DEFINE_VOID_LISTENER",
+        "given": "DEFINE_VOID_LISTENER"
+      },
+      {
+        "family": "DEFINE_BOOL_LISTENER",
+        "given": "DEFINE_BOOL_LISTENER"
+      },
+      {
+        "family": "DEFINE_BOOL_LISTENER",
+        "given": "DEFINE_VOID_LISTENER"
+      },
+      {
+        "family": "DEFINE_VOID_LISTENER",
+        "given": "DEFINE_VOID_LISTENER"
+      }
+    ],
+    "title": [
+      "OnHorizontalJustified); bool IsHorizontalAlignment(Alignment alignment) const; void SetHorizontalAlignment(Alignment alignment"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "case KeyEnd: OnVerticalScroll(SB_BOTTOM); break; case KeyUp: case KeyPageUp: OnVerticalScroll(SB_LINEUP); break"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Font DialogFont(TEXT(\"Times New Roman\"), 12);"
+    ],
+    "title": [
+      "namespace SmallWindows { map<HWND,Dialog*> dialogMap; The default dialog font is set to 12-point Times New Roman"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The 0xFFFF value indicates that we want to work with the extended dialog template"
+    ],
+    "type": null,
+    "url": [
+      "infoList.AddValue<WORD>(0xFFFF);"
+    ]
+  },
+  {
+    "title": [
+      "The top-left position is given by the topLeft field: infoList.AddValue<WORD>(topLeft.X()); infoList.AddValue<WORD>(topLeft.Y("
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "infoList.AddValue<WORD>(0); infoList.AddValue<WORD>(0"
+    ],
+    "title": [
+      "closest control: infoList.AddValue<WORD>(maxWidth + leftMargin); infoList.AddValue<WORD>(maxHeight + topMargin); The next two zeros indicate that we do not want to use a menu and that we use the default dialog Windows class"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "GroupBox",
+        "particle": "new"
+      }
+    ],
+    "container-title": [
+      "Point(10",
+      "Point(70"
+    ],
+    "issue": [
+      "is, Point(20, 140), Size(50, 10)",
+      "eckBox(this, Point(70, 160), Size(100, 10)"
+    ],
+    "note": [
+      "TEXT(\"F&ooter at First Page\"), &infoPtr->FooterFirst()); new PushButton(this, Point(270, 158), Size(60, 15), TEXT(\"Footer Fo&nt\"), OnFooterFont);"
+    ],
+    "title": [
+      "TEXT(\"&Footer Text:\")); new TextField<>(this"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "pages",
+        "particle": "total"
+      }
+    ],
+    "note": [
+      "TEXT(\"%c\"), to_String(copy)); ReplaceAll(templateText, TEXT(\"%n\"), to_String(page)); ReplaceAll(templateText, TEXT(\"%N\"), to_String(totalPages));"
+    ],
+    "title": [
+      "The numerical values are translated into strings by to_String: ReplaceAll(templateText"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "lastFileDot); ReplaceAll(templateText, TEXT(\"%f\"), fileWithoutSuffix);"
+    ],
+    "title": [
+      "int lastPathDot = pathWithSuffix.find_last_of(TEXT('.')); String pathWithoutSuffix = pathWithSuffix.substr(0, lastPathDot); ReplaceAll(templateText, TEXT(\"%p\"), pathWithoutSuffix); int lastBackslash = pathWithSuffix.find_last_of(TEXT('')); String fileWithSuffix = pathWithSuffix.substr(lastBackslash + 1); ReplaceAll(templateText, TEXT(\"%F\"), fileWithSuffix); int lastFileDot = fileWithSuffix.find_last_of(TEXT('.')); String fileWithoutSuffix = fileWithSuffix.substr(0"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ReplaceAll(templateText, TEXT(\"%t\"), timeWithoutSeconds.str());"
+    ],
+    "type": null
+  }
+]

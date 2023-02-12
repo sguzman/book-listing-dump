@@ -1,0 +1,97 @@
+[
+  {
+    "director": [
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "given": "kinectdrawLimb"
+      }
+    ],
+    "type": null,
+    "volume": [
+      "void drawSkeleton(int userId"
+    ]
+  },
+  {
+    "director": [
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "family": "kinect.drawLimb",
+        "given": "kinectdrawLimb"
+      },
+      {
+        "given": "kinectdrawLimb"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "recorder.setUser(userId); if ( kinect.isTrackingSkeleton(userId)) { PVector currentPosition = new PVector(); kinect.getJointPositionSkeleton(userId, SimpleOpenNI.SKEL_LEFT_HAND, currentPosition);"
+    ],
+    "title": [
+      "IntVector userList = new IntVector(); kinect.getUsers(userList); if (userList.size() > 0) { int userId = userList.get(0"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "IntVector userList = new IntVector(); kinect.getUsers(userList"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "SimpleOpenNI.SKEL_RIGHT_SHOULDER, rightShoulder"
+    ],
+    "title": [
+      "PVector rightElbow = new PVector(); kinect.getJointPositionSkeleton(userId, SimpleOpenNI.SKEL_RIGHT_ELBOW, rightElbow); PVector rightShoulder = new PVector(); kinect.getJointPositionSkeleton(userId"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "PVector convertedRightElbow = new PVector(); kinect.convertRealWorldToProjective(rightElbow, convertedRightElbow); PVector convertedRightShoulder = new PVector(); kinect.convertRealWorldToProjective(rightShoulder, convertedRightShoulder"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// reduce our joint vectors to two dimensions PVector rightHand2D = new PVector(rightHand.x, rightHand.y); PVector rightElbow2D = new PVector(rightElbow.x, rightElbow.y); PVector rightShoulder2D = new PVector(rightShoulder.x, rightShoulder.y); PVector rightHip2D = new PVector(rightHip.x, rightHip.y"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Ditzel",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "ACM SIGARCH Comput Archit News"
+    ],
+    "date": [
+      "1980"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "25–33"
+    ],
+    "title": [
+      "The case for the reduced instruction set computer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Sequin",
+        "given": "C.H."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "ISCA Proceedings of the 8th annual symposium on computer architecture"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "443–457"
+    ],
+    "title": [
+      "RISC I: a reduced instruction set VLSI computer"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sequin",
+        "given": "C.H."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the advanced course on VLSI architecture"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "82–106"
+    ],
+    "publisher": [
+      "University of Bristol"
+    ],
+    "title": [
+      "Design and implementation of RISC I"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "publisher": [
+      "Morgan"
+    ],
+    "title": [
+      "Computer organization and design, the hardware/software interface"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "S."
+      },
+      {
+        "family": "Francis",
+        "given": "R."
+      },
+      {
+        "family": "Rose",
+        "given": "J."
+      },
+      {
+        "family": "Vranesic",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "location": [
+      "Springer, ISBN"
+    ],
+    "pages": [
+      "9780792392484"
+    ],
+    "title": [
+      "Field-programmable gate arrays"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ahmed",
+        "given": "E."
+      },
+      {
+        "family": "Rose",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE trans larg Scale Integr (VLSI) Syst"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "288–298"
+    ],
+    "title": [
+      "The effect of LUT and cluster size on deep-submicron FPGA performance and density"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "S."
+      },
+      {
+        "family": "Rose",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Design Test Comput"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "42–57"
+    ],
+    "title": [
+      "FPGA and CPLD architectures: a tutorial"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bindal",
+        "given": "A."
+      },
+      {
+        "family": "Brugada",
+        "given": "S."
+      },
+      {
+        "family": "Ha",
+        "given": "T."
+      },
+      {
+        "family": "Sana",
+        "given": "W."
+      },
+      {
+        "family": "Singh",
+        "given": "M."
+      },
+      {
+        "family": "Tejaswi",
+        "given": "V."
+      },
+      {
+        "family": "Wyland",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Euromicro Symp Digital Syst Design Appendix: An Introduction to Verilog Hardware Design Language"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "A simple micro-threaded data-driven processor"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "module mem (data, address, WE, RE, clock); inout [7:0] data; input [3:0] address; input WE, RE, clock; reg [7:0] SRAM [15:0]; reg [7:0] data; reg [1:0] read_write_state;"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "DataOut",
+        "given": "DataIn"
+      },
+      {
+        "family": "address",
+        "given": "clock"
+      },
+      {
+        "family": "ByteEn",
+        "given": "W.E."
+      },
+      {
+        "family": "RE)",
+        "given": "output"
+      }
+    ],
+    "note": [
+      "DataOut; input [31:0] DataIn; input [3:0] address, ByteEn; input clock, RE, WE; reg [31:0] SRAM [15:0]; reg [31:0] temp;"
+    ],
+    "title": [
+      "module mem"
+    ],
+    "type": null
+  }
+]
