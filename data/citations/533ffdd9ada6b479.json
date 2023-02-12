@@ -1,0 +1,470 @@
+[
+  {
+    "title": [
+      "Listing 9.4. References to objects"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Initializes two integer variables and then prints out their sum and their product"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "See your compiler manual."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Day 2 Quiz"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Why is the function main() special?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Can comments be nested?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Age Good",
+        "particle": "a."
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "a. myAge"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "float myPi = PI"
+    ],
+    "title": [
+      "const float PI = 3.14159; 4. Declare a float variable and initialize it using your pi constant"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Enter the numbers"
+    ],
+    "note": [
+      "Did you get the output you expected? Why not?"
+    ],
+    "pages": [
+      "50"
+    ],
+    "title": [
+      "Enter the program from Exercise 2; compile, link, and run it"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20, 10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "No"
+      }
+    ],
+    "title": [
+      "All parameters are identified by position, not name"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "If a function doesn't return a value, how do you declare the function?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Rewrite the Employee class to make the data members private, and provide public accessor methods to get and set each of the data members"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "main() Employee John; Employee Sally"
+    ],
+    "date": [
+      "0000"
+    ],
+    "location": [
+      "Sally.SetAge(32); Sally.SetYearsOfService(8); Sally.SetSalary(40000"
+    ],
+    "title": [
+      "Write a program with the Employee class that makes two Employees; sets their age, YearsOfService, and Salary; and prints their values"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Continuing from Exercise 3, provide a method of Employee that reports how many thousands of dollars the employee earns, rounded to the nearest 1,000. float Employee:GetRoundedThousands()const"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "BUG BUSTERS: What is wrong with the following declaration?"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The accessor GetAge() is private. Remember: All class members are private unless you say otherwise"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "BUSTERS",
+        "given": "B.U.G."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "What three bugs in this code will the compiler find?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "Why is goto avoided?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "BUG BUSTERS: What is wrong with this code?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "BUG BUSTERS: What is wrong with this code?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "BUG BUSTERS: What is wrong with this code?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Change SimpleCircle to store itsRadius on the free store, and fix the existing methods"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "++(itsRadius); return *this;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "BUSTERS",
+        "given": "B.U.G."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "What is wrong with this implementation of the assignment operator?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "BUG BUSTERS: What is wrong with this implementation of operator+?"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "return VeryShort(itsVal + rhs.GetItsVal("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Write a set of subscripts for each dimension. For example, SomeArray[2][3][2] is a three-dimensional array. The first dimension has two elements, the second has three, and the third has two"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Initialize the members of the array in Question 2"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SomeArray[2][3][2] = { { {1,2},{3,4},{5,6} } , { {7,8},{9,10},{11,12} } }; 4. How many elements are in the array SomeArray[10][5][20]?"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "int GameBoard[3][3];"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Write the declaration for a Node class that holds unsigned short integers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Base",
+        "given": "FunctionName"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "class Square : public Rectangle {};"
+    ],
+    "title": [
+      "Show the declaration of a class Square, which derives from Rectangle, which in turn derives from Shape"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SomeFunction",
+        "particle": "void"
+      }
+    ],
+    "title": [
+      "Shape * pRect = new Rectangle; SomeFunction(*pRect"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "class JetPlane : public Rocket, public Airplane"
+    ],
+    "title": [
+      "Show the declaration for a class JetPlane, which inherits from Rocket and Airplane"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "static int SomeFunction(); 4. Show the declaration for a pointer to function returning long and taking an integer parameter"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "long ( Car::*function)(int) theArray [10]; Exercises"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Delegation expresses the idea that one class uses another class to accomplish a task or goal. Implemented-in-terms-of expresses the idea of inheriting implementation from another class"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "What is a friend function?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "If Dog is a friend of Boy, and Terrier derives from Dog, is Terrier a friend of Boy?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "Where must the declaration of a friend function appear?"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Room ); ListOfPerson& People(); // public accessors ListOfRoom& Rooms(); // public accessors protected: ListOfRoom rooms; ListOfPerson people;"
+    ],
+    "title": [
+      "public: Configuration(); ~Configuration(); Meeting Schedule( ListOfPerson&, Delta Time duration ); Meeting Schedule( ListOfPerson&, Delta Time duration, Time ); Meeting Schedule( ListOfPerson&, Delta Time duration"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "protected: OrderedListOfMeeting meetings;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Yes, create a specialized function for the particular instance. In addition to creating Array<t>::SomeFunction(), also create Array<int>::SomeFunction() to change the behavior for integer arrays"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "What does ctime() do?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "What is the difference between & and &&?"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "friend ostream& operator<<( ostream& os, const Computer& computer"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Computer"
+    ],
+    "publisher": [
+      "TRUE",
+      "PC, TRUE"
+    ],
+    "title": [
+      "Computer pc( TRUE"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "int Int_Number = position / BITS_PER_INT; int Bit_Number = position % BITS_PER_INT"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "int Int_Number = position / BITS_PER_INT; int Bit_Number = position % BITS_PER_INT"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "subtraction operator (-), increment (++), or decrement (--). Hint: Use the bit operators!"
+    ],
+    "title": [
+      "Write a program that adds two numbers without using the addition operator (+"
+    ],
+    "type": null
+  }
+]
