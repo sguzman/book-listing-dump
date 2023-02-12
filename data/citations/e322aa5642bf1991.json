@@ -1,0 +1,223 @@
+[
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "type": null,
+    "url": [
+      "http://schemas.xmlsoap.org/soap/envelope/",
+      "http://www.w3.org/2001/XMLSchema-instance",
+      "http://www.w3.org/2001/XMLSchema"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "note": [
+      "this tag reference should be of some assistance:"
+    ],
+    "title": [
+      "About the most comprehensive list we know of can be found here",
+      "Netscape’s tag reference If you are still dealing with the mess that is Netscape 4"
+    ],
+    "type": null,
+    "url": [
+      "http://",
+      "http://devedge.netscape.com/library/manuals/1998/htmlguide/"
+    ]
+  },
+  {
+    "note": [
+      "application design returning all (ARRAY_KEYS()), 158 Guestbook 2003, 229–230 true/false whether exists NuSOAP, 527–528 (ARRAY_KEY_EXISTS()), 158 problem-tracking system, 441–444 key/value pair project management, 537–541 exchanging (ARRAY_FLIP()), 155–156 shopping cart, 477–479 pulling and making into standalone survey, 261–266, 294–298 variables (EXTRACT()), 153–154 735 threaded discussion, 312–315 continued XML parsing, 506–508"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "list of fields (FIELDLIST()), 417–418 separating directory names matching field value, getting all (path_separator()), HTML survey, 292 (FETCH_ALL()), 417 character classes, 661–663 multi-statement transaction character-set, 238–239 (TRANSACTION()), 421–422 checkbox new objects, instantiating (__CONSTRUCT()), default status,",
+      "164 (claim.php), 304–308 method, whether defined class (method_exists()), 164 abstract, 212–215 name, returning (get_class()), 164 catalog cleaning up Base, 412–413 output buffering (FLUSH()), 188 BEGIN(), COMMIT(), and ROLLBACK(), string for use as HTML tag 422 (make_page_title()), 670 deleting record (DELETE_FROM_DB()), 417 text, reversing (REVERSE_CLEANUP_TEXT()), described, 411–412 239–240 empty properties, leaving out client file, Barnes & Noble application, 529–531 (DATA_FIELDS()), 418 cloning, 218–219 ID value, getting record by closing tag, 561–562, 672 (FETCH_FROM_DB()), 416–417 Codd, E.F. (relational database inventor), 3 inherited (LEGAL_VALUES()), 420–421 code list of fields (FIELDLIST()), 417–418 blocks, indenting, 192–194 matching field value, getting all catalog (FETCH_ALL()), 417 file system, accessing, 408 multi-statement transaction files, uploading, 409–410 (TRANSACTION()), 421–422 object-oriented approach, 408 new objects, instantiating comments, 221–224 (__CONSTRUCT()), 413 content-management system, 361–362 new record, creating external files, including, 197–200 (CREATE_RECORD()), 419 Guestbook 2003, 235–236 property values, setting (BUILD()), 414 HTML survey initialization, 293–294 query for later-named table indenting, 191–197 (FETCH_SIMPLE_QUERY()), 415 object-oriented programming, 209–220 single record, returning problem-tracking system, 452 (FETCH_RECORD()), 416 procedural versus object-oriented code, static variables, using in methods 220–221 (DBH()), 413–414 project management"
+    ],
+    "title": [
+      "290–291 multiple before pressing Submit button, 104 checking and moving uploaded file described, 486 (MOVE_UPLOADED_FILE()), 175 orders, 491–492 checkout, shopping cart, 495–504 requests, 487–488 child products, catalog, printing, 437–439 class functions children, listing, catalog products class, 423–424 described, 163–164 claim code, survey winner, checking determining (is_a("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "11 (write_author()), 381–382 dropping, 43 code overview, 361–362 excessive use of, 19 connection string, 362–365 indexes, creating, 37–38 customization, need for, 349–350 numeric, 33–35 database design, 355–361 sum of given, returning (sum() function), editorial review (content/story.php), 77–78 392–394 table, adding, 42 error handling (db_error_handler()), text strings, 29–33 368–369 viewing, 46 NULL value, checking for (nullop()), command, terminating (G), 176 373–374 command-line interface (mysql), 583–586 persistent connection, creating commands, bundle. See transaction (db_connect()), 365–368 comments, code, organized and readable, query, shorthand (db_values_array()),"
+    ],
+    "pages": [
+      "221–224 372–373"
+    ],
+    "title": [
+      "threaded discussion, main functions, content-management system 320–321 administrator functions (content/admin/ user-defined functions, 200–208 user.php), 389–392 code class. See class application scope and goals, 350–353 column author, finding all stories by (function date and time, 35–37 fetch_author()), 378 definitions, changing, 43–44 authors table, creating or updating records dependencies"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "connection user postings, finding all (fetch_user()), database"
+    ],
+    "issue": [
+      "P)"
+    ],
+    "note": [
+      "COMMIT(), catalog classes, 422 records, getting (db_fetch_record()), common elements, array functions 369–372 (ARRAY_INTERSECT()), 159 security, 353–355 comparison operators, 69, 122 stages, looking up (stage(), stage_id(), complex data types, SOAP (Simple Object stages()), 379–380 Access Protocol), 523–524",
+      "write_story()), 382–387 concatenating story record, getting (fetch_story()), arguments (CONCAT), 711–712 375–376 array elements in a string (JOIN()), 154 table, building for workflow stages arrays (ARRAY_MERGE()), 156 (stage_table_name()), 380–381 string input (STR_REPEAT()), 139–140 user and password validation conditions, checking, 125–127 (connect_validate_login()), configuration 374–375 option (ini_get()), 189 user authentication PHP, 580–581 (content/authenticate.php), value, assigning (ini_set()),",
+      "NUMBER_FORMAT()), 154 shopping cart, 479–480 type when comparing variables, 92–93 simple table, 6 cookie threaded discussion, 316–320 browser-passed variables, accessing, 104–106 tracking updates (history_entry()), HTTP header, setting (setcookie()), 180 459–461 copy, joining tables to itself (self), 85–86 updating tables, 55–59 copying Data Definition Language. See DDL files (COPY()), 173–174 data stream, thumbnails, retrieving as part of image (IMAGECOPYRESIZED()), (EXIF_THUMBNAIL()), 183 181–182 database cosine (COS), 706 call, putting together (SELECT_ENTRIES()), cotangent (COT), 707 253–254 counting defining default working (use command), 27 array functions (ARRAY_COUNT()), 157–158 design characters in string (STRLEN()), 140 anomalies, 5–10 number of rows in each group (count() content-management system, 355–361 function), 74–77 Guestbook 2003, 234–235 repeating string certain number of times normalization, 10–14 (REPEAT), 717 problem-tracking system, 444–452 credit-card processor, shopping cart, 486 project management, 541–544 C-style pattern string, formatting (SPRINTF()), referential integrity, 19–20 166 relational databases, benefits of, 3–5 CURL function, 641 relationships, 15–19 current date and time (NOW), 729 stored procedures, 21–22 current date (CURDATE), 729 survey, 266–270 current time, 169, 729, 730 transactions, 20–21 cursor array, resetting (RESET()), 162 examining (show command), 44–48 customer form data, inserting for threaded discussion ID, finding by (fetch_customer()), (create_topic()), 329–332 454–455 functions, user-defined, 670–671 identifying by phone number or email GUI tools, 48–52 address (find_customer()), 457–459 name, current, 730 response in (write_customer.php), record tree structure, 488–490 466–473 table sending email (notify_customer()), creating, 26–27 461–462 user administration, 600–601 CyberCash function, 643 username and password, verifying against (authenticate()), 669 D variable format (SESSION_ENCODE()), 485 daemon, MySQL, checking for alive and date and time running, 588 calculations data arithmetic (DATE_ADD), 723–725 catalog, 403–407 day from specified year (FROM_DAYS), 726 complex types, SOAP, 523–524 difference of months in period deleting from tables, 59–61 (PERIOD_DIFF), 723 eliminating duplicate from tables (distinct months, adding to period (PERIOD_ADD), clause), 70 722–723"
+    ],
+    "pages": [
+      "123–124",
+      "189 387–389",
+      "670 378–379 , 365–368",
+      "241–242 153",
+      "64–67"
+    ],
+    "title": [
+      "stories table, creating or updating records complex if statement",
+      "version of story, getting string, 362–365 (fetch_story_version()), 376–378 constant continue loop, 131–132 defining to use in bitmask control characters, 186 (get_constant()), 345–347 converting Guestbook 2003 (FROM array elements into variables (COMPACT(",
+      "converting continued replacing in tables, 61–64 floating-point numbers to formatted string retrieving from tables (select"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "note": [
+      "243–244 average (avg()), 78–79 query, printing (PRINT_ENTRY()), counting number of rows in each group 248–249 (count() function), 74–77 user authentication grouped rows, restricting (having (GUESTBOOK_AUTHENTICATE()), predicate), 80 244–248 highest value, removing (max() function), 78 verifying user information lowest value, removing (min() function), 78 (CREATE_ENTRY()), 250–253 subset of columns, grouping (group by necessary pages, 230–231 options), 79–80 scripts, 259 sum of given column, returning (sum() title tags (MAKE_PAGE_TITLE()), 240 function), 77–78 GUI (graphical user interface) database tools, grouping, caption for (legend), HTML form 48–52 input, 569 Guestbook 2003 H application, designing, 229–230 handlers, session, 485 code overview, 235–236 hash, one-way string (CRYPT()), 139 database call, putting together header (SELECT_ENTRIES()), 253–254 file, Barnes & Noble application, 529 database design, 234–235 functions, 627 defensive and text-handling functions Guestbook 2003 (FROM /GUESTBOOK2K/ character-set-encoding value HEADER.PHP), 240–241 (CHARSET()), 238–239 HTML, typical, 197"
+    ],
+    "title": [
+      "grant statement, user administration, 602–604 navigational elements, creating (NAV()), graphical user interface. See GUI database tools 254–255 graphics. See image queries, writing safely group by and aggregate functions (SAFE_MYSQL_QUERY("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "library",
+        "given": "Guestbook"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "arguments, printing MacSQL, 50–52 (PRINT_INPUT_FIELDS()), 249–250 mailing lists,",
+      "barring (CLEANUP_TEXT()), 239 (SELECT_ENTRIES()), 253–254 many-to-many relationships, 17–19 disconnecting (MYSQL_DBCONNECT()), mappings, retrieving catalog 242–243 (LIST_MAPPED_STYLES()), 426–428 navigational elements, creating (NAV()), match 254–255 array, returning (PREG_GREP()), 147 printing query (PRINT_ENTRY()), 248–249 field value, getting all (FETCH_ALL()), 417 user authentication string to a pattern (PREG_MATCH_ALL()), (GUESTBOOK_AUTHENTICATE()), 148 244–248 testing string (ereg()), 143–144 verifying user information mathematical functions (CREATE_ENTRY()), 250–253 arc cosine (ACOS), 706"
+    ],
+    "pages": [
+      "575–578",
+      "695–696"
+    ],
+    "title": [
+      "database call, putting together malicious text"
+    ],
+    "type": null,
+    "volume": [
+      "557",
+      "692"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "guestbook",
+        "given": "verifying"
+      }
+    ],
+    "note": [
+      "connect_validate_login()), date/time, 166–170 374–375 described, 133 path documentation, 136–137 absolute pathname, returning (REALPATH()), error, 186–187"
+    ],
+    "pages": [
+      "155–163"
+    ],
+    "title": [
+      "257–258 functions strings, encrypting and decrypting, 732 arguments, 134–135 validation, content-management system array"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "string (STRPOS()), 140–141 described, 441–442 of string (LOCATE, STRPOS()), 712–713 email, sending to customer of substring (INSTR), 713 (notify_customer()), 461–462 positive number (SIGN), 702 necessary elements, 442–444 postings, finding users’ (fetch_user()), problem and related information 378–379 (fetch_problem()), 455–456 predicate values, retrieving with (in/not in), scripts 71–72 customer response preventative measures. See security (write_customer.php), 466–473 price, catalog products class, 423 enter or updating problem primary keys (problem.php), 464–465 defined, 10, 11 form (problem_entry_form.php), index, creating, 37–38 465–466 multi-column (second normal form), 11–13 staff members, logging in repeating groups of data versus, 14 (staff/problems.php), 473–475 replace statement, 61–63 staff table (fetch_staff()), 453–454 print functions status, tracking (status_change()), basic (PRINT()), 165 462–464 described, 164–165 updates, entering (history_entry()), language construct (ECHO()), 165 459–461 string, formatting according to C-style procedural code, 21–22, 220–221 pattern (SPRINTF()), 166 process, ending, 590 variable products contents of (VAR_DUMP()), 166 catalog records printing entire contents to screen constructor (__CONSTRUCT()), 422–423 (PRINT_R()), 166 ID value of new image (UPLOAD()), 430 printing image matching display (THUMBNAIL()), catalog 430 child products, 437–439 images (IMG()), 429–430 product, 435–436 LIST_ALL_CHILDREN() and styles, 436–437 LIST_CHILDREN(), 423–424 Guestbook 2003 library mappings, retrieving arguments (PRINT_INPUT_FIELDS()), (LIST_MAPPED_STYLES()), 426–428 249–250 notes, adding (ADD_NOTES()), 424–425 query (PRINT_ENTRY()), 248–249 overloading methods (__GET() and HTML survey text field, 289–290 __CALL()), 430–431 shopping cart categories or products PRICE(), 423 (DISPLAY.PHP), 492–493 record, saving (WRITE_TO_DB()),"
+    ],
+    "pages": [
+      "444–452"
+    ],
+    "title": [
+      "of last occurrence of search character in database design"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "printing"
+      }
+    ],
+    "note": [
+      "86 expressions (sql_regcase()), shorthand (db_values_array()), 372–373 145–146 writing safely (SAFE_MYSQL_QUERY()), described, 142–143, 633"
+    ],
+    "title": [
+      "248–249 altering to use in case-insensitive returning in one result set (union"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "regular expression continued retrieving match, testing string (ereg()), 143–144 handlers (SESSION_SET_SAVE_HANDLER()), PCRE, 146–148, 633–634 485 string, replacing based on complex limited rows (where clause) from table, patterns (EREG_REPLACE()),",
+      "426–428 characters (literal patterns), 659–660 table data (select), 64–67 Perl string, transforming into array unmapped root-level styles, catalog (PREG_SPLIT()), 152–153 products (LIST_UNMAPPED_STYLES()), specifying “or”, 665 425 string expression, matching (REGEXP and values NOT REGEXP), 698 with predicate (in/not in), 71–72 string, transforming into array (SPLIT()), within a range (between), 70–71 151–152 with wildcard characters (like relational databases, benefits of, 3–5 clause), 72 relationships, database design return values many-to-many, 17–19 generated by called function, in original one-to-many, 15–16 order (ARRAY_MAP()), 158–159 one-to-one, 16–17 PHP functions, 135–136"
+    ],
+    "pages": [
+      "144–145 67–70"
+    ],
+    "title": [
+      "multiple occurrences, 663–665 mappings, catalog products patterns, matching to series of known (LIST_MAPPED_STYLES("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Perl regular expression string, transforming (STRIP_TAGS()), 137–138 into array (PREG_SPLIT()), 152–153 index (FIELD), 718 regular expression, transforming into array input, concatenating (STR_REPEAT()), (SPLIT()), 151–152 139–140 replacing based on complex patterns INSERT, 717 (EREG_REPLACE()), 144–145 continued"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "position (INSTR), 713 (stage_table_name()), 380–381 returning (SUBSTR()), 141 of stories, creating or updating SUBSTRING_INDEX, 714–715 (write_story()), 382–387 Index 759"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "text threads, viewing active, 589–590 buttons, 569 thumbnails images, 183, 430 form, 673 time, current (CURTIME), 729 HTTP, blocking further headers timeout lock, 732–733 (header_sent()), 180 timestamp, UNIX, 729–730 manipulating with user-defined functions, title, Guestbook 2003 tags 669–670 (MAKE_PAGE_TITLE()), 240 testing contents, 119–121 to, replacing from in string (REPLACE), 716 text box, form (textarea_field()), 673–674 token replacement, 369 text entry, HTML form input (textarea), topic, information about given topic, displaying 566–567 (display_topic()) threaded discussion,"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "153–154 individual entries (history_entry()), Perl regular expression string, transforming 459–461 into array (PREG_SPLIT()), 152–153 script (problem.php), 464–465 regular expression string, transforming into uploaded file array (SPLIT()), 151–152 check and then move scalar variable, returning as integer or (MOVE_UPLOADED_FILE()), 175 floating-point variable (INTVAL() and HTTP, checking (IS_UPLOADED_FILE()),"
+    ],
+    "title": [
+      "case-insensitive pattern match (split()), updating 155 catalog record (UPDATE_RECORD()), 419 comparing variables, 92–93 content-management system described, 149–150 authors table (write_author()), floating-point numbers, converting to 381–382 formatted string (NUMBER_FORMAT()), stories table (write_story()), 154 382–387 key/value pairs, pulling from array and data in tables, 55–59 making into standalone variables problem-tracking system (EXTRACT("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "declaring, 91–93 query, printing (PRINT_ENTRY()), strings, delimiting, 94–96 248–249 two-dimensional arrays, assigning, 99 user authentication printing, 166 (GUESTBOOK_AUTHENTICATE()), setting to specified type (SETTYPE()), 153 244–248 static, using in methods (DBH()), 413–414 verifying user information"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "/GUESTBOOK2K/FUNCTIONS.PHP"
+    ],
+    "note": [
+      "random, drawing in survey arguments, printing (admin/get_winner.php), 303 (PRINT_INPUT_FIELDS()), 249–250 survey, notifying (admin/winners.php), database call, putting together 303–304 (SELECT_ENTRIES()), 253–254 workflow stages, table disconnecting (MYSQL_DBCONNECT()), building for content management system 242–243 (stage_table_name()), 380–381 navigational elements, creating (NAV()), building for workflow stages 254–255 (stage_table_name()), 380–381"
+    ],
+    "type": null
+  }
+]
