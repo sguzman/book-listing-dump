@@ -1,0 +1,4203 @@
+[
+  {
+    "author": [
+      {
+        "family": "Bernstein",
+        "given": "Terry"
+      },
+      {
+        "family": "Bhimani",
+        "given": "Anish B."
+      },
+      {
+        "family": "Schultz",
+        "given": "Eugene"
+      },
+      {
+        "family": "Siegel",
+        "given": "Carol A."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Internet Security for Business"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Comer",
+        "given": "Douglas E."
+      },
+      {
+        "given": "Principles"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Internetworking with TCP/IP",
+      "Protocols and Architecture"
+    ],
+    "type": "book",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schneier",
+        "given": "Bruce"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley and Sons, Inc"
+    ],
+    "title": [
+      "Applied Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "March",
+        "given": "B.Kaliski"
+      },
+      {
+        "family": "March",
+        "given": "B.Kaliski"
+      },
+      {
+        "family": "March",
+        "given": "B.Kaliski"
+      },
+      {
+        "family": "Haller",
+        "given": "A.One-Time Password System N."
+      },
+      {
+        "family": "Metz",
+        "given": "C."
+      },
+      {
+        "family": "Nesser",
+        "given": "P."
+      },
+      {
+        "family": "February",
+        "given": "M.Straw"
+      },
+      {
+        "family": "Blunk",
+        "given": "L."
+      },
+      {
+        "family": "March",
+        "given": "J.Vollbrecht"
+      },
+      {
+        "family": "Rivest",
+        "given": "Encryption Algorithm R."
+      },
+      {
+        "family": "Kille",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "IETF Documents—RFCS 2315 PKCS #7: Cryptographic Message Syntax Version 1.5",
+      "2313 PKCS #1: RSA Encryption Version 1.5",
+      "1998",
+      "L. Howard",
+      "M. Wahl"
+    ],
+    "date": [
+      "1998",
+      "1998",
+      "1998",
+      "1998-03",
+      "1998",
+      "1998",
+      "1997-12"
+    ],
+    "editor": [
+      {
+        "family": "Bates",
+        "given": "T."
+      },
+      {
+        "family": "January",
+        "given": "Y.Rekhter"
+      }
+    ],
+    "location": [
+      "Status",
+      "Status",
+      "Status",
+      "Status"
+    ],
+    "note": [
+      "Status: INFORMATIONAL) 2314 PKCS",
+      "Status: EXPERIMENTAL) 2289",
+      "Obsoletes RFC1938) (Status: DRAFT STANDARD) 2284 PPP Extensible Authentication Protocol (EAP).",
+      "Status: PROPOSED STANDARD) 2268 A Description of the RC2(r",
+      "Status: PROPOSED STANDARD) 2251 Lightweight Directory Access Protocol (v3). M. Wahl, T. Howes,"
+    ],
+    "publisher": [
+      "INFORMATIONAL",
+      "INFORMATIONAL",
+      "INFORMATIONAL",
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "#10: Certification Request Syntax Version 1.5",
+      "Status: INFORMATIONAL) 2307 An Approach for Using LDAP as a Network Information Service",
+      "January, 1998",
+      "2260 Scalable Support for Multi-Homed Multi-Provider Connectivity",
+      "2256 A Summary of the X.500(96) User Schema for Use with LDAPv3",
+      "December, 1997"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DNS. R. Atkinson",
+        "given": "Key Exchange Delegation Record",
+        "particle": "for the"
+      }
+    ],
+    "citation-number": [
+      "2230"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "October, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2219"
+    ],
+    "date": [
+      "1997-10"
+    ],
+    "editor": [
+      {
+        "family": "Hamilton",
+        "given": "M."
+      },
+      {
+        "family": "Wright",
+        "given": "R."
+      }
+    ],
+    "title": [
+      "Use of DNS Aliases for Network Services"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Status",
+        "given": "B.E.S.T.C.U.R.R.E.N.T.P.R.A.C.T.I.C.E."
+      },
+      {
+        "family": "Shenker",
+        "given": "S."
+      },
+      {
+        "family": "Wroclawski",
+        "given": "J."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Shenker",
+        "given": "S."
+      },
+      {
+        "family": "Partridge",
+        "given": "C."
+      },
+      {
+        "family": "Guerin",
+        "given": "R."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "2215 General Characterization Parameters for Integrated Service Network Elements",
+      "September, 1997",
+      "2212 Specification of Guaranteed Quality of Service"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "September"
+      }
+    ],
+    "container-title": [
+      "J. Wroclawski"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Status: PROPOSED STANDARD) 2211 Specification of the Controlled-Load Network Element Service"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "September"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2210"
+    ],
+    "container-title": [
+      "J. Wroclawski"
+    ],
+    "date": [
+      "1997-09"
+    ],
+    "title": [
+      "The Use of RSVP with IETF Integrated Services"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Braden",
+        "given": "R."
+      },
+      {
+        "family": "September",
+        "given": "L.Zhang"
+      }
+    ],
+    "container-title": [
+      "Applicability Statement Some Guidelines on Deployment"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Mankin",
+        "given": "A."
+      },
+      {
+        "family": "Ed.",
+        "given": "F.Baker"
+      },
+      {
+        "family": "Braden",
+        "given": "B."
+      },
+      {
+        "family": "Bradner",
+        "given": "S."
+      },
+      {
+        "family": "O’Dell",
+        "given": "M."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "note": [
+      "Status: INFORMATIONAL) 2208 Resource ReSerVation Protocol (RSVP)—Version 1"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "2209 Resource ReSerVation Protocol (RSVP)—Version 1 Message Processing Rules"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Romanow",
+        "given": "A.Weinrib"
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "September, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2207"
+    ],
+    "date": [
+      "1997-09"
+    ],
+    "editor": [
+      {
+        "family": "Berger",
+        "given": "L."
+      },
+      {
+        "family": "O’Malley",
+        "given": "T."
+      }
+    ],
+    "title": [
+      "RSVP Extensions for IPSEC Data Flows"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Status",
+        "given": "P.R.O.P.O.S.E.D.S.T.A.N.D.A.R.D."
+      },
+      {
+        "family": "Zhang",
+        "given": "S.Berson"
+      },
+      {
+        "family": "Herzog",
+        "given": "S."
+      },
+      {
+        "family": "Jamin",
+        "given": "S."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Braden",
+        "given": "R."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "2205 Resource ReSerVation Protocol (RSVP)—Version 1 Functional Specification",
+      "September, 1997"
+    ],
+    "type": "book",
+    "volume": [
+      "L"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fraser",
+        "given": "Site Security Handbook B."
+      }
+    ],
+    "citation-number": [
+      "2196"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "September, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Selection"
+      },
+      {
+        "family": "Secondary DNS Servers. R. Elz",
+        "given": "Operation",
+        "particle": "of"
+      },
+      {
+        "family": "Bush",
+        "given": "R."
+      },
+      {
+        "family": "Bradner",
+        "given": "S."
+      },
+      {
+        "family": "Patton",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "2182"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "note": [
+      "Status: BEST CURRENT PRACTICE"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2181"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "editor": [
+      {
+        "family": "Elz",
+        "given": "R."
+      },
+      {
+        "family": "Bush",
+        "given": "R."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Clarifications to the DNS Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Simpson",
+        "given": "P.P.P.Vendor Extensions W."
+      }
+    ],
+    "citation-number": [
+      "2153"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "May, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2144"
+    ],
+    "container-title": [
+      "C. Adams. May"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "The CAST-128 Encryption Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1997"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rigney",
+        "given": "R.A.D.I.U.S.Accounting C."
+      }
+    ],
+    "citation-number": [
+      "2139"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "April, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2138"
+    ],
+    "editor": [
+      {
+        "family": "Rigney",
+        "given": "C."
+      },
+      {
+        "family": "Rubens",
+        "given": "A."
+      },
+      {
+        "given": "W."
+      }
+    ],
+    "title": [
+      "Remote Authentication Dial-In User Service (RADIUS"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Simpson"
+      },
+      {
+        "family": "Willens",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "April, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2137"
+    ],
+    "container-title": [
+      "D. Eastlake. April"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Secure Domain Name System Dynamic Update"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1997"
+    ]
+  },
+  {
+    "citation-number": [
+      "2136"
+    ],
+    "editor": [
+      {
+        "family": "Vixie",
+        "given": "P."
+      },
+      {
+        "family": "Ed.",
+        "given": "S."
+      }
+    ],
+    "title": [
+      "Dynamic Updates in the Domain Name System (DNS UPDATE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thomson",
+        "given": "Y.Rekhter"
+      },
+      {
+        "family": "Bound",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "April, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Options",
+        "given": "D.H.C.P."
+      },
+      {
+        "family": "Alexander",
+        "given": "B.O.O.T.P.Vendor Extensions S."
+      },
+      {
+        "family": "March",
+        "given": "R.Droms"
+      }
+    ],
+    "citation-number": [
+      "2132"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "DRAFT STANDARD"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2131"
+    ],
+    "container-title": [
+      "R. Droms"
+    ],
+    "date": [
+      "1997-03"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "DRAFT STANDARD"
+    ],
+    "title": [
+      "Dynamic Host Configuration Protocol"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "2125"
+    ],
+    "container-title": [
+      "C. Richards and K. Smith. March"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "The PPP Bandwidth Allocation Protocol (BAP) / The PPP Bandwidth Allocation Control Protocol (BACP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1997"
+    ]
+  },
+  {
+    "citation-number": [
+      "2118"
+    ],
+    "container-title": [
+      "Protocol. G. Pall"
+    ],
+    "date": [
+      "1997-03"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "Microsoft Point-To-Point Compression (MPPC"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "HMAC",
+        "given": "Keyed-Hashing for Message Authentication H.Krawczyk"
+      },
+      {
+        "family": "Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Canetti",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2104"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "February, 1997"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2085"
+    ],
+    "editor": [
+      {
+        "family": "Oehler",
+        "given": "M."
+      },
+      {
+        "family": "Glenn",
+        "given": "R."
+      }
+    ],
+    "title": [
+      "HMAC-MD5 IP Authentication with Replay Prevention"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "February"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "J. Linn. January"
+    ],
+    "date": [
+      "2078"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Generic Security Service Application Program Interface, Version 2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1997"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kaufman",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "D. Eastlake"
+    ],
+    "date": [
+      "2065"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Domain Name System Security Extensions",
+      "January, 1997"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3rd"
+    ]
+  },
+  {
+    "container-title": [
+      "R. Baldwin and R. Rivest. October"
+    ],
+    "date": [
+      "2040"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "The RC5, RC5-CBC, RC5-CBC-Pad, and RC5-CTS Algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "container-title": [
+      "C. Adams. October"
+    ],
+    "date": [
+      "2025"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "The Simple Public-Key GSS-API Mechanism (SPKM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rekhter",
+        "given": "Y."
+      },
+      {
+        "family": "Li",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "BEST CURRENT PRACTICE"
+    ],
+    "title": [
+      "Implications of Various Address Allocation Policies for Internet Routing",
+      "October, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ohta",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Incremental Zone Transfer in DNS",
+      "August, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "W. Simpson. August"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "DRAFT STANDARD"
+    ],
+    "title": [
+      "PPP Challenge Handshake Authentication Protocol (CHAP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barbir",
+        "given": "P.P.P.Gandalf F.Z.A.Compression Protocol A."
+      },
+      {
+        "family": "Carr",
+        "given": "D."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "1993"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "August, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "K. Sklower and G. Meyer. June"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "The PPP DES Encryption Protocol (DESE"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "container-title": [
+      "G. Meyer. June"
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "The PPP Encryption Control Protocol (ECP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "date": [
+      "1967"
+    ],
+    "editor": [
+      {
+        "family": "Schneider",
+        "given": "K."
+      },
+      {
+        "family": "August",
+        "given": "R.Friend"
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "PPP LZS-DCP Compression Protocol (LZS-DCP"
+    ],
+    "type": "book",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "container-title": [
+      "D. Rand. June"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "The PPP Compression Control Protocol (CCP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "container-title": [
+      "P. McMahon. June"
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "GSS-API Authentication Method for SOCKS Version 5"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "container-title": [
+      "J. Quarterman and S. Carl-Mitchell. April"
+    ],
+    "date": [
+      "1935"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "What is the Internet, Anyway?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gilligan",
+        "given": "R."
+      },
+      {
+        "family": "Nordmark",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1933"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Transition Mechanisms for IPv6 Hosts and Routers",
+      "April, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "M. Leech. April"
+    ],
+    "date": [
+      "1929"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Username/Password Authentication for SOCKS V5"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Leech",
+        "given": "M."
+      },
+      {
+        "family": "Ganis",
+        "given": "M."
+      },
+      {
+        "family": "Lee",
+        "given": "Y."
+      },
+      {
+        "family": "Kuris",
+        "given": "R."
+      },
+      {
+        "family": "Koblas",
+        "given": "D."
+      },
+      {
+        "family": "Jones",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1928"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "SOCKS Protocol Version 5",
+      "April, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1918"
+    ],
+    "editor": [
+      {
+        "family": "Rekhter",
+        "given": "Y."
+      },
+      {
+        "family": "Moskowitz",
+        "given": "B."
+      },
+      {
+        "family": "Karrenberg",
+        "given": "D."
+      },
+      {
+        "family": "J",
+        "given": "G."
+      }
+    ],
+    "title": [
+      "Address Allocation for Private Internets"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Groot",
+        "particle": "de"
+      },
+      {
+        "family": "Lear",
+        "given": "E."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "BEST CURRENT PRACTICE"
+    ],
+    "title": [
+      "February, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "D. Barr. February"
+    ],
+    "date": [
+      "1912"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "Common DNS Operational and Configuration Errors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1996"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "Renumbering Needs Work B."
+      },
+      {
+        "family": "Rekhter",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "1900"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "February, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1884",
+      "1995-12"
+    ],
+    "editor": [
+      {
+        "family": "Hinden",
+        "given": "R."
+      },
+      {
+        "family": "Deering",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "IP Version 6 Addressing Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Deering",
+        "given": "Specification S."
+      },
+      {
+        "family": "Hinden",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "1883",
+      "IPv6"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Internet Protocol, Version 6",
+      "December, 1995"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1881"
+    ],
+    "container-title": [
+      "IAB and IESG. December"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "IPv6 Address Allocation Management"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1995"
+    ]
+  },
+  {
+    "container-title": [
+      "1865 EDI Meets the Internet Frequently Asked Questions about Electronic Data Interchange"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Internet. W. Houser",
+        "given": "E.D.I.)",
+        "particle": "on the"
+      },
+      {
+        "family": "Griffin",
+        "given": "J."
+      },
+      {
+        "family": "Hage",
+        "given": "C."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "January, 1996"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Metzger",
+        "given": "I.P.Authentication Using Keyed S.H.A.P."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "1852"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "EXPERIMENTAL"
+    ],
+    "title": [
+      "September, 1995"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karn",
+        "given": "The E.S.P.Triple D.E.S.Transform P."
+      },
+      {
+        "family": "Metzger",
+        "given": "P."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "1851"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "EXPERIMENTAL"
+    ],
+    "title": [
+      "September, 1995"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karn",
+        "given": "The E.S.P.D.E.S.-C.B.C.Transform P."
+      },
+      {
+        "family": "Metzger",
+        "given": "P."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "1829"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hanks",
+        "given": "S."
+      },
+      {
+        "family": "Li",
+        "given": "T."
+      },
+      {
+        "family": "Farinacci",
+        "given": "D."
+      },
+      {
+        "family": "Traina",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "1702"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "Generic Routing Encapsulation over IPv4 Networks",
+      "October, 1994"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hanks",
+        "given": "Generic Routing Encapsulation S."
+      },
+      {
+        "family": "Li",
+        "given": "T."
+      },
+      {
+        "family": "Farinacci",
+        "given": "D."
+      },
+      {
+        "family": "Traina",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "1701"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "October, 1994"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1661"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "editor": [
+      {
+        "family": "Simpson",
+        "given": "W."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "STANDARD"
+    ],
+    "title": [
+      "The Point-to-Point Protocol (PPP"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1631"
+    ],
+    "container-title": [
+      "K. Egevang and P. Francis. May"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "The IP Network Address Translator (NAT"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1994"
+    ]
+  },
+  {
+    "citation-number": [
+      "1591"
+    ],
+    "container-title": [
+      "J. Postel"
+    ],
+    "date": [
+      "1994-03"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "Domain Name System Structure and Delegation"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "1531"
+    ],
+    "container-title": [
+      "R. Droms. October"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "PROPOSED STANDARD"
+    ],
+    "title": [
+      "Dynamic Host Configuration Protocol"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1993"
+    ]
+  },
+  {
+    "citation-number": [
+      "1321"
+    ],
+    "container-title": [
+      "R. Rivest. April"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "The MD5 Message-Digest Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1992"
+    ]
+  },
+  {
+    "citation-number": [
+      "1320"
+    ],
+    "container-title": [
+      "R. Rivest. April"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "INFORMATIONAL"
+    ],
+    "title": [
+      "The MD4 Message-Digest Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1992"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "April",
+        "given": "The MD2 Message-Digest Algorithm B.Kaliski"
+      }
+    ],
+    "citation-number": [
+      "1319"
+    ],
+    "date": [
+      "1992",
+      "1987-11-01"
+    ],
+    "editor": [
+      {
+        "family": "Names—Implementation",
+        "given": "Domain"
+      },
+      {
+        "family": "Mockapetris",
+        "given": "Specification P.V."
+      }
+    ],
+    "location": [
+      "Status"
+    ],
+    "note": [
+      "Status: INFORMATIONAL) 1035"
+    ],
+    "publisher": [
+      "STANDARD"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Names—Concepts",
+        "given": "Domain"
+      },
+      {
+        "family": "Mockapetris",
+        "given": "Facilities P.V."
+      }
+    ],
+    "citation-number": [
+      "1034"
+    ],
+    "location": [
+      "Status"
+    ],
+    "publisher": [
+      "STANDARD"
+    ],
+    "title": [
+      "November 1, 1987"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kayashima",
+        "given": "Makoto"
+      },
+      {
+        "family": "Ogino",
+        "given": "Tsukasa"
+      },
+      {
+        "family": "Terada",
+        "given": "Masato"
+      },
+      {
+        "family": "Fujiyama",
+        "given": "Yoichi"
+      }
+    ],
+    "title": [
+      "SOCKS V5"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Michener",
+        "given": "J."
+      },
+      {
+        "family": "Fritch",
+        "given": "Dan"
+      }
+    ],
+    "date": [
+      "11/26/1997",
+      "03/13/1998",
+      "01/07/1998"
+    ],
+    "pages": [
+      "– – – – –00",
+      "– – – – –01"
+    ],
+    "title": [
+      "Protocol Extension for Multiple Firewalls Traversal",
+      "Multi-Authentication Framework Method for SOCKS V5",
+      "<draft-ietf-aft-socks-maf-00.txt> VanHeyningen, Marc. “Challenge-Handshake Authentication Protocol for SOCKS V5"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "VanHeyningen",
+        "given": "Marc"
+      },
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      },
+      {
+        "family": "Calhoun",
+        "given": "Pat"
+      },
+      {
+        "family": "Haag",
+        "given": "Jeff"
+      }
+    ],
+    "date": [
+      "03/05/1998"
+    ],
+    "note": [
+      "03/06/1998, <draft-ietf-aft-socks-eap-00.txt> Differentiated Services Brim, Scott, Frank Kastenholz, Fred Baker, John Renwick, Tony Li, and Shantigram Jagannath."
+    ],
+    "pages": [
+      "– – – – – 5–02"
+    ],
+    "title": [
+      "SOCKS Protocol Version 5",
+      "EAP Authentication for SOCKS Version 5"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Nichols",
+        "given": "Kathleen"
+      },
+      {
+        "family": "Blake",
+        "given": "S."
+      },
+      {
+        "family": "Nichols",
+        "given": "Kathleen"
+      },
+      {
+        "family": "Blake",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "04/10/1998",
+      "05/07/1998",
+      "02/11/1998"
+    ],
+    "pages": [
+      "– – –00",
+      "– – – –00"
+    ],
+    "title": [
+      "IP Precedence in Differentiated Services Using the Assured Service",
+      "Definition of the Differentiated Services Field (DS Byte) in the IPv4 and IPv6 Headers",
+      "Differentiated Services Operational Model and Definitions",
+      "<draft-nichols-dsopdef-00.txt> Domain Name System Security"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eastlake",
+        "given": "Don"
+      }
+    ],
+    "date": [
+      "03/12/1998"
+    ],
+    "pages": [
+      "– – –01"
+    ],
+    "title": [
+      "DNS Operational Security Considerations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eastlake",
+        "given": "Don"
+      }
+    ],
+    "date": [
+      "05/05/1998"
+    ],
+    "pages": [
+      "– – 2–05"
+    ],
+    "title": [
+      "Domain Name System Security Extensions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eastlake",
+        "given": "Don"
+      }
+    ],
+    "date": [
+      "01/27/1998"
+    ],
+    "pages": [
+      "– – –02"
+    ],
+    "title": [
+      "DSA KEYs and SIGs in the Domain Name System"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eastlake",
+        "given": "Don"
+      }
+    ],
+    "date": [
+      "01/27/1998"
+    ],
+    "pages": [
+      "– – – –00"
+    ],
+    "title": [
+      "RSA/MD5 KEYs and SIGs in the Domain Name System (DNS"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Eastlake",
+        "given": "Don"
+      }
+    ],
+    "container-title": [
+      "“Storing Certificates in the Domain Name System (DNS),”"
+    ],
+    "date": [
+      "02/23/1998",
+      "03/12/1998",
+      "03/06/1998"
+    ],
+    "editor": [
+      {
+        "family": "Gudmundsson",
+        "given": "O.",
+        "particle": "draft-ietf-dnssec-dhk-02.txt>"
+      },
+      {
+        "family": "Eastlake",
+        "given": "D."
+      }
+    ],
+    "pages": [
+      "– – – –02"
+    ],
+    "title": [
+      "Secret Key Establishment for DNS (TKEY RR",
+      "<draft-ietfdnssec-tkey-00.txt> Eastlake, Don. “Storage of Diffie-Hellman Keys in the Domain Name System (DNS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "11/26/1997"
+    ],
+    "pages": [
+      "– – –00"
+    ],
+    "title": [
+      "DNSsec Authentication Referral Record (AR"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "R."
+      },
+      {
+        "family": "Pereira",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "03/10/1998"
+    ],
+    "pages": [
+      "– – – –02"
+    ],
+    "title": [
+      "The ESP CBC-Mode Cipher Algorithms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattacharya",
+        "given": "P."
+      },
+      {
+        "family": "Pereira",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "02/25/1998"
+    ],
+    "pages": [
+      "– – – –00"
+    ],
+    "title": [
+      "IPSec Policy Data Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Carrel",
+        "given": "D."
+      },
+      {
+        "family": "Harkins",
+        "given": "D."
+      },
+      {
+        "given": "Madson"
+      }
+    ],
+    "date": [
+      "03/13/1998",
+      "03/14/1997",
+      "02/13/1998"
+    ],
+    "pages": [
+      "– – – – – –02"
+    ],
+    "title": [
+      "The Internet Key Exchange (IKE",
+      "<draft-ietf-ipsecisakmp-oakley-07.txt> Doraswamy, Naganand. “Implementation of Virtual Private Network (VPNs) with IP Security",
+      "<draft-ietf-ipsec-vpn-00.txt> Doraswamy, Naganand, and C",
+      "The ESP DES-CBC Cipher Algorithm with Explicit IV"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kent",
+        "given": "Stephen"
+      },
+      {
+        "family": "Atkinson",
+        "given": "Ran"
+      }
+    ],
+    "date": [
+      "05/12/1998"
+    ],
+    "pages": [
+      "– – – –06"
+    ],
+    "title": [
+      "IP Authentication Header"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kent",
+        "given": "Stephen"
+      },
+      {
+        "family": "Atkinson",
+        "given": "Ran"
+      },
+      {
+        "family": "Kent",
+        "given": "Stephen"
+      },
+      {
+        "family": "Atkinson",
+        "given": "Ran"
+      },
+      {
+        "family": "Kent",
+        "given": "Stephen"
+      },
+      {
+        "family": "Glenn",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "05/12/1998",
+      "05/12/1998",
+      "03/13/1998"
+    ],
+    "pages": [
+      "– – – – 2–05",
+      "– – – – –05",
+      "– – – – –00"
+    ],
+    "title": [
+      "IP Encapsulating Security Payload (ESP",
+      "Security Architecture for the Internet Protocol",
+      "The NULL Encryption Algorithm and Its Use with IPsec"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Madson",
+        "given": "C."
+      },
+      {
+        "family": "Glenn",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "02/18/1998"
+    ],
+    "pages": [
+      "– – – – – 5–96–03"
+    ],
+    "title": [
+      "The Use of HMAC-MD5-96 within ESP and AH"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Madson",
+        "given": "C."
+      },
+      {
+        "family": "Glenn",
+        "given": "R."
+      },
+      {
+        "family": "Maughan",
+        "given": "D."
+      },
+      {
+        "family": "Schertler",
+        "given": "M."
+      },
+      {
+        "family": "Schneider",
+        "given": "M."
+      },
+      {
+        "family": "Turner",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "02/18/1998",
+      "03/11/1998"
+    ],
+    "pages": [
+      "– – – – – 196–03",
+      "– – – –09"
+    ],
+    "title": [
+      "The Use of HMAC-SHA-1-96 within ESP and AH",
+      "Internet Security Association and Key Management Protocol (ISAKMP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Orman",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "07/25/1997"
+    ],
+    "pages": [
+      "– – – –02"
+    ],
+    "title": [
+      "The OAKLEY Key Determination Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Patel",
+        "given": "B."
+      },
+      {
+        "family": "Patel",
+        "given": "B."
+      },
+      {
+        "family": "Jeronimo",
+        "given": "Michael"
+      }
+    ],
+    "date": [
+      "12/04/1997",
+      "12/04/1997"
+    ],
+    "pages": [
+      "– – –00",
+      "– – – – – –00"
+    ],
+    "title": [
+      "Dynamic Remote Host Configuration over IPSEC Using DHCP",
+      "Revised SA Negotiation Mode for ISAKMP/Oakley"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Patel",
+        "given": "B."
+      },
+      {
+        "family": "Pereira",
+        "given": "R."
+      },
+      {
+        "family": "Anand",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "04/23/1998"
+    ],
+    "pages": [
+      "– – – – –03"
+    ],
+    "title": [
+      "The ISAKMP Configuration Method"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pereira",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "02/24/1998"
+    ],
+    "pages": [
+      "– – – –01"
+    ],
+    "title": [
+      "Extended Authentication within ISAKMP/Oakley"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Piper",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "12/23/1997"
+    ],
+    "pages": [
+      "– – – – –01"
+    ],
+    "title": [
+      "A GSS-API Authentication Mode for ISAKMP/Oakley"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Piper",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "05/13/1998"
+    ],
+    "pages": [
+      "– – – –09"
+    ],
+    "title": [
+      "The Internet IP Security Domain of Interpretation for ISAKMP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Piper",
+        "given": "D."
+      },
+      {
+        "family": "Harkins",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "04/06/1998"
+    ],
+    "pages": [
+      "– – – –00"
+    ],
+    "title": [
+      "The Pre-Shared Key for the Internet Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Provos",
+        "given": "Niels"
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      },
+      {
+        "family": "Doraswamy",
+        "given": "Naganand"
+      },
+      {
+        "family": "Metzger",
+        "given": "Perry"
+      },
+      {
+        "family": "Glenn",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "02/16/1998",
+      "07/03/1997",
+      "12/04/1997"
+    ],
+    "pages": [
+      "– – – – –160–96–01",
+      "– – – – –02"
+    ],
+    "title": [
+      "The Use of HMAC-RIPEMD-160-96 within ESP and AH",
+      "The ESP Triple DES Transform",
+      "<draft-ietf-ipsec-ciph-des3-00.txt> Thayer, Rodney, Naganand Doraswamy",
+      "IP Security Document Roadmap"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Callon",
+        "given": "Ross"
+      },
+      {
+        "family": "George Swallow",
+        "given": "N.Feldman"
+      },
+      {
+        "family": "Viswanathan",
+        "given": "A."
+      },
+      {
+        "family": "Doolan",
+        "given": "P."
+      },
+      {
+        "family": "Fredette",
+        "given": "A."
+      },
+      {
+        "family": "Callon",
+        "given": "Ross"
+      },
+      {
+        "family": "Viswanathan",
+        "given": "A."
+      },
+      {
+        "family": "Rosen",
+        "given": "E."
+      },
+      {
+        "family": "Davie",
+        "given": "Bruce"
+      },
+      {
+        "family": "Rekhter",
+        "given": "Y."
+      },
+      {
+        "family": "Viswanathan",
+        "given": "A."
+      },
+      {
+        "family": "Blake",
+        "given": "S."
+      },
+      {
+        "family": "Srinivasan",
+        "given": "Vijay"
+      },
+      {
+        "family": "Rosen",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "11/26/1997",
+      "04/07/1998",
+      "03/12/1998"
+    ],
+    "pages": [
+      "– – – –02",
+      "– – – –01",
+      "– – – –00"
+    ],
+    "title": [
+      "A Framework for Multiprotocol Label Switching",
+      "Multiprotocol Label Switching Architecture",
+      "Use of Label Switching with RSVP"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "11/21/1997"
+    ],
+    "pages": [
+      "– – –00"
+    ],
+    "title": [
+      "Next Generation (IPv6) Transition Anon. “Transition Mechanisms for IPv6 Hosts and Routers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Durand",
+        "given": "A."
+      },
+      {
+        "family": "Buclin",
+        "given": "Bertrand"
+      }
+    ],
+    "container-title": [
+      "“Network Address Translation—Protocol Translation (NAT-PT),” 03/06/1998, <draft-ietf-ngtrans-natpt-01.txt> Point-to-Point Protocol Extensions"
+    ],
+    "date": [
+      "04/24/1998"
+    ],
+    "title": [
+      "IPv6 Routing Issues",
+      "<draft-ietf-ngtrans-6bonerouting-issues-02.txt> Srisuresh, Pyda, and George Tsirtsis"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Aboba",
+        "given": "B."
+      },
+      {
+        "family": "Patel",
+        "given": "B."
+      },
+      {
+        "family": "Pat",
+        "given": "W.Mark Townsley"
+      },
+      {
+        "family": "Vakil",
+        "given": "Sumit"
+      },
+      {
+        "family": "Grosser",
+        "given": "Donald"
+      }
+    ],
+    "date": [
+      "03/11/1998",
+      "03/18/1998"
+    ],
+    "pages": [
+      "– – –12 – –03"
+    ],
+    "title": [
+      "Securing L2TP Using IPSEC",
+      "<draft-ietf-pppext-12tpsecurity-01.txt> Calhoun",
+      "Layer Two Tunneling Protocol ‘L2TP’ Security Extensions for Non-IP Networks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Carter",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "09/20/1997"
+    ],
+    "pages": [
+      "– – –00"
+    ],
+    "title": [
+      "PPP EAP ISAKMP Authentication Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Casner",
+        "given": "Stephen"
+      },
+      {
+        "family": "Bormann",
+        "given": "C."
+      },
+      {
+        "family": "Engan",
+        "given": "M."
+      },
+      {
+        "family": "Peirce",
+        "particle": "draft-engan-ip-compress-02.txt>"
+      },
+      {
+        "family": "Ken"
+      },
+      {
+        "family": "Calhoun",
+        "given": "Pat"
+      },
+      {
+        "family": "Peirce",
+        "particle": "draft-ietf-pppext-12tp-ds-01.txt>"
+      },
+      {
+        "family": "Ken"
+      },
+      {
+        "family": "Calhoun",
+        "given": "Pat"
+      },
+      {
+        "family": "Rubens",
+        "particle": "draft-ietf-pppext-12tp-mpls-00.txt>"
+      },
+      {
+        "family": "Allan",
+        "given": "William Palter"
+      },
+      {
+        "family": "Kolar",
+        "given": "T."
+      },
+      {
+        "family": "Pall",
+        "given": "G."
+      },
+      {
+        "family": "Littlewood",
+        "given": "M."
+      },
+      {
+        "family": "Valencia",
+        "given": "A."
+      },
+      {
+        "family": "Hamzeh",
+        "given": "K."
+      },
+      {
+        "family": "Verthein",
+        "given": "W."
+      },
+      {
+        "family": "Taarud",
+        "given": "J."
+      },
+      {
+        "family": "Townsley",
+        "given": "W.Mark"
+      }
+    ],
+    "date": [
+      "12/23/1997",
+      "03/09/1998",
+      "03/09/1998"
+    ],
+    "note": [
+      "” 04/06/1998,"
+    ],
+    "title": [
+      "IP Header Compression over PPP",
+      "Layer Two Tunneling Protocol ‘L2TP’ IP Differential Services Extension",
+      "Layer Two Tunneling Protocol ‘L2TP’ Multi-Protocol Label Switching Extension",
+      "Layer Two Tunneling Protocol ‘L2TP"
+    ],
+    "type": null,
+    "url": [
+      "<draft-ietf-pppext-12tp-10.txt>"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Valencia",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "12/22/1997"
+    ],
+    "pages": [
+      "– – –12 –01"
+    ],
+    "title": [
+      "L2TP Header Compression (“L2TPHC”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zmuda",
+        "given": "James"
+      },
+      {
+        "family": "Nace",
+        "given": "W."
+      },
+      {
+        "family": "Zmuda",
+        "given": "James"
+      },
+      {
+        "family": "Nace",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "12/03/1997",
+      "12/03/1997"
+    ],
+    "pages": [
+      "– – –01",
+      "– – – –01"
+    ],
+    "title": [
+      "PPP Certificate Exchange Protocol",
+      "PPP EAP DSS Public Key Authentication Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      },
+      {
+        "family": "Cobb",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "03/11/1998"
+    ],
+    "pages": [
+      "– – –00"
+    ],
+    "title": [
+      "Microsoft PPP C Extensions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      },
+      {
+        "family": "Pall",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "04/06/1998"
+    ],
+    "pages": [
+      "– – – –01"
+    ],
+    "title": [
+      "Microsoft Point-To-Point Encryption (MPPE) Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Public Key Infrastructure Adams",
+        "given": "C."
+      },
+      {
+        "family": "Farrell",
+        "given": "S."
+      },
+      {
+        "family": "Adams",
+        "given": "C.",
+        "particle": "draft-ietf-pkix-ipki3cmp-07.txt>"
+      },
+      {
+        "family": "Myers",
+        "given": "M."
+      },
+      {
+        "family": "Adams",
+        "given": "C.",
+        "particle": "draft-ietf-pkix-cmmf-00.txt>"
+      },
+      {
+        "family": "Myers",
+        "given": "M."
+      },
+      {
+        "family": "Malpani",
+        "given": "Ambarish"
+      },
+      {
+        "family": "Ankney",
+        "given": "Rich"
+      },
+      {
+        "family": "Galperin",
+        "given": "Slava"
+      },
+      {
+        "family": "Branchard",
+        "given": "Marc"
+      },
+      {
+        "family": "Ford",
+        "given": "Warwick"
+      },
+      {
+        "family": "Chokhani",
+        "given": "S."
+      },
+      {
+        "family": "Warwick"
+      },
+      {
+        "family": "Hallam-Baker",
+        "given": "P."
+      },
+      {
+        "family": "Fox",
+        "given": "Barbara"
+      },
+      {
+        "family": "Xiaoyi Liu",
+        "given": "M.Myers"
+      },
+      {
+        "family": "Weinstein",
+        "given": "Jeff"
+      },
+      {
+        "family": "Howes",
+        "given": "Tim"
+      },
+      {
+        "family": "Boeyen",
+        "given": "S."
+      },
+      {
+        "family": "Richard",
+        "given": "P."
+      },
+      {
+        "family": "Howes",
+        "given": "Tim"
+      },
+      {
+        "family": "Boeyen",
+        "given": "S."
+      },
+      {
+        "family": "Richard",
+        "given": "P."
+      },
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      }
+    ],
+    "container-title": [
+      "“Internet Public Key Infrastructure X.509 Certificate and CRL Profile,” 04/06/1998, <draft-ietf-pkix-ipki-part1-07.txt> Remote Authentication Dial-In User Service Calhoun, Pat, and Sumit Vakil. “RADIUS IP Security Extensions,” 11/10/1997"
+    ],
+    "date": [
+      "02/26/1998",
+      "03/12/1998",
+      "04/07/1998",
+      "04/17/1998",
+      "04/28/1998",
+      "04/22/1998",
+      "03/12/1998",
+      "04/16/1998",
+      "03/16/1998",
+      "03/16/1998",
+      "02/25/1998",
+      "04/08/1998"
+    ],
+    "editor": [
+      {
+        "family": "Solo",
+        "given": "D.",
+        "particle": "draft-ietf-pkix-ipki2opp-07.txt>"
+      },
+      {
+        "family": "Adams",
+        "given": "C."
+      },
+      {
+        "family": "Kemp",
+        "given": "D."
+      },
+      {
+        "family": "Myers",
+        "given": "M."
+      },
+      {
+        "family": "D.",
+        "given": "Russ Housley"
+      },
+      {
+        "family": "Ford",
+        "given": "Warwick"
+      },
+      {
+        "family": "Polk",
+        "given": "T."
+      }
+    ],
+    "note": [
+      "<draft-ietfradius-ipsec-00.txt> Rubens, Allan, B. Aboba, and Pat Calhoun. “Extensible Authentication Protocol Support in RADIUS,” 05/13/1998, <draft-ietf-radius-eap-05.txt> Shriver, J., D. Leifer, Allan Rubens,"
+    ],
+    "pages": [
+      "– – –03",
+      "– – – – –00",
+      "– – – –00",
+      "– – – – – –03",
+      "– – – 2– –00",
+      "– – – – –05"
+    ],
+    "title": [
+      "Internet X.509 Public Key Infrastructure Certificate Management Protocols",
+      "Internet X.509 Public Key Infrastructure Certificate Management Message Formats",
+      "X.509 Internet Public Key Infrastructure Online Certificate Status Protocol—OCSP",
+      "Internet Public Key Infrastructure Caching the Online Certificate Status Protocol",
+      "Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework",
+      "<draft-ietf-pkix-ipki-part4-03.txt> Ford",
+      "Internet X.509 Public Key Infrastructure OPEN CRL DISTRIBUTION PROCESS (OpenCDP",
+      "Certificate Management Messages over CMS",
+      "<draft-ietf-pkix-cmc-00.txt> Housley, Russ. “Internet X.509 Public Key Infrastructure Operational Protocols: FTP and HTTP",
+      "Internet X.509 Public Key Infrastructure LDAPv2 Schema",
+      "Internet X.509 Public Key Infrastructure Operational Protocols—LDAPv2",
+      "Certificate Request Message Format",
+      "<draft-ietf-pkix-crmf-00.txt> Solo",
+      "RADIUS Attributes for Tunnel Protocol Support"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      }
+    ],
+    "date": [
+      "11/06/1997"
+    ],
+    "pages": [
+      "– – – –01"
+    ],
+    "title": [
+      "RADIUS Attributes for MS-CHAP Support"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      },
+      {
+        "family": "Zorn",
+        "given": "Glen"
+      },
+      {
+        "family": "Mitton",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "11/18/1997",
+      "12/03/1997"
+    ],
+    "pages": [
+      "– – – –01",
+      "– – – – –00"
+    ],
+    "publisher": [
+      "RSVP Admission Policy"
+    ],
+    "title": [
+      "RADIUS Attributes for MS-CHAP Support",
+      "RADIUS Accounting Modifications for Tunnel Protocol Support"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Anon"
+      },
+      {
+        "family": "Herzog",
+        "given": "Shai"
+      },
+      {
+        "family": "Sastry",
+        "given": "A."
+      },
+      {
+        "family": "Rajan",
+        "given": "R."
+      },
+      {
+        "family": "Ron Cohen",
+        "given": "J.Boyle"
+      },
+      {
+        "family": "Durham",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "03/13/1998"
+    ],
+    "pages": [
+      "– – – – –00"
+    ],
+    "title": [
+      "RSVP Extensions for Policy Control",
+      "The COPS"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "Common Open Policy"
+      },
+      {
+        "family": "Yavatkar",
+        "given": "R."
+      },
+      {
+        "family": "Guerin",
+        "given": "R."
+      },
+      {
+        "family": "Pendarakis",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "11/26/1997, <draft-ietf-rap-framework-00.txt> Individual Submissions Aboba, B. “Lightweight Directory Access Protocol (v3): Dynamic Attributes for the Remote"
+    ],
+    "date": [
+      "03/16/1998"
+    ],
+    "pages": [
+      "– – – –01"
+    ],
+    "title": [
+      "Protocol",
+      "A Framework for Policy-Based Admission Control"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Aboba",
+        "given": "B."
+      },
+      {
+        "family": "Aboba",
+        "given": "B.",
+        "particle": "draft-aboba-ppp-01.txt>"
+      }
+    ],
+    "citation-number": [
+      "<draft-aboba-dynradius-01.txt>"
+    ],
+    "date": [
+      "11/21/1997",
+      "11/21/1997",
+      "02/05/1998"
+    ],
+    "pages": [
+      "– – –02"
+    ],
+    "title": [
+      "Access Dial-in User Service (RADIUS",
+      "Lightweight Directory Access Protocol (v3): Extension for PPP Authentication",
+      "Lightweight Directory Access Protocol (v3): Schema for the Remote Access Dial-in User Service (RADIUS"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bartz",
+        "given": "Larry"
+      }
+    ],
+    "date": [
+      "10/14/1997"
+    ],
+    "pages": [
+      "– – – – –00"
+    ],
+    "title": [
+      "LDAP Schema for Role-Based Access Control"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berkowitz",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "03/11/1998"
+    ],
+    "pages": [
+      "– –01"
+    ],
+    "title": [
+      "To Be Multihomed: Requirements & Definitions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Carrel",
+        "given": "D."
+      },
+      {
+        "family": "Grant",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "01/06/1998"
+    ],
+    "pages": [
+      "– –02"
+    ],
+    "title": [
+      "The TACACS+ Protocol Version 1.78"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Demizu",
+        "given": "Noritoshi"
+      },
+      {
+        "family": "Izumiyama",
+        "given": "H."
+      },
+      {
+        "family": "Rajan"
+      },
+      {
+        "family": "Kamat",
+        "given": "S."
+      },
+      {
+        "family": "Ferguson",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "12/04/1997",
+      "02/25/1998",
+      "03/12/1998"
+    ],
+    "editor": [
+      {
+        "family": "Ed",
+        "given": "Dinesh Verma"
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "pages": [
+      "– – – –00",
+      "– – – –02"
+    ],
+    "title": [
+      "Dynamic Tunnel Configuration Protocol",
+      "<draft-demizu-udlr-dtcp-00.txt> Ellesson",
+      "Schema for Service Level Administration of Differentiated Services and Integrated Services in Networks",
+      "Simple Differential Services: IP TOS and Precedence, Delay Indication, and Drop Preference"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Heinanen",
+        "given": "Juha"
+      },
+      {
+        "family": "Rosen",
+        "given": "E."
+      },
+      {
+        "family": "Jamieson",
+        "given": "Dwight"
+      },
+      {
+        "family": "Pegrum",
+        "given": "Scott"
+      },
+      {
+        "family": "Yuen",
+        "given": "Matthew"
+      }
+    ],
+    "date": [
+      "03/09/1998",
+      "03/16/1998"
+    ],
+    "pages": [
+      "– – –01",
+      "– – –00"
+    ],
+    "title": [
+      "VPN support for MPLS",
+      "VPN Multipoint to Multipoint Tunnel Protocol (VMMT"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Karn",
+        "given": "P."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "03/06/1998"
+    ],
+    "pages": [
+      "– – –05"
+    ],
+    "title": [
+      "Photuris: Extended Schemes and Attributes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Karn",
+        "given": "P."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      },
+      {
+        "family": "Li",
+        "given": "Tony"
+      },
+      {
+        "family": "Rekhter",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "02/27/1998",
+      "01/14/1998",
+      "02/27/1998"
+    ],
+    "editor": [
+      {
+        "family": "McDonald",
+        "given": "D.",
+        "particle": "draft-li-paste-00.txt>"
+      },
+      {
+        "family": "Phan",
+        "given": "B."
+      },
+      {
+        "family": "Metz",
+        "given": "C."
+      }
+    ],
+    "pages": [
+      "– –18",
+      "– – – – 2–05"
+    ],
+    "title": [
+      "Photuris: Session Key Management Protocol",
+      "Provider Architecture for Differentiated Services and Traffic Engineering",
+      "PF_KEY Key Management API, Version 2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moskowitz",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "02/12/1998"
+    ],
+    "pages": [
+      "– 66– –00"
+    ],
+    "title": [
+      "Network Address Translation Issues with IPsec"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "O’Hara",
+        "given": "John"
+      },
+      {
+        "family": "Ravadurgam"
+      },
+      {
+        "family": "Vaananen",
+        "given": "Pasi"
+      }
+    ],
+    "date": [
+      "11/26/1997",
+      "03/19/1998"
+    ],
+    "pages": [
+      "– – – – –00"
+    ],
+    "title": [
+      "Configuration of Tunnel Mode IPSec Endpoint Parameters",
+      "<draftohara-ipsecparam-00.txt> Ravikanth",
+      "Framework for Traffic Management in MPLS Networks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Simpson",
+        "given": "W."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      },
+      {
+        "family": "Metzger",
+        "given": "Perry"
+      }
+    ],
+    "date": [
+      "05/06/1998",
+      "05/01/1996"
+    ],
+    "pages": [
+      "– – – –00",
+      "– – – – –00"
+    ],
+    "title": [
+      "Photuris: Secret Exchange",
+      "IP Authentication Using Keyed SHA1 with Data Padding"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Srisuresh",
+        "given": "Pyda"
+      },
+      {
+        "family": "Egevang",
+        "given": "Kjeld"
+      },
+      {
+        "family": "Suzuki",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "03/05/1998",
+      "02/09/1998"
+    ],
+    "pages": [
+      "– – – –05"
+    ],
+    "title": [
+      "The IP Network Address Translator (NAT",
+      "Architecture of the Resource Reservation Service for the Commercial Internet",
+      "<draft-rfced-info-suzuki-00.txt> Web Sites"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Crypto Law Survey cwis.kub.nl/~frw/people/koops/bertjaap.htm NIST Computer Security Resource Clearinghouse csrc.nist.gov/publications/welcome.html"
+    ],
+    "title": [
+      "Bruce Schneir www.counterpane.com Cryptographic Protocols and Standards www.cs.hut.fi/ssh/crypto/protocols.html International Computer Security Association www.icsa.net/ Koops"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Communications",
+        "given": "Ascend"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "CA"
+    ],
+    "date": [
+      "1701"
+    ],
+    "note": [
+      "or (800) 621-9578, info@ascend.com, www.ascend.com/"
+    ],
+    "pages": [
+      "769–6001"
+    ],
+    "title": [
+      "Harbor Bay Parkway, Alameda"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "94502, (510"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Digital",
+        "given": "Assured"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "Box"
+    ],
+    "location": [
+      "Goldsmith Street, Littleton, MA"
+    ],
+    "pages": [
+      "9–11",
+      "486–0555,"
+    ],
+    "title": [
+      "P.O"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.assured-digital.com/"
+    ],
+    "volume": [
+      "248",
+      "01460, (978"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Aventail"
+      }
+    ],
+    "container-title": [
+      "WA"
+    ],
+    "note": [
+      "or (888) 762-5785, sales@aventail.com, www.aventail.com/ Mobile VPN (server and client software"
+    ],
+    "pages": [
+      "215–1111"
+    ],
+    "title": [
+      "117 South Main Street, Fourth Floor, Seattle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "98104, (206"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "Axent"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "info@axent.com, www.axent.com PowerVPN software Bay Networks, Inc., 4401 Great America Pkwy"
+    ],
+    "genre": [
+      "ext. 801,"
+    ],
+    "location": [
+      "Rockville, MD",
+      "Santa Clara, CA"
+    ],
+    "pages": [
+      "298–2620",
+      "330–5756,",
+      "800 –8– ,"
+    ],
+    "title": [
+      "2400 Research Blvd"
+    ],
+    "type": "chapter",
+    "url": [
+      "fax:",
+      "www.baynetworks.com/"
+    ],
+    "volume": [
+      "20850, (301) 258-5043, (800",
+      "301",
+      "95054"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "CheckPoint Software Technologies"
+      }
+    ],
+    "location": [
+      "Redwood City"
+    ],
+    "note": [
+      "CA 94065, (650) 628-2000, info@checkpoint.com, www.checkpoint.com/"
+    ],
+    "title": [
+      "Three Lagoon Drive, Suite 400"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Systems",
+        "given": "Cisco"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "CA"
+    ],
+    "pages": [
+      "526–4000",
+      "553–6387,"
+    ],
+    "title": [
+      "170 West Tasman Drive, San Jose"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.cisco.com/"
+    ],
+    "volume": [
+      "95134, (408",
+      "or (800"
+    ]
+  },
+  {
+    "note": [
+      "IntraPort (self-contained VPN hardware"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Cylink"
+      }
+    ],
+    "container-title": [
+      "CA"
+    ],
+    "note": [
+      "or (800) 533-3958, info@cylink.com, www.cylink.com/ SecureDomain (self-contained VPN hardware"
+    ],
+    "pages": [
+      "735–5800"
+    ],
+    "title": [
+      "910 Hermosa Court, Sunnyvale"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "94086, (408"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "CA"
+    ],
+    "note": [
+      "info@DataFellows.com, www.datafellows.com/ F-Secure VPN (VPN software for Intel PCs"
+    ],
+    "pages": [
+      "675",
+      "938–6700,"
+    ],
+    "publisher": [
+      "Data Fellows Inc"
+    ],
+    "title": [
+      "First Street, 8th Floor, San Jose"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "95112, (408"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "Digital Equipment"
+      }
+    ],
+    "container-title": [
+      "MA"
+    ],
+    "note": [
+      "fax: (978) 506-2017, altavista.software.digital.com/ AltaVista Tunnel (VPN software"
+    ],
+    "pages": [
+      "493–5111,"
+    ],
+    "title": [
+      "Littleton"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "978"
+    ]
+  },
+  {
+    "location": [
+      "Richardson, TX"
+    ],
+    "note": [
+      "entrust@entrust.com, www.entrust.com/ Entrust/Directory (LDAP-compatible certificate server) Entrust/Manager Extended Systems, Inc., 5777 N. Meeker Avenue, Boise,",
+      "or (800) 235-7576, info@extendsys.com, www.extendsys.com/ ExtendNet VPN (remote access VPN server"
+    ],
+    "pages": [
+      "994–8000,",
+      "322–7800"
+    ],
+    "title": [
+      "Entrust Technologies, 2323 North Central Expressway, Suite 360"
+    ],
+    "type": null,
+    "volume": [
+      "95080, (972",
+      "ID 83713, (208"
+    ]
+  },
+  {
+    "container-title": [
+      "info@fortresstech.com, www.fortresstech.com/ NetFortress VPN-1",
+      "FL"
+    ],
+    "date": [
+      "2701"
+    ],
+    "note": [
+      "VPN-3 (VPN hardware"
+    ],
+    "pages": [
+      "288–7388,"
+    ],
+    "publisher": [
+      "Fortress Technologies, Inc"
+    ],
+    "title": [
+      "Rocky Point Drive, Suite 650, Tampa"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33607, (813"
+    ]
+  },
+  {
+    "container-title": [
+      "CA"
+    ],
+    "date": [
+      "sales@freegate.com"
+    ],
+    "pages": [
+      "617–1000,"
+    ],
+    "title": [
+      "FreeGate Corporation, 1208 East Arques Avenue, Sunnyvale"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.freegate.com/"
+    ],
+    "volume": [
+      "94086, (408"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Frontier Technologies, 10201 N. Port Washington Rd."
+      }
+    ],
+    "container-title": [
+      "WI"
+    ],
+    "note": [
+      "800) 929-3054, fax: 414-241-7084, Info@FrontierTech.Com E-Lock Desktop (PKI and VPN client software) E-Lock Director (PKI and VPN server software"
+    ],
+    "pages": [
+      "241–4555,"
+    ],
+    "title": [
+      "Mequon"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53092, (414"
+    ]
+  },
+  {
+    "container-title": [
+      "MA"
+    ],
+    "pages": [
+      "266–8100,",
+      "266–8111,"
+    ],
+    "title": [
+      "Indus River Networks, Inc., 31 Nagog Park, Acton"
+    ],
+    "type": "article-journal",
+    "url": [
+      "fax:",
+      "www.indusriver.com/"
+    ],
+    "volume": [
+      "01720, (978",
+      "978"
+    ]
+  },
+  {
+    "container-title": [
+      "IRE), 8029 Corporate Drive"
+    ],
+    "location": [
+      "Baltimore, MD"
+    ],
+    "pages": [
+      "931–7500,"
+    ],
+    "title": [
+      "VTPC/Secure Information Resource Engineering, Inc"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.ire.com/"
+    ],
+    "volume": [
+      "21236, (410"
+    ]
+  },
+  {
+    "date": [
+      "www.intel.com/network/doc/1460/INDEX.COM"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "publisher": [
+      "Intel Corp"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Internet Devices Inc., 1287 Anvilwood Avenue, Sunnyvale, CA 94089, (408) 541-1400 or (888) 237-2244, sales@InternetDevices.com, www.InternetDevices.com/ Fort Knox (integrated VPN hardware"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Lombard"
+    ],
+    "note": [
+      "fax: (630) 953-7701, sales@interdyn.com, www.interdyn.com/ Conclave (integrated VPN software"
+    ],
+    "pages": [
+      "953–7700,"
+    ],
+    "title": [
+      "Internet Dynamics"
+    ],
+    "type": null,
+    "volume": [
+      "IL, (630"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "Microsoft"
+      }
+    ],
+    "container-title": [
+      "WA"
+    ],
+    "note": [
+      "fax: (425) 936-7329,"
+    ],
+    "pages": [
+      "882–8080,"
+    ],
+    "title": [
+      "Redmond"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.microsoft.com/"
+    ],
+    "volume": [
+      "425"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laboratory",
+        "given": "N.E.C.Systems"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "www.socks5.nec.com SOCKS5 E2 Client SOCKS5 Internet Access Management Framework",
+      "CA"
+    ],
+    "issue": [
+      "nec.com"
+    ],
+    "title": [
+      "110 Rio Robles Drive, San Jose"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Systems",
+        "given": "Raptor"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "container-title": [
+      "Waltham MA"
+    ],
+    "note": [
+      "fax: 781-487-6755, info@raptor.com, www.raptor.com Eagle (firewall"
+    ],
+    "pages": [
+      "530–2200,"
+    ],
+    "title": [
+      "266 Second Avenue"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "02154, (800) 9-EAGLE-6, (781"
+    ]
+  },
+  {
+    "note": [
+      "RedCreek Communications, Inc., 3900 Newpark Mall Rd., Newark, CA 94560, (510) 745-3900, fax: (510) 745-3999, www.redcreek.com/ Ravlin-4, -10, -100 (VPN hardware"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Secure Computing"
+      },
+      {
+        "family": "Blvd",
+        "given": "One Almaden"
+      }
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "918–6100",
+      "379–4944,"
+    ],
+    "title": [
+      "Suite 400"
+    ],
+    "type": null,
+    "url": [
+      "www.securecomputing.com/"
+    ],
+    "volume": [
+      "95113, (408",
+      "or (800"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "Security Dynamics"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "location": [
+      "Bedford, MA"
+    ],
+    "note": [
+      "01730-1437, (781) 687-1000, fax: (781) 687-1001, sales@shiva.com, www.shiva.com/"
+    ],
+    "title": [
+      "20 Crosby Drive, Bedford, MA 01730, (800) SECURID, www.securid.com/index.html SecurID (token-based authentication system) Shiva Corporation, 28 Crosby Drive"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Palo Alto, CA"
+    ],
+    "note": [
+      "www.sun.com/ Sunscreen EFS (firewall"
+    ],
+    "publisher": [
+      "Inc"
+    ],
+    "title": [
+      "Storage Technology Corporation, 2270 South 88th Street, Louisville, CO 80028, (800) STORTEK or (800) 786-7835, www.network.com/ NetSentry BorderGuard (VPN software) Sun Microsystems"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "www.tis.com/ Gauntlet (firewall"
+    ],
+    "title": [
+      "Trusted Information Systems, 1-888-TISFIRST or 1-888-FIREWALL, sales@tis.com"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.A.C."
+      }
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "note": [
+      "ext. 19, www.uac.com/uacpn7.htm PN7 (firewall"
+    ],
+    "pages": [
+      "695–0137"
+    ],
+    "title": [
+      "200 Lincoln Street, Suite 201"
+    ],
+    "type": null,
+    "volume": [
+      "02111, (617"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "V.-O.N.E."
+      }
+    ],
+    "location": [
+      "Germantown, MD"
+    ],
+    "note": [
+      "sales@v-one.com, www.v-one.com/"
+    ],
+    "pages": [
+      "515–5200,"
+    ],
+    "title": [
+      "20250 Century Blvd., Suite 300"
+    ],
+    "type": null,
+    "volume": [
+      "20874, (301"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "Watchguard"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "location": [
+      "Seattle, WA"
+    ],
+    "note": [
+      "fax: (206) 521-8342,"
+    ],
+    "pages": [
+      "521–8340,"
+    ],
+    "title": [
+      "316 Occidental Avenue S., Suite 200"
+    ],
+    "type": null,
+    "url": [
+      "www.watchguard.com/"
+    ],
+    "volume": [
+      "98104, (206"
+    ]
+  },
+  {
+    "container-title": [
+      "Commercial VPN Providers ANS, www.ans.net/ AT&T WorldNet VPN Services"
+    ],
+    "pages": [
+      "831–5259,"
+    ],
+    "title": [
+      "Watchguard Security System (Firebox II, management and authentication tools"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.att.com/worldnet/wmis/virtual.html"
+    ],
+    "volume": [
+      "800"
+    ]
+  },
+  {
+    "location": [
+      "Dublin, OH"
+    ],
+    "note": [
+      "43017, (614) 792-1901, networkinfo@csi.compuserve.com Concentric Network, www.concentric.net/business/vpns/"
+    ],
+    "title": [
+      "Compuserve Network Services, Columbus Center, 6550 Metro Place South, Suite 560"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "GRIC Communications (roaming service), 1421 McCarthy Blvd., Milpitas, CA 95035, (408) 955-1920, gricinfo@gric.com, www.gric.com/"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "networkMCI",
+        "given": "wwwnetworkmcicom/Contactus/indexhtml T.C.G.CERFnet"
+      },
+      {
+        "given": "P.O."
+      }
+    ],
+    "date": [
+      "2373"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "note": [
+      "fax: (619) 812-3990,"
+    ],
+    "pages": [
+      "812–5000,"
+    ],
+    "title": [
+      "Box 919014"
+    ],
+    "type": null,
+    "url": [
+      "www.cerfnet.net"
+    ],
+    "volume": [
+      "92191-9014, (800) 876-CERF , (619"
+    ]
+  }
+]
