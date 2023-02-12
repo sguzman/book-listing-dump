@@ -1,0 +1,17 @@
+[
+  {
+    "note": [
+      "digitalWrite(greenLED,LOW); digitalWrite(yellowLED,LOW); digitalWrite(redLED,LOW); break; case 2: digitalWrite(greenLED,HIGH); digitalWrite(yellowLED,LOW); digitalWrite(redLED,LOW); break; case 3: digitalWrite(greenLED,HIGH); digitalWrite(yellowLED,HIGH); digitalWrite(redLED,LOW); break; case 4: digitalWrite(greenLED,HIGH); digitalWrite(yellowLED,HIGH); digitalWrite(redLED,HIGH); break; "
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "digitalWrite(relayPin,HIGH); tone(buzzerPin,NOTE_A4); digitalWrite(greenLedPin,HIGH); digitalWrite(yellowLedPin,HIGH); digitalWrite(redLedPin,HIGH); delay(1000); tone(buzzerPin,NOTE_A3); digitalWrite(greenLedPin,LOW); digitalWrite(yellowLedPin,LOW); digitalWrite(redLedPin,LOW); delay(1000); noTone(buzzerPin); "
+    ],
+    "title": [
+      "The alarmRoutine() function code is as follows: void alarmRoutine(){ myServo.write(0"
+    ],
+    "type": null
+  }
+]

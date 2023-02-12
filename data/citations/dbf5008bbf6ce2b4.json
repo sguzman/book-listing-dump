@@ -1,0 +1,1632 @@
+[
+  {
+    "container-title": [
+      "Microsoft licenses 7th Edition and starts development of Xenix"
+    ],
+    "date": [
+      "1979"
+    ],
+    "title": [
+      "7th Edition UNIX was rewritten to make it more portable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Microsoft releases Xenix, a PC-based version of UNIX"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "The Santa Cruz Operation"
+    ],
+    "note": [
+      "SCO) licenses Xenix from Microsoft."
+    ],
+    "title": [
+      "AT&T’s UNIX Systems Group releases System III UNIX"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "AT&T’s UNIX System Development Labs release System V Release 1 UNIX"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1984"
+    ],
+    "note": [
+      "Digital Equipment Corporation’s (DEC’s) 4.2BSD-based Ultrix is released."
+    ],
+    "title": [
+      "4.2BSD is released including TCP/IP. System V Release 2 is released and the number of installations of UNIX worldwide exceeds 100,000"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IBM releases AIX 2 for the RT server"
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "4.3BSD is released. 4.2BSD-based HP-UX first appears"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "the Network File System (NFS), and the Transport Level Interface (TLI"
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "AT&T releases System V Release 3, which includes STREAMS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "As a joint venture between AT&T’s Unix System Laboratories (USL) and Sun Microsystems, System V Release 4.0 is released"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "genre": [
+      "IBM releases AIX 3.1."
+    ],
+    "title": [
+      "Based on SVR2 with enhancements from 4.2BSD and 4.3BSD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Linus Torvalds announces Linux 0.0.1"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "USL releases System V Release 4.2 that includes the VERITAS filesystem VxFS and Volume Manager VxVM"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "4.4BSD, the last release from Berkeley, is released. SVR4.2MP is released by Novell following their purchase of USL from AT&T"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "4.4BSD Lite, which was free of copyrighted UNIX source code, is released"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "SCO buys Novell’s UNIX business"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "The Linux 2.0 kernel is released"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "UNIX Evolution and Standardization"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "UnixWare 7, a merge of SVR4.2MP and SCO OpenServer, is released"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Armand",
+        "given": "F."
+      },
+      {
+        "family": "Dean",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "ARMA92"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1992 USENIX Conference"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "238–247"
+    ],
+    "title": [
+      "Data Movement in Kernelized Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bach",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "BACH86"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Design of the UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bar",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "BAR01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "publisher": [
+      "Osborne/McGraw-Hill"
+    ],
+    "title": [
+      "Linux File Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barker",
+        "given": "R."
+      },
+      {
+        "family": "Massiglia",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "BAR02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Storage Area Networking Essentials"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Batlivala",
+        "given": "N."
+      },
+      {
+        "family": "Gleeson",
+        "given": "B."
+      },
+      {
+        "family": "Hamrick",
+        "given": "J."
+      },
+      {
+        "family": "Lurndal",
+        "given": "S."
+      },
+      {
+        "family": "Price",
+        "given": "D."
+      },
+      {
+        "family": "Soddy",
+        "given": "J."
+      },
+      {
+        "family": "Abrossimov",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "BATL92"
+    ],
+    "container-title": [
+      "Proceedings of the USENIX Workshop on Microkernels & Other Kernel Architectures"
+    ],
+    "date": [
+      "1992",
+      "1992-04"
+    ],
+    "title": [
+      "Experience with SVR4 over Chorus"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "M."
+      },
+      {
+        "family": "Bohme",
+        "given": "H."
+      },
+      {
+        "family": "Dziadzka",
+        "given": "M."
+      },
+      {
+        "family": "Kunitz",
+        "given": "U."
+      },
+      {
+        "family": "Magnus",
+        "given": "R."
+      },
+      {
+        "family": "Verworner",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "BECK96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Linux Kernel Internals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Callaghan",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "CALL00"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "NFS Illustrat"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Callaghan",
+        "given": "B."
+      },
+      {
+        "family": "Sing",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "CALL93"
+    ],
+    "container-title": [
+      "Proceedings of the USENIX Summer 1993 Technical Conference"
+    ],
+    "date": [
+      "1993",
+      "June 21–25, 1993"
+    ],
+    "location": [
+      "Cincinnati, Ohio"
+    ],
+    "title": [
+      "The Autofs Automounter"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "DMIG97"
+    ],
+    "note": [
+      "X/Open Document Number: C429 ISBN: 1-85912-190-X"
+    ],
+    "title": [
+      "CAE Specification Systems Management: Data Storage Management (XDSM) API"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R.",
+        "given": "Faulkner"
+      },
+      {
+        "family": "R",
+        "given": "Gomes"
+      }
+    ],
+    "citation-number": [
+      "FAUL91"
+    ],
+    "container-title": [
+      "Proceedings of the USENIX Association Winter Conference"
+    ],
+    "date": [
+      "1991",
+      "1991-01"
+    ],
+    "location": [
+      "Dallas, TX"
+    ],
+    "title": [
+      "The Process File System and Process Model in UNIX System V"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gallmeister",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "GALL95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O'Reilly"
+    ],
+    "title": [
+      "Posix.4 : Programming for the Real World"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gingell",
+        "given": "R.A."
+      },
+      {
+        "family": "Moran",
+        "given": "J.P."
+      },
+      {
+        "family": "Shannon",
+        "given": "W.A."
+      }
+    ],
+    "citation-number": [
+      "GING87"
+    ],
+    "container-title": [
+      "Proceedings of the USENIX 1987 Summer Conference"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "81–94"
+    ],
+    "title": [
+      "Virtual Memory Architecture in SunOS"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Goodheart",
+        "given": "B."
+      },
+      {
+        "family": "Cox",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "GOOD94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Sydney, Australia"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Magic Garden Explained: The Internals of System V Release 4, An Open Systems Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hancock",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "HANC01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Woburn, MA"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "True64 UNIX Filesystem Administration Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hawley",
+        "given": "J."
+      },
+      {
+        "family": "Meyer",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "HAWL75"
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Monterey, California"
+    ],
+    "publisher": [
+      "Naval Postgraduate School"
+    ],
+    "title": [
+      "MUNIX, a Multiprocessing version of UNIX"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hendricks",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "HEND90"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1990 USENIX Technical Conference"
+    ],
+    "date": [
+      "1990",
+      "1990-06"
+    ],
+    "pages": [
+      "333–340"
+    ],
+    "title": [
+      "A File System for Software Development"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Karels",
+        "given": "M."
+      },
+      {
+        "family": "McKusick",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "KARE86"
+    ],
+    "container-title": [
+      "Conference of the European Users' Group"
+    ],
+    "date": [
+      "1986",
+      "1986-09"
+    ],
+    "title": [
+      "Toward a Compatible Filesystem Interface"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kelly",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "KELL96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "AIX/6000 Internals and Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "KERN78"
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Killian",
+        "given": "T.J."
+      }
+    ],
+    "citation-number": [
+      "KILL84"
+    ],
+    "container-title": [
+      "Proc. Summer 1984 USENIX Conference"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "203–207"
+    ],
+    "title": [
+      "Processes as Files"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kleiman",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "KLEI86"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1986 USENIX Conference"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "238–247"
+    ],
+    "title": [
+      "Vnodes: An Architecture for Multiple File System Types in Sun Unix"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Leffler",
+        "given": "S."
+      },
+      {
+        "family": "McKusick",
+        "given": "M."
+      },
+      {
+        "family": "Karels",
+        "given": "M."
+      },
+      {
+        "family": "Quarterman",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "LEFF89"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "4.3BSD UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lions",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "LION96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "publisher": [
+      "Peer-to-Peer Communications"
+    ],
+    "title": [
+      "Lions' Commentary on UNIX"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mauro",
+        "given": "J."
+      },
+      {
+        "family": "McDougall",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "MAUR01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Palo Alto, CA"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Solaris Internals—Core Kernel Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Joy",
+        "given": "W."
+      },
+      {
+        "family": "Leffler",
+        "given": "S."
+      },
+      {
+        "family": "Fabry",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "MCKU84"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1984",
+      "1984-08"
+    ],
+    "pages": [
+      "181–197"
+    ],
+    "title": [
+      "A Fast File System for UNIX"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Karels",
+        "given": "M.K."
+      },
+      {
+        "family": "Bostic",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "MCKU90"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1990 USENIX Technical Conference"
+    ],
+    "date": [
+      "1990",
+      "1990-06"
+    ],
+    "title": [
+      "A Pageable Memory Based Filesystem"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "J.H.",
+        "given": "Rosenthal"
+      },
+      {
+        "family": "D.S.H."
+      },
+      {
+        "family": "Smith",
+        "given": "F.D."
+      }
+    ],
+    "citation-number": [
+      "MORR86"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1986",
+      "1986-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Morris, J.H., Satyanarayanan, M., Conner, M.H., Howard"
+    ],
+    "title": [
+      "Andrew: A Distributed Personal Computing Environment"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nadkarni",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "NADK92"
+    ],
+    "container-title": [
+      "Proceedings of the 1992 USENIX Workshop on File Systems"
+    ],
+    "date": [
+      "1992",
+      "1992-05"
+    ],
+    "pages": [
+      "131–132"
+    ],
+    "title": [
+      "The Processor File System in UNIX SVR4.2"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pate",
+        "given": "S.D."
+      }
+    ],
+    "citation-number": [
+      "PATE96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "UNIX Internals—A Practical Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pawlowski",
+        "given": "B."
+      },
+      {
+        "family": "Juszczak",
+        "given": "C."
+      },
+      {
+        "family": "Staubach",
+        "given": "P."
+      },
+      {
+        "family": "Smith",
+        "given": "C."
+      },
+      {
+        "family": "Lebel",
+        "given": "D."
+      },
+      {
+        "family": "Hitz",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "PAWL94"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1994 Summer USENIX Conference"
+    ],
+    "date": [
+      "1994",
+      "1994-06"
+    ],
+    "pages": [
+      "137–151"
+    ],
+    "title": [
+      "NFS Version 3 Design and Implementation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ranade",
+        "given": "D.M."
+      }
+    ],
+    "citation-number": [
+      "RANA02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Shared Data Clusters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Microsystems",
+        "given": "Sun"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "RFC1014"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "publisher": [
+      "DDN Network Information Center, SRI International"
+    ],
+    "title": [
+      "External Data Representation Specification. RFC-11014"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Microsystems",
+        "given": "Sun"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "RFC1057"
+    ],
+    "container-title": [
+      "RFC-11057"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "publisher": [
+      "DDN Network Information Center, SRI International"
+    ],
+    "title": [
+      "Remote Procedure Call Specification"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Microsystems",
+        "given": "Sun"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "RFC1094"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "publisher": [
+      "DDN Network Information Center, SRI International"
+    ],
+    "title": [
+      "Network Filesystem Specification. RFC-11094"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Microsystems",
+        "given": "Sun"
+      },
+      {
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "RFC1813"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "publisher": [
+      "DDN Network Information Center, SRI International"
+    ],
+    "title": [
+      "NFS Version 3 Protocol Specification, RFC-1813"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eisler",
+        "given": "M."
+      },
+      {
+        "family": "Chiu",
+        "given": "A."
+      },
+      {
+        "family": "Ling",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "RFC2203"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "genre": [
+      "RFC-2203,"
+    ],
+    "title": [
+      "RPCSEC_GSS Protocol Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "I.E.T.F.Network Working"
+      }
+    ],
+    "citation-number": [
+      "RFC3010"
+    ],
+    "pages": [
+      "–3010"
+    ],
+    "title": [
+      "NFS Version 4 Protocol Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rifkin",
+        "given": "A.P."
+      },
+      {
+        "family": "Forbes",
+        "given": "M.P."
+      },
+      {
+        "family": "Hamilton",
+        "given": "R.L."
+      },
+      {
+        "family": "Sabrio",
+        "given": "M."
+      },
+      {
+        "family": "Shah",
+        "given": "S."
+      },
+      {
+        "family": "Yueh",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "RIFK86"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1986 USENIX Technical Conference"
+    ],
+    "date": [
+      "1986",
+      "1986-06"
+    ],
+    "pages": [
+      "248–259"
+    ],
+    "title": [
+      "RFS Architectural Overview"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchie",
+        "given": "D."
+      },
+      {
+        "family": "Thompson",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "RITC74"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974",
+      "1974-07"
+    ],
+    "pages": [
+      "365–375"
+    ],
+    "title": [
+      "The UNIX Timesharing System"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosen",
+        "given": "M.B."
+      },
+      {
+        "family": "Wilde",
+        "given": "M.J."
+      },
+      {
+        "family": "Fraser-Campbell",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "ROSE86"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1986 USENIX Technical Conference"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Atlanta, GA"
+    ],
+    "pages": [
+      "299–305"
+    ],
+    "title": [
+      "NFS Portability"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "428"
+    ],
+    "title": [
+      "UNIX Filesystems—Evolution, Design and Implementation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Salus",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "SALU96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "A Quarter Century of UNIX"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sandberg",
+        "given": "R."
+      },
+      {
+        "family": "Goldeberg",
+        "given": "D."
+      },
+      {
+        "family": "Kleiman",
+        "given": "S."
+      },
+      {
+        "family": "Walsh",
+        "given": "D."
+      },
+      {
+        "family": "Lyon",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "SAND85"
+    ],
+    "container-title": [
+      "Proceedings of the Summer 1985 USENIX Conference"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "title": [
+      "Design and Implementation of the Sun Network Filesystem"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Schildt",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "SCHI93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "publisher": [
+      "Osborne McGraw-Hill"
+    ],
+    "title": [
+      "The Annotated ANSI C Standard"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schimmel",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "SCHI94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UNIX Systems for Modern Architectures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Snyder",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "SNYD90"
+    ],
+    "container-title": [
+      "Proceedings of the Autumn 1990 European UNIX Users’ Group Conference"
+    ],
+    "date": [
+      "1990",
+      "1990",
+      "1990-10"
+    ],
+    "pages": [
+      "241–248"
+    ],
+    "title": [
+      "tmpfs: A Virtual Memory File System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "STEV92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Advanced Programming in the UNIX Environment"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "TANE87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Operating Systems: Design and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tweedie",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "TWEE98"
+    ],
+    "container-title": [
+      "Linux Expo"
+    ],
+    "date": [
+      "1998",
+      "1998"
+    ],
+    "title": [
+      "Journaling the Linux ext2fs filesystem"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Vahalia",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "VAHA96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "UNIX Internals—The New Frontiers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Waite",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "WAIT87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Howard W. Sams & Company"
+    ],
+    "title": [
+      "UNIX Papers for UNIX Developers and Power Users"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Webber",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "WEBB93"
+    ],
+    "container-title": [
+      "USENIX Conference Proceedings"
+    ],
+    "date": [
+      "1993",
+      "1993"
+    ],
+    "pages": [
+      "219–225"
+    ],
+    "title": [
+      "Operating System Support for Portable Filesystem Extensions"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wirzenius",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "WIRZ95"
+    ],
+    "date": [
+      "1995",
+      "1995-08"
+    ],
+    "genre": [
+      "version 0.3,"
+    ],
+    "note": [
+      "Public Domain. Index"
+    ],
+    "title": [
+      "The Linux System Administrators Guide"
+    ],
+    "type": null
+  }
+]
