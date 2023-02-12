@@ -1,0 +1,45 @@
+[
+  {
+    "note": [
+      "testbenches for, 295–308 conditional, 147–156, 149–150 about testbenches, 295 device, 83–88 assertions, 297–298 distributed, 75 testbench styles, 296–297 interconnect, 25–27, 89–90 testing memory models, 301–308 model, 18–19 transactors, 298–301 pin-to-pin, 75–76 components timing table for part with conditional, 148 modeling, 125–146 transport and inertial, 73–74 VITAL model of nand gate, 28–29 VITAL nand gate model with interconnect, 26"
+    ],
+    "title": [
+      "component models and netlisters, 251–252 signal, 66 file contents, 253 wire, 63–65 generics passed from schematic, 253–254 delay generic, nand gate with, 18 integrating models into schematic capture delay locked loops (DLLs), 282 system, 254–256 delay procedures, path, 76–82 model considerations, 263–266 delay sections, path, 69 schematic considerations, 262–263 delay types special considerations, 262–266 and glitches, 73–74 using models in design process, 256–262 VITAL, 19–20 component models delays and netlisters, 251–252 backannotating path, 88–89 VHDL packages for, 35–45 circuit, 52–55 component models"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Computer Aided Engineering (CAE), 254–255 VITAL_Memory path, 231–232 concurrent procedure section, 70 delays, modeling, 73–90,",
+      "10–13 mapping SDF to VITAL, 152–153 design methods and models, 10 conditional timing checks in VITAL, 153–156 design, netlisting, 258–259 constraint checks, purpose of timing, 107 design processes, using models in, 256–262"
+    ],
+    "title": [
+      "206–207 conditional delays backannotating path delays, 88–89 alternatives, 150–152 delay types and glitches, 73–74 in SDF, 149–150 device delays, 83–88 timing table for part with, 148 distributed delays, 75 conditional delays and timing constraints, generates and VPDs, 83 147–156 interconnect delays, 89–90 conditional delay alternatives, 150–152 path delay procedures, 76–82 conditional delays in SDF, 149–150 pin-to-pin delays, 75–76 conditional delays in VITAL, 147–149 VPDs, 82–83 conditional timing checks in VITAL, 153–156 design flow, models fit in FPGA/ASIC"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "checks, 42 about testbenches, 295 specification, 42 assertions, 297–298 memory types, modeling miscellaneous, 238–249 testbench styles, 296–297 DRAMs, 241–244 testing memory models, 301–308 SDRAMs, 244–249 transactors, 298–301 synchronous static RAM, 238–241 models, tour of simple, 15–32 method, behavioral (Shelor), 211–223 finishing touches, 27–31 methods formatting, 15–17 design, 10 interconnect delays, 25–27 VITAL2000, 223–231 model delays, 18–19 Methods, Shelor, 210, 211–223 standard interfaces, 17–18 mixed signal devices, 288–294 VITAL additions, 19–25 model delays, 18–19 models, using in design process, 256–262 modeling layout, 261 memories, 209–249 netlisting design, 258–259 memory functionality, 211–231 schematic entry, 257–258 negative constraints, 158–176 SDF generation, 259–261 modeling components with registers, 125–146 signal analysis, 262 anatomy of flip-flop, 125–137 simulation, 261 anatomy of latch, 137–146 timing analysis, 262 modeling, considerations for component, 251–267 timing backannotation, 262 component models and netlisters, 251–252 VHDL compilation, 259 file contents, 253 VHDL libraries, 257 generics passed from schematic, 253–254 models, using timing constraint checks in VITAL, integrating models into schematic capture 108–121 system, 254–256 model considerations, 263–266 nand gate component, VITAL model of, 28–29 schematic considerations, 262–263 nand gate model, VITAL, 26 special considerations, 262–266 nand gates using models in design process, 256–262 basic VITAL, 20"
+    ],
+    "pages": [
+      "295–308"
+    ],
+    "title": [
+      "mapping (continued) in designs with internal clocks, 206–207 SDF to VITAL symbol, 153 device delays, 83–88 memories, modeling, 209–249 distributed delays, 75 memory arrays, 209–211 generates and VPDs, 83 modeling memory functionality, 211–231 interconnect delays, 89–90 modeling miscellaneous memory types, 238–249 path delay procedures, 76–82 preloading memories, 235–238 pin-to-pin delays, 75–76 VITAL_Memory path delays, 231–232 VPDs, 82–83 VITAL_Memory timing constraints, 232–235 models memories, preloading, 235–238 anatomies of VITAL, 59–71 behavioral memory preload, 235–237 component, 251–252 VITAL_Memory preload, 237–238 design methods and, 10 memory arrays, 209–211 with duplicated outputs, 84–85 Shelor Method, 210 ECL, 272–275 VITAL_Memory package, 210–211 fit in FPGA/ASIC design flow, 10–13 memory functionality, 41 getting, 13–14 memory functionality, modeling, 211–231 integrating, 254–256 behavioral (Shelor) method, 211–223 nand, 17 Shelor Method, 211–223 structure of VITAL, 64 VITAL2000 method, 223–231 testing memory, 301–308 memory models, testing, 301–308 VHDL packages for component, 35–45 memory preload, behavioral, 235–237 VITAL, 28–29 memory tables, 101–105 VITAL nand gate, 26 allowed symbols for, 103 models, definitions of, 5–10 construction, 102–103 levels of abstraction, 6–7 memory table construction, 102–103 model types, 7–9 memory table symbols, 101–102 technology-independent models, 9–10 memory table usage, 103–105 models, need for, 3–5 for simple SRAMs, 104 prototyping, 3 symbols, 101–102 simulation, 4–5 usage, 103–105 models, technology-independent, 9–10 memory timing models, testbenches for component"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "timing files, anatomy of, 179–182 delay types, 19–20 body, 181 mapping SDF to, 152–153 FMFTIME, 181–182 VITAL additions, 19–25 header, 179–181 VITAL attributes, 20–21 separate timing specifications, 182 VITAL delay types, 19–20 timing files and backannotation, 179–187 VITAL primitive call, 21–22 anatomy of timing files, 179–182 VITAL processes, 22–23 backannotation and hierarchy, 185–187 VitalPathDelays, 24–25 custom timing sections, 183–184 VITAL levels, comparison of, 21 generating SDF files, 184–185 VITAL models generating timing files, 184 of nand gate component, 28–29 importing timing values, 183 structure of, 64 timing files, generating, 184 VITAL models, anatomy of, 59–71 timing generics, 60–61, 253 backannotation, 60"
+    ],
+    "pages": [
+      "153–156"
+    ],
+    "title": [
+      "testbenches for component models, 295–308 timing table for part with conditional delays, 148 about testbenches, 295 timing values assertions, 297–298 before and after NCC, 177 testbench styles, 296–297 importing, 183 testing memory models, 301–308 TimingModel generic, modifying behavior with, transactors, 298–301 285 timing transactor testbenches, 296–297 analysis, 262 transactors, 298–301 backannotation, 262 instruction based, 300–301 timing, adding to RTL code, 191–208 transport and inertial delays, 73–74 basic wrapper, 192–205 truth and state tables, advantages of, 91 caveats, 207–208 truth tables, 92–97 modeling delays in designs with internal clocks, construction, 92 206–207 truth table construction, 92 using VITAL to simulate RTL, 191–192 truth table usage, 93–97 wrapper for Verilog RTL, 206 usage, 93–97 timing characteristics, negative setup, 159 VITAL table symbols, 92–93 timing check section, 67–68 type declarations, 36–37 timing checks, 55–57 types conditional, 153–156 delay, 73–74 memory, 42 VITAL delay, 19–20 timing constraint checks in VITAL models, using, 108–121 UDPs (user-defined primitives), 39 period/pulsewidth checks, 112–114 Unit Under Test (UUT), 186 recovery/removal checks, 114–117 usage setup/hold checks, 108–112 memory table, 103–105 skew checks, 117–121 state table, 98–99 timing constraint checks, purpose of, 107 truth table, 93–97 timing constraints, 107–122 user-defined primitives (UDPs), 39 purpose of timing constraint checks, 107 UUT (Unit Under Test), 186 using timing constraint checks in VITAL models, 108–121 values, importing timing, 183 violations, 121 verification, board-level, 3–14 VITAL_Memory, 232–235 verification flow. See Design/verification flow timing constraints, conditional delays and, Verilog RTL, wrapper for, 206 147–156 VHDL compilation, 259 conditional delay alternatives, 150–152 VHDL libraries, 257 conditional delays in SDF, 149–150 VHDL packages for component models, 35–45 conditional delays in VITAL, 147–149 FMF packages, 42–45 conditional timing checks in VITAL, 153–156 STD_LOGIC_1164, 35–37 mapping SDF to VITAL, 152–153 VITAL_Primitives, 39–41 timing constraints, negative, 157–178 VITAL_Timing, 37–39 how simulators handle negative constraints, violations, 121 176–177 VITAL modeling negative constraints, 158–176 attributes, 20–21 ramifications, 177–178 conditional delays in, 147–149 workings of negative constraints, 157–158 conditional timing checks in"
+    ],
+    "type": null
+  }
+]
