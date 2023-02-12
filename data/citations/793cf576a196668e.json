@@ -1,0 +1,106 @@
+[
+  {
+    "note": [
+      "Hal Brown\" phone=\"(801)595-9627\"/> <ffc:trainer name=\"Bob Fisk\" phone=\"(801)881-2260\"/>"
+    ],
+    "pages": [
+      "– –"
+    ],
+    "type": null,
+    "url": [
+      "http://www.feldman-family-circus.com",
+      "</ffc:animal>",
+      "</ffc:animalList>"
+    ]
+  },
+  {
+    "note": [
+      "This is illustrated in Example 14-8."
+    ],
+    "title": [
+      "To parse this document with SAX2, define a ContentHandler, as shown in Example 14-6, and an ErrorHandler, as shown in Example 14-7. Then construct a SAX2XMLReader, register your handlers, and run the parser"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "the code to validate it using the DOM parser is presented in Example 14-14."
+    ],
+    "title": [
+      "For example, suppose you modify the XML document animals.xml from Example 14-1 to contain a reference to an external DTD, as illustrated in Examples 14-11 and 14-12. The code to validate this document using the SAX2 API is presented in Example 14-13"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "title": [
+      "This is the Title of the Book, eMatter Edition Copyright © 2007 O’Reilly & Associates, Inc. All rights reserved. Example 14-12. The file animals.xml, modified to contain a DTD <?xml"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "title": [
+      "// Enable validation parser->setFeature(XMLUni::fgSAX2CoreValidation, true"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This is the Title of the Book, eMatter Edition Copyright © 2007 O’Reilly & Associates, Inc. All rights reserved. parser->setFeature(XMLUni::fgDOMValidation, true); parser->setFeature(XMLUni::fgXercesSchema, true); To validate against an external schema using DOMBuilder, set the property XMLUni:: fgXercesSchemaExternalSchemaLocation or XMLUni::fgXercesSchemaExternalNoName-SpaceSchemaLocation to the location of the schema"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "You can then validate the document with the SAX2 API, as shown in Example 14-13"
+    ],
+    "note": [
+      "or using DOM, as shown in Example 14-14, with the modification indicated in Example 14-15."
+    ],
+    "title": [
+      "For example, suppose you want to validate the document animals.xml from Example 14-1 using the schema in Example 14-16. One way to do this is to add a reference to the schema to animals.xml, as shown in Example 14-17"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "animalList",
+        "particle": "vector<Animal>"
+      },
+      {
+        "given": "animalListpush_back"
+      }
+    ],
+    "date": [
+      "\"1992-04-23\""
+    ],
+    "note": [
+      "\"(801)595-9627\"), Contact(\"Bob Fisk\", \"(801)881-2260\") )); animalList.push_back( Animal( \"Sheldon\", \"parrot\", \"1998-09-30\", Contact(\"Dr. Kevin Wilson\", \"(801)466-6498\"), Contact(\"Eli Wendel\", \"(801)929-2506\") )); animalList.push_back( Animal( \"Dippy\", \"penguin\", \"2001-06-08\", Contact(\"Dr. Barbara Swayne\", \"(801)459-7746\"), Contact(\"Ben Waxman\", \"(801)882-3549\") ));"
+    ],
+    "publisher": [
+      "Hal Brown\""
+    ],
+    "title": [
+      "Contact(\"Dr"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "animalList); fout.close( );"
+    ],
+    "title": [
+      "This is the Title of the Book, eMatter Edition Copyright © 2007 O’Reilly & Associates, Inc. All rights reserved. Example 14-27. Serializing a std::vector of Animals (continued) oa << make_nvp(\"animalList\""
+    ],
+    "type": null
+  }
+]

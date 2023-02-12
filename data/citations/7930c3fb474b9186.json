@@ -1,0 +1,20 @@
+[
+  {
+    "title": [
+      "def localSortFunction(a: Person, b: Person) = a.age < b.age val people = valid.sort(localSortFunction _) var ret: List[String] = Nil"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ret.toList Turn your mutable data structures into immutable data structures. def validByAge(in: List[Person]): List[String] = val valid = for (p<- in if p.valid) yield p def localSortFunction(a: Person,b:Person) = a.age < b.age val people = valid.sort(localSortFunction _) for(p<- people) yield p.first Make your method into a single statement"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "def validByAge(in: List[Person]): List[String] = in.filter(_.valid).sort(_.age < _.age).map(_.first"
+    ],
+    "type": null
+  }
+]
