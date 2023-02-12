@@ -1,0 +1,1363 @@
+[
+  {
+    "source": [
+      "0:04:31 Moondance 0:02:40 Baby Please Don’t Go 0:04:19 Have I Told You Lately 0:03:04 Brown Eyed Girl 0:04:21 Sweet Thing 0:03:22 Warm Love 0:03:57 Wonderful Remark 0:02:57 Jackie Wilson Said 0:03:14 Full Force gail 0:04:28 And It Stoned Me 0:02:46 Here Comes The Night 0:03:04 Domino 0:04:05 Did Ye Get Healed 0:03:32 Wild Night 0:04:40 Cleaning Windows"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "& a,int n); template <class Type, class Comparer> void MergeSort(tvector<Type> & a, int n, const Comparer & comp); template <class Type> void QuickSort(tvector<Type> & a, int size); template <class Type, class Compare> void QuickSort(tvector<Type> & a, int size,const Compare& comp); template <class Type> void HeapSort(tvector<Type>& a, int size);"
+    ],
+    "title": [
+      "template <class Type, class Comparer> void InsertSort(tvector<Type> & a, int size, const Comparer & comp); template <class Type> void SelectSort(tvector<Type> & a, int size); template <class Type, class Comparer> void SelectSort(tvector<Type> & a, int size, const Comparer & comp); template <class Type> void BubbleSort(tvector<Type> & a, int size); template <class Type> void MergeSort(tvector<Type>"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "June"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "10"
+    ],
+    "note": [
+      "owltex Sheet number 45 Page number 787 magenta black"
+    ],
+    "title": [
+      "template <class Type, class Comparer> int bsearch(const tvector<Type>& list, const Type& key, const Comparer& c); template <class Type, class Comparer> int search(const tvector<Type>& list, const Type& key, const Comparer& c"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7",
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Albers",
+        "given": "Donald J."
+      },
+      {
+        "family": "Alexanderson",
+        "given": "G.L."
+      }
+    ],
+    "citation-number": [
+      "AA85"
+    ],
+    "date": [
+      "1985"
+    ],
+    "publisher": [
+      "Birkhäuser"
+    ],
+    "title": [
+      "Mathematical People"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "A.C.M."
+      }
+    ],
+    "citation-number": [
+      "ACM87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Turing Award Lectures: The First Twenty Years 1966–1985"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Abelson",
+        "given": "Harold"
+      },
+      {
+        "family": "Sussman",
+        "given": "Gerald Jay"
+      }
+    ],
+    "citation-number": [
+      "AS96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "MIT Press and McGraw-Hill"
+    ],
+    "title": [
+      "Structure and Interpretation of Computer Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aspray",
+        "given": "William"
+      }
+    ],
+    "citation-number": [
+      "Asp90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Iowa State University Press"
+    ],
+    "title": [
+      "Computing Before Computers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Matthew",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "Aus98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Austern Generic Programming and the STL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentley",
+        "given": "Jon"
+      }
+    ],
+    "citation-number": [
+      "Ben86"
+    ],
+    "date": [
+      "1986"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming Pearls"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentley",
+        "given": "Jon"
+      }
+    ],
+    "citation-number": [
+      "Ben88"
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Programming Pearls"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blelloch",
+        "given": "Guy E."
+      }
+    ],
+    "citation-number": [
+      "Ble90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Vector Models for Data-Parallel Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "Grady"
+      }
+    ],
+    "citation-number": [
+      "Boo91"
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Benjamin Cummings"
+    ],
+    "title": [
+      "Object Oriented Design with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "Grady"
+      }
+    ],
+    "citation-number": [
+      "Boo94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Benjamin Cummings"
+    ],
+    "title": [
+      "Object Oriented Design and Analysis with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barrodale",
+        "given": "I."
+      },
+      {
+        "family": "Roberts",
+        "given": "F.D."
+      },
+      {
+        "family": "Ehle",
+        "given": "B.L."
+      }
+    ],
+    "citation-number": [
+      "BRE71"
+    ],
+    "date": [
+      "1971"
+    ],
+    "publisher": [
+      "John Wiley & Sons Inc"
+    ],
+    "title": [
+      "Elementary Computer Applications in Science Engineering and Business"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "Doug"
+      }
+    ],
+    "citation-number": [
+      "Coo87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "W.W. Norton"
+    ],
+    "title": [
+      "Condensed Pascal"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dijkstra",
+        "given": "Edsger W."
+      }
+    ],
+    "citation-number": [
+      "Dij82"
+    ],
+    "date": [
+      "1982"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Selected Writings on Computing: A Personal Perspective"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dershowitz",
+        "given": "Nachum"
+      },
+      {
+        "family": "Reingold",
+        "given": "Edward M."
+      }
+    ],
+    "citation-number": [
+      "DR90"
+    ],
+    "container-title": [
+      "Software-Practice and Experience"
+    ],
+    "date": [
+      "1990-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "899–928"
+    ],
+    "title": [
+      "Calendrical calculations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "citation-number": [
+      "ed91"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Tucker",
+        "given": "Allen B."
+      }
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Computing Curricula 1991 Report of the ACM/IEEE-CS Joint Curriculum Task Force"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "EL94"
+    ],
+    "container-title": [
+      "Computing Research Association"
+    ],
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "Epstein",
+        "given": "Susan"
+      },
+      {
+        "family": "Luciano",
+        "given": "Joanne"
+      }
+    ],
+    "publisher": [
+      "Hopper-Book@cra.org"
+    ],
+    "title": [
+      "Grace Hopper Celebration of Women in Computing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "Emm93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "Emmer",
+        "given": "Michele"
+      }
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Visual Mind: Art and Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gürer",
+        "given": "Denise W."
+      }
+    ],
+    "citation-number": [
+      "G95"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1995-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "45–54"
+    ],
+    "title": [
+      "Pioneering women in computer science"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "Simson"
+      }
+    ],
+    "citation-number": [
+      "Gar95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "PGP: Pretty Good Privacy"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Design",
+        "given": "John Vlissides"
+      }
+    ],
+    "citation-number": [
+      "GHJ95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Patterns"
+    ],
+    "publisher": [
+      "Elements of Reusable Object-Oriented Programming Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldstine",
+        "given": "Herman H."
+      }
+    ],
+    "citation-number": [
+      "Gol93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "The Computer from Pascal to von Neumann"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gries",
+        "given": "David"
+      }
+    ],
+    "citation-number": [
+      "Gri74"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "655–657"
+    ],
+    "title": [
+      "On structured programming - a reply to smoliar"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gries",
+        "given": "David"
+      },
+      {
+        "family": "Schneider",
+        "given": "Fred B."
+      }
+    ],
+    "citation-number": [
+      "GS93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A Logical Approach to Discrete Math"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harel",
+        "given": "David"
+      }
+    ],
+    "citation-number": [
+      "Har92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "second"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Algorithmics, The Spirit of Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      }
+    ],
+    "citation-number": [
+      "Hoa89"
+    ],
+    "container-title": [
+      "C.B"
+    ],
+    "date": [
+      "1989"
+    ],
+    "editor": [
+      {
+        "literal": "editor"
+      }
+    ],
+    "location": [
+      "Jones"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Essays in Computing Science"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hodges",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "Hod83"
+    ],
+    "date": [
+      "1983"
+    ],
+    "publisher": [
+      "Simon & Schuster"
+    ],
+    "title": [
+      "Alan Turing: The Enigma"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horgan",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Hor92"
+    ],
+    "container-title": [
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "1992-04"
+    ],
+    "title": [
+      "Claude e. shannon"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Strunk",
+        "given": "William",
+        "suffix": "Jr."
+      },
+      {
+        "family": "White",
+        "given": "E.B."
+      }
+    ],
+    "citation-number": [
+      "JW89"
+    ],
+    "date": [
+      "1989"
+    ],
+    "edition": [
+      "third"
+    ],
+    "publisher": [
+      "MacMillan Publishing Co"
+    ],
+    "title": [
+      "The Elements of Style"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Donald E."
+      }
+    ],
+    "citation-number": [
+      "Knu97"
+    ],
+    "container-title": [
+      "Fundamental Algorithms"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "third"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Knu98a] Donald E."
+      }
+    ],
+    "container-title": [
+      "Seminumerical Algorithms"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "third"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "Knu98b] Donald E."
+      }
+    ],
+    "container-title": [
+      "Sorting and Searching"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "third"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "Brian W."
+      },
+      {
+        "family": "Ritchie",
+        "given": "Dennis"
+      }
+    ],
+    "citation-number": [
+      "KR78"
+    ],
+    "date": [
+      "1978"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kamin",
+        "given": "Samuel N."
+      },
+      {
+        "family": "Reingold",
+        "given": "Edward M."
+      }
+    ],
+    "citation-number": [
+      "KR96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Programming with class: A C++ Introduction to Computer Science"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Macrae",
+        "given": "Norman"
+      }
+    ],
+    "citation-number": [
+      "Mac92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "John von Neumann. Pantheon Books"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1999-06-07",
+      "1979"
+    ],
+    "publisher": [
+      "Machines Who Think. W.H. Freeman and Company"
+    ],
+    "title": [
+      "10:10 owltex Sheet number 28 Page number 823 magenta black I.2 Creating a C++ Program 823 [McC79] Pamela McCorduck"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McConnell",
+        "given": "Steve"
+      }
+    ],
+    "citation-number": [
+      "McC93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Code Complete"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "Albert R."
+      },
+      {
+        "family": "Gutag",
+        "given": "John V."
+      },
+      {
+        "given": "Ronald"
+      }
+    ],
+    "citation-number": [
+      "MGRS91"
+    ],
+    "container-title": [
+      "Research Directions in Computer Science: An MIT Perspective"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Rivest",
+        "given": "L."
+      },
+      {
+        "family": "Szolovits",
+        "given": "Peter"
+      }
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Neumann",
+        "given": "Peter G."
+      }
+    ],
+    "citation-number": [
+      "Neu95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Computer Related Risks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pattis",
+        "given": "Richard E."
+      }
+    ],
+    "citation-number": [
+      "Pat96"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Turing TarPit Press"
+    ],
+    "title": [
+      "Get A-Life: Advice for the Beginning Object-Oriented Programmer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlis",
+        "given": "Alan"
+      }
+    ],
+    "citation-number": [
+      "Per87"
+    ],
+    "container-title": [
+      "ACM Turing Award Lectures: The First Twenty Years"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "The synthesis of algorithmic systems"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Prusinkiewicz",
+        "given": "Przemyslaw"
+      },
+      {
+        "family": "Lindenmayer",
+        "given": "Aristid"
+      }
+    ],
+    "citation-number": [
+      "PL90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Algorithmic Beauty of Plants"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reingold",
+        "given": "Edward M."
+      },
+      {
+        "family": "Dershowitz",
+        "given": "Nachum"
+      },
+      {
+        "family": "Clamen",
+        "given": "Stewart M."
+      }
+    ],
+    "citation-number": [
+      "RDC93"
+    ],
+    "container-title": [
+      "Software-Practice and Experience"
+    ],
+    "date": [
+      "1993-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "383–404"
+    ],
+    "title": [
+      "Calendrical calculations, ii: Three historical calendars"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Riel",
+        "given": "Arthur"
+      }
+    ],
+    "citation-number": [
+      "Rie96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Design Heuristics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roberts",
+        "given": "Eric S."
+      }
+    ],
+    "citation-number": [
+      "Rob95"
+    ],
+    "container-title": [
+      "Papers of the Twenty-Sixth SIGCSE Technical Symposium on Computer Science Education",
+      "SIGCSE Bulletin V"
+    ],
+    "date": [
+      "1995-03"
+    ],
+    "pages": [
+      "268–272"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Loop exits and structured programming: Reopening the debate"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27 N 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roberts",
+        "given": "Eric S."
+      }
+    ],
+    "citation-number": [
+      "Rob95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art and Science of C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Slater",
+        "given": "Robert"
+      }
+    ],
+    "citation-number": [
+      "Sla87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Portraits in Silicon"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "Str87"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "Str94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "Str97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "third"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "citation-number": [
+      "Mey92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "citation-number": [
+      "Mey96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "Mark Allen"
+      }
+    ],
+    "citation-number": [
+      "Wei94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Benjamin Cummings"
+    ],
+    "title": [
+      "Data Structures and Algorithm Analysis in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkes",
+        "given": "M.V."
+      }
+    ],
+    "citation-number": [
+      "Wil56"
+    ],
+    "date": [
+      "1956"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Automatic Digital Computers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkes",
+        "given": "Maurice V."
+      }
+    ],
+    "citation-number": [
+      "Wil87"
+    ],
+    "container-title": [
+      "ACM Turing Award Lectures: The First Twenty Years"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "197–205"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Computers then and now"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1999-06-07"
+    ],
+    "issue": [
+      "10"
+    ],
+    "note": [
+      "owltex Sheet number 29 Page number 824 magenta black"
+    ],
+    "type": null,
+    "volume": [
+      "10"
+    ]
+  }
+]
