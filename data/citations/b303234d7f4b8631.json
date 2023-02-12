@@ -1,0 +1,39 @@
+[
+  {
+    "author": [
+      {
+        "family": "Neto",
+        "given": "David"
+      },
+      {
+        "family": "Maxfield",
+        "given": "Myles C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Draft",
+        "particle": "s"
+      }
+    ],
+    "title": [
+      "WebGPU Shading Language"
+    ],
+    "type": null,
+    "url": [
+      "https://gpuweb.github.io/gpuweb/wgsl/"
+    ]
+  },
+  {
+    "title": [
+      "GPUBindGroupLayout createBindGroupLayout(GPUBindGroupLayoutDescriptor descriptor); GPUPipelineLayout createPipelineLayout(GPUPipelineLayoutDescriptor descriptor); GPUBindGroup createBindGroup(GPUBindGroupDescriptor descriptor); GPUShaderModule createShaderModule(GPUShaderModuleDescriptor descriptor); GPUComputePipeline createComputePipeline(GPUComputePipelineDescriptor descriptor); GPURenderPipeline createRenderPipeline(GPURenderPipelineDescriptor descriptor); Promise<GPUComputePipeline> createComputePipelineAsync(GPUComputePipelineDescriptor de Promise<GPURenderPipeline> createRenderPipelineAsync(GPURenderPipelineDescriptor descr GPUCommandEncoder createCommandEncoder(optional GPUCommandEncoderDescriptor descriptor GPURenderBundleEncoder createRenderBundleEncoder(GPURenderBundleEncoderDescriptor desc"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GPURenderBundleEncoder includes GPUBindingCommandsMixin; GPURenderBundleEncoder includes GPURenderCommandsMixin"
+    ],
+    "type": null
+  }
+]
