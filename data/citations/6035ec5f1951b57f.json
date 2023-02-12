@@ -1,0 +1,3316 @@
+[
+  {
+    "container-title": [
+      "Current FIPS related to cryptography include: • FIPS PUB 140-2: Security Requirements for Cryptographic Modules. • FIPS PUB 180-4: Secure Hash Standard (SHS). • FIPS PUB 186-4: Digital Signature Standard (DSS). • FIPS PUB 197: Advanced Encryption Standard (AES). • FIPS PUB 198-1"
+    ],
+    "note": [
+      "The Keyed-Hash Message Authentication Code (HMAC)."
+    ],
+    "title": [
+      "Federal Information Processing Standards (FIPS) – These computer security and crypto-related FIPS PUBs are produced by the US National Institute of Standards and Technology (NIST) as standards for the US Government"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "• RFC 4490: Using the GOST 28147-89, GOST R 34.11-94"
+    ],
+    "note": [
+      "GOST R 34.10-94, and GOST R 34.10-2001 Algorithms with Cryptographic Message Syntax (CMS)."
+    ],
+    "title": [
+      "algorithms can be used effectively in Internet applications: • RFC 4357: Additional Cryptographic Algorithms for Use with GOST 28147-89, GOST R 34.10-94, GOST R 34.10-2001, and GOST R 34.11-94 Algorithms"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "title": [
+      "4491: Using the GOST R 34.10-94, GOST R 34.10-2001, and GOST R 34.11-94 Algorithms with the Internet X.509 Public Key Infrastructure Certificate and CRL Profile"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• RFC 5830: GOST 28147-89: Encryption, Decryption, and Message Authentication Code (MAC) Algorithms"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "• RFC 6986: GOST R 34.11-2012: Hash Function Algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "• RFC 7091: GOST R 34.10-2012: Digital Signature Algorithm (Updates RFC 5832"
+    ],
+    "note": [
+      "GOST R 34.10-2001)."
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "• RFC 7801: GOST R 34.12-2015"
+    ],
+    "publisher": [
+      "Block Cipher Kuznyechik"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "R.F.C."
+      }
+    ],
+    "title": [
+      "7836: Guidelines on the Cryptographic Algorithms to Accompany the Usage of Standards GOST R 34.10-2012 and GOST R 34.11-2012"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "• RFC 8891: GOST R 34.12-2015"
+    ],
+    "publisher": [
+      "Block Cipher Magma"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Suites",
+        "given": "ShangMi Cipher"
+      }
+    ],
+    "container-title": [
+      "An overview of the specification, in Chinese, can be found in GM/T 0009-2012. Additional specifications can be found in: – GB/T 32918.1-2016"
+    ],
+    "location": [
+      "Part 1"
+    ],
+    "publisher": [
+      "General"
+    ],
+    "title": [
+      "A suite of authentication, encryption, and hash algorithms from the People’s Republic of China. • SM2 Cryptography Algorithm: A public key crypto scheme based on elliptic curves"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "GB/T 32918.2-2016, Part 2: Digital signature algorithm"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "GB/T 32918.3-2016, Part 3: Key exchange protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "GB/T 32918.4-2016, Part 4: Public key encryption algorithm"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "GB/T 32918.5-2017, Part 5: Parameter definition"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "It is described in GB/T 32905-2016."
+    ],
+    "title": [
+      "• SM3 Cryptographic Hash Algorithm: A hash algorithm operating on 512-bit blocks to produce a 256-bit hash value"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.S.I."
+      }
+    ],
+    "title": [
+      "American National Standards Institute. US-based organization that, among other activities, develops standards for telecommunications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "D.S.-S.S."
+      }
+    ],
+    "title": [
+      "Direct sequence spread spectrum or spectral spread by a direct sequence"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.G.P."
+      }
+    ],
+    "title": [
+      "Exterior Gateway Protocol. Protocol used between routers of different systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Ethernet"
+      }
+    ],
+    "title": [
+      "It is an interconnection architecture for local networks, a set of layers that provides the encapsulation of frames, before being sent to the network"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.T.S.I."
+      }
+    ],
+    "title": [
+      "European Telecommunications Standards Institute"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "EV",
+        "given": "S.S.L."
+      }
+    ],
+    "title": [
+      "Extended validation secure socket layer. Advanced or extended validation SSL certificate"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Exploit"
+      }
+    ],
+    "title": [
+      "Malicious program designed to exploit a computer or program’s vulnerability"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "F.C.C."
+      }
+    ],
+    "title": [
+      "Federal Communications Commission. US government agency responsible for regulatory issues in the telecommunications area"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "L.M.D.S."
+      }
+    ],
+    "title": [
+      "Local multipoint distribution system. Fixed wireless system used for voice and data transmission"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "MHz – Megahertz."
+      }
+    ],
+    "container-title": [
+      "MIPS – Millions of instructions per second"
+    ],
+    "title": [
+      "Frequency unit that equates to 106 Hz"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "M.M.S."
+      }
+    ],
+    "title": [
+      "Multimedia message service. Technology used in cellular telephony for the transmission of data, such as text, image, audio, and video"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Union (ITU"
+    ],
+    "title": [
+      "Mobile broadband – Type of broadband connection. Wireless long distance access technology through a mobile phone network, especially 3G and 4G (respectively the third and fourth generation of mobile telephone standards defined by the International Telecommunication"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Modem"
+      }
+    ],
+    "title": [
+      "MOdulator and DEModulator. Equipment that converts digital signals from a computer into analog signals that can be transmitted by physical means, such as telephone lines, pay-TV cable, or fiber optics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "M.P.E.G."
+      }
+    ],
+    "title": [
+      "Motion Picture Experts Group. Organizations which, among other things, define standards for video signals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "M.S.B."
+      }
+    ],
+    "title": [
+      "Most significant bit. Binary digit in the most significant position of the binary word"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "MUX – Multiplexer."
+      }
+    ],
+    "title": [
+      "Equipment that combines several signals to be transmitted on a single transmission channel"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Netiquette"
+      }
+    ],
+    "container-title": [
+      "Network scanning – Technique that consists of performing thorough searches on networks, with the objective of identifying active computers Glossary of Information Security Terms 259"
+    ],
+    "title": [
+      "Set of standards of conduct for Internet users, defined in the document “RFC 1855: Netiquette Guidelines"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "P.S.T.N."
+      }
+    ],
+    "title": [
+      "Public switched telephone network (PSTN"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "QoS"
+      }
+    ],
+    "title": [
+      "Quality of service. Parameter used to measure the quality of various functions of a communication network"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.A.C.E."
+      }
+    ],
+    "note": [
+      "RAM – Random access memory."
+    ],
+    "title": [
+      "Research and Development for Advanced Communications. European committee for the creation of advanced communication networks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Resolution",
+        "given": "R.A.R.P.Reverse Address"
+      }
+    ],
+    "title": [
+      "This protocol is to allow a permanent memory computer to have an IP address starting from its Ethernet address"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.E.N.P.A.C."
+      }
+    ],
+    "title": [
+      "Switched network, X.25 standard, used in Brazil in the 1970s"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "ROM –"
+    ],
+    "publisher": [
+      "Read-only memory"
+    ],
+    "title": [
+      "RIP Routing Information Protocol dynamically updates routing tables over WANs and the Internet. The distance vector algorithm is used to calculate the best route for the packet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Security incident – Any adverse event, confirmed or suspected, related to the security of computer systems or computer networks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Site"
+      }
+    ],
+    "title": [
+      "Internet site identified by a domain name, consisting of one or more hypertext pages, which may contain text, graphics, and multimedia information"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Site shielding – Service package that identifies and corrects website vulnerabilities"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.M.T.P."
+      }
+    ],
+    "title": [
+      "Simple Mail Transfer Protocol. Protocol responsible for transporting e-mail messages on the Internet"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Sniffing"
+      }
+    ],
+    "title": [
+      "Traffic interception"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "264"
+    ],
+    "title": [
+      "Glossary of Information Security Terms"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Traffic interception – Technique that consists of inspecting data trafficked on computer networks, through the use of specific programs called sniffers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.C.E."
+      }
+    ],
+    "title": [
+      "Unsolicited commercial e-mail. Term used to refer to unsolicited commercial e-mails"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.D.P."
+      }
+    ],
+    "title": [
+      "Unreliable connection used to control the management of applications at the service level between computers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "U.H.F."
+      }
+    ],
+    "title": [
+      "Ultra-high frequency. Frequency range from 300 MHz to 3 GHz"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Exploitation",
+        "given": "Vulnerability"
+      }
+    ],
+    "title": [
+      "A program or part of a malicious program designed to exploit an existing vulnerability in a computer program"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Vulnerability"
+      }
+    ],
+    "title": [
+      "Security holes that can be exploited by attackers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W.A.F."
+      }
+    ],
+    "title": [
+      "Security firewall that protects web applications from attacks and invasions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W.A.N."
+      }
+    ],
+    "title": [
+      "Wide area network. Computer network covering a wide area"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W.A.P."
+      }
+    ],
+    "title": [
+      "Wireless Application Protocol. Global protocol used on many wireless systems, for users to view and interact with data services"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W.E.P."
+      }
+    ],
+    "title": [
+      "Wired equivalent privacy. Security protocol for wireless networks which implements encryption for data transmission"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Wireless network – Wireless network"
+    ],
+    "title": [
+      "Wireless network – Network that allows the connection between computers and other devices through the transmission and reception of radio signals"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "W.L.A.N."
+      }
+    ],
+    "title": [
+      "Wireless local area network. Type of network that uses highfrequency radio waves, instead of cables, for communication between computers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "citation-number": [
+      "X.25"
+    ],
+    "title": [
+      "Standard of data transmission in packets"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Zombie computer – Name given to a computer infected by bot, as it can be controlled remotely, without the knowledge of its owner"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Zombie-computer"
+      }
+    ],
+    "container-title": [
+      "References Abramson"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Co"
+    ],
+    "title": [
+      "Zombie computer, infected by a bot",
+      "Information Theory and Coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "N"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Abramson",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Information Theory and Coding"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aczel",
+        "given": "J."
+      },
+      {
+        "family": "Daroczy",
+        "given": "Z."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "On Measures of Information and their Characterizations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Adke",
+        "given": "S.R."
+      },
+      {
+        "family": "Manjunath",
+        "given": "S.M."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New Delhi"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "An Introduction to Finite Markov Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Akkouchi",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of the Chungcheong Mathematical Society"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "501–510"
+    ],
+    "title": [
+      "On the Convolution of Exponential Distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Editora Universitaria, UFPB, Joao Pessoa, Brasil"
+    ],
+    "title": [
+      "Princıpios de Comunicacoes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Editora Erica Ltda"
+    ],
+    "date": [
+      "2001"
+    ],
+    "isbn": [
+      "85-7194-838-0"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "title": [
+      "Sistemas de Comunicacoes"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Editora Erica Ltda"
+    ],
+    "date": [
+      "2002"
+    ],
+    "isbn": [
+      "978-85-365-0364-6"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "title": [
+      "Telefonia Digital, Quarta Edicao"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Recife, Brazil"
+    ],
+    "publisher": [
+      "Jornal do Commercio On Line"
+    ],
+    "title": [
+      "The Information is Relative – Second Part (in Portuguese). Article for an electronic journal in the Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "publisher": [
+      "Jornal do Commercio On Line"
+    ],
+    "title": [
+      "Como era o mundo sem internet – I. Artigo para jornal eletronico na Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "publisher": [
+      "Jornal do Commercio On Line"
+    ],
+    "title": [
+      "Como era o mundo sem internet – II. Artigo para jornal eletronico na Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "publisher": [
+      "Jornal do Commercio On Line"
+    ],
+    "title": [
+      "Como era o mundo sem internet – III. Artigo para jornal eletronico na Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "publisher": [
+      "Jornal do Commercio On Line"
+    ],
+    "title": [
+      "Como era o mundo sem internet – IV. Artigo para jornal eletronico na Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "genre": [
+      "ISBN 978-85-910418-2-4,"
+    ],
+    "location": [
+      "Brasil"
+    ],
+    "publisher": [
+      "Campina Grande"
+    ],
+    "title": [
+      "Divulgacao Cientıfica. Grafica e Editora Epgraf"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Revista de Tecnologia da Informacao e Comunicacao"
+    ],
+    "date": [
+      "2011"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "6–10"
+    ],
+    "title": [
+      "Evolucao da Internet"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Grafica e Editora Epgraf"
+    ],
+    "date": [
+      "2011"
+    ],
+    "isbn": [
+      "978-85-910418-3-1"
+    ],
+    "location": [
+      "Campina Grande, Brasil"
+    ],
+    "title": [
+      "Historia da Comunicacao no Brasil"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Grafica e Editora Epgraf"
+    ],
+    "date": [
+      "2011"
+    ],
+    "isbn": [
+      "978-85-910418-4-8"
+    ],
+    "location": [
+      "Campina Grande, Brasil"
+    ],
+    "title": [
+      "Historia, Tecnologia e Legislacao de Telecomunicacoes"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Editora Erica Ltda"
+    ],
+    "date": [
+      "2012"
+    ],
+    "isbn": [
+      "978-85-365-0411-7"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "title": [
+      "Engenharia de Redes de Computadores"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Publisher Editora Erica Ltda"
+    ],
+    "date": [
+      "2012"
+    ],
+    "isbn": [
+      "978-85-365-0411-7"
+    ],
+    "location": [
+      "Sao Paulo, Brazil"
+    ],
+    "title": [
+      "Engineering of Computer Networks (in Portuguese"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "Espionagem entre Parceiros. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Editora Erica Ltda"
+    ],
+    "date": [
+      "2014"
+    ],
+    "isbn": [
+      "978-85-365-0715-6"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "title": [
+      "Teoria de Conjuntos, Medida e Probabilidade"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "Editora Elsevier"
+    ],
+    "date": [
+      "2015"
+    ],
+    "note": [
+      "ISBN: 978-85-352-8184-2, Rio de Janeiro, Brasil."
+    ],
+    "title": [
+      "Informacao, Codificacao e Seguranca de Redes"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "A Internet das Coisas. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "As Coisas da Internet. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "Big Data. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "Como ser Reconhecido. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "O Reconhecimento na Ponta dos Dedos. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "A Urna, o Codigo e a Etica. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "Criptografia para Iniciantes. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2018"
+    ],
+    "location": [
+      "Recife, Brasil"
+    ],
+    "title": [
+      "Seguranca de Redes. Artigo para jornal eletronico na Internet, NE10 – Sistema Jornal do Commercio de Comunicacao"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "Delft, The Netherlands"
+    ],
+    "publisher": [
+      "River Publishers"
+    ],
+    "title": [
+      "Economic Science (print"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      },
+      {
+        "family": "Alencar",
+        "given": "R.T."
+      }
+    ],
+    "container-title": [
+      "Momentum Press"
+    ],
+    "date": [
+      "2016"
+    ],
+    "issue": [
+      "BN-13"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "note": [
+      "print),"
+    ],
+    "pages": [
+      "978–1–60650–747–6"
+    ],
+    "title": [
+      "Probability Theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "LLC"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      },
+      {
+        "family": "Assis",
+        "given": "K.D.R."
+      }
+    ],
+    "container-title": [
+      "The ISC International Journal of Information Security"
+    ],
+    "date": [
+      "2020"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "55–58"
+    ],
+    "title": [
+      "A New Derivation of the Leftover Hash Lemma"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ash",
+        "given": "R.B."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Dover Publications, Inc"
+    ],
+    "title": [
+      "Information Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Baldwin",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Reuters"
+    ],
+    "title": [
+      "Bitcoin Worth US$72 Million Stolen from Bitfinex Exchange in Hong Kong"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bandeira",
+        "given": "L.A.M."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "publisher": [
+      "Civilizacao Brasileira"
+    ],
+    "title": [
+      "Presenca dos Estados Unidos no Brasil"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berens",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "publisher": [
+      "Mathematisch Institute, Universiteit Leiden"
+    ],
+    "title": [
+      "Conditional Renyi Entropy"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Blake",
+        "given": "I.F."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Malabar, FL, USA"
+    ],
+    "publisher": [
+      "Robert E. Krieger Publishing Co"
+    ],
+    "title": [
+      "An Introduction to Applied Probability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boyer",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "publisher": [
+      "Editora Edgard Blucher Ltda"
+    ],
+    "title": [
+      "Historia da Matematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Camacho",
+        "given": "T.S."
+      },
+      {
+        "family": "Silva",
+        "given": "G.J.C.",
+        "particle": "da"
+      }
+    ],
+    "container-title": [
+      "Revista de Economia"
+    ],
+    "date": [
+      "2018"
+    ],
+    "issue": [
+      "68"
+    ],
+    "pages": [
+      "1–26"
+    ],
+    "title": [
+      "Criptoativos: Uma AnA¡lise do Comportamento e da Formacao do Preco do Bitcoin"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carter",
+        "given": "J.L."
+      },
+      {
+        "family": "Wegman",
+        "given": "M.N."
+      }
+    ],
+    "container-title": [
+      "Journal of Computer and System Sciences"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "143–154"
+    ],
+    "title": [
+      "Universal Classes of Hash Functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "CERTbr"
+      }
+    ],
+    "container-title": [
+      "Resposta e Tratamento de Incidentes de Seguranca no Brasil"
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "title": [
+      "Glossario. Cartilha de Seguranca para Internet, Centro de Estudos"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Csiszar",
+        "given": "I."
+      },
+      {
+        "family": "Korner",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Information Theory: Coding Theorems for Discrete Memoryless Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "Communications System"
+      }
+    ],
+    "container-title": [
+      "Internet site"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Communication systems design –reference library: Glossary"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.csdmag.com/glossary."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dudeney",
+        "given": "H.E."
+      }
+    ],
+    "container-title": [
+      "Strand Magazine"
+    ],
+    "date": [
+      "1924"
+    ],
+    "location": [
+      "References"
+    ],
+    "pages": [
+      "272"
+    ],
+    "title": [
+      "Puzzle: Send More Money"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "68):97 and 214"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Farouzan",
+        "given": "B.A."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Sao Paulo, Brasil"
+    ],
+    "publisher": [
+      "AMGH Editora Ltda"
+    ],
+    "title": [
+      "Comunicacao de Dados e Redes de Computadores, Quarta Edicao"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Feinstein",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company, Inc"
+    ],
+    "title": [
+      "Foundations of Information Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Forouzan",
+        "given": "B."
+      },
+      {
+        "family": "Mosharraf",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Networks: A Top Down Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Furiati",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Revista Nacional de Telecomunicacoes"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "32–35"
+    ],
+    "title": [
+      "Servicos sao Reclassificados"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "227"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gast",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "O’Reilly, USA"
+    ],
+    "title": [
+      "802.11 Wireless Networks – The Definitive Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Giozza",
+        "given": "W.F."
+      },
+      {
+        "family": "Araujo",
+        "given": "J.F.M."
+      },
+      {
+        "family": "Moura",
+        "given": "J.A.",
+        "particle": "ao de"
+      },
+      {
+        "family": "Sauve",
+        "given": "J.P."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Brasil"
+    ],
+    "publisher": [
+      "McGraw-Hill, Ltda., Rio de Janeiro"
+    ],
+    "title": [
+      "Redes Locais de Computadores – Tecnologia e Aplicacoes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "P.R."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "Princeton, USA"
+    ],
+    "publisher": [
+      "Van Nostrand Company, Inc"
+    ],
+    "title": [
+      "Naive Set Theory. D"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hammond",
+        "given": "J.L."
+      },
+      {
+        "family": "O’Reilly",
+        "given": "P.J.P."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Reading, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company"
+    ],
+    "title": [
+      "Performance Analysis of Local Computer Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartley",
+        "given": "R.V.L."
+      }
+    ],
+    "container-title": [
+      "Bell Systems Technical Journal"
+    ],
+    "date": [
+      "1928"
+    ],
+    "title": [
+      "Transmission of Information"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "535"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "J.F."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Plenum Press"
+    ],
+    "title": [
+      "Modeling and Analysis of Computer Communications Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haykin",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Digital Communications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haykin",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Doubleday"
+    ],
+    "title": [
+      "The Code Book – The Science of Secrecy from Ancient Egypt to Quantum Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2021"
+    ],
+    "editor": [
+      {
+        "family": "Hosch",
+        "given": "W.L."
+      },
+      {
+        "family": "Jain",
+        "given": "P."
+      },
+      {
+        "family": "Rodriguez",
+        "given": "E."
+      }
+    ],
+    "location": [
+      "Chicago, USA"
+    ],
+    "publisher": [
+      "Encyclopaedia Britannica, Inc"
+    ],
+    "title": [
+      "Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2021"
+    ],
+    "editor": [
+      {
+        "given": "I.B.M."
+      }
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "IBM Corporation"
+    ],
+    "title": [
+      "Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.E.E."
+      }
+    ],
+    "container-title": [
+      "IEEE Standard"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "16"
+    ],
+    "publisher": [
+      "The Institute of Electrical and Electronics Engineers, Inc., United States of America"
+    ],
+    "title": [
+      "IEEE Standard for Local and Metropolitan Area Networks Part 16: Air Interface for Fixed Broadband Wireless Access Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "801"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Initiative",
+        "given": "Global"
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "genre": [
+      "[Online;"
+    ],
+    "note": [
+      "Access on June 30, 2021]."
+    ],
+    "title": [
+      "10 biggest cyber crimes and data breaches to date"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "James",
+        "given": "B.R."
+      }
+    ],
+    "container-title": [
+      "Instituto de Matematica Pura e Aplicada"
+    ],
+    "date": [
+      "1981"
+    ],
+    "note": [
+      "CNPq, Rio de Janeiro, Brasil."
+    ],
+    "title": [
+      "Probabilidade: Um Curso em Nıvel Intermediario"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Tidy",
+        "given": "Joe"
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-07-23"
+    ],
+    "genre": [
+      "[Online; Access on"
+    ],
+    "title": [
+      "Pegasus: Spyware sold to governments ’targets activists’"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Laboratory",
+        "given": "Kaspersky"
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "genre": [
+      "[Online;"
+    ],
+    "note": [
+      "Access on June 30, 2021]."
+    ],
+    "title": [
+      "Tips on how to protect yourself against cybercrime"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kendall",
+        "given": "D.G."
+      }
+    ],
+    "container-title": [
+      "The Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1953"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "338–354"
+    ],
+    "title": [
+      "Stochastic Processes Occurring in the Theory of Queues and their Analysis by the Method of the Imbedded Markov Chain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kessler",
+        "given": "G.C."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "location": [
+      "Daytona Beach, FL, USA"
+    ],
+    "note": [
+      "Available at:"
+    ],
+    "title": [
+      "An Overview of Cryptography"
+    ],
+    "type": null,
+    "url": [
+      "https://www.garykessler.net/library/crypto.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Khinchin",
+        "given": "A.I."
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Dover Publications, Inc"
+    ],
+    "title": [
+      "Mathematical Foundations of Information Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kleinrock",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Queuing Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leon-Garcia",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Co",
+      "USA"
+    ],
+    "title": [
+      "Probability and Random Processes for Electrical Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leon-Garcia",
+        "given": "A."
+      },
+      {
+        "family": "Widjaja",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boston, MMA, USA"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Communication Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lima",
+        "given": "V.R.D."
+      },
+      {
+        "family": "Lijo",
+        "given": "M.C."
+      },
+      {
+        "family": "Sousa",
+        "given": "M.P."
+      }
+    ],
+    "container-title": [
+      "Revista de Tecnologia da Informacao e Comunicacao"
+    ],
+    "date": [
+      "2014"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "1–10"
+    ],
+    "title": [
+      "Seguranca em Redes sem Fio: PrincApios, Ataques e Defesas"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lipschutz",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Brasil"
+    ],
+    "publisher": [
+      "Ao Livro Tecnico S.A., Rio de Janeiro"
+    ],
+    "title": [
+      "Teoria de Conjuntos"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Little",
+        "given": "J.D.C."
+      }
+    ],
+    "container-title": [
+      "Operations Research"
+    ],
+    "date": [
+      "1961"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "383–387"
+    ],
+    "title": [
+      "A Proof for the Queuing Formula: L = λW"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacKay",
+        "given": "D.J.C."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Cambridge, U.K"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Information Theory, Inference, and Learning Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mangion",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "genre": [
+      "[Online;"
+    ],
+    "note": [
+      "Access on June 30, 2021]."
+    ],
+    "title": [
+      "The 10 worst cyber crimes analysed"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alencar",
+        "given": "M.S."
+      },
+      {
+        "family": "Carvalho",
+        "given": "F.B.S."
+      },
+      {
+        "family": "Lopes",
+        "given": "W.T.A."
+      },
+      {
+        "family": "Markarian",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "The Second International Symposium on Broadband Communications (ISBC’06"
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "Moscow, Russia"
+    ],
+    "pages": [
+      "81–83,"
+    ],
+    "title": [
+      "Model for the Transmission Rate versus File Length for a PLC System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Markovic",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Beograd, Serbia and Montenegro"
+    ],
+    "publisher": [
+      "Course notes, Mathematical Institute SANU"
+    ],
+    "title": [
+      "Data Protection Technics and Cryptographic Protocols in Modern Computer Networks”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marksteiner",
+        "given": "S."
+      },
+      {
+        "family": "Jimenez",
+        "given": "V.J.E."
+      },
+      {
+        "family": "Vallant",
+        "given": "H."
+      },
+      {
+        "family": "Zeiner",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2017"
+    ],
+    "title": [
+      "An Overview of Wireless IoT Protocol Security in the Smart Home Domain"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Proceedings of the 2017 Internet of things Business Models, Users, and Networks"
+    ],
+    "pages": [
+      "1–9"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "References Massey",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "274"
+    ],
+    "container-title": [
+      "Proceedings of the Bilkent International Conference on New Trends in Communications, Control and Signal Processing (NILCON’90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Ankara, Turkey"
+    ],
+    "pages": [
+      "176–182,"
+    ],
+    "publisher": [
+      "Elsevier Science Publisher"
+    ],
+    "title": [
+      "The Relevance of Information Theory to Modern Cryptography"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Maurer",
+        "given": "U.M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Monte Verita Seminar On Future Directions in Cryptography"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Ascona, Switzerland"
+    ],
+    "title": [
+      "A Provably-Secure Strongly-Randomized Cipher"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Maurer",
+        "given": "U.M."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "122–127"
+    ],
+    "title": [
+      "Generalized Privacy Amplification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mediacenter",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "genre": [
+      "[Online;"
+    ],
+    "note": [
+      "Access on June 30, 2021]."
+    ],
+    "title": [
+      "Types of cybercrime"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "MobileWord"
+      }
+    ],
+    "container-title": [
+      "Internet site"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Mobileword’s glossary"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.mobileworl d.org."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moura",
+        "given": "J.A."
+      },
+      {
+        "family": "Sauve",
+        "given": "J.P."
+      },
+      {
+        "family": "Giozza",
+        "given": "W.F."
+      },
+      {
+        "family": "Araujo",
+        "given": "J.F.M."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "note": [
+      "McGraw-Hill, Ltda., Rio de Janeiro, Brasil."
+    ],
+    "title": [
+      "Redes Locais de Computadores – Protocolos de Alto Nıvel"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Nyquist",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Bell Systems Technical Journal"
+    ],
+    "date": [
+      "1924"
+    ],
+    "pages": [
+      "324"
+    ],
+    "title": [
+      "Certain Facts Affecting Telegraph Speed"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Papoulis",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Accoustics, Speech and Signal Processing"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "96–105"
+    ],
+    "title": [
+      "Random Modulation: A Review"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "John R."
+      }
+    ],
+    "container-title": [
+      "Signals & Noise"
+    ],
+    "date": [
+      "1980"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "publisher": [
+      "Dover Publications, Inc"
+    ],
+    "title": [
+      "An Introduction to Information Theory – Symbols"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Pouw",
+        "given": "K.D."
+      }
+    ],
+    "container-title": [
+      "Dissertacao de mestrado, Departamento de Engenharia Eletrica, Universidade Estadual de"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Campinas, Campina, Brasil"
+    ],
+    "title": [
+      "SeguranA§a na Arquitetura TCP/IP: de Firewalls a Canais Seguros”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Preneel",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "European Transactions on Telecommunications"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "431–448"
+    ],
+    "title": [
+      "Cryptographic Hash Functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Queiroz",
+        "given": "D.V."
+      },
+      {
+        "family": "Vieira",
+        "given": "J.C.M."
+      },
+      {
+        "family": "Fonseca",
+        "given": "I.E."
+      }
+    ],
+    "container-title": [
+      "Revista de Tecnologia da Informacao e Comunicacao"
+    ],
+    "date": [
+      "2014"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "1–8"
+    ],
+    "title": [
+      "Detecao de Ataques de Negacao de Servico Utilizando Ferramentas de Monitoramento e Analise de Trafego"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Renyi",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 4th Berkeley Symposium on Mathematics, Statistics and Probability"
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "Berkeley, USA"
+    ],
+    "pages": [
+      "547–561,"
+    ],
+    "publisher": [
+      "University of California Press"
+    ],
+    "title": [
+      "On Measures of Entropy and Information"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reza",
+        "given": "F.M."
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "New York, USA"
+    ],
+    "pages": [
+      "275"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Co",
+      "References"
+    ],
+    "title": [
+      "An Introduction to Information Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ricciardi",
+        "given": "L.M."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Manchester, U.K"
+    ],
+    "publisher": [
+      "Manchester University Press"
+    ],
+    "title": [
+      "Lectures in Applied Mathematics and Informatics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Rocha Jr., V.C. da"
+      }
+    ],
+    "container-title": [
+      "Revista de Tecnologia da Informacao e Comunicacao"
+    ],
+    "date": [
+      "2013"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "14–21"
+    ],
+    "title": [
+      "Seguranca de Rede"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sayood",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Introduction to Data Compression"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shannon",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "The Bell System Technical Journal"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "379–423"
+    ],
+    "title": [
+      "A Mathematical Theory of Communication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shannon",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "The Bell System Technical Journal"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "379–423"
+    ],
+    "title": [
+      "A Mathematical Theory of Communication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shannon",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "The Bell System Technical Journal"
+    ],
+    "date": [
+      "1949"
+    ],
+    "issue": [
+      "28"
+    ],
+    "pages": [
+      "656–715"
+    ],
+    "title": [
+      "Communication Theory of Secrecy Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Skycell"
+      }
+    ],
+    "container-title": [
+      "Internet site"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Glossary of satellite terminology"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.satellit etelephone.com."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Soares",
+        "given": "L.F.G."
+      },
+      {
+        "family": "Lemos",
+        "given": "G."
+      },
+      {
+        "family": "Colaher",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Brasil"
+    ],
+    "publisher": [
+      "Editora Campus, Rio de Janeiro"
+    ],
+    "title": [
+      "Redes de Computadores"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stallings",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Upper Saddle River, USA"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Cryptography and Network Security – Principles and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stinson",
+        "given": "D.R."
+      }
+    ],
+    "container-title": [
+      "Journal of Computer and System Sciences"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "337–346"
+    ],
+    "title": [
+      "Combinatorial Techniques for Universal Hashing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stinson",
+        "given": "D.R."
+      }
+    ],
+    "container-title": [
+      "Designs, Codes and Cryptography"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "369–380"
+    ],
+    "title": [
+      "Universal Hashing and Authentication Codes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Englewood Cliffs, USA"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Prentice-Hall,"
+    ],
+    "location": [
+      "Englewood Cliffs, USA"
+    ],
+    "publisher": [
+      "PTR"
+    ],
+    "title": [
+      "Computer Networks"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "TIAB2Bcom"
+      }
+    ],
+    "container-title": [
+      "Internet site"
+    ],
+    "date": [
+      "2001",
+      "www.tiab 2b.com/glossary"
+    ],
+    "title": [
+      "Everything communications"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lubbe",
+        "given": "J.C.A.",
+        "particle": "van der"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Cambridge, U.K"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Information Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Whittle",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Networks: Optimization and Evolution"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "contributors",
+        "given": "Wikipedia"
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "genre": [
+      "[Online;"
+    ],
+    "note": [
+      "Access on 16 de julho de 2019]."
+    ],
+    "title": [
+      "Cryptographic hash function — Wikipedia, the free encyclopedia"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "contributors",
+        "given": "Wikipedia"
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-07-23"
+    ],
+    "genre": [
+      "[Online; Access on"
+    ],
+    "title": [
+      "Pegasus (spyware) — Wikipedia, the free encyclopedia"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "J."
+      },
+      {
+        "family": "Merritt",
+        "given": "M."
+      },
+      {
+        "family": "Freyman",
+        "given": "N."
+      },
+      {
+        "family": "Qin",
+        "given": "S."
+      },
+      {
+        "family": "Yu",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "2021",
+      "2021-07-06"
+    ],
+    "genre": [
+      "[Online; Access on"
+    ],
+    "title": [
+      "The biggest ransomware attack ever"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "J."
+      },
+      {
+        "family": "Merritt",
+        "given": "M."
+      },
+      {
+        "family": "Freyman",
+        "given": "N."
+      },
+      {
+        "family": "Qin",
+        "given": "S."
+      },
+      {
+        "family": "Yu",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "2021"
+    ],
+    "note": [
+      "Online; Access on June 30, 2021]."
+    ],
+    "title": [
+      "The top five business stories of q2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zadeh",
+        "given": "L.A."
+      }
+    ],
+    "container-title": [
+      "Information and Control"
+    ],
+    "date": [
+      "1965"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "338–353"
+    ],
+    "title": [
+      "Fuzzy Sets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2019"
+    ],
+    "location": [
+      "CoinDesk, New York, USA"
+    ],
+    "publisher": [
+      "Index"
+    ],
+    "title": [
+      "Crypto Exchange Bithumb Hacked for US$ 13 Million in Suspected Insider Job"
+    ],
+    "type": "book"
+  }
+]
