@@ -1,0 +1,84 @@
+[
+  {
+    "author": [
+      {
+        "family": "hIcon",
+        "given": "H.I.C.O.N."
+      }
+    ],
+    "note": [
+      "::LoadIcon (AfxGetResourceHandle(), MAKEINTRESOURCE(IDI_ICON1)); m_smallImageList.Add(hIcon); hIcon = ::LoadIcon (AfxGetResourceHandle(), MAKEINTRESOURCE(IDI_ICON2)); m_largeImageList.Add(hIcon);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "m_treeImageList.Create(13,"
+    ],
+    "note": [
+      "MAKEINTRESOURCE(IDI_ICON3)); m_treeImageList.Add(hIcon); hIcon = ::LoadIcon(AfxGetResourceHandle(), MAKEINTRESOURCE(IDI_ICON4)); m_treeImageList.Add(hIcon); hIcon = ::LoadIcon(AfxGetResourceHandle(), MAKEINTRESOURCE(IDI_ICON5)); m_treeImageList.Add(hIcon);"
+    ],
+    "title": [
+      "13, FALSE, 3, 0); HICON hIcon = ::LoadIcon(AfxGetResourceHandle("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CSingleLock singleLock(semaphore); singleLock.Lock(); Sleep(5000);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Create the new empty SomeResource.h and SomeResource.cpp files in the project"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Add the code from Listings 27.11 and 27.12 to these empty files"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "with the following: #include \"SomeResource.h\""
+    ],
+    "title": [
+      "Load ThreadView.cpp and replace the line #include \"CountArray2.h"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Replace the line CCountArray2 countArray with the following: CSomeResource someResource"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "AfxBeginThread(ThreadProc1"
+    ],
+    "issue": [
+      "Wnd); AfxBeginThread(ThreadProc2, hWnd)"
+    ],
+    "title": [
+      "HWND hWnd = GetSafeHwnd("
+    ],
+    "type": "article-journal",
+    "volume": []
+  }
+]
