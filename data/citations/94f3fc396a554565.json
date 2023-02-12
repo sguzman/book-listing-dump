@@ -1,0 +1,17 @@
+[
+  {
+    "title": [
+      "Writing and Testing the TMP36 Temperature Sensor Software The code for testing TMP36 is provided in Listing 9-4"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "VOUT - 0.5) * 100 ; Serial.print(\" degrees Celsius:\"); Serial.println(tempCelsius);"
+    ],
+    "title": [
+      "//getting the voltage reading from the temperature sensor int reading = analogRead(sensorAnalogPin); float VOUT = (reading * 5.0)/1024.0; Serial.print(\" volts\"); Serial.println(VOUT); // converting to Celsius according to the datasheet float tempCelsius ="
+    ],
+    "type": null
+  }
+]
