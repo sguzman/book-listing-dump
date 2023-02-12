@@ -1,0 +1,6343 @@
+[
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "then J.L(A U B) = J.L(A)."
+    ],
+    "title": [
+      "Prove that if J.L is an outer measure and if J.L(B) = 0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Prove that Lebesgue outer measure has this property."
+    ],
+    "title": [
+      "An outer measure on a group is said to be invariant if J.L(x + A) = J.L(A) for all x and A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "as defined in Problem 4?"
+    ],
+    "title": [
+      "Under what conditions is Lebesgue-Stieltjes outer measure invariant"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Let X = {I"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "Show ,that J.L is an outer measure but is not additive."
+    ],
+    "title": [
+      "2}, and define J.L(0) = 0, Jl(X) = 2, J.L( {I}) = 1 and J.L( {2}) = 2"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Prove that the Lebesgue outer measure of each countable subset of JR is O"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "note": [
+      "are there on a set of n elements?"
+    ],
+    "title": [
+      "How many outer measures having range in {O"
+    ],
+    "type": null,
+    "volume": [
+      "1, ... , n"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "Prove that the Lebesgue outer measure of the interval [a, b] is b - a"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Let J.L be an outer measure on X, and let Y C X. Define v(A"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "note": [
+      "= J.L(A) when A C Y. Is v an outer measure on Y?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "Does an outer measure necessarily obey this equation?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "J.L.+"
+      }
+    ],
+    "location": [],
+    "publisher": [
+      "SEA and SeA}"
+    ],
+    "title": [
+      "= sup{J.L(S"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "then J.L(A) ::;; J.L(B)."
+    ],
+    "title": [
+      "Prove that a signed measure J.L is monotone on a positive set. Thus, if A C B c S, where S is a positive set"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "If J.L is a signed measure, does it follow that -J.L is also a signed measure? Are sums and differences of signed measures signed measures?"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Let"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "J.L) be a measure space, and let h be a nonnegative measurable function. Define v(A) = fA hdJ.L. Prove that f fdv = f fhdJ.L for all measurable f·"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "J.L",
+        "given": "Let"
+      },
+      {
+        "family": "space",
+        "particle": "v be measures on the measurable"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "Prove that v.l J.L."
+    ],
+    "title": [
+      "Suppose that 0 is the only measurable function such that v(A) ~ fA f dJ.L, for all A E A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Let"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "note": [
+      "Does this define a measure on A? 8. Is the function h in Theorem 2 unique?"
+    ],
+    "title": [
+      "J.L) be a measure space such that each singleton {x} is measurable. Define v(A) to be the sum of all J.L({x}) as x ranges over A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Abramowitz",
+        "given": "A.S.]"
+      },
+      {
+        "given": "M."
+      },
+      {
+        "family": "Stegun",
+        "particle": "l."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Department of Commerce, National Bureau of Standards",
+      "Dover Publications"
+    ],
+    "title": [
+      "Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables, U.S"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ad] Adams",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Vol. 65 in the series Pure and Applied Mathematics."
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Sobolev Spaces"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Agm] Agmon",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Van Nostrand, New York"
+    ],
+    "title": [
+      "Lectures on Elliptic Boundary Value Problems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Akhiezer",
+        "given": "A.G.]"
+      },
+      {
+        "family": "l.",
+        "given": "N."
+      },
+      {
+        "family": "M. Glazman",
+        "particle": "l."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Ungar"
+    ],
+    "title": [
+      "Theory of Linear Operators in Hilbert Space"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alekseev",
+        "given": "A.T.S.]"
+      },
+      {
+        "family": "M.",
+        "given": "V."
+      },
+      {
+        "family": "Tikhomirov",
+        "given": "V.M."
+      },
+      {
+        "family": "Fomin",
+        "given": "S.V."
+      }
+    ],
+    "location": [
+      "New York, c1987"
+    ],
+    "title": [
+      "Optimal Control, Consultants Bureau"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "A.Y.]"
+      },
+      {
+        "family": "C.",
+        "given": "J."
+      },
+      {
+        "family": "Yorke",
+        "given": "J.A."
+      }
+    ],
+    "container-title": [
+      "Trans. Amer. Math. Soc"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "271–284"
+    ],
+    "title": [
+      "The homotopy continuation method: Numerically implemented topological procedures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "242"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "AlG] Allgower",
+        "given": "E."
+      },
+      {
+        "family": "Georg",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1980"
+    ],
+    "title": [
+      "Simplicial and continuation methods for approximating fixed points and solutions to systems of equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Allgower",
+        "given": "A.G.P.]"
+      },
+      {
+        "family": "L.",
+        "given": "E."
+      },
+      {
+        "family": "Glasshoff",
+        "given": "K."
+      },
+      {
+        "given": "H.-O."
+      }
+    ],
+    "container-title": [
+      "Numerical Solution of Nonlinear Equations, Lecture Notes in Math"
+    ],
+    "date": [
+      "1981"
+    ],
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Peitgen"
+    ],
+    "type": "chapter",
+    "volume": [
+      "878"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ar] Aronszajn",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1950"
+    ],
+    "location": [
+      "Stillwater, Oklahoma"
+    ],
+    "publisher": [
+      "Oklahoma State University"
+    ],
+    "title": [
+      "Introduction to the Theory of Hilbert Spaces, Research Foundation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "At] Atkinson",
+        "given": "K.E."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "SIAM Publications"
+    ],
+    "title": [
+      "A Survey of Numerical Methods for the Solution of Fredholm Integral Equations of the Second Kind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Au] Aubin",
+        "given": "J.P."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Applied Functional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Avez",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Av1"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introduction to Functional Analysis, Banach Spaces, and Differential Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Avez",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Av2"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Differential Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Axelsson",
+        "given": "Ax]"
+      }
+    ],
+    "container-title": [
+      "Comm. Applied Analysis"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "575–595"
+    ],
+    "title": [
+      "On Newton Type Continuation Methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bachman",
+        "given": "B.N.]"
+      },
+      {
+        "given": "G."
+      },
+      {
+        "family": "Narici",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Functional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bac] Bachman",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Elements of Abstract Harmonic Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bak) Baker",
+        "given": "C.T.H."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Numerical Treatment of Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ban] Banach",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1932"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Theorie des Operations Lineaires, Hafner"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Barb] Barbeau",
+        "given": "E.J."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Washington"
+    ],
+    "publisher": [
+      "Mathematical Association of America"
+    ],
+    "title": [
+      "Mathematical Fallacies, Flaws, and Flimflam"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bar] Barnes",
+        "given": "E.R."
+      }
+    ],
+    "container-title": [
+      "Mathematical Programming"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "174–182"
+    ],
+    "title": [
+      "A variation on Karmarkar's algorithm for solving linear programming problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bart] Bartle",
+        "given": "R.G."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The Elements of Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bartle",
+        "given": "R.G."
+      }
+    ],
+    "citation-number": [
+      "Bart2"
+    ],
+    "date": [
+      "1966",
+      "1995"
+    ],
+    "edition": [
+      "Revised"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Elements of Integration Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bea] Beauzamy",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "North Holland, Amsterdam"
+    ],
+    "title": [
+      "Introduction to Banach Spaces and their Geometry"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bee] Beckner",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Ann. Math"
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Inequalities in Fourier Analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "102"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Berb] Berberian",
+        "given": "S.K."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Reprint by American Mathematical Society, Providence, Rl."
+    ],
+    "publisher": [
+      "Chelsea Publishing Co"
+    ],
+    "title": [
+      "Introduction to Hilbert Space"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berberian",
+        "given": "S.K."
+      }
+    ],
+    "citation-number": [
+      "Berb2"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "Van Nostrand, New York"
+    ],
+    "title": [
+      "Notes on Spectral Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Berberian",
+        "given": "S.K."
+      }
+    ],
+    "citation-number": [
+      "Berb3"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Fundamentals of Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berberian",
+        "given": "S.K."
+      }
+    ],
+    "citation-number": [
+      "Berb4"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Measure and integration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berezanski",
+        "given": "BerezJ"
+      },
+      {
+        "family": "M",
+        "given": "Ju"
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "publisher": [
+      "Math. Soc"
+    ],
+    "title": [
+      "Expansions in Eigenfunctions of Self-Adjoint Operators, Amer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BesJ Besicovitch",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "1954"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Almost Periodic FUnctions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "BlJ Bliss",
+        "given": "G.A."
+      }
+    ],
+    "date": [
+      "1925"
+    ],
+    "publisher": [
+      "Mathematical Association of America"
+    ],
+    "title": [
+      "Calculus of Variations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bolza",
+        "given": "BoJ"
+      }
+    ],
+    "date": [
+      "1904",
+      "1973"
+    ],
+    "edition": [
+      "Reprint"
+    ],
+    "publisher": [
+      "Chelsea Publishing Co"
+    ],
+    "title": [
+      "Lectures on the Calculus of Variations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BrJ Bracewell",
+        "given": "R.N."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "The Fourier Transform and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BraeJ Braess",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Finite Elements"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BrezJ Brezinski",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Basel"
+    ],
+    "publisher": [
+      "Dekker"
+    ],
+    "title": [
+      "Biorthogonality and its Application to Numerical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BrS] Brophy",
+        "given": "J.F."
+      },
+      {
+        "family": "Smith",
+        "given": "P.W."
+      }
+    ],
+    "container-title": [
+      "Directions"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Houston"
+    ],
+    "pages": [
+      "2–3"
+    ],
+    "publisher": [
+      "IMSL Corp"
+    ],
+    "title": [
+      "Prototyping Karmarkar's algorithm using MATH-PROTAN"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cannell",
+        "given": "D.M."
+      }
+    ],
+    "citation-number": [
+      "Cann1"
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "137–151"
+    ],
+    "title": [
+      "George Green: An enigmatic mathematician"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cann2J Cannell",
+        "given": "D.M."
+      },
+      {
+        "family": "GTeen",
+        "given": "George"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "SIAM"
+    ],
+    "title": [
+      "Mathematician and Physicist, 1793-1841"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CarJ Caratheodory",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1965",
+      "1982"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Chelsea, New York"
+    ],
+    "publisher": [
+      "Holden-Day Publishers"
+    ],
+    "title": [
+      "Calculus of Variations and Partial Differential Equations of the First Order"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CartJ Cartan",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "title": [
+      "Cours de Calcul Differentiel, Hermann"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ccq Chen",
+        "given": "M.J."
+      },
+      {
+        "family": "Chen",
+        "given": "Z.Y."
+      },
+      {
+        "family": "Chen",
+        "given": "G.R."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Singapore"
+    ],
+    "publisher": [
+      "World Scientific"
+    ],
+    "title": [
+      "Approximate Solutions of Operator Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ChJ Cheney",
+        "given": "E.W."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Approximation Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1985",
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Co",
+      "American Mathematical Society"
+    ],
+    "title": [
+      "Chelsea Pub!"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheney",
+        "given": "C.L.]"
+      },
+      {
+        "family": "W.",
+        "given": "E."
+      },
+      {
+        "family": "Light",
+        "given": "W.A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Brooks/Cole, Pacific Grove, CA"
+    ],
+    "title": [
+      "A Course in Approximation Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chow",
+        "given": "C.M.Y.]"
+      },
+      {
+        "family": "N.",
+        "given": "S."
+      },
+      {
+        "family": "Mallet-Paret",
+        "given": "J."
+      },
+      {
+        "family": "Yorke",
+        "given": "J.A."
+      }
+    ],
+    "container-title": [
+      "Math. Compo"
+    ],
+    "date": [
+      "1978"
+    ],
+    "title": [
+      "Finding zeroes of maps: Homotopy methods that are constructive with probability one"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cia] Ciarlet",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "North Holland, New York"
+    ],
+    "title": [
+      "The Finite Element Method for Elliptic Problems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Coc] Cochran",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Wadsworth, Belmont, CA"
+    ],
+    "title": [
+      "Applied Mathematics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Coh] Cohen",
+        "given": "P.J."
+      }
+    ],
+    "container-title": [
+      "Proc. Nat. Acad. Sci., U.S.A"
+    ],
+    "date": [
+      "1963",
+      "1964"
+    ],
+    "pages": [
+      "1143–1148 51",
+      "105–110"
+    ],
+    "title": [
+      "The independence of the continuum hypothesis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Collatz",
+        "given": "Col]"
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "1., FUnctional Analysis and Numerical Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Con] Constantinescu",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Oxford, Eng"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "Distributions and TheiT Applications in Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cor] Corduneanu",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Integral Equations and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corwin",
+        "given": "C.S.]"
+      },
+      {
+        "family": "L."
+      },
+      {
+        "family": "Szczarla",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dekker"
+    ],
+    "title": [
+      "Calculus in Banach Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cou] Courant",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Lecture Notes from the Courant Institute"
+    ],
+    "date": [
+      "1946"
+    ],
+    "title": [
+      "Calculus of Variations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Courant",
+        "given": "C.H.]"
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "Hilbert",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Methods of Mathematical Physics"
+    ],
+    "date": [
+      "1953"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Interscience"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "I, II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Curtain",
+        "given": "C.P.]"
+      },
+      {
+        "given": "R.F."
+      },
+      {
+        "family": "Pritchard",
+        "given": "A.J."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "FUnctional Analysis in Modern Applied Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dav] Davis",
+        "given": "H.T."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Introduction to Nonlinear Differential and Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Davp] Davis",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "Blaisdell, New York",
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Interpolation and Approximation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Day] Day",
+        "given": "M.M."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "edition": [
+      "Reprint"
+    ],
+    "location": [
+      "New York",
+      "Berlin"
+    ],
+    "publisher": [
+      "Academic Press",
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Normed Linear Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Debnach",
+        "given": "D.M.]"
+      },
+      {
+        "family": "Mikusinski",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "1"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Introduction to Hilbert Spaces with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Deb] Debnath",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Integral Transforms and Their Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Delves",
+        "given": "L.M."
+      },
+      {
+        "family": "Mohamed",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "DMo"
+    ],
+    "date": [
+      "1985"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Computational Methods for Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Det] Dettman",
+        "given": "J.W."
+      }
+    ],
+    "date": [
+      "1962",
+      "1988"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill",
+      "Dover Publications"
+    ],
+    "title": [
+      "Mathematical Methods in Physics and Engineering"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "DiS] Diaconis",
+        "given": "P."
+      },
+      {
+        "family": "Shahshahani",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "SIAM J. Sci. Statis. Comput"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "175–19"
+    ],
+    "title": [
+      "On nonlinear functions of linear combinations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dies] Diestel",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Sequences and Series in Banach Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dieu] Dieudonne",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Foundations of Modem Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dono] Donoghue",
+        "given": "W.F."
+      }
+    ],
+    "collection-title": [
+      "in the series Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Distributions and Fourier Transforms"
+    ],
+    "type": "book",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dug] Dugundji",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Allyn and Bacon"
+    ],
+    "title": [
+      "Topology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dunford",
+        "given": "D.S.]"
+      },
+      {
+        "given": "N."
+      },
+      {
+        "family": "Schwartz",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Linear Operators, Part I, General Theory, Interscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dym",
+        "given": "D.M.]"
+      },
+      {
+        "given": "H."
+      },
+      {
+        "family": "McKean",
+        "given": "H.P."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Fourier Series and Integrals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dzy] Dzyadyk",
+        "given": "V.K."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Zeist, The Netherlands"
+    ],
+    "publisher": [
+      "VSP Publishers"
+    ],
+    "title": [
+      "Approximation Methods for Solutions of Differential and Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eav] Eaves",
+        "given": "B.C."
+      }
+    ],
+    "container-title": [
+      "SIAM-AMS Proceedings"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "73–144"
+    ],
+    "title": [
+      "A short course in solving equations with PL homotopies"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edw] Edwards",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Functional Analysis, Holt Rinehart and Winston"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Egg] Eggleston",
+        "given": "H.G."
+      }
+    ],
+    "date": [
+      "1958"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Convexity"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Els] Elsgolc",
+        "given": "L.E."
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "London"
+    ],
+    "title": [
+      "Calculus of Variations, Pergamon"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ev] Evans",
+        "given": "L.C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "publisher": [
+      "Math. Soc"
+    ],
+    "title": [
+      "Partial Differential Equations, Amer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ewi] Ewing",
+        "given": "G.W."
+      }
+    ],
+    "date": [
+      "1969",
+      "1985"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "publisher": [
+      "W.W. Norton",
+      "Dover Publications"
+    ],
+    "title": [
+      "Calculus of Variations with Applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fef] Feferman",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "99–111"
+    ],
+    "title": [
+      "Does mathematics need new axioms?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fern] Fernandez",
+        "given": "L.A."
+      }
+    ],
+    "container-title": [
+      "SIAM Rev"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "292–297"
+    ],
+    "title": [
+      "On the limits of the Lagrange multiplier rule"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feyn] Feynman",
+        "given": "R.P."
+      },
+      {
+        "family": "Joking",
+        "given": "Surely You're"
+      },
+      {
+        "family": "Mr. Feynman",
+        "given": "W.W."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Norton"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fic] Ficken",
+        "given": "F.A."
+      }
+    ],
+    "container-title": [
+      "Comm. Pure Appl. Math"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "435–456"
+    ],
+    "title": [
+      "The continuation method for functional equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fla] Flanders",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Differential Forms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fol] Folland",
+        "given": "G.B."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Pacific Grove, Calif"
+    ],
+    "title": [
+      "Fourier Analysis and Its Applications, Wadsworth-Brooks-Cole"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fox] Fox",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "An Introduction to the Calculus of Variations"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1987"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fri] Friedlander",
+        "given": "F.G."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Introduction to the Theory of Distributions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Friel] Friedman",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "title": [
+      "Generalized Functions and Partial Differential Equations, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Friedman",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Frie2"
+    ],
+    "date": [
+      "1970",
+      "1982"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Foundations of Modem Analysis, Holt Rinehart and Winston"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fried] Friedman",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1956"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley",
+      "Dover Publications"
+    ],
+    "title": [
+      "Principles and Techniques of Applied Mathematics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Furi",
+        "given": "F.M.]"
+      },
+      {
+        "given": "M."
+      },
+      {
+        "family": "Martelli",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "840–846"
+    ],
+    "title": [
+      "On the mean-value theorem, inequality, and inclusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "98"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gar] Garabedian",
+        "given": "P.R."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "Wiley",
+      "Chelsea Publications"
+    ],
+    "title": [
+      "Partial Differential Equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "G.G.]"
+      },
+      {
+        "family": "B.",
+        "given": "C."
+      },
+      {
+        "family": "Gould",
+        "given": "F.J."
+      }
+    ],
+    "container-title": [
+      "SIAM Rev"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "263–274"
+    ],
+    "title": [
+      "Relations between several path-following algorithms and local and global Newton methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "C.B."
+      },
+      {
+        "family": "Zangwill",
+        "given": "W.",
+        "particle": "l."
+      }
+    ],
+    "citation-number": [
+      "GZ1"
+    ],
+    "container-title": [
+      "Math. Oper. Res"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "39 405"
+    ],
+    "title": [
+      "An approach to homotopy and degree theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "C.B."
+      },
+      {
+        "family": "Zangwill",
+        "given": "W.I."
+      }
+    ],
+    "citation-number": [
+      "GZ2"
+    ],
+    "container-title": [
+      "Math. Programming"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "159–176"
+    ],
+    "title": [
+      "Finding all solutions to polynomial systems and other systems of equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia",
+        "given": "C.B."
+      },
+      {
+        "family": "Zangwill",
+        "given": "W.I."
+      }
+    ],
+    "citation-number": [
+      "GZ3"
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Pathways to Solutions, Fixed Points and Equilibria"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gelfand",
+        "given": "G.F.]"
+      },
+      {
+        "family": "M.",
+        "given": "I."
+      },
+      {
+        "family": "Fomin",
+        "given": "S.V."
+      },
+      {
+        "given": "Calculu"
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "of Variations, Prentice-Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gelfand",
+        "given": "G.V.]"
+      },
+      {
+        "family": "M.",
+        "given": "I."
+      },
+      {
+        "family": "Vilenkin",
+        "given": "N.Ya"
+      }
+    ],
+    "container-title": [
+      "Generalized Functions"
+    ],
+    "date": [
+      "1964"
+    ],
+    "note": [
+      "is by Gelfand and G.E. Shilov."
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Go] Godel",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1940"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "The Consistency of t te Axiom of Choice and of the Generalized Continuum Hypothesis with the Axioms of Set Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goffman",
+        "given": "G.P.]"
+      },
+      {
+        "given": "C."
+      },
+      {
+        "family": "Pedrick",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Reprint,"
+    ],
+    "publisher": [
+      "Chelsea Publishing Co",
+      "American Mathematical Society"
+    ],
+    "title": [
+      "First Course in Functional Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gol] Goldberg",
+        "given": "R.R."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Fourier Transforms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gold] Goldstein",
+        "given": "A.A."
+      }
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper and Row"
+    ],
+    "title": [
+      "Constructive Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gr] Graves",
+        "given": "L.M."
+      }
+    ],
+    "date": [
+      "1946"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "The Theory of Functions of Real Variables"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Green] Green",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "editor": [
+      {
+        "family": "Ferrers",
+        "given": "N.M."
+      },
+      {
+        "family": "Soc",
+        "given": "Amer Math"
+      }
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "title": [
+      "Mathematical Papers of George Green"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gre] Greenberg",
+        "given": "M.D."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Foundations of Applied Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gri] Griffel",
+        "given": "D.H."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Applied FUnctional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gro] Groetsch",
+        "given": "C.W."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Elements of Applicable F'lmctional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall] Halmos",
+        "given": "P.R."
+      }
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "What does the spectral theorem say?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "P.R."
+      }
+    ],
+    "citation-number": [
+      "HaI2"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "van Nostrand, Princeton"
+    ],
+    "title": [
+      "A Hilbert Space Problem Book"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "P.R."
+      }
+    ],
+    "citation-number": [
+      "HaI3"
+    ],
+    "date": [
+      "1951"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Chelsea Publishing Co"
+    ],
+    "title": [
+      "Introduction to Hilbert Space"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halmos",
+        "given": "P.R."
+      }
+    ],
+    "citation-number": [
+      "HaI4"
+    ],
+    "date": [
+      "1950"
+    ],
+    "edition": [
+      "Reprint"
+    ],
+    "location": [
+      "Van Nostrand, New York",
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Measure Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hel] Helson",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Harmonic Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hen] Henrici",
+        "given": "P."
+      },
+      {
+        "family": "Hesl] Hestenes",
+        "given": "M.R."
+      }
+    ],
+    "date": [
+      "1962",
+      "1965"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "Wiley",
+      "Wiley"
+    ],
+    "title": [
+      "Discrete Variable Methods in Ordinary Differential Equations",
+      "Calculus of Variations and Optimal Control Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hestenes",
+        "given": "M.R."
+      }
+    ],
+    "citation-number": [
+      "Hes2"
+    ],
+    "container-title": [
+      "Modem Mathematics for the Engineer"
+    ],
+    "date": [
+      "1956"
+    ],
+    "editor": [
+      {
+        "family": "Beckenback",
+        "given": "E.F."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "59–91"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Elements of the Calculus of Variations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hewitt",
+        "given": "H.S.]"
+      },
+      {
+        "given": "E."
+      },
+      {
+        "family": "Stromberg",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Real and Abstract Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hille",
+        "given": "H.P.]"
+      },
+      {
+        "given": "E."
+      },
+      {
+        "family": "Phillips",
+        "given": "R.S."
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "publisher": [
+      "Math. Soc"
+    ],
+    "title": [
+      "FUnctional Analysis and Semigroups, Amer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hirsch",
+        "given": "H.S.]"
+      },
+      {
+        "family": "W.",
+        "given": "M."
+      },
+      {
+        "family": "Smale",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Comm. Pure Appl. Math"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "281–312"
+    ],
+    "title": [
+      "On algorithms for solving f(x) = 0"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hoi] Holmes",
+        "given": "R.B."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Geometric Functional Analysis and its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hormander",
+        "given": "Ho]"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "1., The Analysis of Linear Partial Differential Operators I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horv] Horvath",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Topological Vector Spaces and Distributions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hu] Huet",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "genre": [
+      "Lecture Note #6,"
+    ],
+    "publisher": [
+      "Department of Mathematics, University of Maryland"
+    ],
+    "title": [
+      "Distributions and Sobolev Spaces"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hur] Hurley",
+        "given": "J.F."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Saunders, Philadelphia"
+    ],
+    "title": [
+      "Multivariate Calculus"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "In] Ince",
+        "given": "E.L."
+      }
+    ],
+    "date": [
+      "1926",
+      "1948"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "London",
+      "New York"
+    ],
+    "publisher": [
+      "Longmans Green",
+      "Dover Publications"
+    ],
+    "title": [
+      "Ordinary Differential Equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Isaacson",
+        "given": "I.K.]"
+      },
+      {
+        "given": "E."
+      },
+      {
+        "family": "Keller",
+        "given": "H.B."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Analysis of Numerical Methods"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jal] James",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Israel J. Math"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "101–119"
+    ],
+    "title": [
+      "Weak compactness and reflexivity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "James",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Ja2"
+    ],
+    "container-title": [
+      "Proc. Nat. Acad. Sci. U.S.A"
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "A non-reflexive Banach space isometric with its second conjugate space"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jam] Jameson",
+        "given": "G.J."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman and Hall"
+    ],
+    "title": [
+      "0., Topology and Normed Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaworowski",
+        "given": "J.K.P.]"
+      },
+      {
+        "family": "J.",
+        "given": "W.A.Kirk"
+      },
+      {
+        "family": "Park",
+        "given": "S."
+      },
+      {
+        "family": "Points",
+        "given": "Antipodal"
+      },
+      {
+        "family": "Points",
+        "given": "Fixed"
+      }
+    ],
+    "collection-title": [
+      "Lecture Note Series"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Seoul National University"
+    ],
+    "type": "book",
+    "volume": [
+      "Number 28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jon] Jones",
+        "given": "D.S."
+      }
+    ],
+    "date": [
+      "1966",
+      "1982"
+    ],
+    "edition": [
+      "2nd."
+    ],
+    "publisher": [
+      "McGraw-Hill",
+      "Cambridge University Press"
+    ],
+    "title": [
+      "The Theory of Generalised Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jo] Jones",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "title": [
+      "Lebesgue Integration on Euclidean Space, Jones and Bartlet"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jost",
+        "given": "J.L.J.]"
+      },
+      {
+        "family": "J."
+      },
+      {
+        "family": "Li-Jost",
+        "given": "X."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Calculus of Variations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kantorovich",
+        "given": "K.A.]"
+      },
+      {
+        "family": "V.",
+        "given": "L."
+      },
+      {
+        "family": "Akilov",
+        "given": "G.P."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "FUnctional Analysis in Normed Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kantorovich",
+        "given": "K.K.]"
+      },
+      {
+        "given": "L.V."
+      },
+      {
+        "family": "Krylov",
+        "given": "Vl"
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Approximate Methods of Higher Mathematics, Interscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kar] Karmarkar",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Combinatorica"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "373–395"
+    ],
+    "title": [
+      "A new polynomial-time algorithm for linear programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kat] Katznelson",
+        "given": "Y."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "Wiley",
+      "Dover Publications"
+    ],
+    "title": [
+      "An Introduction to Harmonic Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kee] Keener",
+        "given": "J.P."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Principles of Applied Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kel] Kelley",
+        "given": "J.L."
+      },
+      {
+        "family": "General Topology",
+        "given": "D.Van Nostrand"
+      },
+      {
+        "family": "York",
+        "given": "New"
+      }
+    ],
+    "date": [
+      "1955"
+    ],
+    "edition": [
+      "Reprint"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kelley",
+        "given": "K.N.]"
+      },
+      {
+        "family": "L",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Van Nostrand"
+    ],
+    "title": [
+      "1. Namioka, et a!., Linear Topological Spaces, D"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kelley",
+        "given": "K.S.]"
+      },
+      {
+        "family": "L.",
+        "given": "J."
+      },
+      {
+        "family": "Srinivasen",
+        "given": "T.P."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Measure and Integral"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kello] Kellogg",
+        "given": "O.D."
+      }
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Foundations of Potential Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ken] Keener",
+        "given": "J.P."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Boulder, CO"
+    ],
+    "publisher": [
+      "Perseus Books Group"
+    ],
+    "title": [
+      "Principles of Applied Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kincaid",
+        "given": "K.C.]"
+      },
+      {
+        "given": "D."
+      },
+      {
+        "family": "Cheney",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "3nd"
+    ],
+    "location": [
+      "Brooks/Cole, Pacific Grove, CA"
+    ],
+    "title": [
+      "Numerical Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kolmogorov",
+        "given": "K.F.]"
+      },
+      {
+        "family": "N.",
+        "given": "A."
+      },
+      {
+        "family": "Fomin",
+        "given": "S.V."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Introductory Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ko] Korner",
+        "given": "T.W."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Fourier Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kras] Krasnoselski",
+        "given": "M.A."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Topological Methods in the Theory of Nonlinear Integral Equations, Pergamon"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kr] Kress",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1989",
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Linear Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kre] Kreysig",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introductory Functional AnalYSis with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuratowski",
+        "given": "K.R.N.]"
+      },
+      {
+        "given": "K."
+      },
+      {
+        "family": "Ryll-Nardzewski",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Bull. Acad. Polonaise Sciences, Serie des Sciences Math. Astr. Phys"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "397–403"
+    ],
+    "title": [
+      "A general theorem on selectors\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lane] Lanczos",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Applied Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lanl] Lang",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Analysis II"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Lan2"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Introduction to Differentiable Manifolds, Interscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Las] Lass",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1950"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw Hill"
+    ],
+    "title": [
+      "Vector and Tensor Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lax] Lax",
+        "given": "P.D."
+      }
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Change of variables in multiple integrals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lebedev",
+        "given": "L.S.U.]"
+      },
+      {
+        "family": "Skalskaya",
+        "given": "P."
+      },
+      {
+        "family": "Uflyand",
+        "given": "Y.S."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Worked Problems in Applied Mathematics"
+    ],
+    "type": null,
+    "volume": [
+      "N. N., 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Leis] Leis",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Initial Boundary Value Problems in Mathematical Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Li] Li",
+        "given": "T.Y."
+      }
+    ],
+    "container-title": [
+      "Math. Intelligencer"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "33–39"
+    ],
+    "title": [
+      "Solving polynomial systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lieb",
+        "given": "L.L.]"
+      },
+      {
+        "family": "H.",
+        "given": "E."
+      },
+      {
+        "family": "Loss",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Analysis, Amer. Math. Soc"
+    ],
+    "date": [
+      "1997"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindenstrauss",
+        "given": "L.T.]"
+      },
+      {
+        "given": "J."
+      },
+      {
+        "family": "Tzafriri",
+        "given": "L."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Classical Banach Spaces I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lions",
+        "given": "L.M.]"
+      },
+      {
+        "given": "J.L."
+      },
+      {
+        "family": "Magenes",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Nonhomogeneous Boundary Value Problems and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lo] Logan",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Applied Mathematics: A Contemporary Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lov] Lovett",
+        "given": "W.V."
+      }
+    ],
+    "date": [
+      "1924",
+      "1950"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill",
+      "Dover Publications"
+    ],
+    "title": [
+      "Linear Integral Equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Loo] Loomis",
+        "given": "L.H."
+      }
+    ],
+    "date": [
+      "1953"
+    ],
+    "location": [
+      "Van Nostrand, New York"
+    ],
+    "title": [
+      "An Introduction to Abstract Harmonic Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Luenberger",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "Lue1"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "AddisonvVesley"
+    ],
+    "title": [
+      "Introduction to Linear and Nonlinear Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Luenberger",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "Lue2"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Optimization by Vector Space Methods"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marsden",
+        "given": "M.T.]"
+      },
+      {
+        "family": "E.",
+        "given": "J."
+      },
+      {
+        "family": "Tromba",
+        "given": "A.J."
+      }
+    ],
+    "date": [
+      "198!"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "San francisco"
+    ],
+    "publisher": [
+      "W.H. Freeman"
+    ],
+    "title": [
+      "Vector Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mar] Martin",
+        "given": "J.B."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Plasticity: Fundamentals and General Results"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mas] Mason",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "Methods of Functional Analysis for Applications in Solid Mechanics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maz] Mazja",
+        "given": "V.G."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Sobolev Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McK] McKinsey",
+        "given": "J.C.C."
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to the Theory of Games"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mey] Meyer",
+        "given": "G.H."
+      }
+    ],
+    "container-title": [
+      "SIAM J. Numer. Analysis"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "739–752"
+    ],
+    "title": [
+      "On solving nonlinear equations with a one-parameter operator embedding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michl] Michael",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Ann. Math"
+    ],
+    "date": [
+      "1956"
+    ],
+    "pages": [
+      "361–382"
+    ],
+    "title": [
+      "Continuous Selections"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Michael",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "Mich2"
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1956"
+    ],
+    "pages": [
+      "233–238"
+    ],
+    "title": [
+      "Selected Selection Theorems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mil] Milne",
+        "given": "W.E."
+      }
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Numerical Solution of Differential Equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moo] Moore",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Computational FUnctional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morl] Morgan",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Applied Math. and Compo"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "87–92"
+    ],
+    "title": [
+      "A homotopy for solving polynomial systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Morgan",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Mor2"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Solving Polynomial Systems Using Continuation for Engineering and Scientific Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morr] Morris",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Introduction to Game Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "NaSn] Naylor",
+        "given": "A.W."
+      },
+      {
+        "family": "Snell",
+        "given": "G.R."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Linear Operator Theory in Engineering and Science"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "NazI] Nazareth",
+        "given": "J.L."
+      }
+    ],
+    "container-title": [
+      "Algorithmica"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "529–535"
+    ],
+    "title": [
+      "Homotopy techniques in linear programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nazareth",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "Naz2"
+    ],
+    "container-title": [
+      "Algorithmica"
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "The implementation of linear programming algorithms based on homotopies"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nel] Nelson",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "publisher": [
+      "Flows, Princeton University Press"
+    ],
+    "title": [
+      "Topics in Dynamics"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nickerson",
+        "given": "N.S.S.]"
+      },
+      {
+        "family": "K.",
+        "given": "H."
+      },
+      {
+        "family": "Spencer",
+        "given": "D.C."
+      },
+      {
+        "family": "Steenrod",
+        "given": "N.E."
+      }
+    ],
+    "date": [
+      "1959",
+      "1996"
+    ],
+    "location": [
+      "van Nostrand, New York",
+      "New York"
+    ],
+    "note": [
+      "rOD] Oden, J. T. and 1. F. Demkowicz, Applied FUnctional Analysis,"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Advanced Calculus"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "OdR] Oden",
+        "given": "J.T."
+      },
+      {
+        "family": "Reddy",
+        "given": "J.N."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "An Introduction to the Mathematical Theory of Finite Elements"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Olver",
+        "given": "F.W.J."
+      }
+    ],
+    "citation-number": [
+      "01"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Asymptotics and Special Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ortega",
+        "given": "O.R.]"
+      },
+      {
+        "family": "M.",
+        "given": "J."
+      },
+      {
+        "family": "Rheinboldt",
+        "given": "W.C."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Iterative Solution of Nonlinear Equations in Several Variables"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "Par]"
+      },
+      {
+        "given": "Sehie"
+      },
+      {
+        "family": "J. Jaworowski",
+        "given": "Points",
+        "particle": "by"
+      },
+      {
+        "family": "Kirk",
+        "given": "W.A."
+      },
+      {
+        "family": "Park",
+        "given": "S."
+      }
+    ],
+    "collection-title": [
+      "Lecture Notes Series"
+    ],
+    "container-title": [
+      "Antipodal Points and Fixed"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "28"
+    ],
+    "pages": [
+      "55–97"
+    ],
+    "publisher": [
+      "Seoul National University"
+    ],
+    "title": [
+      "Eighty years of the Brouwer fixed point theorem"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Part] Parthasarathy",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Math"
+    ],
+    "date": [
+      "1972"
+    ],
+    "issue": [
+      "263"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Selection Theorems and Their Applications"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Ped] Pedersen",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC"
+    ],
+    "title": [
+      "FUnctional Analysis in Applied Mathematics and Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pet] Petrovskii",
+        "given": "I.G."
+      }
+    ],
+    "date": [
+      "1957"
+    ],
+    "location": [
+      "Rochester, NY"
+    ],
+    "publisher": [
+      "Graylock Press"
+    ],
+    "title": [
+      "Lectures on the Theory of Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Polyanin",
+        "given": "P.M.]"
+      },
+      {
+        "given": "A."
+      },
+      {
+        "family": "Manzhirov",
+        "given": "A.V."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Handbook of Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pontryagin",
+        "given": "P.B.G.M.]"
+      },
+      {
+        "family": "S.",
+        "given": "L."
+      },
+      {
+        "family": "Boltyanskii",
+        "given": "V.G."
+      },
+      {
+        "family": "Gamkrelidze",
+        "given": "R.V."
+      },
+      {
+        "family": "Mishchenko",
+        "given": "E.F."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Interscience Pub!"
+    ],
+    "title": [
+      "The Mathematical Theory of Optimal Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pry] Pryce",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Numerical Solution of Sturm-Liouville Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Red] Reddy",
+        "given": "J.N."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Applied FUnctional Analysis and Variational Methods in Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reed",
+        "given": "R.S.]"
+      },
+      {
+        "given": "M."
+      },
+      {
+        "family": "Simon",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Vo",
+      "New York"
+    ],
+    "publisher": [
+      "I, Academic Press"
+    ],
+    "title": [
+      "Methods of Modern Mathematical Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rheinboldt",
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "Rh1"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Numerical Analysis of Parameterized Nonlinear Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rheinboldt",
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "Rh2"
+    ],
+    "container-title": [
+      "SIAM J. Numer. Analysis"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "221–237"
+    ],
+    "title": [
+      "Solution fields of nonlinear equations and continuation methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ri] Richtmyer",
+        "given": "R.D."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Principles of Advanced Mathematical Physics"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Riesz",
+        "given": "R.N.]"
+      },
+      {
+        "given": "F."
+      },
+      {
+        "family": "Sz.-Nagy",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1955",
+      "1991"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Frederick Ungar",
+      "Dover Publications"
+    ],
+    "title": [
+      "FUnctional Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rie] Riesz",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Perturbation Theory for Linear Operators"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ro] Roach",
+        "given": "G.F."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Green's FUnctions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ros] Rosenbloom",
+        "given": "P.C."
+      }
+    ],
+    "container-title": [
+      "Numerical Analysis",
+      "Symposia in Applied Math"
+    ],
+    "date": [
+      "1956"
+    ],
+    "editor": [
+      {
+        "family": "Curtiss",
+        "given": "J.H."
+      }
+    ],
+    "pages": [
+      "127–176"
+    ],
+    "title": [
+      "The method of steepest descent"
+    ],
+    "type": "chapter",
+    "volume": [
+      "vo!.VI"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Roy] Royden",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "1., Real Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rub] Rubin",
+        "given": "H."
+      },
+      {
+        "family": "Rubin",
+        "given": "J.E."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "North Holland Pub!. Co"
+    ],
+    "title": [
+      "Equivalents of the Axiom of Choice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "Ru1"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "FUnctional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "Ru2"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Fourier Analysis on Groups, Interscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rudin",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "Ru3"
+    ],
+    "date": [
+      "1974"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Real and Complex Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sa] Saaty",
+        "given": "T.L."
+      }
+    ],
+    "date": [
+      "1967",
+      "1981"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill",
+      "Dover Publications"
+    ],
+    "title": [
+      "Modern Nonlinear Equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sag] Sagan",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Co"
+    ],
+    "title": [
+      "Introduction to the Calculus of Variations"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1992"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "San] Sansone",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Interscience"
+    ],
+    "title": [
+      "Orthogonal Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schul Schur",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "J. Reine Angew. Math"
+    ],
+    "date": [
+      "1920"
+    ],
+    "pages": [
+      "79–11"
+    ],
+    "title": [
+      "Uber lineare Transformationen in der Theorie der unendlichen Reihen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "151"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schj] Schwartz",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Gordon and Breach"
+    ],
+    "title": [
+      "Non-Linear FUnctional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schl] Schwartz",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Mathematics for the Physical Sciences"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Schwartz"
+      }
+    ],
+    "citation-number": [
+      "SchI2"
+    ],
+    "date": [
+      "1951"
+    ],
+    "editor": [
+      {
+        "family": "I",
+        "given": "Hermann et Cie",
+        "suffix": "II"
+      }
+    ],
+    "location": [
+      "Paris"
+    ],
+    "title": [
+      "1., Theorie des Distributions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SemI Semadeni",
+        "given": "Z."
+      }
+    ],
+    "container-title": [
+      "Lecture Notes in Mathematics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Schauder Bases in Banach Spaces of Continuous FUnctions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "vo!' 918"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sho] Showalter",
+        "given": "R.E."
+      }
+    ],
+    "container-title": [
+      "Introduction to Topology and Modern Analysis"
+    ],
+    "date": [
+      "1963"
+    ],
+    "editor": [
+      {
+        "family": "SimI Simmons",
+        "given": "G.F."
+      }
+    ],
+    "genre": [
+      "(Available on-line from"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Hilbert Space Methods for Partial Differential Equations, Pitman, London, a977"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://ejde.math.swt.edu/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sing] Singer",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Bases in Banach Spaces"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ISm] Smale",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the International Congress of Mathematicians"
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Algorithms for solving equations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sma] Smart",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Fixed Point Theorems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smi] Smith",
+        "given": "K.T."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Belmont, CA"
+    ],
+    "title": [
+      "Primer of Modern Analysis, Bogden and Quigley"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "So] Sobolev",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Math. Soc. Translations Series"
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "1., Applications of Functional Analysis in Mathematical Physics, Amer"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sta] Stakgold",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Green's FUnctions and Boundary Value Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stein",
+        "given": "S.W.]"
+      },
+      {
+        "family": "M.",
+        "given": "E."
+      },
+      {
+        "family": "Weiss",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Introduction to Fourier Analysis on Euclidean Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "StWi] Stoer",
+        "given": "J."
+      },
+      {
+        "family": "Witzgall",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Convexity and Optimization in Finite Dimensions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Str1"
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Harcourt Brace Jovanov;ch"
+    ],
+    "title": [
+      "Linear Algebra and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Str2"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Wellesley, MA"
+    ],
+    "title": [
+      "Introduction to Applied Mathematics, Wellesley-Cambridge"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sz] Szego",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "American Mathematical Society Colloquium Publications"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "23,"
+    ],
+    "title": [
+      "Orthogonal Polynomials"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "vo"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "A.E."
+      }
+    ],
+    "citation-number": [
+      "Tay1"
+    ],
+    "date": [
+      "1955"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Advanced Calculus, Ginn"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "A.E."
+      }
+    ],
+    "citation-number": [
+      "Tay2"
+    ],
+    "date": [
+      "1958"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley",
+      "Dover Publications"
+    ],
+    "title": [
+      "Introduction to Functional Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "A.E."
+      }
+    ],
+    "citation-number": [
+      "Tay3"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Blaisdell, New York"
+    ],
+    "title": [
+      "General Theory of Functions and Integration"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Til] Titchmarsh",
+        "given": "E.C."
+      }
+    ],
+    "date": [
+      "1937",
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Reprinted by Chelsea Pub!."
+    ],
+    "publisher": [
+      "Oxford University Press",
+      "Co"
+    ],
+    "title": [
+      "Introduction to the Theory of Fourier Integrals"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Titchmarsh",
+        "given": "E.C."
+      }
+    ],
+    "citation-number": [
+      "Ti2"
+    ],
+    "date": [
+      "1939"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Theory of Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tod] Todd",
+        "given": "M.J."
+      }
+    ],
+    "container-title": [
+      "Topics in Numerical Analysis",
+      "Lecture Notes in Mathematics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "editor": [
+      {
+        "family": "Turner",
+        "given": "P.R."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "147–202"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "An introduction to piecewise linear homotopy algorithms for solving systems of equations"
+    ],
+    "type": "chapter",
+    "volume": [
+      "vo!' 965"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tri] Tricomi",
+        "given": "F.G."
+      }
+    ],
+    "date": [
+      "1957",
+      "1985"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Integral Equations, Interscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vic] Vick",
+        "given": "J.W."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Homology Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Continuation Methods"
+    ],
+    "date": [
+      "1978"
+    ],
+    "editor": [
+      {
+        "family": "Wac] Wacker",
+        "given": "H.G."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wag] Wagner",
+        "given": "D.H."
+      }
+    ],
+    "container-title": [
+      "Measure Theory Oberwolfach 1979",
+      "Lecture Notes in Mathematics",
+      "Wavelets and Other Orthogonal Systems with Applications"
+    ],
+    "date": [
+      "1980",
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "Kolzow",
+        "given": "D."
+      },
+      {
+        "family": "Wall Walter",
+        "given": "G.G."
+      }
+    ],
+    "location": [
+      "Berlin",
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "Springer-Verlag",
+      "CRC Press"
+    ],
+    "title": [
+      "Survey of measurable selection theorems: an update"
+    ],
+    "type": "chapter",
+    "volume": [
+      "vo!' 794"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Was] Wasserstrom",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "89–119"
+    ],
+    "title": [
+      "Numerical solutions by the continuation method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wat] Watson",
+        "given": "L.T."
+      }
+    ],
+    "container-title": [
+      "Appl. Math. Comput"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "297–311"
+    ],
+    "title": [
+      "A globally convergent algorithm for computing fixed points of C 2 maps"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wein] Weinstock",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1952",
+      "1974"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill",
+      "Dover Publications"
+    ],
+    "title": [
+      "Calculus of Variations, with Applications to Physics and Engineering"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "West] Westfall",
+        "given": "R.S."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Never at Rest: A Biography of Isaac Newton"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Whi] Whitehead",
+        "given": "G.W."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "Cambridge, Massachusetts"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Homotopy Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Widder",
+        "given": "D.V."
+      }
+    ],
+    "citation-number": [
+      "Wid1"
+    ],
+    "date": [
+      "1961"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Advanced Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wie] Wiener",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1933",
+      "1958"
+    ],
+    "genre": [
+      "Reprint,"
+    ],
+    "location": [
+      "Cambridge",
+      "New York"
+    ],
+    "publisher": [
+      "Cambridge University Press",
+      "Dover Publications"
+    ],
+    "title": [
+      "The Fourier Integral and Certain of Its Applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Wilf] Wilf",
+        "given": "H.S."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Mathematics for the Physical Sciences"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Will] Williamson",
+        "given": "J.H."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Lebesgue Integration, Holt, Rinehart and Winston"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Yo] Yosida",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Functional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Youl] Young",
+        "given": "L.C."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "publisher": [
+      "Chelsea Publishing Co"
+    ],
+    "title": [
+      "Lectures on the Calculus of Variations and Optimal Control Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Youn] Young",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "An Introduction to Hilbert Space"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ze] Zeidler",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Applied Functional Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zem] Zemanian",
+        "given": "A.H."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications"
+    ],
+    "title": [
+      "Distribution Theory and Transform Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zie] Ziemer",
+        "given": "W.P."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Weakly Differentiable Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zien] Zienkiewicz",
+        "given": "O.C."
+      },
+      {
+        "family": "Morgan",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Finite Elements and Approximation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zy] Zygmund",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Trigonometric Series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "L.A.M."
+      },
+      {
+        "given": "H.A.R.R.I.S."
+      },
+      {
+        "literal": "ROMAN. Advanced Linear Algebra. 167 MORANDI. Field and Galois Theory."
+      },
+      {
+        "family": "Borel Sets",
+        "given": "S.R.I.V.A.S.T.A.V.A.A.Course",
+        "particle": "on"
+      }
+    ],
+    "citation-number": [
+      "131"
+    ],
+    "container-title": [
+      "Additive Number Theory: Rings",
+      "Inverse Problems and the Geometry of 132 BEARDON. Iteration of Rational Functions. Sumsets",
+      "Harmonic 169 BHATIA. Matrix Analysis. Function Theory",
+      "170 BREDON. Sheaf Theory",
+      "138 COHEN. A Course in Computational 171 PETERSEN. Riemannian Geometry. Algebraic Number Theory. 172 REMMERT. Classical Topics in Complex 139 BREDON. Topology and Geometry. Function Theory. 140 AUBIN. Optima and Equilibria. An 173 DIESTEL. Graph Theory",
+      "Introduction to Nonlinear Analysis. 174 BRIDGES. Foundations of Real and 141 BECKERIWEISPFENNING/KREDEL. Griibner Abstract Analysis. Bases. A Computational Approach to 175 LICKORISH. An Introduction to Knot Commutative Algebra. Theory. 142 LANG. Real and Functional Analysis. 176 LEE. Riemannian Manifolds",
+      "177 NEWMAN. Analytic Number Theory. 143 DOOB. Measure Theory. 178 CLARKEILEDY AEV/STERNIWOLENSKI. 144 DENNIS/F ARB. Noncommutative Nonsmooth Analysis and Control Algebra. Theory. 145 VICK. Homology Theory. An 179 DOUGLAS. Banach Algebra Techniques in Introduction to Algebraic Topology. Operator Theory",
+      "Numerical Analysis. Mathematical Sketchbook. 182 WALTER. Ordinary Differential 147 ROSENBERG. Algebraic K- Theory Equations. and Its Applications. 183 MEGGINSON. An Introduction to Banach 148 ROTMAN. An Introduction to the Space Theory. Theory of Groups",
+      "184 BOLLOBAS. Modern Graph Theory. 149 RATCLIFFE. Foundations of 185 COX/LITTLE/O'SHEA. Using Algebraic Hyperbolic Manifolds. Geometry. 150 EISENBUD. Commutative Algebra 186 RAMAKRISHNANNALENZA. Fourier with a View Toward Algebraic Analysis on Number Fields. Geometry. 187 HARRIS/MoRRISON. Moduli of Curves. 151 SILVERMAN. Advanced Topics in 188 GOLDBLATT. Lectures on the Hyperreals: the Arithmetic of Elliptic Curves. An Introduction to Nonstandard Analysis. 152 ZIEGLER. Lectures on Polytopes. 189 LAM. Lectures on Modules and Rings. 153 FULTON. Algebraic Topology: A 190 ESMONDEIMURTY. Problems in Algebraic First Course. Number Theory. 154 BROWN/PEARCY. An Introduction to 191 LANG. Fundamentals of Differential Analysis. Geometry. 155 KASSEL. Quantum Groups. 192 HIRSCH/LACOMBE. Elements of Functional 156 KECHRIS. Classical Descriptive Set Analysis. Theory. 193 COHEN. Advanced Topics in 157 MALLIA VIN. Integration and Computational Number Theory. Probability. 194 ENGELINAGEL. One-Parameter Semigroups 158 ROMAN. Field Theory. for Linear Evolution Equations. 159 CONWAY. Functions of One 195 NATHANSON. Elementary Methods in Complex Variable II. Number Theory. 160 LANG. Differential and Riemannian 196 OSBORNE. Basic Homological Algebra. Manifolds. 197 EISENBUDIHARRIS. The Geometry of 161 BORWEIN/ERDEL YI. Polynomials and Schemes. Polynomial Inequalities. 198 ROBERT. A Course inp-adic Analysis. 162 ALPERINIBELL. Groups and 199 HEDENMALMIKORENBLUMIZHU. Theory Representations. of Bergman Spaces. 163 DIXON/MORTIMER. Permutation Groups. 200 BAO/CHERN/SHEN. An Introduction to 164 NATHANSON",
+      "Program"
+    ],
+    "edition": [
+      "2nd",
+      "2nd",
+      "2nd",
+      "2nd",
+      "3rd",
+      "2nd ed. 2nd",
+      "4th"
+    ],
+    "note": [
+      "Additive Number Theory: Riemann-Finsler Geometry. The Classical Bases. 201 HINDRy/SILVERMAN. Diophantine 205 FELlXlHALPERINITHOMAS. Rational Geometry: An Introduction. Homotopy Theory. 202 LEE. Introduction to Topological 206 MURTY. Problems in Analytic Number Manifolds. Theory. 203 SAGAN. The Symmetric Group: Readings in Mathematics Representations, Combinatorial 207 GODSILIRoYLE. Algebraic Graph Theory. Algorithms, and Symmetric Functions. 208 CHENEY. Analysis for Applied 2nded. Mathematics. 204 ESCOFIER. Galois Theory."
+    ],
+    "pages": [
+      "133",
+      "180"
+    ],
+    "title": [
+      "A First Course in Noncommutative 165 NATHANSON",
+      "Algebraic Geometry: A First 166 SHARPE. Differential Geometry: Cartan's Course. Generalization of Klein's Erlangen 134 ROMAN. Coding and Information Theory",
+      "136 ADKINS/WEINTRAUB. Algebra: An 168 EWALD. Combinatorial Convexity and Approach via Module Theory. Algebraic Geometry. 137 AXLERIBoURDON/RAMEY",
+      "146 BRIDGES. Computability: A 181 KRESS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "135"
+    ]
+  }
+]
