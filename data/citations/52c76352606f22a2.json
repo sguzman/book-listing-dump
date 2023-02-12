@@ -1,0 +1,674 @@
+[
+  {
+    "citation-number": [
+      "19.2"
+    ],
+    "title": [
+      "Convert the state graph of Figure 13-11 to an SM chart"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.12"
+    ],
+    "title": [
+      "Convert the state graphs of Figures 14-4 and 14-6 to SM charts. Use conditional outputs for Figure 14-4"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.13"
+    ],
+    "note": [
+      "Try to minimize the number of decision boxes."
+    ],
+    "title": [
+      "Convert the state graph of Figure 13-15 to an SM chart. Test only one variable in each decision box"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.16"
+    ],
+    "title": [
+      "Convert the state graph shown in Figure 18-8 to an SM chart"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19.32"
+    ],
+    "title": [
+      "Convert the state graph of Figure 13-9 to an SM chart"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Work",
+        "particle": "i)"
+      }
+    ],
+    "container-title": [
+      "Problems"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "20 4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Read Section 20.3, VHDL Code for a Binary Divider. (a) In Figure 20-11: If Dividend(8 downto 4) >= Divisor, what is the value of Subout(4)? If Dividend(8 downto 4) < Divisor, what is the value of Subout(4)? Why is C equal to not Subout(4)?"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "b) Work Problems 20.5, 20.6, and 20.7."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Work Problem"
+    ],
+    "issue": [
+      "8"
+    ],
+    "title": [
+      "Read Section 20.4, VHDL Code for a Dice Game Simulator"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "publisher": [
+      "VHDL for Digital System Design"
+    ],
+    "title": [
+      "Read Section 20.5, Concluding Remarks. By looking at the VHDL code for the dice game, determine the minimum number of flip-flops required. Verify this against the value given in Table 20-1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "J",
+        "given": "Ashenden Peter"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2008"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers"
+    ],
+    "title": [
+      "The Designer’s Guide to VHDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhasker",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "A Guide to VHDL Syntax"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhasker",
+        "given": "J.V.H.D.L.Primer"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brayton",
+        "given": "Robert"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Secaucus, NJ"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Logic Minimization Algorithms for VLSI Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Givone",
+        "given": "Donald D."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Principles and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "Randy H."
+      },
+      {
+        "family": "Borriello",
+        "given": "Gaetano"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Contemporary Logic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M.Morris"
+      },
+      {
+        "family": "Ciletti",
+        "given": "Michael D."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M.Morris"
+      },
+      {
+        "family": "Kime",
+        "given": "Charles R."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2008"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Old Tappan, NJ"
+    ],
+    "publisher": [
+      "Pearson Prentice Hall"
+    ],
+    "title": [
+      "Logic and Computer Design Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marcovitz",
+        "given": "Alan B."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "2009"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Logic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McCluskey",
+        "given": "Edward J."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Logic Design Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Miczo",
+        "given": "Alexander"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York",
+      "England"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd West Sussex"
+    ],
+    "title": [
+      "Digital Logic Testing and Simulation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Patt",
+        "given": "Yale N."
+      },
+      {
+        "family": "Patel",
+        "given": "Sanjay J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "2013"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Computing Systems: From Bits and Gates to C and Beyond"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roth",
+        "given": "Charles H.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "John",
+        "given": "Lizy Kurian"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "2008"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Toronto, Ontario"
+    ],
+    "publisher": [
+      "Cengage Learning"
+    ],
+    "title": [
+      "Digital Systems Design Using VHDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rushton",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "2011"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "West Sussex, England"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd"
+    ],
+    "title": [
+      "VHDL for Logic Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wakerly",
+        "given": "John F."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design Principles & Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weste",
+        "given": "Neil"
+      },
+      {
+        "family": "Harris",
+        "given": "David"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "2010"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "CMOS VLSI Design: A Circuits and Systems Perspective"
+    ],
+    "type": "book"
+  },
+  {
+    "pages": [
+      "100–103"
+    ],
+    "title": [
+      "conversion using alternative 1’s complement numbers, 19–21 complex programmable logic general functions"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "557–559 three-variable Karnaugh map, multiple-output, 217–218 68–70, 200 sequential circuit design using, 138, 141 single-level, 204 Order of operation ( ), 300 557–559 790 Index"
+    ],
+    "pages": [
+      "280–281 144–149",
+      "278–280",
+      "275–278,"
+    ],
+    "title": [
+      "Karnaugh maps, 136, 138, 141, gate symbols, 210–214 Open circuits, 42–43 devices (CPLD",
+      "functionally complete logic Operators, VHDL, 315–316 programmable array logic prime implicants for, 144–149 sets, 205 OR-AND circuits, 200 devices (PAL",
+      "standard sum of products, inverters for, 210–214 OR-AND-OR circuits, 200 programmable logic arrays 98–100 multi-level, 209–210 OR circuit design"
+    ],
+    "type": null,
+    "volume": [
+      "260",
+      "260",
+      "39, 44, (PLA), 260"
+    ]
+  },
+  {
+    "note": [
+      "See also Minterm Karnaugh maps for, 182–184 Signal tracing, 421–424 glitches, 356 State assignment, 519–544, 673 prime implicants determined Signals, 299–305, 311–312 iterative circuit design, 553–556 distinct (nonequivalent), from, 173–176 after delay expressions, [ ], latches, 338–345 522–523"
+    ],
+    "pages": [
+      "375–402 98–100"
+    ],
+    "title": [
+      "don’t care simplification using, flip-flops, 345, 346–354, 181–182 Sign and magnitude numbers, 16 Standard sum of products"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "548–549"
+    ],
+    "title": [
+      "State equivalence, 507–512, Redundant state elimination, Simplification of functions, programmable logic array 727–728"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "505–507"
+    ],
+    "pages": [
+      "167–192 , 356–357 425–432, 453–496, 497–544"
+    ],
+    "title": [
+      "46–52, 66–68, 70–74, (PLA) used for, 557–559 State graphs and tables, 420–421, Redundant terms, adding"
+    ],
+    "type": null,
+    "volume": [
+      "73 123–166"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Registers"
+      }
+    ],
+    "container-title": [
+      "CAD"
+    ],
+    "note": [
+      "registers, 594–596 Simulations, 240–242, 565–570 497–544, 545–584 serial data code conversion VHDL for, 585–625 combinational logic circuits, asynchronous, 354–357 using, 473–476 wait statements, 611–613 240–242 clocked, 412–452 state assignment, 519–544 Serial adder, 629–633, 688–689 computer-aided design code converter design, 549–552 symbolic state complex design using state accumulator with, 629–633 (CAD), 570 representation, 425 graphs and tables, 463–467 VHDL code for, 688–689 sequential circuits, 565–570 table construction, 425–426 complex programmable logic Serial data code conversion, Single switch circuit, 42 transition tables and, 425–432 devices (CPLD) used for, 473–476 Single throw switches, 342 State machine (SM) charts,"
+    ],
+    "pages": [
+      "453–496, 457–463"
+    ],
+    "title": [
+      "375–384, 594–596 adding redundant terms, 73 read-only memory (ROM) alphanumeric graph notation, counters as, 383–384 Boolean algebra for, 46–52, used for, 556–557 476–478 cyclic shift, 594–596 66–68, 70–74 reduction of state tables, complex sequential circuit data transfers, 377–378 combining terms, 72 497–544 design using, 463–467 parallel adder with computer-aided design (CAD) registers, 375–384 construction of transition tables, accumulator using, 378–380 packages for, 184–185 sequence detector design, 425–426 sequential logic modeling, consensus theorem, 70–72 457–463 derivation of, 453–496 594–596 eliminating literals, 73 simulation and testing of, equivalent sequential circuits, serial in and out data, 381–382 eliminating terms, 73 565–570 512–514 shift, 380–384 heuristic procedures for, state assignment, 497–544 equivalent states in, 507–512 VHDL processes for, 594–596 184–185 state graphs and tables, flip-flop input equations for, Relational operators, incompletely specified 453–496 517–519 VHDL, 315 functions, 181–182 graph construction, 467–472 transition tables, 425–432 Relays, 8 Karnaugh maps, 123–166 incompletely specified, 478–479, Sequential logic modeling, Resolution functions, 319 map-entered variables, 182–184 514–516 585–625 Ring counter, 383–384 minimum product-of-sums, Mealy state graphs, 428–430 begin and end keywords, case statement, 600–601 minimum sum-of-products, next-state maps and, 517–519, code synthesis, 608–611 134–135, 144–149, 167–192 523–528 counters, 596–599 multiplying out and factoring, parity checker design using, Schematic capture, CAD, 570 flip-flops, 590–593 49–52, 66–68 420–421 Self-starting counter, 392–393 reduction of, 497–544 if statements, 590–592 Petrick’s method, 179–181 Sensitivity list, 590–593 redundant state elimination, Mealy state machine, 601–607 Quine-McCluskey method, Sequence detectors, 457–463 505–507 Moore state machine, 607–608 167–192 Sequential circuits, 7–8, 336–369, sequence detector design using, process keyword, 590–591 SimUaid"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "571 370–411, 412–452"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "products",
+        "given": "Sum",
+        "particle": "of"
+      }
+    ],
+    "note": [
+      "Synchronizer, 569–570 Unwanted latches (VHDL), 609 flip-flops modeled using, 144–149, 273–278 Synthesis tools, CAD, 571 590–593 combinational circuit hazards found using, 237–238 hardware language uses, 8, 281, V 298–288 direct realization of, 51 T Valid equations, proof of, 74–76 IEEE standard logic and, Karnaugh maps for, 134–135, T flip-flops, 351–352"
+    ],
+    "pages": [
+      "387–388 684–712",
+      "98–100, 134–135,"
+    ],
+    "title": [
+      "49–50, Shannon’s theorem for, 284–285 Up-down counter"
+    ],
+    "type": "thesis",
+    "volume": [
+      "51"
+    ]
+  }
+]
