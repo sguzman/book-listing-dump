@@ -1,0 +1,709 @@
+[
+  {
+    "citation-number": [
+      "_map.set(C.getKey(),"
+    ],
+    "director": [
+      {
+        "literal": "C.getValue()); _map.set(A.getKey(), A.getValue()); _map.set(B.getKey(), B.getValue()); _map.set(D.getKey("
+      }
+    ],
+    "note": [
+      "D.getValue()); "
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "public void testGetExisting() { assertEquals(A.getValue(), _map.get(A.getKey())); assertEquals(B.getValue(), _map.get(B.getKey())); assertEquals(C.getValue(), _map.get(C.getKey())); assertEquals(D.getValue(), _map.get(D.getKey())); public void testGetNonExisting() { assertNull(_map.get(E.getKey())); assertNull(_map.get(F.getKey())); public void testSetNewKey() { assertEquals(4, _map.size()); assertNull(_map.set(E.getKey(), E.getValue())); assertEquals(E.getValue(), _map.get(E.getKey())); assertEquals(5, _map.size()); assertNull(_map.set(F.getKey(), F.getValue())); assertEquals(F.getValue(), _map.get(F.getKey())); assertEquals(6, _map.size()); "
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "assertEquals(B.getValue(), _map.delete(B.getKey())); assertFalse(_map.contains(B.getKey())); assertEquals(3, _map.size()); assertEquals(A.getValue(), _map.delete(A.getKey())); assertFalse(_map.contains(A.getKey())); assertEquals(2, _map.size()); assertEquals(C.getValue(), _map.delete(C.getKey())); assertFalse(_map.contains(C.getKey())); assertEquals(1, _map.size());"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "_map.set(C.getKey(),"
+    ],
+    "director": [
+      {
+        "literal": "C.getValue()); _map.set(A.getKey(), A.getValue()); _map.set(B.getKey(), B.getValue()); _map.set(D.getKey("
+      }
+    ],
+    "note": [
+      "D.getValue()); "
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "public void testGetExisting() { assertEquals(A.getValue(), _map.get(A.getKey())); assertEquals(B.getValue(), _map.get(B.getKey())); assertEquals(C.getValue(), _map.get(C.getKey())); assertEquals(D.getValue(), _map.get(D.getKey())); "
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "assertNull(_map.set(E.getKey(), E.getValue())); assertEquals(E.getValue(), _map.get(E.getKey())); assertEquals(5, _map.size()); assertNull(_map.set(F.getKey(), F.getValue())); assertEquals(F.getValue(), _map.get(F.getKey())); assertEquals(6, _map.size()); "
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "assertEquals(B.getValue(), _map.delete(B.getKey())); assertFalse(_map.contains(B.getKey())); assertEquals(3, _map.size()); assertEquals(A.getValue(), _map.delete(A.getKey())); assertFalse(_map.contains(A.getKey())); assertEquals(2, _map.size());"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import java.io.BufferedReader; import java.io.IOException; import java.io.InputStreamReader"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Thread.sleep(100000);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "java -Xrunjmp com.wrox.algorithms.sorting.OptimizedFileSortingHelper <words.txt >sorted.txt"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "java com.wrox.algorithms.sorting.OptimizedFileSortingHelper <words.txt >sorted.txt"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Java",
+        "given": "Algorithms",
+        "particle": "in"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Third Edition, Parts 1–4: Fundamentals, Data Structures, Sorting, Searching, by Robert Sedgewick"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns, by Erich Gamma et al"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "File Structures, by Michael Folk and Bill Zoellick"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Algorithms",
+        "given": "Introduction",
+        "particle": "to"
+      },
+      {
+        "family": "Edition",
+        "given": "Second"
+      },
+      {
+        "family": "Thomas H. Cormen",
+        "particle": "by"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "The MIT Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tuning",
+        "given": "Java Performance"
+      },
+      {
+        "family": "Edition",
+        "given": "Second"
+      },
+      {
+        "family": "Jack Shirazi. O’Reilly Associates",
+        "particle": "by"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "Manning"
+    ],
+    "title": [
+      "JUnit in Action, by Vincent Massol with Ted Husted"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Test-Driven Development: By Example, by Kent Beck"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Prentice Hall PTR"
+    ],
+    "title": [
+      "Test-Driven Development: A Practical Guide, by David Astels"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1973"
+    ],
+    "note": [
+      "Fundamental Algorithms (Second Edition), by Donald E. Knuth."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Donald E. Knuth. Addison-Wesley",
+        "particle": "by"
+      }
+    ],
+    "container-title": [
+      "The Art of Computer Programming"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "Sorting and Searching (Second"
+    ],
+    "note": [
+      "B Resources Apache Jakarta Commons:"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://jakarta.apache.org/commons"
+    ],
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Astels"
+      }
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "publisher": [
+      "Prentice Hall PTR"
+    ],
+    "title": [
+      "Astels, David. Test-Driven Development: A Practical Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Beck"
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Beck, Kent. Extreme Programming Explained"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Beck"
+      }
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "publisher": [
+      "Addison Wesley Longman"
+    ],
+    "title": [
+      "Beck, Kent. Test-Driven Development: By Example"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Bloch"
+      }
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Bloch, Joshua. Effective Java"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Cormen"
+      },
+      {
+        "family": "Cormen",
+        "given": "Thomas H."
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "The MIT Press"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Crispin"
+      }
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Crispin, Lisa, and Tip House. Testing Extreme Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Fowler"
+      }
+    ],
+    "date": [
+      "1999",
+      "1999"
+    ],
+    "publisher": [
+      "Refactoring. Addison-Wesley"
+    ],
+    "title": [
+      "Fowler, Martin"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Gamma"
+      },
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1995",
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Hunt"
+      }
+    ],
+    "container-title": [
+      "The Pragmatic Programmer"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Hunt, Andy, and Dave Thomas"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Knuth"
+      }
+    ],
+    "container-title": [
+      "The Art of Computer Programming",
+      "Fundamental Algorithms"
+    ],
+    "date": [
+      "1973",
+      "1973"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Knuth, Donald E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Knuth"
+      }
+    ],
+    "container-title": [
+      "The Art of Computer Programming",
+      "Sorting and Searching"
+    ],
+    "date": [
+      "1998",
+      "1998"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Knuth, Donald E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Massol"
+      }
+    ],
+    "container-title": [
+      "JUnit in Action"
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "title": [
+      "Massol, Vincent"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Sanchez"
+      }
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "publisher": [
+      "New Riders Publishing"
+    ],
+    "title": [
+      "Sánchez-Crespo Dalmau, Daniel. Core Techniques and Algorithms in Game Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Sedgewick"
+      }
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "note": [
+      "D Answers to Exercises"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Sedgewick, Robert. Algorithms in Java, Third Edition, Parts 1–4: Fundamentals, Data Structures, Sorting, Searching"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "public final class RecursivePowerCalculator implements PowerCalculator { public static final PowerCalculator INSTANCE = new PowerCalculator("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import java.io.File; public final class RecursiveDirectoryTreePrinter { private static final String SPACES = “ “"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "public final class EmptyIterator implements Iterator { public static final EmptyIterator INSTANCE = new EmptyIterator("
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "import com.wrox.algorithms.iteration.EmptyIterator; import com.wrox.algorithms.iteration.Iterator;"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "import com.wrox.algorithms.lists.LinkedList; import com.wrox.algorithms.lists.List;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Exercise 1 Solution public class ListSorterRandomDoublesTest extends TestCase { private static final int TEST_SIZE = 1000; private final List _randomList = new ArrayList(TEST_SIZE); private final NaturalComparator _comparator = NaturalComparator.INSTANCE"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "protected void setUp() throws Exception { super.setUp();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "assertStableSorted(result); public void testStabilityOfInsertionsort() { ListSorter listSorter = new InsertionSortListSorter(_comparator); List result = listSorter.sort(_list); assertStableSorted(result);"
+    ],
+    "title": [
+      "public void testStabilityOfBubblesort() { ListSorter listSorter = new BubblesortListSorter(_comparator); List result = listSorter.sort(_list"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "private final List _sortedArrayList = new ArrayList(TEST_SIZE); private final List _reverseArrayList = new ArrayList(TEST_SIZE); private final List _randomArrayList = new ArrayList(TEST_SIZE"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "new SelectionSortListSorter(_comparator).sort(list); reportCalls(list);"
+    ],
+    "title": [
+      "public void testWorstCaseSelectionSort() { List list = new CallCountingList(_reverseArrayList"
+    ],
+    "type": "report"
+  },
+  {
+    "note": [
+      "new BubblesortListSorter(_comparator).sort(list); reportCalls(list); public void testBestCaseSelectionSort() { List list = new CallCountingList(_sortedArrayList); new SelectionSortListSorter(_comparator).sort(list); reportCalls(list);"
+    ],
+    "title": [
+      "public void testBestCaseBubblesort() { List list = new CallCountingList(_sortedArrayList"
+    ],
+    "type": "report"
+  },
+  {
+    "note": [
+      "new BubblesortListSorter(_comparator).sort(list); reportCalls(list); public void testAverageCaseSelectionSort() { List list = new CallCountingList(_randomArrayList); new SelectionSortListSorter(_comparator).sort(list); reportCalls(list);"
+    ],
+    "title": [
+      "public void testAverageCaseBubblesort() { List list = new CallCountingList(_randomArrayList"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "quicksort"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Exercise 3 Solution public class AdvancedListSorterCallCountingListTest extends TestCase { private static final int TEST_SIZE = 1000; private final List _sortedArrayList = new ArrayList(TEST_SIZE); private final List _reverseArrayList = new ArrayList(TEST_SIZE); private final List _randomArrayList = new ArrayList(TEST_SIZE"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import com.wrox.algorithms.queues.EmptyQueueException; import com.wrox.algorithms.queues.HeapOrderedListPriorityQueue; import com.wrox.algorithms.sorting.Comparator"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Exercise 2 Solution package com.wrox.algorithms.queues; import com.wrox.algorithms.sorting.Comparator; public class PriorityQueueFifoQueue extends HeapOrderedListPriorityQueue { private static final Comparator COMPARATOR = new QueueItemComparator(); private long _count = Long.MAX_VALUE"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Queue queue = createPriorityQueue(list"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "220–224 Algorithm), 404 Completing the Interface (for Array Lists), 65–66 Creating the Test Class (for Brute-force Completing the Interface (for Linked Lists), Algorithm), 401 73–74 Creating the Test Class (for Linked Lists), 66–67 Computing the Last Occurrence Table (for Boyer- Creating the Test Class (for String Searcher Moore Algorithm), 405–406 Interface), 397–399 Creating a Default Entry Implementation (for Creating the Tests (for Hash Table), 273–275, Maps), 320–322 286–291 Creating a Generic Hash Table Interface, Creating the Tests (for List Inserter), 217–219 272–273 Creating the Tests (for List Searcher), 204–205",
+      "for Lists), 46–47 Implementing and Running Performance Tests Creating a Generic Test Class (for Stacks), 100 (for Binary Search Trees), 261–263 Creating a StringMatchIterator Class, Implementing BubblesortListSorter, 408–409 127–128 Creating an AbstractPriorityQueue Test Implementing dequeue(), 85 Case, 179–182 Implementing InsertionSortListSorter, Creating an Element Class (for Linked Lists), 136–138 68–69 implementing mergesort, 167–168 Creating an Interator (for Linked Lists), 72–73 Implementing quicksort, 155–157 Creating and Running the Test Class (for Undo/ Implementing Slope, 448–449 Redo), 106–109 Implementing the Algorithm (Brute-force),"
+    ],
+    "title": [
+      "tree maps, testing and implementing, 309–315, Creating the ClosestpairFinder Interface, 337–343 464 trees. See directory tree Creating the Crossword Helper Application, TreeSetTest class 370–374 creating, 309 Creating the CustomerServiceAgent Class, description of, 314 89–90 triangles, role in computational geometry, Creating the Interface (for String Searcher), 439–440 396–397 Try It Out Creating the LinkedList Class, 67–68 A Class for Counting Character Lookups, Creating the List Interface, 45–46 410–411 Creating the List Searcher Interface, 202–203 A Class That Searches a File, 411–413 Creating the Test Class (for Array Lists), 59–60 Comparing the Binary Inserter with Other Sorting Creating the Test Class (for Boyer-Moore Algorithms",
+      "Creating a Generic Map interface, 320 Implementing a Binary Search Tree, 256–260 Creating a Generic Set Interface, 297 Implementing a B-Tree map, 382–392 Creating a Generic Suite of Map Tests, Implementing a Node Class, 244–251 322–329 Implementing a Ternary Search Tree, 362–370 Creating a Generic Suite of Set Tests, 297–303 Implementing an ArrayList, 480–483 Creating a Generic Test Class"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "given": "Lists"
+      }
+    ],
+    "note": [
+      "in Array Lists), Values (in Lists), 50–52 63–64 Testing SelectionSortListSorter, 132 Methods for Finding Values (in Linked Lists), Testing the Array Iterator, 22–23 71–72 Testing the Distance Calculator, 429–431 Methods for Inserting and Adding Values (in Array Testing the FIFO Queue, 78–80 Lists), 61–62,",
+      "in Testing the peek() Method (on Stacks), Linked Lists), 70–71 101–102 Optimizing the FileSortingHelper, 483–487 Testing the Plane Sweep Algorithm, 461–464 Performing a Bubble Sort, 122–124 Testing the Predicate Class, 29–32 Performing the Search (with Boyer-Moore Testing the quicksort Algorithm, 155 Algorithm), 406–407 Testing the Reverse Comparator, 120–121 Popping a Value from the Stack, 104–105 Testing the Reverse Iterator, 26–27 Testing a Binary Search Tree, 251–256 Testing the Slope of a Line, 446–448 Testing a Node Class (for a Binary Search Tree), Testing the Soundex Encoder, 419–423 239–244 Testing the xy point comparator, 459–460 Testing a Shellsort, 148–149 Testing What Happens When a List Is Cleared, Testing a Ternary Search Tree, 358–362 58 Testing AbstractSorterTest, 125–126 Using the BlockingQueue, 83–84"
+    ],
+    "pages": [
+      "47–50"
+    ],
+    "title": [
+      "Try It Out (continued) Try It Out (continued) Testing and Implementing a Hash Map, Implementing the Distance Calculator, 431–435 333–337 Implementing the FileSortingHelper Class, Testing and Implementing a Hash Table That 473–475 Uses Bucketing, 281–285 Implementing the Inserter, 219–220 Testing and Implementing a Hash Table That Implementing the Line Class, 454–457 Uses Linear Probing, 275–280 Implementing the ListStack Class, 103–104 Testing and Implementing a Heap-ordered Priority implementing the Natural Comparator, 119 Queue, 191–194 Implementing the Plane Sweep Algorithm, Testing and Implementing a List Map, 330–333 464–467 Testing and Implementing the Linear Searcher, Implementing the Predicate Class, 33–35 211–212 Implementing the Reverse Comparator, 121 Testing and Implementing the Point Class, Implementing the Reverse Iterator, 28 444–446 Implementing the size() and isEmpty() Testing B-Trees, 381–382 Methods, 86 Testing BubbleSortListSorter, 126–127 Implementing the Soundex Encoder, 423–425 Testing Calculations, 16–18 Implementing the Tests (for List Searcher), Testing CompoundComparator, 158–159 214–215 Testing InsertionSortListSorter, 136 Implementing the Undo Action with the Testing Iteration (in Lists), 55–57 UndoableList Class, 109–113 Testing Methods for Deleting Values (in Lists), Implementing the XYPointComparator, 52–55 460–461 Testing Methods for Finding Values (in Lists), Methods for Deleting Values (from Array Lists), 57–58 64–65 Testing Methods for Inserting and Adding Values Methods for Deleting Values (from Linked Lists",
+      "72 Testing Methods for Retrieving and Storing Methods for Finding Values",
+      "69–70 Testing the Line Class, 449–454 Methods for Storing and Retrieving Values by Testing the mergesort Algorithm, 166–168 Position, 62–63 Testing the Natural Comparator, 118–119 Methods for Storing and Retrieving Values"
+    ],
+    "type": null
+  }
+]
