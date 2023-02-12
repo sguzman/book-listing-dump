@@ -1,0 +1,271 @@
+[
+  {
+    "author": [
+      {
+        "family": "Life”",
+        "given": "L.”Wonderful"
+      },
+      {
+        "family": "Gould”",
+        "given": "L.”Stephen Jay"
+      },
+      {
+        "family": "Mind”",
+        "given": "L.”The Emperor’s New"
+      },
+      {
+        "family": "Penrose”",
+        "given": "L.”Roger"
+      },
+      {
+        "family": "Hofstadter”",
+        "given": "L.”Douglas R."
+      },
+      {
+        "family": "Orange”",
+        "given": "L.”The Walpole"
+      },
+      {
+        "family": "Muir”",
+        "given": "L.”Frank"
+      }
+    ],
+    "container-title": [
+      "L”Philip Pullman”, L”Scholastic Children’s Books”}"
+    ],
+    "issue": [
+      "ard P. Feynman”, L”Addison-Wesley”}; array<String^>^ book5 = {L”0-593-03449-X”"
+    ],
+    "note": [
+      "L”Pyramids”, L”Terry Pratchett”, L”Corgi Books”}; array<String^>^ book8 = {L”0-7493-9739-X”, L”Made In America”, L”Bill Bryson”, L”Minerva”};"
+    ],
+    "pages": [
+      "0–552–13461–9 ,"
+    ],
+    "title": [
+      "L”Hutchinson Radius”}; array<String^>^ book2 = {L”0-09-977170-5”",
+      "L”Vintage”}; array<String^>^ book3 = {L”0-14-017996-8”,L”Metamagical Themas”",
+      "L”Penguin”}; array<String^>^ book4 = {L”0-201-36080-2”, L”The Meaning Of It All”",
+      "L”Bantam Press”}; array<String^>^ book6 = {L”0-439-99358-X”, L”The Amber Spyglass”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "array<String^>^ book1 = {L”0-09-174271-4",
+      "array<String^>^ book7 ="
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Life”",
+        "given": "L.”Wonderful"
+      },
+      {
+        "family": "Gould”",
+        "given": "L.”Stephen Jay"
+      }
+    ],
+    "genre": [
+      "L”0-09-174271-4”,"
+    ],
+    "issue": [
+      "emas”, “Douglas R. Hofstadter”, L”Penguin”}; array<Object^>^ book4 ="
+    ],
+    "note": [
+      "L”0-09-977170-5”, L”The Emperor’s New Mind”, L”Roger Penrose”, L”Vintage”}; array<Object^>^ book3 = {gcnew DateTime(1993,1,15), L”0-14-017996-8”,",
+      "gcnew DateTime(1994,2,7), L”0-201-36080-2”, L”The Meaning Of It All”, L”Richard P. Feynman”, L”Addison-Wesley”}; array<Object^>^ book5 = {gcnew DateTime(1995,11,6), L”0-593-03449-X”, L”The Walpole Orange”, “Frank Muir”, L”Bantam Press”}; array<Object^>^ book6 = {gcnew DateTime(2004,7,16), L”0-439-99358-X”, L”The Amber Spyglass”, L”Philip Pullman”, L”Scholastic Children’s Books”}; array<Object^>^ book7 = {gcnew DateTime(2002,9,18), L”0-552-13461-9”, L”Pyramids”, L”Terry Pratchett”, L”Corgi Books”}; array<Object^>^ book8 = {gcnew DateTime(1998,2,27), L”0-7493-9739-X”, L”Made In America”, L”Bill Bryson”, L”Minerva”};"
+    ],
+    "title": [
+      "Setting Up the Data The first step is to create the data to be displayed. Add the following code to the Form1 constructor, after the call to InitializeComponent(): // Create book data, one book per array array<Object^>^ book1 = {gcnew DateTime(1999,11,5",
+      "L”Hutchinson Radius”}; array<Object^>^ book2 = {gcnew DateTime(2001,10,25"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "container-title": [
+      "L”ISBN”"
+    ],
+    "issue": [
+      "or”, L”Publisher”}"
+    ],
+    "title": [
+      "array<String^>^ headers = {L”Date”"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "pages": [
+      "– –"
+    ],
+    "title": [
+      "for each(array<Object^>^ book in books"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "dataGridView->DefaultCellStyle->BackColor = Color::Pink"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "dataGridView->DefaultCellStyle->ForeColor = Color::DarkBlue"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "headerStyle->Font = gcnew System::Drawing::Font(“Times New Roman”, 12, FontStyle::Bold); The header text is now in 12-point bold characters in the Times New Roman font"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "You can also set the background and foreground colors for the header cells: headerStyle->BackColor = Color::AliceBlue; headerStyle->ForeColor = Color::BurlyWood"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "> (greater than) abstract classes, inheritance, 505–508 operator overloading, 415–417 access control"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "defining",
+        "given": "example"
+      }
+    ],
+    "note": [
+      "CDBException, 930–931 arrays of, 363–364 CDC, 712–720 declaring, 336–337 CEditView, 660 definition, 335 CElement, 736–737 pointers to, 368–371 CFieldExchange, 930–931 protecting, 360–361 CFormView, 660 references to, 371–372 CFrameWnd, 642 class templates CHtmlEditView, 660 creating objects from, 431–433 CHtmlView, 660 defining, 428–431 CLine, 737–741 definition, 427 CList template, 774–775. See also curves, drawing. instantiating, 427–428 arguments, 773–774 with multiple parameters, 434–436 CCurve class, 775–779 template member functions, 430–431 description, 763–768"
+    ],
+    "title": [
+      "447–448 combining objects, 439–441 definition, 343 comparing objects, 438–439 derived classes, 482–486 defining initialization lists, 350 the constructor, 447–448 no-arg, 345–347 data members, 446–447 reference class, 549–551 function members, 448–453 class destructors global functions, 453–455 calling the wrong one, 511–516 source code, 437–438 default, 400 using, 455–458 definition, 399–400 CCircle, 744–746 dynamic memory allocation, 402–405 CCurve example, 400–402 defining, 775–777 virtual, 511–516 drawing curves, 746 class interface, 436 exercising, 778–779 class libraries, creating, 532–535 implementing, 777––778 class objects. See also class constructors; class CDatabase, 930–931, 983–984 destructors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "CListView"
+      }
+    ],
+    "container-title": [
+      "Class View"
+    ],
+    "note": [
+      "CMyApp, 653–654 :: (colons), scope resolution operator, 341–342 CMyDoc, 653–654 abstract, 505–508 CMyView, 653–654 access control, 336, 479–482, 489–490 CMyWnd, 653–654 application, 653 copying, 356–358 base CPrintInfo, 886 accessing private members, 480–482 CRecordset, 930–931 definition, 475–476 CRecordView, 930–931 deriving classes from, 476–479 CRectangle, 742–743 direct, 475–476 CRichEditView, 660 indirect, 475–476, 508–511 CScrollView, 660 pointers to, 501–503 CString, 858–859 CArray template, 761–763 CText, 861–862 CBox CTreeView, 660 analyzing objects, 441–445 CTypedPtrList, 771 class implementation, 444 CView, 660"
+    ],
+    "pages": [
+      "17"
+    ],
+    "title": [
+      "660 classes. See also CBox class; class constructors; class CMap template, 768–771 destructors; collection classes; inheritance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "note": [
+      "arrays, 761–763 && (ampersands), logical AND, 125 CArray template class, 761–763 ! (exclamation mark), logical NOT,",
+      "nesting, 122–124 BackColor property, 1099–1100 logical operators, 124–127 background, cells, 1099–1100 loops drawing in, 717–721 for, 133–139 ForeColor property, 1099–1100 continue statement, 139–140 foreground, cells, 1099–1100 definition, 132–133 pen, 747–748 do-while, 146–147 selected cells, 1099–1100 for each, 153–156 SelectionBackColor property, 1099–1100 floating-point counters, 143 SelectionForeColor property, 1099–1100 infinite, 137–139 column types, 1095–1099 multiple counters, 136–137"
+    ],
+    "title": [
+      "126 CList template class, 763–768 || (vertical bars), logical OR, 125–126 CMap template class, 768–771 case labels, 130 helper functions, 761–763 C++/CLI, 150–156 lists, 763–768 conditional operator, 127–129 colons (::), scope resolution operator if statement classes, 341–342 description, 117–118 definition, 26 extended, 120–122 example, 93–94 nesting, 118–120 color if-else statement"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "140–143"
+    ],
+    "title": [
+      "ColumnIndex property, 1109 nesting, 147–150 columns, database tables non-integer counters"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "m_strSort() function, 948 AddNew() function, 980–982 overview, 922–924 BeginTrans() function, 983–984 primary keys, 923 canceling updates, 980–982, 997–998 RDBMS (relational database management systems), CancelUpdate() function, 980–982 923 CDatabase class, 983–984 records, 922 CommitTrans() function, 983–984 recordsets completing an update, 980–982 description, 937–941 controls dynaset, 935–936 button label, changing, 992–993 snapshot, 935–936 Cancel button, visibility, 993–994 sorting, 948–950 canceling the update, 997–998 Debug configuration Index description, 990–991 customizing edit controls, enabling/disabling, 991–992 Alignment property, 1100 expediting the update, 996–997 AlternatingRowsDefaultCellStyle property, Record menu, disabling, 994–996 1101"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "1099–1100"
+    ],
+    "title": [
+      "CRecordset operations, 980–982 BackColor property, 1099–1100 Delete() function, 980–982 DataGridViewCellStyle object"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "dynamic memory allocation (continued) dynamic memory allocation (continued) elements, of arrays, 160 C++/CLI Ellipse() function, 745–746 jagged arrays, 213–216 Enable() method, 698 multidimensional arrays, 209–213 encapsulation, 335 searching one-dimensional arrays, 206–209 EndsWith() function, 222–225 sorting one-dimensional arrays, 205–206 enumeration, 60–62 string handling, 216–225 enumeration constants,",
+      "Windows programs, 617 declaring, 197–198 events definition, 197 creating, 545–546 initializing, 197–198 definition, 536 dynamic_cast operator, 516 handling, 547–548 dynaset recordsets, 935–936 Windows applications, 7 exceptions. See also error handling. catch blocks, 281–282 catching E C++/CLI, 308–309 early binding, 904–906 example, 280–281 edit boxes C++/CLI, 308–309 creating, 856–857 definition, 279–280 CString class, 858–859 in the MFC, 283 CText class, 861–862 throwing definition, 819 C++/CLI, 308–309 dialog classes, creating, 858–859 description, 281 drawing CText objects, 862 example, 280–281 illustration, 819 try blocks, 281–283 moving CText objects, 862 exclamation mark, equal sign (!=), relational operator, text elements, creating, 863–865 115–116 text elements, defining, 860–862 exclamation mark (!), logical NOT, 126 Text menu item, 859–860 .exe file extension, 19 Edit() function, 980–982 executing programs, IDE, 20–21 editing explicit casts, 80–81 columns, 1096–1098 exporting database records, 980–982 classes from extension DLLs, 912–913 editor, IDE, 9 symbols from DLLs, 917–920 Editor tab, 10 variables and functions from DLLs, 916–917 element classes, 732–736, 877–879"
+    ],
+    "pages": [
+      "109–111"
+    ],
+    "title": [
+      "tracking handles, 199–200 equal sign (=), assignment operator, overloading, class destructors, 402–405 418–422 delete operator, 193 equal signs (==), relational operator, 115–116 free store error handling, 23–24. See also exceptions. definition, 192–193 escape sequences, 65–67 example, 194–196 event handlers freeing, 193 dialog button, 1058–1060 handling allocation errors, 284–285 menu items, 1049–1056 multidimensional arrays, 196–197 Reset menu, 1067–1068 new operator, 193, 284–285 event-driven one-dimensional arrays, 194–196 applications, 7 references. See also pointers; tracking references"
+    ],
+    "type": null,
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "note": [
+      "double quotes), special character indicator, 65 definition, 499",
+      "creating, 532–535 special characters, 65–67 delegates streams, 48 calling, 540–541 Insert() function, 1094 creating, 537–541 InsertAfter() function, 765–766, 773 declaring, 537 InsertBefore() function, 765–766, 773 definition, 536 InsertCopy() function, 1094 unbound, 541–545 instance handles, 622 derived reference classes, 524–526 instances derived value classes, 520–524 counting, 366–367 events definition, 335 creating, 545–546 overview, 332–334 definition, 536 instantiation, 335 handling, 547–548 int data type, 54 finalizers, 549–551 integer type modifiers, 56–57 generic classes integer variables, 54–55 collection classes, 555–561 Integrated Development Environment (IDE). See IDE defining, 551–552 (Integrated Development Environment). Dictionary<TKey, TValue>, generic dictionary, interface,"
+    ],
+    "pages": [
+      "104–108",
+      "913"
+    ],
+    "title": [
+      "inheritance (continued) inheritance (continued) input/output operations virtual destructors, 511–516 >> (angle brackets), extraction operator, 62–63 virtual functions “",
+      "description, 497–501 command line output, 63–64, 104 pure, 505 escape sequences, 65–67 references with, 503–504 formatting output, 64–65, 104–107 inheritance, C++/CLI keyboard input, 62–63, 107–108, 152–153 access specifiers, 531–532 manipulators, 64–65 class libraries"
+    ],
+    "type": null,
+    "volume": [
+      "C++/CLI",
+      "DLL, 906"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "button",
+        "given": "Cancel"
+      },
+      {
+        "given": "visibility"
+      }
+    ],
+    "note": [
+      "disabling, 994–996 adding orders, 1023–1028 update region, 731 dialog switching, 1010–1014"
+    ],
+    "title": [
+      "993–994 record locking, 982 canceling the update, 997–998 Rollback() function, 983–984 description, 990–991 rolling back an update, 982–984 edit controls, enabling/disabling, 991–992 starting an update, 988–990 expediting the update, 996–997 tables, adding rows to Record menu"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "disabling, 994–996 CancelUpdate() function, 980–982 validating operations, 981 CDatabase class, 983–984 Use Unicode libraries option, 657–658 CommitTrans() function, 983–984 user interface. See GUI (Graphical User Interface). completing an update, 980–982 using directives, 46, 96, 1033–1034 controls button label, changing, 992–993 Cancel button, visibility, 993–994 canceling the update, 997–998 V description, 990–991 validating edit controls, enabling/disabling, 991–992 database update operations, 981 expediting the update, 996–997 input, dialog boxes, 1063–1066 Record menu, disabling, 994–996 value classes CRecordset operations, 980–982 defining, 373–378 Delete() function, 980–982 derived classes, C++/CLI, 520–526 deleting records, 980–982 deriving, 520–526 Edit() function, 980–982 overloading, 461–466 Value property, 1109"
+    ],
+    "title": [
+      "UpdateAllViews() function, 785–787 order data, storing, 1019–1021 UPDATE_COMMAND_UI messages, 689 order entry process, 1000–1001 updating databases order IDs, creating, 1014–1019 adding records, 980–982 overview, 999–1000 adding rows to tables recordsets, creating, 1002 adding orders, 1023–1028 recordsets views, creating, 1002–1006 dialog switching, 1010–1014 resources, adding controls, 1006–1010 order data, storing, 1019–1021 resources, creating, 1001 order entry process, 1000–1001 selecting products, 1021–1023 order IDs, creating, 1014–1019 setting dates, 1020–1021 overview, 999–1000 transactions, 982–984 recordsets, creating, 1002 Update() function, 980–982 recordsets views, creating, 1002–1006 update mode resources, adding controls, 1006–1010 button label, changing, 992–993 resources, creating, 1001 Cancel button, visibility, 993–994 selecting products, 1021–1023 canceling the update, 997–998 setting dates, 1020–1021 description, 990–991 AddNew() function, 980–982 edit controls, enabling/disabling, 991–992 BeginTrans() function, 983–984 expediting the update, 996–997 canceling updates, 980–982, 997–998 Record menu"
+    ],
+    "type": null
+  }
+]
