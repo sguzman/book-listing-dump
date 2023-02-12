@@ -1,0 +1,149 @@
+[
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.813-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "note": [
+      "system.stream.out|_ThreadID=12;| LoanRatesBean.getHomeEquityRate() called|#"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.823-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "note": [
+      "system.stream.out|_ThreadID=12;| From ManagedConnectionFactoryImpl.matchManagedConnections() -> Connection matched|#"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.823-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "title": [
+      "system.stream.out|_ThreadID=12;| InteractionImpl.execute(InteractionSpec iSpec, Record in) called|#"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.823-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "title": [
+      "system.stream.out|_ThreadID=12;| InteractionImpl.exec(MappedRecord in, MappedRecord out) called|#"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.823-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "note": [
+      "system.stream.out|_ThreadID=12;| JavaLoanApp Constructor called|#"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.833-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "note": [
+      "system.stream.out|_ThreadID=12;| JNI Call Returned: 5.64|#"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "#|2004-08-09T15:03:29.833-0400|INFO|sun-appserver-pe8.0.0_01|javax.enterprise."
+    ],
+    "title": [
+      "system.stream.out|_ThreadID=12;| ManagedConnectionImpl.sendEvent(int, e, connHandle) called|#"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Harrison"
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Ambler & and and best practices for the Rational Unified"
+    ],
+    "title": [
+      "Organizational Patterns for Teams, The paper describes a collection of patterns Neil B",
+      "Pattern for building a software development team, Languages of Program Design 2, including Unity of Purpose, Diversity of pages 345—352, Addison-Wesley Membership, and Lock ‘Em Up Together. Publishing Company The Unified Process Inception This book describes a collection of activities Phase, Scott W"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Constantine",
+        "given": "Larry L."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Process (RUP) Inception phase, including CMP Books, www.ambysoft.com advice for building your project team"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Table C.15 The <ejb-local-ref> Element"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "persistence (continued) reflective invocation, 287–288 defined, 37,",
+      "deployment descriptor, 729–732 pessimistic concurrency control (transactions), 339 directionality, 428–433 phantom problem, 336–337 EJB Query Language (EJB-QL), 436–437 Plain Old Java Object (POJO), 272 lazy loading, 433–435 platform independence of Web services, 109–110 local interfaces, 433 platform selection, 594–598 many-to-many (M:N), 411, 421–428 platforms one-to-many"
+    ],
+    "pages": [
+      "122–123",
+      "416–420"
+    ],
+    "title": [
+      "80 relationships migration, 449 aggregation, 434–436 object-relational mapping, 120–122, 454–460 BMP entity beans, 410, 452 pluggable persistence providers, 611–612 cardinality, 411 rapid application development, 449 circular, 438–439 schema independence, 448–449 CMP entity beans, 410, 452 session beans, 446–449 composition, 434–436 persistent data components"
+    ],
+    "type": null,
+    "volume": [
+      "1:N), 411"
+    ]
+  },
+  {
+    "pages": [
+      "274"
+    ],
+    "title": [
+      "unit testing, 279–282 Wafer project"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Description",
+        "given": "Universal"
+      }
+    ],
+    "note": [
+      "UDDI), 104 workflow engines (EJB servers), 619–620 unrepeatable reads, 336–337 write locks, 333 unsetEntityContext() method, 147, 195, 783 WSDL (Web Service Description Language), 8–9,"
+    ],
+    "pages": [
+      "504–506"
+    ],
+    "title": [
+      "Discovery, and Integration work management contract"
+    ],
+    "type": null,
+    "volume": [
+      "485"
+    ]
+  }
+]
