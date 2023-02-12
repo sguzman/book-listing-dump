@@ -1,0 +1,283 @@
+[
+  {
+    "citation-number": [
+      "16-10.1"
+    ],
+    "note": [
+      "Both reg ulators have current limit, safe area, and thermal shutdown protection. They should b heat-sinked as directed in Section 16-10.2."
+    ],
+    "title": [
+      "High-Current::t 15-V Regulator Figure 16-12(a) presents a bipolar ::tIS V supply that can furnish 1 A from either (+) o (-) terminal. The LM340K-lS is a +lS-V regulator with load current capability up t I.S A. To use it as a stand-alone + IS-V supply, (1) remove the diodes, R 2, eN, and th LM320-1S; and (2) replace RI with a short circuit. The LM320K-IS is a -IS-V regulator with current capability up to I.S A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16-15."
+    ],
+    "container-title": [
+      "INC., Analog-Digital Conversion Handbook (1972), Analog-Digital Conversion Notes (1977), Non-linear Circuits Handbook (1979), Data Converter Reference Manual"
+    ],
+    "date": [
+      "7.2 to 19.7 V 16-21"
+    ],
+    "issue": [
+      "b"
+    ],
+    "pages": [
+      "16–19"
+    ],
+    "title": [
+      "R2 = 1032 n ANALOG DEVICES"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "V",
+      "n"
+    ]
+  },
+  {
+    "container-title": [
+      "Applications Reference Manual"
+    ],
+    "date": [
+      "1992",
+      "1993",
+      "1992"
+    ],
+    "note": [
+      "Special Reference Manual"
+    ],
+    "title": [
+      "Amplifier Reference Manual (1992"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "ELECfRONICS",
+        "given": "B.L.H."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Waltham, Mass"
+    ],
+    "publisher": [
+      "BLH"
+    ],
+    "title": [
+      "Strain Gages, SR4"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "INTERNATIONAL",
+        "given": "B.U.R.R.-B.R.O.W.N."
+      },
+      {
+        "family": "Book",
+        "given": "Product Data"
+      },
+      {
+        "family": "Tucson",
+        "given": "Ariz"
+      },
+      {
+        "family": "COUGHLIN",
+        "given": "R.O.B.E.R.T.E."
+      },
+      {
+        "family": "VILLANUCCI",
+        "given": "R.O.B.E.R.T.E."
+      }
+    ],
+    "date": [
+      "1994",
+      "1994",
+      "1990"
+    ],
+    "location": [
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "Prentice-Hall, Inc"
+    ],
+    "title": [
+      "Applications Handbook",
+      "Introductory Operational Amplifiers and Linear ICs, Theory, and Experimentation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "DRISCOLL, FREDERICK E, 6800168000 Microprocessors, Breton Publishers, Boston"
+      },
+      {
+        "family": "DRISCOLL",
+        "given": "F.R.E.D.E.R.I.C.K.E."
+      },
+      {
+        "family": "COUGHLIN",
+        "given": "R.O.B.E.R.T.E."
+      },
+      {
+        "family": "Devices",
+        "given": "Solid State"
+      },
+      {
+        "family": "Applications",
+        "given": "Prentice-Hall"
+      },
+      {
+        "family": "Inc.",
+        "given": "Englewood Cliffs"
+      },
+      {
+        "given": "N.J."
+      },
+      {
+        "family": "DRISCOLL",
+        "given": "E."
+      },
+      {
+        "family": "COUGHLIN",
+        "given": "R."
+      },
+      {
+        "family": "VILLANUCCI",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Data Acquisition and Process Control with the M68HCI I Microcontroller"
+    ],
+    "date": [
+      "1987",
+      "1975",
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "INSTRUMENT",
+        "given": "F.A.I.R.C.H.I.L.D."
+      },
+      {
+        "family": "CORPORATION",
+        "given": "C.A.M.E.R.A."
+      },
+      {
+        "family": "Products",
+        "given": "Linear Division"
+      },
+      {
+        "family": "Fairchild",
+        "given": "Mountain View"
+      },
+      {
+        "family": "FREDERIKSEN",
+        "given": "Calif"
+      },
+      {
+        "family": "M.",
+        "given": "T.H.O.M.A.S."
+      },
+      {
+        "family": "Amps",
+        "given": "Intuitive I.C.Op"
+      }
+    ],
+    "collection-title": [
+      "National Semiconductor Technology Series"
+    ],
+    "date": [
+      "1982",
+      "1974",
+      "1984"
+    ],
+    "location": [
+      "Santa Clara, Calif"
+    ],
+    "publisher": [
+      "National Semiconductor Corporation"
+    ],
+    "title": [
+      "Voltage Regulator Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CORPORATION",
+        "given": "S.I.G.N.E.T.I.C.S."
+      },
+      {
+        "family": "Manual",
+        "given": "Data"
+      },
+      {
+        "family": "Signetics",
+        "given": "Sunnyvale"
+      },
+      {
+        "given": "Calif"
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SMITH",
+        "given": "J.I."
+      },
+      {
+        "family": "VILLANUCCI",
+        "given": "R."
+      },
+      {
+        "family": "AL",
+        "given": "E.T."
+      }
+    ],
+    "date": [
+      "1971",
+      "1997"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "location": [
+      "New York",
+      "Englewood Cliffs, N.J"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc",
+      "Prentice Hall, Inc"
+    ],
+    "title": [
+      "Modern Operational Circuit Design",
+      "Electronics Techniques: Shop Practices and Construction"
+    ],
+    "type": "book"
+  }
+]
