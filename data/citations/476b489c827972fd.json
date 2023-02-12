@@ -1,0 +1,3233 @@
+[
+  {
+    "date": [
+      "1981"
+    ],
+    "editor": [
+      {
+        "family": "Postel",
+        "given": "J."
+      }
+    ],
+    "title": [
+      "z RFC 791, Internet Protocol"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "J. Mogul and J"
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "z RFC 950, Internet Standard Subnetting Procedure"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Deering",
+        "given": "S."
+      },
+      {
+        "family": "Hinden",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "z RFC 2460, Internet Protocol, Version 6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hinden",
+        "given": "R."
+      },
+      {
+        "family": "Deering",
+        "given": "S."
+      },
+      {
+        "family": "Gilligan",
+        "given": "R."
+      },
+      {
+        "family": "Thomson",
+        "given": "S."
+      },
+      {
+        "family": "Bound",
+        "given": "J."
+      },
+      {
+        "family": "McCann",
+        "given": "J."
+      },
+      {
+        "family": "Stevens",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2006",
+      "2003"
+    ],
+    "note": [
+      "z RFC 3542, Advanced Sockets API for IPv6. W. Stevens, M. Thomas, E. Nordmark, and T. Jinmei, 2003."
+    ],
+    "title": [
+      "z RFC 4291, IP Version 6 Addressing Architecture",
+      "z RFC 3493, Basic Socket Interface Extensions for IPv6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC",
+        "particle": "z"
+      }
+    ],
+    "date": [
+      "1323",
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Jacobson",
+        "given": "V."
+      },
+      {
+        "family": "Braden",
+        "given": "R."
+      },
+      {
+        "family": "Borman",
+        "given": "D."
+      }
+    ],
+    "title": [
+      "TCP Extensions for High Performance"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "z RFC 2018, TCP Selective Acknowledgment Options. M. Mathis, J. Mahdavi, S. Floyd, and A. Romanow"
+      },
+      {
+        "family": "Allman",
+        "given": "M."
+      },
+      {
+        "family": "Paxson",
+        "given": "V."
+      },
+      {
+        "family": "Stevens",
+        "given": "W."
+      },
+      {
+        "family": "Handley",
+        "given": "T.C.P.Congestion Window Validation M."
+      },
+      {
+        "family": "Padhye",
+        "given": "J."
+      },
+      {
+        "family": "Floyd",
+        "given": "S."
+      },
+      {
+        "family": "Floyd",
+        "given": "S."
+      },
+      {
+        "family": "Mahdavi",
+        "given": "J."
+      },
+      {
+        "family": "Mathis",
+        "given": "M."
+      },
+      {
+        "family": "Podolsky",
+        "given": "M."
+      },
+      {
+        "family": "Paxson",
+        "given": "Computing T.C.P.’s Retransmission Timer V."
+      },
+      {
+        "family": "Allman",
+        "given": "M."
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "K."
+      },
+      {
+        "family": "Floyd",
+        "given": "S."
+      },
+      {
+        "family": "Black",
+        "given": "D."
+      },
+      {
+        "family": "Allman",
+        "given": "S.Floyd"
+      },
+      {
+        "family": "Partridge",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "z RFC 2581, TCP Congestion Control"
+    ],
+    "date": [
+      "1996",
+      "1999",
+      "2000",
+      "2000",
+      "2000",
+      "2001",
+      "2002"
+    ],
+    "genre": [
+      "z RFC 2861,",
+      "z RFC 2988,"
+    ],
+    "note": [
+      "z RFC 3168, The Addition of Explicit Congestion Notification (ECN) to IP.",
+      "z RFC 3390, Increasing TCP’s Initial Window. M."
+    ],
+    "title": [
+      "z RFC 2883, An Extension to the Selective Acknowledgement (SACK) Option for TCP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Programming",
+        "given": "Advanced U.N.I.X."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "note": [
+      "System V) programming. It is nowadays available in an updated and extended second edition ([Rochkind, 2004]). The POSIX threading API is thoroughly described in Programming with POSIX Threads ([Butenhof, 1996])."
+    ],
+    "title": [
+      "was a good, brief, and sometimes humorous, introduction to UNIX"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Linux"
+      },
+      {
+        "family": "Unix Philosophy",
+        "particle": "the"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "is a brief introduction to the philosophy of application design on Linux and UNIX systems. Various books provide an introduction to reading and modifying the Linux"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "sources",
+        "particle": "kernel"
+      },
+      {
+        "family": "Linux Kernel Development",
+        "particle": "including"
+      },
+      {
+        "family": "Linux Kernel",
+        "given": "Understanding",
+        "particle": "the"
+      }
+    ],
+    "date": [
+      "2010",
+      "2005"
+    ],
+    "note": [
+      "For writing Linux device drivers, the essential reference is Linux Device Drivers ([Corbet et al., 2005])."
+    ],
+    "title": [
+      "For more general background on UNIX kernels, The Design of the UNIX Operating System ([Bach, 1986]) remains very readable and contains material relevant to Linux. UNIX Internals: The New Frontiers ([Vahalia, 1996]) surveys kernel internals for more modern UNIX implementations"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also"
+    ],
+    "title": [
+      "Operating Systems: Design and Implementation ([Tanenbaum & Woodhull, 2006]) describes operating system implementation using the example of Minix"
+    ],
+    "type": null,
+    "url": [
+      "http://www.minix3.org/.)"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "A.V."
+      },
+      {
+        "family": "Kernighan",
+        "given": "B.W."
+      },
+      {
+        "family": "Weinberger",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The AWK Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Albitz",
+        "given": "P."
+      },
+      {
+        "family": "Liu",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "DNS and BIND"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Anley",
+        "given": "C."
+      },
+      {
+        "family": "Heasman",
+        "given": "J."
+      },
+      {
+        "family": "Lindner",
+        "given": "F."
+      },
+      {
+        "family": "Richarte",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Indianapolis, Indiana"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The Shellcoder’s Handbook: Discovering and Exploiting Security Holes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bach",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Design of the UNIX Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattiprolu",
+        "given": "S."
+      },
+      {
+        "family": "Biederman",
+        "given": "E.W."
+      },
+      {
+        "family": "Hallyn",
+        "given": "S."
+      },
+      {
+        "family": "Lezcano",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "ACM SIGOPS Operating Systems Review"
+    ],
+    "date": [
+      "2008",
+      "2008-07"
+    ],
+    "issue": [
+      "ue 5"
+    ],
+    "pages": [
+      "104–113"
+    ],
+    "title": [
+      "Virtual Servers and Checkpoint/Restart in Mainstream Linux"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.mnis.fr/fr/services/virtualisation/pdf/cr.pdf"
+    ],
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bishop",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Computer Security: Art and Science"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bishop",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Introduction to Computer Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Borisov",
+        "given": "N."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Sastry",
+        "given": "N."
+      },
+      {
+        "family": "Wagner",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 14th USENIX Security Symposium"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Fixing Races for Fun and Profit: How to abuse atime"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.cs.berkeley.edu/~nks/papers/races-usenix05.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bovet",
+        "given": "D.P."
+      },
+      {
+        "family": "Cesati",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Understanding the Linux Kernel"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Butenhof",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "note": [
+      "Further information, as well as source code for the programs in this book, can be found at"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming with POSIX Threads"
+    ],
+    "type": null,
+    "url": [
+      "http://homepage.mac.com/dbutenhof/Threads/Threads.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "H."
+      },
+      {
+        "family": "Wagner",
+        "given": "D."
+      },
+      {
+        "family": "Dean",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 11th USENIX Security Symposium"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Setuid Demystified"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.cs.berkeley.edu/~daw/papers/setuid-usenix02.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Comer",
+        "given": "D.E."
+      }
+    ],
+    "container-title": [
+      "I: Principles, Protocols, and Architecture"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "note": [
+      "Further information about the Internetworking with TCP/IP book series (including source code) can be found at"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Internetworking with TCP/IP Vol"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.cs.purdue.edu/homes/dec/netbooks.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Comer",
+        "given": "D.E."
+      },
+      {
+        "family": "Stevens",
+        "given": "D.L."
+      }
+    ],
+    "container-title": [
+      "II: Design, Implementation, and Internals"
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Internetworking with TCP/IP Vol"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Comer",
+        "given": "D.E."
+      },
+      {
+        "family": "Stevens",
+        "given": "D.L."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Client-Server Programming and Applications, Linux/Posix Sockets Version. Prentice Hall"
+    ],
+    "title": [
+      "Internetworking with TCP/IP"
+    ],
+    "type": "book",
+    "volume": [
+      "III"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corbet",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Linux Weekly News"
+    ],
+    "date": [
+      "2002",
+      "2002-11-05"
+    ],
+    "title": [
+      "The Orlov block allocator"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://lwn.net/Articles/14633/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corbet",
+        "given": "J."
+      },
+      {
+        "family": "Rubini",
+        "given": "A."
+      },
+      {
+        "family": "Kroah-Hartman",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Linux Device Drivers"
+    ],
+    "type": "book",
+    "url": [
+      "http://lwn.net/Kernel/LDD3/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crosby",
+        "given": "S.A."
+      },
+      {
+        "family": "Wallach",
+        "given": "D.S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 12th USENIX Security Symposium"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Denial of Service via Algorithmic Complexity Attacks"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.cs.rice.edu/~scrosby/hash/CrosbyWallach_UsenixSec2003.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deitel",
+        "given": "H.M."
+      },
+      {
+        "family": "Deitel",
+        "given": "P.J."
+      },
+      {
+        "family": "Choffnes",
+        "given": "D.R."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dijkstra",
+        "given": "E.W."
+      }
+    ],
+    "container-title": [
+      "Programming Languages"
+    ],
+    "date": [
+      "1968"
+    ],
+    "editor": [
+      {
+        "family": "F. Genuys",
+        "particle": "ed."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Cooperating Sequential Processes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Drepper",
+        "given": "U."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Futexes Are Tricky"
+    ],
+    "type": null,
+    "url": [
+      "http://people.redhat.com/drepper/futex.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drepper",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "1438"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "B i b l i o g r ap h y",
+      "How to Write Shared Libraries"
+    ],
+    "type": null,
+    "url": [
+      "http://people.redhat.com/drepper/dsohowto.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drepper",
+        "given": "U."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "What Every Programmer Should Know About Memory"
+    ],
+    "type": null,
+    "url": [
+      "http://people.redhat.com/drepper/cpumemory.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drepper",
+        "given": "U."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Defensive Programming for Red Hat Enterprise Linux"
+    ],
+    "type": null,
+    "url": [
+      "http://people.redhat.com/drepper/defprogramming.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Erickson",
+        "given": "J.M."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "publisher": [
+      "No Starch Press"
+    ],
+    "title": [
+      "Hacking: The Art of Exploitation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Floyd",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "ACM Computer Communication Review"
+    ],
+    "date": [
+      "1994",
+      "1994-10"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "10–23"
+    ],
+    "title": [
+      "TCP and Explicit Congestion Notification"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.icir.org/floyd/papers/tcp_ecn.4.pdf"
+    ],
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Franke",
+        "given": "H."
+      },
+      {
+        "family": "Russell",
+        "given": "R."
+      },
+      {
+        "family": "Kirkwood",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Ottawa Linux Symposium 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Fuss, Futexes and Furwocks: Fast Userlevel Locking in Linux"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.kernel.org/doc/ols/2002/ols2002-pages-479-495.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frisch",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Essential System Administration"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gallmeister",
+        "given": "B.O."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "POSIX.4: Programming for the Real World"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gammo",
+        "given": "L."
+      },
+      {
+        "family": "Brecht",
+        "given": "T."
+      },
+      {
+        "family": "Shukla",
+        "given": "A."
+      },
+      {
+        "family": "Pariag",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Ottawa Linux Symposium 2002"
+    ],
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Comparing and Evaluating epoll, select, and poll Event Mechanisms"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.kernel.org/doc/ols/2004/ols2004v1-pages-215-226.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gancarz",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "Linux and the Unix Philosophy"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "S."
+      },
+      {
+        "family": "Spafford",
+        "given": "G."
+      },
+      {
+        "family": "Schwartz",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "O’Reilly, Sebastopol, California"
+    ],
+    "title": [
+      "Practical Unix and Internet Security"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gont",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Security Assessment of the Internet Protocol. UK Centre for the Protection of the National Infrastructure"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cpni.gov.uk/Docs/InternetProtocol.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gont",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Security Assessment of the Transmission Control Protocol (TCP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Note",
+        "given": "C.P.N.I.Technical"
+      }
+    ],
+    "date": [
+      "3/2009"
+    ],
+    "title": [
+      "UK Centre for the Protection of the National Infrastructure"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cpni.gov.uk/Docs/tn-03-09-security-assessment-TCP.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gont",
+        "given": "F."
+      },
+      {
+        "family": "Yourtchenko",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Internet draft"
+    ],
+    "date": [
+      "2009",
+      "2009-05-20"
+    ],
+    "title": [
+      "On the implementation of TCP urgent data"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.gont.com.ar/drafts/urgent-data/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goodheart",
+        "given": "B."
+      },
+      {
+        "family": "Cox",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Magic Garden Explained: The Internals of UNIX SVR4"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goralski",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "location": [
+      "Burlington, Massachusetts"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "The Illustrated Network: How TCP/IP Works in a Modern Network"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gorman",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "note": [
+      "Available online at"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Understanding the Linux Virtual Memory Manager"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www.phptr.com/perens."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grünbacher",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of USENIX 2003/Freenix Track"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "259–272"
+    ],
+    "title": [
+      "POSIX Access Control Lists on Linux"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.suse.de/~agruen/acl/linux-acls/online/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gutmann",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 6th USENIX Security Symposium"
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Secure Deletion of Data from Magnetic and Solid-State Memory"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.cs.auckland.ac.nz/~pgut001/pubs/secure_del.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hallyn",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "POSIX file capabilities: Parceling the power of root"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ibm.com/developerworks/library/l-posixcap.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harbison",
+        "given": "S."
+      },
+      {
+        "family": "Steele",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "C: A Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Herbert",
+        "given": "T.F."
+      },
+      {
+        "family": "Hubicka",
+        "given": "J.",
+        "particle": "û"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the First Annual GCC Developers’ Summit"
+    ],
+    "date": [
+      "2004",
+      "2003"
+    ],
+    "location": [
+      "Hingham, Massachusetts"
+    ],
+    "publisher": [
+      "Charles River Media"
+    ],
+    "title": [
+      "The Linux TCP/IP Stack: Networking for Embedded Systems",
+      "Porting GCC to the AMD64 Architecture"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.ucw.cz/~hubicka/papers/amd64/index.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "M.K."
+      },
+      {
+        "family": "Troan",
+        "given": "E.W."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Linux Application Development"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2004"
+    ],
+    "editor": [
+      {
+        "family": "Josey",
+        "given": "A."
+      }
+    ],
+    "note": [
+      "published in 2010) for version 4 of the specification can be ordered online at"
+    ],
+    "title": [
+      "The Single UNIX Specification, Authorized Guide to Version 3. The Open Group. See http://www.unix-systems.org/version3/theguide.html for details on ordering this guide. A newer version of this guide"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www.opengroup.org/bookstore/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kent",
+        "given": "A."
+      },
+      {
+        "family": "Mogul",
+        "given": "J.C."
+      }
+    ],
+    "container-title": [
+      "ACM Computer Communication Review"
+    ],
+    "date": [
+      "1987",
+      "1987-08"
+    ],
+    "issue": [
+      "5"
+    ],
+    "title": [
+      "Fragmentation Considered Harmful"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.acm.org/sigcomm/ccr/archive/1995/jan95/ccr-9501-mogulf1.pdf"
+    ],
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B.W."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D.M."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kopparapu",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Load Balancing Servers, Firewalls, and Caches"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1440"
+    ],
+    "title": [
+      "B i b l i o g r ap h y"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kozierok",
+        "given": "C.M."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "publisher": [
+      "No Starch Press"
+    ],
+    "title": [
+      "The TCP/IP Guide"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.tcpipguide.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kroah-Hartman",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2003 Linux Symposium"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "udev—A Userspace Implementation of devfs"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.kroah.com/linux/talks/ols_2003_udev_paper/Reprint-Kroah-Hartman-OLS2003.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "A."
+      },
+      {
+        "family": "Cao",
+        "given": "M."
+      },
+      {
+        "family": "Santos",
+        "given": "J."
+      },
+      {
+        "family": "Dilger",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2008 Linux Symposium"
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Ottawa, Canada"
+    ],
+    "title": [
+      "Ext4 block and inode allocator improvements"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://ols.fedoraproject.org/OLS/Reprints-2008/kumar-reprint.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lemon",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of USENIX 2001/Freenix Track"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Kqueue: A generic and scalable event notification facility"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://people.freebsd.org/~jlemon/papers/kqueue_freenix.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lemon",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of USENIX BSDCon 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Resisting SYN flood DoS attacks with a SYN cache"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://people.freebsd.org/~jlemon/papers/syncache.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levine",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Linkers and Loaders"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.iecc.com/linker/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lewine",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "POSIX Programmer’s Guide. O’Reilly"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liang",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Java Native Interface: Programmer’s Guide and Specification"
+    ],
+    "type": "book",
+    "url": [
+      "http://java.sun.com/docs/books/jni/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Libes",
+        "given": "D."
+      },
+      {
+        "family": "Ressler",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Life with UNIX: A Guide for Everyone"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lions",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Jose, California"
+    ],
+    "publisher": [
+      "Peer-to-Peer Communications"
+    ],
+    "title": [
+      "Lions’ Commentary on UNIX 6th Edition with Source Code"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Lions"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Nevertheless, pirated photocopies became widely distributed within the UNIX community, and, in Dennis Ritchie’s words, “educated a generation” of UNIX programmers."
+    ],
+    "title": [
+      "was originally produced by an Australian academic, the late John Lions, in 1977 for use in an operating systems class that he taught. At that time, it could not be formally published because of licensing restrictions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Love",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Linux Kernel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "H.J."
+      },
+      {
+        "family": "Mann",
+        "given": "S."
+      },
+      {
+        "family": "Mitchell",
+        "given": "E.L."
+      }
+    ],
+    "date": [
+      "1995",
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "ELF: From the Programmer’s Perspective",
+      "Linux System Security"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.trunix.org/programlama/os/elf-hl/Documentation/elf/elf.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matloff",
+        "given": "N."
+      },
+      {
+        "family": "Salzman",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "San Francisco, California"
+    ],
+    "publisher": [
+      "No Starch Press"
+    ],
+    "title": [
+      "The Art of Debugging with GDB, DDD, and Eclipse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maxwell",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Linux Core Kernel Commentary. Coriolis, Scottsdale, Arizona. This book provides an annotated listing of selected parts of the Linux 2.2.5 kernel"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Joy",
+        "given": "W.N."
+      },
+      {
+        "family": "Leffler",
+        "given": "S.J."
+      },
+      {
+        "family": "Fabry",
+        "given": "R.S."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Computer Systems"
+    ],
+    "date": [
+      "1984",
+      "August"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "title": [
+      "A fast file system for UNIX",
+      "This paper can be found online at a variety of locations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      }
+    ],
+    "container-title": [
+      "Open Sources: Voices from the Open Source Revolution"
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "DiBona",
+        "given": "C."
+      },
+      {
+        "family": "Ockman",
+        "given": "S."
+      },
+      {
+        "family": "Stone",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Twenty years of Berkeley Unix"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Bostic",
+        "given": "K."
+      },
+      {
+        "family": "Karels",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Implementation of the 4.4BSD Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McKusick",
+        "given": "M.K."
+      },
+      {
+        "family": "Neville-Neil",
+        "given": "G.V."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Implementation of the FreeBSD Operating System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mecklenburg",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Managing Projects with GNU Make"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mills",
+        "given": "D.L."
+      }
+    ],
+    "container-title": [
+      "RFC 1305"
+    ],
+    "date": [
+      "1992",
+      "1992-03"
+    ],
+    "title": [
+      "Network Time Protocol (Version 3) Specification, Implementation and Analysis"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.rfc-editor.org/rfc/rfc1305.txt"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mochel",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Ottawa Linux Symposium 2002"
+    ],
+    "title": [
+      "The sysfs Filesystem"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Mosberger",
+        "given": "D."
+      },
+      {
+        "family": "Eranian",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "IA-64 Linux Kernel: Design and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Peek",
+        "given": "J."
+      },
+      {
+        "family": "Todino-Gonguet",
+        "given": "G."
+      },
+      {
+        "family": "Strang",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "location": [
+      "O’Reilly, Sebastopol, California"
+    ],
+    "title": [
+      "Learning the UNIX Operating System"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Peikari",
+        "given": "C."
+      },
+      {
+        "family": "Chuvakin",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "Security Warrior. O’Reilly"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Plauger",
+        "given": "P.J."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Standard C Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Quarterman",
+        "given": "J.S."
+      },
+      {
+        "family": "Wilhelm",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UNIX, Posix, and Open Systems: The Open Standards Puzzle"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "AT&T Bell Laboratories Technical Journal"
+    ],
+    "date": [
+      "1984",
+      "1984-10"
+    ],
+    "issue": [
+      "6 Part 2"
+    ],
+    "location": [
+      "Ritchie, D.M"
+    ],
+    "note": [
+      "Dennis Ritchie’s home page (http://www.cs.bell-labs.com/who/dmr/index.html) provides a pointer to an online version of this paper, as well as [Ritchie & Thompson, 1974], and has many other pieces of UNIX history."
+    ],
+    "pages": [
+      "1577–93"
+    ],
+    "title": [
+      "The Evolution of the UNIX Time-sharing System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "citation-number": [
+      "1442"
+    ],
+    "title": [
+      "B i b l i o g r ap h y"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchie",
+        "given": "D.M."
+      },
+      {
+        "family": "Thompson",
+        "given": "K.L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974",
+      "1974-07"
+    ],
+    "pages": [
+      "365–375"
+    ],
+    "title": [
+      "The Unix Time-Sharing System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "K.A."
+      },
+      {
+        "family": "Robbins",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "UNIX Systems Programming: Communication, Concurrency, and Threads"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rochkind",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Advanced UNIX Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rochkind",
+        "given": "M.J."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Advanced UNIX Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosen",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Open Source Licensing: Software Freedom and Intellectual Property Law"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Laurent",
+        "given": "A.M.",
+        "particle": "St."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Understanding Open Source and Free Software Licensing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Salus",
+        "given": "P.H."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "A Quarter Century of UNIX"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Salus",
+        "given": "P.H."
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "note": [
+      "http://www.groklaw.net/staticpages/index.php?page=20051013231901859 A short history of Linux, the BSDs, the HURD, and other free software projects."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Daemon, the Gnu, and the Penguin"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sarolahti",
+        "given": "P."
+      },
+      {
+        "family": "Kuznetsov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of USENIX 2002/Freenix Track"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Congestion Control in Linux TCP"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.cs.helsinki.fi/research/iwtcp/papers/linuxtcp.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schimmel",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UNIX Systems for Modern Architectures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Snader",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective TCP/IP Programming: 44 tips to improve your network programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "1992",
+      "Massachusetts"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "note": [
+      "Richard Stevens (including program source code, with some modified code versions for Linux submitted by readers) can be found at"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Advanced Programming in the UNIX Environment",
+      "Further information about all of the books of the late W"
+    ],
+    "type": null,
+    "url": [
+      "http://www.kohala.com/start/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "container-title": [
+      "Networking APIs: Sockets and XTI"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "UNIX Network Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "container-title": [
+      "Interprocess Communications"
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "UNIX Network Programming"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "TCP/IP Illustrat"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "The Protocols. Addison-Wesley"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "container-title": [
+      "TCP for Transactions, HTTP, NNTP, and the UNIX Domain Protocols"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "TCP/IP Illustrat"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      },
+      {
+        "family": "Fenner",
+        "given": "B."
+      },
+      {
+        "family": "Rudoff",
+        "given": "A.M."
+      }
+    ],
+    "container-title": [
+      "In most cases where we make reference to [Stevens et al., 2004] in this book, the same material can also found in [Stevens, 1998], the preceding edition of UNIX Network Programming"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Boston, Massachusetts"
+    ],
+    "note": [
+      "Source code for this edition is available at"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UNIX Network Programming",
+      "The Sockets Networking API"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.unpbook.com/."
+    ],
+    "volume": [
+      "1",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      },
+      {
+        "family": "Rago",
+        "given": "S.A."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boston, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Advanced Programming in the UNIX Environment"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "R.R."
+      },
+      {
+        "family": "Xie",
+        "given": "Q."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Stream Control Transmission Protocol (SCTP"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stone",
+        "given": "J."
+      },
+      {
+        "family": "Partridge",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proceedings of SIGCOMM 2000"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "When the CRC and the TCP Checksum Disagree"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.acm.org/sigcomm/sigcomm2000/conf/abstract/9-1.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Programming with Curses"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "J."
+      },
+      {
+        "family": "Mui",
+        "given": "L."
+      },
+      {
+        "family": "O’Reilly",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "O’Reilly, Sebastopol, California"
+    ],
+    "title": [
+      "Termcap & Terminfo"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Modern Operating Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Computer Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      },
+      {
+        "family": "Woodhull",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Operating Systems: Design And Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Torvalds",
+        "given": "L.B."
+      },
+      {
+        "family": "Diamond",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York, New York"
+    ],
+    "publisher": [
+      "HarperCollins"
+    ],
+    "title": [
+      "Just for Fun: The Story of an Accidental Revolutionary"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tsafrir",
+        "given": "D."
+      },
+      {
+        "family": "Silva",
+        "given": "D.",
+        "particle": "da"
+      },
+      {
+        "family": "Wagner",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      ";login: The USENIX Magazine"
+    ],
+    "date": [
+      "2008-06"
+    ],
+    "title": [
+      "The Murky Issue of Changing Process Identity: Revising ‘Setuid Demystified’"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.usenix.org/publications/login/2008-06/pdfs/tsafrir.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vahalia",
+        "given": "U."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "UNIX Internals: The New Frontiers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Linden",
+        "given": "P.",
+        "particle": "van der"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Expert C Programming—Deep C Secrets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vaughan",
+        "given": "G.V."
+      },
+      {
+        "family": "Elliston",
+        "given": "B."
+      },
+      {
+        "family": "Tromey",
+        "given": "T."
+      },
+      {
+        "family": "Taylor",
+        "given": "I.L."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New Riders, Indianapolis, Indiana"
+    ],
+    "title": [
+      "GNU Autoconf, Automake, and Libtool"
+    ],
+    "type": null,
+    "url": [
+      "http://sources.redhat.com/autobook/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Viega",
+        "given": "J."
+      },
+      {
+        "family": "McGraw",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Building Secure Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Viro",
+        "given": "A."
+      },
+      {
+        "family": "Pai",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Ottawa Linux Symposium 2006"
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Shared-Subtree Concept, Implementation, and Applications in Linux"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.kernel.org/doc/ols/2006/ols2006v2-pages-209-222.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "R.N.M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of BSDCon 2000"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Introducing Supporting Infrastructure for Trusted Operating System Support in FreeBSD"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.trustedbsd.org/trustedbsd-bsdcon-2000.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Sebastopol, California"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Free as in Freedom: Richard Stallman’s Crusade for Free Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "G.R."
+      },
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "TCP/IP Illustrat"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "The Implementation. Addison-Wesley"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "CAP_LINUX_IMMUTABLE capability"
+    ],
+    "pages": [
+      "1316–1317"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "306, cfgetospeed(), 426"
+    ]
+  },
+  {
+    "location": [
+      "Church, D.E.M"
+    ],
+    "note": [
+      "xl capability Chuvakin, A., 1442 file. See file capabilities CIBAUD constant, 1302 process. See process capabilities Clare, G.W., xxxvii capability bounding set, 615, 801, CLD_CONTINUED constant, 441, 551"
+    ],
+    "title": [
+      "CAP_SYS_TTY_CONFIG capability, 801 Church, A.R., xxxix cap_t data type, 807 Church, D.E., xl example of use, 809"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "79–80 release, 1136–1137 renaming, 348–349 with flock(), 614, 1119–1124 resource limit on size, 761 limitations, 1123–1124 retrieving metadata, 279–285 semantics of lock inheritance and sharing of open file by parent and release, 1122–1123 child, 517–520 limits, 1135–1136"
+    ],
+    "title": [
+      "on-disk structure comparison of semantics of flock() and diagram, 258 fcntl(), 1136–1137 opening, 72–79 deadlock, 1128–1129 optimal I/O block size, 283 with fcntl(), 614, 1124–1137 randomly accessing, 81–86 semantics of lock inheritance and reading"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Salus",
+        "given": "P.H."
+      },
+      {
+        "family": "Schimmel",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1443",
+      "1443"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Salzman",
+        "given": "P.J."
+      },
+      {
+        "family": "Schröder",
+        "given": "M."
+      },
+      {
+        "family": "Santos",
+        "given": "J.",
+        "particle": "xxxix"
+      }
+    ],
+    "date": [
+      "1442",
+      "1441"
+    ],
+    "note": [
+      "Schüpbach, W.M.M., xl Sarolahti (2002), 1236, 1443 Schwaiger, M., xxxix Sarolahti, P., 1443 Schwartz, A., 1439"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "creating, 969 indeterminate limits, 219 deleting, 971 retrieving, 215–217 disadvantages, 993 file-related limits, 217–218 initialization, 971, 974, 975–978 system options, SUSv3, 219–221 limits, 991–993"
+    ],
+    "pages": [
+      "212–215"
+    ],
+    "title": [
+      "restarting, 442–445 System V semaphore, 882, 886, 965–995 setting timeout on, 486–487 adjustment on process termination, 533 system clock, updating, 204–205 associated data structure, 972–973 system CPU time, 40, 206 compared with POSIX semaphore, system data types, 63–66 1103–1104 casting in printf() calls, 66 control operations, 969–972 system limits"
+    ],
+    "type": null,
+    "volume": [
+      "SUSv3"
+    ]
+  }
+]

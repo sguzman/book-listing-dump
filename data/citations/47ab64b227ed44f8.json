@@ -1,0 +1,2055 @@
+[
+  {
+    "note": [
+      "survey procedures, and sources of error (Optional). LO7-4 Describe and use the sampling distribution of the sample proportion."
+    ],
+    "title": [
+      "Learning Objectives After mastering the material in this chapter, you will be able to: LO7-1 Explain the concept of random sampling LO7-5 Describe the basic ideas of stratified and select a random sample. random, cluster, and systematic sampling LO7-2 Describe and use the sampling distribution (Optional). of the sample mean. LO7-6 Describe basic types of survey questions, LO7-3 Explain and use the Central Limit Theorem"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Learning Objectives After mastering the material in this chapter, you will be able to: LO16-1 Identify the components of a time LO16-6 Use double exponential smoothing to series. forecast a time series"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "LO16-2 Use time series regression to forecast time LO16-7 Use multiplicative Winters’ method to series having linear, quadratic, and certain forecast a time series. types of seasonal patterns. LO16-8 Appreciate some of the basic concepts of LO16-3 Use data transformations to forecast time Box–Jenkins forecasting models. series having increasing seasonal variation. LO16-9 Compare time series models by using LO16-4 Use multiplicative decomposition and forecast errors. moving averages to forecast a time series. L16-10 Use index numbers to compare economic LO16-5 Use simple exponential smoothing to data over time. forecast a time series"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "W.J.McCabe"
+      },
+      {
+        "family": "Gitlow",
+        "given": "S.Gitlow"
+      },
+      {
+        "family": "Oppenheim",
+        "given": "A."
+      },
+      {
+        "family": "Oppenheim",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Quality Source: H",
+      "Copyright © 1989 American Society for Methods for the Improvement of Quality"
+    ],
+    "date": [
+      "1989-07"
+    ],
+    "note": [
+      "Copyright © 1989."
+    ],
+    "pages": [
+      "26–32",
+      "168–172"
+    ],
+    "title": [
+      "Examining Processes Improves Operations",
+      "Tools and Progress"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Quality"
+      }
+    ],
+    "note": [
+      "Reprinted by permission of McGraw-Hill Companies, Inc. bow21493_ch17_680-731.qxd 11/29/12 7:32 PM Page 720"
+    ],
+    "title": [
+      "Used with permission"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "W.J.McCabe"
+      }
+    ],
+    "container-title": [
+      "Quality Progress"
+    ],
+    "date": [
+      "1989-07"
+    ],
+    "note": [
+      "Used with permission. bow21493_ch17_680-731.qxd 11/29/12 7:32 PM Page 721"
+    ],
+    "pages": [
+      "26–32"
+    ],
+    "title": [
+      "Examining Processes Improves Operations",
+      "Copyright © 1989 American Society for Quality"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "literal": "Source: M. Gaudard, R. Coates, and L. Freeman,“Accelerating"
+      }
+    ],
+    "container-title": [
+      "Quality Progress"
+    ],
+    "date": [
+      "1991-10"
+    ],
+    "pages": [
+      "81–88"
+    ],
+    "title": [
+      "Improvement"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Copyright"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "American Society for Quality. Used with permission"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Source"
+      }
+    ],
+    "container-title": [
+      "from QI Tools: Data Collection Workbook"
+    ],
+    "note": [
+      "Copyright © 1989. Juran Institute, Inc. Reprinted with permission from Juran Institute, Inc. bow21493_ch17_680-731.qxd 11/29/12 7:32 PM Page 723"
+    ],
+    "pages": [
+      "11"
+    ],
+    "title": [
+      "The Tools of Quality Part V: Check Sheets"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "R.Hoexter"
+      },
+      {
+        "family": "Julien",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Quality Progress"
+    ],
+    "date": [
+      "1994-01",
+      "1994"
+    ],
+    "pages": [
+      "31–33"
+    ],
+    "publisher": [
+      "Copyright ©",
+      "American Society for Quality"
+    ],
+    "title": [
+      "Legal Eagles Become Quality Hawks"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "F.P."
+      }
+    ],
+    "container-title": [
+      "Quality Progress"
+    ],
+    "date": [
+      "1994-09"
+    ],
+    "pages": [
+      "87–90"
+    ],
+    "title": [
+      "Schargel,“Teaching TQM in an Inner City High School"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "Copyright © 1994 American Society for Quality. Used with permission"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "information. LO19-3 Make decisions using utility theory."
+    ],
+    "title": [
+      "Learning Objectives After mastering the material in this chapter, you will be able to: LO19-1 Make decisions under uncertainty and LO19-2 Make decisions using posterior analysis under risk and assess the value of perfect and assess the value of sample information"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "J. Stevenson, Production/Operations Management"
+    ],
+    "note": [
+      "and problem from p. 73 © 1999 McGraw-Hill Companies, Inc. bow21493_ch19_762-781.qxd 11/29/12 2:08 AM Page 769"
+    ],
+    "pages": [
+      "228,"
+    ],
+    "title": [
+      "*Net present value in millions. Source: Decision tree from W"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6 /e"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "R. T. Clemen",
+        "particle": "by"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "genre": [
+      "Fax 800-730-2215."
+    ],
+    "pages": [
+      "443"
+    ],
+    "publisher": [
+      "P"
+    ],
+    "title": [
+      "Source: From Making Hard Decisions: An Introduction to Decision Analysis",
+      "Reprinted with permission of Brooks/Cole, an imprint of the Wadsworth Group, a division of Thomson Learning"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "77,"
+    ],
+    "title": [
+      "Source: A decision tree from R.T. Clemen, Making Hard Decisions: An Introduction to Decision Analysis"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Fax 800-730-2215."
+    ],
+    "note": [
+      "P. 77"
+    ],
+    "title": [
+      "Reprinted with permission of Brooks/Cole, a division of Thomson Learning"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "J. Stevenson, Production/Operations Management"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "e"
+    ],
+    "pages": [
+      "70,"
+    ],
+    "publisher": [
+      "McGraw-Hill Companies, Inc"
+    ],
+    "title": [
+      "Source: Decision tree from W"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "D. K. Hildebrand",
+        "particle": "by"
+      },
+      {
+        "family": "Ott",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "note": [
+      "Reprinted with permission of South-Western, a division of Thomson Learning, www.thomsonrights.com. Fax 800 730-2215."
+    ],
+    "title": [
+      "Source: Binomial Probability Table from Statistical Thinking for Managers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "Computed by D.K.Hildebrand Found in D.K.Hildebrand"
+      },
+      {
+        "family": "Ott",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "genre": [
+      "PM Page 790"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "pages": [
+      "11"
+    ],
+    "publisher": [
+      "PWS-KENT Publishing Company"
+    ],
+    "title": [
+      "Statistical Thinking for Managers"
+    ],
+    "type": null,
+    "volume": [
+      12
+    ]
+  },
+  {
+    "note": [
+      "Source: Provided by J. B. Orris using Excel."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "A",
+        "given": "T.A.B.L.E."
+      }
+    ],
+    "pages": [
+      "794 21493 782–805"
+    ],
+    "title": [
+      "5 A Chi-Square Table: Values of X2A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "C.M.Thompson"
+      }
+    ],
+    "container-title": [
+      "Biometrika",
+      "TA B L E A"
+    ],
+    "date": [
+      "1941"
+    ],
+    "note": [
+      "6 An F Table: Values of F.10 Appendix A bow21493_appA_782-805.qxd"
+    ],
+    "pages": [
+      "188–89"
+    ],
+    "title": [
+      "Tables of the Percentage Points of the x2 Distribution",
+      "Reproduced by permission of the Biometrika Trustees"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "M.Merrington"
+      },
+      {
+        "family": "Thompson",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1943"
+    ],
+    "note": [
+      "Reproduced by permission of the Biometrika Trustees."
+    ],
+    "pages": [
+      "73–88"
+    ],
+    "title": [
+      "Tables of Percentage Points of the Inverted Beta (F )-Distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "M.Merrington"
+      },
+      {
+        "family": "Thompson",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Biometrika",
+      "TA B L E A"
+    ],
+    "date": [
+      "1943"
+    ],
+    "note": [
+      "8 An F Table: Values of F.025 Appendix A bow21493_appA_782-805.qxd"
+    ],
+    "pages": [
+      "73–88"
+    ],
+    "title": [
+      "Tables of Percentage Points of the Inverted Beta (F )-Distribution",
+      "Reproduced by permission of the Biometrika Trustees"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "M.Merrington"
+      },
+      {
+        "family": "Thompson",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1943"
+    ],
+    "note": [
+      "Reproduced by permission of the Biometrika Trustees."
+    ],
+    "pages": [
+      "73–88"
+    ],
+    "title": [
+      "Tables of Percentage Points of the Inverted Beta (F )-Distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "M.Merrington"
+      },
+      {
+        "family": "Thompson",
+        "given": "C.M."
+      }
+    ],
+    "container-title": [
+      "Biometrika"
+    ],
+    "date": [
+      "1943"
+    ],
+    "note": [
+      "Reproduced by permission of the Biometrika Trustees."
+    ],
+    "pages": [
+      "73–88"
+    ],
+    "title": [
+      "Tables of Percentage Points of the Inverted Beta (F )-Distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "F.Wilcoxon"
+      },
+      {
+        "family": "Wilcox",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "20–23"
+    ],
+    "publisher": [
+      "American Cyanamid Company"
+    ],
+    "title": [
+      "Some Rapid Approximate Statistical Procedures"
+    ],
+    "type": "book"
+  },
+  {
+    "genre": [
+      "PM Page 804"
+    ],
+    "issue": [
+      "11"
+    ],
+    "title": [
+      "Reproduced with the permission of American Cyanamid Company"
+    ],
+    "type": null,
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "F.Wilcoxon"
+      },
+      {
+        "family": "Wilcox",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Reproduced with the permission of American Cyanamid Company. bow21493_appA_782-805.qxd 11/30/12 12:11 PM Page 805"
+    ],
+    "pages": [
+      "28"
+    ],
+    "publisher": [
+      "American Cyanamid Company"
+    ],
+    "title": [
+      "Some Rapid Approximate Statistical Procedures"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "E.G.Olds"
+      }
+    ],
+    "container-title": [
+      "Annals of Mathematical Statistics"
+    ],
+    "date": [
+      "1938"
+    ],
+    "note": [
+      "Reproduced with the permission of the editor, Annals of Mathematical Statistics."
+    ],
+    "pages": [
+      "9"
+    ],
+    "title": [
+      "Distribution of Sums of Squares of Rank Differences for Small Samples"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "A.Hald"
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "abridged from Table 1. Reproduced by permission of the publisher. bow21493_ans_806-813.qxd 12/3/12 12:47 PM Page 806"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Statistical Tables and Formulas"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "808"
+    ],
+    "title": [
+      "Answers to Most Odd-Numbered Exercises"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "812"
+    ],
+    "title": [
+      "Answers to Most Odd-Numbered Exercises"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Abraham",
+        "given": "B."
+      },
+      {
+        "family": "Fore- Box",
+        "given": "J.Ledolter Statistical Methods",
+        "particle": "for"
+      },
+      {
+        "family": "P.",
+        "given": "G.E."
+      },
+      {
+        "family": "Jenkins",
+        "given": "G.M."
+      }
+    ],
+    "date": [
+      "1983",
+      "1976"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York, NY",
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "John Wiley & Sons",
+      "Akaah, Ishmael P., and Edward A. Riordan. “Judgments of Holden-Day"
+    ],
+    "title": [
+      "Time Series Analysis: casting",
+      "Forecasting and Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Market- Boyd",
+        "given": "Marketing Professionals",
+        "particle": "about Ethical Issues in"
+      },
+      {
+        "family": "C.",
+        "given": "Thomas"
+      },
+      {
+        "family": "Krehbiel",
+        "given": "Timothy C."
+      }
+    ],
+    "container-title": [
+      "Journal of Promotion Timing on Major League Baseball Atten-Marketing Research",
+      "Sport Marketing Quarterly"
+    ],
+    "date": [
+      "1989-02",
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "Ashton, Robert H., John J. Willingham, and Robert K."
+    ],
+    "pages": [
+      "112–20",
+      "23–34"
+    ],
+    "title": [
+      "The Effect of ing Research: A Replication and Extension",
+      "dance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Elliott"
+      },
+      {
+        "family": "Jour- Brown",
+        "given": "R.G.Smoothing"
+      }
+    ],
+    "collection-title": [
+      "Discrete Time Series"
+    ],
+    "date": [
+      "1987",
+      "1962"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ",
+      "Hall"
+    ],
+    "pages": [
+      "275–92"
+    ],
+    "publisher": [
+      "Prentice"
+    ],
+    "title": [
+      "An Empirical Analysis of Audit Delay",
+      "Forecasting and Prediction of nal of Accounting Research 25"
+    ],
+    "type": "book",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Axcel",
+        "given": "Amir"
+      },
+      {
+        "family": "Carey",
+        "given": "Burr"
+      },
+      {
+        "family": "John",
+        "given": "Robert Neff"
+      },
+      {
+        "family": "Therrien",
+        "given": "Lois"
+      },
+      {
+        "family": "Bayus",
+        "particle": "bonus"
+      },
+      {
+        "family": "L",
+        "given": "Barry"
+      },
+      {
+        "literal": "Carslaw, Charles A. P. N., and Steven E. Kaplan. “An Beattie, Vivien, and Michael John Jones."
+      }
+    ],
+    "container-title": [
+      "BusinessWeek",
+      "Journal of Marketing",
+      "Accounting and Business Research",
+      "Accounting and Business"
+    ],
+    "date": [
+      "1996",
+      "1991",
+      "1991-01-15",
+      "1991-01",
+      "1991"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "issue": [
+      "85"
+    ],
+    "location": [
+      "Ridge, IL"
+    ],
+    "pages": [
+      "58–59 42–51",
+      "21–32"
+    ],
+    "publisher": [
+      "Irwin/McGraw-Hill"
+    ],
+    "title": [
+      "Complete Business Statistics",
+      "The Prize",
+      "and the Passion",
+      "The Consumer and Durable Replace- issue: The Quality Imperative",
+      "ment Buyer",
+      "The Use and Examination of Audit Delay: Further Evidence from Abuse of Graphs in Annual Reports: Theoretical Frame- New Zealand",
+      "work and Empirical Study"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55",
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cateora",
+        "given": "Philip R."
+      }
+    ],
+    "container-title": [
+      "Research"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "9th"
+    ],
+    "issue": [
+      "88"
+    ],
+    "pages": [
+      "291–303"
+    ],
+    "publisher": [
+      "Home"
+    ],
+    "title": [
+      "International Marketing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Blauw",
+        "given": "Jan Nico"
+      },
+      {
+        "family": "During",
+        "given": "Willem E."
+      },
+      {
+        "family": "Clemen",
+        "given": "Robert T."
+      },
+      {
+        "family": "Blodgett",
+        "given": "Jeffrey G."
+      },
+      {
+        "family": "Granbois",
+        "given": "Donald H."
+      },
+      {
+        "family": "Press",
+        "given": "Rockney"
+      },
+      {
+        "literal": "G. Walters. “The Effects of Perceived Justice on Conlon, Edward J., and Thomas H. Stone."
+      }
+    ],
+    "collection-title": [
+      "Control in Dutch Industry.” Quality Progress (February"
+    ],
+    "container-title": [
+      "Negative Word-of-Mouth Behavior and and Managerial Judgment.” Journal of Management",
+      "Journal of Retailing"
+    ],
+    "date": [
+      "1993",
+      "1990",
+      "1996",
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "issue": [
+      "4 no. 3"
+    ],
+    "location": [
+      "IL",
+      "Belmont, CA"
+    ],
+    "pages": [
+      "262",
+      "50–51",
+      "443",
+      "435–54"
+    ],
+    "publisher": [
+      "Irwin/McGraw-Hill",
+      "Duxbury"
+    ],
+    "title": [
+      "Total Quality wood",
+      "Making Hard Decisions: An Introduction",
+      "to Decision Analysis",
+      "Absence Schema Complainants",
+      "18, Repatronage Intentions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cooper",
+        "given": "Donald R."
+      },
+      {
+        "family": "Bowerman",
+        "given": "C.William Emory Business"
+      },
+      {
+        "family": "L.",
+        "given": "Bruce"
+      },
+      {
+        "family": "O’Connell",
+        "given": "Richard T."
+      }
+    ],
+    "collection-title": [
+      "ing and Time Series"
+    ],
+    "container-title": [
+      "An Applied Approach"
+    ],
+    "date": [
+      "1993",
+      "1995"
+    ],
+    "edition": [
+      "5th",
+      "3rd"
+    ],
+    "location": [
+      "Homewood, IL",
+      "Irwin"
+    ],
+    "pages": [
+      "399–428",
+      "434–38, 450–51, 458–68"
+    ],
+    "publisher": [
+      "Richard D"
+    ],
+    "title": [
+      "Forecast- Research Methods"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Cuprisin",
+        "given": "Tim"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Belmont, CA"
+    ],
+    "note": [
+      "The Milwaukee Jour-"
+    ],
+    "publisher": [
+      "Duxbury Press"
+    ],
+    "title": [
+      "Inside TV & Radio"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bowerman",
+        "given": "Bruce L."
+      },
+      {
+        "family": "O’Connell",
+        "given": "Richard T."
+      }
+    ],
+    "date": [
+      "1995-04-26"
+    ],
+    "title": [
+      "Linear nal Sentinel"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "Scott"
+      }
+    ],
+    "container-title": [
+      "Journal of Retailing"
+    ],
+    "date": [
+      "1990",
+      "1993"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "MA"
+    ],
+    "pages": [
+      "457, 460–64, 729–974",
+      "353–62"
+    ],
+    "publisher": [
+      "PWS-KENT Publishing Company"
+    ],
+    "title": [
+      "Statistical Models: An Applied Approach",
+      "Consumer Responses to Electronic Arti-Boston",
+      "cle Surveillance Alarms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bowerman",
+        "given": "Bruce L."
+      },
+      {
+        "family": "O’Connell",
+        "given": "Richard T."
+      },
+      {
+        "family": "Deming",
+        "given": "Emily S."
+      },
+      {
+        "family": "Edwards",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "2009",
+      "1986"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "genre": [
+      "PM Page 815 References 815"
+    ],
+    "location": [
+      "Cambridge, MA",
+      "Ridge, IL",
+      "Irwin"
+    ],
+    "pages": [
+      "16"
+    ],
+    "publisher": [
+      "Murphree",
+      "Burr Massachusetts Institute of Technology Center for",
+      "McGraw-Hill",
+      "Advanced Engineering Study"
+    ],
+    "title": [
+      "Out of the Crisis",
+      "Business Statistics in Practice"
+    ],
+    "type": null,
+    "volume": [
+      12
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dielman",
+        "given": "Terry Applied Regression Analysis for Business Morris"
+      },
+      {
+        "family": "H.",
+        "given": "Michael"
+      },
+      {
+        "family": "Avila",
+        "given": "Ramon A."
+      },
+      {
+        "family": "Allen",
+        "given": "Jeffrey"
+      },
+      {
+        "family": "R.",
+        "given": "William"
+      },
+      {
+        "family": "Madden",
+        "given": "Thomas J."
+      },
+      {
+        "family": "H",
+        "given": "Neil"
+      }
+    ],
+    "container-title": [
+      "Journal of Man-Essentials of Marketing Research"
+    ],
+    "date": [
+      "1996",
+      "19",
+      "1993"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "Belmont, CA",
+      "Homewood, IL"
+    ],
+    "pages": [
+      "595–612"
+    ],
+    "publisher": [
+      "Duxbury Press",
+      "agement"
+    ],
+    "title": [
+      "Inand Economics",
+      "dividualism and the Modern Corporation: Implications Dillon",
+      "Firtle. for Innovation and Entrepreneurship"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "Richard D.Irwin"
+      },
+      {
+        "family": "Neter",
+        "given": "J."
+      },
+      {
+        "family": "Kutner",
+        "given": "M."
+      },
+      {
+        "family": "Nachtsheim",
+        "given": "C."
+      },
+      {
+        "family": "Wasserman",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "382–84, 416–17,"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Homewood",
+        "given": "Dondero"
+      },
+      {
+        "given": "Cort"
+      }
+    ],
+    "citation-number": [
+      "419–20,"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Quality Progress, IL"
+    ],
+    "publisher": [
+      "Irwin/McGraw-Hill"
+    ],
+    "title": [
+      "432–33, 445, 462–64, 524–27. Applied Linear Statistical Models",
+      "SPC Hits the Road"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Neter",
+        "given": "J."
+      },
+      {
+        "family": "Wasserman",
+        "given": "W."
+      },
+      {
+        "family": "Draper",
+        "given": "M.H.Kutner Applied Linear"
+      },
+      {
+        "family": "N."
+      },
+      {
+        "family": "Smith",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Statistical Models"
+    ],
+    "date": [
+      "1991-01"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Homewood, IL"
+    ],
+    "pages": [
+      "43–44"
+    ],
+    "publisher": [
+      "Richard D"
+    ],
+    "title": [
+      "Applied Regression Analysis"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "1981",
+      "1985"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "John Wiley & Sons",
+      "Irwin"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Farnum",
+        "given": "Nicholas R.Modern Statistical Quality Control"
+      },
+      {
+        "family": "Nunnally",
+        "given": "Bennie H.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Plath",
+        "given": "D.Anthony"
+      },
+      {
+        "family": "Irwin",
+        "given": "Richard D."
+      },
+      {
+        "family": "Fitzgerald",
+        "given": "Neil"
+      }
+    ],
+    "container-title": [
+      "CA Magazine",
+      "USA Week-Garvin, David A. Managing Quality"
+    ],
+    "date": [
+      "1994",
+      "1995",
+      "1993-04",
+      "June 2–4, 1995"
+    ],
+    "editor": [
+      {
+        "family": "Olmsted",
+        "given": "Dan"
+      },
+      {
+        "family": "Anders",
+        "given": "Gigi"
+      }
+    ],
+    "location": [
+      "Belmont, CA",
+      "Burr Ridge, IL",
+      "New York, NY"
+    ],
+    "pages": [
+      "55",
+      "12–1–12–7",
+      "28–35"
+    ],
+    "publisher": [
+      "Duxbury Press",
+      "Free end"
+    ],
+    "title": [
+      "Cases in Improvement",
+      "Finance",
+      "Relations Overcast by Cloudy Condi",
+      "tions",
+      "Turned Off"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Press/Macmillan"
+      }
+    ],
+    "container-title": [
+      "An Introduction to Statistical Methods and"
+    ],
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "Ott, Lyman"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibbons",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "edition": [
+      "2nd ed. Data Analysis. 2nd"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "PWS-Kent"
+    ],
+    "title": [
+      "Nonparametric Statistical Inference"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Schaeffer",
+        "given": "R.L."
+      },
+      {
+        "family": "Mendenhall",
+        "given": "William"
+      },
+      {
+        "family": "Ott",
+        "given": "Lyman"
+      }
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gitlow",
+        "given": "Howard"
+      },
+      {
+        "family": "Gitlow",
+        "given": "Shelly"
+      },
+      {
+        "family": "Oppenheim",
+        "given": "Alan"
+      },
+      {
+        "family": "Sampling",
+        "given": "Elementary Survey"
+      },
+      {
+        "family": "Irwin",
+        "given": "Richard D."
+      },
+      {
+        "family": "Scherkenbach",
+        "given": "William"
+      },
+      {
+        "family": "Washington",
+        "given": "Guthrie"
+      },
+      {
+        "family": "P.",
+        "given": "James"
+      },
+      {
+        "family": "Grimm",
+        "given": "Curtis M."
+      },
+      {
+        "family": "DC.",
+        "given": "Ken G.Smith"
+      },
+      {
+        "family": "Books",
+        "given": "CEEPress"
+      }
+    ],
+    "container-title": [
+      "SAE Reply.” Journal of Management"
+    ],
+    "date": [
+      "1986",
+      "1989",
+      "1986",
+      "1993",
+      "1982"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "genre": [
+      "Technical Paper 820520."
+    ],
+    "issue": [
+      "4"
+    ],
+    "location": [
+      "Boston, MA",
+      "Homewood, IL",
+      "Warrendale, PA"
+    ],
+    "pages": [
+      "14–25, 533–53",
+      "889–96"
+    ],
+    "publisher": [
+      "Rosa Oppenheim. Tools and Methods for the Improve- Duxbury Press",
+      "Society for",
+      "Automotive Engineers, Inc"
+    ],
+    "title": [
+      "ment of Quality",
+      "The Deming Route to Quality and",
+      "Productivity: Road Maps and Roadblocks",
+      "Environmental Change and Management Staffing: A Seigel, James C. “Managing with Statistical Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kuhn",
+        "given": "Susan E."
+      }
+    ],
+    "container-title": [
+      "Fortune",
+      "The Journal-News (Hamilton, Ohio), Sept"
+    ],
+    "date": [
+      "1991-10-07",
+      "1992"
+    ],
+    "note": [
+      "originally published in The Washington Post)."
+    ],
+    "pages": [
+      "29–30"
+    ],
+    "title": [
+      "A Closer Look at Mutual Funds: Which Sichelman, Lew. “Random Checks Find Loan Application Ones Really Deliver?",
+      "Fibs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "V."
+      },
+      {
+        "family": "Kerin",
+        "given": "Roger A."
+      },
+      {
+        "family": "Pereira",
+        "given": "Arun"
+      }
+    ],
+    "container-title": [
+      "cal Assessment of Merger and Acquisition Activity in"
+    ],
+    "date": [
+      "1990"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Homewood, IL"
+    ],
+    "pages": [
+      "588"
+    ],
+    "publisher": [
+      "Richard D. Irwin"
+    ],
+    "title": [
+      "An Empiri- Siegel, Andrew F. Practical Business Statistics"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Silk",
+        "given": "Alvin J."
+      },
+      {
+        "family": "Berndt",
+        "given": "Ernst R."
+      }
+    ],
+    "container-title": [
+      "Journal of Retailing"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Effects on Advertising Agency Costs.” Marketing"
+    ],
+    "pages": [
+      "321–38"
+    ],
+    "title": [
+      "Retailing",
+      "Scale and Scope"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Magee",
+        "given": "Robert P."
+      }
+    ],
+    "container-title": [
+      "New Science"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "53–72"
+    ],
+    "title": [
+      "Advanced Managerial Accounting"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stevenson",
+        "given": "William J.Production/Operations Manage-Mahmood"
+      },
+      {
+        "family": "Adam",
+        "given": "Mo"
+      },
+      {
+        "family": "Mann",
+        "given": "Gary J."
+      }
+    ],
+    "container-title": [
+      "Journal of Thomas, Anisya S., and Kannan Ramaswamy. “Environ-Management Information Systems"
+    ],
+    "date": [
+      "1986",
+      "1999"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "York, NY",
+      "Homewood, IL"
+    ],
+    "note": [
+      "Summer mental Change and Management Staffing: A Comment.”"
+    ],
+    "pages": [
+      "223",
+      "228"
+    ],
+    "publisher": [
+      "Harper & Row",
+      "Irwin/McGraw-Hill, the Organizational Impact of Information Technology"
+    ],
+    "title": [
+      "Measuring ment",
+      "Investment: An Exploratory Study"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "container-title": [
+      "Journal of Management"
+    ],
+    "date": [
+      "1993",
+      "1993"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "97–122",
+      "877–87"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Martocchio, Joseph J. “The Financial Cost of Absence Von Neumann, J., and O. Morgenstern."
+      }
+    ],
+    "container-title": [
+      "and Economic Behavior",
+      "Journal of Management"
+    ],
+    "date": [
+      "1992",
+      "1947"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "pages": [
+      "133–52"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Theory of Games Decisions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mendenhall",
+        "given": "W."
+      },
+      {
+        "family": "Manage- Walton",
+        "given": "J.Reinmuth Statistics",
+        "particle": "for"
+      },
+      {
+        "given": "Mary"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Boston, MA",
+      "York, NY"
+    ],
+    "publisher": [
+      "PWS-KENT",
+      "Dodd, Mead & Company"
+    ],
+    "title": [
+      "The Deming Management Method. New ment Economics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weinberger",
+        "given": "Marc G."
+      },
+      {
+        "family": "Spotts",
+        "given": "Harlan E."
+      },
+      {
+        "family": "U.K",
+        "given": "U.S.",
+        "particle": "versus"
+      }
+    ],
+    "container-title": [
+      "OH",
+      "Journal of Advertising"
+    ],
+    "date": [
+      "1982",
+      "1989",
+      "1989"
+    ],
+    "issue": [
+      "26",
+      "2"
+    ],
+    "location": [
+      "Oxford"
+    ],
+    "pages": [
+      "39–44"
+    ],
+    "publisher": [
+      "Publishing Company",
+      "Miami University"
+    ],
+    "title": [
+      "Humor in The Miami University Report",
+      "TV Commercials: A Comparison"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8",
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "David S."
+      },
+      {
+        "family": "Wright",
+        "given": "Thomas A."
+      },
+      {
+        "family": "Bonett",
+        "given": "Douglas G."
+      },
+      {
+        "family": "S.",
+        "given": "David"
+      },
+      {
+        "family": "McCabe",
+        "given": "George P."
+      }
+    ],
+    "container-title": [
+      "H. Freeman and Company",
+      "Elaboration.” Journal of Management"
+    ],
+    "date": [
+      "2000",
+      "1993",
+      "1993"
+    ],
+    "edition": [
+      "2nd",
+      "2nd"
+    ],
+    "genre": [
+      "PM Page 816"
+    ],
+    "issue": [
+      "1",
+      "14"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "147–61"
+    ],
+    "publisher": [
+      "W. H",
+      "Freeman"
+    ],
+    "title": [
+      "The Basic Practice of Statistics",
+      "Role of New York: W",
+      "Employee Coping and Performance in Voluntary Moore",
+      "Introduction to Employee Withdrawal: A Research Refinement and the Practice of Statistics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19",
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bureau",
+        "given": "U.S.Census"
+      }
+    ],
+    "container-title": [
+      "definition",
+      "Rockney G",
+      "Department of Energy"
+    ],
+    "note": [
+      "Walton, Mary, 683, 815 z values, 232, 240, 259; see also Toronto Blue Jays, 54 U.S. Department of Washington Nationals, 54 Normal table Toronto Raptors, 110 Transportation, 185 Washington Post, 406 z␣ point, 240–241, 259"
+    ],
+    "pages": [
+      "139",
+      "814 361–364"
+    ],
+    "title": [
+      "5, 17, 160, 646 Walsh, Bryan, 11n5, 11n6 about population proportion, Empirical Rule and, 114–116, 231 U.S. Commerce Department, 683 Walters",
+      "finding with normal table, 244 U.S"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "114",
+      "336",
+      "10"
+    ]
+  },
+  {
+    "pages": [
+      "110 – , 242–243, 259"
+    ],
+    "publisher": [
+      "U.S. Energy Information Washington Wizards"
+    ],
+    "title": [
+      "Total quality management (TQM"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "O",
+      "e-billing case",
+      "Oil Company case"
+    ],
+    "date": [
+      "283, 308",
+      "280, 301"
+    ],
+    "pages": [
+      "270–271,",
+      "479 113–114,",
+      "255–258,",
+      "435–436,"
+    ],
+    "title": [
+      "E Video Game Satisfaction Rating case, 12–13"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52, 60, 108, 119",
+      "35, 42–45, 59–60, 106–107, 317, 345–346, 355, 360",
+      "126",
+      "427, 428, 433"
+    ]
+  },
+  {
+    "title": [
+      "McGraw-Hill Connect® Business Statistics, an online assignment and assessment tool, connects students with the resources they need for success in the course"
+    ],
+    "type": null
+  }
+]
