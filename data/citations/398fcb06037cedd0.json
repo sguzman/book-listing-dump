@@ -1,0 +1,666 @@
+[
+  {
+    "location": [
+      "ParseCommandLine(cmdInfo"
+    ],
+    "title": [
+      "// Parse command line for standard shell commands, DDE, file open CCommandLineInfo cmdInfo"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void CMiniDrawDoc::Dump(CDumpContext& dc) const"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CDocument::DeleteContents(); void CMiniDrawDoc::OnEditClearAll("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "note": [
+      "m_LineArray.GetSize ());"
+    ],
+    "title": [
+      "Add your command handler code here DeleteContents (); UpdateAllViews (0); void CMiniDrawDoc::OnUpdateEditClearAll(CCmdUI* pCmdUI) // TODO: Add your command update UI handler code here pCmdUI->Enable"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "volume": [
+      "pCmdUI->Enable (m_LineArray.GetSize"
+    ]
+  },
+  {
+    "note": [
+      "CMiniDrawDoc* pDoc = GetDocument(); ASSERT_VALID(pDoc);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CView::Dump(dc); CMiniDrawDoc* CMiniDrawView::GetDocument() // non-debug version is inline"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CView::OnLButtonDown(nFlags, point);"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "ParseCommandLine(cmdInfo"
+    ],
+    "title": [
+      "// Parse command line for standard shell commands, DDE, file open CCommandLineInfo cmdInfo"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "m_pMainWnd->DragAcceptFiles ();"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "CDocument::DeleteContents();"
+    ]
+  },
+  {
+    "type": null,
+    "volume": [
+      "pCmdUI->Enable (m_LineArray.GetSize"
+    ]
+  },
+  {
+    "type": null,
+    "volume": [
+      "pCmdUI->Enable (m_LineArray.GetSize"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "CScrollView::Dump(dc);"
+    ]
+  },
+  {
+    "note": [
+      "CClientDC ClientDC (this); OnPrepareDC (&ampClientDC); ClientDC.DPtoLP (&amppoint);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CScrollView::OnLButtonDown(nFlags, point);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CClientDC ClientDC (this); OnPrepareDC (&ampClientDC); ClientDC.DPtoLP (&amppoint);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "m_pMainWnd->DragAcceptFiles ();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 3"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_CIRCLEFILL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_LINE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTANGLE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTFILL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "note": [
+      "SetModifiedFlag (); void CMiniDrawDoc::OnUpdateEditClearAll(CCmdUI* pCmdUI) // TODO: Add your command update UI handler code here pCmdUI->Enable (m_LineArray.GetSize ());"
+    ],
+    "title": [
+      "Add your command handler code here DeleteContents (); UpdateAllViews (0"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "ParseCommandLine(cmdInfo"
+    ],
+    "title": [
+      "// Parse command line for standard shell commands, DDE, file open CCommandLineInfo cmdInfo"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 3"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_CIRCLEFILL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_LINE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTANGLE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTFILL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTROUND"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ParseCommandLine"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "m_pMainWnd->DragAcceptFiles ();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "aboutDlg",
+        "given": "CAboutDlg"
+      },
+      {
+        "given": "aboutDlgDoModal"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 1"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentThickness = 3"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_CIRCLEFILL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_LINE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTANGLE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTFILL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here m_CurrentTool = ID_TOOLS_RECTROUND"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add your command handler code here CColorDialog ColorDialog"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "GetDocument->OnDeactivateUI"
+      }
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "CView::Dump(dc);"
+    ]
+  },
+  {
+    "note": [
+      "CView::OnLButtonDown(nFlags, point);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "CServDemoDoc* pDoc = GetDocument(); ASSERT_VALID(pDoc"
+      }
+    ],
+    "container-title": [
+      "CSize(3000"
+    ],
+    "note": [
+      "x 3000 HIMETRIC units return TRUE;"
+    ],
+    "pages": [
+      "3000"
+    ],
+    "title": [
+      "// TODO: replace this arbitrary size rSize ="
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3000"
+    ]
+  },
+  {
+    "note": [
+      "CServDemoDoc* pDoc = GetDocument(); ASSERT_VALID(pDoc);"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Optionally"
+    ],
+    "note": [
+      "fill in the HIMETRIC extent."
+    ],
+    "title": [
+      "// modify the AppWizard-generated call to SetWindowExt: pDC->SetWindowExt (pDoc->GetDocSize ()); // TODO: add drawing code here"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "while (Index—) pDoc->GetLine (Index)->Draw (pDC); return TRUE;"
+    ],
+    "title": [
+      "// All drawing takes place in the metafile device context (pDC). // same code as in CServDemoView::OnDraw: int Index = pDoc->GetNumLines ("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CSingleDocTemplate* pDocTemplate; pDocTemplate = new CSingleDocTemplate( IDR_MAINFRAME, RUNTIME_CLASS(CContDemoDoc), RUNTIME_CLASS(CMainFrame), // main SDI frame window RUNTIME_CLASS(CContDemoView)); pDocTemplate->SetContainerInfo(IDR_CNTR_INPLACE); AddDocTemplate(pDocTemplate); // Parse command line for standard shell commands, DDE, file open CCommandLineInfo cmdInfo; ParseCommandLine(cmdInfo);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CDialog::DoDataExchange(pDX); //{{AFX_DATA_MAP(CAboutDlg) //}}AFX_DATA_MAP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "aboutDlg",
+        "given": "CAboutDlg"
+      },
+      {
+        "given": "aboutDlgDoModal"
+      }
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "COleDocument::AssertValid();"
+    ]
+  },
+  {
+    "note": [
+      "CContDemoDoc* pDoc = GetDocument(); ASSERT_VALID(pDoc);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ASSERT_VALID"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "if (pActiveItem != NULL"
+    ],
+    "pages": [
+      "–"
+    ],
+    "title": [
+      "CView::OnSize(nType, cx, cy); COleClientItem* pActiveItem = GetDocument()->GetInPlaceActiveItem(this"
+    ],
+    "type": "chapter"
+  },
+  {
+    "type": null,
+    "url": [
+      "CView::Dump(dc);"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TRUE",
+        "particle": "return"
+      }
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "210"
+    ],
+    "type": null,
+    "volume": [
+      "rPosition.SetRect(10, 10, 210"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "COleClientItem::OnActivate();"
+    ]
+  },
+  {
+    "note": [
+      "return COleControlModule::ExitInstance();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "// Constructor public: CAXCtrlCtrl();"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "DECLARE_OLECREATE_EX"
+      }
+    ],
+    "title": [
+      "// Class factory and guid DECLARE_OLETYPELIB(CAXCtrlCtrl) // GetTypeInfo DECLARE_PROPPAGEIDS(CAXCtrlCtrl) // Property page IDs DECLARE_OLECTLTYPE(CAXCtrlCtrl) // Type name and misc status"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "InitializeIIDs"
+      }
+    ],
+    "note": [
+      "m_BitmapNight.LoadBitmap (IDB_BITMAP1); m_BitmapDay.LoadBitmap (IDB_BITMAP2); m_CurrentBitmap = &ampm_BitmapNight; // initially display the “night” bitmap"
+    ],
+    "title": [
+      "// TODO: Initialize your control’s instance data here"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CBrush Brush (TranslateColor (GetBackColor ())); pdc->FillRect (rcBounds, &ampBrush);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ExchangeVersion(pPX, MAKELONG(_wVerMinor, _wVerMajor)); COleControl::DoPropExchange(pPX);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "InvalidateControl (); COleControl::OnLButtonUp(nFlags, point); void CAXCtrlCtrl::OnShowFrameChanged("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.O.D.O."
+      }
+    ],
+    "title": [
+      "Add notification handler code InvalidateControl ("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "436–437 for MDI, 754–755 for ServDemo, 1226–1228 for TabDemo, 653–654 for TextDemo, 832–834 for WinGreet, 247–248, 260–262 MainFrm.h file for BitDemo, 1028–1029 for ContDemo, 1260–1261 for Echo, 849–851 for FontDemo, 614–615 for FormDemo, 713–715 for Mandel, 899–901 for MandelMT, 1139–1140 for MiniDraw, 313–315 for drawings, 975–976 for file I/O, 412–414 for printing and print previewing, 1087–1089 for scrolling and splitting, 486–487 for storing documents, 374–375 for toolbars and status bars, 547–548 for MiniEdit, 337–338 for file I/O, 434–435 for MDI, 752–753 for ServDemo, 1225–1226 for TabDemo, 651–653"
+    ],
+    "title": [
+      "for BitDemo, 1030–1031 for ContDemo, 1261–1263 for Echo, 851–852 for FontDemo, 616–617 for FormDemo, 713–716 for Mandel, 901–902 for MandelMT, 1141–1142 for MiniDraw, 315–316 for drawings, 976–979 for file I/O, 414–415 for printing and print previewing, 1089–1091 for scrolling and splitting, 487–489 for storing documents, 376–377 for toolbars and status bars, 548–551 for MiniEdit, 338–340 for file I/O"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "540–542 MiniDrawView.cpp file, 288–289, 318–322 for drawings, 981–989 for file I/O, 417–421 for printing and print previewing, 1094–1103 for scrolling and splitting, 491–496 for storing documents, 379–383 for toolbars and status bars, 553–558 MiniDrawView.h file, 288, 291, 316–318 for drawings, 979–981 for file I/O, 415–417 for printing and print previewing, 1092–1094 for scrolling and splitting, 489–491 for storing documents, 377–379 for toolbars and status bars, 551–553"
+    ],
+    "title": [
+      "adding, 506–507, 507 code for, 515–526 resources for, 507–515, 509–510, 513–514 windows for, 301–304 MiniDraw.cpp file, 306–310 for drawings, 950–960 for file I/O, 402–406 for printing and print previewing, 1063–1073 for scrolling and splitting, 476–480 for storing documents, 365–368 for toolbars and status bars, 533–540 MiniDraw.dsw file, 282 MiniDraw.h file, 283–284, 305–306 for drawings, 948–950 for file I/O, 401–402 for printing and print previewing, 1060–1062 for scrolling and splitting, 475–476 for storing documents, 364–365 for toolbars and status bars, 531–533 MiniDraw.ico file, 301 MiniDraw.rc file, 301 MiniDrawDoc.cpp file, 311–313 for drawings, 965–974 for file I/O, 406–408 for printing and print previewing, 1077–1087 for scrolling and splitting, 482–486 for storing documents, 370–374 for toolbars and status bars, 542–546 MiniDrawDoc.h file, 310–311 for drawings, 961–965 for file I/O, 406–408 for printing and print previewing, 1073–1077 for scrolling and splitting, 480–482 for storing documents, 369–370 for toolbars and status bars"
+    ],
+    "type": null
+  }
+]
