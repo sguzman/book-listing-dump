@@ -1,0 +1,2172 @@
+[
+  {
+    "date": [
+      "2002",
+      "2000"
+    ],
+    "title": [
+      "for identification of frameworks is described in Mili et al",
+      "Feature modeling, as described by Czarnecki and Eisenecker in their generative programming book",
+      "is a formal version of commonality and variability analysis. Feature modeling provides a formal basis for the development of frameworks and product families"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "Bertrand"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "has the definitive discussion on design by contract"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Shaw and Garlan",
+      "Garlan and Allen"
+    ],
+    "date": [
+      "1992",
+      "1998",
+      "1996",
+      "1994"
+    ],
+    "note": [
+      "as well as several other authors on the topic of ADLs, have been focusing on describing interfaces using ADLs."
+    ],
+    "title": [
+      "There are also several good discussions on the Interactive Software Engineering web page and in the paper by Meyer",
+      "Bass et al",
+      "describes building a skeletal system as the first step. Many papers on Architecture Description Languages can be found at the CMU SEI web site",
+      "have done a lot of work in this area"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "The paper by Niklaus Wirth (1971) on stepwise refinement provides a good overview of early thinking on the divide and conquer approach"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Hofmeister"
+      }
+    ],
+    "container-title": [
+      "In a series of articles"
+    ],
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "Robert Martin discussed several key principles,"
+    ],
+    "title": [
+      "includes several effective strategies. Among them are Encapsulate Domain-Specific Hardware, Isolate Time-Critical Components, and Separate Domain Model from Human Interface"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "also discusses package levelization, a similar to dependency inversion."
+    ],
+    "title": [
+      "including the Dependency Inversion Principle, the Interface Segregation Principle, and the Open Closed Principle. The articles describing these principles are also available at his web site. The book by Lakos"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Buschmann"
+      }
+    ],
+    "container-title": [
+      "While Buschmann introduced the idea of an Architectural"
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "has a very good description of many Architectural Patterns. These include Pipes and Filters, Blackboard, Model–View–Controller, and Reflection"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pattern",
+        "given": "Shaw"
+      },
+      {
+        "given": "Garlan"
+      }
+    ],
+    "date": [
+      "1996",
+      "1997"
+    ],
+    "note": [
+      "also had a paper that discussed architectural styles and design patterns."
+    ],
+    "title": [
+      "had an earlier discussion of what came to be called patterns and architectural style. Monroe et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Douglass"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "discusses the use of Architectural Patterns for real-time software"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "The Specification and Description Language (SDL) is in the ITU Z.100 Specification"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "note": [
+      "SAAM). Information is available from the SEI web site."
+    ],
+    "title": [
+      "The Repository Pattern is described in Coplien",
+      "The SEI has done a significant amount of work on architecture analysis and evaluation. This work includes the Architecture Tradeoff Analysis Method (ATAM) and the Software Architecture Analysis Method"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Garland",
+        "given": "Anthony"
+      },
+      {
+        "given": "Lawrence"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "provide a more detailed description of the factors that impact the quest for the creation of stable software in an OOPSLA position paper"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Martin Fowler has a good description of continuous integration at his web site. There is also a description of continuous integration at the C2 Wiki site"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Appendix: Summary of Architectural Viewpoints This appendix includes a summary viewpoint table, based on the tables found in Chapter 1, along with the Viewpoint tables from each chapter. The summary is found in Table A.1"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "URLs mentioned in the recommended reading may be found on the web site."
+    ],
+    "title": [
+      "The following books and papers provide a good source of information on software architecture"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "Andrei"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Modern C++ Design: Generic Programming and Design Patterns Applied"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ambler",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "publisher": [
+      "Software Development"
+    ],
+    "title": [
+      "Distributed Object Design’"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Anthony",
+        "given": "Richard"
+      },
+      {
+        "family": "Garland",
+        "given": "Jeff"
+      },
+      {
+        "family": "Lawrence",
+        "given": "Bill"
+      }
+    ],
+    "container-title": [
+      "Position Paper for the Workshop on Achieving Bottom-Line Improvements with Application and Enterprise Frameworks at OOPSLA 1999"
+    ],
+    "title": [
+      "An Analysis of the Advantages of Application and Enterprise Frameworks’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bass",
+        "given": "Len"
+      },
+      {
+        "family": "Clements",
+        "given": "Paul"
+      },
+      {
+        "family": "Kazman",
+        "given": "Rick"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Software Architecture in Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "Kent"
+      },
+      {
+        "family": "Cunningham",
+        "given": "Ward"
+      }
+    ],
+    "container-title": [
+      "From the OOPSLA’89 Conference Proceedings",
+      "and the special issue of SIGPLAN Notices"
+    ],
+    "date": [
+      "1989",
+      "1989-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "title": [
+      "A Laboratory For Teaching Object-Oriented Thinking’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "October 1–6",
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bellin",
+        "given": "David"
+      },
+      {
+        "family": "Simone",
+        "given": "Susan Suchman"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The CRC Card Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "Grady"
+      },
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      },
+      {
+        "family": "Rumbaugh",
+        "given": "James"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Unified Modeling Language User Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bosch",
+        "given": "Jan"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design and Use of Software Architectures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "William J."
+      },
+      {
+        "family": "McCormick",
+        "given": "Hays W."
+      },
+      {
+        "family": "Thomas",
+        "given": "Scott W."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Anti-Patterns in Project Management"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "III. Anti-Patterns: Refactoring Software, Architectures, and Projects in Crisis"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Brown",
+        "given": "William J."
+      },
+      {
+        "family": "Malveau",
+        "given": "Raphael C."
+      },
+      {
+        "family": "McCormick",
+        "given": "Hays W."
+      }
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Frank",
+        "given": "Regine Meunier"
+      },
+      {
+        "family": "Rohnert",
+        "given": "Hans"
+      },
+      {
+        "family": "Sommerlad",
+        "given": "Peter"
+      },
+      {
+        "family": "Stal",
+        "given": "Michael"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "given": "Buschmann"
+      }
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Pattern-Oriented Software Architecture: A System of Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cockburn",
+        "given": "Alistair"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Writing Effective Use Cases"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "Bibliography"
+      },
+      {
+        "family": "O",
+        "given": "James"
+      }
+    ],
+    "citation-number": [
+      "252"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Multi-Paradigm Design for C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "James"
+      },
+      {
+        "family": "Hoffman",
+        "given": "Daniel"
+      },
+      {
+        "family": "Weiss",
+        "given": "David"
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "November/December 1998"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Commonality and Variability in Software Engineering’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "container-title": [
+      "Pattern Languages of Program Design"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Coplien",
+        "given": "James O."
+      },
+      {
+        "family": "Schmidt",
+        "given": "Douglas C."
+      }
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Czarnecki",
+        "given": "Krzysztof"
+      },
+      {
+        "family": "Eisenecker",
+        "given": "Ulrich W."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Generative Programming – Methods, Tools, and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Army",
+        "given": "Department",
+        "particle": "of the"
+      }
+    ],
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "2000-05-08"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "Joint Technical Architecture – Army’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dikel",
+        "given": "David M."
+      },
+      {
+        "family": "Kane",
+        "given": "David"
+      },
+      {
+        "family": "Wilson",
+        "given": "James R."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Software Architecture: Organizational Principles and Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Douglass",
+        "given": "Bruce Powel"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Doing Hard Time: Developing Real-Time Systems with UML, Objects, Frameworks and Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Egyed",
+        "given": "Alexander"
+      },
+      {
+        "family": "Medvidovic",
+        "given": "Nenad"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Second IEEE International Conference on the Unified Modeling Language (UML99"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "‘Extending Architectural Representation in UML with View Integration’’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ericsson",
+        "given": "Maria"
+      }
+    ],
+    "container-title": [
+      "Rational Software, Rational White Paper"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Developing Large-scale Systems with the Rational Unified Process’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fagan",
+        "given": "M.E."
+      }
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "2–3,"
+    ],
+    "title": [
+      "Design and Code Insptections to Reduce Errors in Program Development’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Foote",
+        "given": "Brian"
+      },
+      {
+        "family": "Harrison",
+        "given": "Neil"
+      },
+      {
+        "family": "Rohnert",
+        "given": "Hans"
+      }
+    ],
+    "date": [
+      "1999-12"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Pattern Languages of Program Design 4"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Foote",
+        "given": "Brian"
+      },
+      {
+        "family": "Yoder",
+        "given": "Joseph"
+      }
+    ],
+    "container-title": [
+      "Pattern Languages of Program Design 4"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Big Ball of Mud’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "July/August 2001"
+    ],
+    "title": [
+      "Reducing Coupling"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      },
+      {
+        "family": "Highsmith",
+        "given": "Jim"
+      }
+    ],
+    "container-title": [
+      "Software Development Magazine"
+    ],
+    "date": [
+      "2001-08"
+    ],
+    "title": [
+      "The Agile Manifesto’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      },
+      {
+        "family": "Scott",
+        "given": "Kendall"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UML Distilled, Applying the Standard Object Modeling Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garlan",
+        "given": "David"
+      },
+      {
+        "family": "Allen",
+        "given": "Robert"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 16th International Conference on Software Engineering"
+    ],
+    "date": [
+      "May 16–21, 1994"
+    ],
+    "location": [
+      "Sorrento, Italy"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "Formalizing Architectural Connection’, 71–80"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Garland",
+        "given": "Jeff"
+      }
+    ],
+    "container-title": [
+      "Position Paper for the OOPSLA 2001 Workshop on Representing Architectures"
+    ],
+    "title": [
+      "Representing Software Architectures for Large-Scale Systems’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Garland",
+        "given": "Jeff"
+      },
+      {
+        "family": "Anthony",
+        "given": "Richard"
+      },
+      {
+        "family": "Lawrence",
+        "given": "Bill"
+      }
+    ],
+    "container-title": [
+      "Position Paper for the OOPSLA 99 Workshop on Accomplishing Software Stability"
+    ],
+    "title": [
+      "Accomplishing Software Stability’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Highsmith",
+        "given": "James",
+        "suffix": "III"
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Dorset House"
+    ],
+    "title": [
+      "Adaptive Software Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hofmeister",
+        "given": "Christine"
+      },
+      {
+        "family": "Nord",
+        "given": "Robert"
+      },
+      {
+        "family": "Soni",
+        "given": "Dilip"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Applied Software Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Std",
+        "given": "I.E.E.E."
+      }
+    ],
+    "date": [
+      "1471",
+      "2000"
+    ],
+    "title": [
+      "IEEE Recommended Practice for Architectural Description of Software-Intensive Systems’"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.S.O./I.E.C."
+      }
+    ],
+    "container-title": [
+      "ISO/IEC DIS"
+    ],
+    "issue": [
+      "1995"
+    ],
+    "title": [
+      "The Reference Model for Open Distributed Processing’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "genre": [
+      "ISO/IEC 10164-2,"
+    ],
+    "publisher": [
+      "‘State Management Function’"
+    ],
+    "title": [
+      "ITU-T Recommendation X.731 |"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.T.U.-T."
+      }
+    ],
+    "container-title": [
+      "Specification’"
+    ],
+    "date": [
+      "1999-11"
+    ],
+    "title": [
+      "Z.100, Specification and Description Language (SDL"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "I.T.U.-T."
+      }
+    ],
+    "container-title": [
+      "Specification’"
+    ],
+    "date": [
+      "1999-11"
+    ],
+    "title": [
+      "Z.120, Message Sequence Chart (MSC"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "Daniel"
+      },
+      {
+        "family": "Chapin",
+        "given": "John"
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "May/June 2000"
+    ],
+    "pages": [
+      "63–70"
+    ],
+    "title": [
+      "Redesigning Air Traffic Control: An Exercise in Software Design’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Software Engineering: A Use Case Driven Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      }
+    ],
+    "container-title": [
+      "ROAD"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Use Cases in Large-Scale Systems’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      },
+      {
+        "family": "Booch",
+        "given": "Grady"
+      },
+      {
+        "family": "Rumbaugh",
+        "given": "James"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Unified Software Development Process"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      },
+      {
+        "family": "Palmkvist",
+        "given": "K."
+      },
+      {
+        "family": "Dyrhage",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "ROAD"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Systems of Interconnected Systems’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kande",
+        "given": "Mohamed Mancona"
+      },
+      {
+        "family": "Strohmeier",
+        "given": "Alfred"
+      }
+    ],
+    "container-title": [
+      "Proceedings of UML ‘2000 – The Unified Modeling Language: Advancing the Standard, Third International Conference"
+    ],
+    "date": [
+      "October 2–6, 2000"
+    ],
+    "location": [
+      "York, UK"
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "title": [
+      "Towards a UML Profile for Software Architecture Descriptions’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerner",
+        "given": "Judy"
+      }
+    ],
+    "container-title": [
+      "CrossTalk, The Journal of Defense Software Engineering"
+    ],
+    "date": [
+      "2001-10"
+    ],
+    "title": [
+      "Joint Technical Architecture: Impact on Department of Defense Programs’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kruchten",
+        "given": "Philippe"
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "5"
+    ],
+    "title": [
+      "The 4+1 view model of architecture’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kruchten",
+        "given": "Philippe"
+      }
+    ],
+    "container-title": [
+      "A Position Paper presented at the 1998 International Workshop on Component-Based Software Engineering"
+    ],
+    "title": [
+      "Modeling Component Systems with the Unified Modeling Language’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kruchten",
+        "given": "Philippe"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Rational Unified Process"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lago",
+        "given": "P."
+      },
+      {
+        "family": "Falcarin",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 1st International Workshop on Describing Software Architecture with UML (co-located with ICSE’2001"
+    ],
+    "date": [
+      "2001-05"
+    ],
+    "location": [
+      "Toronto, Canada"
+    ],
+    "title": [
+      "UML Requirements for Distributed Software Architectures’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lakos",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Large-Scale C++ Software Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lawrence",
+        "given": "Bill"
+      },
+      {
+        "family": "Anthony",
+        "given": "Dick"
+      },
+      {
+        "family": "Garland",
+        "given": "Jeff"
+      }
+    ],
+    "container-title": [
+      "Position Paper submitted to the OOPSLA ’99 Workshop on Patterns in Software Architecture: The Development Process"
+    ],
+    "title": [
+      "A Process for Developing Reusable Software’"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Maier",
+        "given": "Mark W."
+      },
+      {
+        "family": "Rechtin",
+        "given": "Eberhardt"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "The Art of Systems Architecting"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maier",
+        "given": "M.W."
+      },
+      {
+        "family": "Emery",
+        "given": "D."
+      },
+      {
+        "family": "Hilliard",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "2001-04"
+    ],
+    "issue": [
+      "4 "
+    ],
+    "pages": [
+      "107–109"
+    ],
+    "title": [
+      "Software Architecture: Introducing IEEE Standard 1471’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert C."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Designing Object Oriented C++ Applications Using The Booch Method"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McCarthy",
+        "given": "Jim"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Dynamics of Software Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Medividovic",
+        "given": "Nenad"
+      },
+      {
+        "family": "Rosenblum",
+        "given": "David S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the First Working IFIP Conference on Software architectures (WICSA1"
+    ],
+    "date": [
+      "February 22–24, 1999"
+    ],
+    "location": [
+      "San Antonio, TX"
+    ],
+    "title": [
+      "Assessing the Suitability of a Standard Design Method for Modeling Software Architectures’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Medvidovic",
+        "given": "Nenad"
+      },
+      {
+        "family": "Rosenblum",
+        "given": "David S."
+      },
+      {
+        "family": "Robbins",
+        "given": "Jason E."
+      },
+      {
+        "family": "Redmiles",
+        "given": "David F."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer Magazine"
+    ],
+    "date": [
+      "1999-01"
+    ],
+    "title": [
+      "Modeling Software Architectures in the Unified Modeling Language’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Medividovic",
+        "given": "Nenad"
+      },
+      {
+        "family": "Taylor",
+        "given": "Richard N."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Third International Software Architecture Workshop (ISAW-3"
+    ],
+    "date": [
+      "November 1–2, 1998"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "pages": [
+      "105–108,"
+    ],
+    "title": [
+      "Separating Fact from Fiction in Software Architecture’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "Bertrand"
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1992-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "40–51"
+    ],
+    "title": [
+      "Applying Design by Contract’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "Bertrand"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Object-Oriented Software Construction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "B.Craig"
+      },
+      {
+        "family": "Oberndorf",
+        "given": "Patricia"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Managing Software Acquisition: Open Systems and COTS Products"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mili",
+        "given": "Hafedh"
+      },
+      {
+        "family": "Fayad",
+        "given": "Mohammed"
+      },
+      {
+        "family": "Brugali",
+        "given": "Davide"
+      },
+      {
+        "family": "Hamu",
+        "given": "David"
+      },
+      {
+        "family": "Dori",
+        "given": "Dov"
+      }
+    ],
+    "container-title": [
+      "International Software Practice & Experience (SP&E) Journal"
+    ],
+    "date": [
+      "2002-03"
+    ],
+    "title": [
+      "Enterprise Frameworks: Issues and Research Directions’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Monroe",
+        "given": "Robert T."
+      },
+      {
+        "family": "Kompanek",
+        "given": "Andrew"
+      },
+      {
+        "family": "Melton",
+        "given": "Ralph"
+      },
+      {
+        "family": "Garlan",
+        "given": "David"
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "1997-01"
+    ],
+    "pages": [
+      "43–52"
+    ],
+    "title": [
+      "Architectural Styles, Design Patterns, and Objects’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Naiburg",
+        "given": "Eric J."
+      },
+      {
+        "family": "Maksimchuk",
+        "given": "Robert A."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "UML for Database Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ousterhout",
+        "given": "John K."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1998-03"
+    ],
+    "title": [
+      "Scripting: Higher Level Programming for the 21st Century’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Parnas",
+        "given": "D.L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1972-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1053–1058"
+    ],
+    "title": [
+      "On the Criteria To Be Used in Decomposing Systems into Modules’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Paulish",
+        "given": "Daniel J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Architecture-Centric Software Project Management: A Practical Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pryce",
+        "given": "Nathamid G."
+      }
+    ],
+    "date": [
+      "2000-01"
+    ],
+    "genre": [
+      "PhD Thesis,"
+    ],
+    "publisher": [
+      "Imperial College of Science, Technology and Medicine"
+    ],
+    "title": [
+      "Component Interaction in Distributed Systems’"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Putman",
+        "given": "Janis"
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Architecting With RM-ODP"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rettig",
+        "given": "Michael J."
+      },
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "container-title": [
+      "Code Generation’, Java World"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "title": [
+      "Reflection vs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Riel",
+        "given": "Arthur J."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Design Heuristics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rising",
+        "given": "Linda"
+      },
+      {
+        "family": "Janoff",
+        "given": "Norman S."
+      }
+    ],
+    "container-title": [
+      "IEEE Software"
+    ],
+    "date": [
+      "July/August 2000"
+    ],
+    "title": [
+      "The Scrum Software Development Process for Small Teams’"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenberg",
+        "given": "Doug"
+      },
+      {
+        "family": "Scott",
+        "given": "Kendall"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Use Case-Driven Object Modeling with UML"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rumbaugh",
+        "given": "James"
+      },
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      },
+      {
+        "family": "Booch",
+        "given": "Grady"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Unified Modeling Language Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "Douglas"
+      },
+      {
+        "family": "Stal",
+        "given": "Michael"
+      },
+      {
+        "family": "Rohnert",
+        "given": "Hans"
+      },
+      {
+        "family": "Buschmann",
+        "given": "Frank"
+      }
+    ],
+    "collection-title": [
+      "Patterns for Concurrent and Networked Objects"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Pattern-Oriented Software Architecture"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sewell",
+        "given": "Marc"
+      },
+      {
+        "family": "Sewell",
+        "given": "Laura"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Software Architect’s Profession: An Introduction to the 21st Century"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "M."
+      },
+      {
+        "family": "Clements",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of Computer Software and Applications Conference 1997"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "6–13"
+    ],
+    "title": [
+      "A Field Guide to Boxology: Preliminary Classification of Architectural Styles for Software Systems’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "Mary"
+      },
+      {
+        "family": "Garlan",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Software Architecture: Perspectives on an Emerging Discipline"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Douglas"
+      }
+    ],
+    "container-title": [
+      "Proceedings of UML World 2000"
+    ],
+    "date": [
+      "2000-06-12"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "1131–1168"
+    ],
+    "publisher": [
+      "Published by CMP Media"
+    ],
+    "title": [
+      "Realizing Architecture Through Realizing Use Cases’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Soni",
+        "given": "Dilip"
+      },
+      {
+        "family": "Nord",
+        "given": "R.L."
+      },
+      {
+        "family": "Hsu",
+        "given": "Liang"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Seventh International Workshop on Software Specification and Design"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "47–51"
+    ],
+    "title": [
+      "An Empirical Approach to Software Architectures’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the International Conference on Software Methods and Tools 2000"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "41–50"
+    ],
+    "title": [
+      "Adhocism in Software Architecture – Perspectives from Design Theory’"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Vaughan",
+        "given": "Jack"
+      }
+    ],
+    "container-title": [
+      "Application Development Trends"
+    ],
+    "date": [
+      "2001-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "18–23"
+    ],
+    "title": [
+      "UML Hits the Streets’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weinberg",
+        "given": "Gerald M."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Dorset House Publishing. February"
+    ],
+    "title": [
+      "The Psychology of Computer Programming, Silver Anniversary Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "David M."
+      },
+      {
+        "family": "Robert",
+        "given": "Chi Tau"
+      },
+      {
+        "given": "Lai"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Software Product-Line Engineering: A Family-Based Software Development Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wirth",
+        "given": "Niklaus"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1971-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "221–227"
+    ],
+    "title": [
+      "Program Development by Stepwise Refinement’"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yourdon",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Modern Structured Analysis",
+      "Index"
+    ],
+    "type": "book"
+  }
+]
