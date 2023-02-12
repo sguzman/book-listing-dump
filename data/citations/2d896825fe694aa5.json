@@ -1,0 +1,23 @@
+[
+  {
+    "title": [
+      "BinaryServerFormatterSinkProvider serverProvider = new BinaryServerFormatterSinkProvider(); serverProvider.TypeFilterLevel = TypeFilterLevel.Full; BinaryClientFormatterSinkProvider clientProvider = new BinaryClientFormatterSinkProvider("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Employee Elton = new Manager(“Elton John”, 50000.00M);"
+    ],
+    "title": [
+      "Let’s have a closer look at the Manager class that is referenced by a variable declared as a reference to Employee"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Manager ManagerElton = (Manager) Elton; this.listBox1.Items.Add(“Elton’s bonus is “ + ManagerElton.Bonus"
+    ],
+    "type": null
+  }
+]
