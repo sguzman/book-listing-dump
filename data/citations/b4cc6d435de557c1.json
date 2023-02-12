@@ -1,0 +1,169 @@
+[
+  {
+    "citation-number": [
+      "463"
+    ],
+    "container-title": [
+      "length of"
+    ],
+    "note": [
+      "197 Capture output (I /O) pins, 146 Intel Timers Configuration Register, StrongARM series, 168 Microchip's 196 PIC series, 163—5 National Capture Timers Status Register, 197 Semiconductor's USBN9603, CATC, 403, 408 CBI 166-8 Philips"
+    ],
+    "pages": [
+      "480–90 152–4"
+    ],
+    "title": [
+      "detecting communications directed to, extending, 13 30-1 development boards flexible, 156 provided with",
+      "for low- and full-speed communica- development of tions, 467, 468 architecture choices, 146—52 chip noise reduction, 484-4 documentation, 151 debugging tools, PC-to-PC, 286 152—5 driver choices, 151—3 project requirements for, 474 needs, 155-7 sample firmware, 151 setting up Development Board, 219 and drivers, 151-3 elements of, 141-7 shielding, 483-3 FTDI's FT8U232AM USB UART, twisted pairs, 482—2 282-8 cameras, selecting device classes for, 278—3 important features, 146—8 input and Capture Timer Data Register"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, 156, 427"
+    ]
+  },
+  {
+    "note": [
+      "Control/bulk/interrupt) transport, Semiconductors"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "277"
+    ],
+    "pages": [
+      "149–2"
+    ],
+    "title": [
+      "control selecting, 170 endpoints, 45 and software, ability to upgrade, 155—7 bInterval endpoint descriptor, 113—5 data speed of, 155 size, 74 and STALL, 64 controller chips, that interface to external microcontrol-10-1, 141 ler"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "chips",
+        "given": "See",
+        "particle": "also Cypress enCoRe"
+      }
+    ],
+    "note": [
+      "application types used with, 48 central-processing unit (CPU), 142—4 availability, 70—2 bandwidth for, compatible with existing chip families, 75-7, 78 brief overview, 47 and"
+    ],
+    "pages": [
+      "63–4 142–4"
+    ],
+    "title": [
+      "Cypress' transfer type support, 155 USB EZ-USB series controller chips; port, 141-3 control transfers, NET2888 controller chips buffers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "devices See also human interface device (HID) See also device classes; drivers, device; class endpoints, device; enumeration; selecting human interface device (HID) class; for audio applications, 279-4 for human interface devices ability to cameras, 278—3 for devices that upgrade, 155 address of, 42, 97, 185-8 transfer data at moderate speeds, attaching 280—5 for joystick, 276 with Device Manager, 254—62"
+    ],
+    "pages": [
+      "279–4"
+    ],
+    "title": [
+      "DestinationDirs section, of INF files, 266 Device Manager, 94 See also INF files DeVaSys Embedded Systems I2C/IO attaching devices, 254-62 device and class board, 153-5 Developing installers, 252 device listings, 254—62 ActiveX Components in Visual purpose of, 251—6 removed devices, Basic, 390 viewing, 254 system registry, 253-8 development process, 35—8 Device Class viewing, 93, 252 device_qualifier Definition for Human Interface descriptor"
+    ],
+    "type": null,
+    "volume": [
+      "100, 101, 102, Devices, 290 device 105-7,428 classes, 271"
+    ]
+  },
+  {
+    "note": [
+      "DriverWorks, 254 drvdata.bin 212—4 hardware duties, 210 interrupt files, 256 drvidx.bin files, 256 service routines, 199—203 I/O interfaces, DSP (Data Stack Pointer), 187 192-7 power management, 207 PROM dual-speed devices, 117-8 Programming, 226-9 timer functions, 197—9 USB communications, 187—92"
+    ],
+    "title": [
+      "operating system support, 15 programming in C for, 180-1 requesting bandwidth from, 29 using, 177—9 chip architecture, and symbolic links, 242 182-7 CPU status, control, and transfer requests, 50 clocking, VxDs (virtual device drivers), 237, 241 203-7 WDM drivers, 237-8 CY3654 Development Kit, 219 drivers, host-controller, 240 CYDB debugger, 223-6 Platform brief overview, 241 board, 220-1 setting up, 222 role of, 246-7 firmware duties, 219 drivers, hub endpoint 0 interrupts, 211-2 handling role of, 245 interrupt transfers, 218 receiving data root-hub driver, 241 from host, 215—8 sending data to the host"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "E Start-of-High-speed-Packet bus state, 462 ease of use, 3-6 End-of-Packet (EOP) bus state, 459 Endedge rates, 493-4 of-Packet (EOP) signal, 55, 431, 454, EEPROM (electrically erasable PROM), 459,",
+      "field, 467 endpoints, device, 44-6, electrically erasable PROM (EEPROM), 64-5 See also enumeration address of, 145-6 151 bulk, 78-81 encoding, data, 460-1 data speed, 117-8 transaction staying synchronized, 462—4 scheduling, 246 and bus timing accuracy, 464—5 enCoRe bandwidth, 89-90 connecting to chips, 173-229 host, 46—7 control, 45, 71-78 advantages/disadvantages, 173 Assembler, 173-4 assembly codes, 175-7 programming basics of, 174—5"
+    ],
+    "pages": [
+      "482–3"
+    ],
+    "title": [
+      "464 145-6 Endpoint 0 interrupts, 211,213, 215 EHCI, 246-7, 431 endpoint descriptors, 46, 102, 103, 108, EIA/TIA-232 interface. See RS-232 inter- 113-5,307 face electrical interface and interrupt transfers speed, 83 for See also cables; transceivers ensuring status change endpoint, 436 endpoint signal quality"
+    ],
+    "type": null,
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "note": [
+      "294-5 communications, 344—8 identifying firmware requirements, 298 each HID interface, 369—71 obtaining hardware requirements, 296-7 GUID for HID Class, 366-7 reading HID class descriptor, 302-3 and writing data, 384 reading Vendor HID-specific requests, 306-8 Get_Idle and Product IDs, 378-9"
+    ],
+    "title": [
+      "and bus, 97 Main item type, 325-30 hub controller, 430-1 structure of, 321-5 hub repeater, 425-8 human interface devices (HID), communiover-current protection, 450—1 cating with See also API functions; powering options for, 449—50 reading data; power switching, 451 writing data purpose of, 25—7 closing communications, 398-9 getting resetting devices, 97 array of structures with information transaction translator, 428—30 about HIDs, 367-8 getting capabilities viewing, 362, 363 of values, 383 getting device voltage, 444 human interface capabilities, 381-3 getting device device (HID) class pathname, 372—6 getting handle for abilities and limitations of, 294—5 device, 376—7 getting pointer to buffer brief overview, 293—4 with device Device Class Definition for Human capabilities, 380—1 host Interface Devices"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "phases, 52 downstream-facing, speed support, See also packets clock, 477,",
+      "port addresses, 5 port Photographic and Imaging Manufacturers indicators, 440-1 Port Interrupt Association (PIMA) 15740 Standard, 282 Enable Register, 200 Reset state, 459 physical descriptor, 342 Physical Interface resetting, 57, 97, 126 RS-232 serial class, 278 Physical Minimum and Physical port, 220, 285 Set_Port_Feature Maximum item, 334-5 PIC series chips, request, 97, 126, 452 SPI (Serial 150, 164-5 PIDs. See Packet IDs PING Peripheral Interface) port, protocol, 55, 56, 64-5, 79 pipes, 46-7 195-6"
+    ],
+    "pages": [
+      "14–5"
+    ],
+    "title": [
+      "478 196 transaction, 53-6 entering and exiting test modes, 468 packet sequences, 56—7 expanding number of, 5 of external split transactions, 57—61 hubs, 424—5 Get_Port_Status request, timing constraints and guarantees, 96-7, 100, 57 Philips 126, 140, 430, 438 parallel Semiconductors, 17 ports, 155, 288-90 Parallel Printer PDIUSBD11/12 chips, 151, 168-9 Port"
+    ],
+    "type": null,
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "note": [
+      "item, 331 Report Size item, 306 gramming Interface (TAPI), 284 requirements, computer, 22—3 to write driver for USB device, 238, 250 Reset bus state, 458 ROM (readonly memory), 145"
+    ],
+    "title": [
+      "PROM programming, 226-9 reliability of USB, 7 and protocol complexity, 14-5 remote-wakeup feature, 32, 191, 248, 453 Visual Basic, calling API functions ReNum register bit, 162 Report Count with, 351-2 item, 306 report descriptors, 298, 304-6, Visual C++ 304-6, 321-2 calling API functions with, 349-51 creating, 322—3 compilers for, 350-1 testing, 322—3 Report ID Windows Telephony Application Pro"
+    ],
+    "type": "report"
+  },
+  {
+    "container-title": [
+      "411—2 USB WHQL"
+    ],
+    "pages": [
+      "421–2"
+    ],
+    "title": [
+      "error-checking, 413 WDM drivers, 237-8 parallel connections for"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Implementers"
+      }
+    ],
+    "note": [
+      "WinDriver USB, 254 Visual C++ WinRTInterruptTransfer function, 251 calling API functions with, 349-51 WinRT toolkit, 251-3 wireless compilers for, 350-1 vmm32.vxd file, connections, 290—1 WriteFile function,"
+    ],
+    "pages": [
+      "237",
+      "22–3 351–2"
+    ],
+    "title": [
+      "Forum, 11, 17 Win32 API Puzzle Book, 361-2 Compliance Program, 417—21 win32api.txt file, 353 Vendor IDs, 104,273 Win32 Driver Model (WDM",
+      "USBN9603 chips, 167-8 USB communication flow, 241—7 On-The-Go, 13, 490 USB layered drivers, 238—41 port, 142-3 usbready utility, 22 WinDK, 254 USBView application, 362—3 Windows 2000, USB support, 9-10 user mode, 235 user settings, 3 Windows Device Developer's Kit (DDK), 249-50 Windows Hardware V Quality Labs Testing, Vendor IDs, 15, 104,273 Version 421-2 Windows, USB support section, of INF files, 268 Visual Basic, for, 9-10, 18-9, calling API functions with"
+    ],
+    "type": null,
+    "volume": [
+      "10"
+    ]
+  }
+]
