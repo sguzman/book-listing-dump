@@ -1,0 +1,361 @@
+[
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1257"
+    ],
+    "note": [
+      "found"
+    ],
+    "title": [
+      "One-shot position V.P"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1300"
+    ],
+    "title": [
+      "Latch to enable to go to subroutine to return to V.P"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1350"
+    ],
+    "note": [
+      "≥)—Return to V.P. sub (Pos > V.P."
+    ],
+    "title": [
+      "Compare LVDT with V.P"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1351"
+    ],
+    "publisher": [
+      "Ahead of V.P"
+    ],
+    "title": [
+      "Position ≥ V.P.—reverse motor"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1352"
+    ],
+    "note": [
+      "≤) (Pos < V.P."
+    ],
+    "title": [
+      "Compare LVDT with V.P"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1353"
+    ],
+    "location": [
+      "Behind V.P"
+    ],
+    "title": [
+      "Position ≤ V.P.—forward motor"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1354"
+    ],
+    "note": [
+      "Reverse ahead of V.P."
+    ],
+    "title": [
+      "Latch found V.P. from Pos ≥ V.P"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1355"
+    ],
+    "note": [
+      "from reverse"
+    ],
+    "title": [
+      "One shot found V.P"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "date": [
+      "1356"
+    ],
+    "publisher": [
+      "Forward behind V.P"
+    ],
+    "title": [
+      "Latch found V.P. from Pos ≤ V.P"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PV",
+        "given": "Ahead",
+        "particle": "of V.P. Rev Ahead of"
+      }
+    ],
+    "container-title": [
+      "Therefore, reverse motor. Ahead of V.P. OS Found V.P. Rev 1351 1355 Found V.P"
+    ],
+    "date": [
+      "1351"
+    ],
+    "note": [
+      "latch signal) via OS reversing motor command."
+    ],
+    "title": [
+      "Not back at V.P. from a L position greater than V.P"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1001 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1002 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1003 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1006 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1011 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1014 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1015 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1017 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1020 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1022 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Industrial Text & Video Company 1-800-752-8398 1023 www.industrialtext.com Glossary"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– – 340–341 93–98"
+    ],
+    "title": [
+      "complement 342 CANbus 888–894 invert 343 InterBus-S 886–888 data manipulation instructions 334–347 wiring guidelines 912–913 absolute 342 diagnostic AI systems 775 BCD-to-binary 340–341 diagnostics"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "See derivative controllers Seriplex 897–898 documentation 536–549 byte-wide 886–894 control program printout 544–547"
+    ],
+    "title": [
+      "input 153–155 special function interfaces 220–224 output 167–168 fast-input interfaces 220–221 dead time 628–630, 644–645 fast-response interfaces 222–224 decimal number system 34–36 wire input fault modules 221–222 defuzzification 805, 818–828, 842–844 displacement transducers 586–588 center of gravity method 820–822 LVDTs 587 maximum value method 819 potentiometers 587–588 derivative controllers 690–692, 725–729 distributed control 973 modified 728–729 distributed I/O processing 218 standard 725–727 divergences 409–413 device bus networks 883–884, 886–898 AND divergence 412, 413 bit-wide 894–898 OR divergence 410–411 ASI 895–896 division instruction 332–333 InterBus Loop 896 D mode controllers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FBD",
+        "particle": "documentation"
+      }
+    ],
+    "genre": [
+      "outcome calculation 812–814 cyclic exclusive-OR checksum 95–96 rule evaluation 809–812 cyclic redundancy check 94–95 fuzzy set 808 longitudinal redundancy check 95"
+    ],
+    "note": [
+      "See erasable programmable read-only I/O interaction 258–260 memory labels 807–808 erasable programmable read-only memory 113–114 membership functions 257, 806–807 error rules 256–257, 809–812 measurement 558–565 system design guidelines 835–844 process control 611–612, 614–618, 621 fuzzy logic interfaces 255–260. See also fuzzy logic error-checking techniques 93–98. See also diagnostics fuzzy processing"
+    ],
+    "pages": [
+      "808–818, 841–842 94–96"
+    ],
+    "title": [
+      "See function block diagram control program storage 547 feedback 615 documentation systems 547–549 feed velocity 246 internal storage address assignment document 450– fiber-optic cable 861–862 451, 542 Fieldbus process bus network 901–905 I/O address assignment document 542, 450–451 FIFO instruction 356–357 I/O wiring connection diagram 539–541 first in–first out. See FIFO storage register assignment table 455, 543 first-order system response 631, 646–650 system abstract 537–538 flowcharting 447–449 system configuration diagram 538–539 flow transducers 591–598 variable declaration 543–544 fluid flow transducers 592–598 documentation systems 547–549 motion detection 597–598 double convergence. See AND convergence pressure-based 593–597 double divergence. See AND divergence solid flow transducers 591–592 double-precision arithmetic 323 fluid flow transducers 592–598 down counter instruction 314 motion detection 597–598 pressure-based 593–597 forward chaining 782–783 EAROM. See electrically alterable read-only memory function block diagram 375, 381–384, 392 EEPROM. See electrically erasable programmable fuzzification 805–808, 839–840 read-only memory labels 807–808 EIA RS-232C 262–265 membership functions 806–807 EIA RS-422 265–267 fuzzy logic EIA RS-485 267–268 algorithms 256–257, 798–799 electrically alterable read-only memory 114 defuzzification 805, 818–828, 842–844 electrically erasable programmable read-only function 255, 798–799, 802–805 memory 114–115 fuzzification 805–808, 839–840 encapsulation 382 fuzzy processing 805, 808–818, 841–842 encoder/counter interfaces 234–235 grades 798, 802–804 end instruction 319 history 801–802 EPROM"
+    ],
+    "type": null,
+    "volume": [
+      "805"
+    ]
+  },
+  {
+    "note": [
+      "16 wiring guidelines 913–914 versus PLC 15–16 process control PID bumpless auto/manual transfer 743–744 advanced systems 744–747"
+    ],
+    "title": [
+      "controllers Bourdon tubes 589–590 peripheral interfacing 260–271 load cells 591 communication standards 260–261 strain gauges 588–589 serial communication standards 261–269 process bus networks 883–884, 899–910 personal computer Fieldbus 901–905 as programming device 12, 106–108, 975 Profibus 906–910 as “soft PLC"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "See proportional-integral control- continuous 690–744 lers discrete 676–690 PLC definition 610–614,"
+    ],
+    "note": [
+      "670 applications 17–21 Laplace transforms 632–653 architecture 10–12 dead time 644–645 definition 4 derivative 633–641 documentation 536–549 integral 641–644 features 6–9, 26–32 lag 645–653 history 5–6 loop tuning 747–766"
+    ],
+    "title": [
+      "PID instruction 362–363 bumpless cascade control 747 PID interfaces 229–233. See also proportional- cascade control 744–747 integral-derivative controllers; process control controller actions 671–676 PID mode controllers. See proportional-integral- direct-acting 621, 672–674 derivative controllers reverse-acting 621, 674–676 piezoelectric transducers 603–604 controller modes 676–744 PI mode controllers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See random-access memory first-order 631, 646–650 random-access memory (RAM) 112 second-order 631, 651–653 random error 558 process gain 627–628 rate mode. See derivative controllers transfer functions 624–627, 633 read-only memory (ROM) 112 transient responses 625–627 read/write memory (R/W). See random-access memory process gain 627–628 real variables 378 processor 10, 82, 84–86, 86–91 reference address. See address process variable 610. See also process control register/BCD interfaces"
+    ],
+    "title": [
+      "lag 630–631, 645–653 TCP/IP protocol 872 process gain 627–628 pulse action 423–424 transfer functions 624–627, 633 pulse stretcher. See fast-response module transient responses 625–627 stability responses 670–671 quarter-amplitude response 749–750 system parameters 614–623 control variable 618–621 error 611–612, 614–618, 621 rack 130, 139–146 error deadband 622–623 local 140–141 process dynamics 623–631 master 140 dead time 628–630, 644–645 remote 141, 146–147 lag 630–631, 645–653 RAM"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "proportional-derivative controllers 729–736 rules proportional-integral controllers 715–724 artificial intelligence 778–780 parallel 716–717 fuzzy logic 809–812 series 716–717 rung 70 proportional-integral-derivative controllers 736–744 protocols 866–874 IEEE standards 870–871 safety circuitry 932–935 OSI reference model 867–869 scaling 190–191,"
+    ],
+    "pages": [
+      "330–331"
+    ],
+    "type": null,
+    "volume": [
+      "209"
+    ]
+  },
+  {
+    "container-title": [
+      "serial communication standards 261–269 I/O",
+      "transition"
+    ],
+    "genre": [
+      "EIA RS-232C 262–265 electrical 178–182 EIA RS-422 265–267 environmental 182 EIA RS-485 267–268 mechanical 182 20 mA current loop 268–269 noise 935 series circuit 76 panel enclosures 922–928"
+    ],
+    "pages": [
+      "926–928 387 929–931",
+      "402–403 926 403–418 930–931 414–418 937–941",
+      "927–928, 928–929, 942–948"
+    ],
+    "title": [
+      "scan 11, 86–91, 132 computer modules 251–252 I/O update scan 87 fuzzy logic interfaces 255–260 program scan 87, 298–299 network interface modules 252–253 reading fast inputs 89–91 peripheral interfacing 260–271 scan time 87–88 positioning interfaces 233–248 scan time 87–88 encoder/counter interfaces 234–235 scratch pad area 120 servo motor interfaces 243–248 second-order system response 631, 651–653, 653–665 stepper motor interfaces 235–243 critically damped 658–662 special analog interfaces 224–233 overdamped 653–658 PID interfaces 229–233 underdamped 662–665 RTD input modules 228–229 send node instruction 368 thermocouple input modules 226–228 sequencer instruction 358–360 weight input modules 224–225 sequential function charts 375, 387–392 special discrete interfaces 220–224 convergences 409–413 fast-input interfaces 220–221 divergences 409–413 fast-response interfaces 222–224 format 398–401 wire input fault module 221–222 action 387, 419–429 specifications 178–182, 218–220 levels 399 specifications 975–980 macrostep 391 component placement 926"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "388",
+      "178–182"
+    ]
+  },
+  {
+    "note": [
+      "special function I/O system operation 414–416 ASCII I/O interfaces 249–251 syntax 416–418"
+    ],
+    "pages": [
+      "386–387, 392 358–360 414–418"
+    ],
+    "title": [
+      "software controller tuning methods 764–766 storage area 122–124 solid flow transducers 591–592 internal bit storage area 122–123 sort instruction 357–358 register/word storage area 123–124 special function instructions 358–363 storage register assignment table 455, 543 diagnostics 361–362 strain gauges 588–589 PID 362–363 structured text"
+    ],
+    "type": null,
+    "volume": [
+      "375"
+    ]
+  }
+]

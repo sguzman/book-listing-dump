@@ -1,0 +1,931 @@
+[
+  {
+    "author": [
+      {
+        "family": "global",
+        "given": "K."
+      }
+    ],
+    "editor": [
+      {
+        "literal": "static . M. recursive. N. base. O. overloading."
+      }
+    ],
+    "title": [
+      "L"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "P."
+      }
+    ],
+    "location": [],
+    "publisher": [
+      "). Q. const"
+    ],
+    "title": [
+      "unary scope resolution operator"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "B."
+      }
+    ],
+    "note": [
+      "int); C. void instructions(); D. double intToDouble(int);"
+    ],
+    "title": [
+      "int smallest(int, int"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "G."
+      }
+    ],
+    "title": [
+      "x = ceil(-fabs(-8 + floor(-5.5"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "The statement"
+    ],
+    "title": [
+      "6.13 (Rounding Numbers) An application of function floor is rounding a value to the nearest integer"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "roundToTenths",
+        "given": "B."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "14.4.2 Reading from the File C. 14.4.3 File-Position Pointers D. 14.4.4 Case Study: Credit Inquiry Program"
+    ],
+    "title": [
+      "14.4 Reading Data from a Sequential File A. 14.4.1 Opening a File for Input B"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "15.6.2 set Associative Container C. 15.6.3 multimap Associative Container D. 15.6.4 map Associative Container"
+    ],
+    "title": [
+      "15.6 Associative Containers A. 15.6.1 multiset Associative Container B"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gottschling",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Discovering Modern C++: An Intensive Course for Scientists, Engineers, and Programmers (C++ In-Depth"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horton",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer Science + Business Media"
+    ],
+    "title": [
+      "Using the C++ Standard Template Libraries"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The C++ Standard Library: A Tutorial and Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karlsson",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Beyond the C++ Standard Library: An Introduction to Boost"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lippman",
+        "given": "S."
+      },
+      {
+        "family": "Lajoie",
+        "given": "J."
+      },
+      {
+        "family": "Primer",
+        "given": "B.Moo C.++"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2015"
+    ],
+    "location": [
+      "Sebastopol"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "note": [
+      "Note: Stroustrup’s FAQ has been merged with Marshall Cline’s to form the C++ FAQ at"
+    ],
+    "title": [
+      "C++11—the New ISO C++ Standard” <www.stroustrup.com/C++11FAQ.html>"
+    ],
+    "type": null,
+    "url": [
+      "https:/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "edition": [
+      "Fourth"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "M.Extended S.T.L."
+      }
+    ],
+    "date": [
+      "2007"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Collections and Iterators"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "list",
+        "given": "J."
+      },
+      {
+        "given": "forward_list"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "flags.reset",
+        "given": "B."
+      },
+      {
+        "family": "flags",
+        "given": "C."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "B."
+      }
+    ],
+    "note": [
+      "19.6.4 Class Template TreeNode E. 19.6.5 Class Template Tree F. 19.6.6 Tree Member Function insertNodeHelper G. 19.6.7 Tree Traversal Functions H. 19.6.8 Duplicate Elimination I. 19.6.9 Overview of the Binary Tree Exercises"
+    ],
+    "title": [
+      "19.5.2 Implementing a Class Template Queue Class Based By Inheriting from List C. 19.5.3 Testing the Queue Class Template 6. 19.6 Trees A. 19.6.1 Basic Terminology B. 19.6.2 Binary Search Trees C. 19.6.3 Testing the Tree Class Template D"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "string",
+        "particle": "a"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Section 21.6 string Characteristics string member function capacity"
+    ],
+    "note": [
+      ") returns the total"
+    ],
+    "pages": [
+      "876",
+      "879"
+    ],
+    "title": [
+      "Section 21.5 Swapping string s string member function swap (",
+      ") swaps the contents of two string s"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Function iscntrl"
+    ],
+    "note": [
+      "such as '\\t', '\\v' , '\\f', '\\a', '\\b', '\\r' or '\\n' ."
+    ],
+    "pages": [
+      "921"
+    ],
+    "title": [
+      "determines if its argument is a control character"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Function ispunct"
+    ],
+    "pages": [
+      "921"
+    ],
+    "title": [
+      "determines if its argument is a printing character other than a space, a digit or a letter"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Function isprint"
+    ],
+    "pages": [
+      "921"
+    ],
+    "title": [
+      "determines if its argument is any printing character, including space"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Function isgraph"
+    ],
+    "pages": [
+      "921"
+    ],
+    "title": [
+      "determines if its argument is a printing character other than space"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "E."
+      }
+    ],
+    "publisher": [
+      "F. mask"
+    ],
+    "title": [
+      "bitwise exclusive OR ( ^"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "G."
+      }
+    ],
+    "title": [
+      "left-shift operator ( << ), right-shift operator ( >>"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "F."
+      }
+    ],
+    "title": [
+      "out << atof(\"8.63582\") << endl"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Structure Inventory"
+    ],
+    "note": [
+      "containing character array partName[30] , integer partNumber , floating-point price ,"
+    ],
+    "title": [
+      "ptr = strchr(s1, c); L. cout << atoi(\"-21\") << endl; Exercises 1. 22.4 (Defining Structures) Provide the definition for each of the following structures: A"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "C."
+      }
+    ],
+    "title": [
+      "Structure Student , containing arrays firstName[15] and lastName[15] and variable"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "D.2 Abbreviating Binary Numbers as Octal and Hexadecimal Numbers"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "D.3 Converting Octal and Hexadecimal Numbers to Binary Numbers"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "D.4 Converting from Binary, Octal or Hexadecimal to Decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "D.5 Converting from Decimal to Binary, Octal or Hexadecimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Summary"
+    ],
+    "publisher": [
+      "Self-Review Exercises"
+    ],
+    "title": [
+      "D.6 Negative Binary Numbers: Two’s Complement Notation 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "location": [
+      "Exercises"
+    ],
+    "title": [
+      "Answers to Self-Review Exercises 4"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "D.10 Convert binary 110101011000 to octal and to hexadecimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "D.11 Convert hexadecimal FACE to binary"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "title": [
+      "D.12 Convert octal 7316 to binary"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "genre": [
+      "[Hint: First convert 4FEC"
+    ],
+    "note": [
+      "to binary, then convert that binary number to octal."
+    ],
+    "title": [
+      "D.13 Convert hexadecimal 4FEC to octal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "title": [
+      "D.14 Convert binary 1101110 to decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "title": [
+      "D.15 Convert octal 317 to decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "title": [
+      "D.16 Convert hexadecimal EFD4 to decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "title": [
+      "D.17 Convert decimal 177 to binary, to octal and to hexadecimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "18."
+    ],
+    "title": [
+      "D.18 Show the binary representation of decimal 417. Then show the one’s complement of 417 and the two’s complement of 417"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Answers to Self-Review Exercises"
+    ],
+    "issue": [
+      "1"
+    ],
+    "note": [
+      "D.2 Fewer. 3. D.3 False. Hexadecimal does this. 4. D.4 Hexadecimal."
+    ],
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "D.19 What’s the result when a number and its two’s complement are added to each other?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "D"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "False",
+        "given": "D5"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "The highest digit in any base is one less than the base"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "D.6 False. The lowest digit in any base is zero"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "D.7 1 (the base raised to the zero power"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "D.8 The base of the number system"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "pages": [
+      "100 10 1"
+    ],
+    "title": [
+      "D.9 Filled in chart shown below: decimal 1000"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "D.22 Convert binary 100101111010 to octal and to hexadecimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "D.23 Convert hexadecimal 3A7D to binary"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "genre": [
+      "[Hint: First convert 765F"
+    ],
+    "note": [
+      "to binary, then convert that binary number to octal."
+    ],
+    "title": [
+      "D.24 Convert hexadecimal 765F to octal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "D.25 Convert binary 1011110 to decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "D.26 Convert octal 426 to decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "D.27 Convert hexadecimal FFFF to decimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "D.28 Convert decimal 299 to binary, to octal and to hexadecimal"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "D.29 Show the binary representation of decimal 779. Then show the one’s complement of 779 and the two’s complement of 779"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "E Preprocessor Objectives In this appendix you’ll learn"
+    ],
+    "title": [
+      "D.30 Show the two’s complement of integer value –1 on a machine with 32-bit integers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "E.2 #include Preprocessing Directive"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "E.4 #define Preprocessing Directive: Macros 5. E.5 Conditional Compilation"
+    ],
+    "title": [
+      "E.3 #define Preprocessing Directive: Symbolic Constants 4"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "E.8 Predefined Symbolic Constants 9. E.9 Assertions 10. E.10 Wrap-Up 1. Summary 2. Self-Review Exercises"
+    ],
+    "title": [
+      "E.6 #error and #pragma Preprocessing Directives 7. E.7 Operators # and ## 8"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "location": [
+      "Exercises"
+    ],
+    "title": [
+      "Answers to Self-Review Exercises 4"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The program should define macro SUM with two arguments, x and y , and use SUM to produce the output"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "Input the values from the keyboard."
+    ],
+    "title": [
+      "E.6 Write a program that uses macro MINIMUM2 to determine the smaller of two numeric values"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Macro MINIMUM3 should use macro MINIMUM2 defined in Exercise E.6 to determine the smallest number. Input the values from the keyboard."
+    ],
+    "title": [
+      "E.7 Write a program that uses macro MINIMUM3 to determine the smallest of three numeric values"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "E.8 Write a program that uses macro PRINT to print a string value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "E.9 Write a program that uses macro PRINTARRAY to print an array of integers. The macro should receive the array and the number of elements in the array as arguments"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "E.10 Write a program that uses macro SUMARRAY to sum the values in a numeric array. The macro should receive the array and the number of elements in the array as arguments"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "E.11 Rewrite the solutions to Exercises E.4–E.10 as inline functions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "#define SQR (x) x * x B. #define SQR (x) (x * x"
+    ],
+    "title": [
+      "E.12 For each of the following macros, identify the possible problems (if any) when the preprocessor expands the macros: A"
+    ],
+    "type": null
+  }
+]

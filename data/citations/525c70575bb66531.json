@@ -1,0 +1,134 @@
+[
+  {
+    "note": [
+      "private: CORBA::String_var _location;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CORBA::String_var location;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "<< endl; root_poa->the_POAManager()->activate(); cout << \"Create Object Reference ...\" << endl; CORBA::Object_var goodDayRef = root poa->id_to_reference( oid );"
+    ],
+    "title": [
+      "//Get the Root POA object reference CORBA::Object_var obj = orb->resolve_initial_references( \"Inprise_TPool_Persistent\" ); //Narrow the object reference to a POA reference PortableServer::POA_var root_poa = PortableServer::POA::_narrow(obj.in() ); cout << \"Activating the GoodDay object...\" << endl; PortableServer::ObjectId_var oid = root_poa->activate_object( &goodDayPseudoImpl ); cout << \"Activating the POA to wait for requests"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Architecture",
+        "given": "O.M.A.—Object Management"
+      }
+    ],
+    "publisher": [
+      "PIDL—Pseudo-IDL. POA—Portable Object Adapter"
+    ],
+    "title": [
+      "OMG—Object Management Group. ORB—Object Request Broker"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "PTC—Platform Technology Committee. RFI—Request For Information. RFP—Request For Proposal. RMI—Remote Method Invocation"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "SIG—Special Interest Group"
+    ],
+    "title": [
+      "RTSIG—Real Time Special Interest Group"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Auditing—Keeping records of which principals perform which invocations on secured objects"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Byte-code—Intermediate representation of programming language code. The Java byte-code is very popular and virtual machines which cancontinue"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Common Gateway Interface—Interface at HTTP servers which allows access to resources, e.g., databases or programs outside the server"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Common Object Services—See CORBA services"
+    ],
+    "title": [
+      "Common Object Request Broker Architecture—Architecture for distributed object systems defined by the OMG"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "CORBAfacilities—A set of published specifications for application-level object services that are applicable across industry domains, e.g., Printing Facility, Systems Management Facility"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Australia"
+    ],
+    "note": [
+      "CORBAnet can be accessed at http://www.corba.net. CORBAservices—Set of published specifications for fundamental services assisting all object implementations, e.g., Naming Service, Event Service, Object Trading Service."
+    ],
+    "title": [
+      "CORBAnet—Permanent showcase to demonstrate IIOP-based ORB interoperability sponsored by the OMG and most ORB vendors. CORBAnet is hosted by the Distributed Systems Technology Centre in Brisbane"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Environment",
+        "given": "Distributed Computing"
+      }
+    ],
+    "title": [
+      "Distributed middleware developed under the control of the Open Group, formerly Open Software Foundation (OSF"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Dynamic Invocation Interface—Interface defined in CORBA which allows the invocation of operations on object references without compile-time knowledge of the objects' interface types"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Interoperable Object Reference—Object reference which identifies objects independent of the ORB environment in which they have been created"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Object Management Architecture—This is the overall architecture and roadmap of the OMG, of which CORBA forms a part"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Object Management Group—An international industry consortium with over 600 members which specifies an object-oriented framework for distributed computing, including CORBA. Object Reference—Opaque data structure which identifies a single CORBA object, and enables clients to invoke operations on it, regardless of the object's location. Objects can have multiple object references"
+    ],
+    "type": null
+  }
+]
