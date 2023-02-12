@@ -1,0 +1,974 @@
+[
+  {
+    "author": [
+      {
+        "family": "Adams",
+        "given": "Michael"
+      },
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Proceedings of the 13th ACM SIGPLAN International Conference on Functional Programming"
+    ],
+    "date": [
+      "2008-09"
+    ],
+    "pages": [
+      "179–188,"
+    ],
+    "title": [
+      "Efficient nondestructive equality checking for trees and graphs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ashley",
+        "given": "J.Michael"
+      },
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Proceedings of the 1994 ACM Conference on Lisp and Functional Programming"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "pages": [
+      "140–149,"
+    ],
+    "title": [
+      "An efficient implementation of multiple return values in Scheme"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bawden",
+        "given": "Alan"
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "Partial Evaluation and Semantic-Based Program Manipulation"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "88–99,"
+    ],
+    "title": [
+      "Quasiquotation in lisp"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Briggs",
+        "given": "William"
+      },
+      {
+        "family": "Emden Henson",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "publisher": [
+      "Society for Industrial and Applied Mathematics"
+    ],
+    "title": [
+      "The DFT: An Owner's Manual for the Discrete Fourier Transform"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Burger",
+        "given": "Robert G."
+      },
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Proceedings of the ACM SIGPLAN '96 Conference on Programming Language Design and Implementation"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "pages": [
+      "108–116,"
+    ],
+    "title": [
+      "Printing floating-point numbers quickly and accurately"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Clocksin",
+        "given": "William F."
+      },
+      {
+        "family": "Mellish",
+        "given": "Christopher S."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1984"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Programming in Prolog"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Daniel",
+        "given": "Sam M."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Proceedings of the Second International Conference on the Practical Application of Prolog"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "175–185,"
+    ],
+    "title": [
+      "Efficient recursive FFT implementation in Prolog"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "Mark"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2006"
+    ],
+    "title": [
+      "Unicode Standard Annex #29: Text boundaries"
+    ],
+    "type": null,
+    "url": [
+      "http://www.unicode.org/reports/tr29/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "Cadence Research Systems"
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Chez Scheme User's Guide: Version 8"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.scheme.com/csug8/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      },
+      {
+        "family": "Hieb",
+        "given": "Robert"
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "Computer Languages"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "109–123"
+    ],
+    "title": [
+      "Engines from continuations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      },
+      {
+        "family": "Hieb",
+        "given": "Robert"
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Lisp and Symbolic Computation"
+    ],
+    "date": [
+      "1990-09"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "229–244"
+    ],
+    "title": [
+      "A new approach to procedures with variable arity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      },
+      {
+        "family": "Hieb",
+        "given": "Robert"
+      },
+      {
+        "family": "Bruggeman",
+        "given": "Carl"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "Lisp and Symbolic Computation"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "295–326"
+    ],
+    "title": [
+      "Syntactic abstraction in Scheme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Friedman",
+        "given": "Daniel P."
+      },
+      {
+        "family": "Felleisen",
+        "given": "Matthias"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "fourth"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Little Schemer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Friedman",
+        "given": "Daniel P."
+      },
+      {
+        "family": "Haynes",
+        "given": "Christopher T."
+      },
+      {
+        "family": "Kohlbecker",
+        "given": "Eugene E."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "Program Transformation and Programming Environments"
+    ],
+    "date": [
+      "1984"
+    ],
+    "editor": [
+      {
+        "family": "Pepper",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "263–274"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Programming with continuations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Haynes",
+        "given": "Christopher T."
+      },
+      {
+        "family": "Friedman",
+        "given": "Daniel P."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "Computer Languages"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "109–121"
+    ],
+    "title": [
+      "Abstracting timed preemption with engines"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haynes",
+        "given": "Christopher T."
+      },
+      {
+        "family": "Friedman",
+        "given": "Daniel P."
+      },
+      {
+        "family": "Wand",
+        "given": "Mitchell"
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Computer Languages"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "3/4"
+    ],
+    "pages": [
+      "143–153"
+    ],
+    "title": [
+      "Obtaining coroutines with continuations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robert Hieb",
+        "given": "R.Kent Dybvig"
+      },
+      {
+        "family": "Bruggeman",
+        "given": "Carl"
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "Proceedings of the SIGPLAN '90 Conference on Programming Language Design and Implementation"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "pages": [
+      "66–77,"
+    ],
+    "title": [
+      "Representing control in the presence of first-class continuations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "IEEE Standard for the Scheme Programming Language"
+    ],
+    "date": [
+      "1991-05"
+    ],
+    "note": [
+      "IEEE Std 1178-1990."
+    ],
+    "title": [
+      "IEEE Computer Society"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "Brian W."
+      },
+      {
+        "family": "Ritchie",
+        "given": "Dennis M."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leach",
+        "given": "P."
+      },
+      {
+        "family": "Mealling",
+        "given": "M."
+      },
+      {
+        "family": "Salz",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "URN namespace"
+    ],
+    "date": [
+      "2005-07"
+    ],
+    "genre": [
+      "RFC 4122."
+    ],
+    "title": [
+      "A Universally Unique IDentifier (UUID"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.ietf.org/rfc/rfc4122.txt."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Naur",
+        "given": "Peter"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1963-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "1–17"
+    ],
+    "title": [
+      "Revised report on the algorithmic language ALGOL 60"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Plaisted",
+        "given": "David A."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1984-06"
+    ],
+    "genre": [
+      "Technical Report UIUCDCS-R-84-1176,"
+    ],
+    "publisher": [
+      "University of Illinois at Urbana-Champaign Department of Computer Science"
+    ],
+    "title": [
+      "Constructs for sets, quantifiers, and rewrite rules in Lisp"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "J.A."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "Journal of the ACM"
+    ],
+    "date": [
+      "1965"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "23–41"
+    ],
+    "title": [
+      "A machine-oriented logic based on the resolution principle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Revised6 report on the algorithmic language Scheme"
+    ],
+    "date": [
+      "2007-09"
+    ],
+    "editor": [
+      {
+        "family": "Michael Sperber",
+        "given": "R.Kent Dybvig"
+      },
+      {
+        "family": "Flatt",
+        "given": "Matthew"
+      },
+      {
+        "family": "Straaten",
+        "given": "Anton",
+        "particle": "van"
+      }
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.r6rs.org/."
+    ]
+  },
+  {
+    "citation-number": [
+      "25"
+    ],
+    "container-title": [
+      "Revised6 report on the algorithmic language Scheme---non-normative appendices"
+    ],
+    "date": [
+      "2007-09"
+    ],
+    "editor": [
+      {
+        "family": "Michael Sperber",
+        "given": "R.Kent Dybvig"
+      },
+      {
+        "family": "Flatt",
+        "given": "Matthew"
+      },
+      {
+        "family": "Straaten",
+        "given": "Anton",
+        "particle": "van"
+      }
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.r6rs.org/."
+    ]
+  },
+  {
+    "citation-number": [
+      "26"
+    ],
+    "container-title": [
+      "Revised6 report on the algorithmic language Scheme---standard libraries"
+    ],
+    "date": [
+      "2007-09"
+    ],
+    "editor": [
+      {
+        "family": "Michael Sperber",
+        "given": "R.Kent Dybvig"
+      },
+      {
+        "family": "Flatt",
+        "given": "Matthew"
+      },
+      {
+        "family": "Straaten",
+        "given": "Anton",
+        "particle": "van"
+      }
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.r6rs.org/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steele",
+        "given": "Guy L.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "1990"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "Bedford, Massachusetts"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "title": [
+      "Common Lisp, the Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Steele",
+        "given": "Guy L.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Sussman",
+        "given": "Gerald J."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "1978-01"
+    ],
+    "genre": [
+      "MIT AI Memo 452,"
+    ],
+    "publisher": [
+      "Massachusetts Institute of Technology"
+    ],
+    "title": [
+      "The revised report on Scheme, a dialect of Lisp"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sussman",
+        "given": "Gerald J."
+      },
+      {
+        "family": "Steele",
+        "given": "Guy L.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "container-title": [
+      "Higher-Order and Symbolic Computation"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "Reprinted from the AI Memo 349, MIT (1975), with a foreword."
+    ],
+    "pages": [
+      "405–439"
+    ],
+    "title": [
+      "Scheme: An interpreter for extended lambda calculus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Consortium",
+        "given": "The Unicode"
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "fifth"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "The Unicode Standard, Version 5.0"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Waddell",
+        "given": "Oscar"
+      },
+      {
+        "family": "Sarkar",
+        "given": "Dipanwita"
+      },
+      {
+        "family": "Dybvig",
+        "given": "R.Kent"
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "container-title": [
+      "Higher-Order and Symbolic Computation"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "3/4"
+    ],
+    "pages": [
+      "299–326"
+    ],
+    "title": [
+      "Fixing letrec: A faithful yet efficient implementation of Scheme's recursive binding construct"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wand",
+        "given": "Mitchell"
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "container-title": [
+      "proceedings of the 1980 Lisp Conference, with a foreword",
+      "Higher-Order and Symbolic Computation"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Reprinted from the"
+    ],
+    "pages": [
+      "285–299"
+    ],
+    "title": [
+      "Continuation-based multiprocessing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  }
+]
