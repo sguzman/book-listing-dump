@@ -1,0 +1,171 @@
+[
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "The Bitmap Player activity requires a single SurfaceView widget in order to function. Using the Project Explorer, expand the res directory"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Right-click the layout subdirectory, and choose New ➤ File from the context menu"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Set File Name to activity bitmap player.xml"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Replace the content of the new layout with the code in Listing 12-17"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Using the Project Explorer, expand the src directory"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Right-click on the com.apress.aviplayer package, and choose New ➤ Class from the context menu"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "Set Name to BitmapPlayerActivity"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "Click the Finish button to create the new class"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Listing 12-18. Content of the BitmapPlayerActivity.java Source File"
+    ],
+    "title": [
+      "Replace its content with the code in Listing 12-18"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Listing 13-5. Content of jni/Android.mk Build Script"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Start by including the necessary header files to use both OpenSL ES API and also the WAVLib API, as shown in Listing"
+    ],
+    "pages": [
+      "13–6"
+    ],
+    "title": [
+      "Open up the WAVPlayer.cpp native source file in Eclipse"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Listing 13-12. CreateEngine Function to Create the Engine Object"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Append the CreateOutputMix function to the source file as shown in Listing 13-16. Listing 13-16. CreateOutputMix Function to Create an Output Mixer"
+    ],
+    "title": [
+      "The CreateOutputMix function creates an Output Mixer object by invoking the CreateOutputMix method of the Engine Interface with a set of parameters"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Listing 13-18. CreateBufferQueueAudioPlayer Function"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 13-19. GetAudioPlayerBufferQueueInterface Function"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 13-20. DestroyContext Function to Release Player Context"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "CloseWaveFile",
+        "given": "Close",
+        "particle": "the WAVE file"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "20."
+    ],
+    "source": [
+      "Listing 13-23. GetAudioPlayerPlayInterface Function"
+    ],
+    "title": [
+      "The Play Interface is used to interact with the audio player. The GetAudioPlayerPlayInterface helper function gets the Play Interface from the given Audio Player Object, as shown in Listing 13-23"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 13-24. SetAudioPlayerStatePlaying Function"
+    ],
+    "type": null
+  }
+]
