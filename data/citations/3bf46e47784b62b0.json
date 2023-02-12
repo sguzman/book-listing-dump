@@ -1,0 +1,56 @@
+[
+  {
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "Preserve the overflow bit at the output as C[2]."
+    ],
+    "title": [
+      "Implement a two-bit ripple-carry adder with inputs A[1:0] and B[1:0] and an output C[1:0] using one-bit half- and full-adders"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "note": [
+      "Preserve the overflow bit at the output as C[2]."
+    ],
+    "title": [
+      "Implement a two-bit ripple-carry subtractor with inputs A[1:0] and B[1:0] and an output C[1:0] using one-bit half and full-adders"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "Implement a two-bit multiplier with inputs A[1:0] and B[1:0] and an output C[3:0] using one-bit half and full-adders"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "source": [
+      "A[3:0] = B[3:0] A[3:0] > B[3:0] A[3:0] < B[3:0]"
+    ],
+    "title": [
+      "Construct a four-bit comparator with inputs A[3:0] and B[3:0] using a subtractor. The comparator circuit should identify the following cases as active-high outputs"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Bindal, Electronics for Embedded Systems, DOI 10.1007/978-3-319-39439-8 296 Index"
+    ],
+    "title": [
+      "© Springer International Publishing Switzerland 2017 295 A"
+    ],
+    "type": null
+  }
+]

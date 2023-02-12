@@ -1,0 +1,2797 @@
+[
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "If IsPlatformObjectSameOrigin p856 (W) is true, then return ! OrdinaryGetPrototypeOf(W)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "null",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "Throw a \"SecurityError\" DOMException."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "Return PropertyDescriptor{ [[Value]]: value, [[Writable]]: false, [[Enumerable]]: true, [[Configurable]]: true }."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "If IsPlatformObjectSameOrigin p856 (W) is true, then return ! OrdinaryGetOwnProperty(W, P)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Let property be CrossOriginGetOwnPropertyHelper p857 (W, P)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "If property is not undefined, then return property"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "If property is undefined and P is in W's document-tree child browsing context name property set p865 , then: 1. Let value be the WindowProxy p869 object of the named object p866 of W with the name P"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "Return PropertyDescriptor{ [[Value]]: value, [[Enumerable]]: false, [[Writable]]: false, [[Configurable]]: true }."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Return ? OrdinaryDefineOwnProperty(W, P, Desc)."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "If IsPlatformObjectSameOrigin p856 (W) is true, then return ? OrdinaryGet(this, P, Receiver)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Return ? CrossOriginGet p858 (this, P, Receiver)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "Let desc be ! this.[[GetOwnProperty]](P)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "Throw a \"SecurityError\" DOMException."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If origin's domain p872 is non-null, then return origin's domain p872"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "location": [
+      "Append"
+    ],
+    "publisher": [
+      "to result"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Append origin's host p872 , serialized, to result"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "If origin's port p872 is non-null, append a U+003A COLON character (:), and origin's port p872 , serialized, to result"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "result",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Return (origin's scheme p872 , origin's host p872 's registrable domain"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "then return \"null\". 2. Let result be site[0]."
+    ],
+    "title": [
+      "The serialization of a site is the string obtained by applying the following algorithm to the given site p873 site: 1. If site is an opaque origin p872"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "effectiveDomain",
+        "given": "Return"
+      },
+      {
+        "given": "serialized"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Let effectiveDomain be this's origin's effective domain p872"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "If effectiveDomain is null, then throw a \"SecurityError\" DOMException"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If hostSuffix, prefixed by U+002E (.), does not match the end of originalHost, then return false"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Return script"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Return script"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "If entry.[[Value]] is \"javascript\", then set moduleType to null"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "evaluationStatus.]]",
+        "given": "Rethrow"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If rethrow errors is true and script's muted errors p950 is true, then: 1. Clean up after running script p963 with settings"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "Throw a \"NetworkError\" DOMException."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Otherwise"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "1. Let record be script's record p950"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Set evaluationPromise to record.Evaluate("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "evaluationPromise",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Return \"run\"."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Let global be settings object's global object p943"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Let script execution context be callback.[[HostDefined]].[[ActiveScriptContext"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "result",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let entry be finalizationRegistry.[[CleanupCallback]].[[Callback]].[[Realm]]'s environment settings object p943"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Apply the URL parser to specifier. If the result is not failure, return the result"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let module script be moduleRecord.[[HostDefined"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Assert: module script's base URL p950 is not null, as module script is a JavaScript module script p950"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Let urlString be module script's base URL p950 , serialized"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Return « Record { [[Key]]: \"url\", [[Value]]: urlString } »."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Perform FinishDynamicImport(referencingScriptOrModule, moduleRequest, promiseCapability, completion"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let referencing script be referencingScriptOrModule.[[HostDefined"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "note": [
+      "Perform FinishDynamicImport(referencingScriptOrModule, moduleRequest, promiseCapability, promise)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "undefined",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let referencing script be referencingScriptOrModule.[[HostDefined"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "Assert: resolved module script's record p950 is not null"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Let eventHandler be handlerMap[name"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Let eventHandler be handlerMap[name"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Return scope"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "DOMException"
+    ],
+    "title": [
+      "If decodedData is failure, then throw an \"InvalidCharacterError"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "decodedData",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "then throw an \"InvalidStateError\" DOMException."
+    ],
+    "title": [
+      "If document's throw-on-dynamic-markup-insertion counter p998 is greater than 0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Let entryDocument be the entry global object p945 's associated Document p860"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "then throw a \"SecurityError\" DOMException."
+    ],
+    "title": [
+      "If document's origin is not same origin p873 to entryDocument's origin"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "If document has an active parser p121 whose script nesting level p1113 is greater than 0, then return document"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "location": [
+      "Otherwise"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "id",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "false",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "null",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If index < mimeTypes's size, then return mimeTypes[index"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "null",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "null",
+        "given": "Return"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Set serialized.[[BitmapData]] to a copy of value's bitmap data p1022"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Set dataHolder.[[BitmapData]] to value's bitmap data p1022"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Unset value's bitmap data p1022"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Their transfer-receiving steps p106 , given dataHolder and value, are: 1. Set value's bitmap data p1022 to dataHolder.[[BitmapData"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "CSS pixels"
+    ],
+    "title": [
+      "Return this's width"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "To run the animation frame callbacks for a target object p1027 target with a timestamp now"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "[offscreenCanvas]);"
+    ],
+    "title": [
+      "const offscreenCanvas = document.getElementById(\"c\").transferControlToOffscreen(); worker.postMessage(offscreenCanvas"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "If urlRecord is failure, then throw a \"SyntaxError\" DOMException"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "encoded as UTF-8."
+    ],
+    "title": [
+      "Let lastEventIDValue be the EventSource p1031 object's last event ID string p1031"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Set the frameset-ok flag p1129 to \"not ok\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Switch the insertion mode p1125 to \"text p1181 \""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Follow the generic raw text element parsing algorithm p1163"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "While true:"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "title": [
+      "While true: 1. Increment inner loop counter by 1"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Insert an HTML element p1161 for a \"colgroup\" start tag token with no attributes, then switch the insertion mode p1125 to \"in column group p1185 \""
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "Otherwise:"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "Otherwise:"
+    ]
+  },
+  {
+    "title": [
+      "Reprocess the token"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Switch the insertion mode p1125 to \"in row p1187 \""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "then throw a \"SyntaxError\" DOMException."
+    ],
+    "title": [
+      "If there is an XML well-formedness or XML namespace well-formedness error"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "then throw a \"SyntaxError\" DOMException."
+    ],
+    "title": [
+      "If the document element of the resulting Document p117 has any sibling nodes"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Let input be the attribute's value"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "[type=tel i], [type=url i],"
+    ],
+    "title": [
+      "input[dir=auto i]:is([type=search i"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Otherwise"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "genre": [
+      "return reversed(list-item)."
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "http://www.w3.org/1999/xhtml);"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "in CSS pixels, as the input dimension. Let sized cols be the resulting list."
+    ],
+    "title": [
+      "Invoke the algorithm defined below to convert a list of dimensions to a list of pixel values p1256 using cols as the input list, and the width of the surface that the frameset p1269 is being rendered into"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Otherwise",
+        "given": "return gray"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ismap on input p503 elements Unnecessary. Omit it altogether. All input p503 elements with a type p505 attribute in the Image Button p528 state are processed as server-side image maps. usemap on input p503 elements usemap on object p383 elements Use the img p328 element for image maps"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "typemustmatch on object p383 elements Avoid using object p383 elements with untrusted resources"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "datapagesize on table p461 elements Unnecessary. Omit it altogether. summary on table p461 elements Use one of the techniques for describing tables p465 given in the table p461 section instead"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute DOMString behavior; [CEReactions] attribute DOMString bgColor; [CEReactions] attribute DOMString direction;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute DOMString cols; [CEReactions] attribute DOMString rows; }; HTMLFrameSetElement includes WindowEventHandlers;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute DOMString size; };"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute [LegacyNullToEmptyString] DOMString marginHeight; [CEReactions] attribute [LegacyNullToEmptyString] DOMString marginWidth; };"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute [LegacyNullToEmptyString] DOMString border; };"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute [LegacyNullToEmptyString] DOMString bgColor; [CEReactions] attribute [LegacyNullToEmptyString] DOMString cellPadding; [CEReactions] attribute [LegacyNullToEmptyString] DOMString cellSpacing; };"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CEReactions] attribute [LegacyNullToEmptyString] DOMString bgColor; };"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SameObject] readonly attribute HTMLCollection anchors; [SameObject] readonly attribute HTMLCollection applets;"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Author"
+    ],
+    "publisher": [
+      "Ian Hickson <ian@hixie.ch>"
+    ],
+    "title": [
+      "No restrictions apply"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Published specification: This document is the relevant specification."
+    ],
+    "title": [
+      "Security considerations: If used exclusively in the fashion described in the context of hyperlink auditing p299 , this type introduces no new security concerns. Interoperability considerations: Rules applicable to this type are defined in this specification"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Applications that use this media type: Web browsers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Intended usage: Common"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Intended usage: Common"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Author: Ian Hickson <ian@hixie.ch>"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Scheme semantics: Scheme-specific. Encoding considerations: All \"web+\" schemes should use UTF-8 encodings where relevant"
+    ],
+    "title": [
+      "Status: Permanent Scheme syntax: Scheme-specific"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Applications/protocols that use this scheme name: Scheme-specific"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "References: Custom scheme handlers, HTML Living Standard"
+    ],
+    "type": null,
+    "url": [
+      "https://html.spec.whatwg.org/#custom-handlers"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.B.N.F."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Crocker",
+        "given": "D."
+      },
+      {
+        "family": "IETF",
+        "given": "P.Overell"
+      }
+    ],
+    "title": [
+      "Augmented BNF for Syntax Specifications: ABNF"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "ARIA] Accessible Rich Internet Applications (WAI-ARIA), J. Diggs, J. Nurthen, M. Cooper. W3C. [ARIAHTML] ARIA in HTML, S. Faulkner, S. O'Hara."
+      },
+      {
+        "family": "Richards",
+        "given": "J."
+      },
+      {
+        "family": "Spellman",
+        "given": "J."
+      },
+      {
+        "family": "Treviranus",
+        "given": "J."
+      }
+    ],
+    "note": [
+      "ATAG] (Non-normative) Authoring Tool Accessibility Guidelines (ATAG) 2.0,",
+      "ATOM] (Non-normative) The Atom Syndication Format, M. Nottingham, R. Sayre. IETF. [BATTERY"
+    ],
+    "title": [
+      "W3C",
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Non-normative) Battery Status"
+      },
+      {
+        "family": "Kostiainen",
+        "given": "A."
+      },
+      {
+        "family": "Lamouri",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "W3C"
+    ],
+    "note": [
+      "BCP47"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Identifying Languages",
+        "given": "Tags",
+        "particle": "for"
+      },
+      {
+        "family": "Language Tags",
+        "given": "A.Phillips",
+        "particle": "Matching of"
+      },
+      {
+        "family": "IETF",
+        "given": "M.Davis"
+      }
+    ],
+    "date": [
+      "1959"
+    ],
+    "note": [
+      "BEZIER] Courbes à poles, P. de Casteljau."
+    ],
+    "publisher": [
+      "INPI"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Compositing",
+        "given": "C.O.M.P.O.S.I.T.E.]"
+      },
+      {
+        "family": "Blending",
+        "given": "R.Cabanier"
+      },
+      {
+        "family": "W3C",
+        "given": "N.Andronikos"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the London Mathematical Society"
+    ],
+    "date": [
+      "1937"
+    ],
+    "pages": [
+      "230–265"
+    ],
+    "publisher": [
+      "London Mathematical Society"
+    ],
+    "title": [
+      "On computable numbers, with an application to the Entscheidungsproblem, A. Turing"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "series 2, volume 42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mechanism",
+        "given": "C.O.O.K.I.E.S.] H.T.T.P.State Management"
+      },
+      {
+        "family": "IETF",
+        "given": "A.Barth"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Animations",
+        "given": "C.S.S."
+      },
+      {
+        "family": "Jackson",
+        "given": "D."
+      },
+      {
+        "family": "Hyatt",
+        "given": "D."
+      },
+      {
+        "family": "Marrin",
+        "given": "C."
+      },
+      {
+        "family": "Galineau",
+        "given": "S."
+      },
+      {
+        "family": "Baron",
+        "given": "L."
+      }
+    ],
+    "note": [
+      "CSSATTR] CSS Style Attributes, T. Çelik, E. Etemad. W3C. [CSSBG"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Backgrounds",
+        "given": "C.S.S."
+      },
+      {
+        "family": "Borders",
+        "given": "B.Bos"
+      },
+      {
+        "family": "Etemad",
+        "given": "E."
+      },
+      {
+        "family": "W3C",
+        "given": "B.Kemper"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "CSSCONTAIN] CSS Containment, T. Atkins, F. Rivoal, V. Levin. W3C. [CSSCOLOR] CSS Color Module, T. Çelik, C. Lilley, L. Baron. W3C. [CSSCOLORADJUST] CSS Color Adjustment Module, E. Etemad, R. Atanassov, R. Lillesveen, T. Atkins. W3C. [CSSDEVICEADAPT] CSS Device Adaption, F. Rivoal, M. Rakow."
+      }
+    ],
+    "note": [
+      "CSSDISPLAY] CSS Display, T. Atkins, E. Etemad. W3C. [CSSFONTLOAD] CSS Font Loading, T. Atkins, J. Daggett. W3C. [CSSFONTS] CSS Fonts, J. Daggett. W3C."
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "CSSFLEXBOX] CSS Flexible Box Layout, T. Atkins, E. Etemad, R. Atanassov. W3C. [CSSGC] CSS Generated Content, H. Lie, E. Etemad, I. Hickson. W3C. [CSSGRID] CSS Grid Layout, T. Atkins, E. Etemad, R. Atanassov."
+      }
+    ],
+    "note": [
+      "CSSIMAGES] CSS Images Module, E. Etemad, T. Atkins, L. Verou. W3C. [CSSIMAGES4"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "CSS Images Module Level 4, E. Etemad, T. Atkins, L. Verou."
+      }
+    ],
+    "note": [
+      "CSSINLINE] CSS Inline Layout, D. Cramer, E. Etemad. W3C. [CSSLISTS"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lists",
+        "given": "C.S.S."
+      },
+      {
+        "family": "Counters",
+        "given": "T.Atkins"
+      }
+    ],
+    "publisher": [
+      "CSSLOGICAL"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Properties",
+        "given": "C.S.S.Logical"
+      },
+      {
+        "family": "Atanassov",
+        "given": "R."
+      },
+      {
+        "family": "Etemad",
+        "given": "E."
+      }
+    ],
+    "publisher": [
+      "CSSMULTICOL"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Layout",
+        "given": "C.S.S.Multi-column"
+      },
+      {
+        "family": "Lie",
+        "given": "H."
+      },
+      {
+        "family": "Rivoal",
+        "given": "F."
+      },
+      {
+        "family": "Andrew",
+        "given": "R."
+      }
+    ],
+    "publisher": [
+      "CSSOM"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cascading Style Sheets Object Model",
+        "given": "S.Pieters"
+      },
+      {
+        "family": "Adams",
+        "given": "G."
+      }
+    ],
+    "note": [
+      "CSSOMVIEW] CSSOM View Module, S. Pieters, G. Adams. W3C."
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "CSSOVERFLOW] CSS Overflow Module, L. Baron, F. Rivoal. W3C. [CSSPAINT] (Non-normative) CSS Painting API, I. Kilpatrick, D. Jackson. W3C. [CSSPOSITION] CSS Positioned Layout, R. Atanassov, A. Eicholz."
+      }
+    ],
+    "note": [
+      "CSSPSEUDO] CSS Pseudo-Elements, D. Glazman, E. Etemad, A. Stearns. W3C."
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Intrinsic",
+        "given": "C.S.S.S.I.Z.I.N.G.] C.S.S."
+      },
+      {
+        "family": "Extrinsic Sizing Module",
+        "given": "T.Atkins"
+      },
+      {
+        "family": "Etemad",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "CSSTRANSITIONS] (Non-normative) CSS Transitions"
+    ],
+    "date": [
+      "W3C"
+    ],
+    "editor": [
+      {
+        "family": "Jackson",
+        "given": "D."
+      },
+      {
+        "family": "Hyatt",
+        "given": "D."
+      },
+      {
+        "family": "Marrin",
+        "given": "C."
+      },
+      {
+        "family": "Baron",
+        "given": "L."
+      }
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Values",
+        "given": "C.S.S.V.A.L.U.E.S.] CSS3"
+      },
+      {
+        "family": "Units",
+        "given": "H.Lie"
+      },
+      {
+        "family": "Atkins",
+        "given": "T."
+      },
+      {
+        "family": "W3C",
+        "given": "E.Etemad"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "E.163",
+        "given": "Recommendation"
+      }
+    ],
+    "citation-number": [
+      "E163"
+    ],
+    "container-title": [
+      "CCITT Blue Book"
+    ],
+    "date": [
+      "1988-11"
+    ],
+    "issue": [
+      "icle II.2"
+    ],
+    "pages": [
+      "128–134,"
+    ],
+    "title": [
+      "Numbering Plan for The International Telephone Service"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "literal": "ENCODING] Encoding, A. van Kesteren, J. Bell. WHATWG. [EXECCOMMAND] execCommand, J. Wilm, A. Gregor."
+      }
+    ],
+    "title": [
+      "W3C Editing APIs CG"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Filter Effects",
+        "given": "D.Schulze"
+      },
+      {
+        "family": "Jackson",
+        "given": "D."
+      },
+      {
+        "family": "Harrelson",
+        "given": "C."
+      }
+    ],
+    "publisher": [
+      "FULLSCREEN"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fullscreen",
+        "given": "A.van Kesteren"
+      },
+      {
+        "family": "Çelik",
+        "given": "T."
+      }
+    ],
+    "publisher": [
+      "GEOMETRY"
+    ],
+    "title": [
+      "WHATWG"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pieters",
+        "given": "Geometry Interfaces S."
+      },
+      {
+        "family": "Schulze",
+        "given": "D."
+      },
+      {
+        "family": "Cabanier",
+        "given": "R."
+      }
+    ],
+    "publisher": [
+      "GIF"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "publisher": [
+      "Non-normative) Graphics Interchange Format. CompuServe"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "G.R.A.P.H.I.C.S.]"
+      },
+      {
+        "family": "C",
+        "given": "Second Edition"
+      },
+      {
+        "family": "Foley",
+        "given": "J."
+      },
+      {
+        "family": "Dam",
+        "given": "A.",
+        "particle": "van"
+      },
+      {
+        "family": "Feiner",
+        "given": "S."
+      },
+      {
+        "family": "Hughes",
+        "given": "J."
+      }
+    ],
+    "isbn": [
+      "0-201-84840-6"
+    ],
+    "title": [
+      "Computer Graphics: Principles and Practice",
+      "Addison-Wesley"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "GREGORIAN] (Non-normative) Inter Gravissimas, A. Lilius, C. Clavius. Gregory XIII Papal Bull, February"
+      },
+      {
+        "family": "Grigorik",
+        "given": "I."
+      },
+      {
+        "family": "Simonsen",
+        "given": "J."
+      },
+      {
+        "family": "Mann",
+        "given": "J."
+      },
+      {
+        "family": "Faulkner",
+        "given": "A.Surkov"
+      },
+      {
+        "family": "O'Hara",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "HTMLAAM] HTML Accessibility API Mappings 1.0"
+    ],
+    "date": [
+      "1582"
+    ],
+    "note": [
+      "HRT] High Resolution Time,"
+    ],
+    "pages": [],
+    "publisher": [
+      "HTTP"
+    ],
+    "title": [
+      "W3C",
+      "W3C"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Routing",
+        "given": "R.Fielding"
+      },
+      {
+        "family": "IETF",
+        "given": "J.Reschke"
+      },
+      {
+        "family": "Fielding",
+        "given": "R."
+      },
+      {
+        "family": "IETF",
+        "given": "J.Reschke"
+      },
+      {
+        "family": "Fielding",
+        "given": "R."
+      },
+      {
+        "family": "IETF",
+        "given": "J.Reschke"
+      },
+      {
+        "family": "Range Requests",
+        "given": "R.Fielding"
+      },
+      {
+        "family": "Lafon",
+        "given": "Y."
+      },
+      {
+        "family": "Reschke",
+        "given": "J."
+      }
+    ],
+    "note": [
+      "Hypertext Transfer Protocol (HTTP/1.1): Caching, R. Fielding, M. Nottingham, J. Reschke. IETF. Hypertext Transfer Protocol (HTTP/1.1): Authentication, R. Fielding, J. Reschke. IETF. [INDEXEDDB"
+    ],
+    "title": [
+      "Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and",
+      "Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content",
+      "Hypertext Transfer Protocol (HTTP/1.1): Conditional Requests",
+      "Hypertext Transfer Protocol (HTTP/1.1",
+      "IETF"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Indexed Database"
+      },
+      {
+        "family": "Alabbas",
+        "given": "A."
+      },
+      {
+        "family": "Bell",
+        "given": "J."
+      }
+    ],
+    "publisher": [
+      "INBAND"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "HTML",
+        "given": "S.Pfeiffer"
+      },
+      {
+        "family": "Lund",
+        "given": "B."
+      }
+    ],
+    "publisher": [
+      "INFRA"
+    ],
+    "title": [
+      "Sourcing In-band Media Resource Tracks from Media Containers into",
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Infra",
+        "given": "A.van Kesteren"
+      },
+      {
+        "family": "Denicola",
+        "given": "D."
+      }
+    ],
+    "publisher": [
+      "INTERSECTIONOBSERVER"
+    ],
+    "title": [
+      "WHATWG"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Intersection Observer",
+        "given": "S.Zager W3C"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Non-normative"
+      }
+    ],
+    "citation-number": [
+      "ISO8601"
+    ],
+    "publisher": [
+      "ISO"
+    ],
+    "title": [
+      "ISO8601: Data elements and interchange formats — Information interchange — Representation of dates and times"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tasks",
+        "given": "L.O.N.G.T.A.S.K.S.] Long"
+      },
+      {
+        "family": "Denicola",
+        "given": "D."
+      },
+      {
+        "family": "Grigorik",
+        "given": "I."
+      },
+      {
+        "family": "Panicker",
+        "given": "S."
+      },
+      {
+        "family": "Duerst",
+        "given": "M."
+      },
+      {
+        "family": "Masinter",
+        "given": "L."
+      },
+      {
+        "family": "Zawinski",
+        "given": "J."
+      }
+    ],
+    "note": [
+      "MAILTO] (Non-normative) The 'mailto' URI scheme,"
+    ],
+    "publisher": [
+      "MANIFEST"
+    ],
+    "title": [
+      "W3C",
+      "IETF"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Web App Manifest",
+        "given": "M.Caceres"
+      },
+      {
+        "family": "Christiansen",
+        "given": "K.Rohde"
+      },
+      {
+        "family": "Lamouri",
+        "given": "M."
+      },
+      {
+        "family": "Kostiainen",
+        "given": "A."
+      },
+      {
+        "family": "Giuca",
+        "given": "M."
+      },
+      {
+        "family": "Gustafson",
+        "given": "A."
+      }
+    ],
+    "publisher": [
+      "MATHML"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mathematical Markup Language",
+        "given": "D.Carlisle"
+      },
+      {
+        "family": "Ion",
+        "given": "P."
+      },
+      {
+        "family": "Miner",
+        "given": "R."
+      }
+    ],
+    "publisher": [
+      "MEDIAFRAG"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "URI",
+        "given": "Media Fragments"
+      },
+      {
+        "family": "Troncy",
+        "given": "R."
+      },
+      {
+        "family": "Mannens",
+        "given": "E."
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "S."
+      },
+      {
+        "family": "Deursen",
+        "given": "D.",
+        "particle": "Van"
+      }
+    ],
+    "publisher": [
+      "MEDIASOURCE"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Media Source Extensions",
+        "given": "A.Colwell"
+      },
+      {
+        "family": "Bateman",
+        "given": "A."
+      },
+      {
+        "family": "Watson",
+        "given": "M."
+      }
+    ],
+    "publisher": [
+      "MEDIASTREAM"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Capture",
+        "given": "Media"
+      },
+      {
+        "family": "Streams",
+        "given": "D.Burnett"
+      },
+      {
+        "family": "Bergkvist",
+        "given": "A."
+      },
+      {
+        "family": "Jennings",
+        "given": "C."
+      },
+      {
+        "family": "Narayanan",
+        "given": "A."
+      }
+    ],
+    "publisher": [
+      "REPORTING"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Reporting",
+        "given": "D.Creager"
+      },
+      {
+        "family": "Clelland",
+        "given": "I."
+      },
+      {
+        "family": "W3C",
+        "given": "M.West"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "MPEG2"
+    ],
+    "publisher": [
+      "ISO/IEC"
+    ],
+    "title": [
+      "ISO/IEC 13818-1: Information technology — Generic coding of moving pictures and associated audio information: Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "MULTIPLEBUFFERING] (Non-normative) Multiple buffering. Wikipedia."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Timing",
+        "given": "P.A.I.N.T.T.I.M.I.N.G.] Paint"
+      },
+      {
+        "family": "Panicker",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "W3C"
+    ],
+    "editor": [
+      {
+        "family": "Grigorik",
+        "given": "I."
+      },
+      {
+        "family": "Jain",
+        "given": "A."
+      },
+      {
+        "family": "Mann",
+        "given": "J."
+      }
+    ],
+    "genre": [
+      "[PAGEVIS] (Non-normative) Page Visibility Level 2,"
+    ],
+    "publisher": [
+      "PAYMENTREQUEST"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Payment Request"
+      },
+      {
+        "family": "Cáceres",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "D."
+      },
+      {
+        "family": "Solomakhin",
+        "given": "R."
+      },
+      {
+        "family": "Jacobs",
+        "given": "I."
+      }
+    ],
+    "publisher": [
+      "PDF"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Non-normative"
+      }
+    ],
+    "publisher": [
+      "PERMISSIONSPOLICY"
+    ],
+    "title": [
+      "Document management — Portable document format — Part 1: PDF. ISO"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Permissions Policy",
+        "given": "I.Clelland"
+      },
+      {
+        "family": "Langridge",
+        "given": "S."
+      },
+      {
+        "family": "Hickson",
+        "given": "I."
+      }
+    ],
+    "genre": [
+      "[PINGBACK] Pingback 1.0,"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "PNG] Portable Network Graphics (PNG) Specification, D. Duce. W3C. [POINTEREVENTS] Pointer Events, J. Rossi, M. Brubeck, R. Byers, P. H. Lauke."
+      }
+    ],
+    "container-title": [
+      "Non-normative) The Properties and Promises of UTF-8",
+      "University of Zürich. In Proceedings of the 11th International Unicode Conference"
+    ],
+    "editor": [
+      {
+        "family": "Lock",
+        "given": "P.O.I.N.T.E.R.L.O.C.K.] Pointer"
+      },
+      {
+        "family": "Scheib",
+        "given": "V."
+      },
+      {
+        "family": "Dürst",
+        "given": "M."
+      }
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "W3C. [PPUTF8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "REFERRERPOLICY] Referrer Policy, J. Eisinger, E. Stark. W3C. [REQUESTIDLECALLBACK] Cooperative Scheduling of Background Tasks, R. McIlroy, I. Grigorik."
+      }
+    ],
+    "note": [
+      "RESOURCEHINTS] Resource Hints, I. Grigorik. W3C. [RFC1034"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Domain Names - Concepts and Facilities, P."
+      }
+    ],
+    "date": [
+      "1987-11"
+    ],
+    "note": [
+      "RFC1123"
+    ],
+    "publisher": [
+      "IETF"
+    ],
+    "title": [
+      "Mockapetris"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1989-10"
+    ],
+    "note": [
+      "RFC2046"
+    ],
+    "publisher": [
+      "R. Braden. IETF"
+    ],
+    "title": [
+      "Requirements for Internet Hosts -- Application and Support"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "Freed",
+        "given": "N."
+      },
+      {
+        "family": "IETF",
+        "given": "N.Borenstein"
+      }
+    ],
+    "title": [
+      "Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "URN Resolution",
+        "given": "U.R.I.Resolution Services Necessary",
+        "particle": "for"
+      },
+      {
+        "family": "Mealling",
+        "given": "M."
+      },
+      {
+        "family": "Daniel",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "RFC2483"
+    ],
+    "container-title": [
+      "RFC3676] The Text/Plain Format and DelSp Parameters, R. Gellens. IETF"
+    ],
+    "title": [
+      "IETF"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Guidelines"
+      },
+      {
+        "family": "URI Schemes",
+        "given": "Registration Procedures",
+        "particle": "for"
+      },
+      {
+        "family": "Thaler",
+        "given": "D."
+      },
+      {
+        "family": "Hansen",
+        "given": "T."
+      },
+      {
+        "family": "Hardie",
+        "given": "T."
+      },
+      {
+        "family": "Internet Message Format",
+        "given": "P.Resnick I.E.T.F."
+      },
+      {
+        "family": "Media Types",
+        "given": "R.Gellens"
+      },
+      {
+        "family": "Singer",
+        "given": "D."
+      },
+      {
+        "family": "IETF",
+        "given": "P.Frojdh"
+      }
+    ],
+    "citation-number": [
+      "RFC7595",
+      "RFC5322"
+    ],
+    "note": [
+      "RFC6266] Use of the Content-Disposition Header Field in the Hypertext Transfer Protocol (HTTP), J. Reschke. IETF."
+    ],
+    "title": [
+      "IETF",
+      "RFC6381] The 'Codecs' and 'Profiles' Parameters for \"Bucket"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "X-Frame-Options",
+        "given": "Non-normative) H.T.T.P.Header Field"
+      },
+      {
+        "family": "Ross",
+        "given": "D."
+      },
+      {
+        "family": "IETF",
+        "given": "T.Gondrom"
+      }
+    ],
+    "citation-number": [
+      "RFC7034"
+    ],
+    "note": [
+      "RFC7303] XML Media Types, H. Thompson, C. Lilley. IETF. [RFC7578"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "multipart/form-data, L. Masinter. IETF. [SCREENORIENTATION"
+    ],
+    "title": [
+      "Returning Values from Forms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Screen Orientation"
+      },
+      {
+        "family": "Lamouri",
+        "given": "M."
+      },
+      {
+        "family": "Cáceres",
+        "given": "M."
+      }
+    ],
+    "publisher": [
+      "SCSU"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Non-normative"
+      },
+      {
+        "family": "Wolf",
+        "given": "M."
+      },
+      {
+        "family": "Whistler",
+        "given": "K."
+      },
+      {
+        "family": "Wicksteed",
+        "given": "C."
+      },
+      {
+        "family": "Davis",
+        "given": "M."
+      },
+      {
+        "family": "Freytag",
+        "given": "A."
+      },
+      {
+        "family": "Scherer",
+        "given": "M."
+      }
+    ],
+    "publisher": [
+      "Unicode Consortium"
+    ],
+    "title": [
+      "UTR #6: A Standard Compression Scheme For Unicode"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Selectors",
+        "given": "S.E.L.E.C.T.O.R.S.]"
+      },
+      {
+        "family": "Etemad",
+        "given": "E."
+      },
+      {
+        "family": "Çelik",
+        "given": "T."
+      },
+      {
+        "family": "Glazman",
+        "given": "D."
+      },
+      {
+        "family": "Hickson",
+        "given": "I."
+      },
+      {
+        "family": "Linss",
+        "given": "P."
+      },
+      {
+        "family": "Williams",
+        "given": "J."
+      }
+    ],
+    "note": [
+      "SMS] (Non-normative) URI Scheme for Global System for Mobile Communications (GSM) Short Message Service (SMS), E. Wilde, A. Vaha-Sipila. IETF. [STRUCTURED-FIELDS"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "HTTP",
+        "given": "Structured Field Values",
+        "particle": "for"
+      },
+      {
+        "family": "Nottingham",
+        "given": "M."
+      },
+      {
+        "family": "Kamp",
+        "given": "P.-H."
+      }
+    ],
+    "publisher": [
+      "SRI"
+    ],
+    "title": [
+      "IETF"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Subresource Integrity",
+        "given": "D.Akhawe"
+      },
+      {
+        "family": "Braun",
+        "given": "F."
+      },
+      {
+        "family": "Marier",
+        "given": "F."
+      },
+      {
+        "family": "Weinberger",
+        "given": "J."
+      }
+    ],
+    "publisher": [
+      "STORAGE"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Storage",
+        "given": "A.van Kesteren"
+      }
+    ],
+    "publisher": [
+      "SVG"
+    ],
+    "title": [
+      "WHATWG"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Andronikos",
+        "given": "N."
+      },
+      {
+        "family": "Atanassov",
+        "given": "R."
+      },
+      {
+        "family": "Bah",
+        "given": "T."
+      },
+      {
+        "family": "Birtles",
+        "given": "B."
+      },
+      {
+        "family": "Brinza",
+        "given": "B."
+      },
+      {
+        "family": "Concolato",
+        "given": "C."
+      },
+      {
+        "family": "Dahlström",
+        "given": "E."
+      },
+      {
+        "family": "Lilley",
+        "given": "C."
+      },
+      {
+        "family": "McCormack",
+        "given": "C."
+      },
+      {
+        "family": "Schepers",
+        "given": "D."
+      },
+      {
+        "family": "Schwerdtfeger",
+        "given": "R."
+      },
+      {
+        "family": "Storey",
+        "given": "D."
+      },
+      {
+        "family": "Takagi",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "J. Watt"
+    ],
+    "date": [
+      "W3C"
+    ],
+    "note": [
+      "Scalable Vector Graphics (SVG) 2,",
+      "SW"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Service Workers",
+        "given": "A.Russell"
+      },
+      {
+        "family": "Song",
+        "given": "J."
+      },
+      {
+        "family": "W3C",
+        "given": "J.Archibald"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.Z.D.A.T.A.B.A.S.E."
+      }
+    ],
+    "publisher": [
+      "IANA"
+    ],
+    "title": [
+      "Non-normative) Time Zone Database"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "U.N.I.V.C.H.A.R.D.E.T.]"
+      },
+      {
+        "family": "Li",
+        "given": "S."
+      },
+      {
+        "family": "Momoi",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 19th International Unicode Conference"
+    ],
+    "title": [
+      "A composite approach to language/encoding detection",
+      "Netscape"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "UUID] uuid, B. Coe, R. Kieffer, C. Tavan. WICG. [WASMJS] (Non-normative) WebAssembly JavaScript Interface, D. Ehrenberg."
+      }
+    ],
+    "note": [
+      "WCAG] (Non-normative) Web Content Accessibility Guidelines (WCAG), A. Kirkpatrick, J. O Connor, A. Campbell, M. Cooper. W3C. [WEBANIMATIONS"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Web Animations",
+        "given": "B.Birtles"
+      },
+      {
+        "family": "Stephens",
+        "given": "S."
+      },
+      {
+        "family": "Stockwell",
+        "given": "D."
+      }
+    ],
+    "publisher": [
+      "WEBAUDIO"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Non-normative) Web Audio"
+      },
+      {
+        "family": "Adenot",
+        "given": "P."
+      },
+      {
+        "family": "Choi",
+        "given": "H."
+      }
+    ],
+    "publisher": [
+      "WEBCODECS"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "WebCodecs",
+        "given": "A.P.I."
+      },
+      {
+        "family": "Cunningham",
+        "given": "C."
+      },
+      {
+        "family": "Adenot",
+        "given": "P."
+      },
+      {
+        "family": "Aboba",
+        "given": "B."
+      }
+    ],
+    "publisher": [
+      "WEBCRYPTO"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "API",
+        "given": "Non-normative) Web Cryptography"
+      },
+      {
+        "family": "W3C",
+        "given": "M.Watson"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "WebSockets",
+        "given": "W.E.B.S.O.C.K.E.T.S.]"
+      },
+      {
+        "family": "Rice",
+        "given": "A."
+      }
+    ],
+    "title": [
+      "WHATWG"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "X.121",
+        "given": "Recommendation"
+      }
+    ],
+    "citation-number": [
+      "X121"
+    ],
+    "container-title": [
+      "CCITT Blue Book"
+    ],
+    "issue": [
+      "icle VIII.3"
+    ],
+    "pages": [
+      "317–332"
+    ],
+    "title": [
+      "International Numbering Plan for Public Data Networks"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "literal": "XMLENTITY] (Non-normative) XML Entity Definitions for Characters, D. Carlisle, P. Ion. W3C. [XMLNS] Namespaces in XML, T. Bray, D. Hollander, A. Layman, R. Tobin."
+      }
+    ],
+    "publisher": [
+      "XMLSSPI"
+    ],
+    "title": [
+      "W3C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Associating Style Sheets with XML documents, J. Clark, S. Pieters, H. Thompson."
+      }
+    ],
+    "date": [
+      "W3C"
+    ],
+    "note": [
+      "XPATH10"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Clark",
+        "given": "J."
+      },
+      {
+        "family": "DeRose",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Version"
+    ],
+    "date": [
+      "W3C"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "XML Path Language (XPath"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  }
+]
