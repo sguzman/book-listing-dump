@@ -1,0 +1,20 @@
+[
+  {
+    "genre": [
+      "CD Online references"
+    ],
+    "type": null,
+    "url": [
+      "http://qth.me/gOupl/+qrss-attiny"
+    ]
+  },
+  {
+    "note": [
+      "tft.fillRect(ORIGIN_MHZ-2400, CHANNEL_LEGEND_HEIGHT, HAM_BAND_WIDTH, WATERFALL TOP-CHANNEL_LEGEND_HEIGHT, ST7735_GREEN); tft.setCursor(ORIGIN_MHZ-2400, CHANNEL_LEGEND_HEIGHT); tft.print(F(\"Ham Band\"));"
+    ],
+    "title": [
+      "static void drawLegend() { tft.setTextColor(ST7735_YELLOW); drawChanne1(1, WLAN1-0RIGIN_MHZ, ST7735_MAGENTA); drawChannel(6, WLAN6-0RIGIN_MHZ, ST7735 RED); drawChannel(ll, WLAN11-0RIGIN_MHZ, ST7735_BLUE); drawChannel(14, WLAN14-0RIGIN_MHZ, ST7735_BLACK); drawHamBand(); static void drawHamBand() { II can't draw 2300-2310 or 2390-2400 as it's outside of range"
+    ],
+    "type": null
+  }
+]
