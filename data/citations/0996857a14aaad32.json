@@ -1,0 +1,144 @@
+[
+  {
+    "container-title": [
+      "VWD, select the Website menu, and then select the ASP.NET Configuration item. This will launch the Web Site Administration Tool"
+    ],
+    "note": [
+      "see Figure 9-1)."
+    ],
+    "title": [
+      "Try It Out Configuring Security 1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "title": [
+      "Click the “Create or Manage roles” link, and select the Manage link alongside the Admin role"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Tick the User Is In Role option (see Figure 9-3). Figure 9-3: Adding a user to a role"
+    ],
+    "title": [
+      "On the Search for Users page, click the A link to show users whose name begins with “A"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "title": [
+      "The users and roles creation is now complete, so close the Web Site Administration Tool. How It Works All of this work is done by ASP.NET and the Web Site Configuration Tool, so there is no code to examine"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Solution Explorer, if you select the App_Data folder, and click the Refresh button"
+    ],
+    "note": [
+      "you’ll see that a new database file base been added, ASPNETDB.MDF (see Figure 9-4)."
+    ],
+    "title": [
+      "However, you must understand what this tool has done, so we’ll start by looking at what additional files the tool has added to the site"
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      "104–105"
+    ],
+    "title": [
+      "Index databases properties, methods, and events, 110 extracting from tables SQL commands with, 173–174 custom SQL statement for, 94–101 with stored procedures, 104 database view for"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "SqlException"
+      }
+    ],
+    "container-title": [
+      "XmlDataSource"
+    ],
+    "note": [
+      "133 converting to XSLT, 167–168 controls for with DeliveryAddress form, 241–242 DataSet property versus DataReader displaying XML data, 158–162 property, 144 with Div control, 166–168 with GridView control, 108–109"
+    ],
+    "pages": [
+      "231–232"
+    ],
+    "title": [
+      "261–262 stored procedures for, 101–104 WebMatrix third-party controls, 24 streaming from databases, 144 Wizard data access code, custom Add/Remove WizardSteps option, 236 nested displays autoformatting, 236–237 advantages of using, 143–144 code for, 250–251 code for, 144–158 how it works, 237–238 for XML data, 161–162 WizardStep data access, designing sites for, 36 how it works, 237–238 data layer classes (shopping carts), 213–219 StepType property values, 238 data methods (StoredShoppingCart class",
+      "adding user controls, 163–165 data sources, accessing binding user controls, 168–170 configuring for nested displays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "227–230"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "feature",
+        "given": "Copy Web",
+        "particle": "page"
+      }
+    ],
+    "note": [
+      "267 adding deliver-to and delivery-cost information using,"
+    ],
+    "title": [
+      "276–278 SqlDataSource control, 173–174 Create or Manage roles link (Security Setup Data Source Configuration Wizard Wizard"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "104–105"
+    ],
+    "title": [
+      "FormView control formatting features, 122, viewing Web site files in, 21–22 125–127 databases. See also tables (database) GridView control formatting features, 111–122 accessing data nested displays, 129–131 custom SQL statements for, 95–101 database view for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "formatting Web pages, 25–27 INNER JOIN clause (SQL statements), 98 nested displays Insert method (ShoppingCart class), raising RowDataBound event, 141 209–210, 211 selecting formatting templates, 133–134 INSERT tab (StoredShoppingCart class), 228"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "control), 174 with StoredShoppingCart class, 231–232 InsertItems method (StoredShoppingCart"
+    ],
+    "pages": [
+      "144–145"
+    ],
+    "title": [
+      "Properties dialog box, 119–121 InsertCommand property (SqlDataSource with SqlDataSource control"
+    ],
+    "type": null,
+    "volume": [
+      "110"
+    ]
+  },
+  {
+    "note": [
+      "nested displays) creating and formatting the control, 146–148 code listing for, 154 database access code, 151 function, 137–138"
+    ],
+    "title": [
+      "nested displays nested displays Open a Web Site dialog box (VWD), 20–21 advantages of using, 129–131 open database connectivity (ODBC) databases, 16–17 custom code for Open Web Site window, 277–278 advantages of using, 143–144 Options dialog box (VWD Tools menu), 5–6 combining SQL with ASP.NET code, 144–158 Oracle database connections, 16–17 DataList control approach ORDER BY clause"
+    ],
+    "type": null
+  }
+]
