@@ -1,0 +1,768 @@
+[
+  {
+    "title": [
+      "The following is a list of the most helpful sources for writing this book. I have included a few comments about just how helpful each of the volumes was"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Abbate",
+        "given": "Janet"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Cambridge, Mass"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Inventing the Internet",
+      "A complete look at the early days of the Internet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cerruzzi",
+        "given": "Paul E."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Cambridge, Mass"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "A History of Modern Computing",
+      "Yes, there were computers before the Internet. This is for serious students only"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Comer",
+        "given": "Douglas"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Upper Saddle River, N.J"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Internet Book",
+      "Good Internet background, but for real beginners. Showing its age, so use it as a history book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "Jeff Routing T.C.P./I.P."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "title": [
+      "If you only read one book on routing basics, read this one for the IGPs"
+    ],
+    "type": "book",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doyle",
+        "given": "Jeff"
+      },
+      {
+        "family": "Carroll",
+        "given": "Jennifer DeHaven"
+      }
+    ],
+    "container-title": [
+      "Also essential"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "title": [
+      "Routing TCP/IP",
+      "Covers BGP, multicast, IPv6, and much more"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II"
+    ]
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Doyle",
+        "given": "Jeff"
+      },
+      {
+        "family": "Kolon",
+        "given": "Matt"
+      }
+    ],
+    "location": [
+      "Berkeley, Calif"
+    ],
+    "publisher": [
+      "McGraw-Hill/Osborne"
+    ],
+    "title": [
+      "Juniper Networks Routers",
+      "A truly gigantic book covering all of the basics of Juniper Networks routers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Feit",
+        "given": "Dr Sidnie"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "TCP/IP",
+      "Excellent perspective on TCP/IP from the user point of view. Despite the title, this book contains a lot about routers and routing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gillies",
+        "given": "James"
+      },
+      {
+        "family": "Cailliau",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "How the Web was Born",
+      "The most complete history of the development of the Web at CERN by one of the principals (Cailliau"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Halabi",
+        "given": "Sam"
+      },
+      {
+        "family": "Danny McPherson",
+        "particle": "with"
+      },
+      {
+        "family": "Hucaby",
+        "given": "David"
+      },
+      {
+        "family": "McQuerry",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "2000",
+      "2002"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Indianapolis",
+      "Indianapolis"
+    ],
+    "note": [
+      "etc. Not long on explanation. But I found myself looking up command syntax again and again. The most used of all my Cisco books."
+    ],
+    "publisher": [
+      "Cisco Press",
+      "Cisco Press"
+    ],
+    "title": [
+      "Internet Routing Architectures",
+      "Update of an old classic. This has always been just “the BGP book",
+      "Cisco Field Manual: Router Configuration",
+      "A very good reference for checking command syntax"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Huitema",
+        "given": "Christian"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, N.J"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Routing in the Internet",
+      "Very good book on IGP/EGP issues and answers. Vendor-neutral, which is almost a rare thing today"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Huston",
+        "given": "Geoff"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "ISP Survival Guide",
+      "Many of the labs in this book were based on issues raised by this fine book on real-world ISP situations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leinwand",
+        "given": "Allan"
+      },
+      {
+        "family": "Pinsky",
+        "given": "Bruce"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "title": [
+      "Cisco Router Configuration",
+      "For beginners. Useful for edge or site router configuration, but not much else"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "Chris"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Cisco TCP/IP Routing Professional Reference",
+      "Not very useful beyond RIP and the usual basics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lohr",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Java, UNIX, Linux, and so on."
+    ],
+    "publisher": [
+      "Basic Books"
+    ],
+    "title": [
+      "Go To",
+      "Nice look at what all those Internet routers are hooking up and carrying. A history of software ending with the Web"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Loshin",
+        "given": "Pete"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan-Kaufmann"
+    ],
+    "title": [
+      "Big Book of Border Gateway Protocol (BGP) RFCs",
+      "What a book! Just having a complete index to all of these RFCs is worth the price. This is one of a whole series that includes other networking and routing concepts as well"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Moy",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "OSPF",
+      "OSPF from the man who wrote the RFCs. Sometimes the going gets heavy, but it’s all there"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Naugle",
+        "given": "Matthew"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Illustrated TCP/IP"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley and Sons",
+      "Very valuable"
+    ],
+    "title": [
+      "I keep going back to this book when I need a quick look at the essentials of one TCP/IP feature or another"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Paquet",
+        "given": "Catherine"
+      },
+      {
+        "family": "Teare",
+        "given": "Diane"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "title": [
+      "Building Scaleable Cisco Networks",
+      "Very good for practical examples of OSPF and BGP configurations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parkhurst",
+        "given": "William R."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "note": [
+      "However, for the total amount of BGP information, there is none better."
+    ],
+    "publisher": [
+      "Cisco Press"
+    ],
+    "title": [
+      "Cisco BGP-4 Command and Configuration Handbook",
+      "Very helpful, but the numerous example configurations and show commands tend to clutter up the text and break up the flow"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Perlman",
+        "given": "Radia"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2d"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Interconnections"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "classic",
+        "given": "Updated"
+      }
+    ],
+    "title": [
+      "Read Perlman not only for IS-IS, but for LANs, bridging, and her wry take on the entire industry"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Neil",
+        "given": "Randall"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Boston, Mass"
+    ],
+    "publisher": [
+      "International Thompson Computer Press"
+    ],
+    "title": [
+      "The Soul of the Internet",
+      "I have many other books on Internet history, but this is the one I use the most"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sackett",
+        "given": "George C.Cisco Router Handbook"
+      }
+    ],
+    "container-title": [
+      "Very light on configuration details"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Very broad in range, it covers everything a router can do"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sportak",
+        "given": "Mark A."
+      },
+      {
+        "family": "RIP. Stevens",
+        "particle": "especially"
+      },
+      {
+        "family": "Richard",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1999",
+      "1994"
+    ],
+    "edition": [
+      "of TCP/IP Illustrat"
+    ],
+    "location": [
+      "Indianapolis",
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Cisco Press",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "IP Routing Fundamentals",
+      "Sound book on routing basics",
+      "The Protocols",
+      "Simply the classic book on TCP/IP. The late Stevens’ approach to TCP/IP, which was to do the same thing on different platforms and see what happened, inspired my own approach to do the same with routers in this book. Still the best for all but the latest tweaks and features"
+    ],
+    "type": "book",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "John W.",
+        "suffix": "III"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "BGP4",
+      "Do not underestimate the importance of this slim volume. I found myself drawn to it again and again"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Velte",
+        "given": "Toby"
+      },
+      {
+        "family": "Velte",
+        "given": "Anthony"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Berkeley, Calif"
+    ],
+    "publisher": [
+      "McGraw-Hill/Osborne"
+    ],
+    "title": [
+      "Cisco: A Beginner’s Guide",
+      "This is for real beginners; it assumes no knowledge even of Cisco as a company"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "publisher": [
+      "Cisco Press/Macmillan Technical Publishing"
+    ],
+    "title": [
+      "IP Routing Primer",
+      "An absolute beginners guide to Cisco routers. Covers static routing and default routing in detail, but not much else"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "575 issue, 507 overview of, 377–378"
+    ],
+    "title": [
+      "Intermediate System (IS-IS); origins of, 379–380 Open Shortest Path First (OSPF) OSPF compared to, 378–379, IGP passive and BGP Next Hop 381–389"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "460 (SNPs), 401–403 IGRP (Interior Gateway Routing transitioning OSPF to, 576–579 Protocol), 240, 270–271 Type/Length/Value (TLV) system, immediate action, 551 391–394, 588–589 IMP. See interface message processor See also configuring IS-IS; IS-IS"
+    ],
+    "title": [
+      "IGP routing policies, 565–566. See also protocol data units (PDUs), 389–391 IS-IS routing policies; OSPF route leaking overview, 383–384 routing policies Sequence Number PDUs IGP synchronization"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "route filter match types, 556–560 OSPF stub area configuration, structure of"
+    ],
+    "pages": [
+      "548–549 374–375",
+      "549–551 353–357, 359–360"
+    ],
+    "title": [
+      "policy expression, 561 OSPF NSSA configuration, 370–373, protocol preference"
+    ],
+    "type": "chapter",
+    "volume": [
+      "534"
+    ]
+  },
+  {
+    "title": [
+      "JUNOS Internet software (Juniper OSPF total stub area configuration"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "reference bandwidth"
+    ],
+    "note": [
+      "overview of, 389–391 578 Sequence Number, 401–403 regional provider (ISP), 117 Type/Length/Value (TLV) regular expressions field, 391–394 anchors, 674 protocol-independent property, 493 AS Path attribute (BGP), 635–636 protocol preference (Juniper Networks), Cisco AS Path, 638–642 534, 548–549, 575–577, 579, 654 Cisco Community, 669–670 protocols Juniper Networks AS Path, 642–647,"
+    ],
+    "pages": [
+      "298–299,"
+    ],
+    "title": [
+      "protocol data unit (Continued"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "297"
+    ]
+  },
+  {
+    "container-title": [
+      "See TCP/IP layering of"
+    ],
+    "note": [
+      "transport layer of TCP/IP, 36, 43–46 network layer, 38–40 trap event, 62 as peer protocol stack, 35 triggered update method, 245, 252–253 protocol stack, 37–38, 50 Trivial File Transfer Protocol (TFTP), transport layer, 43–46 51, 58–59, 177 UNIX and, 11–12 tunneling, 113 Windows 95 and, 25 Type/Length/Value (TLV), 391–394, X Windows and, 64–65 588–589 See also Internet Protocol suite Type of Service (TOS) routing, 298–299 Index 723"
+    ],
+    "pages": [
+      "35–38"
+    ],
+    "title": [
+      "TCP/IP (Transmission Control Proto- transit traffic, 665–666 col/Internet Protocol) Transmission Control Program application layer, 47–50, 51 (TCP), 10 dynamic nature of, 65–66 Transmission Control Protocol. See TCP Internet and, 10 Transmission Control Protocol/ IP layer, 40–43 Internet Protocol"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  }
+]
