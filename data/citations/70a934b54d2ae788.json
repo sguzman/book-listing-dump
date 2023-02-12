@@ -1,0 +1,239 @@
+[
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "note": [
+      "4. Choose rational subgroups for control charting based on an understanding of the process."
+    ],
+    "title": [
+      "PROCESSES 1. Describe the process leading to some desired output using flowcharts and cause-and-effect diagrams. 2. Choose promising targets for process improvement, combining the process description with data collection and tools such as Pareto charts. 3. Demonstrate understanding of statistical control, common causes, and special causes by applying these ideas to specific processes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "William H. Woodall",
+        "particle": "from Andrew C. Palm’s discussion of"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Journal of Quality Technology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "Palm’s discussion appears in the same issue,",
+      "We have combined Palm’s stages B (“process improvement”) and C (“process monitoring”) in writing for beginners because the distinction between them is one of degree."
+    ],
+    "pages": [
+      "341–350",
+      "356–360"
+    ],
+    "title": [
+      "We have adopted the terms “chart setup” and “process monitoring",
+      "Controversies and contradictions in statistical process control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "based on the process itself) with standards or specifications imposed from outside."
+    ],
+    "title": [
+      "It is common to call these “standards given” x and s charts. We avoid this term because it easily leads to the common and serious error of confusing control limits"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "publisher": [
+      "Provided by Charles Hicks, Purdue University"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "See, for example, Chapter 3 of Stephen B. Vardeman and J. Marcus Jobe"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Statistical Quality Assurance Methods for Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1956"
+    ],
+    "publisher": [
+      "Western Electric"
+    ],
+    "title": [
+      "The classic discussion of out-of-control signals and the types of special causes that may lie behind special control chart patterns is the AT&T Statistical Quality Control Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1976"
+    ],
+    "publisher": [
+      "Burr, Statistical Quality Control Methods, Marcel Dekker"
+    ],
+    "title": [
+      "The data in Table 12.5 are adapted from data on viscosity of rubber samples appearing in Table P3.3 of Irving W"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "That is"
+    ],
+    "note": [
+      "and \" ."
+    ],
+    "title": [
+      "The control limits for the s chart based on past data are commonly given as B4 s and B3 s",
+      "This is convenient for users, but we choose to minimize the number of control chart constants students must keep straight and to emphasize that process-monitoring and past-data charts are exactly the same except for the source of !"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "B4 # B6 /c4 and B3 # B5 /c4"
+    ]
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "note": [
+      "Simulated data based on information appearing in the article cited in Note 1."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "publisher": [
+      "Purdue University"
+    ],
+    "title": [
+      "Data provided by Linda McCabe"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "from his book Out of the Crisis"
+    ],
+    "date": [
+      "1993-12",
+      "1986"
+    ],
+    "pages": [
+      "5"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The first two Deming quotes are from Public Sector Quality Report",
+      "They were found online at deming.eng.clemson.edu/pub/den/ files/demqtes.txt. The third quote is part of the 10th of Deming’s “14 points of quality management"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "note": [
+      "Texts such as that cited in Note 7 give the details."
+    ],
+    "title": [
+      "Control charts for individual measurements cannot use within-sample standard deviations to estimate short-term process variability. The spread between successive observations is the next best thing"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "note": [
+      "Purdue University Center for Customer-Driven Quality, no date."
+    ],
+    "title": [
+      "The data in Figure 12.17(b) are simulated from a probability model for call pickup times. That pickup times for large financial institutions have median 20 seconds and mean 32 seconds is reported by Jon Anton, “A case study in benchmarking call centers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Maynard",
+        "given": "Micheline"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "New York Times"
+    ],
+    "date": [
+      "2002-03-17"
+    ],
+    "title": [
+      "Building success from parts"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "type": null
+  }
+]
