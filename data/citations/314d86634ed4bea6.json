@@ -1,0 +1,7282 @@
+[
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1960-05"
+    ],
+    "genre": [
+      "Ph.D. Dissertation,"
+    ],
+    "publisher": [
+      "University of Illinois at Urbana-Champaign, Digital Computer Laboratory"
+    ],
+    "title": [
+      "A Study of Redundant Number Representations for Parallel Digital Computers"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1961-09"
+    ],
+    "pages": [
+      "389–400"
+    ],
+    "title": [
+      "Signed-Digit Number Representations for Fast Parallel Arithmetic,''"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC-10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proc. Symposium on Computers and Automata"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "509–525"
+    ],
+    "publisher": [
+      "Polytechnic Institute of Brooklyn"
+    ],
+    "title": [
+      "Digital Computer Arithmetic: A Unified Algorithmic Specification"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cavanagh",
+        "given": "J.J.F."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Computer Arithmetic: Design and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Couleur",
+        "given": "J.F."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1958-12"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "313–316"
+    ],
+    "title": [
+      "BIDEC-a Binary-to-Decimal or Decimal-to-Binary Converter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flores",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "The Logic of Computer Arithmetic, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Garner",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Advances in Computers"
+    ],
+    "date": [
+      "1965"
+    ],
+    "editor": [
+      {
+        "family": "Alt",
+        "given": "F.L."
+      },
+      {
+        "family": "Rubinoff",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "131–194"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Number Systems and Arithmetic"
+    ],
+    "type": "chapter",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garner",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1976-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1277–1282"
+    ],
+    "title": [
+      "A Survey of Recent Contributions to Computer Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Morgan"
+      }
+    ],
+    "location": [
+      "San Mateo, CA"
+    ],
+    "title": [
+      "Computer Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gosling",
+        "given": "J.B."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Design ofArithmetic Unitsfor Digital Computers,Springer-Verlag"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Computer Arithmetic: Principles, Architecture and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "K."
+      },
+      {
+        "family": "Chang",
+        "given": "T.P."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proc. Fourth Symposium on Computer Arithmetic"
+    ],
+    "date": [
+      "1978-10"
+    ],
+    "title": [
+      "A New Interleaved RationaURadix Number System for High-Precision Arithmetic Computations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Koren",
+        "given": "I."
+      },
+      {
+        "family": "Maliniak",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1981-05"
+    ],
+    "pages": [
+      "312–317"
+    ],
+    "title": [
+      "On Classes of Positive, Negative and Imaginary Radix Number Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "pages": [
+      "4"
+    ],
+    "publisher": [
+      "Seminumerical Algorithms, Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kulisch",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1977-07"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "610–620"
+    ],
+    "title": [
+      "Mathematical Foundations of Computer Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lanning",
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Computers and Electrical Engineering"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Elmsford, NY"
+    ],
+    "pages": [
+      "281"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "Automata for Direct Radix Conversion"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marasa",
+        "given": "J.D."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1970-06"
+    ],
+    "genre": [
+      "M.S. Thesis,"
+    ],
+    "location": [
+      "Louis, MO"
+    ],
+    "publisher": [
+      "Seven Institute Technology Washington University, St"
+    ],
+    "title": [
+      "Accumulated Arithmetic Error in Floating-Point and Alternative Logarithmic Number Systems"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Matula",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Applications of Numbers Theory to Numerical Analysis"
+    ],
+    "date": [
+      "1972"
+    ],
+    "editor": [
+      {
+        "family": "Zaremba",
+        "given": "W."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "479–489"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Number Theoretic Foundations for Finite-Precision Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Matula",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Third Symposium on Comp. Arith., IEEE Catalog No"
+    ],
+    "date": [
+      "1975-11"
+    ],
+    "pages": [
+      "1017–3 ,",
+      "90–9 1"
+    ],
+    "title": [
+      "Fixed-Slash and Floating-Slash Rational Arithmetic,”Proc"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "75"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Matula",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Applied Computation Theory: Analysis, Design, Modeling, R.T"
+    ],
+    "date": [
+      "1976"
+    ],
+    "edition": [
+      "Yeh"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "pages": [
+      "9"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Radix Arithmetic: Digital Algorithms for Computer Architecture"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nicoud",
+        "given": "J.-D."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1971-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1479–1489"
+    ],
+    "title": [
+      "Iterative Arrays for Radix Conversions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parhami",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1990-01"
+    ],
+    "pages": [
+      "89–98"
+    ],
+    "title": [
+      "Generalized Signed-Digit Number Systems: A Unifying Framework for Redundant Number Representations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Notes for the Univ. of Michigan Engineering Summer Conference, in “Topics in the Design of Digital Computing Machines,”"
+    ],
+    "date": [
+      "July 6-10, 1959"
+    ],
+    "location": [
+      "Ann Arbor, MI"
+    ],
+    "title": [
+      "Redundant Number Systems for Digital Computer Arithmetic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Scott",
+        "given": "N.R."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Computer Number Systems and Arithmetic, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "198 1"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "0. Spaniol, Computer Arithmetic: Logic and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "ComputerArithmetic,Vol. 1"
+    ],
+    "date": [
+      "1990"
+    ],
+    "editor": [
+      {
+        "family": "Swartzlander",
+        "given": "E.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "location": [
+      "Los Alamitos, CA"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "ComputerArithmetic,Vol. 2"
+    ],
+    "date": [
+      "1990"
+    ],
+    "editor": [
+      {
+        "family": "Swartzlander",
+        "given": "E.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "location": [
+      "Los Alamitos, CA"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Szabo",
+        "given": "N.S."
+      },
+      {
+        "family": "Tanaka",
+        "given": "R.I."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "McGraw-Hill, NY"
+    ],
+    "title": [
+      "Residue ArithmeticandltsApplications to Computer Technology"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tung",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Computer Science"
+    ],
+    "date": [
+      "1972"
+    ],
+    "editor": [
+      {
+        "family": "Cardenas",
+        "given": "A.F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "3"
+    ],
+    "title": [
+      "Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Waser",
+        "given": "S."
+      },
+      {
+        "family": "Flynn",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Holt, Rinehart, Winston, New York"
+    ],
+    "title": [
+      "Introduction to Arithmetic for Digital System Designers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Aleksander",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Trans. Elec. Comp"
+    ],
+    "date": [
+      "1967-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Array Networks for a Parallel Adder and Its Contro1,”IEEE"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Los Angeles"
+    ],
+    "publisher": [
+      "of Engineering, University of California"
+    ],
+    "title": [
+      "Logic Nets for Carry and Borrow Propagation,”Class Notes, Dept"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Briley",
+        "given": "B.E."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp.,Vol"
+    ],
+    "date": [
+      "1973-05"
+    ],
+    "issue": [
+      "5 "
+    ],
+    "pages": [
+      "459–463"
+    ],
+    "title": [
+      "Some New Results on Average Worst-case Carry"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burks",
+        "given": "A.W."
+      },
+      {
+        "family": "Goldstine",
+        "given": "H.H."
+      },
+      {
+        "family": "Neuman",
+        "given": "J.",
+        "particle": "von"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1946"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "note": [
+      "reprinted in C. G. Bell and A. Newell, Computer Structures: Readings and Examples, McGraw-Hill, New York, 1971)."
+    ],
+    "title": [
+      "Preliminary Discussion of the Logical Design of an Electronic Computing Instrument, Institute for Advanced Study"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Staff",
+        "given": "Fairchild Semiconductor"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1973-08"
+    ],
+    "location": [
+      "Mountain View, CA"
+    ],
+    "title": [
+      "The nLApplications Handbook"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrari",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1968-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "132–145"
+    ],
+    "title": [
+      "Fast Carry-Propagation Iterative Networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gilchrist",
+        "given": "B."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IRE Trans. EC-4"
+    ],
+    "date": [
+      "1955-12"
+    ],
+    "pages": [
+      "133–136"
+    ],
+    "title": [
+      "Fast Carry Logic for Digital Computers"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilchrist",
+        "given": "B."
+      },
+      {
+        "family": "Pomerene",
+        "given": "J.H."
+      },
+      {
+        "family": "Wong",
+        "given": "S.Y."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1955-12"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "133–136"
+    ],
+    "title": [
+      "Fast Carry Logic for Digital Computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kruy",
+        "given": "J.F."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "AFIPS Con5 Proceedings"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "695–703"
+    ],
+    "title": [
+      "A Fast Conditional Sum Adder Using Carry Bypass Logic"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lehman",
+        "given": "M."
+      },
+      {
+        "family": "Burla",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Trans. EC-10"
+    ],
+    "date": [
+      "1961-12"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "691–698"
+    ],
+    "title": [
+      "Skip Techniques for High-speed Carry-Propagation in Binary ArithmeticUnits,”IRE"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Lehman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Inform. Processing"
+    ],
+    "date": [
+      "1962",
+      "1963"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "pages": [
+      "671–677"
+    ],
+    "publisher": [
+      "Elsevier-North Holland"
+    ],
+    "title": [
+      "A Comparative Study of Propagation Speed-Up Circuits in Binary Arithmetic Units"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1966-10"
+    ],
+    "issue": [
+      "5 "
+    ],
+    "pages": [
+      "799–802"
+    ],
+    "title": [
+      "High-speed Binary Parallel Adder"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacSorley",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proc. IRE"
+    ],
+    "date": [
+      "1961-01"
+    ],
+    "pages": [
+      "67–91"
+    ],
+    "title": [
+      "High-speed Arithmetic in Binary Computers"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reitwiesner",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Trans. EC-9"
+    ],
+    "date": [
+      "1960-03"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "35–38"
+    ],
+    "title": [
+      "The Determination of Carry Propagation Length for Binary Addition,”IRE"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Reitwiesner",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Advances in Computers"
+    ],
+    "date": [
+      "1960"
+    ],
+    "editor": [
+      {
+        "family": "Alt",
+        "given": "F.L."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "23 1–308"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Binary Arithmetic"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "S."
+      },
+      {
+        "family": "Waxman",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "113–120"
+    ],
+    "title": [
+      "Multiple Operand Addition and Multiplication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shedletsky",
+        "given": "J.J."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1977-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "271–272"
+    ],
+    "title": [
+      "Comment on the Sequential and Indeterminate Behavior of and End-Around-Carry Adder"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sklansky",
+        "given": "J."
+      },
+      {
+        "family": "Lehman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IRE Trans. EC-12"
+    ],
+    "date": [
+      "1963-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "142–148"
+    ],
+    "title": [
+      "Ultimate-Speed Adders"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Spira",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "552–555"
+    ],
+    "title": [
+      "Computation Times of Arithmetic and Boolean Functions in (d,r) Circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weller",
+        "given": "C.W."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1969-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "728–732"
+    ],
+    "title": [
+      "A High-speed Carry Circuit for Binary Adders"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "D.P."
+      },
+      {
+        "family": "Rao",
+        "given": "T.R.N."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1978-11"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1068–1070"
+    ],
+    "title": [
+      "On Multiple Operand Addition of Signed Binary Numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aleksander",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Trans. Electl: Computers"
+    ],
+    "date": [
+      "1967-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Array Networks for a Parallel Adder and Its Contro1,”lEEE"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "S.F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "ZBM Journal of R &"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "34–53"
+    ],
+    "title": [
+      "The IBM Systed360 Model 91: Floating-point Execution Unit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bratun",
+        "given": "J.M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IBM Tech. Disc. Bulletin"
+    ],
+    "date": [
+      "1971-11"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "1813–1316"
+    ],
+    "title": [
+      "Multiply/Divide Unit for a High-Performance Digital Computer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kouvaras",
+        "given": "N.D."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1968-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "992–997"
+    ],
+    "title": [
+      "Digital System of Simultaneous Addition of Several Binary Numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacSorley",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proc. IRE"
+    ],
+    "date": [
+      "1961-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "67–91"
+    ],
+    "title": [
+      "High-speed Arithmetic in Binary Computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Metze",
+        "given": "G."
+      },
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Proc. International ConJ on 1nJ Processing"
+    ],
+    "date": [
+      "1959-06"
+    ],
+    "location": [
+      "Paris, France"
+    ],
+    "pages": [
+      "389–396"
+    ],
+    "title": [
+      "Elimination of Carry Propagation in Digital Computers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1967-07"
+    ],
+    "genre": [
+      "Report No. 235,"
+    ],
+    "publisher": [
+      "University of Illinois, Urbana-Champaign, Dept. of Computer Science"
+    ],
+    "title": [
+      "A Deterministic Procedure for the Design of Carry-Save Adders and Borrow-Save Subtractors"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Rohatsch",
+        "given": "F.A."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1967-06"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "publisher": [
+      "University of Illinois, Urbana-Champaign"
+    ],
+    "title": [
+      "A Study of Transformations Applicable to the Development of Limited Carry-Borrow Propagation Adders"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Singh",
+        "given": "S."
+      },
+      {
+        "family": "Waxman",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "113–120"
+    ],
+    "title": [
+      "Multiple Operand Addition and Multiplication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "J. Sklansky,“An"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1960-06"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "213–225"
+    ],
+    "title": [
+      "Evaluation of Several Two-Summand Binary Adders"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sklansky",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1960-06"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "226–231"
+    ],
+    "title": [
+      "Conditional-Sum Addition Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Takagi",
+        "given": "N."
+      },
+      {
+        "family": "Yasuura",
+        "given": "H."
+      },
+      {
+        "family": "Yajima",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1985-09"
+    ],
+    "pages": [
+      "789–796"
+    ],
+    "title": [
+      "High Speed VLSI Multiplication Algorithm with a Redundant Binary Addition Tree"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wallace",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "ZEEE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "13,",
+      "14–17"
+    ],
+    "title": [
+      "A Suggestion for a Fast Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "S.F."
+      },
+      {
+        "family": "al",
+        "particle": "et."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "pages": [
+      "34–53"
+    ],
+    "title": [
+      "The IBM Systerd360 Model 91: Floating-Point Execution Unit"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Class Notes, Engr. 225A, UCLA"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Los Angeles, CA"
+    ],
+    "title": [
+      "Recoding of the Multiplier"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Booth",
+        "given": "A.D."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Quart. Journ. Mech. and Appl. Math"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "236–240"
+    ],
+    "title": [
+      "A Signed Binary Multiplication Technique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Part 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burstev",
+        "given": "V.S."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1958"
+    ],
+    "genre": [
+      "Tech. Report,"
+    ],
+    "location": [
+      "Moscow"
+    ],
+    "publisher": [
+      "Institute of Exact Mechanics and Computing Technique, The Academy of Sciences of the USSR"
+    ],
+    "title": [
+      "Accelerating Multiplication and Division Operations in High-Speed Digital Computers"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Fenwick",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1969-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "71–74"
+    ],
+    "title": [
+      "Binary Multiplication with Overlapped Addition Cycles"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans"
+    ],
+    "date": [
+      "1967-12"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "864–866"
+    ],
+    "title": [
+      "Calculation of Mean Shift for a Binary Muliplier Using 2, 3, or 4-bit at a Time"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kamal",
+        "given": "A.A."
+      },
+      {
+        "family": "Ghanam",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1972-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1017–1021"
+    ],
+    "title": [
+      "High-speed Multiplication System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lehman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proc. IEEE"
+    ],
+    "date": [
+      "1958-09"
+    ],
+    "pages": [
+      "496–504"
+    ],
+    "title": [
+      "Short-Cut Muliplication and Division in Automatic Binary Digital Computers"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ling",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "706–709"
+    ],
+    "title": [
+      "High-speed Computer Multiplication Using a Multiple-Bit Decoding Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacSorley",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proc. IRE"
+    ],
+    "date": [
+      "1961-01"
+    ],
+    "pages": [
+      "91–103"
+    ],
+    "title": [
+      "High-speed Arithmetic in Binary Computers"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Metze",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1958"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "publisher": [
+      "Univ. of Illinois"
+    ],
+    "title": [
+      "A Study of Parallel One’s Complement Arithmetic Units with Separate Carry or Borrow Storage"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Mowle",
+        "given": "F.J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1974-09"
+    ],
+    "location": [
+      "West Lafayette, IN"
+    ],
+    "pages": [
+      "14"
+    ],
+    "publisher": [
+      "Class Notes, Dept. of Elec. Eng., Purdue University"
+    ],
+    "title": [
+      "Simplified Logic Design Using Digital Circuit Elements"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1962-09"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "publisher": [
+      "Univ. of Illinois"
+    ],
+    "title": [
+      "0.Pennhollow, “Study of Arithmetic Recoding with Applications in Multiplication and Division"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Reitwiesner",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Advances in Computers"
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "261–265"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Binary Arithmetic"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IRE Trans"
+    ],
+    "date": [
+      "1955-09"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "118–119"
+    ],
+    "title": [
+      "Two’s Complement Multiplication in Binary Parallel Digital Computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "692–701"
+    ],
+    "title": [
+      "The Correspondence Between Methods of Digital Division and Multiplier Recoding Procedures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trivedi",
+        "given": "K.S."
+      },
+      {
+        "family": "Ercegovac",
+        "given": "M.D."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1977-07"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "681–687"
+    ],
+    "title": [
+      "On-Line Algorithms for Division and Multiplication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wallace",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Trans. Electronic Comp.,Vol"
+    ],
+    "date": [
+      "1964"
+    ],
+    "issue": [
+      ""
+    ],
+    "pages": [
+      "1,",
+      "14–17"
+    ],
+    "title": [
+      "A Suggestion for a Fast Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Devices",
+        "given": "Advanced Micro"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "901"
+    ],
+    "location": [
+      "Thompson Place, Sunnyvale, CA"
+    ],
+    "title": [
+      "TTLMSI AM2505 4-bit by 2-bit 2’s Complement Multiplier"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "D.P."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Proc. 3rd Symposium on CornputerArithmetic,IEEEComputer Society,#75C1017"
+    ],
+    "date": [
+      "1975-11"
+    ],
+    "pages": [
+      "208–219"
+    ],
+    "title": [
+      "Optimum Array-Like Structures for High-speed Arithmetic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "S.F."
+      },
+      {
+        "family": "Earle",
+        "given": "J.G."
+      },
+      {
+        "family": "Goldschmidt",
+        "given": "R.E."
+      },
+      {
+        "family": "Powers",
+        "given": "D.M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IBM J. R & D"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "34–53"
+    ],
+    "title": [
+      "The IBM Systed360 Model 9 1: Floating-point Execution Unit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bandyopadhyay",
+        "given": "S."
+      },
+      {
+        "family": "Basu",
+        "given": "S."
+      },
+      {
+        "family": "Choudhory",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1972-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "921–922"
+    ],
+    "title": [
+      "An Iterative Array for Multiplication of Signed Binary Numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Baugh",
+        "given": "C.R."
+      },
+      {
+        "family": "Wooley",
+        "given": "B.A."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1045–1047"
+    ],
+    "title": [
+      "A Two’s Complement Parallel Array Multiplication Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Booth",
+        "given": "A.D."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Quart. J. Mech. Appl. Math"
+    ],
+    "date": [
+      "1951-06"
+    ],
+    "pages": [
+      "2,",
+      "236–240"
+    ],
+    "title": [
+      "A Signed Binary Multiplication Technique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Braun",
+        "given": "E.L."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Digital Computer Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brubaker",
+        "given": "T.A."
+      },
+      {
+        "family": "Becker",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1975"
+    ],
+    "title": [
+      "Multiplication Using Logarithms Implemented with Read-only Memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-24"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1962"
+    ],
+    "editor": [
+      {
+        "family": "Buchholz",
+        "given": "W."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "210–211"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Planning a Computer System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chu",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Computer Design Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dadda",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Altu Frequenza"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "574–580"
+    ],
+    "title": [
+      "On Parallel Digital Multipliers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dadda",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Alta Frequenza"
+    ],
+    "date": [
+      "1965-03"
+    ],
+    "pages": [
+      "349–356"
+    ],
+    "title": [
+      "Some Schemes for Parallel Multipliers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dean",
+        "given": "K.J."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proc. IEEE"
+    ],
+    "date": [
+      "1968-11"
+    ],
+    "pages": [
+      "1592– 1594"
+    ],
+    "title": [
+      "Design of a Full Multiplier"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "115"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deegan",
+        "given": "I.D."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Electronic Letters"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "436437"
+    ],
+    "title": [
+      "Cellular Multiplier for Signed Binary Numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deverrell",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1975-03"
+    ],
+    "pages": [
+      "317–322"
+    ],
+    "title": [
+      "Pipeline Iterative Arithmetic Arrays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Semiconductors",
+        "given": "Fairchild"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "note": [
+      "3 13 Fairchild Dr., Mountain View, CA, 1971."
+    ],
+    "title": [
+      "TTIMSI 9344 Binary (4-bit by 2-bit) Full Multiplier"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Flores",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "The Logic of Computer Arithmetic, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "J.A."
+      },
+      {
+        "family": "Ginbard",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "1020–1027"
+    ],
+    "title": [
+      "Synthesis and Comparison of Two’s Complement Parallel Multipliers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Guild",
+        "given": "H.H."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Electronic Letters"
+    ],
+    "date": [
+      "1969-05"
+    ],
+    "pages": [
+      "263"
+    ],
+    "title": [
+      "Fully Iterative Fast Array for Binary Multiplication and Fast Addition"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Habibi",
+        "given": "A."
+      },
+      {
+        "family": "Wintz",
+        "given": "P.A."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-02"
+    ],
+    "pages": [
+      "153–157"
+    ],
+    "title": [
+      "Fast Multipliers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harata",
+        "given": "Y."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE J. Solid-state Circuits SC-22"
+    ],
+    "date": [
+      "1987-02"
+    ],
+    "pages": [
+      "28–33"
+    ],
+    "title": [
+      "A High Speed Multiplier Using a Redundant Binary Adder Tree"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hemel",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Electronic Computer Memory Technology,W"
+    ],
+    "date": [
+      "1971"
+    ],
+    "editor": [
+      {
+        "family": "Riley",
+        "given": "B."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "133–140"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Making Small ROMs Do Math Quickly, Cheaply and Easily"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Co",
+        "given": "Hughes Aircraft"
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "500"
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "Superior Avenue, Newport Beach, CA"
+    ],
+    "title": [
+      "Bipolar LSI 8-bit Multiplier H1002MC"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Trans. Comp"
+    ],
+    "date": [
+      "1979-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "300–306"
+    ],
+    "title": [
+      "Global Versus Modular Two’s Complement Array Multipliers,”IEEE"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacSorley",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Proc. IRE"
+    ],
+    "date": [
+      "1961-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "67–91"
+    ],
+    "title": [
+      "High-speed Arithmetic in Binary Computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kita",
+        "given": "J.C.Majithia",
+        "particle": "andR."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1971-02"
+    ],
+    "pages": [
+      "214–216"
+    ],
+    "title": [
+      "An Iterative Array for Multiplicationof SignedBinary Numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McIver",
+        "given": "G.W."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1974-02"
+    ],
+    "genre": [
+      "Dig. Tech. Paper Int."
+    ],
+    "pages": [
+      "54–55"
+    ],
+    "publisher": [
+      "Solid State Circuits Con$"
+    ],
+    "title": [
+      "A Monolithic 16x 16 Digital Multiplier"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Mehta",
+        "given": "M."
+      },
+      {
+        "family": "Parmar",
+        "given": "V."
+      },
+      {
+        "family": "Swartzlander",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Proc. 10th Symp. on Computer Arithmetic"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "43–50"
+    ],
+    "title": [
+      "High-speed Multiplier Design Using Multi-input Counter and Compressor Circuits"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "J.N."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1962-08"
+    ],
+    "pages": [
+      "512–517"
+    ],
+    "title": [
+      "Computer Multiplication and Division Using Binary Logarithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC-11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mori",
+        "given": "R.D."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Electronic Letters"
+    ],
+    "date": [
+      "1969-02"
+    ],
+    "pages": [
+      "50–5 1"
+    ],
+    "title": [
+      "Suggestion for an IC Fast Parallel Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mowle",
+        "given": "F.J."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "pages": [
+      "1"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "A Systematic Approach to Digital Logic Design"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Noll",
+        "given": "T.G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "IEEE J. Solid-state Circuits"
+    ],
+    "date": [
+      "1986-06"
+    ],
+    "pages": [
+      "41"
+    ],
+    "title": [
+      "APipelined 330-MHz Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21",
+      "1 4 1 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peng",
+        "given": "V."
+      },
+      {
+        "family": "Samudrala",
+        "given": "S."
+      },
+      {
+        "family": "Gavrielov",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "Proc. 8th Symp. on Computer Arithmetic"
+    ],
+    "date": [
+      "1987-05"
+    ],
+    "pages": [
+      "95–102"
+    ],
+    "title": [
+      "On the Implementation of Shifters, Multipliers and Dividers in VLSI Floating-point Units"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pezaris",
+        "given": "S.D."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1971-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "442–447"
+    ],
+    "title": [
+      "A 40-ns 17-bit by 17-bit Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reitwiesner",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "date": [
+      "1960"
+    ],
+    "editor": [
+      {
+        "family": "Alt",
+        "given": "E.L."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "231–308"
+    ],
+    "publisher": [
+      "Academic"
+    ],
+    "title": [
+      "Binary Arithmetic in Advances in Computers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "container-title": [
+      "IRE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1955-09"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "118–1 19"
+    ],
+    "title": [
+      "Two’s Complement Multiplication in Binary Parallel Computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubinfield",
+        "given": "L.P."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1975-10"
+    ],
+    "pages": [
+      "1014–1015"
+    ],
+    "title": [
+      "A Proof of the Modified Booth’s Algorithm for Multiplication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Swartzlander",
+        "given": "E.A.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "317–321"
+    ],
+    "title": [
+      "The Quasi-Serial Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sanitoro",
+        "given": "M.R."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "IEEE J. Solid-state Circuits"
+    ],
+    "date": [
+      "1989-04"
+    ],
+    "pages": [
+      "487–493"
+    ],
+    "title": [
+      "SPIM, A Pipelined 64x64 Iterative Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "T.R.W."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "date": [
+      "1977-03"
+    ],
+    "location": [
+      "Products, TRW, Redondo Beach, CA"
+    ],
+    "title": [
+      "MPY-LSI Multipliers: AJ 8 x"
+    ],
+    "type": null,
+    "volume": [
+      "8 , 1 2 x 12and 16x 16,”LSI"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wallace",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "IEEE Trans. Elec. Comp"
+    ],
+    "date": [
+      "1964"
+    ],
+    "issue": [
+      ""
+    ],
+    "pages": [
+      "1,",
+      "14–17"
+    ],
+    "title": [
+      "A Suggestion for a Fast Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "D. Zuras and W. 11. McAllister"
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "IEEE J. Solid-state Circuits"
+    ],
+    "date": [
+      "1986-10"
+    ],
+    "pages": [
+      "814–819"
+    ],
+    "title": [
+      "Balanced Delay Trees and Combinatorial Division in VLSI"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SC-21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "F.S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IBM Journal Res. and Dev"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "pages": [
+      "34–53"
+    ],
+    "title": [
+      "The IBM Systed360 Model 9 1: Floating-point Execution Unit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1968-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "925–934"
+    ],
+    "title": [
+      "Higher-Radix Division Using Estimates of the Divisor and Partial Remainders"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1967"
+    ],
+    "genre": [
+      "Tech. Report,"
+    ],
+    "issue": [
+      "230"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "publisher": [
+      "Dept. of Computer Science, University of Illinois"
+    ],
+    "title": [
+      "The Theory and Implementation of SRT Division"
+    ],
+    "type": "report",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Atkins",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "pages": [
+      "720–733"
+    ],
+    "title": [
+      "Design of Arithmetic Units of ILLIACIII: Use of Redundancy and Higher Radix Methods"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Class Notes, Engr. 225A, UCLA"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Los Angeles"
+    ],
+    "title": [
+      "The Recursive Division Algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1962"
+    ],
+    "editor": [
+      {
+        "family": "Buchholz",
+        "given": "W."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "214–216"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Planning a Computer System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Burks",
+        "given": "A.W."
+      },
+      {
+        "family": "Goldstine",
+        "given": "H.H."
+      },
+      {
+        "family": "Neumann",
+        "given": "J.",
+        "particle": "von"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "note": [
+      "Institute for Advanced Study, Princeton, N. J., 1946 (reprinted in C. G . Bell and A. Newell, Computer Structures Readings and Examples, McGraw-Hill, New York, 1971)."
+    ],
+    "title": [
+      "Preliminary Discussion of the Logical Design of an Electronic Computing Instrument"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrari",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1967-04"
+    ],
+    "pages": [
+      "224–226"
+    ],
+    "title": [
+      "A Division Method Using a Parallel Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Ec-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "title": [
+      "On Division by Functional Iteration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "D.L."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proc. 9th Symp. on Comp. Arith"
+    ],
+    "date": [
+      "1989-09"
+    ],
+    "pages": [
+      "60–67"
+    ],
+    "title": [
+      "An Accurate High Speed Implementation of Division by Reciprocal Approximation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Freiman",
+        "given": "C.W."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proc. IRE"
+    ],
+    "date": [
+      "1961-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "91–103"
+    ],
+    "title": [
+      "Statistical Analysis of Certain Binary Division Algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garner",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Advances in Computers"
+    ],
+    "date": [
+      "1965"
+    ],
+    "editor": [
+      {
+        "family": "Alt",
+        "given": "F.L."
+      },
+      {
+        "family": "Rubinoff",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "168–177"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Number Systems and Arithmetic"
+    ],
+    "type": "chapter",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gilman",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Communication ofAssoc. f o r Comp. Mach"
+    ],
+    "date": [
+      "1959-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "10–12"
+    ],
+    "title": [
+      "A Mathematical Procedure for Machine Division"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "D."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Mateo, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Arithmetic, in Computer Architecture: A Quantiative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldschmidt",
+        "given": "R.Z."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "M.S"
+    ],
+    "date": [
+      "1964-06"
+    ],
+    "location": [
+      "Thesis, M.I.T. Cambridge, MA"
+    ],
+    "title": [
+      "Applications of Division by Convergence"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "R",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1949"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "pages": [
+      "57"
+    ],
+    "publisher": [
+      "University of Illinois Press"
+    ],
+    "title": [
+      "Hartree, Calculating Instruments andMachines"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kalaycioglu",
+        "given": "V.U."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1975-05"
+    ],
+    "genre": [
+      "Tech. Report,"
+    ],
+    "publisher": [
+      "Dept. of Elec. & Comp. Engr., University of Michigan, Ann Arbor"
+    ],
+    "title": [
+      "Analysis and Synthesis of Generalized-Radix Additive Normalization Division Techniques"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Krishnamurthy",
+        "given": "E.V."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1970-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "227–231"
+    ],
+    "title": [
+      "On Range-Transformation Techniques for Division,”ZEEE"
+    ],
+    "translator": [
+      {
+        "family": "Comp.",
+        "given": "Vol C.-19"
+      }
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "MacSorley",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Proc. IRE"
+    ],
+    "date": [
+      "1961-01"
+    ],
+    "pages": [
+      "67–91"
+    ],
+    "title": [
+      "High-speed Arithmetic in Binary Computers"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Markstein",
+        "given": "P.W."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "ZBM Journal Res. and Dev"
+    ],
+    "date": [
+      "1990-01"
+    ],
+    "pages": [
+      "111–1 19"
+    ],
+    "title": [
+      "Computation of Elementary Functions on the IBM RISC Systed6000 Processor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Metze",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IRE Trans"
+    ],
+    "date": [
+      "1962-12"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "761–764"
+    ],
+    "title": [
+      "A Class of Binary Divisions Yielding Minimally Represented Quotients"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1958-09"
+    ],
+    "pages": [
+      "218–222"
+    ],
+    "title": [
+      "A New Class of Digital Division Methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "692–701"
+    ],
+    "title": [
+      "The CorrespondenceBetween Methods of Digital Division and Multiplier Recoding Procedures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shively",
+        "given": "R.R."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1963"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "publisher": [
+      "University of Illinois"
+    ],
+    "title": [
+      "Stationary Distribution of Partial Remainders in SRT Digital Division"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "G.S."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Proc. 7th Symp. on Computer Arithmetic"
+    ],
+    "date": [
+      "1985-06"
+    ],
+    "pages": [
+      "64–7 1"
+    ],
+    "title": [
+      "Radix 16 SRT Dividers with Overlapped Quotient Selection Stages"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tocher",
+        "given": "K.D."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "Quart",
+      "Appl. Math"
+    ],
+    "date": [
+      "1958"
+    ],
+    "issue": [
+      ""
+    ],
+    "pages": [
+      "364–384"
+    ],
+    "title": [
+      "Techniques of Multiplication and Division for Automatic Binary Computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "XI, Pt. 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tung",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp.,Vol"
+    ],
+    "pages": [
+      "968, 887–889"
+    ],
+    "title": [
+      "A Division Algorithm for Signed-Digit Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tung",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Computer Science",
+      "Chap"
+    ],
+    "date": [
+      "1972"
+    ],
+    "editor": [
+      {
+        "family": "Cardenas",
+        "given": "A.F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley Interscience"
+    ],
+    "title": [
+      "Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "J.B."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "IRE Tran"
+    ],
+    "date": [
+      "1961-12"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "662–670"
+    ],
+    "title": [
+      "An Algorithm for Rapid Binary Division"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "D.P."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1979-03"
+    ],
+    "pages": [
+      "215–224"
+    ],
+    "title": [
+      "High-speed Arithmetic Arrays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cappa",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1971-10"
+    ],
+    "genre": [
+      "M.S. Thesis,"
+    ],
+    "location": [
+      "Canada"
+    ],
+    "publisher": [
+      "Dept. of Elect. Eng., Univ. of Toronto"
+    ],
+    "title": [
+      "Cellular Iterative Arrays for Multiplication and Division"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Cappa",
+        "given": "M."
+      },
+      {
+        "family": "Hamacher",
+        "given": "V.C."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-02"
+    ],
+    "pages": [
+      "172–175"
+    ],
+    "title": [
+      "An Augmented Iterative Array for High-speed Binary Division"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dean",
+        "given": "K.J."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Electronics Letters"
+    ],
+    "date": [
+      "1968-07"
+    ],
+    "pages": [
+      "283–284"
+    ],
+    "title": [
+      "Binary Division Using a Data Dependent Iterative Arrays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deverell",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Radio and Electronic Engineer"
+    ],
+    "date": [
+      "1974-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "21–26"
+    ],
+    "title": [
+      "The Design of Cellular Arrays for Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ferrari",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1967-04"
+    ],
+    "pages": [
+      "224–226"
+    ],
+    "title": [
+      "A Division Method Using a Parallel Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC-16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "pages": [
+      "702–706"
+    ],
+    "title": [
+      "On Division by Functional Iteration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gardiner",
+        "given": "A.B."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1974-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "326–327"
+    ],
+    "title": [
+      "Comments on “An Augmented Iterative Array for High-speed Binary Division"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gardiner",
+        "given": "A.B."
+      },
+      {
+        "family": "Hont",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Electronics Letters"
+    ],
+    "date": [
+      "1971-04"
+    ],
+    "pages": [
+      "172–173"
+    ],
+    "title": [
+      "Comparison of Restoring and Nonrestoring Cellular Array Dividers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gex",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Electronics Letters"
+    ],
+    "date": [
+      "1971-07"
+    ],
+    "pages": [
+      "442–444"
+    ],
+    "title": [
+      "Multiplier-Divider Cellular Array"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Guild",
+        "given": "H.H."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Radio and Electronics Engineer"
+    ],
+    "date": [
+      "1970-06"
+    ],
+    "pages": [
+      "345–348"
+    ],
+    "title": [
+      "Some Cellular Logic Arrays for Non-restoring Binary Division"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hamacher",
+        "given": "V.C."
+      },
+      {
+        "family": "Gavilian",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proc. 1973 Sagamore Computer Con$ on Parallel Processing"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "9 1–1 00"
+    ],
+    "title": [
+      "High-speed MultiplierDivider Iterative Arrays"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Majithia",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Electronics Letters"
+    ],
+    "date": [
+      "1970-05"
+    ],
+    "pages": [
+      "303–304"
+    ],
+    "title": [
+      "Nonrestoring Binary Division Using a Cellular Array"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Tech. Rept"
+    ],
+    "date": [
+      "1960"
+    ],
+    "issue": [
+      "319"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "publisher": [
+      "Dept. of Computer Science, University of Illinois"
+    ],
+    "title": [
+      "Theory of Computer Arithmetic Employed in the Design of New Computer at the University of Illinois"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Socemcantu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proc. IEE (London),Vol"
+    ],
+    "date": [
+      "1972-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "1452–1456"
+    ],
+    "title": [
+      "Cellular Logic Array for Redundant Binary Divisions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "119"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stefanelli",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1972-01"
+    ],
+    "pages": [
+      "42–55"
+    ],
+    "title": [
+      "A Suggestion for High-speed Parallel Binary Divider"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Svoboda",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Zn$ Proc. Machines"
+    ],
+    "date": [
+      "1963"
+    ],
+    "issue": [
+      "9"
+    ],
+    "location": [
+      "Prague, Czechoslovakia"
+    ],
+    "pages": [
+      "25–34"
+    ],
+    "title": [
+      "An Algorithm for Division"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkes",
+        "given": "M.V."
+      },
+      {
+        "family": "Wheeler",
+        "given": "D.J."
+      },
+      {
+        "family": "Gill",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1951"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Preparation of Programs for a n Electronic Digital Computer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dehon",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "schedule/slides/dehon3interconnect.pdf,June 20,2002"
+    ],
+    "genre": [
+      "Web page at"
+    ],
+    "title": [
+      "Interconnect"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.caltech.edu/cbsss/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Amdahl",
+        "given": "G.M."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IBM System Journal"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "144–164"
+    ],
+    "title": [
+      "The Structure of Systed360, Part 111, Processing Unit Considerations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "S.F."
+      },
+      {
+        "family": "al",
+        "particle": "et."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IBM Journal"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "pages": [
+      "34–53"
+    ],
+    "title": [
+      "The IBM Systed360 Model 91: Floating-point Execution Unit"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brent",
+        "given": "R.P."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-06"
+    ],
+    "pages": [
+      "601–607"
+    ],
+    "title": [
+      "On the Precision Attainable with Various Floating-point Number Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.G."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1962"
+    ],
+    "editor": [
+      {
+        "family": "Buckholz",
+        "given": "W."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "8"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Floating-Point Operation, Planning a Computer System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cody",
+        "given": "W.J.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1981-03"
+    ],
+    "pages": [
+      "63–69"
+    ],
+    "title": [
+      "Analysis of Proposals for the Floating-point Standard"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Cody",
+        "given": "W.J.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-06"
+    ],
+    "pages": [
+      "596–601"
+    ],
+    "title": [
+      "Static and Dynamic Numerical Characteristics of Floating-point Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chu",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "NJ"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "5"
+    ],
+    "title": [
+      "Computer Organization and Microprogramming, Prentice-Hall, Englwood Cliffs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "M.J."
+      },
+      {
+        "family": "Low",
+        "given": "P.R."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IBM Journal"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "pages": [
+      "2–7"
+    ],
+    "title": [
+      "The IBM Systed360 Model 91: Some Remarks on System Development"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gary",
+        "given": "H.L."
+      },
+      {
+        "family": "Harrison",
+        "given": "C.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Proc. Eastern Joint Computer Conference"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "244–248"
+    ],
+    "title": [
+      "Normalized Floating-point Arithmetic with an Index of Significance"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "date": [
+      "1990"
+    ],
+    "editor": [
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Morgan"
+      }
+    ],
+    "location": [
+      "San Mateo, CA"
+    ],
+    "publisher": [
+      "App. A"
+    ],
+    "title": [
+      "Computer Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Binary Floating-point Arithmetic",
+        "given": "E.E.E.Standard",
+        "particle": "for"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "also in Computer"
+    ],
+    "date": [
+      "1985",
+      "1981-03"
+    ],
+    "genre": [
+      "ANSVIEEE 754-"
+    ],
+    "pages": [
+      "51–62"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "P",
+        "given": "I.E.E.E.Task"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Comp"
+    ],
+    "date": [
+      "1981-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "51–62"
+    ],
+    "title": [
+      "A Proposed Standard for Binary Floating-point Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Staff",
+        "given": "I.B.M."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IBM Systed360 Principles of Operation, IBM System Ref. Lib. From A22-6821-7"
+    ],
+    "date": [
+      "1968-09"
+    ],
+    "pages": [
+      "41–50 3"
+    ],
+    "title": [
+      "Floating-point Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kahan",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Best",
+      "Berkeley"
+    ],
+    "publisher": [
+      "Lecture Notes, Dept. of Computer Sci., University of California"
+    ],
+    "title": [
+      "What is the Best Base for Floating-point Arithmetic, Is Binary"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulisch",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1977-07"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "610–621"
+    ],
+    "title": [
+      "Mathematical Foundations of Computer Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knuth",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "pages": [
+      "4"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Art of Computer Programming: Seminumerical Algorithms"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kuck",
+        "given": "D.J."
+      },
+      {
+        "family": "Parker",
+        "given": "D.S."
+      },
+      {
+        "family": "Sameh",
+        "given": "A.H."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1977-07"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "643–650"
+    ],
+    "title": [
+      "Analysis of Rounding Methods in Floating- Point Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liddiard",
+        "given": "L.A."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Proc. 4th Symp. on Comp. Arith",
+      "IEEE Cat"
+    ],
+    "date": [
+      "1978-10"
+    ],
+    "issue": [
+      "78CH1412-6C"
+    ],
+    "pages": [
+      "56–62"
+    ],
+    "title": [
+      "Required Scientific Floating Point Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Matula",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08-19"
+    ],
+    "pages": [
+      "68 1–692"
+    ],
+    "title": [
+      "A Formalization of Floating-point Numeric Base Conversion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M.M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "pages": [
+      "10"
+    ],
+    "title": [
+      "Computer System Architecture, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Interval Analyis, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Reuter",
+        "given": "E.K."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proc. 4th Symp. on Comp. Arith",
+      "IEEE Cat"
+    ],
+    "date": [
+      "1978-10"
+    ],
+    "issue": [
+      "78CH1412-6c"
+    ],
+    "pages": [
+      "75–80"
+    ],
+    "title": [
+      "Some Experiments Using Interval Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Richman",
+        "given": "P.L."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1967"
+    ],
+    "genre": [
+      "Tech. Rep. No. CS-64,"
+    ],
+    "location": [
+      "Stanford, CA"
+    ],
+    "publisher": [
+      "Dept. of Comp. Sci., Stanford University"
+    ],
+    "title": [
+      "Floating-point Number Representations: Base Choice Verus Exponent Range"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Santoro",
+        "given": "M.R."
+      },
+      {
+        "family": "Bewick",
+        "given": "G."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Proc. 9th Symp. on Comp"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "176–183"
+    ],
+    "publisher": [
+      "Arith"
+    ],
+    "title": [
+      "Rounding Algorithms for IEEE Multipliers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sweeney",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "IBM Systems Journal"
+    ],
+    "date": [
+      "1965"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "31–42"
+    ],
+    "title": [
+      "An Analysis of Floating-point Addition"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sterbenz",
+        "given": "P.H."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Floating-point Computation, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tomasulo",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "IBM Journal"
+    ],
+    "date": [
+      "1967-01"
+    ],
+    "pages": [
+      "25–33"
+    ],
+    "title": [
+      "An Efficient Algorithm for Exploiting Multiple Arithmetic Units"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Tsao",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1974-05"
+    ],
+    "pages": [
+      "269–27 1"
+    ],
+    "title": [
+      "On the Distribution of Significant Digits and Roundoff Errors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Rounding Errors in Algebraic Processes, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Yohe",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "IEEE Comp"
+    ],
+    "date": [
+      "1973-06"
+    ],
+    "issue": [
+      ""
+    ],
+    "pages": [
+      "577–586"
+    ],
+    "title": [
+      "Roundings in Floating-point Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-06"
+    ],
+    "pages": [
+      "567–572"
+    ],
+    "title": [
+      "Arithmetic Algorithms for Error-Coded Operands"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp.,C-20"
+    ],
+    "date": [
+      "1971-11"
+    ],
+    "pages": [
+      "1322–1 33 1"
+    ],
+    "title": [
+      "Arithmetic Error Codes: Cost and Effectiveness Studies for Application in Digital System Design"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Banerji",
+        "given": "D.K."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1974-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "106–109"
+    ],
+    "title": [
+      "A Novel Implementation for Addition and Subtraction in Residue Number Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Banerji",
+        "given": "D.K."
+      },
+      {
+        "family": "Brzowjowski",
+        "given": "J.A."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1969-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "313–320"
+    ],
+    "title": [
+      "Sign Dectection in Residue Number Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Banerji",
+        "given": "D.K."
+      },
+      {
+        "family": "Cheung",
+        "given": "T.Y."
+      },
+      {
+        "family": "Ganesan",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "5th IEEE Symp. on Comp"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "158–164"
+    ],
+    "publisher": [
+      "Arith"
+    ],
+    "title": [
+      "A High-speed Division Method in Residue Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Chren",
+        "given": "W.A.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Computers Math. Applic"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "13–29"
+    ],
+    "title": [
+      "A New Residue Number System Division Algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garner",
+        "given": "H.L."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IRE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1959-06"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "140–147"
+    ],
+    "title": [
+      "The Residue Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Ch"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "285–357"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Computer Arithmetic: Principles, Architecture and Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9 and 10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jenkins",
+        "given": "W.K."
+      },
+      {
+        "family": "Leon",
+        "given": "B.J."
+      },
+      {
+        "family": "Jullien",
+        "given": "G.A."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Trans. Circuits Systems",
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973",
+      "1980-10"
+    ],
+    "issue": [
+      "4",
+      "10"
+    ],
+    "pages": [
+      "199–201, 10",
+      "899–905"
+    ],
+    "title": [
+      "The Use of Residue Number Systems in the Design of Finite Impulse Response Digital Filters",
+      "Implementation of Multiplication, Modulo a Prime Number, with Applications to Number Theoretic Transforms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24",
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jullien",
+        "given": "G.A."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "lEEE Trans. Comp"
+    ],
+    "date": [
+      "1978-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "325–336"
+    ],
+    "title": [
+      "Residue Number Scaling and Other Operations Using ROM Arrays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jullien",
+        "given": "G.A."
+      },
+      {
+        "family": "Miller",
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proc. 4th Symp. on Comp",
+      "IEEE Cat"
+    ],
+    "date": [
+      "1978-10"
+    ],
+    "issue": [
+      "78CH1412-6C"
+    ],
+    "pages": [
+      "220–225"
+    ],
+    "publisher": [
+      "Arith"
+    ],
+    "title": [
+      "Application of the Residue Number System to Computer Processing of Digital Signals"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Keir",
+        "given": "Y.A."
+      },
+      {
+        "family": "Cheney",
+        "given": "P.W."
+      },
+      {
+        "family": "Tannenbaum",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IRE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1962-08"
+    ],
+    "pages": [
+      "501–507"
+    ],
+    "title": [
+      "Division and Overflow Detection in Residue Number Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC-11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kinoshita",
+        "given": "E."
+      },
+      {
+        "family": "Kosako",
+        "given": "H."
+      },
+      {
+        "family": "Kojima",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp.,Vol. C-23"
+    ],
+    "date": [
+      "1974-01"
+    ],
+    "pages": [
+      "9–20"
+    ],
+    "title": [
+      "Floating-point Arithmetic Algorithms in the Symmetric Residue Number System"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kinoshita",
+        "given": "E."
+      },
+      {
+        "family": "Kosako",
+        "given": "H."
+      },
+      {
+        "family": "Kojima",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1973-02"
+    ],
+    "pages": [
+      "134–142"
+    ],
+    "title": [
+      "General Division in the Symmetric Residue Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "M.L."
+      },
+      {
+        "family": "Leiss",
+        "given": "E."
+      },
+      {
+        "family": "McInnis",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Computers Math. Applic"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "415"
+    ],
+    "pages": [
+      "331–342"
+    ],
+    "title": [
+      "Division and Sign Detection Algorithm for Residue Number Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "D.D."
+      },
+      {
+        "family": "Polky",
+        "given": "J.N."
+      },
+      {
+        "family": "King",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "26th Midwest Symp. Circuits Systems"
+    ],
+    "date": [
+      "1983-08"
+    ],
+    "note": [
+      "Private Collection, J. S. Chiang."
+    ],
+    "title": [
+      "A Survey of Soviet Developments in Residue Number Theory Applied to Digital Filtering"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "D.D."
+      },
+      {
+        "family": "Polky",
+        "given": "J.N."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Trans. Circuits System"
+    ],
+    "date": [
+      "1984-05"
+    ],
+    "pages": [
+      "452–461"
+    ],
+    "title": [
+      "An Implementation of the LMS Algorithm in the Residue Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "CAS-3 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rao",
+        "given": "T.R.N."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Trans. Comp"
+    ],
+    "date": [
+      "1970-05"
+    ],
+    "pages": [
+      "398402"
+    ],
+    "title": [
+      "Biresidue Error-Correcting Codes for Computer Arithmetic,”IEEE"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rao",
+        "given": "T.R.N."
+      },
+      {
+        "family": "Trehan",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "752–757"
+    ],
+    "title": [
+      "Binary Logic for Residue Arithmetic Using Magnitude Index"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sasaki",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1967-04"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "157–164"
+    ],
+    "title": [
+      "Addition and Subtraction in the Residue Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sasaki",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "IEEE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1968-11"
+    ],
+    "pages": [
+      "1066–1 073"
+    ],
+    "title": [
+      "The Basis for Implementation of Additive Operations in the Residue Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC-17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Soderstrand",
+        "given": "M.A."
+      },
+      {
+        "family": "Jenkins",
+        "given": "W.K."
+      },
+      {
+        "family": "Jullien",
+        "given": "G.A."
+      },
+      {
+        "family": "Taylor",
+        "given": "F.J."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "IEEE Press"
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Residue Number System Arithmetic Modern Application in Digital Signal Processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "N. Y"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Szabo",
+        "given": "N."
+      },
+      {
+        "family": "Tanaka",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Residue Arithmetic and Its Applications to Computer Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "E.J."
+      },
+      {
+        "family": "Huang",
+        "given": "C.H."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1982-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "321–325"
+    ],
+    "title": [
+      "An Autoscale Residue Multiplier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "F.J."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp.,Vol. C-31"
+    ],
+    "date": [
+      "1982-06"
+    ],
+    "pages": [
+      "540–546"
+    ],
+    "title": [
+      "A VLSI Residue Arithmetic Multiplier"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Vinogradov",
+        "given": "I.M."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1954"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Elements of Number Theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vu",
+        "given": "T.",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1985-07"
+    ],
+    "pages": [
+      "646–651"
+    ],
+    "title": [
+      "Efficient Implementations of Chinese Remainder Theorem for Sign Detection and Residue Decoding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Waser",
+        "given": "S."
+      },
+      {
+        "family": "Flynn",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Ch"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York, Holt, Rinehart, Winston"
+    ],
+    "pages": [
+      "172"
+    ],
+    "title": [
+      "Introduction to Arithmeticfor Digital System Designers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brubaker",
+        "given": "T.A."
+      },
+      {
+        "family": "Becker",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1975-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "761–765"
+    ],
+    "title": [
+      "Multiplication Using Logarithms Implemented with Read-only Memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Combet",
+        "given": "M.H."
+      },
+      {
+        "family": "Zonneveld",
+        "particle": "Van"
+      },
+      {
+        "family": "Verbeck",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1965-12"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "863–867"
+    ],
+    "title": [
+      "Computation of the Base Two Logarithm of Binary Numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edgar",
+        "given": "A.D."
+      },
+      {
+        "family": "Lee",
+        "given": "S.C."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Communications ofthe ACM"
+    ],
+    "date": [
+      "1979-03"
+    ],
+    "pages": [
+      "166–177"
+    ],
+    "title": [
+      "Focus Microcomputer Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "E.L."
+      },
+      {
+        "family": "Lynch",
+        "given": "D.D."
+      },
+      {
+        "family": "J",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "97–105"
+    ],
+    "title": [
+      "Dwyer 111, “Generation of Products and Quotients Using Approximate Binary Logarithms for Digital Filtering Applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kingsbury",
+        "given": "N.G."
+      },
+      {
+        "family": "Rayner",
+        "given": "P.J.W."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Electron. Lett"
+    ],
+    "date": [
+      "1971"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "56–58"
+    ],
+    "title": [
+      "Digital Filtering Using Logarithmic Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lai",
+        "given": "F.S."
+      },
+      {
+        "family": "Wu",
+        "given": "C.E."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1991-08"
+    ],
+    "pages": [
+      "952–962"
+    ],
+    "title": [
+      "A Hybrid Number System Processor with Geometric and Complex Arithmetic Capabilities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "S.C."
+      },
+      {
+        "family": "Edgar",
+        "given": "A.D."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1977-11"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1167–1170"
+    ],
+    "title": [
+      "The Focus Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "S.C."
+      },
+      {
+        "family": "Edgar",
+        "given": "A.D."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1979-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "693"
+    ],
+    "title": [
+      "Addendum to “The Focus Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lo",
+        "given": "H.-Y."
+      },
+      {
+        "family": "Aoki",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1985-08"
+    ],
+    "pages": [
+      "681–691"
+    ],
+    "title": [
+      "Generation of a Precise Binary Logarithm with Difference Grouping Programmable Logic Array"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C-34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mitchell",
+        "given": "J.N.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "IRE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1962-08"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "5 12–5 17"
+    ],
+    "title": [
+      "Computer Multiplication and Division Using Binary Logarithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Swartzlander",
+        "given": "E.E.",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Alexopoulos",
+        "given": "A.G."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1975-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1238–1242"
+    ],
+    "title": [
+      "The SigdLogarithm Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Swartzlander",
+        "given": "E.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "ZEEE Trans. Comp"
+    ],
+    "date": [
+      "1979-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "693"
+    ],
+    "title": [
+      "Comment on “The Focus Number System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "F.J."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1988-02"
+    ],
+    "pages": [
+      "190–199"
+    ],
+    "title": [
+      "A 20-Bit LogarithmicNumber System Processor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "L.K."
+      },
+      {
+        "family": "Lewis",
+        "given": "D.M."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "ZEEE J. ofSolid-State Circuits"
+    ],
+    "date": [
+      "1991-10"
+    ],
+    "pages": [
+      "1433–1440"
+    ],
+    "title": [
+      "A 30-Bit Intergrated Logarithmic Number System Processor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proc. AFIPS Fall Joint Comp. Con&,1964"
+    ],
+    "pages": [
+      "663–67 1"
+    ],
+    "title": [
+      "Binary-Compatible Signed-Digit Arithmetic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1960-05"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Urbana"
+    ],
+    "publisher": [
+      "University of Illinois"
+    ],
+    "title": [
+      "A Study of Redundant Number Representations for Parallel Digital Computers"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Avizienis",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IRE Trans. Electron. Comp"
+    ],
+    "date": [
+      "1961-09"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "389–400"
+    ],
+    "title": [
+      "Signed-Digit Number Representations for Fast Parallel Arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parhami",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1990-01"
+    ],
+    "pages": [
+      "89–98"
+    ],
+    "title": [
+      "Generalized Signed-Digit Number Systems: A Unifying Framework for Redundant Number Representations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tung",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Trans. Comp"
+    ],
+    "date": [
+      "1970-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "746–748"
+    ],
+    "title": [
+      "Signed-Digit Division Using Combinational Arithmetic Nets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  }
+]
