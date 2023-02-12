@@ -1,0 +1,14 @@
+[
+  {
+    "title": [
+      "corresponding to one of the periods. Each period also has three properties (a period ID, forecast sales, and actual sales). Thus, the sales property is an array of objects. function getOneSalesRep(i) { var oneRecord = new Object(); var oneElem = xDoc.getElementsByTagName(“salesrep”)[i]; oneRecord.id = oneElem.getElementsByTagName(“employeeid”)[0].firstChild.data; var contactInfoElem = oneElem.getElementsByTagName(“contactinfo”)[0]; oneRecord.firstName = contactInfoElem.getElementsByTagName(“firstname”)[0].firstChild.data; oneRecord.lastName = contactInfoElem.getElementsByTagName(“lastname”)[0].firstChild.data; oneRecord.eMail = contactInfoElem.getElementsByTagName(“email”)[0].firstChild.data; oneRecord.phone = contactInfoElem.getElementsByTagName(“phone”)[0].firstChild.data; oneRecord.fax = contactInfoElem.getElementsByTagName(“fax”)[0].firstChild.data; oneRecord.manager = new Object(); var oneMgrElem = oneElem.getElementsByTagName(“manager”)[0]; oneRecord.manager.id = oneMgrElem.getElementsByTagName(“employeeid”)[0].firstChild.data; oneRecord.manager.firstName = oneMgrElem.getElementsByTagName(“firstname”)[0].firstChild.data; oneRecord.manager.lastName = oneMgrElem.getElementsByTagName(“lastname”)[0].firstChild.data; oneRecord.region = oneElem.getElementsByTagName(“region”)[0].firstChild.data"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "case “byRep” : db.sort(sortDBByRep); break; case “byRegion” : db.sort(sortDBByRegion); break; case “byQ1Fcst” : db.sort(sortDBByQ1Fcst); break; case “byQ1Actual” : db.sort(sortDBByQ1Actual); break; case “byQ1Quota” : db.sort(sortDBByQ1Quota); break; case “byQ2Fcst” : db.sort(sortDBByQ2Fcst); break; case “byQ2Actual” : db.sort(sortDBByQ2Actual); break; BC468 Part VI ✦ Bonus Chapters"
+    ],
+    "type": null
+  }
+]
