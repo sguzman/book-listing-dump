@@ -1,0 +1,441 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Things I Wrote [1] Scott Meyers, Effective C++"
+      },
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      },
+      {
+        "family": "C++",
+        "given": "More Effective"
+      },
+      {
+        "family": "Effective C++ CD",
+        "given": "Also",
+        "particle": "available on"
+      },
+      {
+        "family": "Josuttis",
+        "given": "Nicolai M."
+      }
+    ],
+    "citation-number": [
+      "2",
+      "3"
+    ],
+    "date": [
+      "1998",
+      "1996",
+      "see below",
+      "1999",
+      "1999"
+    ],
+    "edition": [
+      "second"
+    ],
+    "editor": [
+      {
+        "family": "Write",
+        "given": "Things I.Didn't"
+      }
+    ],
+    "isbn": [
+      "0-201-92488-9",
+      "0-201-63371-",
+      "0-201-31015-5",
+      "0-201-37926-0"
+    ],
+    "note": [
+      "Also available on Effective C++ CD (see below).",
+      "An indispensable book. Every C++ programmer should have ready access to a copy. [4) Matthew H. Austern, Generic Programming and the STL, Addison-Wesley, 1999, ISBN 0-201-30956-4. This book is essentially a printed version of the material at the SGI STL Web Site,",
+      "5) ISO/IEC, International Standard, Programming Languages -"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Addison-Wesley",
+      "Addison-Wesley",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "50 Specific Ways to Improve Your Programs and Designs",
+      "35 New Ways to Improve Your Programs and Designs",
+      "• Scott Meyers, Effective C++ CD: 85 Specific Ways to Improve Your Programs and Designs",
+      "Contains both books above, several related magazine articles, and several electronic publishing innovations. To experiment with the CD, visit http://meyerscd.awl.com/.To read about its innovations, check out http://zing.ncsl.nist.gov/hfweb/proceedings/meyers-jones/ and http://www.microsoft.com/ Mi ndl1 099/browsi ng/browsi ng.htm",
+      "The C++ Standard Library: A Tutorial and Reference"
+    ],
+    "type": null,
+    "url": [
+      "http://www.sgi.com/tech/stl/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "C++, Reference Number ISO /IEC"
+      }
+    ],
+    "date": [
+      "1488"
+    ],
+    "note": [
+      "Available in PDF for US$18 from ANSI at"
+    ],
+    "title": [
+      "The official document describing C++"
+    ],
+    "type": null,
+    "url": [
+      "http://webstore.ansi.org/ansidocstore/default.asp."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "7) Bjarne Stroustrup, The C++ Programming Language"
+    ],
+    "date": [
+      "1995",
+      "1998",
+      "1997"
+    ],
+    "edition": [
+      "third"
+    ],
+    "isbn": [
+      "0-201-63361-2",
+      "0-201-63498-8",
+      "0-201-88954-4"
+    ],
+    "note": [
+      "The \"resource acquisition is initialization\" idiom I mention in Item 12 is discussed in section 14.4.1 of this book, and the code I refer to in Item 36 is on page 530."
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Addison-Wesley",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "Also available as Design Patterns CD",
+      "The definitive book on design patterns. Every practicing C++ programmer should be familiar with the patterns described here and should have easy access to the book or the CD"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      },
+      {
+        "family": "C++",
+        "given": "Exceptional"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2000"
+    ],
+    "isbn": [
+      "0-201-61562-2"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "47 Engineering Puzzles, Programming Problems. and Solutions",
+      "An exemplary complement to my Effective books, I'd laud this even if Herb hadn't asked me to write the Foreword for it"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      },
+      {
+        "family": "C++",
+        "given": "More Exceptional"
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "note": [
+      "tentative ISBN 0-201-70434-X. Based on the draft I've seen, this looks to be every bit as good as its predecessor [8)."
+    ],
+    "title": [
+      "40 More Engineering Puzzles, Programming Problems, and Solutions, Addison-Wesley, scheduled for publication in 2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bulka",
+        "given": "Dov"
+      },
+      {
+        "family": "Mayhew",
+        "given": "David"
+      },
+      {
+        "family": "C++",
+        "given": "Efficient"
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2000"
+    ],
+    "isbn": [
+      "0-201-37950-3"
+    ],
+    "note": [
+      "The only book devoted to efficiency in C++, hence the best."
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Performance Programming Techniques"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "Matt"
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "title": [
+      "How to Do Case-Insensitive String Comparison",
+      "This article is so useful, it's reproduced as Appendix A of this book"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Effective",
+        "given": "S.T.L."
+      },
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      },
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      },
+      {
+        "family": "Josuttis",
+        "given": "Nicolai M."
+      },
+      {
+        "family": "Austern",
+        "given": "Matt"
+      }
+    ],
+    "citation-number": [
+      "13",
+      "14"
+    ],
+    "container-title": [
+      "Bibliography"
+    ],
+    "date": [
+      "1999-05",
+      "1999-10",
+      "2000-06",
+      "2000-04"
+    ],
+    "genre": [
+      "C++ Report,",
+      "C++ Report,",
+      "C++ Report,",
+      "C++ Report,"
+    ],
+    "note": [
+      "Available at",
+      "Available at",
+      "Revised and updated as Item 8 in More Exceptional C++ [9).",
+      "15",
+      "16) P. J. Plauger, \"Hash Tables,\" CjC++ Users Journa~ November 1998. Describes the Dinkumware approach to hashed containers (discussed in Item 25) and how it differs from competing designs."
+    ],
+    "title": [
+      "When Is a Container Not a Container?",
+      "Revised and updated as Item 6 in More Exceptional c++ [9",
+      "Standard Library News: sets and maps",
+      "Predicates vs. Function Objects",
+      "Why You Shouldn't Use set - and What to Use Instead"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.gotw.ca/publications/",
+      "http://www.gotw.ca/publications/"
+    ],
+    "volume": [
+      "227 [12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reeves",
+        "given": "Jack"
+      },
+      {
+        "family": "Reeves",
+        "given": "Jack"
+      }
+    ],
+    "citation-number": [
+      "17",
+      "18"
+    ],
+    "date": [
+      "1997-01",
+      "1999-01"
+    ],
+    "genre": [
+      "C++ Report,",
+      "C++ Report,"
+    ],
+    "note": [
+      "Available at",
+      "Available at",
+      "19) Andrei Alexandrescu, 'Traits: The else-if-then of Types,\" C++"
+    ],
+    "title": [
+      "STL Gotcha's",
+      "Using Standard string in the Real World, Part 2"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.bleading-edge.com/Publications/C++Report/",
+      "http://www.bleadingedge.com/Pu"
+    ]
+  },
+  {
+    "date": [
+      "2000-04"
+    ],
+    "genre": [
+      "Report,"
+    ],
+    "note": [
+      "Available at http://www.creport.com/html/ from_pages/view_recenCa rticles_c.cfm? ArticleID=402."
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Austern",
+        "given": "Matt"
+      },
+      {
+        "family": "Kreft",
+        "given": "Klaus"
+      },
+      {
+        "family": "Langer",
+        "given": "Angelika"
+      },
+      {
+        "family": "Zolman",
+        "given": "Leor"
+      },
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      },
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "citation-number": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "container-title": [
+      "C/C++ Users Journal's C++",
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2000-02",
+      "2001-07",
+      "1990-10",
+      "2000-09"
+    ],
+    "genre": [
+      "C++ Report,",
+      "C++ Report,"
+    ],
+    "note": [
+      "Experts Forum (an online extension to the magazine), November 2000,",
+      "Available at",
+      "capacity (see Item 14), but it also discusses why algorithm calls are often superior to hand-written loops (see Item 43). • Matt Austern, \"The Standard Librarian: Bitsets and Bit Vectors?,\" C/C++ Users Journal's C++ Experts Forum (an on-line extension to the magazine), May 2001,",
+      "This article provides information on bitsets and how they compare to vector<bool>, topics I briefly examine in Item 18."
+    ],
+    "title": [
+      "The Standard Librarian: What Are Allocators Good For?",
+      "Good information on allocators is hard to come by. This column complements the material in Items 10 and 11. It also includes a sample allocator implementation",
+      "A Sophisticated Implementation of User-Defined Inserters and Extractors",
+      "An STL Error Message Decryptor for Visual C++",
+      "This article and the software it describes are available at http://www.bdsoft.com/ tools/stlfi It.html",
+      "Sixteen Ways to Stack a Cat",
+      "Guru of the Week #74: Uses and Abuses of vector",
+      "quiz (and accompanying solution) does a good job of making you think about such vector-related issues as size vs"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://",
+      "http://www.csdn.net/dev/C&C++/Document/Stackcat.pdf.",
+      "http://www.gotw.ca/gotw/074.htm.This",
+      "http://www.cuj.com/expertsI190S/austern.htm."
+    ]
+  }
+]
