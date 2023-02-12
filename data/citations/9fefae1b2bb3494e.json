@@ -1,0 +1,60 @@
+[
+  {
+    "author": [
+      {
+        "family": "Library",
+        "given": "The C.++ Standard"
+      },
+      {
+        "family": "Josuttis",
+        "given": "Nicolai M."
+      }
+    ],
+    "genre": [
+      "Hinnant,"
+    ],
+    "note": [
+      "Brown, Jeff Garland, and Marc Paterno (http://www.open-std.org/jtc1/sc22/wg21/docs/ papers/2008/n2661.htm"
+    ],
+    "publisher": [
+      "Walter E"
+    ],
+    "title": [
+      "A Tutorial and Reference Guide (2/e",
+      "Addison Wesley Professional • A Foundation to Sleep On: Howard E"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "• Thinking Asynchronously in C++ (blog), Christopher Kohlhoff:",
+      "think-async.com/ • Networking Library Proposal, Christopher Kohlhoff:"
+    ],
+    "type": null,
+    "url": [
+      "http://blog.",
+      "http://www.open-std.org/"
+    ]
+  },
+  {
+    "note": [
+      "const TCPSocket&); };"
+    ],
+    "title": [
+      "TCPSocket(const TCPSocket&); TCPSocket& operator ="
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "But the following is alright: performIO(connectToService("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TCPSocket socket = connectToService(); performIO(socket);"
+    ],
+    "type": null
+  }
+]
