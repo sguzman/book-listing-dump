@@ -1,0 +1,104 @@
+[
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "The insertion and removal algorithms for a 2-3-4 tree require only a single pass from root to leaf and, thus, are more efficient than the corresponding algorithms for a 2-3 tree"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Given the 2-3 tree in Figure 19-40, draw the tree that results after inserting k, b, c, y, and w into the tree"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Given the 2-3 tree in Figure 19-41, draw the tree that results after removing t, e, k, and d from the tree"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Draw the 2-3-4 tree that results from inserting o, d, j, h, s, g, and a, in the order given, into a 2-3-4 tree that contains a single node whose value is n"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "and insert"
+    ],
+    "note": [
+      "and 32 into it. What 2-3-4 tree results?"
+    ],
+    "pages": [
+      "33,"
+    ],
+    "title": [
+      "Assume that the tree in Figure 19-5b is a 2-3-4 tree"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39, 38, 37, 36, 35, 34"
+    ]
+  },
+  {
+    "citation-number": [
+      "*8."
+    ],
+    "title": [
+      "Write pseudocode for the insertion, removal, retrieval, and traversal operations for a 2-3-4 tree"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "Figure 19-32 is a red-black tree that represents the 2-3-4 tree in Figure 19-20. Draw another red-black tree that also represents the same 2-3-4 tree"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "What 2-3-4 tree does the red-black tree in Figure 19-42 represent?"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "Write pseudocode for the insertion, removal, retrieval, and traversal operations for a red-black tree"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "title": [
+      "Write a C++ function that converts a 2-3-4 tree to a red-black tree"
+    ],
+    "type": null
+  }
+]
