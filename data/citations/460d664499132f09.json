@@ -1,0 +1,79 @@
+[
+  {
+    "author": [
+      {
+        "literal": "resourceData.pSysMem = &vertices[0"
+      }
+    ],
+    "note": [
+      "dxView, buffer); std::wcout << \"Created array<float,1> on \" << arr.accelerator_view.accelerator.description << std::endl;"
+    ],
+    "title": [
+      "CComPtr<ID3D11Buffer> buffer; hr = device->CreateBuffer(&bufferDesc, &resourceData, &buffer); assert(SUCCEEDED(hr)); array<float, 1> arr = make_array<float, 1>(extent<1>(bufferSize"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "CComPtr<ID3D11Texture2D>"
+    ],
+    "issue": [
+      "r)); texture<uint4, 2> ampTexture = make_texture<uint4, 2>(dxView, dxTexture)"
+    ],
+    "title": [
+      "dxTexture = nullptr; hr = device->CreateTexture2D(&desc"
+    ],
+    "type": null,
+    "volume": [
+      "D"
+    ]
+  },
+  {
+    "note": [
+      "You can find more nformat on on the texture descr pt on structure on MSDN n the “­D3D11 ­TEXTURE2D DESC structure” top c"
+    ],
+    "type": null,
+    "url": [
+      "http://msdn.microsoft.com/en-us/library/windows/"
+    ]
+  },
+  {
+    "citation-number": [
+      "CComPtr<ID3D11Buffer>"
+    ],
+    "title": [
+      "g_pParticlePosOld; CComPtr<ID3D11Buffer> g_pParticlePosNew"
+    ],
+    "type": null,
+    "url": [
+      "std::vector<std::shared_ptr<TaskData>> g_deviceData;"
+    ]
+  },
+  {
+    "title": [
+      "g_pParticlePosOld = nullptr; g_pParticlePosNew = nullptr"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "std::iota(inData.begin(), inData.end(), 0u); array_view<const unsigned int, 2> inDataView(matrixSize, matrixSize, inData); array_view<unsigned int, 2> outDataView(matrixSize, matrixSize, outData); outDataView.discard_data();"
+    ],
+    "title": [
+      "std::vector<unsigned int> inData(matrixSize * matrixSize); std::vector<unsigned int> outData(matrixSize * matrixSize, 0u"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "index<2>"
+    ],
+    "publisher": [
+      "}); //"
+    ],
+    "title": [
+      "outIdx(index<2>(tidx.tile_origin[1], tidx.tile_origin[0]) + tidx.local); outDataView[outIdx] = localData[tidx.local[0]][tidx.local[1"
+    ],
+    "type": "book"
+  }
+]
