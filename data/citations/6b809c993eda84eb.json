@@ -1,0 +1,50 @@
+[
+  {
+    "note": [
+      "digitalWrite(led, HIGH); delay(duration); digitalWrite(led, LOW); delay(duration);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "digitalWrite(led, HIGH); delay(duration); digitalWrite(led, LOW); delay(duration);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "digitalWrite(led, HIGH); delay(duration); digitalWrite(led, LOW); delay(duration);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serial.begin",
+        "given": "Wirebegin"
+      }
+    ],
+    "title": [
+      "Serial.println(“Initializing Serial for DEBUG:”"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "x = Wire.read(); Serial.print(“Received : “); Serial.println(x); Serial.println(“Flashing the LED...”); digitalWrite(LED_BUILTIN, HIGH); delay(200);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.print(‘H’); delay(1000); Serial.print(‘L’); delay(1000);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.println(“Hello Pi”); delay(1000);"
+    ],
+    "type": null
+  }
+]
