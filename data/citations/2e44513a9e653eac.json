@@ -1,0 +1,211 @@
+[
+  {
+    "author": [
+      {
+        "family": "Nothing",
+        "given": "Throws"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Declaration void swap(packaged_task& other) noexcept"
+    ],
+    "title": [
+      "STD::PACKAGED_TASK::SWAP MEMBER FUNCTION Exchanges ownership of the asynchronous results associated with two std:: packaged_task objects"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "publisher": [
+      "Throws Nothing"
+    ],
+    "title": [
+      "Returns true if *this has an associated task and asynchronous result, false otherwise"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "STD",
+        "given": "PACKAGED_TASK"
+      },
+      {
+        "given": "O.P.E.R.A.T.O.R."
+      }
+    ],
+    "container-title": [
+      "Declaration"
+    ],
+    "title": [
+      "FUNCTION CALL OPERATOR Invokes the task associated with a std::packaged_task instance, and stores the return value or exception in the associated asynchronous result"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "void operator()(ArgTypes... args"
+    ]
+  },
+  {
+    "note": [
+      "Declaration void swap(thread& other) noexcept;"
+    ],
+    "title": [
+      "NOTE std::thread objects are not CopyAssignable, so there’s no copyassignment operator, only this move-assignment operator. STD::THREAD::SWAP MEMBER FUNCTION Exchanges ownership of their associated threads of execution between two std::thread objects"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Effects lhs.swap(rhs"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Declaration void join();"
+    ],
+    "title": [
+      "Returns true if *this has an associated thread of execution, false otherwise. Throws Nothing. STD::THREAD::JOIN MEMBER FUNCTION Waits for the thread of execution associated with *this to finish"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cargill",
+        "given": "Tom"
+      }
+    ],
+    "container-title": [
+      "C++"
+    ],
+    "date": [
+      "1994-11"
+    ],
+    "issue": [
+      "9"
+    ],
+    "note": [
+      "Also available at"
+    ],
+    "title": [
+      "Exception Handling: A False Sense of Security"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.informit.com/content/"
+    ],
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      },
+      {
+        "family": "Michael",
+        "given": "Maged M."
+      }
+    ],
+    "container-title": [
+      "PODC ’02: Proceedings of the Twenty-first Annual Symposium on Principles of Distributed Computing (2002"
+    ],
+    "date": [
+      "1985"
+    ],
+    "isbn": [
+      "0131532898",
+      "1-58113-485-1"
+    ],
+    "note": [
+      "Also available at"
+    ],
+    "publisher": [
+      "Prentice Hall International"
+    ],
+    "title": [
+      "Communicating Sequential Processes",
+      "Safe Memory Reclamation for Dynamic Lock-Free Objects Using Atomic Reads and Writes"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.usingcsp.com/cspbook.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      }
+    ],
+    "isbn": [
+      "0-201-61562-2"
+    ],
+    "note": [
+      "Sutter, Herb, Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions (Addison Wesley Professional, 1999),"
+    ],
+    "title": [
+      "Patent and Trademark Office application 20040107227, “Method for efficient implementation of dynamic lock-free data structures with safe memory reclamation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "2005-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Also available at"
+    ],
+    "title": [
+      "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www"
+    ],
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "container-title": [
+      "GNU General Public License, http://www.gnu.org/licenses/gpl.html. Haskell Programming Language, http://www.haskell.org/. IBM Statement of Non-Assertion of Named Patents Against OSS",
+      "ibm/licensing/patents/pledgedpatents.pdf. Intel Building Blocks for Open Source, http://threadingbuildingblocks.org/. The just::thread Implementation of the C++ Standard Thread Library, http://www .stdthread.co.uk. Message Passing Interface Forum, http://www.mpi-forum.org/. Multithreading API for C++0X—A Layered Approach, C++ Standards Committee Paper N2094"
+    ],
+    "note": [
+      "C++0x/C++11 Support in GCC,",
+      "OpenMP, http://www.openmp.org/. SETI@Home,",
+      "index"
+    ],
+    "title": [
+      "Atomic Ptr Plus Project Home, http://atomic-ptr-plus.sourceforge.net/. Boost C++ library collection",
+      "C++11—The Recently Approved New ISO C++ Standard, http://www.research.att.com/ ~bs/C++0xFAQ.html. Erlang Programming Language, http://www.erlang.org/"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.boost.org.",
+      "http://gcc.gnu.org/projects/cxx0x.html.",
+      "http://www.ibm.com/",
+      "http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2006/n2094.html.",
+      "http://setiathome.ssl.berkeley.edu/."
+    ]
+  }
+]
