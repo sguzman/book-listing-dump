@@ -1,0 +1,91 @@
+[
+  {
+    "author": [
+      {
+        "given": "SetClassLong"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "SendMessage"
+      }
+    ],
+    "location": [
+      "SendMessage(hDlg, WM_SETICON, TRUE, reinterpret_cast<LPARAM>(g_hIconLarge"
+    ],
+    "title": [
+      "FALSE, reinterpret_cast<LPARAM>(g_hIconSmall"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "WM_GETICON, ICON_BIG, 0);"
+    ],
+    "title": [
+      "HICON hIconSm = SendMessage(hDlg, WM_GETICON, ICON_SMALL, 0); HICON hIconLg = SendMessage(hDlg"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "SetWindowLong"
+      }
+    ],
+    "location": [
+      "GetWindowLong(hWnd, GWL_USERDATA"
+    ],
+    "title": [
+      "While the next line shows how to read it back: CShellView* pThis = reinterpret_cast<CShellView*>("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Style of the List View The list view has the following styles set upon creation in response to WM_CREATE"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "IDS_COLUMN3, szString, MAX_PATH); ListView_InsertColumn(m_hwndList, 2, &lvColumn); lvColumn.cx = g_nColumn4; LoadString(g_hInst, IDS_COLUMN4, szString, MAX_PATH); ListView_InsertColumn(m_hwndList, 3, &lvColumn);"
+    ],
+    "title": [
+      "lvColumn.cx = g_nColumn2; LoadString(g_hInst, IDS_COLUMN2, szString, MAX_PATH); ListView_InsertColumn(m_hwndList, 1, &lvColumn); lvColumn.cx = g_nColumn3; LoadString(g_hInst"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "The files generated will be: ! [Root].cpp ! [Root].h ! [Root].ico ! [Root].rc"
+    ],
+    "title": [
+      "If you choose the Dialog-based option from the first page of the Wizard, then you can expect it to build a Win32 project with no MFC support"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "! [Root].cpp ! [Root].h !"
+      }
+    ],
+    "note": [
+      "It can be found in the \"D_MAIN.CPP\" template resource."
+    ],
+    "title": [
+      "Root].def The [Root].cpp template is significantly simpler than the equivalent one for the Win32 dialogbased application"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void WINAPI Msg(char* szFormat, ...); void WINAPI SPB_SystemMessage(DWORD dwRC"
+    ],
+    "type": null
+  }
+]
