@@ -1,0 +1,111 @@
+[
+  {
+    "title": [
+      "template<class T> complex<T> operator+(const complex<T>&); template<class T> complex<T> operator-(const complex<T>&"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class T> complex<T> pow(const complex<T>&, const T&); template<class T> complex<T> pow(const complex<T>&, const complex<T>&); template<class T> complex<T> pow(const T&, const complex<T>&"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "title": [
+      "Returns: complex<T>(lhs) += rhs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template<class UnaryOperation> piecewise_linear_distribution(initializer_list<RealType> bl, UnaryOperation fw"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "volume": [
+      "template<class T> valarray<T> atan2(const valarray<T>&, const valarray<T>&); template<class T> valarray<T> atan2(const valarray<T>&, const T&); template<class T> valarray<T> atan2(const T&, const valarray<T>"
+    ]
+  },
+  {
+    "title": [
+      "template<class T> valarray<T> pow(const valarray<T>&, const valarray<T>&); template<class T> valarray<T> pow(const valarray<T>&, const T&); template<class T> valarray<T> pow(const T&, const valarray<T>&"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Basic Linear Algebra Subprograms",
+        "given": "B.L.A.S.",
+        "particle": "stands for"
+      }
+    ],
+    "citation-number": [
+      "288"
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "genre": [
+      "Technical Report MCS-P1-0888,"
+    ],
+    "publisher": [
+      "Argonne National Laboratory (USA), Mathematics and Computer Science Division"
+    ],
+    "title": [
+      "C++ programs may instantiate this class. See, for example, Dongarra, Du Croz, Duff, and Hammerling: A set of Level 3 Basic Linear Algebra Subprograms"
+    ],
+    "type": "report"
+  },
+  {
+    "title": [
+      "template <class charT, class traits> basic_ostream<charT,traits>& endl(basic_ostream<charT,traits>& os); template <class charT, class traits> basic_ostream<charT,traits>& ends(basic_ostream<charT,traits>& os); template <class charT, class traits> basic_ostream<charT,traits>& flush(basic_ostream<charT,traits>& os"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "basic_istream<charT,traits>& read(char_type* s, streamsize n);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "void str(const basic_string<charT,traits,Allocator>& str); 3 Effects: Calls rdbuf()->str(str"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "template <class L1, class L2, class... L3> int try_lock(L1&, L2&, L3&...); template <class L1, class L2, class"
+    ],
+    "type": null,
+    "volume": [
+      "L3> void lock(L1&, L2&, L3"
+    ]
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "note": [
+      "Returns: error_code(static_cast<int>(e), future_category())."
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "array"
+    ],
+    "title": [
+      "— not all containers provide size(); use empty() instead of size() == 0; — not all containers are empty after construction (array); — not all containers have constant complexity for swap("
+    ],
+    "type": null
+  }
+]
