@@ -1,0 +1,951 @@
+[
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Show that [G : H] = lcmu {[G : U]}, as the U range over all open normal subgroups of G that contain U."
+    ],
+    "title": [
+      "Let G be a profinite group, and let H be a closed subgroup of G"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Let G be a profinite group, and let H be a subgroup of G. Show that the closure H of H is given by H = nu HU, as U ranges over all open normal subgroups of G"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Let G be a profinite group, and let H be a subgroup of G. Show that H is the intersection of all open normal subgroups of G containing H"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shatz",
+        "given": "Read Chapter I.",
+        "particle": "of"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "25] and prove the results on profinite groups stated in this section."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Artin",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1942"
+    ],
+    "location": [
+      "South Bend, IN"
+    ],
+    "publisher": [
+      "University of Notre Dame Press"
+    ],
+    "title": [
+      "Galois Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Atiyah",
+        "given": "M.F."
+      },
+      {
+        "family": "Macdonald",
+        "given": "I.G."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Introduction to Commutative Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cardano",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Dover Publications Inc"
+    ],
+    "title": [
+      "Ars Magna, or the Rules of Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chevalley",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Math. Surveys"
+    ],
+    "date": [
+      "1951"
+    ],
+    "issue": [
+      "6"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "Introduction to the Theory of Algebraic Functions of One Variable"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Colliot-ThelEme",
+        "given": "J.-L."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Proc. Symp. Pure Math"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "B. Jacob",
+        "particle": "eds."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "A."
+      }
+    ],
+    "location": [
+      "Providence, R.I"
+    ],
+    "pages": [
+      "333–358"
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "Birational invariants, purity and the Gersten conjecture",
+      "in K -Theory and Algebraic Geometry: Connections with Quadratic Forms and Division Algebras"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "58, Part 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Draxl",
+        "given": "P.K."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Skew Fields"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Edwards",
+        "given": "H.M."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Galois Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Enderton",
+        "given": "H.B."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Elements of Set Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaal",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Co"
+    ],
+    "title": [
+      "Classical Galois Theory, Chelsea Pub"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garling",
+        "given": "D.J.H."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "A Course in Galois Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "276 References"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hartshorne",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Algebraic Geometry"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Herstein",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1975"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Topics in Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hungerford",
+        "given": "T.W."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Isaacs",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "571–575"
+    ],
+    "title": [
+      "Solution of polynomials by real radicals, The American Mathematical Monthly"
+    ],
+    "type": null,
+    "volume": [
+      "92"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1985"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "title": [
+      "Basic Algebra I"
+    ],
+    "translator": [
+      {
+        "family": "Freeman",
+        "given": "W.H."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1985"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "title": [
+      "Basic Algebra II"
+    ],
+    "translator": [
+      {
+        "family": "Freeman",
+        "given": "W.H."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kaplansky",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1965"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Chicago, IL"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "title": [
+      "Fields and Rings"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kappe",
+        "given": "L."
+      },
+      {
+        "family": "Warren",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "The American Mathematical Monthly"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "133–137"
+    ],
+    "title": [
+      "An elementary test for the Galois group of a quartic polynomial"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "96"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kunz",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Birkhiiuser, Boston, MA"
+    ],
+    "title": [
+      "Introduction to Commutative Algebra and Algebraic Geometry"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McCarthy",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Co"
+    ],
+    "title": [
+      "Algebraic Extensions of Fields, Chelsea Pub"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mead",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "749–751"
+    ],
+    "title": [
+      "Newton's identities, The American Mathematical Monthly"
+    ],
+    "type": null,
+    "volume": [
+      "99"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Munkres",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Inc"
+    ],
+    "title": [
+      "Topology, a first course, Prentice-Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rotman",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Galois Theory, Universitext series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Serre",
+        "given": "J.-P."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Lecture Notes in Mathematics"
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Cohomologie Galoisienne"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shatz",
+        "given": "S.S."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "container-title": [
+      "Annals of Math. Studies"
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Profinite Groups, Arithmetic, and Geometry"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stoll",
+        "given": "R.R."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Publications Inc"
+    ],
+    "title": [
+      "Set Theory and Logic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Walker",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Random House"
+    ],
+    "title": [
+      "Introduction to Abstract Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Co"
+    ],
+    "title": [
+      "Algebraic Number Theory, Chelsea Pub"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zariski",
+        "given": "O."
+      },
+      {
+        "family": "Samuel",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "container-title": [
+      "Commutative Algebra"
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zariski",
+        "given": "O."
+      },
+      {
+        "family": "Samuel",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "container-title": [
+      "Commutative Algebra"
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Index"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Riemann Surfaces",
+        "given": "F.O.R.S.T.E.R.Lectures",
+        "particle": "on"
+      },
+      {
+        "given": "W.A.S.H.I.N.G.T.O.N."
+      },
+      {
+        "family": "Theory",
+        "given": "L.A.N.G.Algebraic Number"
+      },
+      {
+        "family": "Functions",
+        "given": "L.A.N.G.Elliptic"
+      },
+      {
+        "literal": "KARATZAslSHREVE. Brownian Motion and 86 VAN LINT."
+      },
+      {
+        "given": "KELLEy/S.R.I.N.I.V.A.S.A.N."
+      },
+      {
+        "literal": "SERRE. Algebraic Groups and Class 91 BEARDON."
+      },
+      {
+        "literal": "LANG. Cyclotomic Fields I and II. 147 ROSENBERG."
+      }
+    ],
+    "citation-number": [
+      "81"
+    ],
+    "container-title": [
+      "Differential Forms in Algebraic Complex Variables. Topology. 109 LEHTO. Univalent Functions and 83",
+      "114 KOBLITZ. A Course in Number Theory 87 BROWN. Cohomology of Groups. and Cryptography",
+      "88 PIERCE. Associative Algebras. 115 BERGERIGOSTIAUX. Differential Geometry: 89 LANG. Introduction to Algebraic and Manifolds. Curves. and Surfaces. Abelian Functions",
+      "Groups. 118 PEDERSEN. Analysis Now. 119 ROTMAN. An Introduction to Algebraic 145 VICK. Homology Theory. An Topology. Introduction to Algebraic Topology. 120 ZIEMER. Weakly Differentiable Functions",
+      "and Its Applications. 122 REMMERT. Theory of Complex Functions. 148 ROTMAN. An Introduction to the Readings in Mathematics Theory of Groups",
+      "123 EBBINGHAUS/HERMES et aI. Numbers. 149 RATCLIFFE. Foundations of Readings in Mathematics Hyperbolic Manifolds. 124 DUBROVIN/FoMENKO/NoVIKOV. Modem 150 EISENBUD. Commutative Algebra Geometry-Methods and Applications. with a View Toward Algebraic Part III. Geometry. 125 BERENSTEIN/GAY. Complex Variables: An 151 SILVERMAN. Advanced Topics in Introduction. the Arithmetic of Elliptic Curves. 126 BOREL. Linear Algebraic Groups. 152 ZIEGLER. Lectures on Polytopes. 127 MASSEY. A Basic Course in Algebraic 153 FuLTON. Algebraic Topology: A Topology. First Course. 128 RAUCH. Partial Differential Equations. 154 BRowNIPEARCY. An Introduction to 129 FULTONIHARRIS. Representation Theory: Analysis. A First Course. 155 KASSEL. Quantum Groups. Readings in Mathematics 156 KECHRIS. Classical Descriptive Set 130 DoDSON/POSTON. Tensor Geometry. Theory. 131 LAM. A First Course in Noncommutative 157 MALLIAVIN. Integration and Rings. Probability. 132 BEARDON. Iteration of Rational Functions. 158 ROMAN. Field Theory. 133 HARRIS. Algebraic Geometry: A First 159 CONWAY. Functions of One Course. Complex Variable II. 134 ROMAN. Coding and Information Theory. 160 LANG. Differential and Riemannian 135 ROMAN. Advanced Linear Algebra. Manifolds. 136 ADKINs/WEiNTRAUB. Algebra: An 161 BORWEINIERDELYI. Polynomials and Approach via Module Theory. Polynomial Inequalities. 137 AxLER!BOURDON/RAMEY. Harmonic 162 ALPERINIBELL. Groups and Function Theory. Representations. 138 COHEN. A Course in Computational 163 DIXONIMORTIMER. Permutation Algebraic Number Theory. Groups. 139 BREDON. Topology and Geometry. 164 NATHANSON. Additive Number Theory: 140 AUBIN. Optima and Equilibria. An The Classical Bases. Introduction to Nonlinear Analysis. 165 NATHANSON. Additive Number Theory: 141 BECKER/WEISPFENNING/KREDEL. Grtibner Inverse Problem~ and the Geometry of Bases. A Computational Approach to Sumsets. Commutative Algebra. 166 SHARPE. Differential Geometry: Cartan's 142 LANG. Real and Functional Analysis. Generalization of Klein's Erlangen",
+      "Fields",
+      "Fourier Series"
+    ],
+    "edition": [
+      "2nd",
+      "2nd",
+      "2nd ed. 2nd",
+      "2nd",
+      "2nd",
+      "2nd",
+      "2nd",
+      "4th",
+      "3rd"
+    ],
+    "note": [
+      "Programme. 143 DoOB. Measure Theory. 167 MORANDI. Field and Galois Theory. 144 DENNISIFARB. Noncommutative Algebra."
+    ],
+    "pages": [
+      "112",
+      "113",
+      "116",
+      "117",
+      "121"
+    ],
+    "publisher": [
+      "Mathematical Sketchbook"
+    ],
+    "title": [
+      "Integral Representations in Several 82 BOTTITu",
+      "Introduction to Cyclotomic Teichmiiller Spaces",
+      "84 IRELAND/ROSEN. A Classical Introduction 111 HUSEMOLLER. Elliptic Curves. to Modem Number Theory",
+      "85 EDWARDS",
+      "Introduction to Coding Theory. Stocha~tic Calculus",
+      "Measure and 90 BR0NDSTED. An Introduction to Convex Integral",
+      "On the Geometry of Discrete Fields",
+      "Sobolev Spaces and Functions of 146 BRIDGES. Computability: A Bounded Variation",
+      "Algebraic K-Theory Combined"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "110",
+      "II",
+      "I"
+    ]
+  }
+]
