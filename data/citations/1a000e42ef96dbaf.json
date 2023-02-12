@@ -1,0 +1,3014 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "locking power and ground nets (if not automatically locked), and 5. enabling all nonpower/ground-type nets."
+    ],
+    "pages": [
+      "4"
+    ],
+    "title": [
+      "placing components, 2. setting up layers (power and ground planes) and net/layer assignments, 3. completing fanouts (although you can do this with SPECCTRA as well"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B94.11-197",
+        "given": "A.N.S.I.Standards A.N.S.I."
+      }
+    ],
+    "container-title": [
+      "Graphic Symbols for Electrical and Electronics Diagrams ASME Standards B18.2.8–1999, Clearance Holes for Bolts, Screws, and Studs B18.6.3–2003, Machine Screws and Machine Screw Nuts ASA 618.11-1961, Miniature Screws Y 14.5M, Dimensioning and Tolerancing ASME B94.1 IM-1993, Twist Drills IEEE Standards"
+    ],
+    "title": [
+      "Twist Drills ANSI Y32.2-1975 (see also IEEE Std 315-1975"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEE Std 315-1975 (ANSI Y32.2-1975), Graphic Symbols for Electrical and Electronics Diagrams"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pitfalls",
+        "given": "Avoiding Passive-Component"
+      },
+      {
+        "family": "Grant",
+        "given": "Doug"
+      },
+      {
+        "family": "Wurcer",
+        "given": "Scott"
+      }
+    ],
+    "container-title": [
+      "Analog Devices Application Note AN-581. EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "126"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Analog Devices Application Note AN-348. Biasing and Decoupling Op Amps in Single Supply Applications, Charles Kitchin"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "281–288"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "129"
+    ],
+    "publisher": [
+      "Henry W. Ott, Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "genre": [
+      "Section 8.4,"
+    ],
+    "issue": [
+      "ap. 3. Fiducials IPC-2221A, Section 3.4.4"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "22 – –770 ,",
+      "46"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "genre": [
+      "Section 8.1.3,"
+    ],
+    "pages": [
+      "57"
+    ],
+    "title": [
+      "Wave soldering considerations IPC-2221A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-7351"
+      }
+    ],
+    "container-title": [
+      "Section"
+    ],
+    "issue": [
+      "1"
+    ],
+    "note": [
+      "SMD footprint design)."
+    ],
+    "pages": [
+      "9–16"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "Section"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,"
+    ],
+    "pages": [
+      "35"
+    ],
+    "title": [
+      "Section 43.7.8. Design Rule Checking IPC-CM-770E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "title": [
+      "Coombs’ Printed Circuits Handbook"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "DP83865 Gig PHYTER® V10/100/1000 Ethernet Physical Layer Design Guide, National Semiconductor Application Notes",
+      "Chap",
+      "Chap"
+    ],
+    "date": [
+      "2001",
+      "2003-08",
+      "1993"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "9"
+    ],
+    "note": [
+      "H. Ott’s Web site (http://hottconsultants.com/techtips/pcb-stack-up-3.html)."
+    ],
+    "pages": [
+      "27",
+      "212, 217–221"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "Layer Stack-ups Advanced Circuits Web site (http://www.4pcb.com, search for “controlled impedance”). Coombs’ Printed Circuits Handbook",
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13",
+      "5"
+    ]
+  },
+  {
+    "container-title": [
+      "Section"
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Section 8.6.1.5,"
+    ],
+    "issue": [
+      "5.2"
+    ],
+    "pages": [
+      "308",
+      "2–11",
+      "103"
+    ],
+    "publisher": [
+      "IPC-SM-780"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design, Douglas Brooks, Prentice Hall Modern Semiconductor Design Series",
+      "Lead Relationships Lead-to-hole ratio IPC-AJ-820"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "genre": [
+      "Fig. 8-9,"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,"
+    ],
+    "pages": [
+      "61"
+    ],
+    "title": [
+      "Section 42.2.1. Lead bend radius and spacing IPC-2221A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-A.J.-820"
+      },
+      {
+        "given": "I.P.C.-D.-330"
+      }
+    ],
+    "container-title": [
+      "Section",
+      "Section",
+      "Section"
+    ],
+    "date": [
+      "Section 2.5.3.1",
+      "IPC-CM-770"
+    ],
+    "genre": [
+      "Section 8.4.2,"
+    ],
+    "issue": [
+      "5.1.4",
+      "1.8"
+    ],
+    "pages": [
+      "2–11",
+      "2–13",
+      "67",
+      "12",
+      "94"
+    ],
+    "publisher": [
+      "IPC-SM-780"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2",
+      "11",
+      "11, Fig. 11-8"
+    ]
+  },
+  {
+    "title": [
+      "ASME B1-10M Unified Miniature Screw Threads"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ASME B18.2.4.1M-2002 Metric Hex Nuts—Style 1"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ASME B18.2.4.2M-2005 Metric Hex Nuts—Style 2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B18.2.8-1999",
+        "given": "A.S.M.E."
+      }
+    ],
+    "title": [
+      "Clearance Holes for Bolts, Screws, and Studs"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ASME B18.6.3-2003 Machine Screws and Machine Screw Nuts"
+    ],
+    "date": [
+      "inch series"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "ASME B18.6.7M-2000 Machine Screws (metric series). ASME B18.12-2001 Glossary of Terms for Mechanical Fasteners"
+    ],
+    "type": null
+  },
+  {
+    "collection-title": [
+      "inch series"
+    ],
+    "title": [
+      "ASME B18.13-1996 Screw and Washer Assemblies"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ASME"
+    ],
+    "note": [
+      "B18.21.1-1999 Lock Washers (inch series)."
+    ],
+    "title": [
+      "ASME B18.13.1M-1999 Screw and Washer Assemblies (metric series"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "collection-title": [
+      "metric series"
+    ],
+    "title": [
+      "ASME B18-21-2M-1999 Lock Washers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ASME B18.22.1-1981 Plain Washers (inch series)."
+    ],
+    "type": null
+  },
+  {
+    "collection-title": [
+      "metric series"
+    ],
+    "title": [
+      "ASME B18.22M-1981 Plain Washers"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ASME B94.11M-1993 Twist Drills (drill bit sizes—inch and metric"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "Sections"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "2.2"
+    ],
+    "pages": [
+      "48 8 1"
+    ],
+    "title": [
+      "Coombs’ Printed Circuits Handbook"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "IPC-2222",
+        "given": "Filled/plugged",
+        "particle": "holes"
+      }
+    ],
+    "container-title": [
+      "Rise and Fall Times of Logic Families IPC-2251, Table 5-4",
+      "Section"
+    ],
+    "issue": [
+      "2.2.3"
+    ],
+    "pages": [
+      "19",
+      "29"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "Chap"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,",
+      "EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I."
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "3–1"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ott",
+        "given": "Henry W."
+      },
+      {
+        "given": "Wiley"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "see also Appendix D) Schematics Symbols ANSI 315-1975."
+    ],
+    "pages": [
+      "275"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "High-Speed Printed-Circuit-Board Layout",
+        "given": "A.Practical Guide",
+        "particle": "to"
+      },
+      {
+        "family": "Ardizzoni",
+        "given": "John"
+      },
+      {
+        "family": "Montrose",
+        "given": "Mark I."
+      },
+      {
+        "family": "Hong-Fang",
+        "given": "Jin"
+      },
+      {
+        "family": "Li",
+        "given": "Er-Ping"
+      }
+    ],
+    "note": [
+      "Montrose, Jin Hong-Fang, Er-Ping Li."
+    ],
+    "title": [
+      "Analog Devices: Analog Dialogue, applications note. Analysis on the Effectiveness of High Speed Printed Circuit Board Edge Radiated Emissions Based on Stimulus Source Location",
+      "Analysis on the Effectiveness of High Speed Printed Circuit Board Edge Termination Using Discrete Components Instead of Implementing the 20-H Rule, Mark I"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Combating Noise Effects in Adaptive Cable Equalizer Designs, James Mears National Semiconductor Applications note. EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Q.P.I.-AN1"
+      }
+    ],
+    "title": [
+      "PICOR general application note on QPI Family"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "Cross talk EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I."
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design, Douglas Brooks, Prentice Hall Modern Semiconductor Design Series"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999",
+      "1993"
+    ],
+    "location": [
+      "Montrose",
+      "High-Speed Digital Design"
+    ],
+    "pages": [
+      "7",
+      "191"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology",
+      "a Handbook of Black Magic, Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Montrose",
+        "given": "Mark I."
+      }
+    ],
+    "container-title": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "date": [
+      "2000",
+      "2004",
+      "1993"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "Propagation speed/time delay High-Speed Digital Design:"
+    ],
+    "pages": [
+      "131",
+      "163, 249",
+      "178"
+    ],
+    "publisher": [
+      "Prentice Hall",
+      "a Handbook of Black Magic, Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Ground bounce/rail collapse Signal Integrity—Simplified, Eric Bogatin"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "210–211, 214–216, 255"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Eric Bogatin"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "188–194"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Reflections/ringing EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "160"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "Guard rings and traces"
+    ],
+    "pages": [
+      "10"
+    ],
+    "publisher": [
+      "Douglas Brooks, Prentice Hall Modern Semiconductor Design Series"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Montrose",
+        "given": "M.I."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "137–141"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance: a Handbook for Designers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bogatin",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "pages": [
+      "452–459"
+    ],
+    "publisher": [
+      "Pearson Education"
+    ],
+    "title": [
+      "Signal Integrity—Simplified"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brooks",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "pages": [
+      "233"
+    ],
+    "publisher": [
+      "Pearson Education"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "editor": [
+      {
+        "family": "Coombs",
+        "given": "C.F.",
+        "suffix": "Jr"
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "15 6"
+    ],
+    "publisher": [
+      "McGraw–Hill"
+    ],
+    "title": [
+      "Coombs’ Printed Circuits Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "H."
+      },
+      {
+        "family": "Graham",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "pages": [
+      "201–204, 262"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ott",
+        "given": "H.W."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "343"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rich",
+        "given": "A.Shielding"
+      },
+      {
+        "family": "Guarding",
+        "given": "How to Exclude Interference-Type Noise"
+      },
+      {
+        "family": "Barnes",
+        "given": "J.R."
+      }
+    ],
+    "container-title": [
+      "Analog Devices Application Note AN-347",
+      "CONFORMITY®: FEBRUARY 2003"
+    ],
+    "edition": [
+      "0302designing.pdf"
+    ],
+    "note": [
+      "Terminations EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I."
+    ],
+    "title": [
+      "What to Do and Why to Do It—a Rational Approach",
+      "Designing Electronic Systems For ESD Immunity"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "217"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "6"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Montrose",
+        "given": "Mark I."
+      }
+    ],
+    "container-title": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "Ground areas (split planes, moated grounds) EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I."
+    ],
+    "pages": [
+      "143"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "107–111, 119"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "152–170"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Guard Shields"
+    ],
+    "pages": [
+      "16"
+    ],
+    "publisher": [
+      "Douglas Brooks, Prentice Hall Modern Semiconductor Design Series"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "Chap"
+    ],
+    "date": [
+      "2001",
+      "1993"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "2.3.2"
+    ],
+    "location": [
+      "High-Speed Digital Design"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,"
+    ],
+    "pages": [
+      "201"
+    ],
+    "publisher": [
+      "a Handbook of Black Magic, Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "106"
+    ],
+    "publisher": [
+      "Henry W. Ott, Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "137, 141"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Shielding"
+      },
+      {
+        "family": "Guarding",
+        "given": "Alan Rich"
+      }
+    ],
+    "container-title": [
+      "Noise reduction (general) An Applications Guide for Op Amps, National Semiconductor Application Note AN-20"
+    ],
+    "date": [
+      "1969-02"
+    ],
+    "title": [
+      "Analog Devices Application Note AN-347"
+    ],
+    "type": "chapter"
+  },
+  {
+    "publisher": [
+      "Paul Brokaw, Analog Devices Application Note AN-202"
+    ],
+    "title": [
+      "An IC Amplifier User’s Guide to Decoupling, Grounding, and Making Things Go Right for a Change"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Currents",
+        "given": "Common Mode Ground"
+      },
+      {
+        "given": "Sigcon"
+      }
+    ],
+    "container-title": [
+      "Online Newsletter"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "ue 02"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "41"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "High-Speed Digital Design",
+      "EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "container-title": [
+      "Analog Devices Application Note AN-345"
+    ],
+    "editor": [
+      {
+        "family": "Brokaw",
+        "given": "Paul"
+      },
+      {
+        "family": "Barrow",
+        "given": "Jeff"
+      }
+    ],
+    "title": [
+      "Grounding for Low- and High-Frequency Circuits"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Analog Devices Application Note AN-214"
+    ],
+    "editor": [
+      {
+        "family": "Brockman",
+        "given": "Don"
+      },
+      {
+        "family": "Williams",
+        "given": "Arnold"
+      }
+    ],
+    "title": [
+      "Grounding Rules for High-Speed Circuits"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "6 (shielding)."
+    ],
+    "pages": [],
+    "publisher": [
+      "Henry W. Ott, Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Optimum Noise Performance",
+        "given": "Op Amp Selection Guide",
+        "particle": "for"
+      },
+      {
+        "family": "Brisebois",
+        "given": "Glen"
+      }
+    ],
+    "container-title": [
+      "PCB Design Guidelines That Maximize the Performance of TVS Diodes, Jim Lepkowske, ON Semiconductor Application Note AND8232/D. Power Supply Effects on Noise Performance, Nicholas Gray, National Semiconductor Application Note AN-1261",
+      "Linear Technology Magazine"
+    ],
+    "date": [
+      "2005-12",
+      "2002-09"
+    ],
+    "title": [
+      "Linear Technologies Design Ideas"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rejection",
+        "given": "Power Supply Ripple"
+      },
+      {
+        "family": "Regulators",
+        "given": "Linear"
+      },
+      {
+        "family": "Gabriel A. Rincón-Mora",
+        "given": "What’s",
+        "particle": "all the noise about?"
+      },
+      {
+        "family": "Gupta",
+        "given": "Vishal"
+      }
+    ],
+    "container-title": [
+      "Shielding and Guarding: How to Exclude Interference-Type Noise, Alan Rich, Analog Devices Application Note AN-347. EMI/EMC Coombs’ Printed Circuits Handbook"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "note": [
+      "Clyde F. Coombs, Jr., McGraw–Hill, 2001, Section 17.2.3.2. EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I."
+    ],
+    "title": [
+      "Texas Instruments Planet Analog application note"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "collection-title": [
+      "Prentice Hall Modern Semiconductor Design Series"
+    ],
+    "container-title": [
+      "Assembly issues and processes IPC-2221A, Section 8.0",
+      "Chaps",
+      "Sections"
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Soldering and Assembly IPC J-STD-001D (soldering requirements). IPC-SM-780, Section 8.1,"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "IPC-7351, Section 7.4, Fig. 7-1,",
+      "IPC-D-330, Section 11. IPC/WHMA-A-620."
+    ],
+    "pages": [
+      "9",
+      "84",
+      "55",
+      "40 – –770 ,",
+      "37"
+    ],
+    "publisher": [
+      "Douglas Brooks"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8",
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "Chap",
+      "Sections"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "aps. 41, 42",
+      "2.2.3"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,"
+    ],
+    "pages": [
+      "43",
+      "35"
+    ],
+    "title": [
+      "Reflow soldering IPC-CM-770E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "container-title": [
+      "Section"
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "issue": [
+      "2.2.1"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,",
+      "and Section 8.1.2."
+    ],
+    "pages": [
+      "35,"
+    ],
+    "title": [
+      "Section 43.6. Wave soldering IPC-CM-770E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "genre": [
+      "Section 43.7."
+    ],
+    "title": [
+      "Coombs’ Printed Circuits Handbook"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2221A"
+      }
+    ],
+    "container-title": [
+      "Section"
+    ],
+    "issue": [
+      "0"
+    ],
+    "note": [
+      "Fig. 7-1 (heat sink and spacing),",
+      "IPC-D-330, Section 4."
+    ],
+    "pages": [
+      "48",
+      "51"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Gbps"
+      }
+    ],
+    "citation-number": [
+      "ADN2530—11.3"
+    ],
+    "date": [
+      "1110"
+    ],
+    "title": [
+      "Active Back-Termination, Differential VCSEL Driver, Analog Devices data sheet"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bolted Joints",
+        "given": "S.Lee",
+        "particle": "Analytical Modeling of Thermal Resistance in"
+      },
+      {
+        "family": "Yovanovich",
+        "given": "M.M."
+      },
+      {
+        "family": "Song",
+        "given": "S."
+      },
+      {
+        "family": "Moran",
+        "given": "K.P."
+      },
+      {
+        "given": "H.T.D.-Vol"
+      }
+    ],
+    "container-title": [
+      "International Rectifier Corp. How to Select a Heat Sink, Seri Lee, Aavid Thermal Technologies, Inc., application note. JEDEC Standard 51. LFPAK Thermal Design Guide—LFPAK Thermal Performance Junction to Ambient, Philips Application Note, Rev"
+    ],
+    "date": [
+      "1993",
+      "2003-06-01"
+    ],
+    "title": [
+      "263, Enhanced Cooling Techniques for Electronics Applications ASME",
+      "Evaluation of Power MOSFET Thermal Solutions for Desktop and Mobile Processor Power, Tim McDonald and John Ambrus"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1806"
+    ],
+    "publisher": [
+      "Linear Technology Corp"
+    ],
+    "title": [
+      "LT1806/LT1807 data sheet"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Semiconductor Application Note"
+    ],
+    "date": [
+      "2005-03-18"
+    ],
+    "title": [
+      "Monitor Heat Dissipation in Electronic Systems by Measuring Active Component Die Temperature, Maxim, Dallas"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3500"
+    ]
+  },
+  {
+    "container-title": [
+      "application note"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "title": [
+      "Package Thermal Characteristics, Actel Corp"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "container-title": [
+      "Maxim Integrated Products Application Note HFAN-08.1"
+    ],
+    "date": [
+      "November 2001 (4hfan081.doc 11/20/2001"
+    ],
+    "title": [
+      "Thermal Considerations of QFN and Other Exposed-Paddle Packages"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Chap"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Thermal Design Considerations, Philips Semiconductors IC Packages"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "container-title": [
+      "Brian J. Conner, National Semiconductor Application Brief"
+    ],
+    "title": [
+      "Thermal Performance of National’s LLP Package, Highlighting the LM2750 Regulated Voltage Converter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "111"
+    ]
+  },
+  {
+    "title": [
+      "Thermal Resistance v PCB Area Comparison, Zetex application note"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "207"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Trace spacing (cross talk/3-W rule) EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "215, 219"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic, Howard Johnson and Martin Graham"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "131, 136"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      },
+      {
+        "family": "Bogatin",
+        "given": "Eric"
+      },
+      {
+        "family": "Hall",
+        "given": "Prentice"
+      }
+    ],
+    "container-title": [
+      "Fig"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "421–425",
+      "40– 41"
+    ],
+    "title": [
+      "Trace width—current handling IPC-2221A"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6-4"
+    ]
+  },
+  {
+    "container-title": [
+      "Fig"
+    ],
+    "genre": [
+      "Section 5.5–5.5.5.4,"
+    ],
+    "pages": [
+      "44– 47",
+      "31–36"
+    ],
+    "publisher": [
+      "IPC-2251"
+    ],
+    "title": [
+      "Trace width—transmission lines IPC-2221A"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6-5"
+    ]
+  },
+  {
+    "container-title": [
+      "Microstrip IPC-2221A, Section 6.4.1"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "214",
+      "44"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic, Howard Johnson and Martin Graham"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2221A"
+      }
+    ],
+    "container-title": [
+      "Section"
+    ],
+    "genre": [
+      "Sections 4.0–4.7,"
+    ],
+    "issue": [
+      "4.4"
+    ],
+    "note": [
+      "see also Transmission Lines) Transmission Lines Characteristic impedance (microstrip, stripline topologies, etc.) IPC-2141,"
+    ],
+    "pages": [
+      "46",
+      "11–16"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2251"
+      },
+      {
+        "given": "I.P.C.-D.-330"
+      }
+    ],
+    "container-title": [
+      "Sections"
+    ],
+    "genre": [
+      "Sections 5.5–5.5.5.4,"
+    ],
+    "pages": [
+      "31–36",
+      "44– 47",
+      "6 5 4 2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IPC-2221A, Fig. 6-5",
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "note": [
+      "Coombs’ Printed Circuits Handbook,",
+      "EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I."
+    ],
+    "pages": [
+      "16"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "171–179"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "186–188"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "101–190"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "185,",
+      "265"
+    ],
+    "publisher": [
+      "Douglas Brooks, Prentice Hall Modern Semiconductor Design Series"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design"
+    ],
+    "type": "book",
+    "volume": [
+      "203"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "note": [
+      "see also Trace Routing"
+    ],
+    "pages": [
+      "220–233, 258–260, 274"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Eric Bogatin"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "195"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "166"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "308"
+    ],
+    "publisher": [
+      "Henry W. Ott, Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      }
+    ],
+    "container-title": [
+      "Propagation delay time IPC-2141"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "4.7.1"
+    ],
+    "pages": [
+      "297",
+      "6"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Eric Bogatin"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2251"
+      }
+    ],
+    "container-title": [
+      "Section"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "30"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "111"
+    ],
+    "publisher": [
+      "IEEE Press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance",
+      "Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "214–216"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Eric Bogatin"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Section"
+    ],
+    "issue": [
+      "6.2"
+    ],
+    "pages": [
+      "36"
+    ],
+    "title": [
+      "Reflections/impedance mismatches IPC-2251"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clyde F. Coombs",
+        "given": "McGraw–Hill",
+        "suffix": "Jr."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "pages": [
+      "16"
+    ],
+    "title": [
+      "Coombs’ Printed Circuits Handbook"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "169"
+    ],
+    "publisher": [
+      "Henry W. Ott, Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      },
+      {
+        "family": "Bogatin",
+        "given": "Eric"
+      },
+      {
+        "family": "Hall",
+        "given": "Prentice"
+      }
+    ],
+    "date": [
+      "2004",
+      "302",
+      "1993"
+    ],
+    "pages": [
+      "278–283,",
+      "174"
+    ],
+    "publisher": [
+      "Howard Johnson and Martin Graham, Prentice Hall"
+    ],
+    "title": [
+      "Sharp corners High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Integrity—Simplified",
+        "given": "Signal"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "315"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Eric Bogatin"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bogatin",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Pearson Education"
+    ],
+    "title": [
+      "Signal Integrity—Simplified"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brooks",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Pearson Education"
+    ],
+    "title": [
+      "Signal Integrity Issues and Printed Circuit Board Design"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "5th"
+    ],
+    "editor": [
+      {
+        "family": "Coombs",
+        "given": "C.F.",
+        "suffix": "Jr"
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw–Hill"
+    ],
+    "title": [
+      "Coombs’ Printed Circuits Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gopalan",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw–Hill"
+    ],
+    "title": [
+      "Introduction to Digital Microelectronic Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "H."
+      },
+      {
+        "family": "Graham",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design: a Handbook of Black Magic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Montrose",
+        "given": "M.I."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "EMC and the Printed Circuit Board: Design, Theory, and Layout Made Simple"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Montrose",
+        "given": "M.I."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance: a Handbook for Designers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ott",
+        "given": "H.W."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Serway",
+        "given": "R.A."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Orlando"
+    ],
+    "publisher": [
+      "Harcourt Brace Jovanovich"
+    ],
+    "title": [
+      "Physics for Scientists and Engineers with Modern Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wadell",
+        "given": "B.C."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Norwood, MA"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Transmission Line Design Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2141"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Controlled Impedance Circuit Boards and High Speed Logic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "May",
+        "given": "I.P.C.-2221A"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC-Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Generic Standard on Printed Board Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "February",
+        "given": "I.P.C.-2222"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Sectional Design Standard for Rigid Organic Printed Boards"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "November",
+        "given": "I.P.C.-2251"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Design Guide for the Packaging of High Speed Electronic Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "June",
+        "given": "I.P.C.-4101A"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Specification for Base Materials for Rigid and Multilayer Printed Boards"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1996-07"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "pages": [
+      "–6011"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Generic Performance Specification for Printed Boards"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "February",
+        "given": "I.P.C.-7351"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Generic Requirements for Surface Mount Design and Land Pattern Standard"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "January",
+        "given": "I.P.C.-C.M.-770E"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Guidelines for Printed Board Component Mounting"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1988-07"
+    ],
+    "location": [
+      "Northbrook, IL"
+    ],
+    "pages": [
+      "– –780"
+    ],
+    "publisher": [
+      "IPC- Association Connecting Electronics Industries"
+    ],
+    "title": [
+      "Component Packaging and Interconnecting with Emphasis on Surface Mounting"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Carter",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "How to Exclude Interference-Type Noise, What to Do and Why to Do It—a Rational Approach. Analog Devices Application Note AN-347",
+      "Analog Applications Journal"
+    ],
+    "editor": [
+      {
+        "family": "Rich",
+        "given": "A.Shielding"
+      },
+      {
+        "given": "Guarding"
+      }
+    ],
+    "note": [
+      "Linear Technology Corp.:"
+    ],
+    "title": [
+      "Analog Devices ADN2530 data sheet—11.3 Gbps, Active Back-Termination, Differential VCSEL Driver",
+      "Linear Technology LT1806 data sheet (18067f[1].pdf",
+      "okmBNxQL2ct3kfYjvJ10lO59RkZBsEmn!-1172279374?navId⫽H0,C1,C1154,C1009,C 1021,P1883,D3763",
+      "The PCB is a component of op amp design"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.analog.com/UploadedFiles/Data_Sheets/ADN2530.pdf.",
+      "http://www.linear.com/pc/downloadDocument.do;jsessionid",
+      "http://"
+    ],
+    "volume": [
+      "slyt166[1].pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2251"
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2003-11"
+    ],
+    "pages": [
+      "32"
+    ],
+    "title": [
+      "Design Guide for the Packaging of High Speed Electronic Circuits"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2141"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1996-04"
+    ],
+    "pages": [
+      "12"
+    ],
+    "title": [
+      "Controlled Impedance Circuit Boards and High Speed Logic Design"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "101"
+    ],
+    "publisher": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "E.M.C."
+      },
+      {
+        "family": "Printed Circuit Board",
+        "particle": "the"
+      },
+      {
+        "family": "Design",
+        "given": "Theory"
+      },
+      {
+        "family": "Simple",
+        "given": "Layout Made"
+      },
+      {
+        "family": "Montrose",
+        "given": "Mark I."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "172"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2251"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "2003-11"
+    ],
+    "pages": [
+      "36"
+    ],
+    "title": [
+      "Design Guide for the Packaging of High Speed Electronic Circuits"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "107"
+    ],
+    "publisher": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "E.M.C."
+      },
+      {
+        "family": "Printed Circuit Board",
+        "particle": "the"
+      },
+      {
+        "family": "Design",
+        "given": "Theory"
+      },
+      {
+        "family": "Simple",
+        "given": "Layout Made"
+      },
+      {
+        "family": "Montrose",
+        "given": "Mark I."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "177"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "103"
+    ],
+    "publisher": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "E.M.C."
+      },
+      {
+        "family": "Printed Circuit Board",
+        "particle": "the"
+      },
+      {
+        "family": "Design",
+        "given": "Theory"
+      },
+      {
+        "family": "Simple",
+        "given": "Layout Made"
+      },
+      {
+        "family": "Montrose",
+        "given": "Mark I."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "177"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2251"
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2003-11"
+    ],
+    "pages": [
+      "33"
+    ],
+    "title": [
+      "Design Guide for the Packaging of High Speed Electronic Circuits"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Montrose"
+    ],
+    "pages": [
+      "105"
+    ],
+    "publisher": [
+      "IEEE press Series on Electronics Technology"
+    ],
+    "title": [
+      "Printed Circuit Board Design Techniques for EMC Compliance, Mark I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "I.P.C.-2251"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "2003-11"
+    ],
+    "pages": [
+      "35"
+    ],
+    "title": [
+      "Design Guide for the Packaging of High Speed Electronic Circuits"
+    ],
+    "type": null
+  }
+]
