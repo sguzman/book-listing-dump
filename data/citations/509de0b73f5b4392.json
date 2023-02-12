@@ -1,0 +1,162 @@
+[
+  {
+    "citation-number": [
+      "Z80.save_mode();"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "tempdata = mem_sim->m_seek_read(Z80.addr_msb, Z80.addr_lsb"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "Z80.save_mode(); Z80.mode_wait("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Z80 Wrote Address: 0x\");"
+    ],
+    "title": [
+      "tempdata = Z80.data_out(); mem_sim->m_seek_write(Z80.addr_msb, Z80.addr_lsb, tempdata); output += String(\"mem_write_ISR"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.println(output); Z80.restore_mode();"
+    ],
+    "title": [
+      "Finally, we Serial.println the output string, restore the Z80’s state, and we’re done"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "void setup() { Serial.begin(115200);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (addr_byte_union.sixteen_bit_address >= MEM_SIZE) {"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "sketch"
+    ],
+    "date": [
+      "core",
+      "174"
+    ],
+    "note": [
+      "Von Neumann, 33 Clock Arduino ATmega1284P, 34–36, 45, 59, 63, 67, board,",
+      "c, 63, 73, 77, 79, 91, 94–97, 99, 115, 122, IDE, 58,"
+    ],
+    "pages": [
+      "59–62,",
+      "280–281,",
+      "52–53, 56–60,",
+      "62–63,",
+      "348–350,",
+      "388–397",
+      "346",
+      "170–172,",
+      "59–60,",
+      "279, 304 182–183, 277– 278,",
+      "29–30,",
+      "59–60,",
+      "301 325–326"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, 2",
+      "68 70–71, 132, 157",
+      "328 bootloader, 10, 30, 49",
+      "Z80, 27, 304–305, 308, 327–328, 330",
+      "66, 69, 80, 301 333, 336–337, 345",
+      "29–30, 52-53, 56–57, 59, 73, 76",
+      "79, 91, 93–94, 138, 155, 246, Compiler 277–279, 293, 301",
+      "326 138, 163, 165",
+      "30",
+      "64, 73, 95",
+      "288, 311, 323, software, 10, 16",
+      "56",
+      "94"
+    ]
+  },
+  {
+    "container-title": [
+      "ATA1"
+    ],
+    "note": [
+      "Assembly c++, 73–75, 77, 79, 88–89, 91, 94, 101, machine language,"
+    ],
+    "pages": [
+      "381–394,",
+      "120–122,",
+      "213–215,",
+      "277–278,",
+      "321–326, 219–220,",
+      "342–343, 345–347,"
+    ],
+    "title": [
+      "137, 140, 144, 147, ATA 156–158, 163, 171–173, 177, 185"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "313",
+      "396 108",
+      "208 188, 190, 197–198, 230–231, 234, IDE, 24, 204, 206, 208 240, 245, 252, 255, 259, 263, PATA , 204–210",
+      "217",
+      "288, 304, 311",
+      "269 337, 340"
+    ]
+  },
+  {
+    "container-title": [
+      "Dalton",
+      "Ohm"
+    ],
+    "date": [
+      "diode",
+      "171, 200, 204, 216"
+    ],
+    "issue": [
+      "eisenberg, 106 132, 136, 149",
+      "off"
+    ],
+    "pages": [
+      "279–284,",
+      "289–292,",
+      "349 126–127,",
+      "164–166,",
+      "216 60–62,",
+      "153–154,",
+      "110–113 168–169,",
+      "41–43,",
+      "218–220,"
+    ],
+    "title": [
+      "165, 285 Tool dope, 107 breadboard, 2–3"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106 timer/counter",
+      "287",
+      "43–44, 107–108, 110, 117, 294, 301, 330, 336, 338",
+      "6, 9, 10, 14, 17, 20, electron, 42, 106–108, 123",
+      "169 21, 26, 29–30, 35–40, 43, 52, 58, energy, 12–14, 20, 42, 106–107, 111",
+      "130",
+      "6, 12, 14",
+      "47, 107",
+      "236, 275, 286, 305, 327"
+    ]
+  }
+]
