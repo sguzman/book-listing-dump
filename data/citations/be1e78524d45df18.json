@@ -1,0 +1,409 @@
+[
+  {
+    "type": null,
+    "url": [
+      "http://schemas.xmlsoap.org/soap/envelope/",
+      "http://www.w3c.org/2001/XMLSchema-instance",
+      "http://www.w3.org/2001/XMLSchema",
+      "http://schemas.xmlsoap.org/soap/encoding/"
+    ]
+  },
+  {
+    "title": [
+      "IAIK XML Signature Library http://jcewww.iaik.tu-graz.ac.at/products/ixsil/ index.php HP Web Services Platform 2.0 www.hpmiddleware.com/SalSAPI.dll/ SaServletEngine.class/products/hp_web_services"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "NEC Solutions’ XML Digital www.sw.nec.co/jp/soft/xml_s/appform_e.html Signature Software Library"
+    ],
+    "type": "chapter"
+  },
+  {
+    "location": [
+      "Canonicalizer.W3C2, SignatureMethod.DSA"
+    ],
+    "title": [
+      "TemplateGenerator objTemplateGenerator = new TemplateGenerator (objDocument, XSignature.SHA1"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "objKeyStore.load (new FileInputStream(sKeyStorePath), caStorePassword);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "true, true, true);"
+    ],
+    "title": [
+      "KeyInfo.X509Data objX509Data = new KeyInfo.X509Data(); objX509Data.setCertificate(objX509Certificate); objX509Data.setParameters(objX509Certificate"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "new KeyInfo(); objKeyInfo.setX509Data(objX509DataArray); objKeyInfo.setKeyValue(objX509Certificate.getPublicKey());"
+    ],
+    "title": [
+      "A KeyInfo object also is created. This KeyInfo object represents the <KeyInfo> element in the actual signature document. It carries the public key and the X.509 certificate of the signer: KeyInfo objKeyInfo ="
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "true, objWriter); objWriter.flush();"
+    ],
+    "title": [
+      "Writer objWriter = new OutputStreamWriter(System.out, “UTF-8”); XPathCanonicalizer.serializeAll(objDocument"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Document objDocument = DOMParserNS.createBuilder().parse (objInputSource"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Element objKeyInfoElement = KeyInfo.searchForKeyInfo (objSignatureElement"
+      }
+    ],
+    "pages": [
+      "667"
+    ],
+    "publisher": [
+      "Web Services Security"
+    ],
+    "title": [
+      "Now, we retrieve the public key using the signature to be validated: Key objPublicKey = null; KeyInfo objKeyInfo = new KeyInfo (objKeyInfoElement"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Validity objValidity = objSignatureContext.verify (objSignatureElement, objPublicKey"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<samlp:Request MajorVersion=”1” MinorVersion=”0” RequestID=”123.45.678.90.12345678”>"
+    ],
+    "type": null
+  },
+  {
+    "source": [
+      "IssueInstant=”2002-01-14T10:00:23Z”> <saml:Conditions NotBefore=”2002-01-14T10:00:30Z” NotAfter=”2002-01-14T10:15:00Z”/> <saml:AuthenticationStatement AuthenticationMethod=”Password” AuthenticationInstant=”2001-01-14T10:00:20Z”>"
+    ],
+    "title": [
+      "<samlp:Response MajorVersion=”1” MinorVersion=”0” RequestID=”128.14.234.20.90123456” InResponseTo=”123.45.678.90.12345678” StatusCode=”Success”> <saml:Assertion MajorVersion=”1” MinorVersion=”0” AssertionID=”123.45.678.90.12345678” Issuer=”GoodsCompany, Inc"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "String sReference = objArtifact.getAssertionArtifact("
+      }
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "703"
+    ],
+    "publisher": [
+      "Web Services Security"
+    ],
+    "title": [
+      "Listing 13.24 ForwardToBenefitsProvider component—getAssertion() method"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "List attributeList = new HashList(); attributeList.add(attribute); AttributeStatement objAttrStmt = new AttributeStatement (attributeList, objSubject"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "AssertionID,sIssuer, new Data(), objConditions, objStmts);"
+    ],
+    "title": [
+      "Assertion objAssertion = new Assertion"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SOAPMessage objAssertionSOAPMsg = objSOAPConnection.call (objRequestSOAPMessage, objURLEndpoint"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Assertion objAssertion = new Assertion (objSOAPAssertionListElement"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Sun ONE Directory Server The Sun ONE Directory Server (formerly iPlanet Directory Server) offers a central repository for storing and managing identity profiles, access privileges, and application and network resource information. Information stored in the Sun ONE Directory Server can be used to provide services such as authentication, authorization, access management, and single signon to the users"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Apache Axis project"
+    ],
+    "type": null,
+    "url": [
+      "http://xml.apache.org/axis/"
+    ]
+  },
+  {
+    "title": [
+      "Apache SOAP project http://xml.apache.org/soap/ ebXML messaging service www.ebxml.org/specs/ebMS2.pdf specifications W3C SOAP 1.2 adjuncts"
+    ],
+    "type": null,
+    "url": [
+      "www.w3.org/TR/soap12-part2/"
+    ]
+  },
+  {
+    "citation-number": [
+      "W3C"
+    ],
+    "title": [
+      "SOAP 1.2 messaging www.w3.org/TR/soap12-part1/ framework primer W3C SOAP 1.2 primer"
+    ],
+    "type": null,
+    "url": [
+      "www.w3.org/TR/soap12-part0/"
+    ]
+  },
+  {
+    "container-title": [
+      "a paper on using www-106.ibm.com/developerworks WSDL with SOAP /webservices/library/ws-soap/"
+    ],
+    "title": [
+      "WSDL, compilation of http://wsdl.soapware.org/ low-level issues WSDL cover pages http://xml.coverpages.org/wsdl.html WSDL"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "on WSDL issues"
+    ],
+    "title": [
+      "WSDL tools, a compilation http://pocketsoap.com/wsdl/ WSDL W3C note www.w3.org/TR/wsdl Yahoo group for discussion www.oasis-open.org/cover/uddi.html on UDDI issues Yahoo group for discussion"
+    ],
+    "type": null,
+    "url": [
+      "http://groups.yahoo.com/group/wsdl/"
+    ]
+  },
+  {
+    "note": [
+      "Binding (JAXB) home The CASTOR project home"
+    ],
+    "title": [
+      "Java API for XML Processing http://java.sun.com/xml/jaxp/ (JAXP) home Java Architecture for XML"
+    ],
+    "type": null,
+    "url": [
+      "http://java.sun.com/xml/jaxb/",
+      "http://castor.exolab.org/"
+    ]
+  },
+  {
+    "note": [
+      "Language (XSL) home OASIS home www.oasis-open.org/"
+    ],
+    "title": [
+      "Crimson JAXP parser home http://xml.apache.org/crimson/index.html Document Type Definition www.w3.org/TR/html4/sgml/dtd.html (DTD) home Extensible Stylesheet www.w3.org/Style/XSL/"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Xerces2 Java parser home http://xml.apache.org/xerces2-j/index.html XML Industry portal home www.xml.org XML Path Language (XPATH"
+    ],
+    "type": null,
+    "url": [
+      "home www.w3.org/TR/xpath"
+    ]
+  },
+  {
+    "note": [
+      "Sun JAXM/SAAJ tutorial"
+    ],
+    "type": null,
+    "url": [
+      "http://java.sun.com/webservices/docs/1.0"
+    ]
+  },
+  {
+    "note": [
+      "onjava.com /2002/02/27/uddi.html Articles on JAXR at http://www.javaworld.com/javaworld Javaworld.com /jw-06-2002/jw-0614-jaxr.html"
+    ],
+    "title": [
+      "Yahoo group for discussion http://groups.yahoo.com/group on JAXR issues /jaxr-discussion/ An article on JAXR at"
+    ],
+    "type": null,
+    "url": [
+      "http://www.onjava.com/pub/a/onjava",
+      "http://www.javaworld.com/javaworld"
+    ]
+  },
+  {
+    "container-title": [
+      "lead /community/chat/JavaLive/2002/jl0507.html JAXR cover pages http://xml.coverpages.org/jaxr.html Presentation on JAXR"
+    ],
+    "note": [
+      "Further Reading 739"
+    ],
+    "title": [
+      "Java.sun.com chat with http://developer.java.sun.com/developer JAXR spec"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://fr.sun.com/developpeurs/sdc"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alliance",
+        "given": "Liberty"
+      }
+    ],
+    "title": [
+      "official Web site www.projectlibert.org Securing Web services, www.line56.com/articles/default articles on issues .asp?ArticleID=3779 http://zdnet.com.com/2100-1107-867689.html Sun Dot Com builder Web http://dcb.sun.com/practices/webservices/ services best practices Web Services Security forum www.webservices.org/index.php/article at Webservices.org /archive/5/"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Sun ONE architecture guide http://wwws.sun.com/software/sunone/docs /arch/index.html Sun ONE official Web site http://wwws.sun.com/software/sunone/ Index"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "service requestor"
+    ],
+    "pages": [
+      "176–178,",
+      "257"
+    ],
+    "title": [
+      "DAO classes, use of, 180–187 <BulkStatusRequest> element, database creation, 167–173 682 infrastructure, building, 161–165 <BulkStatusResponse> element, service provider, 165–173, 682 175–176, 191–194 <businessDetail> data structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "173",
+      "244, 246, 251"
+    ]
+  },
+  {
+    "note": [
+      "338 provider, 420–424 version, 314, 338 deployment, 425–430 XSLT description, 58, 304–306, 722 description, 300–301, 373–377 interoperability, 450 sample code, 377–383 in J2EE 1.4 platform, 450 Java API for XML Registries (JAXR) java.xml.messaging, 407–408 architecture components, 494–496 java.xml.soap, 409–413 association of registry objects, JAX-RPC compared, 454 508–509 message interaction patterns, 406 capabilities, 497 point-to-point messaging, 431, capability profiles, 497–498 434–438 classes and interfaces, 499 role in Web services, 402–403 classification of registry objects,"
+    ],
+    "title": [
+      "J pluggable interface, 301–302, J2EE architecture, 17–19 338–339 JABBER, 105 reference implementation, 303 Java2WSDL utility, 153, 215–220 SAX Java API for XML Messaging default handler, creating, 346–348 (JAXM) description, 299, 342–343 application architecture, 403–406 features, setting, 346 asynchronous messaging namespaces, setting, 345–346 deployment, 445–448 processing model, 343 ebXML consumer servlet, 443–445 reading and writing XML, 349 ebXML producer servlet, 439–443 sample source code, 350–353 testing, 448–449 SAX parser, 344–349 communication using provider, validation, setting, 346 414–419 threading, 383 communication without a uses for"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "XML",
+        "given": "Java A.P.I.",
+        "particle": "for XML Registries marshalling"
+      }
+    ],
+    "container-title": [
+      "Library (JSTL"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "continued) sample code, 395–399 life cycle management API, services provided, 303 516–521 unmarshalling Java, 394–395 query management API, 522–533 Java Database Connectivity (JDBC), Java API for XML Remote Procedure 59, 497 Calls (JAX-RPC) Java for WSDL (JWSDL), 202 application architecture, 454–456 Java Messaging Service (JMS), 15, client 137, 305 classes, 466 Java RMI (Remote Method Invocadescription, 455 tion), 10–13 Dynamic Invocation Interface Java Server Pages (JSP), 59 (DII), 469–471,",
+      "JAXM compared, 454 execution, 612–615 mapping, 472–475 overview, 563–567 role in Web services, 452–453 publishing and discovery classes, service 572–574 configuring, 459, 463, 478 service provider, designing, definition, 457–458, 476–477 568–572 description, 454–455 service provider, developing, developing from Java classes, 582–593 457–462 service provider, runtime infradeveloping from WSDL docu- structure, 602–609 ment, 463–464 service registry, browsing, implementation, 458–459, 477 592–593 packaging and development, service registry infrastructure, 460–462,",
+      "testing, 482–483 service requestor, designing, stubs and ties, generation of, 460, 575–582 479–480, 483–484 service requestor, developing, Java Architecture for XML Binding 593–602 (JAXB) service requestor, runtime infradata binding generation, 386–392 structure, 610–612 description, 58, 302–304, 383–385 components, 58 Index 749"
+    ],
+    "pages": [
+      "392–394",
+      "599–600",
+      "491 600–602",
+      "480–482 609–610"
+    ],
+    "title": [
+      "488–490 Java Server Pages Standard Tag dynamic proxy-based, 467–469",
+      "486–488 Java Web Services Developer Pack exception, 466 (JWSDP) interfaces, 465 Ant build tool, 311 stub-based, 466–467, 484–486 Apache Tomcat container, 309 description, 58, 306–308 case study example Web service, 307–308 architecture, 567–568 interoperability, 491 discovery of Web services"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58, 309",
+      "1",
+      "464"
+    ]
+  },
+  {
+    "container-title": [
+      "235–244 TLS (Transport Layer Security), 631, get_xx functions"
+    ],
+    "pages": [
+      "244–248"
+    ],
+    "title": [
+      "TemplateGenerator class, implementations, 254–255 663–664 inquiry API functions templates, XSL, 368–369 find_xx functions"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Interface"
+    ],
+    "note": [
+      "WSDD (Web service deployment Web Services Choreography Inter- descriptor) file, 151–152, 158–159, face (WSCI), 31 176"
+    ],
+    "pages": [
+      "34–36"
+    ],
+    "title": [
+      "standards, 28–34, 45–50 White Mesa, 292 strategies, vendor supplied, 37 WSCI (Web Services Choreography vendors of software and tools"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Description",
+        "given": "Web Services Description Language W.S.D.L.See Web Services"
+      }
+    ],
+    "note": [
+      "XACML. See XML Access Control example document, 47–48 Markup Language future of, 221–222 Xalan, 342, 648 independence of, 204 X-BULK, 671, 682–684 information contained in defini- X-KISS. See XML Key Information tion, 202–203 Service Specification instance specific namespace, 208 XKMS. See XML Key Management interoperability and, 273 Specification JAX-RPC service development, X-KRSS. See XML Key Registration"
+    ],
+    "pages": [
+      ", 672 97–98"
+    ],
+    "title": [
+      "Language anatomy of definition document, WSDL.exe utility, 277 205, 208–210 WSDLJava2 utility, 153, 158 Axis support, 152–153 bindings, 211–214 X definition creation, 203 X.509 certificate, 653, 654, 664–665, display on WebLogic home"
+    ],
+    "type": null
+  }
+]

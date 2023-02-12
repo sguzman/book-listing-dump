@@ -1,0 +1,35 @@
+[
+  {
+    "note": [
+      "Button) findViewById(R.id.clear); // in this program DataFromArduino = (EditText)findViewById(R.id.incomingData); outgoingData = (EditText)findViewById(R.id.outgoingData); } // end registerUIobjects"
+    ],
+    "title": [
+      "private void registerUIobjects(){ buttonSend = (Button) findViewById(R.id.sendbutton); // called in for other use, not // implemented ScreenClear ="
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ATS_begin",
+        "given": "ATS_begin"
+      }
+    ],
+    "title": [
+      "My test suite.\"); ATS_begin(\"Adafruit Motor Shield\", \"My motor shield tests.\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "ATS_PrintTestStatus(\"1."
+    ],
+    "note": [
+      ", false);"
+    ],
+    "title": [
+      "Test result is TRUE test\" , true); ATS_PrintTestStatus(\"2. Test result is FALSE test (a false result is expected"
+    ],
+    "type": null
+  }
+]
