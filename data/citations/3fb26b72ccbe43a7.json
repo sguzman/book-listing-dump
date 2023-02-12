@@ -1,0 +1,359 @@
+[
+  {
+    "container-title": [
+      "XSQLDeleteRequestHandler"
+    ],
+    "title": [
+      "<xsql:delete-request> oracle.xml.xsql.actions"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "queryAction = new XSQLQueryHandler(); queryAction.init(req,action);"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      ","
+    ],
+    "title": [
+      "super.init(req,action); queryAction = new XSQLQueryHandler(); queryAction.init(req,action); paramAction = new XSQLSetPageParamHandler("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "queryElem=doc.createElement",
+        "given": "Element"
+      }
+    ],
+    "note": [
+      "queryElem.appendChild(queryStr); queryAction=new XSQLQueryHandler(); queryAction.init(pageRequest,queryElem);"
+    ],
+    "title": [
+      "Text queryStr=doc.createTextNode(“SELECT name FROM product”"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "<xsql:action handler=”NoXsqlQuery” xmlns:xsql=”urn:oracle-xsql” connection=”momnpup”/>"
+    ]
+  },
+  {
+    "title": [
+      "import oracle.xml.xsql.XSQLActionHandlerImpl; import oracle.xml.xsql.XSQLActionHandler; import oracle.xml.xsql.XSQLPageRequest"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "super.init(req,action); conn=req.getJDBCConnection();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Document doc=result.getOwnerDocument(); Element resultRoot=doc.createElement(“result-root”); if (conn!=null) { try { String sqlStr=”SELECT name FROM product”; Statement sql=conn.createStatement(); ResultSet resultSet=sql.executeQuery(sqlStr);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "doc=result.getOwnerDocument",
+        "given": "XMLDocument"
+      },
+      {
+        "family": "resultRoot=doc.createElement",
+        "given": "Element"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<xsql:action handler=”XmlTypeHandler” root-name=”product-set”> SELECT name, p.doc.extract(‘{@xPath-exp}’).getStringVal() AS product_xml FROM product p WHERE p.id={@product_id} </xsql:action>"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "String resultRootName=getAttributeAllowingParam(“root-name”,actionElem); resultRootName=(resultRootName==null || resultRootName.length()==0? “xml-doc-set”:resultRootName); You can get the same behavior by using XSQLUtil.resolveParams(). This is useful if you want to know what the original value of the attribute is without parsing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "rootNameStr=getAttribute",
+        "given": "String"
+      }
+    ],
+    "title": [
+      "String rootNameVal=XSQLUtil.resolveParams(rootNameStr, pageRequest); rootNameVal=(rootNameVal==null || rootNameVal.length()==0? “xml-doc-set”:rootNameVal"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This method works only if you want the immediate child text of an element. What if the action handler has children and you want to access their text? Then you can use the XSQLUtil.resolveParams() method after grabbing the text"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "actionElem=getActionElement",
+        "given": "XMLElement"
+      }
+    ],
+    "title": [
+      "String s=actionElem.valueOf(“child”); String s=XSQLUtil.resolveParams(s, getPageRequest("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "attribs=newElem.getAttributes",
+        "given": "NamedNodeMap"
+      },
+      {
+        "given": "for"
+      }
+    ],
+    "date": [
+      "int i=0;i<attribs.getLength();i++"
+    ],
+    "note": [
+      " Node attrib=attribs.item(i); String valStr=attrib.getNodeValue(); valStr=XSQLUtil.resolveParams(valStr,pageRequest); attrib.setNodeValue(valStr);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "In the Java code, you clone the action element first, then the resolveElement-Params"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import oracle.xml.xsql.XSQLActionHandlerImpl; import oracle.xml.xsql.XSQLServletPageRequest; import oracle.xml.xsql.XSQLPageRequest; import org.w3c.dom.Node; import org.w3c.dom.Element"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (getPageRequest().getRequestType().equals(“Servlet”)) { XSQLServletPageRequest servletPR; servletPR=(XSQLServletPageRequest)getPageRequest(); HttpServletRequest req=servletPR.getHttpServletRequest();"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import oracle.xml.xsql.XSQLActionHandlerImpl; import oracle.xml.xsql.XSQLServletPageRequest; import oracle.xml.xsql.XSQLPageRequest; import org.w3c.dom.Node; import org.w3c.dom.Element"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (getPageRequest().getRequestType().equals(“Servlet”)) { XSQLServletPageRequest servletPR="
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "XSQLServletPageRequest)getPageRequest(); HttpServletRequest req=servletPR.getHttpServletRequest(); String varName=getAttributeAllowingParam(“var-name”,actionElement); String paramName=getAttributeAllowingParam(“param”,actionElement);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "XSQLPageRequest pageRequest=getPageRequest(); pageRequest.setStylesheetParameter(“parameterName”,”parameterValue”);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<?xml version=”1.0”?> <?xml-stylesheet serializer=”java:SimpleTextSerializer”?> <page xmlns:xsql=”urn:oracle-xsql"
+    ],
+    "type": null,
+    "url": [
+      "connection=”demo”> <xsql:query>"
+    ]
+  },
+  {
+    "title": [
+      "import oracle.xml.xsql.XSQLPageRequest; import oracle.xml.xsql.XSQLDocumentSerializer"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "import org.w3c.dom.Document;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "rawOut=env.getOutputStream",
+        "given": "OutputStream"
+      }
+    ],
+    "title": [
+      "BufferedOutputStream out=new BufferedOutputStream(rawOut"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "docElem=doc.getDocumentElement",
+        "given": "XMLElement"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "rawOut=env.getOutputStream",
+        "given": "OutputStream"
+      }
+    ],
+    "title": [
+      "BufferedOutputStream out=new BufferedOutputStream(rawOut"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "http://www.w3.org/1999/XSL/Transform"
+    ]
+  },
+  {
+    "title": [
+      "import oracle.xml.xsql.XSQLPageRequest; import oracle.xml.xsql.XSQLDocumentSerializer; import oracle.xml.parser.v2.XMLElement"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import oracle.jdbc.driver.OracleResultSet; import oracle.sql.BLOB; Serializers 535"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Statement stmt = conn.createStatement (); ResultSet rset = stmt.executeQuery (cmd"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<?xml version = ‘1.0’?> <xsl:stylesheet xmlns:xsl=”http://www.w3.org/1999/XSL/Transform"
+    ],
+    "type": null,
+    "url": [
+      "version=”1.0”> <xsl:output method=”xml”/>"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "rootElem=doc.getDocumentElement",
+        "given": "XMLElement"
+      }
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "int startX=20; int startY=20;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Node colorNode=bar.selectSingleNode(“./barcolor”); Color barColor=getColor((XMLElement)colorNode);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Write the title g.setPaint(textColor); g.drawString(title,x,y+height"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "widthStr=elem.valueOf",
+        "given": "String"
+      },
+      {
+        "family": "Integer.parseInt",
+        "particle": "return"
+      }
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "int red=Integer.parseInt(redStr); int green=Integer.parseInt(greenStr); int blue=Integer.parseInt(blueStr);"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "0”>"
+    ],
+    "title": [
+      "<?xml version=”1.0”?> <xsl:stylesheet xmlns:xsl=”http://www.w3.org/1999/XSL/Transform"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "inserting text with"
+    ],
+    "note": [
+      "XSQLActionhandler object, 505 integration, 397–415, 435–437 XSQL command-line utility iteration and, 304–307 creating static Web pages with, 448–449"
+    ],
+    "pages": [
+      "353–356 494",
+      "320–327"
+    ],
+    "title": [
+      "XSLT (XSL Transformations) xsl:when element, 309–311 canonical form and, 77 xsl:with-param element, 336–339 conditional logic and, 307–314 xsql:action action, 89, 480, 483, 485, creating entities and, 314–319 496 creating static pages and, 448–449 XSQLActionHandlerImpl class, 487–491 described, 7, 273–277 XSQLActionHandler interface, 485–487, functions specific to"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "314"
+    ]
+  },
+  {
+    "note": [
+      "xsql:set-cookie action and, 87–88 described, 65 xsql:set-session-param action and, Web application development and, 86–87 397–401 See also JSP (Java Servlet Pages); servlet XSQLProcessor object, 472 engine xsql:query action xsql:set-cookie action, 87–88, 108, 418 action handlers and, 376, 494, 496, xsql:set-page-param action, 85–86, 502–503, 505 104 application architecture and, 464 xsql:set-session-param action, attributes and, 72, 75–76 86–87 basic queries with, 69–72 xsql:set-stylesheet-param action,"
+    ],
+    "pages": [
+      "397–401"
+    ],
+    "title": [
+      "XSQL page processor development of, 484–485 actions and, 84, 480 file extensions and, 31, 32 described, 60–63 functionality of, 492–493 high-level architecture and, 53–54, 56, high-level architecture and, 53–54 60–63 installation and, 28 XML returned by, 8–9 integration of, 30–32 XSQLPageRequest class, 471, 474, posted XML and, 124 491–492, 501, 506 security issues related to, 46 XSQL pages using XSQL within, 474–475 canonical schema and, 77–80 Web application development and, 377 creating your first"
+    ],
+    "type": null,
+    "volume": [
+      "38–39"
+    ]
+  }
+]
