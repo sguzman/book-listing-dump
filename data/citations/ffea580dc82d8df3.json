@@ -1,0 +1,353 @@
+[
+  {
+    "container-title": [
+      "MDX Scripting in Analysis Services 2005"
+    ],
+    "pages": [
+      "399"
+    ],
+    "title": [
+      "you can see from the results in Table 13-38 that the values for January 2005 are indeed the same as those for February 2005"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.O.P.E."
+      }
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "genre": [
+      "THIS = [Period].[Month].[February 2005];"
+    ],
+    "publisher": [
+      "END SCOPE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "CALCULATE",
+        "given": "S.C.O.P.E."
+      }
+    ],
+    "container-title": [
+      "THIS = [Period].[Month].[February 2005]; FREEZE(THIS); END SCOPE"
+    ],
+    "date": [
+      "2005-01"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "FREEZE",
+        "given": "C.A.L.C.U.L.A.T.E."
+      }
+    ],
+    "note": [
+      "All, North) is now NULL. MDX Scripting in Analysis Services 2005 401"
+    ],
+    "title": [
+      "Rerunning the query once more returns the results shown in Table 13-41, and sure enough"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Date].[Calendar].[Date].members, [Measures].[ConvertedAmount]); This = [Measures].[Internet Sales Amount]* [Measures].[End of Day Rate]; End Scope;"
+    ],
+    "title": [
+      "SCOPE ([Source Currency].[Source Currency].[Source Currency].members"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SCOPE ([Source Currency].[Source Currency].[Source Currency].members, [Date].[Calendar].[Date].members, [Measures].[ConvertedAmount]); This = [Measures].[Internet Sales Amount]* [Measures].[End of Day Rate]; NON_EMPTY_BEHAVIOR(this) = { [Measures].[Internet Sales Amount]}; End Scope;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "IN operator connections, 280–281 BACK_COLOR() statement, subcube"
+    ],
+    "pages": [
+      "244–247 351"
+    ],
+    "title": [
+      "calculations, 275–276 BACK_COLOR property, cell calculations, dimension element"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also MDX Scripts calculated members, 38–39, 341–345 Analysis Services 2000 support, 365 cell calculation mechanism, 346–351"
+    ],
+    "title": [
+      "cache CalculationPassValue function, ADOMD.NET metadata, 449 equation solving, 357–358, 549 MOLAP (multi-dimensional OLAP), calculations 240 aggregation mixing, 82–83 Proactive caching, 240 aggregation-related, 497–498 CALCULATE command, 336–337, 549 attributes, 275–276 Calculate() function, MDX averages, 71–74 expression evaluation, 291 backward forward time sums, 216–219 CALCULATE statement, MDX Scripts, balance carryover, 84–88 366–368 boundary conditions, 92–95 calculated cells"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also members database design, 482–483 calculation mechanism, 341–345 date arithmetic, 183–186 CREATE MEMBER command, 45–47 dates, 183–186 CREATE MEMBER statement, 341, division by zero, 69–70, 95 342–345 equation solving, 356–358 DDL (data definition language) 52-week high/low, 79–81 form, 37 financial modeling, 356–358 definitions, 342–345 flow-type, 495–497 dimensional calculations, 38–39 formula solve order, 358–360"
+    ],
+    "title": [
+      "Analysis Services 2005 support, 365 cell calculations, 353–358 pass order, 376 cell ordinal, 460–461 versus MDX Scripts, 365 cell property precedence, 143–146 calculated measures custom member formula, 339–341 proportional allocations, 408–409 custom member formulas on multiple unweighted allocations, 409 dimensions, 352 calculated members"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "calculations (continued) query-specific, 346 NonEmpty() function, 490–491 SOLVE_ORDER property,",
+      "338–339 property queries, 33 same-period-last year references, 76 CELL PROPERTIES statement, flattened share-of-parent, 67 result sets, 467–468 share-to-parent, 93–94 cells solve order, 358–360 ADOMD.NET data retrieval, 460–462 target member time range selections, 81 calculated data types, 144–146"
+    ],
+    "title": [
+      "347 NULL operator handling, 139–140 cell formatting, display precedence, percent contribution, 65–70 143–144 percentage-of-total contributions, Cell object, retrieved cell property 191–196 storage, 455–457 period-to-period references, 75–76 cell ordinal, cell data retrieval method, proportional allocations, 70–71 460–461 query error handling, 136 cell properties, 668–673 rolling averages, 79–81 CELL PROPERTIES keyword, cell rollup by unary operator"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "COM (Component Object Model), 10–11, 551 Analysis Services 2005 support, 283 classes COM DLL, stored procedures, 286, AdomdConnection, 444 305–306 AdomdRestrictionCollection, 445 COM stored procedures AdomdDataReader, 466–470 array value passing, 307–311"
+    ],
+    "title": [
+      "ChildCount flag, member information query dimension specifications, 3 retrieval, 460 tuples query display, 18–19 .Children function, member returns"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Services"
+    ],
+    "note": [
+      "351 CreateCommand method, connection parameters, 637–659 ADOMD.NET, 450–451 connection string (“*”), AMO.NET CreateCube property, 521 management, 297 CrossJoin() function connection strings, ADOMD.NET, and autoexists, 116 443–444 cross-joined sets, 476–477 Connection.CommitTrans method, set combination, 23–25, 555 data updates, 330 cross-joined sets context filter operation optimization methods, looping queries, 114–116 475–477 named sets, 149–150 sum operation optimization methods, query execution element,"
+    ],
+    "pages": [
+      "119–128",
+      "101 474–475"
+    ],
+    "title": [
+      "action restrictions, 428–429 COMMENTS property, Essbase, 31 axis 0 result rowset, 467 comparisons, NULL operator handling, calculated member definitions, 139–140 187–190 complex cubes, multiple attribute drill-through query returns, 414–415 hierarchies, 379–386 non empty resolution, 110–111 Component Object Model (COM), non-axis 0 result rowsets, 468–470 Analysis Services 2005, 283 conditional assignments, MDX Scripts, CREATE SET statement, 150 404–405 CREATE SUBCUBE statement, Analysis conditional formatting, cell calculations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2005"
+    ]
+  },
+  {
+    "citation-number": [
+      "515–516"
+    ],
+    "note": [
+      "DrillDownLevelBottom() function, leaves, 382 number ranking, 169–170, 565 levels, 247–248,",
+      "566 263, 388–389 DrillDownMember() function, measure group relationships, 260–264 parent/children arrangements, member alterations, 324–325 181, 567 member definition update, 327–328 DrillDownMemberBottom() member properties, 508–510 function, number ranking, member refresh, 328 169–170, 569"
+    ],
+    "pages": [
+      "169–170,"
+    ],
+    "title": [
+      "505–508 DrillDownLevelTop() functions, many-to-many relationship"
+    ],
+    "type": null,
+    "volume": [
+      "number ranking"
+    ]
+  },
+  {
+    "note": [
+      "cube element, 266 relationships, 249, 260–264 DrillThrough action, 413–415 role-playing, 264 DRILLTHROUGH statement, 417–418 root definition, 382 partitions, 415 security verification, 268–270 recordset data retrieval, 462–463 snowflake schema support, 242–243 rowset returns, 415–417 star schema support, 242–243 security, 418 time analysis, 227–228 DrillThroughFilter property, Time dimension, 255–256 Analysis Services 2005 nonsupport, writebacks, 325–328 413"
+    ],
+    "pages": [
+      "413 262–263"
+    ],
+    "title": [
+      ".Members operator issues, 11 DrillDownMemberTop() function, moving members within, 326 number ranking, 169–170, 569 multilevel hierarchies, 245 DrilledDown flag, member multiple layer sorts, 202–207 information retrieval, 460 named hierarchies, 505 DrillThrough action, Analysis natural versus unnatural hierarchies, Services 2005, 413–415 247–248 DRILLTHROUGH statement nested sorts, 203–207 MDX execution, 417–418 new member creation, 325–326 recordset data retrieval, 462 parent-child hierarchy, 253–255, 516 drill-through query methods, 249–251 AllowDrillthrough flag query specifications, 3 deprecation, 413 reference, 390 Analysis Services 2005 enhancements, reference dimension relationship"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Services 2005 nonsupport",
+      "Analysis measures"
+    ],
+    "pages": [
+      "564",
+      "413"
+    ],
+    "title": [
+      "DistinctCount function, nonadditive DrillThroughForm property"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "390"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Expression",
+        "given": "A.D.O.M.D.Server objects"
+      }
+    ],
+    "note": [
+      "See stored procedures date values, 679–681 ExternalAccess permission, stored numeric values, 675–678 procedures, 317 string values, 682–684 formula precedence (solve order), F calculated members, 42–48 fact data, described, 256 formulas fact dimensions, MDX Scripts, 390 calculated member solve order, 42–48 fact tables, cube element, 256–257 custom member, 339–341 Filter() function local cube, 522–524 axes resolution, 104–106, 111–114, 575 solve order determination, 358–360 cross-joined sets, 475–477 FREEZE() statement, subcube multiple dimensions, 218 assignments, 400–401 named sets, 151–152 FROM clause, SELECT statement set aliases, 153–154 inclusion, 128–131 set reductions, 25–27 FROM keyword, MDX queries, 3–4 financial modeling, cell calculations, function index, 531–538"
+    ],
+    "title": [
+      "FORE_COLOR() statement, subcube 291 property value assignments, 402 expressions. See also MDX expressions foreign language translation storage, data-driven security, 303 UDM element, 242 dimension data restrictions, 267–268 FORMAT_STRING property, currency MDX Scripts assignments, 398–402 formats, 343 ExpressionSample() function, FORMAT_STRING() statement, 402 expression evaluation, 291, 575 formatting external functions"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2005"
+    ],
+    "note": [
+      "CELL PROPERTIES, 37–38 semi-additive measures, 390 FROM, 3–4 LastPeriods() function MDX queries, 3–4 moving aggregate calculations, 79–81, NON EMPTY, 15–16 85–86, 590 ON, 3 target member time range selections, 81 SELECT, 3–4 .Lead(), moving aggregate SESSION, 344 calculations, 79, 590 SQL (Structured Query Language) leaf-level calculations concerns, 4 avoiding, 485–487 THIS(), 398 optimization methods, 487–491 WHERE, 3–4 leaves, Analysis Services 2005, 382 WITH, 39–42 Leaves() function Kpi class, ADOMD.NET, 438–439 dimension leaves, 382, 590 KPIs (key performance indicators) leaf-level granularities, 125 ADOMD.NET processes, 463–464, 587 unweighted allocations, 410"
+    ],
+    "pages": [
+      "589"
+    ],
+    "title": [
+      "key performance indicators (KPIs) LANGUAGE() statement, subcube (continued) property value assignments, 402–404 metadata types, 432–433 last entered balance, calculation properties, 434 methods, 88–89 rowset schema, 437–438 last pass wins rule, MDX Scripts, 373 security risks, 437 .LastChild function, balance UDM element, 242 carryover calculations, 87–88, 588 uses, 432–433 LastChild() function, semi-additive KEY() function, drill-through queries, measures, 390 415 LastNonEmpty() function keywords Analysis Services"
+    ],
+    "type": null,
+    "volume": [
+      "84"
+    ]
+  },
+  {
+    "container-title": [
+      "Essbase"
+    ],
+    "title": [
+      "Analysis Services 2005 framework, LEVEL_NUMBER property"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "note": [
+      "379–386 non-case sensitive, 6 named set assignments, 377–379"
+    ],
+    "title": [
+      "dot (.) characters, 3 leaf-level optimization methods, Hyperion Solutions support, 441–442 487–491 invoking stored procedures, 319–320 many-to-many dimensions, 388–389 metadata referencing functions, 64–65 multiple attribute hierarchies"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "MultiDimensional eXpressions (MDX) names (continued) axes framework, 5–6 tuples, 17–19 capitalization issues, 6 UDM (Unified Dimensional Model), nested dimensions, sorts, 203–207 240–242 .NET Assemblies, Analysis Services 2005 XML for Analysis support, 441 support, 286 multidimensional members, tuples, .NET CLR (common language run-time) 17–19 Analysis Services 2005 support, 283 multi-dimensional OLAP (MOLAP) stored procedure requirements, 286 cache .NET stored procedures. See also stored Analysis Services 2005, 240 procedures CREATE CUBE statement, 513–514 data types, 288"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "double pipe (||), 541 137–139 IN, 280–281 NULL value, stored procedures, 300–302 MISSING, 139–140 numbers NULL, 137–140 axes framework, 5–6 rollup, 338–339 COM stored procedure returns, statistical, 49–55 306–307 string concatenation, 541 ranking, 165–169 summary statistical, 49–55 numeric values, formatting, 675–678 unary, 338–339 numerical codes, actions, 429–430 value, 538–539"
+    ],
+    "title": [
+      "NonEmptyCrossJoin() function OpeningPeriod() function, time/ Analysis Services, 113–114, 600 non-time calculations, 83, 601 Analysis Services 2000, 74 operator reference, 542–635 cross-joined sets, 476 operators. See also functions member events, 215 .Members, 9 nonleaf members, parent/child attribute arithmetic, 48 hierarchies, 388 basic, 538–541 NULL member colon (:) character, 7–9, 140–142 Analysis Services, 18 comma (,) character, 7–9 division by zero, 69–70 current cell referencing, 107 NULL operator, Analysis Services"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "parent/child attribute hierarchies, MDX precedence order, calculated members, Scripts, 387–388 42–48 parent-child dimensions, INSERT INTO .PrevMember function, period-tostatement, 515–516 period references, 75–76, 609 parent-child hierarchy PrevMember() function, moving Analysis Services 2005, 253–255 aggregate calculations, 79, 609 security application, 270–271 Proactive caching, Analysis Services"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "66–67 , 219"
+    ],
+    "title": [
+      ".Parent function 2005, 240 metadata referencing, 65 Product() function, multiplication percent contribution calculations"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "rolling averages, moving aggregate recursion, infinite, 131–132 calculations, 79–81 reference dimensions, MDX Scripts, 390 rollup by unary operator, calculation REFRESH CUBE statement, cell data mechanism, 338–339 refreshing, 328 rollup operators"
+    ],
+    "pages": [
+      "267–268 462–463"
+    ],
+    "title": [
+      "queries (continued) parent-child hierarchy, 253–255 zero axes, 22 reference dimension, 262–263 zero-dimensional, 101–102 report models, UDM element, 242 query scope, calculated members, 39 reports, percentage contributions, quote (‘) character, Analysis Services 190–200 2005 support, 41 results, display query, 4 Return statement, drill-through R queries, 414–415 range size, calculations, 93 return values, .NET stored procedures, Rank() function 287–288 current tuple range return, 208 ReturnCellProperties property, ranking numbers, 165–169 flattened result sets, 467–468 tie numbering, 225–226 rich analytics, UDM element, 242 ratios rich metadata, UDM element, 240 calculated member definitions, 187–190 ROLAP, CREATE CUBE statement, percent contribution calculations, 65–70 513–514 proportional allocations, 70–71 role-playing dimensions, uses, 264 RDBMS connections, action statements, Roles editor 423–424 cell security application, 270 real-time data access, UDM element, 240 dimension data restriction expressions, recordsets, drill-through data retrieval"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "scope SESSION keyword, OLE DB session action targets, 429 validation, 344 calculated members, 39–48 session queries MDX Script calculations, 484–485 Analysis Services 2005 solve order, named sets, 58–60, 149–150 132–134 versus IIF() statement, 492–494 calculation definitions, 146–148 scripts. See MDX Scripts session scope, calculated members, 39 security sessions, default member alterations,"
+    ],
+    "pages": [
+      "492–494 473–480"
+    ],
+    "title": [
+      "same-period-last year references, semicolon (;) character, MDX Scripts calculations, 76 requirement, 366 schema, rowset retrieval, 445–446 server cubes, local cube creation, 521–522 schemas, cube element, 256 servers SCOPE statement, subcube definitions, CREATE MEMBER command, 44–47 395–397, 615 named set substitution variables, 59 Scope function, versus IIF() set operation optimization method, statement"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Stdev(), summary statistical operator, StrToSet() function, COM stored 54, 617 procedure support, 313–314, 616 StdevP(), summary statistical StrToTuple() function, 619 operator, 54, 617 COM stored procedure support, stored procedures. See also .NET stored 313–314 procedures MDX Script,",
+      "FREEZE() statement, 400–401 invoking, 319–320 iterative queries, 127–128 loading methods, 316–318 MDX Scripts, 368–371 MDX interaction, 285–288 query-specific uses, 125 name resolution, 318–319 report-based totals-to-parent, 199–200 .NET CLR assembly requirements, 286 restrictions, 123–125 NULL procedure as output parameter, SCOPE statements, 395–397 301 session-specific uses, 125 NULL value as input parameter, 300–301 THIS() function, 395–397 PartialSet(), 289–290 tuple specifications, 125–126 PartialSum(), 307–311 tuple-based restrictions, 126 permission levels, 317–318 subsets, concatenation, 9 server side execution, 316 substitution variables, Essbase static versus nonstatic functions, support, 59 297–306 subtrees, Union() function, 181–182 time span until sum example, 315–316 Sum() function USE LIBRARY statement, 316 Analysis Services, 82–83 uses, 316–320 context looping, 114–115 Storeproc() function, 495 cross-joined sets, 474–475 string codes, formatting, 675–684 year-to-date aggregation calculations, string concatenation, operators, 541 76–78 string values, formatting, 682–684 Sum(), summary statistical operator, strings, COM stored procedure returns, 52, 620 306–307 summation operations, optimization strong hierarchies, Analysis Services methods, 480–482 2005, 116–117 sums, backward/forward time STRTOMEMBER() function, 495 calculations, 216–219 714 Index"
+    ],
+    "pages": [
+      "402 301–302"
+    ],
+    "title": [
+      "495 ActiveX Automation requirements, 286 StrToValue() function, Analysis ADOMD Server objects, 289–295 Services, 222, 619 AMO.NET management, 295–297 Structured Query Language (SQL), Analysis Services 2005 supported MDX keyword concerns, 4 libraries, 283–285 subcubes assembly collections, 316 attribute relations, 123–125 Call statement, 296, 320 cell property value assignments, calling, 318–319 402–404 COM DLL, 286, 305–306 creating in Analysis Services 2005, data-driven security, 303 119–128 debugging .NET stored procedures, 299 data values, 127 dynamic security uses, 303–305 END SCOPE statement, 395–397 exception errors during execution, error value assignments"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "keyword",
+        "given": "T.H.I.S."
+      },
+      {
+        "family": "Scripts",
+        "given": "M.D.X."
+      }
+    ],
+    "pages": [
+      "172–173"
+    ],
+    "title": [
+      "398, 620 percent retrieval, 174–175 time dimensions root dimension, 382 Analysis Services 2005, 255–256 set operation conversion, 182–183 calculations, 82–83 sort functions, 161–162 role-playing dimensions, 264 subcube specifications, 125–126 Time Intelligence Wizard thresholds"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "162–165"
+    ],
+    "title": [
+      "Analysis Services 2005, 408 tied rank set inclusion, 225–226 MDX Scripts, 405–408 TopCount() function"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "625 dimension analysis, 227–228 UDAs (user-defined attributes) time-series, calculation methods, 74–81 base dimension member selections, TopCount() function 276–280 optimization methods, 477, 621 calculation uses, 275–276 sorting/ranking tuples, 162–165 IsUDA() function, 276 top-selling product returns, 211–212 retrieval query, 274–275 Top-N selections, 162–171 versus attributes, 273–274 TopPct() function, set operations, UDFs (user-defined functions), Analysis 477, 622 Services 2000, 283 TopPercent() function, percent UDM (Unified Dimensional Model), retrieval, 174, 622 elements, 240–242"
+    ],
+    "pages": [
+      "216–219 279–280,"
+    ],
+    "title": [
+      "time intelligence, Analysis Services 2005, TupleToStr() function, COM stored 227 procedure support, 312, 625 time ranges, target member selections, 81 TYPED flag, Analysis Services 2005, 184 time-based references, calculation methods, 74–81 U times UDA() function, member selections, backward/forward sums"
+    ],
+    "type": null
+  }
+]
