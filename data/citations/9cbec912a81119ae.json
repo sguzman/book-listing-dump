@@ -1,0 +1,322 @@
+[
+  {
+    "author": [
+      {
+        "literal": "Selected Readings • Booch, Grady."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Analysis and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "The examples are in C++."
+    ],
+    "title": [
+      "This book presents the concepts behind object-oriented programming (OOP), discusses OOP methods, and presents sample applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "Grady"
+      },
+      {
+        "family": "Rumbaugh",
+        "given": "Jim"
+      },
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Unified Modeling Language User Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "This book by the creators of the Unified Modeling Language (UML) presents the core of UML along with many examples of its use"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cline",
+        "given": "Marshall"
+      },
+      {
+        "family": "Lomow",
+        "given": "Greg"
+      },
+      {
+        "family": "FAQs",
+        "given": "Mike Girou C.++"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "This book addresses a great number of frequently asked questions about the C++ language"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Software Engineering: A Use Case Driven Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "This book describes successful guidelines and methods (Object-Oriented Software Engineering [OOSE]) for developing large-scale software systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "Nicolai M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Standard Library: A Tutorial and Reference"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "This book describes the Standard Template Library (STL)as well as other C++ library features, such as complex number support, locales, and input/output streams"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Design and Evolution of C++"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "If you’re interested in learning how C++ evolved and why it is the way it is, read this book"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vandevoorde",
+        "given": "David"
+      },
+      {
+        "family": "Jpsittos",
+        "given": "Nocolai M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Templates: The Complete Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "A lot can be said about templates, as this detailed reference demonstrates"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Listing 14.18 generates four templates: ArrayTP<int, 10>, ArrayTP<double, 10>, ArrayTP<int,5>, and Array< ArrayTP<int,5>, 10>"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "ANSI), 18, 952 arith.cpp, 95 American Standard Code for Information Interchange (ASCII) arithmetic operators, 95-96 character set, 1051-1056 associativity, 96-97 ampersand (&), 1067 division, 97-98 logical AND operator (&&), 239 functor equivalents, 927-928 alternative representations, 247 modulus, 99-100 example, 240-242 order of precedence, 96-97 precedence, 246-247 overloading ranges, 242-244 addition operator, 506-510 reference operator (&), 341-344 multiplication operator, 512-515, 536 AND operators subtraction operator, 512-515 bitwise AND (&), 1067 vector class, 535-536 logical AND (&&), 239 pointers, 156-161 alternative representations, 247 array notation, 161 example, 240-242 ArrayDb class, 706 precedence, 246-247 arraynew.cpp, 155"
+    ],
+    "title": [
+      "allocating memory multiple bad_alloc exceptions, 827-829 n_chars() example, 288-290 dynamic memory allocation probability() example, 291-292 auto_ptr class, 873-877 parameters, 287 derived class does use new, 679-680 passing by reference, 344-347 derived class doesn’t use new, 677-678 passing by value, 286-287 example, 681-685 reference arguments, 349-351, 361-362 new operator, 150-152 two-dimensional arrays, 308-309 alternative tokens, 1048 type conversions, 103 American National Standards Institute"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Sales parameters, 768-770 sales.cpp, 831-832 partial specializations, 764-765 sales.h, 829-830 stacks of pointers, 750-756 use_sales.cpp, 832-834 versatility, 758-762 sample program, 458-461 Tv, 788-795 singleton design pattern, 669-670 tv.cpp, 790-791 Stack, 744-756 tv.h, 789-790 static class members, 562-571 tvfm.h, 794-795 stdexcept exception classes, 825-827 use_tv.cpp, 791-792"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "317-320 limitations, 574-575 to standard C++ shallow copying, 573 autoptr template, 1138 when to use, 572-573 C++ features, 1137 declaring, 464-465 const instead of #define, 1133-1135 default constructors, 466-467, 571-572, 686 function prototypes, 1136 defining, 464-465 header files, 1137 inheritance, 638-640 inline instead of #define, 1135-1136 new operator, 590-593, 607 namespaces, 1137-1138 string class, 1078 STL (Standard Template Library), 1139-1140"
+    ],
+    "title": [
+      "reference variables, 354-355 continue statement, 256-259 temporary variables, 349-351 conversion constructors, 688-689 file modes, 1011-1013 convert.cpp, 58-59 floating-point constants, 93 converting representing bit values, 974 data types, 100, 541-547, 606 size_type, 1076 applying automatically, 551-552 symbolic constants, 71-72 conversion functions, 547-551 symbolic names, 88-89 conversion in arguments, 103 constcast.cpp, 850-851 conversion in expressions, 102-103 constructors, 463-464, 665, 687 conversion on assignment, 100-102 calling, 465-466 friends, 553-555 conversion, 688-689 implicit conversion, 544 copy constructors, 686-687 type casts, 103-105, 542-547 deep copying, 575-577 rectangular coordinates to polar coordinates"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "friend keyword, 516-517 defining,",
+      "593-596 arguments, 33, 51, 54-55 non-const objects, 594 arrays, 295-297 overloading, 216, 365-367, 502 multiple, 288-292 example, 367-369 passing by value, 286-287 function signatures, 365 two-dimensional arrays, 308-309 name decoration, 370 arrays, 293-294 overload resolution, 382-388 as arguments, 295-297 when to use, 370 const keyword, 299-300 pointers, 327-328 design decisions, 297-298 addresses of functions, obtaining, 328 displaying contents of, 299-300 const keyword, 305-308"
+    ],
+    "pages": [
+      "280–283",
+      "771–772"
+    ],
+    "title": [
+      "formatted input, 983 front insert iterators, 903-905 friend functions, 515-517 front() function, 1099 creating, 516-517 fun_ptr.cpp, 330 type conversion, 553-555 funadap.cpp, 929-930 headers, 32-34 function objects. See functors inline functions, 337-340 functional polymorphism, 502 library functions, 53 functions, 20, 31, 50. See also names of specific functions linkage, 418-419 adaptable binary, 929-930 non-member functions, 885-889 adaptable unary, 929-930 objects, returning, 593-595 algorithms, 930-933 const objects"
+    ],
+    "type": null,
+    "volume": [
+      "32",
+      "frnd2tmp.cpp"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "I/O",
+        "particle": "file"
+      }
+    ],
+    "date": [
+      "1003"
+    ],
+    "note": [
+      "679-680 formatted, 983 derived class doesn’t use new, 677-678 unformatted, 991 example, 681-685 redirecting, 957-958 exceptions, 829-834 streams, 952-957 sales.cpp, 831-832 strings, 1093-1094 sales.h, 829-830"
+    ],
+    "title": [
+      "constructors, 638-640 checking stream states, 1007-1008 derived classes command-line processing, 1008-1009 creating, 636-638 file modes, 1011-1018, 1021 header files, 641 opening multiple files, 1008 function definitions, 641-642 random access, 1021-1029 objects, creating, 642-643 reading, 1005-1007 relationships with base classes, 643-645 writing, 1004-1007 dynamic memory allocation input functions derived class does use new"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "IDEs (integrated development environments), 20 use_sales.cpp,",
+      "bug prevention, 237 base-class functions, 695 example, 232-233 Brass class declaration, 648-651 syntax, 232 Brass class implementation, 651-656 if.cpp, 232 Brass class objects, 656-657 ifelse.cpp, 234 BrassPlus class declaration, 648-651 ifelseif.cpp, 236 BrassPlus class implementation, 651-656 ifstream objects, 1005-1008 BrassPlus class objects, 656-657"
+    ],
+    "pages": [
+      "739–740"
+    ],
+    "title": [
+      "832-834 if else statement has-a relationships, 645 example, 234-235 is-a relationships, 645-646, 691 formatting, 235-236 multiple inheritance, 713, 723-724 if else if else construction, 236-237 virtual base classes, 730-743 syntax, 233 Worker class example, 724-729 if statement, 231 polymorphic public inheritance"
+    ],
+    "type": null,
+    "volume": [
+      "647-648, 721"
+    ]
+  },
+  {
+    "note": [
+      "declaration, 648-651 private keyword, 451-453, 713 implementation, 651-656 private member functions, 452-453 objects, 656-657 probability() function, 291-292 BrassPlus class problem domains, 1032 declaration, 648-651 procedural languages, 13 implementation, 651-656 procedural programming, 446-447 objects, 656-657 procedures. See functions constructors, 665 programs. See applications dynamic binding, 660-663 properties pointer compatibility, 660-662 algorithms, 932-933 reference type compatibility, 660-662 class member functions, 695-696"
+    ],
+    "pages": [
+      "718–720"
+    ],
+    "title": [
+      "polar coordinates, 316-317 base-class friends, accessing, 716-718 converting rectangular coordinates to, 317-320 base-class functions, accessing, 715-716 polymorphic public inheritance, 647-648 base-class objects, accessing, 716 base-class functions, 695 compared to containment, 720-721 Brass class Student class example"
+    ],
+    "type": null,
+    "volume": [
+      "713"
+    ]
+  },
+  {
+    "note": [
+      "317-320 templates, 913-914 recur.cpp, 325 queue containers, 913-914 recurs() function, 324-326 queue simulation, 607-608 recursion bank.cpp simulation, 621-626 multiple recursive calls, 326-327 Customer class, 618-621 recursive use of templates, 759-760 Queue class single recursive call, 324-326 class declaration, 618-621 redefining virtual functions, 666-667 design, 608-609 redirection, 217, 957-958 implementation, 609-612 refcube() function, 348-350"
+    ],
+    "title": [
+      "qualified names, 427, 454 text files, 268-273, 1005-1007 qualifiers, cv-qualifiers, 415-417. See also keywords; statements text with loops, 213 const, 416-418 cin object, 214-215 volatile, 416 cin.get() function, 215-217, 220-223 Queue class end-of-file conditions, 217-220 class declaration, 618-621 sentinel characters, 214 design, 608-609 real numbers, 52 implementation, 609-612 rect_to_polar() function, 318-319 functions, 612-618 rectangular coordinates, 316 public interface, 609 converting to polar coordinates"
+    ],
+    "type": null
+  }
+]

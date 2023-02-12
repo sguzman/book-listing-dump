@@ -1,0 +1,3210 @@
+[
+  {
+    "author": [
+      {
+        "given": "a"
+      }
+    ],
+    "note": [
+      ") = P.AI + p.A{A2 + ... ~ P.AI + P.A2 + ...."
+    ],
+    "pages": [],
+    "title": [
+      "is nondecreasing, and p. isbounded if the space n is offinite measure. This follows from p.B = p.A + p.(B - A) ~ p.A for B::> A. b",
+      "is sub cr-additive: p.U Ai ~ L p.Aj. This follows from p.U Ai = P.(AI + A 1cA2 +"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "THEOREM",
+        "given": "A.S.E.Q.U.E.N.C.E.S."
+      }
+    ],
+    "title": [
+      "If An i A, then P.An i p.A and, in general, lim inf p.An ~ p.(lim inf An"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "finite",
+        "given": "If",
+        "particle": "p. is"
+      },
+      {
+        "family": "then",
+        "given": "moreover"
+      }
+    ],
+    "note": [
+      "= lim IP.AI + P.(A2 - AI) + ... + p.(An - An-I) I"
+    ],
+    "title": [
+      "An 1 A implies P.An 1p.A, lim sup p.An ~ p.(lim sup An), An ~ A implies P.An ~ p.A. Proof. If An i A, then, by cr-additivity, p.A = P.AI + P.(A2 - AI) +"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Finally"
+    ],
+    "note": [
+      "if An -+ A, then the two inequalities proved above yield p.An -+ p.A, and the proof is complete."
+    ],
+    "title": [
+      "so that P.An 1 p.A. If An is an arbitrary sequence, then p'n - lim sup P.An = lim inf P.Anc ~ p.(lim inf An C) = p'n - p.(lim sup An) and, hence, lim sup p.An ;;;; p.(lim sup An"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "P."
+      }
+    ],
+    "note": [
+      "- <P. vanishes outside a p.-null set. Finally, an indefinite integral determines the integrand up to an equivalence:"
+    ],
+    "title": [
+      "<p = <Pc + <P. = <p' c + <p' 8, then <Pc - <p'c = <P'",
+      "= 0, for the p.-continuous function <Pc - <p'c vanishes for all p.-null sets while the p.-singular function <P'"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "ES'.k = ES'kk . ES·.-k .•"
+      }
+    ],
+    "note": [
+      "Ee ivM.-k, E(eiuSn+ivRnk) = E(eiuSk+ivMk) . E(eiuSn-k +ivMn-k)."
+    ],
+    "title": [
+      "Eei.R.k = EeivMk"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "INTRODUCTORY",
+        "given": "P.A.R.T."
+      },
+      {
+        "family": "Bernoulli",
+        "given": "E.L.E.M.E.N.T.A.R.Y.P.R.O.B.A.B.I.L.I.T.Y.T.H.E.O.R.Y.I."
+      },
+      {
+        "family": "conjectandi",
+        "given": "J.Ars"
+      },
+      {
+        "literal": "II. Bernstein, S. Theory of probabilities-in Russian"
+      },
+      {
+        "literal": "III. Borel, E."
+      },
+      {
+        "literal": "IV. Chung, K. L. Notes on Markov chains-mimeographed, Columbia University"
+      },
+      {
+        "family": "Delteil",
+        "given": "V."
+      },
+      {
+        "given": "R."
+      },
+      {
+        "literal": "VI. Feller, W."
+      },
+      {
+        "family": "Frechet",
+        "given": "M."
+      },
+      {
+        "literal": "VIII. Frechet, M."
+      }
+    ],
+    "date": [
+      "1713",
+      "1946",
+      "1925",
+      "1951",
+      "1926",
+      "1950",
+      "1938",
+      "1940",
+      "1943"
+    ],
+    "note": [
+      "IX. Gnedenko, B. Course in theory of probabilities-in Russian (1950). X. Laplace. Traite des probabilites (1801). XI. Loeve, M. Probability methods in physics-mimeographed, University of California (1948)."
+    ],
+    "title": [
+      "Principes et formules classiques",
+      "Probabilites geometriques",
+      "An Introduction to probability theory and its applications",
+      "Methode des fonctions arbitraires. Theorie des erenements en chaine dans Ie cas d'un nombrejini d'etats possibles",
+      "us probabilites associees a un systeme d' evenements compatibles et dependants I"
+    ],
+    "type": null,
+    "volume": [
+      "VII",
+      "II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "XII. Markov. Wahrscheinlichkeitsrechnung-translated from Russian"
+      }
+    ],
+    "date": [
+      "1912"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "XIII. Parzen, E."
+      },
+      {
+        "literal": "XIV. Perrin, F. Mecanique statistique quantique"
+      },
+      {
+        "literal": "XV. Neyman, J."
+      },
+      {
+        "family": "Kac",
+        "given": "M."
+      },
+      {
+        "family": "Kolmogorov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Uspensky, J. Introduction to mathematical probability",
+      "Ann. Math. Stat",
+      "Bull. Math. Univ. Moscow"
+    ],
+    "date": [
+      "1960",
+      "1939",
+      "1950",
+      "1945",
+      "1937"
+    ],
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "Modern probability theory and its applications",
+      "First course on probability and statistics",
+      "XVI",
+      "Random walk in the presence of ahsorbing barriers",
+      "Markov chains with a countable number of possible states-in Russian"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1",
+      "16",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Loeve",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Ann. Univ"
+    ],
+    "date": [
+      "1942"
+    ],
+    "location": [
+      "Lyon"
+    ],
+    "title": [
+      "Sur les systemes d'evenements"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Polya",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Ann. Inst. H. Poincare",
+      "Banach, S. Theorie des operations lineaires"
+    ],
+    "date": [
+      "1931",
+      "1932"
+    ],
+    "title": [
+      "Sur quelques points de la theorie des probabilites",
+      "PART ONE: NOTIONS OF MEASURE THEORY I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "II. Bourbaki, N."
+      }
+    ],
+    "date": [
+      "1939"
+    ],
+    "title": [
+      "Elements de mathematique"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "III. Glivenko, J. Stieltjes integral--in Russian"
+      },
+      {
+        "literal": "IV. Frechet, M. Espaces abstraits"
+      },
+      {
+        "family": "Hahn",
+        "given": "V."
+      },
+      {
+        "given": "Rosenthal"
+      },
+      {
+        "literal": "VI. Halmos, P. Measure theory"
+      },
+      {
+        "literal": "VII. Hausdorff, F. Mengenlehre"
+      }
+    ],
+    "date": [
+      "1936",
+      "1928",
+      "1948",
+      "1950",
+      "1914"
+    ],
+    "note": [
+      "VIII. Lebesgue, H. Le(ons sur I'integration et la recherche des fonc/ions primitives (1928)."
+    ],
+    "title": [
+      "Set functions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "IX. Riesz, F. and Sz-Nagy, B."
+      },
+      {
+        "family": "Saks",
+        "given": "X."
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Andersen",
+        "given": "E.S."
+      },
+      {
+        "family": "Jessen",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "SETS, SPACES, AND MEASURES 1",
+      "Danske Vid. Selsk, Mat-Fys. Medd"
+    ],
+    "date": [
+      "1952",
+      "1937",
+      "1946"
+    ],
+    "title": [
+      "Le(ons d'analysefonctionnelle",
+      "Theory of the integral",
+      "CHAPTER I",
+      "On the introduction of measures in infinite product sets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Daniell",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Ann. Math"
+    ],
+    "date": [
+      "1919"
+    ],
+    "title": [
+      "Functions of limited variation in an infinite number of dimensions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doubrosky",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Izv. Ak. Nauk SSSR"
+    ],
+    "date": [
+      "1945"
+    ],
+    "title": [
+      "On some properties of completely additive set-functions and passage to the limit under the integral sign"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kelley",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "MEASURABLE FUNCTIONS AND INTEGRATION",
+      "Duke Math. J"
+    ],
+    "date": [
+      "1952"
+    ],
+    "title": [
+      "Convergence in topology",
+      "CHAPTER II"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bochner",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Fund. Math"
+    ],
+    "date": [
+      "1933"
+    ],
+    "title": [
+      "Integration von Funktionen, deren Werte die Elemente eines Vektorraumes sind"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dunford",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Trans. Amer. Math. Soc"
+    ],
+    "date": [
+      "1942"
+    ],
+    "title": [
+      "Integration in general analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kolmogorov",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Untersuchungen iiber den Integralbegriff"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "103"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nikodym",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Fund. Math"
+    ],
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Sur une generalisation des integrales de Radon"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Ann. Math. Stat"
+    ],
+    "date": [
+      "1948"
+    ],
+    "title": [
+      "Convergence of distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tulcea",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Alii Accad. Naz. Lincei Rend"
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "Mesures dans les espaces produits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Scheffe",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Ann. Math. Stat"
+    ],
+    "date": [
+      "1947"
+    ],
+    "title": [
+      "A useful convergence theorem for probability distributions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PART",
+        "given": "T.W.O."
+      },
+      {
+        "family": "CONCEPTS",
+        "given": "G.E.N.E.R.A.L."
+      },
+      {
+        "family": "Bochner",
+        "given": "T.O.O.L.S.O.F.P.R.O.B.A.B.I.L.I.T.Y.T.H.E.O.R.Y.I."
+      },
+      {
+        "family": "integrale",
+        "given": "S.Fourierische"
+      },
+      {
+        "literal": "II. Cramer, H."
+      },
+      {
+        "literal": "III. Frechet, M."
+      },
+      {
+        "literal": "IV. Kolmogorov, A. Grundbegriffe der Wahrscheinlichkeitsrechnung"
+      },
+      {
+        "family": "Levy",
+        "given": "V."
+      },
+      {
+        "given": "P."
+      },
+      {
+        "literal": "VI. Lukacz, E. Characteristic functions"
+      }
+    ],
+    "container-title": [
+      "ElEments alEatoires",
+      "C. R. Acad. Sci. Paris"
+    ],
+    "date": [
+      "1932",
+      "1946",
+      "1937",
+      "1933",
+      "1925",
+      "1960",
+      "1853"
+    ],
+    "title": [
+      "Mathematical methods of statistics",
+      "Generalitis sur les probabilitEs",
+      "Calcul des probabilitis",
+      "CHAPTER III. PROBABILITY CONCEPTS 1. Bienayme. Considerations a l'appui de la decouverte de Laplace sur la loi des probabilites dans la methode des moindres carres"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cantelli",
+        "given": "F.P."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Ital. Alluari"
+    ],
+    "date": [
+      "1932"
+    ],
+    "title": [
+      "Una teoria astratta del calcolo delle probabilita. 1st"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lomnicki",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Fund. Math"
+    ],
+    "date": [
+      "1923"
+    ],
+    "note": [
+      "a"
+    ],
+    "title": [
+      "Nouveaux fondements du calcul des probabilites"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steinhaus",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Fund. Math"
+    ],
+    "date": [
+      "1923"
+    ],
+    "title": [
+      "Les probabilites denombrables et leur rapport la theorie de la mesure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Tchebichev"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "J. de Math"
+    ],
+    "date": [
+      "1867"
+    ],
+    "title": [
+      "Des valeurs moyennes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "CHAPTER IV. DISTRIBUTION FUNCTIONS AND CHARACTERISTIC FUNCTIONS 6. Alexandrov, A. D."
+      }
+    ],
+    "container-title": [
+      "Matem. Sbornik"
+    ],
+    "date": [
+      "1940"
+    ],
+    "title": [
+      "Additive set functions in abstract spaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 9, 13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Billingsley",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Soc. Indust. and App/. Math"
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Weak convergence of measures: applications in probability"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bochner",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1933"
+    ],
+    "title": [
+      "Monotone Funktionen, Stieltjes Integrale, und harmonische Analyse"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "108"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bray",
+        "given": "H.E."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Ann. Math"
+    ],
+    "date": [
+      "1919"
+    ],
+    "title": [
+      "Elementary properties of the Stieltjes Integral"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dugue",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Ann. Inst. H. Poincare"
+    ],
+    "date": [
+      "1952"
+    ],
+    "note": [
+      "a"
+    ],
+    "title": [
+      "Analyticite et convexite des fonctions caracteristiques"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "XXII"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ortet",
+        "given": "F."
+      },
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Bull. Sc. Math"
+    ],
+    "date": [
+      "1944"
+    ],
+    "title": [
+      "Calcul des momen ts d'une fonction de reparti tion partir de sa characteristic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "88"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frechet",
+        "given": "M."
+      },
+      {
+        "family": "Shohat",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Trans. Am. Math. Soc"
+    ],
+    "date": [
+      "1931"
+    ],
+    "title": [
+      "A proof of the generalized second limit theorem in the theory of probability"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Helly",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Sitz. Nat. Kais. Akad. Wiss"
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "Ueber lineare Funktionaloperationen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "121"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kawata",
+        "given": "T."
+      },
+      {
+        "family": "Udagawa",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Kadai Math. Sem"
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "On infinite convolutions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cam",
+        "given": "Le"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Univ. Cal. Publ. Stat"
+    ],
+    "date": [
+      "1957"
+    ],
+    "issue": [
+      "4"
+    ],
+    "title": [
+      "Convergence in distribution of stochastic processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Marcienkiewicz"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Fund. Math"
+    ],
+    "date": [
+      "1939"
+    ],
+    "title": [
+      "Sur les fonctions independantes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Marcienkiewicz"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Math. Zeit"
+    ],
+    "date": [
+      "1939"
+    ],
+    "title": [
+      "Sur une propriete de la loi de Gauss"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parzen",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Univ. Calif. Publ. Stat"
+    ],
+    "date": [
+      "1954"
+    ],
+    "title": [
+      "On uniform convergence of families of sequences of random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Poly a, G."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Proc. First Berkeley Symp. on Stat. and Prob"
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "Remark on characteristic functions"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Prohorov",
+        "given": "U.V."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Teoria Veroyatnostey"
+    ],
+    "date": [
+      "1956"
+    ],
+    "title": [
+      "Convergence of random processes and limit theorems of probability theory in Russia"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zygmund",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Ann. Math. Stat",
+      "Breiman"
+    ],
+    "date": [
+      "1947",
+      "1968"
+    ],
+    "title": [
+      "A remark on characteristic functions",
+      "I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18",
+      "L. Probability"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "II. Chung, K. L."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "edition": [
+      "second"
+    ],
+    "title": [
+      "A course in probability theory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "III. Cramer, H."
+      },
+      {
+        "literal": "IV. Feller"
+      },
+      {
+        "family": "Gnedenko",
+        "given": "V."
+      },
+      {
+        "given": "B."
+      },
+      {
+        "family": "Kolmogorov",
+        "given": "A."
+      },
+      {
+        "literal": "VI. Kac, M."
+      },
+      {
+        "literal": "VII. Kemperman, J. H. B."
+      },
+      {
+        "literal": "VIII. Khintchine, A. Asymptotische Gesetze der Wahrscheinlichkeitsrechnung"
+      },
+      {
+        "literal": "IX. Khintchine, A."
+      },
+      {
+        "literal": "XI. Petrov, V. V."
+      }
+    ],
+    "container-title": [
+      "Theorie de l'addition des variables aleatoires"
+    ],
+    "date": [
+      "1937",
+      "1971",
+      "1954",
+      "1959",
+      "1961",
+      "1933",
+      "1938",
+      "1954",
+      "1972"
+    ],
+    "edition": [
+      "second",
+      "second"
+    ],
+    "editor": [
+      {
+        "family": "Levy",
+        "given": "X."
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "note": [
+      "Spitzer, F. Principles of random walk, second edition (1976)."
+    ],
+    "title": [
+      "Random variables and probability distributions",
+      "An-introduction to probability theory and its applications",
+      "Limit distributions for sums of independent random variables",
+      "Statistical independence in probability, analysis and number theory",
+      "The passage problem for a stationary Markov chain",
+      "Limit laws for sums of independent random variables-in Russian",
+      "Sums of independent random variables-in Russian",
+      "XII"
+    ],
+    "type": "chapter",
+    "volume": [
+      "II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "XIII. Tucker, H. G."
+      },
+      {
+        "family": "Birnbaum",
+        "given": "Z."
+      },
+      {
+        "family": "Zuckerman",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Ann. Math. Stat"
+    ],
+    "date": [
+      "1967",
+      "1944"
+    ],
+    "genre": [
+      "SUMS OF INDEPENDENT RANDOM VARIABLES 1."
+    ],
+    "title": [
+      "A graduate course in probability",
+      "CHAPTER v",
+      "An inequality due to Hornich"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Borel",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Rend. eire. Mat. Palermo"
+    ],
+    "date": [
+      "1909"
+    ],
+    "title": [
+      "Les probabilites denombrables et leurs applications arithmetiques"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brunk",
+        "given": "H.D."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Duke Math. J"
+    ],
+    "date": [
+      "1948"
+    ],
+    "title": [
+      "The strong law of large numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cantelli",
+        "given": "F.P."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Boole. Rend. Accad. Naz. Lined"
+    ],
+    "date": [
+      "1917"
+    ],
+    "title": [
+      "Su due applicazioni di un teorema di G"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "K.L."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proc. Second Berkeley Symp. on Stat. and Prob"
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "The strong law of large numbers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Da.Jy",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Ann. Math. Stat"
+    ],
+    "date": [
+      "1946"
+    ],
+    "title": [
+      "On the use of the sample range in an analogue of Student's test"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feller",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Trans. Am. Math. Soc"
+    ],
+    "date": [
+      "1943"
+    ],
+    "title": [
+      "The general form of the so-called law of the iterated logarithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kolmogorov",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1928",
+      "1929"
+    ],
+    "pages": [
+      "102"
+    ],
+    "title": [
+      "Ueber die Summen durch den Zufall bestimmter unabhiingiger Grossen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "99"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Prokhorov",
+        "given": "U.V."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Dokl. Akad. Nauk USSR"
+    ],
+    "date": [
+      "1949"
+    ],
+    "title": [
+      "On the strong law of large numbers-in Russian"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robbins",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proe. Am. Math. Soc"
+    ],
+    "date": [
+      "1953"
+    ],
+    "title": [
+      "On the equidistribution of sums of independent random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tukey",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Ann. Math. Stat"
+    ],
+    "date": [
+      "1945"
+    ],
+    "title": [
+      "An inequality for deviations from medians"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "CHAPTER VI. CENTRAL LIMIT PROBLEM 12. Bawly, G."
+      },
+      {
+        "family": "Berry",
+        "given": "A."
+      },
+      {
+        "family": "Dohlin",
+        "given": "W."
+      },
+      {
+        "family": "Dohlin",
+        "given": "W."
+      },
+      {
+        "family": "Esseen",
+        "given": "G."
+      },
+      {
+        "family": "Feller",
+        "given": "W."
+      },
+      {
+        "family": "Feller",
+        "given": "W.Ueber das Gesetz der grossen Zahlen"
+      },
+      {
+        "family": "Feller",
+        "given": "W.On the Kolmogoroff-P."
+      },
+      {
+        "family": "Finetti",
+        "given": "B.",
+        "particle": "de"
+      },
+      {
+        "family": "Liapounov",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Mat. Sbornik",
+      "Trans. Am. Math. Soc",
+      "Bull. Sc. Math",
+      "Ann. Ec. Norm. Sup",
+      "Acta Math",
+      "Math. Zeit",
+      "Szeged",
+      "Proc. Yougoslav Acad. Sc",
+      "Rl'nd. Accad. Naz. Lincei",
+      "Mem. Acad. St-Petersbourg",
+      "Lindeberg, J. W. Ueber das Exponentialgesetz in der Wahrscheinlichkeitsrechnung. Math. Zeit"
+    ],
+    "date": [
+      "1936",
+      "1941",
+      "1939",
+      "1947",
+      "1944",
+      "1935",
+      "1937",
+      "1937",
+      "1937",
+      "1929",
+      "1900",
+      "1922"
+    ],
+    "pages": [
+      "13",
+      "14",
+      "15",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "title": [
+      "Uber einige Verallgemeinerungen der Grenzwertsiitze der Wahrscheinlichkeitsrechnung",
+      "The accuracy of the Gaussian approximation to the sum of independent variates",
+      "Sur les sommes d'un grand nombre de variables alt~atoires independants",
+      "Sur I'ensemble de puissances d'une loi de probabilite",
+      "Fourier Analysis of distribution functions. A mathematical study of the Laplace-Gaussian law",
+      "Ueber den Zentralen Grenzwertsatz der Wahrscheinlichkeitsrechnung",
+      "Acta Univ",
+      "Levy formula for infinitely divisible distribution functions",
+      "Sulle funzioni a incremento aleatorio",
+      "Nouvelle forme du theoreme sur la limite de la probabilite",
+      "22"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43",
+      "49",
+      "63",
+      "16",
+      "40",
+      "42",
+      "8",
+      "82",
+      "10",
+      "11",
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Loeve",
+        "given": "M."
+      },
+      {
+        "family": "Sc",
+        "given": "C.R.Ac"
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Bull. Soc. Math"
+    ],
+    "date": [
+      "1941",
+      "1945"
+    ],
+    "title": [
+      "Nouvelles classes de lois limites"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Loeve",
+        "given": "M.Ranking limit problem Second Berkeley Symp"
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1956"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Loeve",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Ann. Inst. Stat. Paris"
+    ],
+    "date": [
+      "1958"
+    ],
+    "title": [
+      "A I'interieur du probleme limite central"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Raikov",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "!ZTJ. Akad. Nauk USSR"
+    ],
+    "date": [
+      "1938"
+    ],
+    "title": [
+      "On the decomposition of Gauss and Poisson laws-in Russian"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "CHAPTER VII. INDEPENDENT IDENTICALLY DISTRIBUTED S.UMMANDS 27. Andersen, Sparre."
+      },
+      {
+        "family": "Andersen",
+        "given": "Sparre"
+      }
+    ],
+    "container-title": [
+      "Skand. Akturaetid",
+      "Math. Scand"
+    ],
+    "date": [
+      "1953",
+      "1953"
+    ],
+    "note": [
+      "Baxter, G. An analytic approach to finite fluctuation problems in probability. 1. d'Anal. Math. 9 (1961)."
+    ],
+    "pages": [
+      "28",
+      "29"
+    ],
+    "title": [
+      "On sums of symmetrically dependent random variables",
+      "On the fluctuations of sums of random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Blackwell",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Pac"
+    ],
+    "date": [
+      "1953"
+    ],
+    "issue": [
+      "3"
+    ],
+    "title": [
+      "Extension of a renewal theorem"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "K.L."
+      },
+      {
+        "family": "Fuchs",
+        "given": "W.H.J."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "container-title": [
+      "Mem. Am. Math. Soc"
+    ],
+    "date": [
+      "1951"
+    ],
+    "title": [
+      "On the distribution of values of sums of random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "K.L."
+      },
+      {
+        "family": "Ornstein",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "Bull. Am. Math. Soc"
+    ],
+    "date": [
+      "1962"
+    ],
+    "title": [
+      "On the recurrence of sums of random variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "68"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Doblin",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "Studia Math"
+    ],
+    "date": [
+      "1940"
+    ],
+    "title": [
+      "Sur l'ensemble de puissances d'une loi de probabilite"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gnedenko",
+        "given": "B.V."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "Uchenye Zapiski Moskow UniT.!. Mat"
+    ],
+    "date": [
+      "1940"
+    ],
+    "title": [
+      "Some theorems on the powers of distribution functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hewitt",
+        "given": "E."
+      },
+      {
+        "family": "Savage",
+        "given": "E.L."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "Trans. Am. Math. Soc"
+    ],
+    "date": [
+      "1955"
+    ],
+    "title": [
+      "Symmetric measures on Cartesian products"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "container-title": [
+      "Ann. Math. Statist"
+    ],
+    "date": [
+      "1968"
+    ],
+    "title": [
+      "A note on the weak law of large numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Owen",
+        "given": "W.L."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "container-title": [
+      "Ann. of Prob"
+    ],
+    "date": [
+      "1973"
+    ],
+    "title": [
+      "An estimate for EISnl for variables in the domain of normal attraction of a stable law of index a, 1 < a < 2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pollaczec",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "container-title": [
+      "Math. Zeitsch"
+    ],
+    "date": [
+      "1930"
+    ],
+    "title": [
+      "Uber eine Aufgabe der Wahrscheilichkeitstheorie I, II"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pollaczec",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "Comptes Rendus"
+    ],
+    "date": [
+      "1952"
+    ],
+    "title": [
+      "Fonctions characteristiques de certaines repartitions definies au moyen de la notion d'ordre. Applications a la theorie des attentes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "234"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Poly a, G."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1921"
+    ],
+    "title": [
+      "Uber eine Aufgabe der Wahrscheinlichkeitsrechnung betreffend die Irrfahrt in Strassennetz"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "84"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Port",
+        "given": "S.C."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "J. Math. Anal. and Appl"
+    ],
+    "date": [
+      "1963"
+    ],
+    "title": [
+      "An elementary probability approach to fluctiation theorie"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ray",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "Trans. Am. Math. Soc"
+    ],
+    "date": [
+      "1958"
+    ],
+    "title": [
+      "Stable processes with an absorbing barrier"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "89"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Spitzer",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "container-title": [
+      "Trans. Am. Math. Soc"
+    ],
+    "date": [
+      "1956"
+    ],
+    "title": [
+      "A combinatorial lemma and its application to probability theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "82"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wendel",
+        "given": "J.G."
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "container-title": [
+      "Ann. Math. Statist"
+    ],
+    "date": [
+      "1960"
+    ],
+    "title": [
+      "Order statistics of partial sums",
+      "INDEX"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "UTI/ZARING",
+        "given": "T.A.K.E."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "250"
+    ],
+    "title": [
+      "Introduction to Axiomatic Set Theory"
+    ],
+    "type": null,
+    "volume": [
+      "vii"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "O.X.T.O.B.Y."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "95"
+    ],
+    "title": [
+      "Measure and Category"
+    ],
+    "type": null,
+    "volume": [
+      "viii"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.H.A.E.F.F.E.R."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "294"
+    ],
+    "publisher": [
+      "xi"
+    ],
+    "title": [
+      "Topological Vector Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.I.L.T.O.N./S.T.A.M.M.B.A.C.H."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "note": [
+      "Hard cover edition only"
+    ],
+    "pages": [
+      "338 1971"
+    ],
+    "title": [
+      "A Course in Homological Algebra"
+    ],
+    "type": null,
+    "volume": [
+      "ix"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "M.A.C.L.A.N.E."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "262"
+    ],
+    "publisher": [
+      "ix"
+    ],
+    "title": [
+      "Categories for the Working Mathematician"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.U.G.H.E.S./P.I.P.E.R."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "xii"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "291"
+    ],
+    "title": [
+      "Projective Planes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "S.E.R.R.E."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "x"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "115"
+    ],
+    "title": [
+      "A Course in Arithmetic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "T.A.K.E.U.T.I./Z.A.R.I.N.G."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "238"
+    ],
+    "publisher": [
+      "viii"
+    ],
+    "title": [
+      "Axiomatic Set Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.U.M.P.H.R.E.Y.S."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "169"
+    ],
+    "publisher": [
+      "xiv"
+    ],
+    "title": [
+      "Introduction to Lie Algebras and Representation Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "C.O.H.E.N."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "114"
+    ],
+    "publisher": [
+      "xii"
+    ],
+    "title": [
+      "A course in Simple Homotopy Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "C.O.N.W.A.Y."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1975"
+    ],
+    "edition": [
+      "2nd corrected reprint"
+    ],
+    "note": [
+      "Hard cover edition only."
+    ],
+    "pages": [
+      "313"
+    ],
+    "publisher": [
+      "xiii"
+    ],
+    "title": [
+      "Functions of One Complex Variable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "B.E.A.L.S."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "230"
+    ],
+    "publisher": [
+      "xi"
+    ],
+    "title": [
+      "Advanced Mathematical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.D.E.R.S.O.N./FuLLER"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "339"
+    ],
+    "publisher": [
+      "ix"
+    ],
+    "title": [
+      "Rings and Categories of Modules"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "G.O.L.U.B.I.T.S.K.Y./G.U.I.L.L.E.M.I.N."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "211"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Stable Mappings and Their Singularities"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "B.E.R.B.E.R.I.A.N."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "356"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Lectures in Functional Analysis and Operator Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "W.I.N.T.E.R."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "205"
+    ],
+    "publisher": [
+      "xiii"
+    ],
+    "title": [
+      "The Structure of Fields"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R.O.S.E.N.B.L.A.T.T."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1974"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "228"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Random Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.A.L.M.O.S."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "304"
+    ],
+    "title": [
+      "Measure Theory"
+    ],
+    "type": null,
+    "volume": [
+      "xi"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "H.A.L.M.O.S."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "365"
+    ],
+    "publisher": [
+      "xvii"
+    ],
+    "title": [
+      "A Hilbert Space Problem Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.U.S.E.M.O.L.L.E.R."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1975"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "344"
+    ],
+    "publisher": [
+      "xvi"
+    ],
+    "title": [
+      "Fibre Bundles"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.U.M.P.H.R.E.Y.S."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "272"
+    ],
+    "publisher": [
+      "xiv"
+    ],
+    "title": [
+      "Linear Algebraic Groups"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "B.A.R.N.E.S./M.A.C.K."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "container-title": [
+      "x"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "137"
+    ],
+    "title": [
+      "An Algebraic Introduction to Mathematical Logic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "G.R.E.U.B."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1975"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "pages": [
+      "451"
+    ],
+    "publisher": [
+      "xvii"
+    ],
+    "title": [
+      "Linear Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.O.L.M.E.S."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "246"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Geometric Functional Analysis and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.E.W.I.T.T./S.T.R.O.M.B.E.R.G."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "476"
+    ],
+    "title": [
+      "Real and Abstract Analysis"
+    ],
+    "type": null,
+    "volume": [
+      "3rd printing. viii"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "M.A.N.E.S."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "356"
+    ],
+    "title": [
+      "Algebraic Theories"
+    ],
+    "type": null,
+    "volume": [
+      "x"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "K.E.L.L.E.Y."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "298"
+    ],
+    "publisher": [
+      "xiv"
+    ],
+    "title": [
+      "General Topology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Z.A.R.I.S.K.I./S.A.M.U.E.L."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "329"
+    ],
+    "publisher": [
+      "xi"
+    ],
+    "title": [
+      "Commutative Algebra I"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Z.A.R.I.S.K.I./S.A.M.U.E.L."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "414"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Commutative Algebra II"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "J.A.C.O.B.S.O.N."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "205"
+    ],
+    "publisher": [
+      "xii"
+    ],
+    "title": [
+      "Lectures in Abstract Algebra I: Basic Concepts"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "J.A.C.O.B.S.O.N."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "280"
+    ],
+    "publisher": [
+      "xii"
+    ],
+    "title": [
+      "Lectures in Abstract Algebra II: Linear Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "J.A.C.O.B.S.O.N."
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "324"
+    ],
+    "publisher": [
+      "ix"
+    ],
+    "title": [
+      "Lectures in Abstract Algebra III: Theory of Fields and Galois Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.I.R.S.C.H."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "222"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Differential Topology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "S.P.I.T.Z.E.R."
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "date": [
+      "1976"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "408"
+    ],
+    "publisher": [
+      "xiii"
+    ],
+    "title": [
+      "Principles of Random Walk"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "W.E.R.M.E.R."
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "date": [
+      "1976"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "162"
+    ],
+    "publisher": [
+      "xiv"
+    ],
+    "title": [
+      "Banach Algebras and Several Complex Variables"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "K.E.L.L.E.Y./N.A.M.I.O.K.A."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "256"
+    ],
+    "publisher": [
+      "xv"
+    ],
+    "title": [
+      "Linear Topological Spaces"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "M.O.N.K."
+      }
+    ],
+    "citation-number": [
+      "37"
+    ],
+    "container-title": [
+      "x"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "531"
+    ],
+    "title": [
+      "Mathematical Logic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "G.R.A.U.E.R.T./F.R.I.T.Z.S.C.H.E."
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "207"
+    ],
+    "title": [
+      "Several Complex Variables"
+    ],
+    "type": null,
+    "volume": [
+      "viii"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.R.V.E.S.O.N."
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "106"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "An Invitation to C*-Algebras"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "KEMENy/S.N.E.L.L./K.N.A.P.P."
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "date": [
+      "1976"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "pages": [
+      "484"
+    ],
+    "publisher": [
+      "xii"
+    ],
+    "title": [
+      "Denumerable Markov Chains"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "ApOSTOL"
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "198"
+    ],
+    "publisher": [
+      "x"
+    ],
+    "title": [
+      "Modular Functions and Dirichlet Series in Number Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "S.E.R.R.E."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "176"
+    ],
+    "title": [
+      "Linear Representations of Finite Groups"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "G.I.L.L.M.A.N.!J.E.R.I.S.O.N."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "300"
+    ],
+    "publisher": [
+      "xiii"
+    ],
+    "title": [
+      "Rings of Continuous Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "K.E.N.D.I.G."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "304"
+    ],
+    "publisher": [
+      "approx"
+    ],
+    "title": [
+      "Elementary Algebraic Geometry"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "L.O.E.V.E."
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "date": [
+      "1977"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "pages": [
+      "425"
+    ],
+    "title": [
+      "Probability Theory"
+    ],
+    "type": null,
+    "volume": [
+      "1. xvii"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "LOEvE"
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "container-title": [
+      "In preparation"
+    ],
+    "date": [
+      "1977"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "title": [
+      "Probability Theory"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2"
+    ]
+  }
+]

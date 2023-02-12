@@ -1,0 +1,123 @@
+[
+  {
+    "note": [
+      "trace(dWhen.getYear()); // Displays: 78 trace(dWhen.getFullYear()); // Displays: 1978"
+    ],
+    "pages": [
+      "13"
+    ],
+    "title": [
+      "var dWhen:Date = new Date(1978"
+    ],
+    "type": null,
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "date": [
+      "1900"
+    ],
+    "note": [
+      "6, 4); trace(dThen.getYear()); // Displays: -121 trace(dThen.getFullYear()); // Displays: 1779"
+    ],
+    "title": [
+      "The difference becomes much more apparent when working with dates before",
+      "For example: var dThen:Date = new Date(1779"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "format"
+      },
+      {
+        "family": "format",
+        "given": "European"
+      }
+    ],
+    "note": [
+      "5, 15); trace(dtWhen.toFullDisplay()); trace(dtWhen.toUSDisplay()); trace(dtWhen.toEuroDisplay()); trace(dtWhen.toUSDisplay(“-”)); trace(dtWhen.toEuroDisplay(“-”)); The Output panel will display the following: Thursday June 15, 2005 06/15/2005 15/06/2005 07-15-2005 15-06-2005"
+    ],
+    "title": [
+      "Displaying the Date When you work with the example DateTime class, you have three options for displaying the date: full date display, U.S",
+      "Here are a few examples: var dtWhen:DateTime = new DateTime(2005"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Here is an example: var dtBlogDateTime:DateTime = new DateTime(); dtBlogDateTime.parseDateTime(“2003-07-17T00:19:05-05:00”);"
+    ],
+    "title": [
+      "Parsing a Date String into a DateTime Object In many scenarios, you can retrieve a string that represents a date. You can use the parseDateTime() method to parse the string into a DateTime object. The example method parses strings such as 2003-07-17T00:19:05-05:00"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Open the Classes common library, and copy the WebServiceClasses SWC to the library for flashSurveyWebService.fla"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Note the instance names assigned to the text input and button component instances"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "var pcResponse:PendingCall; // Register listeners for the buttons. cbtReply.addEventListener(“click”, takeSurvey); cbtGetResponses.addEventListener(“click”, getResponses);"
+    ],
+    "title": [
+      "Place the following code on the first frame of the default layer: import mx.services.WebService; import mx.services.PendingCall; // Specify the WSDL URL to a Web service published at // www.rightactionscript.com. var wsFlashSurvey:WebService = new WebService( ; “http://www.rightactionscript.com/webservices/ ; FlashSurvey.php?wsdl”); // Declare a variable to use for the response"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "TextInput"
+      }
+    ],
+    "note": [
+      "See client; platforms ProgressBar, 610–611 computer time, 190–191 ScrollPane, 604–606 concat() method styles supported for, 638–639 with arrays, 160 Window, 606–609 in matrix transforms, 335–336 context menus. See also ContextMenu class with strings, 213 adding custom menu items, 508–512"
+    ],
+    "title": [
+      "590–592 XMLSocket class, 717 Tree, 631–635, 644–645 content display management components. See also Window, 606–609 component styles; components Components panel, 581–582 Loader, 609–610 compression, publishing-related problems and, 123 managing focus for, 648–650 computer systems"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "copyChannel("
+    ],
+    "container-title": [
+      "See loading external content dispatching events from, 660–661 copying images from MovieClip objects exporting SWC files for",
+      "method (BitmapData"
+    ],
+    "pages": [
+      "378–379",
+      "667–668"
+    ],
+    "title": [
+      "defining properties, 93–95 copying from BitmapData objects public versus private methods, 96 copying channels, 378–379 public versus private properties, 93–94 copying pixels, 376–377 simple example, 92 with draw() method, 374–375 uses for, 89–90 getting and setting pixels, 381 custom components merging images, 379–381 compiling, 662–664 copying from external sources"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "374",
+      "663"
+    ]
+  }
+]
