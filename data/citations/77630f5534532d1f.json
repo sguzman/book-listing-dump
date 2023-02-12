@@ -1,0 +1,6439 @@
+[
+  {
+    "title": [
+      "Array low = -D.belowDiagonal_, mid = -D.diagonal_, high = -D.aboveDiagonal_; TridiagonalOperator result(low,mid,high); return result"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TridiagonalOperator result(low,mid,high); return result; inline TridiagonalOperator operator/(const TridiagonalOperator& D, double a"
+    ],
+    "title": [
+      "Array low = D.belowDiagonal_*a, mid = D.diagonal_*a, high = D.aboveDiagonal_*a; TridiagonalOperator result(low,mid,high); return result; inline TridiagonalOperator operator*(const TridiagonalOperator& D, double a) Array low = D.belowDiagonal_*a, mid = D.diagonal_*a, high = D.aboveDiagonal_*a"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TridiagonalOperator result(low,mid,high); return result;"
+    ],
+    "title": [
+      "Array low = D.belowDiagonal_/a, mid = D.diagonal_/a, high = D.aboveDiagonal_/a"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "double bet=diagonal_[0]; QL_REQUIRE(bet != 0.0, “TridiagonalOperator::solveFor: division by zero”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "R.Rebonato"
+      },
+      {
+        "family": "Joshi",
+        "given": "M."
+      },
+      {
+        "family": "www.rebonato.com/StochasticVolatilityBGMFin.pdf",
+        "given": "R.Rebonato",
+        "particle": "see"
+      }
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "note": [
+      "Used with permission from Ricardo Rebonato."
+    ],
+    "publisher": [
+      "Princeton Univ. Press"
+    ],
+    "title": [
+      "A Stochastic-Volatility, Displaced-Diffusion Extension of the LIBOR Market Model",
+      "Modern Pricing of Interest Rate Derivatives: The LIBOR Market Model and Beyond"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Source",
+        "given": "R.Rebonato"
+      },
+      {
+        "family": "Joshi",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "see www.rebonato.com"
+    ],
+    "title": [
+      "A Stochastic-Volatility, Displaced-Diffusion Extension of the LIBOR Market Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stochastic VolatilityBGMFin.pdf",
+        "given": "R.Rebonato"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "note": [
+      "Used with permission from Ricardo Rebonato."
+    ],
+    "publisher": [
+      "Princeton Univ. Press"
+    ],
+    "title": [
+      "Modern Pricing of Interest Rate Derivatives: The LIBOR Market Model and Beyond"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2002-02-15",
+      "2003-02-19"
+    ],
+    "title": [
+      "Calendar calendar = Calendars::TARGET(",
+      "// Instruments used to bootstrap the yield curve: std::vector<Handle<RateHelper> > instruments"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "RelinkableHandle<TermStructure > rhTermStructure; rhTermStructure.linkTo(myTermStructure"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "swaptionMaturities.push_back(Period(4,"
+    ],
+    "note": [
+      "Years)); swaptionMaturities.push_back(Period(5, Years)); swaptionMaturities.push_back(Period(7, Years)); swaptionMaturities.push_back(Period(10, Years));"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Handle<Model> modelHW(new HullWhite(rhTermStructure)); std::cout << “Calibrating to swaptions” << std::endl; std::cout << “Hull-White (analytic formulae):” << std::endl; swaptions.setPricingEngine( Handle<PricingEngine>(new JamshidianSwaption(modelHW"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::cout << “Hull-White (numerical calibration):” << std::endl; swaptions.setPricingEngine( Handle<PricingEngine>(new TreeSwaption(modelHW2, grid"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::cout << “HW: ” << bermudanSwaption.NPV() << std::endl"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "ISMA Centre Discussion Papers in Finance 2000–10"
+    ],
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "University of Reading, UK, available from www.ismacentre.rdg.ac.uk."
+    ],
+    "title": [
+      "Principle Component Analysis of Implied Volatility Smiles and Skews"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Market Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "Risk (January): S29–32."
+    ],
+    "title": [
+      "Principle of the Skew"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Amemiya",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Basil Blackwell"
+    ],
+    "title": [
+      "Advanced Econometrics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Amin",
+        "given": "K."
+      },
+      {
+        "family": "Morton",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "141–180"
+    ],
+    "title": [
+      "Implied Volatility Functions in Arbitrage Free Term Structure Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andersen",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "A Simple Approach to the Pricing of Bermudan Swaptions in the Multi-Factor LIBOR Market Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Andersen",
+        "given": "L."
+      },
+      {
+        "family": "Andreasen",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Applied Mathematical Finance"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "1–32"
+    ],
+    "title": [
+      "Volatility Skews Extensions of the LIBOR Market Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Andersen",
+        "given": "L."
+      },
+      {
+        "family": "Brotherton-Ratcliffe",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "5–37"
+    ],
+    "title": [
+      "The Equity Option Volatility Smile: An Implicit Difference Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avellaneda",
+        "given": "M."
+      },
+      {
+        "family": "Friedman",
+        "given": "C."
+      },
+      {
+        "family": "Samperi",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Applied Mathematical Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "37–64"
+    ],
+    "title": [
+      "Calibrating Volatility Surfaces via Relative-Entropy Minimization"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Avellaneda",
+        "given": "M."
+      },
+      {
+        "family": "Newman",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "Preprint,"
+    ],
+    "location": [
+      "New York University"
+    ],
+    "publisher": [
+      "Courant Institute of Mathematical Sciences"
+    ],
+    "title": [
+      "Positive Interest Rates and Nonlinear Term Structure Models"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ayache",
+        "given": "E."
+      },
+      {
+        "family": "Forsyth",
+        "given": "P."
+      },
+      {
+        "family": "Vetzal",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "9–30"
+    ],
+    "title": [
+      "Valuation of Convertible Bonds with Credit Risk"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Baillie",
+        "given": "R."
+      },
+      {
+        "family": "Bollerslev",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of Business and Economic Statistics"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "297–305"
+    ],
+    "title": [
+      "The Message in Daily Exchange Rates: A Conditional Variance Tale"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balduzzi",
+        "given": "P."
+      },
+      {
+        "family": "Das",
+        "given": "S."
+      },
+      {
+        "family": "Foresi",
+        "given": "S."
+      },
+      {
+        "family": "Sundaram",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "43–53"
+    ],
+    "title": [
+      "A Simple Approach to Three-Factor Term Structure Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barraquand",
+        "given": "J."
+      },
+      {
+        "family": "Martineau",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "383–405"
+    ],
+    "title": [
+      "Numerical Valuation of High Dimensional Multivariate American Securities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benhamou",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "49–68"
+    ],
+    "title": [
+      "Fast Fourier Transform for Discrete Asian Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Best",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Implementing Value at Risk"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhupinder",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Forecasting Volatility in Financial Markets"
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "Satchell",
+        "given": "Stephen"
+      }
+    ],
+    "publisher": [
+      "Butterworth-Heinemann"
+    ],
+    "title": [
+      "Implied Risk-Neutral Probability Density Functions from Options Prices: A Central Bank Perspective"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Bjerksund",
+        "given": "P."
+      },
+      {
+        "family": "Stensland",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "67–75"
+    ],
+    "title": [
+      "Implementation of the Black-Derman-Toy Interest Rate Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "September"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "F."
+      },
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Toy",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Financial Analysts Journal"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "33–39"
+    ],
+    "title": [
+      "A One-Factor Model of Interest Rates and Its Application to Treasury Bond Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "January–February"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Black",
+        "given": "F."
+      },
+      {
+        "family": "Karasinski",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Financial Analysts Journal"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "52–59"
+    ],
+    "title": [
+      "Bond and Option Pricing When Short Rates are Lognormal"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "July–August"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bodurtha, J. Jr., and M. Jermakyan."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "29–59"
+    ],
+    "title": [
+      "Nonparametric Estimation of an Implied Volatility Surface"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bollerslev",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of Econometrics"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "307–327"
+    ],
+    "title": [
+      "Generalized Autoregressive Conditional Heteroskedasticity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bollerslev",
+        "given": "T."
+      },
+      {
+        "family": "Chou",
+        "given": "R."
+      },
+      {
+        "family": "Kroner",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Journal of Econometrics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "5–59"
+    ],
+    "title": [
+      "ARCH Modeling in Finance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bollerslev",
+        "given": "T."
+      },
+      {
+        "family": "Mikkelsen",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Journal of Econometrics"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "151–184"
+    ],
+    "title": [
+      "Modeling and Pricing Long Memory in Stock Market Volatility"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "73"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boyle",
+        "given": "P.P."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "323–338"
+    ],
+    "title": [
+      "Options: A Monte Carlo Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boyle",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "1–26"
+    ],
+    "title": [
+      "A Lattice Framework for Option Pricing with Two State Variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boyle",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "FORC Conference"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "UK"
+    ],
+    "publisher": [
+      "Warwick"
+    ],
+    "title": [
+      "Multi-asset Path-Dependent Options"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Boyle",
+        "given": "P."
+      },
+      {
+        "family": "Lau",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "6–14"
+    ],
+    "title": [
+      "Bumping Up Against the Barrier with the Binomial Method"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Boyle",
+        "given": "P."
+      },
+      {
+        "family": "Tian",
+        "given": "Y."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Pricing Lookback and Barrier Options under the CEV Process"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://depts"
+    ],
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brace",
+        "given": "A."
+      },
+      {
+        "family": "Dun",
+        "given": "T."
+      },
+      {
+        "family": "Barton",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "FMMA Notes, Working Paper"
+    ],
+    "title": [
+      "Towards a Central Interest Rate Model"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brace",
+        "given": "A."
+      },
+      {
+        "family": "Gatarek",
+        "given": "D."
+      },
+      {
+        "family": "Musiela",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "127–155"
+    ],
+    "title": [
+      "The Market Model of Interest Rate Dynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brace",
+        "given": "A."
+      },
+      {
+        "family": "Musiela",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "259–283"
+    ],
+    "title": [
+      "A Multifactor Gauss Markov Implementation of Heath, Jarrow, and Morton"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brace",
+        "given": "A."
+      },
+      {
+        "family": "Musiela",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Mathematics of Derivative"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Securities, M.A.H"
+    ],
+    "note": [
+      "Dempster, Cambridge University Press, Cambridge, 336–368."
+    ],
+    "title": [
+      "Swap Derivatives in a Gaussian HJM Framework"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Breeden",
+        "given": "D."
+      },
+      {
+        "family": "Litzenberger",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Business"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "621–651"
+    ],
+    "title": [
+      "Prices of State-Contingent Claims Implicit in Option Prices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brennan",
+        "given": "M."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "462–474"
+    ],
+    "title": [
+      "Finite Difference Methods and Jump Processes Arising in the Pricing of Contingent Claims: A Synthesis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brennan",
+        "given": "M."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Banking and Finance"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "133–155"
+    ],
+    "title": [
+      "A Continuous Time Approach to the Pricing of Bonds"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brigo",
+        "given": "D."
+      },
+      {
+        "family": "Mercurio",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "Internal Paper,"
+    ],
+    "location": [
+      "Banca IMI, Milan"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "title": [
+      "On Deterministic Shift Extensions of Short Rate Models"
+    ],
+    "type": null,
+    "url": [
+      "http://web.tiscalinet.it/Damianhome."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brigo",
+        "given": "D."
+      },
+      {
+        "family": "Mercurio",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "Internal Report,"
+    ],
+    "location": [
+      "Banca IMI, Milan"
+    ],
+    "note": [
+      "Available at"
+    ],
+    "title": [
+      "Fitting Volatility Smiles with Analytically-Tractable Asset Price Models"
+    ],
+    "type": "report",
+    "url": [
+      "http://web.tiscalinet.it/damianhome."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brigo",
+        "given": "D."
+      },
+      {
+        "family": "Mercurio",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "123–126"
+    ],
+    "title": [
+      "A Mixed-up Smile"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brigo",
+        "given": "D."
+      },
+      {
+        "family": "Mercurio",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Finance and Stochastics"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "A Deterministic-Shift Extension of Analytically-Tractable and Time-Homogenous Short Rate Models"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brigo",
+        "given": "D."
+      },
+      {
+        "family": "Mercurio",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Mathematical Finance"
+    ],
+    "title": [
+      "Displaced and Mixture Diffusions for Analytically-Tractable Smile Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "D.",
+        "given": "Brigo"
+      },
+      {
+        "family": "Mercurio",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Interest Rate Models: Theory and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Broadie",
+        "given": "M."
+      },
+      {
+        "family": "Glasserman",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Journal of Economic Dynamics and Control"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "8–9, 1323–1352"
+    ],
+    "title": [
+      "Pricing American Style Securities Using Simulation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Broadie",
+        "given": "M."
+      },
+      {
+        "family": "Glasserman",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "Working Paper,"
+    ],
+    "publisher": [
+      "Columbia University"
+    ],
+    "title": [
+      "A Stochastic Mesh Method for Pricing High-Dimensional American Options"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Caflisch",
+        "given": "R."
+      },
+      {
+        "family": "Moskowitz",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Monte Carlo and Quasi–Monte Carlo Methods in Scientific Computing"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Niederreitter",
+        "given": "H."
+      },
+      {
+        "family": "Shiue",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Modified Monte Carlo Methods Using Quasi-Random Sequences"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cakici",
+        "given": "N."
+      },
+      {
+        "family": "Topyan",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "71–85"
+    ],
+    "title": [
+      "The GARCH Option Pricing Model: A Lattice Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carr",
+        "given": "P."
+      },
+      {
+        "family": "Yang",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Courant Institute at New York University"
+    ],
+    "title": [
+      "Simulating Bermudan Interest Rate Derivatives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Carr",
+        "given": "P."
+      },
+      {
+        "family": "Yang",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Courant Institute at New York University"
+    ],
+    "title": [
+      "Simulating American Bond Options in an HJM Framework"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Carverhill",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "305–312"
+    ],
+    "title": [
+      "When Is the Short Rate Markovian?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carverhill",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "89–96"
+    ],
+    "title": [
+      "A Note on the Models of Hull and White for Pricing Options on the Term Structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carverhill",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Stochastics and Stochastic Reports"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "227–240"
+    ],
+    "title": [
+      "A Simplified Exposition of the Heath-Jarrow-Morton Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carverhill",
+        "given": "A."
+      },
+      {
+        "family": "Pang",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "70–77"
+    ],
+    "title": [
+      "Efficient and Flexible Bond Option Valuation in the Heath, Jarrow, and Morton Framework"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chien",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "MBA Thesis."
+    ],
+    "publisher": [
+      "Department of Finance, National Taiwan University"
+    ],
+    "title": [
+      "On the Complexity of the Ritchken-Sankarasubramanian Interest Rate Model"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Clewlow",
+        "given": "L."
+      },
+      {
+        "family": "Carverhill",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "66–74"
+    ],
+    "title": [
+      "On the Simulation of Contingent Claims"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clewlow",
+        "given": "L."
+      },
+      {
+        "family": "Strickland",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Implementing Derivatives Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Clewlow",
+        "given": "L."
+      },
+      {
+        "family": "Strickland",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "35–45"
+    ],
+    "title": [
+      "Monte Carlo Valuation of Interest Rate Derivatives under Stochastic Volatility"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clewlow",
+        "given": "L."
+      },
+      {
+        "family": "Strickland",
+        "given": "C."
+      },
+      {
+        "family": "Pang",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Financial Options Research Centre"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Implementing Multi-Factor Gaussian HJM for Swap and Captions Pricing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Cont",
+        "given": "R."
+      },
+      {
+        "family": "Fonseca",
+        "given": "J.",
+        "particle": "da"
+      }
+    ],
+    "container-title": [
+      "Journal of Quantitative Finance"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "45–60"
+    ],
+    "title": [
+      "Dynamics of Implied Volatility Surfaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Conze",
+        "given": "A."
+      },
+      {
+        "given": "Viswanathan"
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1991",
+      "1991"
+    ],
+    "pages": [
+      "1893–1907"
+    ],
+    "title": [
+      "Path-dependent Options—The Case of Lookback Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Courtadon",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "697–703"
+    ],
+    "title": [
+      "A More Accurate Finite Difference Approximation of the Valuation of Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "genre": [
+      "Working Paper,"
+    ],
+    "publisher": [
+      "Stanford University"
+    ],
+    "title": [
+      "Notes on Option Pricing I: Constant Elasticity of Variance Diffusions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Ingersoll",
+        "given": "J."
+      },
+      {
+        "family": "Ross",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "363–384"
+    ],
+    "title": [
+      "An Intertemporal General Equilibrium Model of Asset Prices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Ingersoll",
+        "given": "J."
+      },
+      {
+        "family": "Ross",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1985"
+    ],
+    "title": [
+      "A Theory of the Term Structure of Interest Rates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "385–407"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Option Markets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Ross",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "145–166"
+    ],
+    "title": [
+      "The Valuation of Options for Alternative Stochastic Processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "J."
+      },
+      {
+        "family": "Ross",
+        "given": "S."
+      },
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "229–263"
+    ],
+    "title": [
+      "Option Pricing: A Simplified Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Das",
+        "given": "Sanjiv R."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "Working Paper,"
+    ],
+    "publisher": [
+      "Harvard Business School"
+    ],
+    "title": [
+      "On the Recursive Implementation of Term-Structure Models"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jong",
+        "given": "F.",
+        "particle": "De"
+      },
+      {
+        "family": "Driessen",
+        "given": "J."
+      },
+      {
+        "family": "Pelsser",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "LIBOR and Swap Market Models for the Pricing of Interest Rate Derivatives: An Empirical Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dempster",
+        "given": "M."
+      },
+      {
+        "family": "Hong",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "Center for Financial Research, Judge Institute of Management Studies at the University of Cambridge."
+    ],
+    "title": [
+      "Spread Option Valuation and the Fast Fourier Transform"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "55–59"
+    ],
+    "title": [
+      "Volatility Regimes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "32–39"
+    ],
+    "title": [
+      "Riding on a Smile"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Derivatives Quarterly"
+    ],
+    "date": [
+      "1996"
+    ],
+    "note": [
+      "Winter): 55–67 (Part I) and (Spring): 73–80 (Part II)."
+    ],
+    "title": [
+      "The Ins and Outs of Barrier Options"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "International Journal of Theoretical and Applied Finance"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "61–110"
+    ],
+    "title": [
+      "Stochastic Implied Trees: Arbitrage Pricing with Stochastic Term and Strike Structure of Volatility"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Ergener",
+        "given": "D."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Quantitative Strategies Research Notes, Goldman Sachs"
+    ],
+    "title": [
+      "Valuing Convertible Bonds as Derivatives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      },
+      {
+        "family": "Ergener",
+        "given": "D."
+      },
+      {
+        "family": "Bardhan",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Quantitative Strategies Research Notes, Goldman Sachs"
+    ],
+    "title": [
+      "Enhanced Numerical Methods for Options with Barriers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Ergener",
+        "given": "D."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "78–95"
+    ],
+    "title": [
+      "Static Options Replication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Summer"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Derman",
+        "given": "E."
+      },
+      {
+        "family": "Kani",
+        "given": "I."
+      },
+      {
+        "family": "Zou",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Financial Analysts Journal"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "25–36"
+    ],
+    "title": [
+      "The Local Volatility Surface: Unlocking the Information in Index Option Prices"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Dewynne",
+        "given": "J."
+      },
+      {
+        "family": "Wilmott",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "genre": [
+      "OCIAM Working Paper,"
+    ],
+    "publisher": [
+      "Mathematical Institute, Oxford University"
+    ],
+    "title": [
+      "Lookback Options"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dothan",
+        "given": "L.U."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "385–407"
+    ],
+    "title": [
+      "On the Term Structure of Interest Rates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Douady",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "International Journal of Theoretical and Applied Finance"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "17–42"
+    ],
+    "title": [
+      "Closed-Form Formulas for Exotic Options and Their Lifetime Distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Drost",
+        "given": "F."
+      },
+      {
+        "family": "Nijman",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "909–927"
+    ],
+    "title": [
+      "Temporal Aggregation of GARCH Processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duan",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "13–32"
+    ],
+    "title": [
+      "The GARCH Option Pricing Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duan",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "55–59"
+    ],
+    "title": [
+      "Cracking the Smile"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duan",
+        "given": "J."
+      },
+      {
+        "family": "Gauthier",
+        "given": "G."
+      },
+      {
+        "family": "Simonato",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "75–116"
+    ],
+    "title": [
+      "An Analytical Approximation for the GARCH Option Pricing Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duffie",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Dynamic Asset Pricing Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dumas",
+        "given": "B."
+      },
+      {
+        "family": "Fleming",
+        "given": "J."
+      },
+      {
+        "family": "Whaley",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "2059–2106"
+    ],
+    "title": [
+      "Implied Volatility Functions: Empirical Tests"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dupire",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "32–39"
+    ],
+    "title": [
+      "Pricing with a Smile"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dupire",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Pages 103–111 in Mathematics of Derivative Securities"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Dempster",
+        "given": "M."
+      },
+      {
+        "family": "Pliska",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Pricing and Hedging with Smiles"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dybvig",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Pages 271–293 in Mathematics of Derivative Securities"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Dempster",
+        "given": "M."
+      },
+      {
+        "family": "Pliska",
+        "given": "S."
+      }
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Bond and Bond Option Pricing Based on the Current Term Structure"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Engle",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "9871007"
+    ],
+    "title": [
+      "Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engle",
+        "given": "R."
+      },
+      {
+        "family": "Bollerslev",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Econometric Reviews"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "1–50, 81–87"
+    ],
+    "title": [
+      "Modelling the Persistence of Conditional Variances"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engle",
+        "given": "R."
+      },
+      {
+        "family": "Gonzalez-Riviera",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Journal of Business and Economic Statistics"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "345–359"
+    ],
+    "title": [
+      "Semi-parametric GARCH Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engle",
+        "given": "R."
+      },
+      {
+        "family": "Mustaf",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Journal of Econometrics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "289–311"
+    ],
+    "title": [
+      "Implied ARCH Models from Options Prices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engle",
+        "given": "R."
+      },
+      {
+        "family": "Ng",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "1749–1778"
+    ],
+    "title": [
+      "Measuring and Testing the Impact of News on Volatility"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engle",
+        "given": "R."
+      },
+      {
+        "family": "Ng",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Journal of Money, Credit and Banking"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "336–349"
+    ],
+    "title": [
+      "Time Varying Volatility and the Dynamic Behavior of the Term Structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Faure",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Acta Arithmetica"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "337–351"
+    ],
+    "title": [
+      "Discrepance de suites associées à un systeme de numeration (en dimensions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flesaker",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "483–496"
+    ],
+    "title": [
+      "Testing the Heath-Jarrow-Morton/Ho-Lee Model of Interest Rate Contingent Claims Pricing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flesaker",
+        "given": "B."
+      },
+      {
+        "family": "Hughston",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Mathematics of Derivative Securities"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "pages": [
+      "294–314"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Dynamic Models for Yield Curve Evolution"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fu",
+        "given": "M."
+      },
+      {
+        "family": "Madan",
+        "given": "D."
+      },
+      {
+        "family": "Wang",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "49–74"
+    ],
+    "title": [
+      "Pricing Continuous Asian Options: A Comparison of Monte Carlo and Leplace Transform Inverse Methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Geman",
+        "given": "H."
+      },
+      {
+        "family": "Karoui",
+        "given": "N.El"
+      },
+      {
+        "family": "Rochet",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Journal of Applied Probability"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "443–458"
+    ],
+    "title": [
+      "Changes of Numeraire, Changes of Probability Measures, and Pricing of Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Geman",
+        "given": "H."
+      },
+      {
+        "family": "Yor",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "365–78"
+    ],
+    "title": [
+      "Bessel Processes, Asian Options, and Perpetuities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Geman",
+        "given": "H."
+      },
+      {
+        "family": "Yor",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "365–378"
+    ],
+    "title": [
+      "Pricing and Hedging Double Barrier Options: A Probabilistic Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Glasserman",
+        "given": "P."
+      },
+      {
+        "family": "Kou",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Cap and Swaption Approximations in LIBOR Market Models with Jumps"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Glasserman",
+        "given": "P."
+      },
+      {
+        "family": "Kou",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Numerical Solution of Jump-Diffusion LIBOR Market Models"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Glasserman",
+        "given": "P."
+      },
+      {
+        "family": "Kou",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "The Term Structure of Simple Forward Rates with Jump Risk"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Glasserman",
+        "given": "P."
+      },
+      {
+        "family": "Zhao",
+        "given": "Z."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Columbia University, Graduate School of Business"
+    ],
+    "title": [
+      "Fast Greeks in Forward LIBOR Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Glasserman",
+        "given": "P."
+      },
+      {
+        "family": "Zhao",
+        "given": "Z."
+      }
+    ],
+    "container-title": [
+      "Finance and Stochastics"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "– , 35–68"
+    ],
+    "title": [
+      "Arbitrage-Free Discretization of Lognormal Forward LIBOR and Swap Rate Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goldman",
+        "given": "Sosin"
+      },
+      {
+        "given": "Gatto"
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "1111–1128"
+    ],
+    "title": [
+      "Path Dependent Options: Buy at the Low, Sell at the High"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grant",
+        "given": "D."
+      },
+      {
+        "family": "Vora",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "85–98"
+    ],
+    "title": [
+      "Implementing No-Arbitrage Term Structure of Interest Rate Models in Discrete Time When Interest Rates Are Normally Distributed"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gustafsson",
+        "given": "T."
+      },
+      {
+        "family": "Merabet",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "27–50"
+    ],
+    "title": [
+      "A Generalized Multinomial Method for Option Pricing in Several Dimensions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Halton",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "84–90"
+    ],
+    "title": [
+      "On the Efficiency of Certain Quasi-Random Sequences of Points in Evaluating Multi-dimensional Integrals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hamilton",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Time Series Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harrison",
+        "given": "J."
+      },
+      {
+        "family": "Kreps",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Economic Theory"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "381–408"
+    ],
+    "title": [
+      "Martingales and Arbitrage in Multiperiod Securities Markets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harrison",
+        "given": "J."
+      },
+      {
+        "family": "Pliska",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Stochastic Processes and Their Applications"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "215–260"
+    ],
+    "title": [
+      "Martingales and Stochastic Integrals in the Theory of Continuous Trading"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Harrison",
+        "given": "J."
+      },
+      {
+        "family": "Pliska",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Stochastic Processes and Their Applications"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "313–316"
+    ],
+    "title": [
+      "A Stochastic Calculus Model of Continuous Trading: Complete Markets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Review of Financial Studies"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "523–546"
+    ],
+    "title": [
+      "Convergence from Discrete-to-Continuous Time Contingent Claims Prices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "H."
+      },
+      {
+        "family": "Keirstead",
+        "given": "W."
+      },
+      {
+        "family": "Rebholz",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "201–228"
+    ],
+    "title": [
+      "Double Lookbacks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "D."
+      },
+      {
+        "family": "Jarrow",
+        "given": "R."
+      },
+      {
+        "family": "Morton",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Quantitative Analysis"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "419–440"
+    ],
+    "title": [
+      "Bond Pricing and the Term Structure of Interest Rates: A Discrete Time Approximation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "D."
+      },
+      {
+        "family": "Jarrow",
+        "given": "R."
+      },
+      {
+        "family": "Morton",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Review of Futures Markets"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "54–76"
+    ],
+    "title": [
+      "Contingent Claim Valuation with a Random Evolution of Interest Rates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heath",
+        "given": "D."
+      },
+      {
+        "family": "Jarrow",
+        "given": "R."
+      },
+      {
+        "family": "Morton",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "77–105"
+    ],
+    "title": [
+      "Bond Pricing and the Term Structure of Interest Rates: A New Methodology for Contingent Claim Valuation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ho",
+        "given": "T.S.Y."
+      },
+      {
+        "family": "Lee",
+        "given": "S.-B."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "1011–1029"
+    ],
+    "title": [
+      "Term Structure Movements and Pricing Interest Rate Contingent Claims"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hui",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Journal of Futures Markets"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "667–688"
+    ],
+    "title": [
+      "Time-Dependent Barrier Option Values"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Options, Futures, and Other Derivatives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "2"
+    ],
+    "title": [
+      "The Pricing of Options on Assets with Stochastic Volatilities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "87–100"
+    ],
+    "title": [
+      "Valuing Derivative Securities Using the Explicit Finite Difference Method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Advances in Futures and Options Research"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "1–13"
+    ],
+    "title": [
+      "Bond Option Pricing Based on a Model for the Evolution of Bond Prices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "Hull"
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "21–32"
+    ],
+    "title": [
+      "Efficient Procedures for Valuing European and American Path Dependent Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "235–254"
+    ],
+    "title": [
+      "One-Factor Interest Rate Models and the Valuation of Interest Rate Derivative Securities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "Hull"
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Engineering"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "287–296"
+    ],
+    "title": [
+      "The Pricing of Options on Interest Rate Caps and Floors Using the Hull-White Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "21–32"
+    ],
+    "title": [
+      "Numerical Procedures for Implementing Term Structure Models I: Single-factor Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "21–32"
+    ],
+    "title": [
+      "Numerical Procedures for Implementing Term Structure Models I: Single-factor Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "September"
+    ],
+    "pages": [
+      "97–102"
+    ],
+    "title": [
+      "A Note on the Models of Hull and White for Pricing Options on the Term Structure: Response"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      },
+      {
+        "family": "White",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Forward Rate Volatilities, Swap Rate Volatilities, and the Implementation of the LIBOR Market Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hunt",
+        "given": "P."
+      },
+      {
+        "family": "Pelsser",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Engineering"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "25–33"
+    ],
+    "title": [
+      "Arbitrage-Free Pricing of Quanto-Swaptions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hunter",
+        "given": "C."
+      },
+      {
+        "family": "Jackel",
+        "given": "P."
+      },
+      {
+        "family": "Joshi",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "Preprint. Available at www.rebonato.com."
+    ],
+    "title": [
+      "Drift Approximations in a Forward-Rate-Based LIBOR Market Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ioffe",
+        "given": "G."
+      },
+      {
+        "family": "Ioffe",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "note": [
+      "Paper available at www.egartech.com."
+    ],
+    "title": [
+      "Application of Finite Difference Method for Pricing Barrier Options"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jäckel",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Monte Carlo in the BGM/J Framework: Using a Non-Recombining Tree to Design a New Pricing Method for Bermudan Swaptions"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jäckel",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Monte Carlo Methods in Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "N."
+      },
+      {
+        "family": "Süli",
+        "given": "E."
+      },
+      {
+        "family": "Howison",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "5–32"
+    ],
+    "title": [
+      "Computation of Deterministic Volatility Surfaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "James",
+        "given": "J."
+      },
+      {
+        "family": "Webber",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Interest Rate Modeling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "James",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Option Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jamshidian",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "March"
+    ],
+    "pages": [
+      "205–209"
+    ],
+    "title": [
+      "An Exact Bond Option Formula"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jamshidian",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Research in Finance"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "131–170"
+    ],
+    "title": [
+      "Bond and Option Evaluation in the Gaussian Interest Rate Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jamshidian",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "62–74"
+    ],
+    "title": [
+      "Forward Induction and Construction of Yield Curve Diffusion Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jamshidian",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Applied Mathematical Finance"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "61–72"
+    ],
+    "title": [
+      "A Simple Class of Square-Root Interest Rate Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jamshidian",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Finance and Stochastics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "43–67"
+    ],
+    "title": [
+      "LIBOR and Swap Market Models and Measures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jamshidian",
+        "given": "F."
+      },
+      {
+        "family": "Zhu",
+        "given": "Y."
+      }
+    ],
+    "container-title": [
+      "Finance and Stochastics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "43–67"
+    ],
+    "title": [
+      "Scenario Simulation: Theory and Methodology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jarrow",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Engineering"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "269–279"
+    ],
+    "title": [
+      "The HJM Model: Its Past, Present, and Future"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jarrow",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Modeling Fixed Income Securities and Interest Rate Options"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kamrad",
+        "given": "B."
+      },
+      {
+        "family": "Ritchken",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Management Science"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1640–1652"
+    ],
+    "title": [
+      "Multinomial Approximating Models for Options with k-State Variables"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kemma",
+        "given": "A."
+      },
+      {
+        "family": "Vorst",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Banking Finance"
+    ],
+    "date": [
+      "1990",
+      "March"
+    ],
+    "pages": [
+      "113–129"
+    ],
+    "title": [
+      "A Pricing Method for Options Based upon Average Asset Values"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kennedy",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "107–118"
+    ],
+    "title": [
+      "Characterizing Gaussian Models of the Term Structure of Interest Rates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kerman",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Courant Institute of Mathematical Sciences"
+    ],
+    "title": [
+      "Numerical Methods for Option Pricing: Binomial and Finite Difference Approximations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kijima",
+        "given": "M."
+      },
+      {
+        "family": "Nagayma",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Engineering"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "275–292"
+    ],
+    "title": [
+      "Efficient Numerical Procedures for the Hull-White Extended Vasicek Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kijima",
+        "given": "M."
+      },
+      {
+        "family": "Nagayma",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Engineering"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "317–337"
+    ],
+    "title": [
+      "Numerical Procedure of the General One-Factor Interest Rate Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kloeden",
+        "given": "P."
+      },
+      {
+        "family": "Platen",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Numerical Solution of Stochastic Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamberton",
+        "given": "D."
+      },
+      {
+        "family": "Lapeyre",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman and Hall"
+    ],
+    "title": [
+      "Introduction to Stochastic Calculus Applied to Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lapeyre",
+        "given": "B."
+      },
+      {
+        "family": "Temam",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "39–57"
+    ],
+    "title": [
+      "Competitive Monte Carlo Methods for the Pricing of Asian Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levy",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "note": [
+      "Risk (May): 7–8."
+    ],
+    "title": [
+      "Asian Arithmetic"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "MBA Thesis,"
+    ],
+    "publisher": [
+      "Duke University, Johnson Graduate School of Business"
+    ],
+    "title": [
+      "A C++ Encoded Interest Rate Tree Builder"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "A."
+      },
+      {
+        "family": "Ritchken",
+        "given": "P."
+      },
+      {
+        "family": "Sankarasubramanian",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "719–737"
+    ],
+    "title": [
+      "Lattice Models for Pricing American Interest Rate Claims"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "A."
+      },
+      {
+        "family": "Ritchken",
+        "given": "P."
+      },
+      {
+        "family": "Sankarasubramanian",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "65–69"
+    ],
+    "title": [
+      "Lattice Works"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Linetsky",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "given": "Risk"
+      }
+    ],
+    "pages": [
+      "62–65"
+    ],
+    "title": [
+      "Steps to the Barrier"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Linetsky",
+        "given": "V."
+      },
+      {
+        "family": "Davydov",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "55–87"
+    ],
+    "title": [
+      "Structuring, Pricing, and Hedging Double-Barrier Step Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5,(2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Longstaff",
+        "given": "F."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "1259–1282"
+    ],
+    "title": [
+      "Interest Rate Volatility and the Term Structure: A Two-Factor General Equilibrium Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Longstaff",
+        "given": "F."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "16–23"
+    ],
+    "title": [
+      "A Two-Factor Interest Rate Model and Contingent Claims Valuation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Longstaff",
+        "given": "F."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "7–14"
+    ],
+    "title": [
+      "Implementation of the Longstaff-Schwartz Interest Rate Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Longstaff",
+        "given": "F."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Review of Financial Studies"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "113–147"
+    ],
+    "title": [
+      "Valuing American Options by Simulation: A Simple Least Squares Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Madan",
+        "given": "D."
+      },
+      {
+        "family": "Carr",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "61–73"
+    ],
+    "title": [
+      "Option Valuation Using the Fast Fourier Transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Melick",
+        "given": "W."
+      },
+      {
+        "family": "Thomas",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "91–115"
+    ],
+    "title": [
+      "Recovering an Asset’s Implied PDF from Option Prices: An Application to Crude Oil During the Gulf Crisis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Merabet",
+        "given": "H."
+      },
+      {
+        "family": "Gustaffsson",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "27–50"
+    ],
+    "title": [
+      "A Generalized Multinomial Method for Option Pricing in Several Dimensions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Merton",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Bell Journal of Economics and Management Science"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "141–183"
+    ],
+    "title": [
+      "Theory of Rational Option Pricing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Miltersen",
+        "given": "K."
+      },
+      {
+        "family": "Sandmann",
+        "given": "K."
+      },
+      {
+        "family": "Sondermann",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "409–430"
+    ],
+    "title": [
+      "Closed Form Solutions for Term Structure Derivatives with Log-Normal Interest Rates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moon",
+        "given": "H."
+      },
+      {
+        "family": "Sohn",
+        "given": "J."
+      },
+      {
+        "family": "Kwon",
+        "given": "Y."
+      }
+    ],
+    "note": [
+      "Preprint. Available at"
+    ],
+    "title": [
+      "Implementation of LRS Model Using Trinomial Lattice Method"
+    ],
+    "type": null,
+    "url": [
+      "www.math.nyu.edu/ms_students/ywk204."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Müller",
+        "given": "U."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Journal of Empirical Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "213–239"
+    ],
+    "title": [
+      "Volatilities of Different Time Resolutions—Analyzing the Dynamics of Market Components"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Musiela",
+        "given": "M."
+      },
+      {
+        "family": "Rutkowski",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Finance and Stochastics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "261–292"
+    ],
+    "title": [
+      "Continuous-Time Term Structure Models: Forward Measure Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Musiela",
+        "given": "M."
+      },
+      {
+        "family": "Rutkowski",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Martingale Methods in Financial Modeling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Econometrica"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "347–370"
+    ],
+    "title": [
+      "Conditional Heteroskedasticity in Asset Returns: A New Approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "D."
+      },
+      {
+        "family": "Cao",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Journal of Business and Economic Statistics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "229–235"
+    ],
+    "title": [
+      "Inequality Constraints in the Univariate GARCH Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "D."
+      },
+      {
+        "family": "Ramaswamy",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Review of Financial Studies"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "393–430"
+    ],
+    "title": [
+      "Simple Binomial Processes as Diffusion Approximations in Financial Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "CBMS-NSF Conference Series in Applied Math"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "SIAM"
+    ],
+    "title": [
+      "Random Number Generation and Quasi Monte Carlo Methods"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "container-title": [
+      "Lecture Notes in Statistics"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Niederreiter",
+        "given": "H."
+      },
+      {
+        "family": "Shiue",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing"
+    ],
+    "type": "chapter",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oksendal",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Stochastic Differential Equations: An Introduction with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pagan",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Empirical Finance"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "15–102"
+    ],
+    "title": [
+      "The Econometrics of Financial Markets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pagan",
+        "given": "A."
+      },
+      {
+        "family": "Schwert",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Journal of Econometrics"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "267–290"
+    ],
+    "title": [
+      "Alternative Models for Conditional Stock Volatility"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Palm",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Handbook of Statistics"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Maddala",
+        "given": "G.S."
+      },
+      {
+        "family": "Rao",
+        "given": "C.R."
+      }
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "title": [
+      "GARCH Models of Volatility"
+    ],
+    "type": "chapter",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Papageorgiou",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Journal of Complexity"
+    ],
+    "date": [
+      "2001"
+    ],
+    "note": [
+      "Available at www.idea library.com."
+    ],
+    "title": [
+      "The Brownian Bridge Does Not Offer a Consistent Advantage in Quasi-Monte Carlo Integration"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Pedersen",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Bermudan Swaptions in the LIBOR Market Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pelsser",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Efficient Methods for Valuing Interest Rate Derivatives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W."
+      },
+      {
+        "family": "Flannery",
+        "given": "B.P."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in C: The Art of Scientific Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Interest Rate Option Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1999",
+      "March"
+    ],
+    "pages": [
+      "74–79"
+    ],
+    "title": [
+      "Calibrating the BGM Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "57–76"
+    ],
+    "title": [
+      "On the Pricing Implications of the Joint Lognormal Assumption for the Swaption and Cap Market"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "5–27"
+    ],
+    "title": [
+      "On the Simultaneous Calibration of Multifactor Lognormal Interest Rate Models to Black Volatilities and to the Correlation Matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Volatility and Correlation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Modern Pricing of Interest Rate Derivatives: The LIBOR Market Model and Beyond"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Quantitative Research Center of the Royal Bank of Scotland"
+    ],
+    "title": [
+      "Term Structure Models: A Review"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "R.",
+        "given": "Rebonato"
+      },
+      {
+        "family": "Jackel",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Quantitative Research Center of the Royal Bank of Scotland"
+    ],
+    "title": [
+      "Linking Caplet and Swaption Volatilities in BGM/J Framework: Approximate Solutions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      },
+      {
+        "family": "Joshi",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Quantitative Research Center of the Royal Bank of Scotland"
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "Preprint. Available at www.rebonato.com."
+    ],
+    "title": [
+      "A Stochastic Volatility, Displaced-Diffusion Extension of the LIBOR Market Model"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rebonato",
+        "given": "R."
+      },
+      {
+        "family": "Kainth",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "QUARC-Royal Bank of Scotland, Preprint. Available at www.rebonato.com."
+    ],
+    "title": [
+      "A Two-Regime, Stochastic Volatility Extension of the LIBOR Market Model: Theory and Empirical Evidence"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rendleman",
+        "given": "R."
+      },
+      {
+        "family": "Bartter",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "11–24"
+    ],
+    "title": [
+      "The Pricing of Options on Debt Securities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchey",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Research"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "285–296"
+    ],
+    "title": [
+      "Call Option Valuation for Discrete Normal Mixtures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchken",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "19–28"
+    ],
+    "title": [
+      "On Pricing Barrier Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchken",
+        "given": "P."
+      },
+      {
+        "family": "Sankarasubramanian",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "25–41"
+    ],
+    "title": [
+      "The Importance of Forward-Rate Volatility Structures in Pricing Interest-Rate Sensitive Claims"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchken",
+        "given": "P."
+      },
+      {
+        "family": "Sankarasubramanian",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Mathematical Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "55–72"
+    ],
+    "title": [
+      "Volatility Structures of Forward Rates and the Dynamics of the Term Structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ritchken",
+        "given": "P."
+      },
+      {
+        "family": "Trevor",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "377–402"
+    ],
+    "title": [
+      "Pricing Options under Generalized GARCH and Stochastic Volatility Processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "L."
+      },
+      {
+        "family": "Zane",
+        "given": "O."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "5–12"
+    ],
+    "title": [
+      "Valuing Moving Barrier Options"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "213–217"
+    ],
+    "title": [
+      "Displaced Diffusion Option Pricing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Finance"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "771–818"
+    ],
+    "title": [
+      "Implied Binomial Trees"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Journal of Derivatives"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "20–27"
+    ],
+    "title": [
+      "Edgeworth Binomial Trees"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rubinstein",
+        "given": "M."
+      },
+      {
+        "family": "Reiner",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "28–35"
+    ],
+    "title": [
+      "Breaking Down the Barriers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "September"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rutkowski",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Models of Forward LIBOR and Swap Rates"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sandmann",
+        "given": "K."
+      },
+      {
+        "family": "Sondermann",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "University of Bonn, Discussion Paper No. B-263"
+    ],
+    "title": [
+      "On the Stability of Lognormal Interest Rate Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Santa Clara",
+        "given": "P."
+      },
+      {
+        "family": "Sornette",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Review of Financial Studies"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "149–185"
+    ],
+    "title": [
+      "The Dynamics of the Forward Interest Rate Curve with Stochastic String Shocks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schaefer",
+        "given": "S."
+      },
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "413–424"
+    ],
+    "title": [
+      "A Two Factor Model of Term Structure: An Approximate Analytical Solution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schlogl",
+        "given": "E."
+      },
+      {
+        "family": "Sommer",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Engineering"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "79–88"
+    ],
+    "title": [
+      "Factor Models and the Shape of the Term Structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Finance and Stochastics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "3–24"
+    ],
+    "title": [
+      "On a General Class of One-Factor Models for the Term Structure of Interest Rates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schroder",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Computational Finance"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "4"
+    ],
+    "title": [
+      "On the Valuation of Double-Barrier Options: Computational Aspects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Scott",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "Working Paper,"
+    ],
+    "publisher": [
+      "University of Georgia"
+    ],
+    "title": [
+      "The Valuation of Interest Rate Derivatives in a Multi-Factor Term Struct Model with Deterministic Components"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sidenius",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Computational Finance"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "63–79"
+    ],
+    "title": [
+      "Double Barrier Options: Valuation by Path Counting"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sobol",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "U.S.S.R. Computational Math. and Math. Physics"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "86–112"
+    ],
+    "title": [
+      "On the Distribution of Points in a Cube and the Approximate Evaluation of Integrals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taleb",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Dynamic Hedging"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "Y."
+      },
+      {
+        "family": "Lange",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "4"
+    ],
+    "title": [
+      "Nonexploding Bushy Tree Technique and Its Application to the Multifactor Interest Rate Market Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tavella",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Quantitative Methods in Derivatives Pricing: An Introduction to Computational Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Thorsten",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "Research Paper,"
+    ],
+    "publisher": [
+      "Limburg Institute of Financial Economics, Masstricht University"
+    ],
+    "title": [
+      "Explaining Smiles: GARCH Option Pricing with Conditional Leptokurtosis and Skewness"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Thorsten",
+        "given": "L."
+      },
+      {
+        "family": "Jong",
+        "given": "C.",
+        "particle": "de"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "LIFE Working Paper,"
+    ],
+    "publisher": [
+      "Limburg Institute of Financial Economics, Masstricht University"
+    ],
+    "title": [
+      "Implied GARCH Volatility Forecasting"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tikhonov",
+        "given": "A."
+      },
+      {
+        "family": "Arsenin",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Winston-Wiley"
+    ],
+    "title": [
+      "Solutions of Ill-Posed Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tikhonov",
+        "given": "A."
+      },
+      {
+        "family": "Samarskii",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1963"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Equations of Mathematical Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tilley",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Transactions of the Society of Actuaries"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "83–104"
+    ],
+    "title": [
+      "Valuing American Options in a Path Simulation Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trevor",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Centre for Applied Finance, Maquarie University"
+    ],
+    "title": [
+      "Modeling Volatility Surfaces with GARCH"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Trigeorgis",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial and Quantitative Analysis"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "309–326"
+    ],
+    "title": [
+      "A Log-transformed Binomial Numerical Analysis Method for Valuing Complex Multi-Option Investments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tsiveriotis",
+        "given": "K."
+      },
+      {
+        "family": "Fernandes",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Journal of Fixed Income"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "5–102"
+    ],
+    "title": [
+      "Valuing Convertible Bonds with Credit Risk"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vasicek",
+        "given": "O."
+      }
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "177–188"
+    ],
+    "title": [
+      "An Equilibrium Characterization of the Term Structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Webber",
+        "given": "J."
+      },
+      {
+        "family": "McCarthy",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Journal of Computational Finance"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "1–36"
+    ],
+    "title": [
+      "Pricing in Three-Factor Models Using Icosahedral Lattices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Asymptotic Theory for Econometricians"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmott",
+        "given": "P."
+      },
+      {
+        "family": "Howison",
+        "given": "S."
+      },
+      {
+        "family": "Dewynne",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "The Mathematics of Financial Derivatives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilmott",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Derivatives: The Theory and Practice of Financial Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wu",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "genre": [
+      "MBA Thesis,"
+    ],
+    "note": [
+      "About the CD-ROM"
+    ],
+    "publisher": [
+      "Department of Finance, National Taiwan University"
+    ],
+    "title": [
+      "An Accurate and Provably Efficient GARCH Option Pricing Tree"
+    ],
+    "type": "thesis"
+  }
+]
