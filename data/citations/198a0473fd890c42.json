@@ -1,0 +1,981 @@
+[
+  {
+    "title": [
+      "CallThisFn = Application.Run(fn_name, arg) End Function"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Function CallThisFn2(fn_name As String, arg As Double) As Variant CallThisFn2 = Application.Evaluate(fn_name & \"(\" & CStr(arg) & \")\") End Function"
+    ],
+    "title": [
+      "This method does not work with Excel’s own functions, however. If you want to cope with both user-defined functions and Excel functions in the same code, one solution is to use the Application.Evaluate() method as shown here, albeit that the construction of the expression is a little messy"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "VBA_Pricer",
+        "given": "Function"
+      }
+    ],
+    "publisher": [
+      "VBA_Pricer = ReturnValue End Function"
+    ],
+    "title": [
+      "OtherParameter As Variant) _ As Variant Dim ReturnValue As Variant ' Code to price the instrument or return failure condition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sabr",
+        "given": "SabrWrapper"
+      },
+      {
+        "given": "SabrSetStrikeIndependents"
+      }
+    ],
+    "title": [
+      "// Create an instance of BlackOption class for vanilla swaption"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "pricing"
+      }
+    ],
+    "location": [
+      "Black.SetTexp(Texp); Black.SetFwd(fwd_swap"
+    ],
+    "publisher": [
+      "BlackOption Black"
+    ],
+    "title": [
+      "For now, just set up the things that don' t change"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Black.SetStrike",
+        "given": "BlackSetVol"
+      },
+      {
+        "given": "BlackCalc"
+      }
+    ],
+    "location": [
+      "Black.GetCallPrice"
+    ],
+    "publisher": [
+      "is_call ?",
+      "Black.GetPutPrice("
+    ],
+    "title": [
+      "// false: don' t calculate greeks black_price ="
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "P.",
+        "given": "Kumar"
+      },
+      {
+        "family": "D.",
+        "given": "Lesniekski"
+      },
+      {
+        "given": "A."
+      },
+      {
+        "family": "D",
+        "given": "Woodward"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "(Hagan,"
+    ],
+    "title": [
+      "Performance.cpp Functions used to time the performance of compiled C/C++ code. This is used to test the relative performance compared to VBA. SABR.cpp Example implementation of the SABR stochastic SABR.h volatility model",
+      "Managing Smile Risk). Spline.cpp Functions that create cubic splines and interpolate them, and a simple linear interpolation function"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Abramowitz",
+        "given": "M."
+      },
+      {
+        "family": "Stegun",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Mineola, NY"
+    ],
+    "publisher": [
+      "Dover Publications, Inc"
+    ],
+    "title": [
+      "Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical Tables"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bullen",
+        "given": "S."
+      },
+      {
+        "family": "Bovey",
+        "given": "R."
+      },
+      {
+        "family": "Green",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Boston. MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company"
+    ],
+    "title": [
+      "Professional Excel Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Clewlow",
+        "given": "L."
+      },
+      {
+        "family": "Strickland",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd"
+    ],
+    "title": [
+      "Implementing Derivative Models"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "M."
+      },
+      {
+        "family": "Staunton",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Ltd"
+    ],
+    "title": [
+      "Advanced Modelling in Finance Using Excel and VBA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "B."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liberty",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "4th edn"
+    ],
+    "location": [
+      "Indiana"
+    ],
+    "publisher": [
+      "Sams Publishing"
+    ],
+    "title": [
+      "Teach Yourself C++"
+    ],
+    "type": "book"
+  },
+  {
+    "location": [
+      "Buffalo, NY"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Microsoft Excel 97 Developer’s Kit (1997"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W."
+      },
+      {
+        "family": "Flannery",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W."
+      },
+      {
+        "family": "Flannery",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Satir",
+        "given": "G."
+      },
+      {
+        "family": "Brown",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "O’Reilly & Associates, Inc"
+    ],
+    "title": [
+      "C++: The Core Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company. Web Links and Other Resources"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "task lists 407–17 missing arguments 201–2, 496–7 thread amendments 411–17 modifying-in-place techniques 211–12, 253–4 worksheet-function restrictions 409 Paste Function dialog 47–9, 115–16, 245–74,"
+    ],
+    "pages": [
+      "274–6, 411–17 417–19",
+      "416–17"
+    ],
+    "title": [
+      "active/inactive concepts 114–15 coding selections 2 Application.ScreenUpdating 507–9 concepts 2–8, 38–47, 90, 97–8, 111–25, Application.Volatile 61–3 127–202, 212–22, 398–401, 417–33, Application.WorksheetFunction.Price 79 451–530 ArgRtnTypes 269–74 definition 7 arguments deletions 114–15 coding/typographical conventions 1–2, 316–18 design considerations 10, 44, 209–10, 419–49, concepts 1–2, 5–7, 20–2, 29–31, 41–2, 48, 451–530 127–202, 203–22, 249–74, 421–9 desired objectives 419 construction dialog 48–9 error-propagation controls 429–32 evaluation 41–2 financial applications 10, 451–530 Excel 2007 (V12) 263–6 interface/core-function code separation 419–29 loading/unloading processes 46–7, 61–2, Excel/DLL data-passing 127–202, 225–31, 114–16 249–74 optimisation considerations 10, 44, 209–10, Excel4 226–71 433–49 lists 31, 48–9 540 Index arguments (continued) software requirements 407–9 memory-management guidelines 203–22"
+    ],
+    "type": null,
+    "volume": [
+      "Background.cpp 412"
+    ]
+  },
+  {
+    "container-title": [
+      "concepts",
+      "Standard Template Library"
+    ],
+    "date": [
+      "cpp_xloper 2"
+    ],
+    "genre": [
+      "documentation 8,",
+      "resource requirements 2–5,",
+      "VBA contrasts 40–1,",
+      "workspace information commands/functions VB 8,"
+    ],
+    "note": [
+      "volatile functions 35–6, 252–4 trigger arguments 35–6,"
+    ],
+    "pages": [
+      "85–8,",
+      "119–25,",
+      "135–41,",
+      "396–8, 451–530 163–4, 195–202, 212–13, 223–364, 372–3,",
+      "401–6, 526–7 146–202, 206–22, 231–6, 257–73,",
+      "311–12,",
+      "389–98, 405–6 334–44,",
+      "382–3, 402–6, 415–17,",
+      "291–7 446–9,",
+      "376–7",
+      "226–364",
+      "433–49, 494 344–51",
+      "97–8, 407–9, 223–364, 372–3, 526–7 441–9",
+      "223–4, 372–3, 402–6,",
+      "325–6,",
+      "433 409–11",
+      "309–10, 365–73",
+      "62–88,",
+      "368–73 270–1,",
+      "389–98, 418–19"
+    ],
+    "title": [
+      "calling conventions 91–7 commands 223–364, 401–6 coding/typographical conventions 1–2, 91–2 concepts 8, 23–7, 28–9, 41–4",
+      "280, custom dialog boxes 351–6, 416–17 285–9, 296–7",
+      "475–7, 496–502 event trapping 356–61 data types 64–88, 91, 127–202 Excel4 111–14, 140–1, 144, 154–9, 195–6, execution speeds 365–73",
+      "Monte Carlo simulation 509–11 exclusive functions 274–85 name classes 2, 316–17, 387–9, 402–6 financial applications 9, 451–530 name decoration 91–2 functions 223–364 object-oriented features 2, 127, 146–7, 238–9 memory management 417–19 OLE/COM automation 3–4, 64–88, 146–7, 237, menus 326–44 362–3, 376–85, 419–33 miscellaneous commands/functions 361–4 overview 1–10 name-handling capabilities 316–26 performance issues 8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71, 72",
+      "2, 86",
+      "127, 146–202, 206–22, 97–8, 111–14, 116, 127",
+      "159, 316–17, 365–73, 387–9",
+      "85–6, 119–25, 127, 141",
+      "300–1, 309",
+      "DLL calls 236–71, 377",
+      "364",
+      "494 203–22, 223–364",
+      "features 1–2, 223 Excel12 159, 164",
+      "365–73",
+      "90",
+      "44",
+      "2",
+      "397",
+      "100",
+      "55",
+      "94",
+      "289–315, 318–26"
+    ]
+  },
+  {
+    "container-title": [
+      "CALCULATE.NOW",
+      "VB"
+    ],
+    "date": [
+      "xlopers 2"
+    ],
+    "genre": [
+      "CALL 269 performance issues 8,"
+    ],
+    "note": [
+      "127–202, 205–22, 226–364, 382–3, call-by-value arguments, concepts 63–4, 68–76,"
+    ],
+    "pages": [
+      "419–33",
+      "511–13 1–10",
+      "433–49,",
+      "62–88,",
+      "368–73 68–76,",
+      "108–10, 398–401, 423–9,",
+      "23–7,",
+      "74–6, 85–6, 115–16, 432 119–25,"
+    ],
+    "title": [
+      "C wrapped functions 146–53, 238–44, 259–62, see also financial applications 352, 392–3, 400, 410, 424–8, 465–6, arrays 80–6, 128–202, 385–7 518–19 call-by-reference/value arguments 63–4, 68–76, xlcall32 library 111–14 86, 94, 432 XLCallVer 111–14, 364 calling conventions 91–7, 389–98 XLM 223–364 data types 64–88, 91, 127–202 xlopers 127–202 execution speeds 365–73, 494 CalcMe 43–4 initialisation processes 187–8, 198–202, 355–6 Calculate 42–5 library functions 2, 27 calculated data, concepts 50–1 Monte Carlo simulation 509–11 CALCULATE.DOCUMENT 44–5 name decoration 91–2 CalculateFullRebuild 45 OLE/COM automation 3–4, 64–88, 146–7, 237",
+      "494 call options 438–40 resource requirements 2–5, 90, 97–8, 407–9, Call Speed Test-C API.xls 372 441–9 Call Speed Test-VBA.xls 372 trigger arguments 35–6, 100, 309–10, 365–73 call-by-reference arguments, concepts 1–2, 63–4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45 362–3, 376–85",
+      "calibration 33",
+      "365–73",
+      "8, 55",
+      "94",
+      "86, 94",
+      "16",
+      "45"
+    ]
+  },
+  {
+    "citation-number": [
+      "concat_xl12"
+    ],
+    "container-title": [
+      "model",
+      "circular references",
+      "asynchronous calls"
+    ],
+    "issue": [
+      "C++"
+    ],
+    "note": [
+      "concepts 9, 13–27, 29–31, 64–88, 127–202, disabled screens, command execution 361–4 225–31, 249–74, 417–19 discount curves, examples 502–5 conversions 16–22, 64–88, 127–202, 225–31, dispatch pointers 78, 377–85 249–74, 421–9 DISPID 379–85 Excel 9, 13–27, 29–31, 127–202, 225–31, DLL radio button 105 249–74, 417–19 DllMain 215–16, 236–71 Excel/DLL data-passing 127–202, 225–31, DllName 269–74 249–74, 417–19 DLLs 3–5, 9, 24, 28–9, 31, 38–47, 55–88, object data types 78–9 89–125, 127–202, 205–22, 223–71, 316–26, user-defined data structures 9, 20–2, 64–9, 76–9 376–85, 389–406, 514–19 variant data types 64–7, 71–6, 155–9, 382, see also XLLs 417–19, 421–9, 436, 441 add-in manager 46, 97–8,",
+      "basics 89–90 data-organisation overview, Excel 11 binary names 198, 285–9, 325–6, 396–8, Data/Table... 31–3 469–70 DATE 13, 31 C API functions 236–71, 377, 405–6 Date 64, 65–8, 73–6 calling conventions 91–7, 231–6, 313–15, DATE 65, 73–6 date functions, financial markets 493–502 389–98"
+    ],
+    "pages": [
+      "285–9, 296–7, 300–1,",
+      "311–12, 528–30 334–44,",
+      "382–3,",
+      "338–44 4 491–3",
+      "426–9 12 491–3",
+      "107–8,",
+      "232–6 115–16, 245–74, 373–6",
+      "127–202 1–2, 316–18",
+      "111–25, 64–88 127–202, 244–5 13–15, 20–2, 64–88, 127–202,",
+      "401–6 249–74"
+    ],
+    "title": [
+      "460–1 count_to_date 496–502 conditional formatting, cells 40–1 count_used_cells 195–6 const 112, 242–3 COUPPCD 494 constant maturity swaps (CMSs) 10, 439–40, covariance 468–9, 509 513–19, 528–30 cpp_xloper 2, 85–6, 119–25, 127, 141, concepts 513–19, 528–30 146–202, 206–22, 231–6, 238–44, 257–73, SABR (stochastic alpha beta rho",
+      "402–6, 415–17, constant xloper12s, concepts 144–6 446–9, 475–7, 496–502 constant xlopers, concepts 144–6, 195–6 concepts 127, 146–202, 206–22, 231–6, constants see fixed input data 238–44, 257–73, 280, 285–9, 300–1, 309, construction dialog, arguments 48–9 311–12, 334–44, 382–3, 402–6, 415–17, constructors, optimisation considerations 434–40 446–9, 475–7, 496–502 control buttons, coding/typographical conventions initialisation processes 199–200 1–2 requirements 146–7 control objects, VB command macros 58–9 structure 146–53, 199–200 Control Toolbox 58 wrapped functions 146–53, 238–44, 259–62, conversions 352, 410, 424–8 array variants 84–6, 155–9 cpp_xloper::Alert 244 data types 16–22, 64–88, 127–202, 225–31, cpp_xloper::Free 164–202 249–74, 421–9 cpp_xloper.cpp 153 defined range names 19–22, 311–12 cpp_xloper::Excel 200–1, 208, 242–4 explicit type conversion functions 20–2 crashes 9, 377, 399–400, 417–19 multi-cell range references 18–22, 64–8, 80–6, see also memory... 311–15 causes 417–19 optimisation considerations 434–40 create_discount_curve_xl4 504–5 single-cell references 18–22, 312–15 create_discount_curve_xl12 504–5 strings 26 credit risks 502–5 worksheet-function argument-type conversions critical sections 20–2, 30, 64–9, 80–6, 127–202, 229–36, background task management 407–17, 418–19, 249–74 468 xloper12s 154–63, 276–8 memory management 219–22 xlopers 154–9, 167–8, 172–3, 175–6, CRITICAL_SECTION 219–22 178–80, 188–90, 194–5, 197, 229–36, 276–8, 312 cross-worksheet dependencies, Excel versions 36–8 xltype 167–8 Ctrl-Alt-F9 keystroke 45 xltypeBool 175–6 Ctrl-Alt-Shift-F9 keystroke 45 xltypeErr 178 Ctrl-K keystroke (hyperlinks) 51 xltypeInt 179–80 Ctrl-Shift-Enter keystroke, arrays 30–1, 82–3 xltypeMulti 188–90 CUBE... 213–14 xltypeNil 197 cubic equations 521–2 xltypeRef 194–5 cubic splines, concepts 477, 482–5 xltypeSRef 194–5 cumulative normal distributions 470–4 xltypeStr 172–3 Currency 64–8, 72–6 ConvertMultiToDouble 153–5, 194–5 current concepts 27–8, 279–80, 291, 317–18 convexity adjustments 513 current_system_time 94, 100–2 copies, XLLs 114–15 curves correlated random samples, examples 468–9 discount curves 502–5 cost factors, software 434–49 interpolation functions 477–85 COUNT 195–6 custom dialog boxes count 226–36, 242–3, 261–2 alert displays 351–2 count_char_xl4 452–3 concepts 199–201, 351–6, 416–17 count_char_xl12 452–3 creation processes 355–6 COUNTIF 486–93 input restrictions 356 CountIfMulti 486–93 custom menus 326–8",
+      "CY 64–8, 72–6 544 Index DATA 81–2 portfolios 444–5, 513–19 data organisation design considerations good design/practice 50–4, 417–19 see also good design... spreadsheets 50–4 add-ins 10, 44, 209–10, 419–49, 451–530 data references, worksheets 398–401 destructors, optimisation considerations 434–40 data structures 9, 20–2, 64–9, 76–9, 127–202, dialogs 385–7, 469–70 custom dialog boxes 199–201, 351–6, 416–17 data tables Paste Function dialog 47–9",
+      "concepts 31–3 Search and Replace dialogs 375–6 recalculation logic 31–3, 40 worksheet-function-call detection processes data types 9, 13–27, 29–31, 64–88, 127–202, 373–6 249–74, 290–315, 417–19 directory paths, coding/typographical conventions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "280",
+      "309",
+      "364",
+      "332",
+      "CVerr 76",
+      "55, 88, 102",
+      "32",
+      "C",
+      "102",
+      "9, 377"
+    ]
+  },
+  {
+    "container-title": [
+      "Double"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "V8"
+    ],
+    "note": [
+      "double 65–8, 92, 127–202, 220–1, 472–4, statistical functions 463–74 498–502 string functions 451–63 double-clicks, event trapping 357–8 trees and lattices 505–6 doubles 15, 61–88, 127–202, 220–1, 249–74, Example.xls 512–13 370–3, 398, 436–7, 498–502 Excel DSUM 214 95 8–9 dual-interfaced functions, Excel 2007 (V12) 263–9,"
+    ],
+    "pages": [
+      "439–40, 249–74 513–19,",
+      "65–8,",
+      "425–6, 436 516–30",
+      "36–8,",
+      "442 406, 423–9,",
+      "498–9",
+      "36–8,",
+      "370–2, 433"
+    ],
+    "title": [
+      "multi-threading 90–1, 131–5, 377, 401–17 window selection-events 360 multiple DLL instances 90, 204, 283–4 worksheet data-entries 358, 512–13 name-handling capabilities 316–26 EXACT 17 names 91–7, 100–10, 198, 256–62, 285–9, 293, examples 309–10, 316–26, 390–401 calibration 511–13 passing-data considerations 127–202, 225–31, constant maturity swaps (CMSs",
+      "528–30 registered/unregistered functions 244–71, date functions 493–502 303–12 discount curves 502–5 resource requirements 3–5, 90, 97–8, 111, financial applications 9, 451–530 407–9 interpolation functions 477–85 tracked calling-cells 389–98 lookup and search functions 485–93 VB 28–9, 55–88, 89–90, 108–10, 236–7 matrix functions 30–1, 468–9, 474–7 VC 89, 98–110 Monte Carlo simulation 476–7, 506–11 VC.NET 103–10 pseudo-random numbers 464–9 document information 8, 291–7 quasi-random numbers 469–70 do_multi 486–93 SABR (stochastic alpha beta rho) model 514"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10",
+      "64",
+      "84",
+      "97",
+      "111, 203, 244",
+      "433, 452",
+      "V9) 5",
+      "48, 60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "C API",
+        "particle": "see also"
+      },
+      {
+        "given": "X.L.M."
+      }
+    ],
+    "container-title": [
+      "EigenSystem",
+      "Explicit",
+      "Finish"
+    ],
+    "date": [
+      "2002",
+      "2007",
+      "509–11 ExtractXloper12 218–19 Excel4 111–14",
+      "195–6, 203–22"
+    ],
+    "genre": [
+      "DWORD 135–8,",
+      "cell references 11–13,",
+      "calling-function type information 315 VB 28–9,"
+    ],
+    "note": [
+      "419 dynamic libraries 2003 (V11) 5, 36–8, 43–4, 45, 49, 60–1, 88, see also DLLs 127,",
+      "364, extern \"C\" 92–7 432–3 ExtractXloper 190, 207–8, 210–11, 218–19,",
+      "coding/typographical conventions 1–2, 316–18 pseudo-random numbers 464–9 complexity issues 51 quasi-random numbers 469–70 concepts 5–7, 11–13, 15–16, 17–22, 30–1, recursive function-calls 203–22 50–1, 81–6, 297–8, 311–12, 362–3, 409–10 register IDs 269–71 evaluations 318, 362–3 registered functions 115–25, 128–30, 223–4, good design/practice 50–1, 442–9 244–71, 303–12, 452 information 297–8, 311–12, 409–10 SABR (stochastic alpha beta rho) model 10, 514, input evaluation 15–16 516–30 repetition avoidance 50–1 scope issues 61–3, 316–18 forward swaps 513–19 statistical-function examples 470–4 free 2, 131–202 string-function examples 451–63 free_xloper 164–202 tests 365–73 Freeze Panes 49 thread-safe functions 212–22, 253, 290, 316, FUNCDNAME 97 390–1, 447–8 FUNCTION 97 toolbars 344–51 Function Wizard see Paste Function dialog trees and lattices 505–6 Function/End Function 61–3 trigger arguments 34–6, 100, 108–10, 309–10, functions 365–73 argument optionality 31, 496–7 types 29–31 C API 223–364 unregistered functions",
+      "calling conventions 91–7, 231–6, 313–15, user-defined functions",
+      "class-based registration approach 266–9 109–10, 252–4 548 Index functions (continued) header files 3–4, 64–5, 84, 92–4, 111, 127–8 worksheet-function argument-type conversions help 3,",
+      "Help 33 249–74 Hill, I.D. 464–5 worksheet-function types 20–2, 29–31, 224–5 HLOOKUP 486–93 workspace information commands/functions HWND 213–14, 224, 283–5, 374–6 270–1, 289–315, 318–26, 389–98 hybrid length-counted null-terminated strings 27 wrapped functions 146–53, 238–44, 259–62, hyperlinks, good design/practice 51 352, 392–3, 400, 410, 424–8, 465–6, 518–19 ID numbers, menus 327–30, 332–44 XLL interface functions 116–25, 163–4, 231–6, IDEs see integrated development environments"
+    ],
+    "pages": [
+      "279–85, 446–7",
+      "4–5, 36–8, 48–9,",
+      "464 89–90,",
+      "25–7,",
+      "363–4,",
+      "475–7 401–2,",
+      "423–4,",
+      "441–9,",
+      "71–6, 445 249–74",
+      "344–51 309–10",
+      "4–7, 111–14,",
+      "270–1,",
+      "111–25, 163–4, 231–6, 280–1, 431–2, 447–9 244–74, 389–98,",
+      "154–60,",
+      "376–7, 417–19",
+      "107",
+      "439–40,",
+      "446–9 513–19, 528–30 233",
+      "451–530 226–364",
+      "282–3,",
+      "205–22, 476–7, 506–11, 533 226–364,",
+      "439–40, 12 456–7 513–19, 528–30 4 455–6",
+      "423–9,",
+      "498–9",
+      "107–8,",
+      "311–12 115–16, 245–74, 373–6",
+      "244–5, 270–1,",
+      "511–13 303–12",
+      "38–40,",
+      "302–3, 389–98 363–4, 430–2, 441–9",
+      "61–88,",
+      "398–401 41–2, 47–8, 224–5, 248–9",
+      "35–6, 39–41,",
+      "62–3,",
+      "223–4,",
+      "333–5, 358–9,",
+      "64–9, 80–6, 127–202, 229–36,"
+    ],
+    "title": [
+      "41, 45, dynamic memory, concepts 190 61, 111–16, 121, 127–30, 135, 136–9, 143–4, 147, 159, 168, 184, 203–22, 226, early binding, concepts 377–85 238, 243–4, 249–52, 262–3, 266–9, 316",
+      "452, eigenvalues, examples 468–9, 474–7 464, 479, 486, 498, 506 eigenvectors, examples 468–9, 474–7 arrays 9, 13–16, 21–2, 30–1, 65–8, 71–6, ellipsis, menus 328 80–6, 123–5, 128–202, 249–74, 385–7, Empty Project 105 417–19 EnableCalculation 443–5 background task management 407–8 EnterCriticalSection 219–22 coding/typographical conventions 1–2, 91–2, error codes, concepts 13–15, 17–22, 29–31, 73–6, 223–4, 316–18 128–202, 414–15, 422–3 Compatibility Checker 6–7 errors, error-propagation controls 429–32 concepts 1–10, 11–54 Esc key 274 converted data types 16–22, 64–9, 80–8, eternal loops 418–19 127–202 EVALUATE 16 cross-worksheet dependencies 36–8 evaluation precedence, operators 22 data structures 127–202, 385–7 event trapping data types 9, 13–27, 29–31, 127–202, 225–31, C API 356–61 249–74, 417–19 concepts 59–60, 356–61, 512–13, 526–7 data-organisation overview 11 DDE data-updates 357 DLLs 3–5, 9, 28–9, 31, 38–47, 55–88, 89–125, double-clicks 357–8 127–202, 205–22, 223–364, 376–85, keyboard events 358–9 389–98 recalculation logic 360, 398 event trapping 59–60, 526–7 system clocks 361, 402–4 forced workbook recalculations 44–5 VBA uses 59–60, 512–13, 526–7 functionality issues 9, 11–54 546 Index Excel (continued) prototype 233 good design/practice 49–54, 417–33, 442–9, syntax 233–6 451–530 wrapped functions 238–44, 259–62 input evaluation 15–16 excel_using_1904_system 497–9 interfaces 8–9, 46, 62–88, 108–25, 244–74, exception handling 2 376–85, 419–33 ExecuteExcel4Macro 79 libraries 111 ExecuteExcel4Macro 383 menus 1–2, 9, 11, 326–44 execution speeds 9–10, 54, 88, 109–10, 282–3, missing arguments 201–2, 496–7 365–73, 418–19, 494 Monte Carlo simulation 10, 44, 282–3, 464, 468, see also performance issues 476–7, 506–11, 533 C/C++ 365–73, 494 names 2, 9, 19–22, 49–54, 274–85, 298–301, concepts 54, 365–73, 418–19, 494 310–11, 316–26, 390–401 conclusions 372 OLE/COM automation 3–4, 64–88, 146–7, 237, large spreadsheets 54, 417–19 362–3, 376–85 timing tests 365–9 optimisation considerations 10, 44, 209–10, VB 365–73, 494 433–49 Exp 370–3 overview 1–10 exp 370–3 passing-data considerations 127–202, 225–31",
+      "explicit type conversion functions, concepts 20–2 recalculation logic 9, 15–16, 27–8, 31–45, exponent_function 257–8 109–10, 379–80, 386–7 EXPORTS 100–2 terminology 27–8 exports 100–2, 130–202, 256–62, 266–9, 293",
+      "F9 key 34, 43, 44–5, 109–10, 379 arguments 226–71 __fastcall 93–4 concepts 223–364, 417–19 File/New... 98–102 macro-sheet commands/functions 224–36, File/Open... 115–25 252–326 File/Save As... 87 prototype 226 files return values 227–36, 249–74 access 284–5 syntax 226–7 coding/typographical conventions 1–2, 316–18 worksheet-function calls 229–36 formats 6 wrapped functions 238–44, 259–62 good design/practice 49–54 Excel4_err_msg 235–6 FILO stacks 220 Excel4v 111–14, 140–1, 146–7, 205–22, financial applications 223–364, 376–7, 417–19, 446–9 calibration 33, 511–13 C API functions 233–364 constant maturity swaps",
+      "correlated random samples 468–9 syntax 233–6 date functions 493–502 wrapped functions 238–44, 259–62 discount curves 502–5",
+      "financial markets 493–502 prototype 226 interpolation functions 477–85 return values 227–36 lookup and search functions 485–93 worksheet-function calls 229–36 matrix functions 30–1, 468–9, 474–7 wrapped functions 238–44, 259–62 Monte Carlo simulation",
+      "446–9 pseudo-random numbers 464–9 C API functions 233–364 quasi-random numbers 469–70 Index 547 SABR (stochastic alpha beta rho) model 10, 514, coding/typographical conventions 1–2, 91–2, 516–30 316–18 statistical functions 463–74 command contrasts 9–10, 28–9, 55, 86–7, trees and lattices 505–6 224–5, 327 financial markets, date functions 493–502 complex functions 31–3 FindFirst 455–6 concepts 5–7, 9–10, 28–31, 61–88, 224–5, FindFirstExcl 456–7 244–85, 382–3, 398–401 find_first_excluded_xl4 456–7 constant maturity swaps (CMSs",
+      "date functions 493–502 find_first_xl12 455–6 defined names 225 FindLast 457–8 discount curves 502–5 find_last_xl4 457–8 DLL declarations 62–88, 94–7, 244–71, 423–9 find_last_xl12 457–8 dual-interfaced function registrations 263–9",
+      "fixed input data, concepts 50–1 financial applications 9, 451–530 float 65, 92, 128 interpolation functions 477–85 floating-point numbers 13–15, 21–2, 64–8, 92, lookup and search functions 485–93 128–202, 212, 249–50, 253–74, 417–19, 441 mandatory/optional arguments 31, 201–2, 496–7 floorlets 513–19 matrix functions 30–1, 468–9, 474–7 FORCAST 477 memory-management guidelines 203–22, 274–6, foreign exchange (FX) 494–5, 522 417–19 format issues miscellaneous commands/functions 361–4 cells 6, 13–15, 40–1, 51 Monte Carlo simulation 10, 44, 282–3, 464, 468, conditional formatting 40–1 476–7, 506–11, 533 files 6 names 48, 91–2, 94–7, 390–401 good design/practice 51 nested functions 5–6 formulae OLE/COM automation 382–5 arrays 30–1, 81–6 Paste Function dialog 47–9"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "148–202, 249",
+      "V10) 3",
+      "212, 223, 364, 433",
+      "V12) 5–7, 11–12, 14, 23",
+      "474–7 326, 337, 344",
+      "366, 370–2, 390–1, eigen_system_xl4",
+      "407, 418",
+      "433",
+      "43",
+      "versions 2",
+      "127",
+      "XLLs 9, 16, 46, 49",
+      "140–1, 146–8",
+      "223–364",
+      "F5 key 102",
+      "CMSs) 10",
+      "concepts 223–364, 417–19",
+      "Excel12 111–14, 146–8, 154–9, 164, 203–22, examples 9",
+      "10, 44",
+      "464, 468, Excel12v 111–14, 146–7, 164",
+      "10",
+      "105 406",
+      "433, 452",
+      "55, 102",
+      "118",
+      "calibration 33",
+      "16",
+      "79",
+      "55",
+      "93",
+      "volatile functions 34",
+      "49",
+      "4",
+      "256",
+      "377 20–2, 30"
+    ]
+  },
+  {
+    "container-title": [
+      "OO see object-oriented",
+      "OFFSET",
+      "ON.TIME"
+    ],
+    "note": [
+      "see also xlopers Ndist 471–2 concepts 143–4, 201–2 NdistInv 472–4 structure 143–4"
+    ],
+    "pages": [
+      "146–7, 238–9 316–26",
+      "51–4 469–70",
+      "49–54, 274–85,",
+      "390–401, 418–19",
+      "285–9, 325–6, 396–8 143–4, 167–202, 233–6, 249–74 471–2"
+    ],
+    "title": [
+      "good design/practice 51 object data types, VB 78–9 name_me 396–7 object-oriented features (OO) names C++ 2, 127, 146–7, 238–9 basic operations 274–85, 298–301, 310–11, concepts 2",
+      "VBE 7 binary names 198, 285–9, 325–6, 396–8",
+      "OLE/COM automation 3–4, 64–88, 146–7, 237, cells 389–98 362–3, 376–85, 419–33 decoration 91–2 commands 379–82 DLLs 91–7",
+      "298–301, initialisation/un-initialisation processes 377–9 310–11, 316–26, 390–401 recalculation logic 379–80 functions 48, 91–2, 94–7, 390–401 worksheet functions 383–5 menu command names 341–2 OleInitialize 377–85 worksheets 49–54, 279–82, 298–301, 310–11"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7, 127",
+      "30, 35",
+      "100–10, 198, 256–62, 285–9, 293, concepts 376–85 309–10, 316–26, 390–401 functions 382–5 Excel 2, 9, 19–22",
+      "402 316–26",
+      "XLLs 198"
+    ]
+  },
+  {
+    "container-title": [
+      "NOW"
+    ],
+    "note": [
+      "364 options null-terminated/length-prepended strings, contrasts ATM volatilities 521–7 23, 26–7 Black-Scholes option pricing model 437–9, 514, number-arithmetic binary operators (+-*/), concepts 516–19, 529, 533 17–22 dates 493–502 numbers FX options 522 data types 13–15, 17–22, 29–31 pricing 400–1, 437–9, 444–5, 493–502, 505–6, worksheet-function argument-type conversions 514–27 21–2, 30 swaptions 513–19, 527 num_calls 90–1 OR 41–2"
+    ],
+    "pages": [
+      "209–10, 433–49",
+      "223–4",
+      "415–17",
+      "61–3 279–82,"
+    ],
+    "title": [
+      ".NET add-ins, resource requirements 3–5 oper12 143–4 NETGetTime.dll 103–10 operators new 2 concepts 16–22, 66–7 New 98–102 evaluation precedence 22 New Project 103–5 types 16–22, 66–7 Newton-Raphson method 522–7 optimisation considerations 10",
+      "see also performance issues new_xlstring 118–25, 169, 261–2 algebraic expressions 434–40 next_rollover_xl4 500–2 constructors/destructors 434–40 next_rollover_xl12 500–2 Excel calculation times 441–9 NoErr 430–2 golden rules 434 normal distributions 433, 470–4, 514–15, 519–27 implicit conversions 434–40, 442 NORMDIST 470–4 norm_dist_inv_xl4 472–4 loop-invariant expressions 434–40 norm_dist_inv_xl12 472–4 low-level code 434–40 NORMINV 470–4 polynomials 434–40 NORMSDIST 470–4 SABR (stochastic alpha beta rho) model 528–30 NORMSINV 470–4 saved results 434–40",
+      "software costs 434–49 nsample_BM 467–8 VBA code 436, 440–1 nsample_BM_pair 467–8 Option Base 82–6 NsampleBoxMuller 467–8 Option Compare Text 441 NsampleBoxMullerPair 467–8 Option Explicit 71–6, 445 NULL arguments 112–14, 123, 131–202, 267, Option Private"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44",
+      "new_xl12string 121–2",
+      "28, 33, 34–6, 109–10, 365–73"
+    ]
+  },
+  {
+    "genre": [
+      "QueryInterface 377–85 password protection 31,"
+    ],
+    "pages": [
+      "199–201"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "recalculation logic"
+    ],
+    "genre": [
+      "Paste Function dialog 47–9,",
+      "concepts 12–13,",
+      "concepts 63–88,"
+    ],
+    "note": [
+      "433 polynomials, optimisation considerations 434–40 cross-worksheet dependencies 36–8 portfolios, derivatives 444–5, 513–19 data tables 31–3, 40 #pragma pack 76–9, 97 dependents/precedents 33–45, 109–10, 253, precedents, recalculation logic 33–45,",
+      "event trapping 360, 398 precision as-displayed switch 398 forced workbook recalculations 44–5 preprocessor linker directives 97 multi-threaded recalculations 45, 212–13, 366, present values 502–5, 513 418–19, 447, 464, 506 Price 79 optimisation considerations 441–9 pricing programmatic controls 42–4 constant maturity swaps (CMSs) 10, 439–40, trigger arguments 34–6, 108–10, 309–10, 513–19, 528–30 365–73 financial instruments 400–1, 444–5, 493–502, user-defined functions 38–40 505–6, 513–19 version-dependent results 433 options 400–1, 437–9, 444–5, 493–502, 505–6, volatile functions 34, 35–6, 39–41, 62–3, 514–27 109–10, 252–4 Private 62–88 rectangular ranges of cells, conversions 21–2, 82, PRIVATE 96–7 141–2 Professional Excel Development (Bullen, recursive function-calls, memory-management Bovey and Green) 440 guidelines 203–22 Project 98–102, 107–8 Refresh 396–8 Project/NETGetTimeProperties... 107–8 RegData 266–9 pseudo-random numbers 35–6, 209–10, 464–70 REGISTER 223–4 Index 553 register_dual_function 264–9, 406, 433, SetCriticalSectionSpinCount 222"
+    ],
+    "pages": [
+      "107–8, 115–16, 245–74, 373–6",
+      "319–26, 393 47–9,",
+      "107–8, 115–16,",
+      "319–26, 393 245–74, 373–6",
+      "226–36,",
+      "406–17",
+      "415–17 379–80, 386–7, 406–17,",
+      "386–7 386–7"
+    ],
+    "title": [
+      "R1C1 cell references bugs 184 A1 contrasts 12–13",
+      "radio buttons 353–6 examples 254–6, 373–6 RAND 35, 464, 468, 470, 507–9 function categories 248–9, 373–6 random numbers 35–6, 209–10, 469–70 path information, access 284–5 random samples 468–71 percentage operator (, concepts 17–22 RandXll 465–6 performance issues 7–10, 37, 54, 88, 109–10, RandXllnv 466–7 282–3, 365–73, 494 Range 42–5, 59–60, 66, 73, 80–6, 449, 508–9 see also execution speeds range references C/C++ 8–9, 365–73, 433–49, 494 arrays 83–6, 123–5, 311–12, 324–5 concepts 10, 44, 209–10, 365–73, 433–49, 494 concepts 18–22, 64–8, 80–6, 123–5, 311–12, conclusions 372 324–5 large spreadsheets 54, 417–19 Range.Font 40 optimisation considerations 10, 44, 209–10, Range.FormatConditions 40 433–49 range_name 389 tests 365–73, 434 RangeName 389 VB 8, 365–73, 433–49, 494 reading material 440, 535 permissions, macro-sheet commands/functions 252, real-time market data 444–5 418–19 RecalcExample 38–40 pExcelDisp IDispatch 379–85 RecalcExample 38–40 PHONETIC 213–14 Recalc_Examples.xls 33, 40 pointers",
+      "polling commands, background task management concepts 9"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55, 88, 102",
+      "297, 303–12",
+      "55, 88, 102",
+      "297, 303–12, 315",
+      "91–2, 129–202",
+      "9, 15–16, 27–8, 31–45, 371–3, 398–401, 436–7 109–10, 379–80, 386–7",
+      "15–16, 27–8, 31–45, 109–10",
+      "109–10, 253"
+    ]
+  },
+  {
+    "container-title": [
+      "VARIANT",
+      "VALUE"
+    ],
+    "genre": [
+      "OLE/COM automation 379–82 event trapping 59–60,",
+      "control objects 58–9 currency data 65–8, 72–6 wchar_t 23,"
+    ],
+    "issue": [
+      "egister_function 118",
+      "XLL",
+      "ortfalls 8"
+    ],
+    "note": [
+      "513–30 add-in manager 46, 55, 97–8 see also SABR (stochastic alpha beta rho) model arrays 65–8, 71–6, 80–6, 155–9 VT_ARRAY 73–6, 85–6, 157–9 assessment 88, 365–73 VT_BOOL 73–6, 155–9, 422–3 C/C++ 8, 55, 62–88, 94, 368–73 VT_BSTR 73–6, 156–9, 422–3 call-by-reference/value arguments 63–4, 68–76, VT_BYREF 73–6 86, 94, 108–10, 423–9 VT_CY 72–6, 156–9 coding/typographical conventions 1–2 VT_DATE 73–6 command/function contrasts 86–7 VT_DISPATCH 73, 75–6, 83–6 commands 28–9, 55–88, 223–4, 402 VT_EMPTY 73–6, 156–9, 428 concepts 1–2, 7–8, 28–9, 46, 55–88, 89–90, VT_ERROR 73–6, 156–9,",
+      "263 data types 64–88 wcsncpy 26 DLLs 28–9, 55, 62–88, 89–90, 108–10, 236–7 wcstombs 74–6 errors 73–6, 422–3 web resources 4, 537–8 execution speeds 365–73, 494 Wichman, B.A. 464–5 functions 28–9, 55, 61–88, 93, 108–10, WideCharToMultiByte 74–6 398–401 wildcards 328 macro-commands 56–88 Win32 DLLs memory considerations 417–19 see also DLLs Monte Carlo simulation 476, 506–9 concepts 3–5, 9,"
+    ],
+    "pages": [
+      "496–7",
+      "64–6, 71–88,",
+      "157–9,",
+      "309–10, 365–73 418–19,",
+      "270–1,",
+      "270–1",
+      "432–3",
+      "526–7",
+      "363–4",
+      "372–3,",
+      "526 420–5, 442–3,",
+      "437–8,",
+      "108–10, 155–9, 223–4, 365–73",
+      "155–9, 422–3",
+      "249–50,",
+      "89–110, 419"
+    ],
+    "title": [
+      "variable lists, arguments 31, 226–8 Tools/Solver... 32–3 variable-length argument lists, concepts 31 tracked calling-cells, DLLs 389–98 variables TRANSPOSE 474–7, 504–5 C++ features 1 trapped events see event trapping coding/typographical conventions 1–2, 316–18 trees and lattices, examples 505–6 VB 64–9 Trials 511 variance reduction, concepts 506–7 trigger arguments, concepts 35–6, 100, 108–10",
+      "422–3, 427–8 trigonometric functions, optimisation considerations Variant 64–8, 71–6, 421–9, 436, 476–7 434–40 variant data types ts_rand 464–5 array variants 80–6, 155–9, 417–19 Type 64–9, 76–9 concepts 71–6, 155–9, 382, 417–19 type 143–202 definition 71 Type/End Type 76–9 VB 64–7, 71–6, 155–9, 417–19, 421–9, 436, typedef struct 49, 76–9, 112, 129–202 441 typographical conventions 1–2, 91–2, 223–4, xlopers 155–9, 382 316–18 VariantInit 70–1 VariantTypeC 75–6 UDF function category 45, 48, 212, 228, 430–2 VarType 75–6, 429 ulVal 76 VARTYPE vt 71–6 unary -- operator, concepts 16–22 VB see Visual Basic unary = operator, concepts 16–22 VBA see Visual Basic for Applications undo information 54 VbaEigenSystem 476–7 UNICODE 6, 14, 23–7, 69–70, 74, 121, 147, VBE see Visual Basic Editor 158–9, 170–1, 173, 184–5, 212, 249–50, VB User Type 77–9 264–5, 433, 452 VC see Visual C++ Union 59 VC.NET see Visual C++.NET... unique names, cells 390–3 vega 438–40 unloading processes, add-ins 46–7, 61–2, 114–16 version numbers 49–54, 303–12, 364 unregistered functions 118, 244–5, 270–1, 303–12 Excel versions 2, 4–7, 111–14",
+      "unsigned char 65, 128–202, 249–74 good design/practice 49–54 unsigned short int 65, 66–9, 71–6, XLCallVer 111–14, 364 128–202, 249–74 Visual Basic for Applications (VBA) UpdateTask 413–17 C API contrasts 40–1, 44, 223–4, 372–3, UseArray 385–7 402–6, 433 user breaks 274, 282–3 commands 28–9, 55–88, 223–4, 402 User Defined function category 48 concepts 3–5",
+      "512–13, 526–7 user-defined data structures 9, 20–2, 64–9, 76–9 Excel events 59–60, 526–7 user-defined dialogues, commands 10 financial applications 493–530 user-defined functions 16, 29–31, 38–40, 79, function creation 61–3 302–3, 363–4, 382–3, 430–2, 441–9 interface uses 62–88, 108–10 see also functions memory considerations 417–19 DLL/XLL calls 363–4 Monte Carlo simulation 506–9 OLE/COM automation 382–3 OLE/COM automation 376–85 recalculation logic 38–40 optimisation considerations 436, 440–1 User_Type 77–9 recalculation issues 42–4 resource requirements 3–5",
+      "488–93 Solver tools 512–13 Value 66, 73–6, 83–6 user-defined functions/commands 79 variable input data, concepts 50–1 XLM calls 79 556 Index Visual Basic Editor (VBE) volatile functions concepts 7, 55–88, 372–3 concepts 34, 35–6, 39–41, 49, 62–3, 109–10, opening methods 55–6 252–4 simplicity 55–6 VB 35–6, 39–41, 62–3, 109–10 Visual Basic (VB"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "Tools/Options.../Calculation 31–3, 43",
+      "25",
+      "149",
+      "382",
+      "127",
+      "364",
+      "7–8, 9, 55–88, 89–90, 108–10, user-defined commands 10, 79, 363–4, 379–82 212–13, 223–4, 363–4, 365–73, 398–401, see also commands 440–1, 476–7",
+      "DLL",
+      "433",
+      "volatility 10",
+      "422–3 93",
+      "VT_R8 72–6",
+      "25, 171, 212",
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "C",
+        "particle": "see also"
+      },
+      {
+        "family": "Woodward",
+        "given": "D."
+      }
+    ],
+    "note": [
+      "concepts 103–10, 129 optimisation considerations 441–9 creation processes 103–8 version-dependent recalculation results 433 DLLs 103–10 Workbook_SheetCalculate 60–1"
+    ],
+    "pages": [
+      "441–9"
+    ],
+    "title": [
+      "With...End With 43–4, 441 code-adding processes 99–102",
+      "519 concepts 9, 55, 89, 98–110 WORD 129–202 creation processes 98–102 Workbook 42–4 DLLs 89, 98–110 workbooks Visual C++.NET 2003 (VC.NET) active/current contrasts 27–8, 317–18 code-adding processes 106–8 concepts 5–6"
+    ],
+    "type": null,
+    "volume": [
+      "11, 19–22, 289–315, 433"
+    ]
+  },
+  {
+    "container-title": [
+      "VLOOKUP",
+      "event trapping"
+    ],
+    "genre": [
+      "xlcAlert 351–2 function argument-type conversions 20–2,",
+      "information 290–1,"
+    ],
+    "issue": [
+      "dll",
+      "w 45"
+    ],
+    "note": [
+      "optimisation considerations 441–9 xlcDeleteName 318, 321–2 passing references/pointers 398–401 xlcDeleteTool 350–1 password protection 31, 199–201 xlcDisableInput 356 titles 49–54 xlcEcho 361–2, 507–9 Worksheet_SelectionChange 59–60 xlcMessage 361–2 workspace information commands/functions 270–1, xlcMoveTool 348–9 289–315,",
+      "224, wrapped functions, C API 146–53, 238–44, 232–4, 240–1, 276–8,"
+    ],
+    "pages": [
+      "442–3, 486–93 127–202, 224–5, 229–36,",
+      "249–74 43–4",
+      "512–13",
+      "352 64–9, 80–6, 127–202, 229–36",
+      "111–25,",
+      "141–3,",
+      "226–7",
+      "364 418–19 347–8 13–15",
+      "511 49–54, 279–82, 298–301, 310–11,",
+      "509 316–26, 390–401, 418–19",
+      "318–20",
+      "389–98, 418–19",
+      "154–9, 180–202, 213–14,",
+      "430–2, 448–9 259–62,",
+      "392–3,",
+      "424–8,"
+    ],
+    "title": [
+      "Visual Studio.NET 3–4, 97–8, 103–10, 129, 204 Worksheet 42–4 see also Visual C++.NET 2003 worksheet functions 20–2, 29–31, 64–71, 80–6",
+      "373–6, 409–17 Vlookup_Match_Example.xls 52 background task management 409–17 void 92, 115–16, 117–25, 129, 148–53, 164–6, concepts 29–31, 64–71, 127–202, 224–5, 253–4, 275, 428–9 229–36, 409–17 Index 557 Monte Carlo simulation 511 xlAutoFree 115–17, 123–5, 184, 190, 209–22, OLE/COM automation 383–5 385–7 Paste Function dialog 373–6 xlAutoFree12 123–5, 184, 190, 209–22 return values 29–30, 64–71, 127–202, 227–36, XL_AUTO_FREE_XLOPER 123–5, 165–6 249–326 xlAutoOpen 112–14, 115–25, 219–20, 256–62, worksheets 272–3, 377–85, 405–6, 412–17, 432–3 active/current contrasts 27–8, 279–80 xlAutoRegister 115–17, 122–5 complexity issues 50–1 xlAutoRegister12 122–5 concepts 5–7, 11–16, 20–2, 29–31, 49–54, xlAutoRemove 115–17, 119–25 127–202, 290–1, 298–301, 310–11, 316–26, xlbitDLLFree 121–2, 123–5, 141, 165–6, 190, 441–9 209–22 cross-worksheet dependencies 36–8 xlbitXLfree 140–1, 185–6, 188–90, 206–22, data references 398–401 275–7 data types 13–15",
+      "226 function references 398–401 xlcall32.h 76, 111–14 function types 29–31 xlcall32.lib 4, 90, 111–25, 226, 476 function-call detection processes 373–6 xlcall.cpp 111–14, 226 good design/practice 49–54, 417–33, 442–9, xlcall.dll 90 451–530 xlcall.h 4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31, 51–4, 386–7",
+      "20–2, 29–31, 64–88, xlcAddTool 347–8 127–202",
+      "358",
+      "30",
+      "32",
+      "111, 138",
+      "148",
+      "298–301, 310–11, 316–26, XLCallVer 111–14",
+      "xlcCalculateDocument 44–5, 509",
+      "xlcDefineName 225",
+      "318–26",
+      "xlCoerce 16",
+      "320",
+      "352",
+      "400, 410"
+    ]
+  }
+]
