@@ -1,0 +1,3356 @@
+[
+  {
+    "author": [
+      {
+        "literal": "<?"
+      }
+    ],
+    "title": [
+      "Xml version=’1.0’ ?> <env:Envelope xmlns:env=”http://www.w3.org/2002/06/soap-envelope"
+    ],
+    "type": null,
+    "url": [
+      "http://schmas.xmlsoap.org/ws/2002/04/secext",
+      "http://www.w3.org/2002/02/xmldsig#",
+      "http://www.w3.org/2002/03/xmlenc#"
+    ]
+  },
+  {
+    "container-title": [
+      "LDAP directories are described further in the LDAP Directory Service section of this chapter. WS-Security/SAML service"
+    ],
+    "note": [
+      "This service provides support for generating and verifying standard interoperable security tokens based on SAML assertions embedded in WS-Security documents."
+    ],
+    "title": [
+      "Framework Security Facilities The framework security facilities provide support for the core security services. ePortal has selected the products in the following list to implement its system: Active Directory service. This Microsoft LDAP-based directory service supports user and application security profile storage and retrieval"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kerberos",
+        "given": "Cryptography Using"
+      },
+      {
+        "given": "D.C.E."
+      }
+    ],
+    "title": [
+      "ACF2 provides the means to secure communications between OS/390 environments and open systems, including MQSeries messages and TCP/IP. Accountability. ACF2 provides extensive platform- and network-level security auditing facilities as well as external audit reduction and reporting tools. Security administration. ACF2 provides administrative tools to maintain security policies for the mainframe. The policies are stored within internal databases; user information can also be made accessible via LDAP"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CORBA Common Object Request Broker Architecture. CORBA is an open, vendor-independent specification for an architecture and infrastructure that computer applications use to work together over networks"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "CSIv2"
+    ],
+    "container-title": [
+      "Common Secure Interoperability version 2 (CSI"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "A recent addition to the CORBA security specification that defines a protocol for transmitting authentication and authorization data over IIOP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "DCE See Distributed Computing Environment."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "DCOM See Distributed Component Object Model"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TIS 2000)."
+    ],
+    "title": [
+      "digital certificate A certificate document in the form of a digital data object (a data object used by a computer) to which is appended a computed digital signature value that depends on the data object (TIS 2000). digital signature A value computed with a cryptographic algorithm and appended to a data object in such a way that any recipient of the data can use the signature to verify the data’s origin and integrity"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "DCOM has been submitted to the IETF as a draft standard (FOLDOC 2002)."
+    ],
+    "title": [
+      "Distributed Component Object Model (DCOM) Microsoft’s extension of their Component Object Model (COM) to support objects distributed across a network"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Security Service, Threads, Distributed Time Service, and Distributed File Service."
+    ],
+    "title": [
+      "Distributed Computing Environment (DCE) A computing environment standardized by the Open Group that provides the following integrated facilities: Remote Procedure Call, Directory Services"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "EDI See Electronic Data Interchange"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "FOLDOC 2002)."
+    ],
+    "title": [
+      "EDIFACT See Electronic Data Interchange for Administration, Commerce and Transport. EJB See Enterprise JavaBeans. electronic data interchange (EDI) The exchange of standardized document forms between computer systems for business use"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "It defines application-layer syntax. It was amended and reprinted in 1990. The document is available from ISO’s Web site (FOLDOC 2002)."
+    ],
+    "title": [
+      "Electronic Data Interchange for Administration, Commerce and Transport (EDI-FACT) ISO’s 1988 standard (ISO 9735) for electronic data interchange for administration, commerce and transport"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Enterprise Application Integration (EAI) A methodological approach supported by a set of technologies that allows flexible integration of applications in order to support enterprise business processes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "JavaBeans",
+        "given": "Enterprise"
+      }
+    ],
+    "title": [
+      "Architecture for component-based distributed computing from Sun. Enterprise beans are components of distributed transactionoriented enterprise applications"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "eXtensible Access Control Markup Language (XACML) A specification for expressing access control policies over the Internet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "federation A system in which each party retains most of its authority and agrees to afford the other limited rights"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Hypertext Transfer Protocol (HTTP) A client/server TCP/IP protocol used on the WWW for the exchange of HTML documents"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "and mid-range protocol and architectural issues (FOLDOC 2002)."
+    ],
+    "title": [
+      "Internet Engineering Task Force (IETF) A large, open international community of network designers, operators, vendors, and researchers whose purpose is to coordinate the operation, management, and evolution of the Internet and to resolve short"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "FOLDOC 2002). IETF documents related to the IPsec can be found at"
+    ],
+    "title": [
+      "Internet Protocol Security (IPSEC) A protocol that provides security for the transmission of sensitive information over unprotected networks such as the Internet. IPsec acts at the network layer, protecting and authenticating IP packets sent between participating devices"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ietf.org/ids.by.wg/ipsec.html."
+    ]
+  },
+  {
+    "note": [
+      "or presence on, the Internet (FOLDOC 2002)."
+    ],
+    "title": [
+      "Internet service provider (ISP) A company that provides other companies or individuals with access to"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Interoperable Object Reference (IOR) A CORBA object reference in a format specified by CORBA that enables interoperability of object references"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "IOR See Interoperable Object Reference"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "J2SE"
+    ],
+    "edition": [
+      "Standard"
+    ],
+    "title": [
+      "See Java 2 Platform"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "FOLDOC 2002). Java 2 Platform, Standard Edition (J2SE) Sun’s core Java platform for clients and servers."
+    ],
+    "title": [
+      "Java 2 Platform, Enterprise Edition (J2EE) Sun’s Java platform for multitier server-oriented enterprise applications. The basis of J2EE is EJB"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "method permission A permission to invoke a specified group of methods of the enterprise beans’ home and remote interfaces. Method permissions are defined in the corresponding sections of an EJB deployment descriptor"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "middle tier (mid-tier) security A security infrastructure that protects mid-tier systems. middleware Software that mediates between an application program and a network by managing the interactions between disparate applications across the heterogeneous computing platforms"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "title": [
+      ".NET Framework Microsoft’s environment for building, deploying, and running applications. nonrepudiation The provision of evidence that prevents a participant in an action from convincingly denying his responsibility for the action"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "406 Glossary"
+    ],
+    "title": [
+      "OASIS See Organization for the Advancement of Structured Information Standards"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "proxy A hardware device or software program acting on behalf of or representing other hardware devices or software programs in computing interactions"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "RACF See Resource Access Control Facility"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "title": [
+      "reference monitor An access control concept that refers to an abstract machine that mediates all access to objects by subjects"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "The specification text is available from the OMG as document number dtc/00-06-07."
+    ],
+    "title": [
+      "Resource Access Decision (RAD) A specification of application-level authorization services from the OMG"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Its name comes from their initials (FOLDOC 2002)."
+    ],
+    "title": [
+      "RSA A public key cryptosystem for both encryption and authentication, invented in 1977 by Ron Rivest, Adi Shamir, and Leonard Adleman"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Security Assertion Markup Language (SAML) XML-based format and protocol for exchanging authentication and authorization requests and responses"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "security context The security object that encapsulates the shared state information representing a security association"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "TLS See Transport Layer Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Locator",
+        "given": "Uniform Resource"
+      }
+    ],
+    "title": [
+      "A standard way of specifying the location of an entity, typically a Web page, on the Internet"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Unitary Login A security service that provides secure storage and retrieval of sensitive authentication data (for example, passwords); typically used to access back-end and database systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Description",
+        "given": "Universal"
+      }
+    ],
+    "title": [
+      "Discovery and Integration (UDDI) An architecture for Web services integration. It contains standards-based specifications for service description and discovery"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "VPN See virtual private network. 414 Glossary"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "The ISO equivalent is IS 9594-1 and related standards, IS 9594-x.) XACML See eXtensible Access Control Markup Language"
+    ],
+    "title": [
+      "X.500 An ITU-T recommendation that is one part of a joint ITU-T/ISO multipart standard (X.500-X.525) that defines the X.500 Directory, which is a conceptual collection of systems that provide distributed directory capabilities for OSI entities, processes, applications, and services"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Abadi",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "DEC"
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "A Calculus for Access Control in Distributed Systems"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://citeseer.nj.nec.com/64113.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Amoroso",
+        "given": "Edward"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Fundamentals of Computer Security Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Angeline",
+        "given": "Dennis"
+      }
+    ],
+    "container-title": [
+      "Microsoft Research - University Programs 2001"
+    ],
+    "date": [
+      "2001",
+      "1998"
+    ],
+    "location": [
+      "Redwood, WA"
+    ],
+    "publisher": [
+      "Multi-University Research Laboratory",
+      "American National Standards Institute"
+    ],
+    "title": [
+      "Architectural Overview of the Common Language Runtime",
+      "ANSI. “X9.31-1998, Digital Signatures Using Reversible Public Key Cryptography for the Financial Services Industry (rDSA"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://murl.microsoft.com/LectureDetails.asp?717,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.S.I."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "American National Standards Institute"
+    ],
+    "title": [
+      "X9.62-1998, Public Key Cryptography for the Financial Services Industry: The Elliptic Curve Digital Signature Algorithm (ECDSA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "Bob"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "IBM, Microsoft, Verisign, http://msdn.microsoft.com/library/default.asp?url=/library/en-us /dnglobspec/html/ws-security.asp"
+    ],
+    "title": [
+      "Web Services Security (WS-Security) v1.0"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barkley",
+        "given": "John"
+      },
+      {
+        "family": "Beznosov",
+        "given": "Konstantin"
+      },
+      {
+        "family": "Uppal",
+        "given": "Jinny"
+      }
+    ],
+    "container-title": [
+      "Proceedings of ACM Role-Based Access Control Workshop"
+    ],
+    "date": [
+      "1999-10"
+    ],
+    "location": [
+      "Fairfax, Virginia"
+    ],
+    "pages": [
+      "55–65,"
+    ],
+    "title": [
+      "Supporting Relationships in Access Control Using Role Based Access Control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bell",
+        "given": "D.E."
+      },
+      {
+        "family": "LaPadula",
+        "given": "L.J."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Bedford, MA"
+    ],
+    "publisher": [
+      "MITRE"
+    ],
+    "title": [
+      "Secure Computer Systems: Unified Exposition and Multics Interpretation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berghel",
+        "given": "Hal"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "19–22,"
+    ],
+    "title": [
+      "Digital Village: Caustic cookies"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://doi.acm.org/10.1145/374308.374320,"
+    ],
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Beznosov",
+        "given": "Konstantin"
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of Annual Computer Security Applications Conference",
+      "CORBA Security:An Introduction to Safe Computing with Objects"
+    ],
+    "date": [
+      "1999-12",
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "Blakley",
+        "given": "Bob"
+      }
+    ],
+    "location": [
+      "Phoenix, Arizona, USA",
+      "Reading"
+    ],
+    "pages": [
+      "310–319,",
+      "– –0830– ,"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "A Resource Access Decision Service for CORBA-based Distributed Systems"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.acsac.org/1999/abstracts"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bos",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "W3C"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "– –10– ,"
+    ],
+    "title": [
+      "XML in 10 Points"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.w3c.org/XML/1999"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Box",
+        "given": "Don"
+      }
+    ],
+    "container-title": [
+      "XML.com"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "A Brief History of SOAP"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://xml.com/lpt/a/2001/04/04"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "Keith"
+      }
+    ],
+    "container-title": [
+      "Microsoft Systems Journal"
+    ],
+    "date": [
+      "1999-01"
+    ],
+    "title": [
+      "Building a Lightweight COM Interception Framework Part 1: The Universal Delegator"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "Keith"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming Windows Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cover",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Coverpages"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "The XML Cover Pages - XML Overview"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://xml"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "C.S.I."
+      }
+    ],
+    "container-title": [
+      "Object Management Group. Document"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Common Secure Interoperability, Version 2, Final Submission"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "number orbos/00-08-04"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Epstein",
+        "given": "Pete"
+      },
+      {
+        "family": "Sandhu",
+        "given": "Ravi"
+      }
+    ],
+    "container-title": [
+      "Proceedings of 17th Annual Computer Security Applications Conference"
+    ],
+    "date": [
+      "December 10-14 2001"
+    ],
+    "location": [
+      "New Orleans, Louisiana"
+    ],
+    "pages": [
+      "127–136,"
+    ],
+    "title": [
+      "Engineering of Role/Permission Assignments"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Erdos",
+        "given": "M.Cantor"
+      },
+      {
+        "given": "S."
+      },
+      {
+        "family": "Ferraiolo",
+        "given": "David F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      ".internet2.edu/shibboleth/docs/draft-internet2-shibboleth-arch-v04.pdf, Internet2 /MACE and IBM",
+      "ACM Transactions on Information and System Security"
+    ],
+    "date": [
+      "2001-11",
+      "2001"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "224–274,"
+    ],
+    "title": [
+      "Shibboleth-Architecture DRAFT v04",
+      "Proposed NIST Standard for Role-Based Access Control"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://middleware",
+      "http://ite.gmu.edu/list/journals/tissec/p224-ferraiolo.pdf,"
+    ],
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "P",
+        "given": "Ed Flynn"
+      }
+    ],
+    "title": [
+      "The XML FAQ, v. 2.1 (2002-01-01"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ucc.id/xml/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "F.O.L.D.O.C."
+      }
+    ],
+    "container-title": [
+      "www.foldoc.org"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Free Online Dictionary of Computing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Garguilo",
+        "given": "J.J."
+      },
+      {
+        "family": "Markovit",
+        "given": "Paul"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "National Institute for Standards and Technology"
+    ],
+    "title": [
+      "NIST Special Publication 500-231, Guidelines for the Evaluation of Electronic Data Interchange Products"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gittler",
+        "given": "Frederic"
+      },
+      {
+        "family": "Hopkins",
+        "given": "Anne C."
+      }
+    ],
+    "container-title": [
+      "Hewlett-Packard Journal"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "41–48,"
+    ],
+    "title": [
+      "The DCE Security Service"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.hp.com/hpj/dec95_41.pdf,"
+    ],
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gollmann",
+        "given": "Dieter"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Computer Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grimes",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Birmingham, UK"
+    ],
+    "publisher": [
+      "Wrox Press Inc"
+    ],
+    "title": [
+      "Professional DCOM Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartman",
+        "given": "Bret"
+      },
+      {
+        "family": "Flinn",
+        "given": "Donald J."
+      },
+      {
+        "family": "Beznosov",
+        "given": "Konstantin"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "Enterprise Security With EJB and CORBA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Heffner",
+        "given": "Randy"
+      },
+      {
+        "family": "Howard",
+        "given": "Michael"
+      },
+      {
+        "family": "Levy",
+        "given": "Marc"
+      },
+      {
+        "family": "Waymire",
+        "given": "Richard"
+      }
+    ],
+    "container-title": [
+      "Giga Information Group"
+    ],
+    "date": [
+      "2001-06-22",
+      "2000"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "title": [
+      "Planning Assumption: Giga’s Model for Enterprise Application Security Integration",
+      "Designing Secure Web-based Applications for Microsoft Windows 2000"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.gigaweb.com."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.M."
+      },
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Security in a Web Services World: A Proposed Architecture and Roadmap”"
+    ],
+    "type": null,
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url=/library/en-us"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "IBM",
+        "given": "Microsoft"
+      },
+      {
+        "given": "Verisign"
+      }
+    ],
+    "date": [
+      "2002-04-05",
+      "2002"
+    ],
+    "genre": [
+      "Version 1.0,"
+    ],
+    "publisher": [
+      "/ws-secure/"
+    ],
+    "title": [
+      "Web Services Security (WS-Security"
+    ],
+    "type": null,
+    "url": [
+      "http://www-106.ibm.com/developerworks/webservices/library"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "RFC 1510, The Kerberos Network Authentication Service, V5"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2195.txt"
+    ],
+    "pages": [
+      "1997"
+    ],
+    "title": [
+      "RFC 2195, IMAP/POP AUTHorize Extension for Simple Challenge/Response"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2222.txt"
+    ],
+    "pages": [
+      "1997"
+    ],
+    "title": [
+      "RFC 2222, Simple Authentication and Security Layer (SASL"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2245.txt"
+    ],
+    "pages": [
+      "1997"
+    ],
+    "title": [
+      "RFC 2245, Anonymous SASL Mechanism"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2478.txt"
+    ],
+    "title": [
+      "RFC 2478, The Simple and Protected GSS-API Negotiation Mechanism"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2246.txt"
+    ],
+    "title": [
+      "RFC 2246, The Transport Layer Security Protocol version 1.0"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2616.txt"
+    ],
+    "pages": [
+      "1999"
+    ],
+    "title": [
+      "RFC 2616, Hypertext Transfer Protocol - HTTP 1.1"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2630.txt"
+    ],
+    "pages": [
+      "1999"
+    ],
+    "title": [
+      "RFC 2630, Cryptographic Message Syntax"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2633.txt"
+    ],
+    "pages": [
+      "1999"
+    ],
+    "title": [
+      "RFC 2633, S/MIME Version 3 Message Specification"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2808.txt"
+    ],
+    "pages": [
+      "2000"
+    ],
+    "title": [
+      "RFC 2808, The SecurID SASL Mechanism"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc2831.txt"
+    ],
+    "pages": [
+      "2000"
+    ],
+    "title": [
+      "RFC 2831, Using Digest Authentication as a SASL Mechanism"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "i.edu/in-notes/rfc3156.txt"
+    ],
+    "pages": [
+      "2000"
+    ],
+    "title": [
+      "RFC 3156, MIME Security with OpenPGP"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "ttp://www.ietf.org/internet-drafts/draft-ietf-ldapext-x509-sasl-03.txt"
+    ],
+    "pages": [
+      "2000"
+    ],
+    "title": [
+      "X.509 Authentication SASL Mechanism"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "SASL GSSAPI mechanisms"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.ietf.org/internet-drafts/draft-ietf-cat-sasl-gssapi-05.txt,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "IETF"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "IP Security Protocol (ipsec) Charter"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.ietf.org/html.charters"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "ttp://www.ietf.org/internet-drafts/draft-burdis-cat-srp-sasl-06.txt"
+    ],
+    "pages": [
+      "2002"
+    ],
+    "title": [
+      "Secure Remote Password SASL Mechanism"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.E.T.F."
+      }
+    ],
+    "container-title": [
+      "Internet Engineering Task Force"
+    ],
+    "issue": [
+      "tes/rfc3281.txt"
+    ],
+    "pages": [
+      "2002"
+    ],
+    "title": [
+      "RFC 3281, An Internet Attribute Certificate Profile for Authorization"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "given": "I.S.O."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "publisher": [
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "ISO 8879: 1986(E), Information processing - Text and Office Systems - Standard Generalized Markup Language (SGML"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kindel",
+        "given": "Charlie"
+      },
+      {
+        "given": "Brown"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Corporation"
+    ],
+    "title": [
+      "Distributed Component Object Model Protocol (DCOM/1.0"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kreger",
+        "given": "Heather"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "41"
+    ],
+    "publisher": [
+      "IBM Software Group"
+    ],
+    "title": [
+      "Web Services Conceptual Architecture"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.ibm.com/software/solutions/webservices/pdf/WSCA.pdf,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "LaMacchia B."
+      },
+      {
+        "family": "Lange",
+        "given": "S."
+      },
+      {
+        "family": "Lyons",
+        "given": "M."
+      },
+      {
+        "family": "Martin",
+        "given": "R."
+      },
+      {
+        "family": "Price",
+        "given": "K.T."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "1st"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley Professional"
+    ],
+    "title": [
+      ".NET Framework Security"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lampson",
+        "given": "B.W."
+      }
+    ],
+    "container-title": [
+      "Proceedings of 5th Princeton Conference on Information Sciences and Systems"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Princeton"
+    ],
+    "pages": [
+      "437,"
+    ],
+    "title": [
+      "Protection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lampson",
+        "given": "Butler"
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "Proceedings of ACM Symposium on Operating Systems Principles"
+    ],
+    "date": [
+      "October 13-16 1991"
+    ],
+    "location": [
+      "Pacific Grove, California"
+    ],
+    "pages": [
+      "165–182,"
+    ],
+    "publisher": [
+      "Asilomar Conference Center"
+    ],
+    "title": [
+      "Authentication in Distributed Systems: Theory and Practice"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://citeseer.nj.nec.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levitt",
+        "given": "Jason"
+      }
+    ],
+    "container-title": [
+      "Information Week"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "From EDI To XML And UDDI: A Brief History Of Web Services"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.informationweek.com/story/IWK20010928S0006,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lowy",
+        "given": "Juval"
+      }
+    ],
+    "container-title": [
+      "MSDN Magazine"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "– 01 ,"
+    ],
+    "title": [
+      "Windows XP: Make Your Components More Robust with COM+ 1.5 Innovations"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://msdn.microsoft.com/library/default"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Microsoft Corporation, http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnw2k /html/msdn_ip_security.asp"
+    ],
+    "title": [
+      "IP Security for Microsoft Windows 2000 Server"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "Microsoft,"
+    ],
+    "title": [
+      "Step-by-Step Guide to Mapping Certificates to User Accounts"
+    ],
+    "type": null,
+    "url": [
+      "http://www.microsoft.com/windows2000/techinfo/planning/security"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "container-title": [
+      "Explained"
+    ],
+    "date": [
+      "2001-07",
+      "2001"
+    ],
+    "note": [
+      "Microsoft Corporation,"
+    ],
+    "pages": [
+      "– 2 ,"
+    ],
+    "title": [
+      "Web Services Description Language (WSDL"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url="
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "Microsoft,"
+    ],
+    "title": [
+      "IIS Authentication"
+    ],
+    "type": null,
+    "url": [
+      "http://msdn.microsoft.com/library/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Microsoft .NET Passport"
+    ],
+    "type": null,
+    "url": [
+      "http://www.microsoft.com/myservices"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Microsoft Corporation"
+    ],
+    "title": [
+      "SOAP Toolkit 2.0: Guidelines and Limitations"
+    ],
+    "type": "book",
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url=/library/en-us/soap/htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Microsoft, http://msdn.microsoft.com /webservices/building/wsdk/default.asp"
+    ],
+    "title": [
+      "Web Services Development Kit"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Microsoft, http://msdn.microsoft.com /library/default.asp?url=/library/en-us/dnwsdl/html/wsdlspecindex.asp"
+    ],
+    "title": [
+      "WSDL Specification Index Page"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Microsoft"
+      },
+      {
+        "family": "Moats",
+        "given": "R.",
+        "particle": "b"
+      }
+    ],
+    "container-title": [
+      "IETF"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Building Secure ASP.NET Applications",
+      "RFC 2141: URN Syntax"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://msdn.microsoft.com/library",
+      "http://www.ietf.org/rfc/rfc2141.txt,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.C.S.C."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "National Computer Security Center"
+    ],
+    "title": [
+      "A Guide to Understanding Discretionary Access Control in Trusted Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Netscape, “Persistent Client State, HTTP Cookies.” Netscape, http://wp.netscape .com/newsref/std/cookie_spec.html. Neuman, B. Clifford and Theodore Y. Ts’o."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Marina del Ray, CA"
+    ],
+    "pages": [
+      "6"
+    ],
+    "publisher": [
+      "University of Southern California, Information Sciences Institute"
+    ],
+    "title": [
+      "Kerberos: An Authentication Service for Computer Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "N.I.S.T."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "46–1"
+    ],
+    "title": [
+      "Federal Information Processing Standards (FIPS"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.I.S.T."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "186–2 ,"
+    ],
+    "publisher": [
+      "National Institute of Standards and Technology"
+    ],
+    "title": [
+      "FIPS Pub 186-2 Digital Signature Standard (DSS"
+    ],
+    "type": "book",
+    "url": [
+      "http://csrc.nist.gov/publications/fips/fips186-2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.I.S.T."
+      }
+    ],
+    "container-title": [
+      "National Institute of Standards and Technology"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "FIPS Pub 198 HMAC - Keyed-Hash Message Authentication Code"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://csrc.nist.gov/publications/fips"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.I.S.T."
+      }
+    ],
+    "container-title": [
+      "FIPS 197",
+      "Object Management Group"
+    ],
+    "date": [
+      "2001-11",
+      "2002-05-31",
+      "2000-11",
+      "2001"
+    ],
+    "genre": [
+      "Consultant,"
+    ],
+    "publisher": [
+      "Fourthought, Inc",
+      "/developerworks/library/ws-soap/index.html?loc=wstheme"
+    ],
+    "title": [
+      "Specification for the Advanced Encryption Standard (AES",
+      "OASIS. “Assertions and Protocol for the OASIS Security Assertion Markup Language",
+      "Ogbuji, Uche. “Using WSDL in SOAP applications: An introduction to WSDL for SOAP programmers",
+      "OMG. “Resource Access Decision Facility"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://csrc.nist.gov/publications/fips/fips197/fips-197.pdf,",
+      "http://www.oasis-open.org/committees/security/docs/cs-sstc-core-01",
+      "http://www-106.ibm.com",
+      "http://www.omg.org/cgi-bin/doc?formal/2001-04-01,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "container-title": [
+      "Object Management Group"
+    ],
+    "issue": [
+      "ttp://www.omg.org/cgi-bin/doc?ptc/02-03-03"
+    ],
+    "pages": [
+      "2001"
+    ],
+    "title": [
+      "Security Domain Membership Management Service, Final Submission"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Oppliger",
+        "given": "Rolf"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Authentication Systems for Secure Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Orfali",
+        "given": "Robert"
+      },
+      {
+        "family": "Harkey",
+        "given": "Dan"
+      },
+      {
+        "family": "Edwards",
+        "given": "Jeri"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Instant CORBA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Orfali",
+        "given": "Robert"
+      },
+      {
+        "family": "Harkley",
+        "given": "Dan"
+      },
+      {
+        "family": "Edwards",
+        "given": "Jeri"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley Computer Publishing"
+    ],
+    "title": [
+      "Client/Server Survival Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "O.S.F."
+      },
+      {
+        "family": "Parker",
+        "given": "Tom"
+      },
+      {
+        "family": "Pinkas",
+        "given": "Denis"
+      }
+    ],
+    "date": [
+      "1996",
+      "1995"
+    ],
+    "note": [
+      "SESAME,"
+    ],
+    "pages": [
+      "61"
+    ],
+    "title": [
+      "Authentication and Security Services",
+      "SESAME V4 - Overview"
+    ],
+    "type": null,
+    "url": [
+      "http://www.esat.kuleuven.ac.be/cosic/sesame/doc-ps/overview.ps,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Penn",
+        "given": "Jonathan"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "2"
+    ],
+    "publisher": [
+      "Giga Information Group, Inc"
+    ],
+    "title": [
+      "Role-Based Access Control Implementations Require Advanced Capabilities"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pope",
+        "given": "Alan"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The CORBA Reference Guide: Understanding the Common Object Request Broker Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ray",
+        "given": "E.T."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Learning XML"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Roman",
+        "given": "Ed"
+      },
+      {
+        "family": "Ambler",
+        "given": "Scott"
+      },
+      {
+        "family": "Jewell",
+        "given": "Tyler"
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley Computer Publishing"
+    ],
+    "title": [
+      "Mastering Enterprise JavaBeans"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rescorla",
+        "given": "Eric"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "SSL and TLS: Designing and Building Secure Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rubin",
+        "given": "William"
+      },
+      {
+        "family": "Brain",
+        "given": "Marshall"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "P T R Prentice Hall"
+    ],
+    "title": [
+      "Understanding DCOM"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.phptr.com/ptrbooks/ptr_0130959669.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ruh",
+        "given": "William A."
+      },
+      {
+        "family": "Herron",
+        "given": "Thomas"
+      },
+      {
+        "family": "Klinker",
+        "given": "Paul"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "IIOP Complete: Understanding CORBA and Middleware Interoperability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruh",
+        "given": "William A."
+      },
+      {
+        "family": "Maginnis",
+        "given": "Francis X."
+      },
+      {
+        "family": "Brown",
+        "given": "William J."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Enterprise Application Integration: A Wiley Tech Brief"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Russel",
+        "given": "Debby"
+      },
+      {
+        "family": "Gangemi",
+        "given": "G.T."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Computer Security Basics"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.oreilly.com/catalog/csb/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sandhu",
+        "given": "R."
+      },
+      {
+        "family": "Coyne",
+        "given": "E."
+      },
+      {
+        "family": "Feinstein",
+        "given": "H."
+      },
+      {
+        "family": "Youman",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "38–47,"
+    ],
+    "title": [
+      "Role-Based Access Control Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Seely",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "2001-02-04"
+    ],
+    "genre": [
+      "Microsoft, http://msdn .microsoft.com/library/default.asp?url=/library/en-us/dnservice/html /service02062002.asp,"
+    ],
+    "title": [
+      "Building Industry Standard WSDL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Seely",
+        "given": "Scott"
+      }
+    ],
+    "container-title": [
+      "Microsoft Developer Network"
+    ],
+    "date": [
+      "/dnwebsrv/html/Xmloverchap2.asp?frame=true, November, 2001b"
+    ],
+    "title": [
+      "An XML Overview Towards Understanding SOAP"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url=/library/en-us"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Seely",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "SOAP: Cross Platform Web Service Development Using XML"
+    ],
+    "type": "book",
+    "url": [
+      "http://vig.pearsoned.com/store/product/0,,store-562_banner-0_isbn-0130907634,00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shohoud",
+        "given": "Yasser"
+      },
+      {
+        "family": "Siegel",
+        "particle": "com/tutors/wsdl/wsdl.aspx."
+      },
+      {
+        "given": "Jon"
+      }
+    ],
+    "container-title": [
+      "Learnxmlws"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Introduction to WSDL",
+      "CORBA 3 Fundamentals and Programming"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.learnxmlws"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sit",
+        "given": "Emil"
+      },
+      {
+        "family": "Fu",
+        "given": "Kevin"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "120,"
+    ],
+    "title": [
+      "Inside Risks: Web cookies: not just a privacy risk"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://doi.acm.org/10.1145/383694.383714,"
+    ],
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Slemko",
+        "given": "Marc"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "/passport/"
+    ],
+    "title": [
+      "Microsoft Passport to Trouble"
+    ],
+    "type": "book",
+    "url": [
+      "http://alive.znep.com/~marcs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "Richard"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Internet Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Snell",
+        "given": "James"
+      }
+    ],
+    "container-title": [
+      "IBM"
+    ],
+    "date": [
+      "2001-04"
+    ],
+    "title": [
+      "Web services insider, Part 1: Reflections on SOAP"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.ibm.com/developerworks/library/ws-ref1.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Sun"
+      }
+    ],
+    "container-title": [
+      "Sun Microsystems"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Java Authentication and Authorization Service (JAAS"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://java.sun.com/products/jaas/index-14.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Sun"
+      }
+    ],
+    "container-title": [
+      "Sun Microsystems"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Java Technology & Web Services Frequently Asked Questions"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://java.sun.com/webservices/faq.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Sun"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Java Web Services Developer Pack Home Page"
+    ],
+    "type": null,
+    "url": [
+      "http://java.sun.com/webservices"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tapadyia",
+        "given": "Pradeep"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall PTR"
+    ],
+    "title": [
+      "COM+ Programming: A Practical Guide Using Visual C++ and ATL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tapang",
+        "given": "Carlos C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "28 ,"
+    ],
+    "title": [
+      "Web Services Description Language (WSDL) Explained"
+    ],
+    "type": null,
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url=/library"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "pages": [
+      "1012272472 1–1 1 10 1 103–8613496–5987843,"
+    ],
+    "publisher": [
+      "Addison Wesley Longman"
+    ],
+    "title": [
+      "Object Technology: A Manager’s Guide"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.amazon.com/exec/obidos/ASIN/0201309947"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thai",
+        "given": "Thuan L."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Learning DCOM"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Thai",
+        "given": "Thuan"
+      },
+      {
+        "family": "Lam",
+        "given": "Hoang Q."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      ".NET Framework Essentials"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "T.I.S."
+      }
+    ],
+    "container-title": [
+      "Request for Comments"
+    ],
+    "date": [
+      "2000",
+      "1995"
+    ],
+    "title": [
+      "Internet Security Glossary” The Internet Society"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2828"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "UDDIorg"
+      }
+    ],
+    "container-title": [
+      "UDDI"
+    ],
+    "date": [
+      "2001-11-14"
+    ],
+    "title": [
+      "UDDI Executive White Paper"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.uddi.org/pubs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "UDDIorg"
+      }
+    ],
+    "container-title": [
+      "UDDI"
+    ],
+    "date": [
+      "2001-11-14"
+    ],
+    "title": [
+      "UDDI Frequently Asked Questions (FAQ"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.uddi.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "UDDIorg"
+      }
+    ],
+    "container-title": [
+      "UDDI"
+    ],
+    "date": [
+      "2001-09-06"
+    ],
+    "genre": [
+      "/UDDI_Overview_Presentation.ppt,"
+    ],
+    "title": [
+      "UDDI Overview"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.uddi.org/pubs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "UDDIorg"
+      }
+    ],
+    "container-title": [
+      "UDDI"
+    ],
+    "date": [
+      "2001-09-06"
+    ],
+    "title": [
+      "UDDI Technical White Paper"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.uddi.org/pubs"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "UDDIorg"
+      }
+    ],
+    "date": [
+      "2001-06-08"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "UDDI Version 2.0 Data Structure Reference UDDI Open Draft Specification"
+    ],
+    "type": null,
+    "url": [
+      "http://www.uddi.org/pubs/DataStructure-V2.00-Open-20010608.pdf,"
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vlist",
+        "given": "Eric van der"
+      }
+    ],
+    "container-title": [
+      "XML.com"
+    ],
+    "date": [
+      "2002-09"
+    ],
+    "title": [
+      "Using W3C XML Schema"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.xml.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "Allen"
+      }
+    ],
+    "container-title": [
+      "Microsoft Developer Network"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Developing a Custom Authentication Scheme in .NET"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://msdn.microsoft.com/library/default.asp?url="
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "1999-11-16"
+    ],
+    "note": [
+      "v. 1.0 Recommendation,"
+    ],
+    "title": [
+      "XML Path Language (XPath"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "v",
+      "2000-10-06"
+    ],
+    "edition": [
+      "1.0 (Second"
+    ],
+    "title": [
+      "Extensible Markup Language"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2001-03-15"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "Canonical XML"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2001/REC-xml-c14n-20010315,"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2001-03-15"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "2001 – –20010315,"
+    ],
+    "title": [
+      "Web Services Description Language (WSDL"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3c.org"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2001-09-11"
+    ],
+    "note": [
+      "v 1.0 Candidate Recommendation,"
+    ],
+    "title": [
+      "XML Pointer Language (XPointer"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2001/CR-xptr-20010911/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "Primer.”http://www.w3.org/TR/2001 /REC-xmlschema-0-20010502, May 2, 2001c"
+    ],
+    "title": [
+      "XML Schema Part 0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2001-05-02"
+    ],
+    "pages": [
+      "– –1–20010502,"
+    ],
+    "title": [
+      "XML Schema Part 1: Structures"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2001"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2001-05-02"
+    ],
+    "pages": [
+      "– –2–20010502,"
+    ],
+    "title": [
+      "XML Schema Part 2: Datatypes"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2001"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "container-title": [
+      "Candidate Recommendation"
+    ],
+    "date": [
+      "2002-03-04"
+    ],
+    "title": [
+      "Decryption Transform for XML Signature"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.w3.org/TR/xmlenc-decrypt,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-07-18"
+    ],
+    "title": [
+      "Exclusive XML Canonicalization.” v 1.0 Candidate Recommendation"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/xml-exc-c14n/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "v",
+      "2002-04"
+    ],
+    "note": [
+      "1.1 (Working Draft 3),"
+    ],
+    "pages": [
+      "– 11 ,"
+    ],
+    "title": [
+      "Namespaces in XML"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-06-26"
+    ],
+    "genre": [
+      "Working Draft, http://www.w3.org /TR/2002/WD-soap12-part0-20020626/,"
+    ],
+    "title": [
+      "SOAP Version 1.2 Part 0: Primer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-06-26"
+    ],
+    "genre": [
+      "Working Draft,"
+    ],
+    "title": [
+      "SOAP Version 1.2 Part 1: Messaging Framework"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2002/WD-soap12-part1-20020626/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-06-26"
+    ],
+    "genre": [
+      "Working Draft, http://www.w3.org /TR/2002/WD-soap12-part2-20020626,"
+    ],
+    "title": [
+      "SOAP Version 1.2 Part 2: Adjuncts"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-06-26"
+    ],
+    "genre": [
+      "Working Draft, http://www.w3.org /TR/2002/WD-xmlp-scenarios-20020626/,"
+    ],
+    "title": [
+      "SOAP Version 1.2 Usage Scenarios"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-03-04"
+    ],
+    "title": [
+      "XML Encryption Requirements"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/xml-encryption-req,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "container-title": [
+      "Candidate Recommendation"
+    ],
+    "date": [
+      "2002-03"
+    ],
+    "title": [
+      "XML Encryption Syntax and Processing"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.w3.org/TR/xmlenc-core/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-02-12"
+    ],
+    "title": [
+      "XML-Signature Syntax and Processing"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/xmldsig-core/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      }
+    ],
+    "date": [
+      "2002-04-25"
+    ],
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "– – 2–20020425 ,"
+    ],
+    "title": [
+      "XML-Signature XPath Filter"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/2002"
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W3C"
+      },
+      {
+        "family": "Society",
+        "given": "Internet"
+      }
+    ],
+    "date": [
+      "1999-10-14"
+    ],
+    "note": [
+      "W3C, Working Draft,"
+    ],
+    "title": [
+      "XML-Signature Requirements W3C"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/xmldsig-requirements,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Winer",
+        "given": "Dave"
+      }
+    ],
+    "container-title": [
+      "XML-RPC.com"
+    ],
+    "date": [
+      "1999-09-25"
+    ],
+    "title": [
+      "Dave’s History of SOAP",
+      "Index"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.xmlrpc"
+    ]
+  },
+  {
+    "container-title": [
+      "PassportAuthenticationModule"
+    ],
+    "note": [
+      "request handling, 230 architecture role-based access control, 249–251 anomaly detection, 384 security requirements, 66 availability, 365–366 SOAP headers, 240–243 back-office security, 385–386 URL authorization, 248–249 EASI application, 369–381 Web Services creation, 229–234"
+    ],
+    "pages": [
+      "265–266"
+    ],
+    "title": [
+      "application level, security mechanisms, 11 OnAuthenticate event, 237 Application Programming Interfaces OnAuthenticate ( ) method, 237–239 (APIs), 15–17 OnEnter( ) method, 237–239 applications, 15–16, 153–154 Passport authentication, 236 application servers, 12, 153–154, 161"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "236 259–260"
+    ]
+  },
+  {
+    "container-title": [
+      "JWSDP), 268–269 invocation chain, 159 JAXP. See Java API for XML Parsing invocation credentials, 171 JCA. See J2EE Connector Architecture IPSec, 146–147 JDBC. See Java Database Connectivity ISerializable interface, 202 JMS. See Java Messaging Service ISPs. See Internet Service Providers JNDI. See Java Naming and Directory Interface J JSPs. See Java Server Pages Java 2 Platform Enterprise Edition (J2EE) JSRs. See Java Specification Requests APIs",
+      "JWSDP example"
+    ],
+    "note": [
+      "206 JTA. See Java Transaction API applications environment, security, 10 JTS. See Java Transaction Service development history, 206–207 J2EE Connector Architecture (JCA), 207 distributed computing, 25 JWSDP. See Java Web Services Developer"
+    ],
+    "pages": [
+      "311–317 260–261,",
+      "383–384"
+    ],
+    "title": [
+      "Java/.NET platforms, 296–297 Java Specification Requests (JSRs",
+      "264 layered security, 290–291 JSR/application server compliance, Liberty Alliance, 320–322 265–266 mid-tier security, 294–297 JWSDP, 268–269 perimeter security, 291–294 JWSDP example, 280–284 security architecture, 356–357 SAML integration, 263–265 security context maintenance, 301–302 Sun FORTE, 268 security framework, 305–307 Systinet WASP, 270–271 security problem, 288–289 tools, 267–271 security tiers, 289–297 WASP example, 271–280 third-party security products, 318–319 WSTK, 269–270 intranets, 3–5, 322 Java Web Services Developer Pack intrusion detection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "note": [
+      "Web Services (continued) requirements, 9–10 authentication, 135–140, 143–144 risk management approach, 7 benefits, 1–2 tiers, 54 characteristics, 3 trusted computer base (TCB), 352–354 COM components, 226–228 Web Services toolkit (WSTK), 271–272 COM+ components, 225–226 Web single sign-on (SSO), 62–63, 104, data protection requirements, 145–147 138–140 definitions, 2 Web sites development phases, 28 Association for Computing Machinery digital signatures, 140–141 (ACM), 341 distributed computing, 25–27 FORTE, 268 distributed processing, 27–28 Java Developer Connection, 268"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "153 WSTK. See Web Services toolkit XML-based messages",
+      "W3C. See World Wide Web Consortium Web Services Description Language (WSDL"
+    ],
+    "note": [
+      "X Web Services Interoperability Organiza- XACML language integration, 130 tion (WS-I), 51 X.400, email standard, 82"
+    ],
+    "pages": [
+      "2–3",
+      "27–28, 48–50, 391"
+    ],
+    "title": [
+      "purchasing example, 133–134 Windows Access Control Lists, 246–247 security challenges, 2 wire protocol, 178, 190–191 security development history, 10–11 World Wide Web Consortium (W3C), security-driven business models, 5–6 30–31, 85, 88 single domain, 136 WSDL. See Web Services Description SOAP Toolkit, 226–228 Language system characteristics, 141–143, 147–149 WS-I. See Web Services Interoperability tokens, 141 Organization transport protocols, 2–3 WS-Security, 13–15, 95–98 Web server authorization"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Schema language"
+    ],
+    "note": [
+      "external attacks, 350 XML security, 85–94 information goals, 5 XML Signature, 88–94, 101 internal attacks, 350 XML Special Interest Group, 30–31 mechanisms, 10–11 XML tags, 31–32 mid-tier security, 55–56 XPointer, 90–91 perimeter security, 55–56 X12, multidomain processing, 26"
+    ],
+    "pages": [
+      "101–102"
+    ],
+    "title": [
+      "Web Services security X.509 format, 82–83 ASP.NET, 64–70, 234–256 XML. See Extensible Markup Language authentication, 58–63 XML-based messages, 2–3 authorization, 63–64 XML Digital Signature, ebXML project, 52 back-office security, 55–56 XML Encryption, 52, 85–87, 146–147 cryptography, 56–57 XML Encryption Syntax and Processing, 85 development history, 10–11 XML Path Language (XPath), 89–91 ePortal business scenario example, 19–22 XML"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34–36"
+    ]
+  }
+]
