@@ -1,0 +1,164 @@
+[
+  {
+    "container-title": [
+      "ELEMENTS Order Codes Order Type Code Order Status Code Order Life Cycle Dates Actual Ship Date Original Delivery Date Revised Delivery Date Cancel Date Order Measurements Order Quantity Address Delivery Address Line Text Delivery Address City Name Delivery Address State Code Delivery Address Postal Code Order Description Order Customer Comments Text"
+    ],
+    "title": [
+      "CONCEPT DATA ELEMENTS Order Codes Order Status Code Order Type Code Order Life Cycle Dates Actual Ship Date Cancel Date Original Delivery Date Revised Delivery Date Order Measurements Order Quantity Address Delivery Address City Name Delivery Address Line Text Delivery Address State Code Delivery Address Postal Code Table 10.2 Data Elements Grouped by Chronology within Concept CONCEPT DATA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "C.J",
+        "given": "Date"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company, Inc"
+    ],
+    "title": [
+      "An Introduction to Database Systems",
+      "This is one of the classic texts in our field. In a very straightforward fashion, Date discusses many relational database characteristics, including normalization. If you are looking for a formal walk-through of all levels of normalization, this is your text"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "C.",
+        "given": "Fleming"
+      },
+      {
+        "family": "Halle B",
+        "particle": "von"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Reading, Mass"
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company, Inc"
+    ],
+    "title": [
+      "Handbook of Relational Database Design",
+      "This was the first book I read on data modeling. The authors use lots of examples to highlight database design techniques, and they have a fairly extensive methodology for completing a database design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kimball",
+        "given": "R."
+      },
+      {
+        "family": "Sons",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "The Data Warehouse Toolkit",
+      "This is a classic text on data warehousing. If you have ever designed a data warehouse or will design one, this is an excellent reference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "February",
+        "given": "Kent W."
+      },
+      {
+        "given": "C.A.C.M."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "A Simple Guide to Five Normal Forms in Relational Database Theory",
+      "This short article contains one of the clearest explanations of normalization I have seen"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "M.",
+        "given": "Reingruber"
+      },
+      {
+        "family": "W",
+        "given": "Gregory"
+      },
+      {
+        "family": "Sons",
+        "given": "Inc"
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "The Data Modeling Handbook",
+      "This is a great introductory text on data modeling. Although many texts in our field focus on database design (that is, physical data modeling), this text dedicates much of its content to logical data modeling and best practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "L.",
+        "given": "Silverston"
+      },
+      {
+        "family": "W.",
+        "given": "Inmon"
+      },
+      {
+        "family": "K",
+        "given": "Graziano"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "The Data Model Resource Book",
+      "This book provides a valuable set of reusable abstract designs that make great starting points for your data models"
+    ],
+    "type": "book"
+  }
+]
