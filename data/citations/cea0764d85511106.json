@@ -1,0 +1,58 @@
+[
+  {
+    "director": [
+      {
+        "family": "StaticCounterMethod",
+        "given": "Print"
+      },
+      {
+        "family": "StaticCounterMethod",
+        "given": "IncrementCounter"
+      },
+      {
+        "family": "StaticCounterMethod",
+        "given": "Print"
+      },
+      {
+        "family": "StaticCounterMethod",
+        "given": "Print"
+      },
+      {
+        "family": "StaticCounterMethod",
+        "given": "IncrementCounter"
+      },
+      {
+        "family": "StaticCounterMethod",
+        "given": "Print"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "m_finishedQueryLock.lock();"
+    ],
+    "title": [
+      "bool hasFinished = m_playerQuit || m_playerWon; m_finishedQueryLock.unlock(); return hasFinished"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "m_finishedQueryLock.lock(); m_playerQuit = true; m_finishedQueryLock.unlock(); void SetPlayerWon() m_finishedQueryLock.lock(); m_playerWon = true; m_finishedQueryLock.unlock(); bool GetPlayerWon() m_finishedQueryLock.lock(); bool playerWon = m_playerWon; m_finishedQueryLock.unlock(); return playerWon;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SerializationManager",
+        "given": "GetSingletonSave"
+      },
+      {
+        "given": "SetPlayerQuit"
+      }
+    ],
+    "type": null
+  }
+]
