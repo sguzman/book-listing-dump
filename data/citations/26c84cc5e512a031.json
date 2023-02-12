@@ -1,0 +1,267 @@
+[
+  {
+    "note": [
+      "Read_Sensor_Data(); drawPoints(dotCursor);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "GLCD.CursorToXY(0, 49); // print pressure GLCD.print(\"hPa:\"); GLCD.CursorToXY(24,49); GLCD.print(baroPressure/100); GLCD.print(\" \"); // erase any old value longer than new value float tempF = (temperature*1.8) + 32;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Read_Sensor_Data(); drawPoints(dotCursor);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Read_Sensor_Data"
+      }
+    ],
+    "note": [
+      "GLCD.CursorToXY(0, 49); // print pressure GLCD.print(\"hPa:\"); GLCD.CursorToXY(24,49); GLCD.print(baroPressure/100); GLCD.print(\" \"); // erase any old value longer than new value"
+    ],
+    "title": [
+      "Then we use the GLCD.CursorToXY() function to move the pointer to the X and Y coordinates specified, and then the GLCD.print() function to print the pressure and temperature"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "second",
+        "given": "Wait",
+        "particle": "one"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "SS format"
+    ],
+    "note": [
+      "Then, set the date in DD, MM, YYYY format using the setDate() function. rtc.setDate(30, 04, 2013);"
+    ],
+    "title": [
+      "Next, the setTime() function is used to set the time in HH, MM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "rtc.setTime(9, 27, 00"
+    ]
+  },
+  {
+    "title": [
+      "File1.print(rtc.getDateStr()); Chapter 15 ■ Reading and Writing to an SD Card The same data is printed to the serial monitor so the user can see what is going on"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprint"
+      }
+    ],
+    "container-title": [
+      "File1.print(\""
+    ],
+    "note": [
+      "\"); Serial.print(\", \"); Then, we retrieve the time string and write that to the file."
+    ],
+    "title": [
+      "This date is followed by a comma and a space"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "File1.print)",
+        "given": "Serialprint"
+      }
+    ],
+    "location": [
+      "File1.print",
+      "Serial.print"
+    ],
+    "note": [
+      "\");"
+    ],
+    "publisher": [
+      "Inside",
+      "Inside"
+    ],
+    "title": [
+      "Next comes the inside temperature, so we give it a label"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "File1.print(\"C Outside: \"); Serial.print(\"C Outside: \");"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "char sensorId1[] = \"IntTempC\"; char sensorId2[] = \"IntTempF\"; char sensorId3[] = \"ExtTempC\"; char sensorId4[] = \"ExtTempF\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "oneWire",
+        "given": "OneWire"
+      }
+    ],
+    "title": [
+      "Then we send a reference to that One Wire instance to the Dallas Temperature library"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "sensors",
+        "given": "DallasTemperature"
+      }
+    ],
+    "title": [
+      "Next we create the two device addresses for the internal and external temperature sensors"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "{"
+    ],
+    "issue": [
+      "ermometer = { 0x28, 0xA5, 0x02, 0xC2, 0x03, 0x00, 0x00"
+    ],
+    "pages": [
+      "0 0"
+    ],
+    "title": [
+      "DeviceAddress insideThermometer ="
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "title": [
+      "Serial.println(\"Starting 4 stream data upload to Xively...\"); Serial.println("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "trying again...\"); delay(15000);"
+    ],
+    "title": [
+      "Serial.println(\"Error getting IP address via DHCP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "client.println(\"EHLO MYSERVER\"); delay(time); // log in"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "delay",
+        "given": "clientprintln"
+      },
+      {
+        "given": "delay"
+      }
+    ],
+    "citation-number": [
+      "client.println(\"lcbWNybbWl2JttnRzLmNvrZSbQ==\");"
+    ],
+    "note": [
+      "delay(time); client.println(\"RCPT TO:<fred@crunchytoad.com>\"); delay(time);"
+    ],
+    "title": [
+      "Then you need to tell the server who the mail is coming from and who the mail is going to: client.println(\"MAIL FROM:<sales@earthshineelectronics.com>\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "client.print(\"SUBJECT: \"); client.println(subject); delay(time);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "client.println",
+        "given": "delay"
+      }
+    ],
+    "note": [
+      "lastMessage=millis();"
+    ],
+    "title": [
+      "Finally, the user is informed that the e-mail has been sent: Serial.println(\"Email sent.\"); Next, you store the current value of millis() in lastMessage,as you will use that later to see if the specified interval has passed or not in-between message sends"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Ethernet.begin(mac, ip); Serial.begin(9600);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "client.println(\"GET /xml/current_obs/KEDW.xml HTTP/1.0\"); client.println(); delay(2000); If the connection was not made, you inform the user of a failed connection"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "client.println(\"GET /xml/current_obs/KEDW.xml HTTP/1.0\"); client.println(); delay(2000);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (matchTag(\"<temp_c>\")) { Serial.print(\", TempC: \"); Serial.print(dataStr);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (matchTag(\"<pressure_in>\")) { Serial.print(\", Pressure: \"); Serial.print(dataStr); Serial.println(\"\"); Then all of the strings are cleared ready for the next line clearStr(tmpStr); clearStr(tagStr); clearStr(dataStr);"
+    ],
+    "type": null
+  }
+]
