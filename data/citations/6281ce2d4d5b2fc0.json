@@ -1,0 +1,3389 @@
+[
+  {
+    "container-title": [
+      "GEP. • Discuss the benefit and the drawback of OMG Query Service. Hint: Relate the explanation to database schema and query manipulation language Fundamentals of Distributed Object Systems: The CORBA Perspective Zahir Tari, Omran Bukhres Copyright c 2001 John Wiley & Sons, Inc. Print ISBN 0-471-35198-9 Electronic"
+    ],
+    "isbn": [
+      "0-471-20064-6"
+    ],
+    "title": [
+      "• A query optimizer in OMG query service finds the “best” Global Execution Plan (GEP) before sending its comprising Local Execution Plans (LEP)s to the object adaptors. Later, the object adaptors translate the LEPs to specific query language to the relevant database servers on the network. Discuss the nature of this “best"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Abrams",
+        "given": "M."
+      },
+      {
+        "family": "Standridge",
+        "given": "C.R."
+      },
+      {
+        "family": "Abdulla",
+        "given": "G."
+      },
+      {
+        "family": "Williams",
+        "given": "S."
+      },
+      {
+        "family": "Fox",
+        "given": "E.A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proc. Fourth Int"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "World Wide Web Conf"
+    ],
+    "title": [
+      "Caching Proxies: Limitations and Potentials"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "M."
+      },
+      {
+        "family": "Bancilhon",
+        "given": "F."
+      },
+      {
+        "family": "DeWitt",
+        "given": "D."
+      },
+      {
+        "family": "Dittrich",
+        "given": "K."
+      },
+      {
+        "family": "Maier",
+        "given": "D."
+      },
+      {
+        "family": "Zdonik",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Deductive Object-Oriented Databases (DOOD"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Kyoto, Japan"
+    ],
+    "pages": [
+      "40–57"
+    ],
+    "title": [
+      "The Object-Oriented Database System Manifesto"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahamad",
+        "given": "M."
+      },
+      {
+        "family": "Kordale",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distributed Systems (PDS"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "888–903"
+    ],
+    "title": [
+      "Scalable Consistency Protocols for Distributed Services"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aggarwal",
+        "given": "C."
+      },
+      {
+        "family": "Wolf",
+        "given": "J.L."
+      },
+      {
+        "family": "Yu",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. Knowledge and Data Engineering (TKDE"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "94–107"
+    ],
+    "title": [
+      "Caching on the World Wide Web"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Baker",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "CORBA Distributed Objects Using Orbix"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Barak",
+        "given": "A."
+      },
+      {
+        "family": "Guday",
+        "given": "S."
+      },
+      {
+        "family": "Wheeler",
+        "given": "R.G."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "The Mosix Distributed Operating System, Load Balancing for UNIX"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bearman",
+        "given": "M."
+      },
+      {
+        "family": "Duddy",
+        "given": "K."
+      },
+      {
+        "family": "Raymond",
+        "given": "K."
+      },
+      {
+        "family": "Vogel",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Int. J. Theory and Practice of Object Systems (TAPOS"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "15–29"
+    ],
+    "title": [
+      "Trader Down Under: Upside Down and Inside Out"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Beitz",
+        "given": "A."
+      },
+      {
+        "family": "Bearman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proc. 1st Int. Workshop on Services in Distributed and Networked Environments"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Los Alamitos, CA"
+    ],
+    "title": [
+      "An ODP Trading Service for DCE"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Beitz",
+        "given": "A."
+      },
+      {
+        "family": "Bearman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "Technical Report 21,"
+    ],
+    "publisher": [
+      "CRC for Distributed Systems Technology"
+    ],
+    "title": [
+      " Service Location in an Open Distributed Environment"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernstein",
+        "given": "P."
+      },
+      {
+        "family": "Hadzilacos",
+        "given": "V."
+      },
+      {
+        "family": "Goodman",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Concurrency Control and Recovery in Databases"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Birman",
+        "given": "K.P."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Comm. ACM (CACM"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "36–53"
+    ],
+    "title": [
+      "The Process Group Approach to Reliable Distributed Computing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Comp. Soc. Press"
+    ],
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "Birman",
+        "given": "K.P."
+      },
+      {
+        "family": "Renesse",
+        "given": "R.",
+        "particle": "van"
+      }
+    ],
+    "pages": [
+      "558–565"
+    ],
+    "title": [
+      "Reliable Distributed Computing with the ISIS Toolkit"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Boeing"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Report of Technical Committee Meeting"
+    ],
+    "date": [
+      "1998-05"
+    ],
+    "title": [
+      "Joint Computer Systems Technical Committee and Software Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Booch",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Object-Oriented Analysis and Design with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blaze",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1992"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "publisher": [
+      "Princeton University"
+    ],
+    "title": [
+      "Caching in Large-scale Distributed File Systems"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Carey",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Object-Oriented Concepts, Databases, and Applications"
+    ],
+    "date": [
+      "1989"
+    ],
+    "editor": [
+      {
+        "family": "Kim",
+        "given": "W."
+      },
+      {
+        "family": "Lochovsky",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Storage Management for Objects in EXODUS"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Carey",
+        "given": "M."
+      },
+      {
+        "family": "Franklin",
+        "given": "M."
+      },
+      {
+        "family": "Livny",
+        "given": "M."
+      },
+      {
+        "family": "Shekita",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Proc. ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Denver"
+    ],
+    "pages": [
+      "357–366"
+    ],
+    "title": [
+      "Data Caching Tradeoffs in Client-Server DBMS Architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Casavant",
+        "given": "T.L."
+      },
+      {
+        "family": "Kuhl",
+        "given": "J.G."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Trans. Software Eng. (TSE"
+    ],
+    "date": [
+      "1988-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "141–154"
+    ],
+    "title": [
+      "A Taxonomy of Scheduling in General-Purpose Distributed Computing Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Catell",
+        "given": "R.G.G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "ODMG 2.0,"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Object Database Standard"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chung",
+        "given": "P.E."
+      },
+      {
+        "family": "Huang",
+        "given": "Y."
+      },
+      {
+        "family": "Yajnik",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "1998-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "18–30"
+    ],
+    "title": [
+      "DCOM and CORBA Side by Side, Step by Step, and Layer by Layer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cornell",
+        "given": "G."
+      },
+      {
+        "family": "Horstmann",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Sun Microsystem Press"
+    ],
+    "title": [
+      "Core Java"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coulouris",
+        "given": "G."
+      },
+      {
+        "family": "Dollimore",
+        "given": "J."
+      },
+      {
+        "family": "Kindberg",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Distributed Systems, Concepts and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Craske",
+        "given": "G."
+      },
+      {
+        "family": "Tari",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Distributed and Computer Systems (ICDCS’99"
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "location": [
+      "Texas"
+    ],
+    "pages": [
+      "517–527"
+    ],
+    "title": [
+      "A Property-based Clustering Approach for the CORBA Trading Service"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Deschrevel",
+        "given": "J.P."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1993-07"
+    ],
+    "genre": [
+      "Architecture Report,"
+    ],
+    "publisher": [
+      "ANSA"
+    ],
+    "title": [
+      "The ANSA Model for Trading and Federation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Downey",
+        "given": "A.B."
+      },
+      {
+        "family": "Harchol-Balter",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1995-11"
+    ],
+    "genre": [
+      "Technical Report, No. UCB/CSD-95-888,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California",
+      "Computer Science Division"
+    ],
+    "title": [
+      "A Note on Limited Performance Benefits of Migrating Active Processes for Load Sharing"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Eager",
+        "given": "D.L."
+      },
+      {
+        "family": "Lazowska",
+        "given": "E.D."
+      },
+      {
+        "family": "Zajorjan",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "IEEE Trans. Software Eng. (TSE"
+    ],
+    "date": [
+      "1986-05"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "662–675"
+    ],
+    "title": [
+      "Adaptive Load Sharing in Homogeneous Distributed Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Eager",
+        "given": "D.L."
+      },
+      {
+        "family": "Lazowska",
+        "given": "E.D."
+      },
+      {
+        "family": "Zajorjan",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "Performance Evaluation Journal"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "53–68"
+    ],
+    "title": [
+      "A Comparison of Receiver-Initiated and Sender-Initiated Adaptive Load Sharing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Eager",
+        "given": "D.L."
+      },
+      {
+        "family": "Lazowska",
+        "given": "E.D."
+      },
+      {
+        "family": "Zahorjan",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "SIGMETRICS"
+    ],
+    "date": [
+      "1988-05"
+    ],
+    "pages": [
+      "662–675"
+    ],
+    "title": [
+      "The Limited Performance Benefits of Migrating Active Processes for Load Sharing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Elmasri",
+        "given": "R."
+      },
+      {
+        "family": "Navathe",
+        "given": "S.B."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Fundamentals of Database Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Faensen",
+        "given": "D."
+      },
+      {
+        "family": "Hinze",
+        "given": "A."
+      },
+      {
+        "family": "Schweppe",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Proc. European Conf. on Digital Librairies (ECDL"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "643–644"
+    ],
+    "publisher": [
+      "Heraklion"
+    ],
+    "title": [
+      "Alerting in a Digital Library Environment: Do Channels Meet the Requirements?"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Fan",
+        "given": "B."
+      },
+      {
+        "family": "Kumar",
+        "given": "K."
+      },
+      {
+        "family": "Tari",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Parallel and Distributed Processing Technique and Applications (PDPTA), Las Vegas"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "An Efficient Trader Using Attribute Clustering Technique in Distributed Object Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "M."
+      },
+      {
+        "family": "Carey",
+        "given": "M.J."
+      },
+      {
+        "family": "Livny",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "ACM Trans. on Database Systems"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "315–363"
+    ],
+    "title": [
+      "Transactional Client-Server Cache Consistency: Alternatives and Performance"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freytag",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "Proc. ACM Int. Conf. on Management of Data (SIGMOD"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "173–180"
+    ],
+    "title": [
+      "Rule-Based View of Query Optimisation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Garbis",
+        "given": "J."
+      },
+      {
+        "family": "Slama",
+        "given": "D."
+      },
+      {
+        "family": "Russell",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Enterprise CORBA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gill",
+        "given": "D.S."
+      },
+      {
+        "family": "Zhou",
+        "given": "S."
+      },
+      {
+        "family": "Sandhu",
+        "given": "H.S."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "Proc. ACM SIGMETRICS Conf. on Measurement and Modelling of Computer Systems"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "276–277"
+    ],
+    "title": [
+      "A Case Study of File System Workload in a Large-Scale Distributed Environment"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gokhale",
+        "given": "A.S."
+      },
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "container-title": [
+      "Proc. IEEE Global Telecommun. Conf. (GLOBECOM"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Phoenix"
+    ],
+    "pages": [
+      "1729–1734"
+    ],
+    "title": [
+      "Evaluating the Performance of Demultiplexing Strategies for Real-time CORBA"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gokhale",
+        "given": "A.S."
+      },
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "container-title": [
+      "IEEE Trans. on Computers"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "391–413"
+    ],
+    "title": [
+      "Measuring and Optimising CORBA Latency and Scalability Over High-speed Networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Graefe",
+        "given": "G."
+      },
+      {
+        "family": "DeWitt",
+        "given": "D.J."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "container-title": [
+      "Proc. ACM SIGMOD Int. Conf. on Management of Data"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "160–172"
+    ],
+    "title": [
+      "The EXODUS Optimiser Generator"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Graefe",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "IEEE Trans. Knowledge and Data Engineering (TKDE"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "120–135"
+    ],
+    "title": [
+      "Volcano—An Extensible and Parallel Query Evaluation System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Graefe",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1993-06"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "73–170"
+    ],
+    "title": [
+      "Query Evaluation Techniques for Large Databases"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Graefe",
+        "given": "G."
+      },
+      {
+        "family": "DeWitt",
+        "given": "D.J."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "Proc. ACM Int. Conf. on Management of Data (SIGMOD"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "160–172"
+    ],
+    "title": [
+      "The EXODUS Optimiser Generator"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Graefe",
+        "given": "G."
+      },
+      {
+        "family": "Ward",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "Proc. ACM Int. Conf. on Management of Data (SIGMOD"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "358–365"
+    ],
+    "title": [
+      "Dynamic Query evaluation Plans"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "J."
+      },
+      {
+        "family": "Reuter",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gunaratne",
+        "given": "I."
+      },
+      {
+        "family": "Fernandez",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "45."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Building New Applications and Managing Legacy Applications with Distributed Technologies: Principles and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harder",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "46."
+    ],
+    "container-title": [
+      "Information Systems"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "11–20"
+    ],
+    "title": [
+      "Observation on Optimistic Concurrency Control Schemes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Henning",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "47."
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "publisher": [
+      "DSTC, University of Queensland"
+    ],
+    "title": [
+      "Binding, Migration, and Scalability in CORBA"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Henning",
+        "given": "M."
+      },
+      {
+        "family": "Vinoski",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "48."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Advanced CORBA Programming With C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hoffner",
+        "given": "Y."
+      },
+      {
+        "family": "Thomas",
+        "given": "G."
+      },
+      {
+        "family": "Beasley",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "publisher": [
+      "ANSA"
+    ],
+    "title": [
+      "Data Management for an Enhanced Trader"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Howard",
+        "given": "J.H."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "50."
+    ],
+    "container-title": [
+      "ACM Trans. Comp. Systems"
+    ],
+    "date": [
+      "1988-02"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "51–81"
+    ],
+    "title": [
+      "Scale and Performance in a Distributed File System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "I.O.N.A."
+      }
+    ],
+    "citation-number": [
+      "51."
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Orbix Database Adapter Framework Release 1.0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "I.O.N.A."
+      }
+    ],
+    "citation-number": [
+      "52."
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "OrbixWeb Programmer’s Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "I.O.N.A."
+      }
+    ],
+    "citation-number": [
+      "53."
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "OrbixWeb Programmer’s Reference"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Krueger",
+        "given": "P."
+      },
+      {
+        "family": "Livny",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "54."
+    ],
+    "container-title": [
+      "Proc. IEEE Int. Conf. on Distributed Computing Systems (ICDCS"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "242–249"
+    ],
+    "title": [
+      "The Deverse Objectives of Distributed Scheduling Policies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Krueger",
+        "given": "P."
+      },
+      {
+        "family": "Shivaratri",
+        "given": "N.G."
+      }
+    ],
+    "citation-number": [
+      "55."
+    ],
+    "container-title": [
+      "IEEE Trans. Software Eng. (TSE"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Adaptive Location Policies for Global Scheduling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kordale",
+        "given": "R."
+      },
+      {
+        "family": "Ahamad",
+        "given": "M."
+      },
+      {
+        "family": "Devarakonda",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "56."
+    ],
+    "container-title": [
+      "USENIX Computing Systems Journal, Computing Systems"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "377–404"
+    ],
+    "title": [
+      "Object Caching in a CORBA Compliant System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kremien",
+        "given": "O."
+      },
+      {
+        "family": "Kramer",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "57."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distributed Systems (PDS"
+    ],
+    "date": [
+      "1992-11"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Methodical Analysis of Adaptive Load Sharing Algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lamport",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "58."
+    ],
+    "container-title": [
+      "Commun. ACM (CACM"
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "558–565"
+    ],
+    "title": [
+      "Time, Clocks and the Ordering of Events in a Distributed System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.T.U./I.S.O."
+      }
+    ],
+    "citation-number": [
+      "59."
+    ],
+    "container-title": [
+      "Committee Draft"
+    ],
+    "date": [
+      "1994-10"
+    ],
+    "issue": [
+      "O/IEC/JTC1/SC21 N807"
+    ],
+    "title": [
+      "Reference Model for Open Distributed Processing"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Landis",
+        "given": "S."
+      },
+      {
+        "family": "Maffeis",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "60."
+    ],
+    "container-title": [
+      "Journal of Theory and Practice of Object Systems (TAPOS"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "31–43"
+    ],
+    "title": [
+      "Building Reliable Distributed Systems with CORBA"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lavender",
+        "given": "R.G."
+      },
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "61."
+    ],
+    "container-title": [
+      "Pattern Languages of Program Design"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Coplien",
+        "given": "J.O."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      },
+      {
+        "family": "Kerth",
+        "given": "N.L."
+      }
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Active Object: an Object Behavioral Pattern for Concurrent Programming"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Leff",
+        "given": "A."
+      },
+      {
+        "family": "Yu",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "62."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distributed Systems (PDS"
+    ],
+    "date": [
+      "1994-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "title": [
+      "Performance Study of Robust Distributed Load Sharing Strategies"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maderia",
+        "given": "E."
+      },
+      {
+        "family": "Lima",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "63."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Open Distributed Processing"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Brisbane"
+    ],
+    "title": [
+      "A Model for Fedrative Trader"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Maffeis",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "64."
+    ],
+    "date": [
+      "1995"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Switzerland"
+    ],
+    "publisher": [
+      "University of Zurich"
+    ],
+    "title": [
+      "Run-Time Support for Object Oriented Distributed Programming"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Mishra",
+        "given": "P."
+      },
+      {
+        "family": "Eich",
+        "given": "M.H."
+      }
+    ],
+    "citation-number": [
+      "65."
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1992-03"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "63–113"
+    ],
+    "title": [
+      "Join Processing in Relational Database"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Morrissey",
+        "given": "J.M."
+      },
+      {
+        "family": "Bealor",
+        "given": "W.T."
+      },
+      {
+        "family": "Kamat",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "66."
+    ],
+    "container-title": [
+      "Proc. 7th IASTED/ISM on Parallel and Distributed Computing Systems"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Washington"
+    ],
+    "pages": [
+      "55–53"
+    ],
+    "title": [
+      "A Comparison of Static and Dynamic Strategies for Query Optimisation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Mowbray",
+        "given": "T.J."
+      },
+      {
+        "family": "Malveau",
+        "given": "R.C."
+      }
+    ],
+    "citation-number": [
+      "67."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "CORBA Design Pattern"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Muller-Jones",
+        "given": "K."
+      },
+      {
+        "family": "Merz",
+        "given": "M."
+      },
+      {
+        "family": "Lamersdorf",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "68."
+    ],
+    "container-title": [
+      "Proc. 3rd Int. IFIP TC6 Working Conf. on Open Distributed Processing (ICODP"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Brisbane"
+    ],
+    "title": [
+      "The TRADER: Integrating Trading Into DCE"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ni",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "69."
+    ],
+    "container-title": [
+      "Proc. IEEE Workshop on Advances in Parallel and Distributed Systems"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New Jersey"
+    ],
+    "title": [
+      "Resource and Service Trading in a Heterogeneous Large Distributed System"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "70."
+    ],
+    "container-title": [
+      "Revision"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "Common Object Request Broker: Architecture and Specification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "71."
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "title": [
+      "ORB Portability Enhancement RFP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "72."
+    ],
+    "date": [
+      "1997-12"
+    ],
+    "title": [
+      "Naming Service Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "73."
+    ],
+    "date": [
+      "1997-12"
+    ],
+    "title": [
+      "Trading Object Services Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "74."
+    ],
+    "date": [
+      "1997-05"
+    ],
+    "title": [
+      "ORB Portability Joint Submission (Final"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "75."
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "Transaction Service Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "76."
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "Concurrency Control Service Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "77."
+    ],
+    "container-title": [
+      "Revision"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Common Object Request Broker: Architecture and Specification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "78."
+    ],
+    "container-title": [
+      "Revision"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Common Object Request Broker: Architecture and Specification"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "79."
+    ],
+    "container-title": [
+      "Revision"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "The Portable Object Adaptor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "O.M.G."
+      }
+    ],
+    "citation-number": [
+      "80."
+    ],
+    "date": [
+      "1999-04"
+    ],
+    "title": [
+      "Persistent State Service 2.0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Group",
+        "given": "Open"
+      }
+    ],
+    "citation-number": [
+      "81."
+    ],
+    "date": [
+      "1997"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "publisher": [
+      "X/Open Document"
+    ],
+    "title": [
+      "Event Management Services (XEMS"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Orfali",
+        "given": "R."
+      },
+      {
+        "family": "Harkey",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "82."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley Computer"
+    ],
+    "title": [
+      "Client/Server Programming with Java and CORBA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ozsu",
+        "given": "T."
+      },
+      {
+        "family": "Valduriez",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "83."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Principles of Distributed Database Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pompeii",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "84."
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Secant Technologies"
+    ],
+    "title": [
+      "Secant Persistent Object Manager: A Technical Overview"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rackl",
+        "given": "G."
+      },
+      {
+        "family": "Schnekenburger",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "85."
+    ],
+    "container-title": [
+      "Component Users’s Conference"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Munich"
+    ],
+    "title": [
+      "Dynamic Load Distribution for CORBA Applications: Integration and Evaluation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Raymond",
+        "given": "K."
+      },
+      {
+        "family": "Raymond",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "86."
+    ],
+    "container-title": [
+      "Proc. IFIP TC6/W2.6 Working Conf. on Open Distributed Processing"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "125–141"
+    ],
+    "title": [
+      "Federating Traders: An ODP Adventure"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Reverbel",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "87."
+    ],
+    "date": [
+      "1996"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "publisher": [
+      "University of New Mexico"
+    ],
+    "title": [
+      "Persistence in Distributed Object Systems: ORB/ODBMS Integration"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruh",
+        "given": "W."
+      },
+      {
+        "family": "Herron",
+        "given": "T."
+      },
+      {
+        "family": "Klinker",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "88."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "IIOP Complete: Understanding CORBA and Middleware Interoperability"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "SAMSnet"
+      }
+    ],
+    "citation-number": [
+      "89."
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Java Unleashed"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Savnik",
+        "given": "I."
+      },
+      {
+        "family": "Tari",
+        "given": "Z."
+      },
+      {
+        "family": "Mohoric",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "90."
+    ],
+    "container-title": [
+      "Int. J. Data and Knowledge Eng. (DKE"
+    ],
+    "date": [
+      "1999-05"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "57–94"
+    ],
+    "title": [
+      "QAL: A Query Algebra for Complex Objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D."
+      },
+      {
+        "family": "Harrison",
+        "given": "T."
+      },
+      {
+        "family": "O’Ryan",
+        "given": "C."
+      },
+      {
+        "family": "Levine",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "91."
+    ],
+    "container-title": [
+      "IEEE J. Selected Areas in Communications"
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "title": [
+      "The Design and Performance of a Real-Time CORBA Event Service"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D."
+      },
+      {
+        "family": "Levine",
+        "given": "D."
+      },
+      {
+        "family": "Mungee",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "92."
+    ],
+    "container-title": [
+      "Computer Communications"
+    ],
+    "date": [
+      "1998-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "title": [
+      "The Design of the TAO Real-Time Object Request Brokers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D."
+      },
+      {
+        "family": "Vinoski",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "93."
+    ],
+    "container-title": [
+      "C++ Report, SIGS"
+    ],
+    "date": [
+      "1996-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "Comparing Alternative Programming Techniques for Multi-Threaded CORBA Servers—the Thread-per-Request Concurrency Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schmidt",
+        "given": "D.C."
+      },
+      {
+        "family": "Vinoski",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "94."
+    ],
+    "container-title": [
+      "SIGS C++ Report"
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Introduction to Distributed Computing (Column 1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Setiawan",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "95."
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "genre": [
+      "Technical Report, no. TR-00-3,"
+    ],
+    "publisher": [
+      "RMIT University"
+    ],
+    "title": [
+      "CODAR: A POA-based CORBA Database Adaptor"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Shin",
+        "given": "K.G."
+      },
+      {
+        "family": "Hou",
+        "given": "C.J."
+      }
+    ],
+    "citation-number": [
+      "96."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distributed Systems (PDS"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "issue": [
+      "7"
+    ],
+    "title": [
+      "Design and Evaluation of Effective Load Sharing in Distributed Real-Time Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stepanov",
+        "given": "A."
+      },
+      {
+        "family": "Lee",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "97."
+    ],
+    "date": [
+      "1994-04"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "publisher": [
+      "Hewlett Packard"
+    ],
+    "title": [
+      "The Standard Template Library"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Stevens",
+        "given": "W.R."
+      }
+    ],
+    "citation-number": [
+      "98."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Networking API",
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Sockets and XTI, Prentice-Hall"
+    ],
+    "title": [
+      "UNIX Network Programming"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Sysnetics"
+      }
+    ],
+    "citation-number": [
+      "99."
+    ],
+    "title": [
+      "Persistence of Distributed Objects"
+    ],
+    "type": null,
+    "url": [
+      "http://www.sysnetics.com/persist/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tallman",
+        "given": "O."
+      },
+      {
+        "family": "Kain",
+        "given": "J.B."
+      }
+    ],
+    "citation-number": [
+      "100."
+    ],
+    "container-title": [
+      "Distributed Computing Journal"
+    ],
+    "date": [
+      "1998-07"
+    ],
+    "title": [
+      "COM versus CORBA: A Decision Framework"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.quoininc.com/quoininc/articles.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "101."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "Modern Operating Systems, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tari",
+        "given": "Z."
+      },
+      {
+        "family": "Cheng",
+        "given": "W."
+      },
+      {
+        "family": "Yetongnon",
+        "given": "K."
+      },
+      {
+        "family": "Savnik",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "102."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Parallel and Distributed Computing Systems (PDCS"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Dijon"
+    ],
+    "pages": [
+      "595–600"
+    ],
+    "title": [
+      "Towards Cooperative Databases: The DOK Approach"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tari",
+        "given": "Z."
+      },
+      {
+        "family": "Craske",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "103."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Distributed and Computer Systems (ICDCS’00"
+    ],
+    "date": [
+      "2000-04"
+    ],
+    "location": [
+      "Taipei"
+    ],
+    "pages": [
+      "504–511"
+    ],
+    "title": [
+      "Designing a CORBA Trading Service with Query Routing Facilities"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tari",
+        "given": "Z."
+      },
+      {
+        "family": "Lin",
+        "given": "Q."
+      },
+      {
+        "family": "Hamidjaja",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "104."
+    ],
+    "container-title": [
+      "IEEE Proc. Int. Workshop on Internet 2000 (IWI200"
+    ],
+    "date": [
+      "2000-04"
+    ],
+    "location": [
+      "Taipei"
+    ],
+    "pages": [
+      "59–60"
+    ],
+    "title": [
+      "A Caching Approach to improve CORBA Performance"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tari",
+        "given": "Z."
+      },
+      {
+        "family": "Lin",
+        "given": "Q."
+      },
+      {
+        "family": "Hamidjaja",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "105."
+    ],
+    "container-title": [
+      "IEEE Concurrency"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "48–55"
+    ],
+    "title": [
+      "Cache Management in CORBA Distributed Object Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "O’Toole",
+        "given": "J."
+      },
+      {
+        "family": "Shrira",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "106."
+    ],
+    "container-title": [
+      "Proc. Int. Workshop on Persistent Object Systems (POS"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "99–114"
+    ],
+    "title": [
+      "Hybrid Caching for Large-Scale Object Systems (Think Globally Act Locally"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "X./Open"
+      }
+    ],
+    "citation-number": [
+      "107."
+    ],
+    "date": [
+      "1991-10"
+    ],
+    "title": [
+      "Distributed Transaction Processing: The XA Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "X./Open"
+      }
+    ],
+    "citation-number": [
+      "108."
+    ],
+    "date": [
+      "1992-10"
+    ],
+    "title": [
+      "Distributed Transaction Processing: The TX Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vogel",
+        "given": "A."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "109."
+    ],
+    "date": [
+      "1996"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "location": [
+      "Australia"
+    ],
+    "publisher": [
+      "CRC for Distributed Technology"
+    ],
+    "title": [
+      "Trader Down Under: Upside Down and Inside Out"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Rowe",
+        "given": "L.A."
+      }
+    ],
+    "citation-number": [
+      "110."
+    ],
+    "container-title": [
+      "Proc. ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1991-05"
+    ],
+    "pages": [
+      "367–377"
+    ],
+    "title": [
+      "Cache Consistency and Concurrency Control in a Client/Server DBMS Architecture"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "C.J."
+      },
+      {
+        "family": "Krueger",
+        "given": "P."
+      },
+      {
+        "family": "Liu",
+        "given": "M.T."
+      }
+    ],
+    "citation-number": [
+      "111."
+    ],
+    "container-title": [
+      "Proc. IEEE Int. Conf. on Distributed Computing Systems (ICDCS"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "517–524"
+    ],
+    "title": [
+      "Intelligent Job Selection for Distributed Scheduling"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Waugh",
+        "given": "A."
+      },
+      {
+        "family": "Bearman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "112."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. on Open Distributed Processing"
+    ],
+    "date": [
+      "1995-02"
+    ],
+    "location": [
+      "Brisbane, Australia"
+    ],
+    "title": [
+      "Designing an ODP Trader Implementation Using X.500"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "S."
+      },
+      {
+        "family": "Abrams",
+        "given": "M."
+      },
+      {
+        "family": "Fox",
+        "given": "E."
+      },
+      {
+        "family": "Abdulla",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "113."
+    ],
+    "container-title": [
+      "Proc. ACM SIGCOMM Conf. on Application, Technologies, Architecture for Computer Communications"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Palo Alto"
+    ],
+    "pages": [
+      "293–305"
+    ],
+    "title": [
+      "Removal Policies in Network Caches for WWW Documents"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "S."
+      },
+      {
+        "family": "Zheng",
+        "given": "X."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Delisle",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "114."
+    ],
+    "container-title": [
+      "Software-Practice and Experience"
+    ],
+    "date": [
+      "1993-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1305–1336"
+    ],
+    "title": [
+      "Utopia: A Load Sharing Facility for Large, Heterogeneous Distributed Computer Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "binding",
+        "given": "C.O.R.B.A."
+      }
+    ],
+    "note": [
+      "289 consistency algorithms, 189–191 CosEventChannelAdmin::ConsumerAdmin:: design, 199–205 obtain push supplier(), 289 model, 196–199 CosEventChannelAdmin::EventChannel:: problems with, 186 destroy(), 288 summarized, 209–210 CosEventChannelAdmin::SupplierAdmin:: techniques, 185–186 obtain pull consumer(), 289 testing, 205–209 CosEventChannelAdmin::SupplierAdmin::"
+    ],
+    "title": [
+      "See binding CORBA Services, 34, 44–45 CORBA caching, 183–185 CORBA Trading Object Service. See Trading approach, 192–193 Object Service architecture, 193–196 CosEventChannelAdmin::ConsumerAdmin:: cache replacement, 186–191 obtain pull supplier("
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "database schema, wrapping in IDL"
+    ],
+    "pages": [
+      "344 , 166–179",
+      "344"
+    ],
+    "title": [
+      "domains, 163–164 database queries. See Object Query Service; Environment Specific Inter-ORB Protocol, query processing; Trading Object 178–179 Service Internet Inter-ORB Protocol, 177–178 databases"
+    ],
+    "type": "chapter",
+    "volume": [
+      "342"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Service",
+        "given": "C.O.R.B.A.Naming"
+      }
+    ],
+    "note": [
+      "ESIOP), 179 Interface Definition Language, 67–85 DCE. See Distributed Computing Environment interface repository, 118–123 DCE++, 23 overall picture, 64–67 DCE-CIOP (DCE-Common Inter-ORB programming environments, 65 Protocol), 178, 179 Static Invocation Interface, 85–89 DCE Event Management Service (XEMS), Static Skeleton Interface, 90–102 282–284 summarized, 124–125 DCE Executive, 23–24 CORBA quality of service control, 35–36 DCE Extended Services,"
+    ],
+    "pages": [
+      "123–124",
+      "24–25"
+    ],
+    "title": [
+      "See Naming Service datagrams, 15–17 CORBA Object Query Service. See Object datagram sockets, 14–15 Query Service Data Link layer (OSI Model), 13 CORBA Object Transaction Service. See data localization, in query processing, 351 Object Transaction Service data sources, 342–345 CORBA::ORB::create operation list(), 280 data structures CORBA programming typed event channels, 302 advanced features, 105–124 untyped event channels, 291 basic concepts, 67–105 datatypes, 77–81 Dynamic Invocation Interface, 106–111 Common Data Representation (CDR), Dynamic Skeleton Interface, 112–118 167–169 dynamic types, 102–105 Environment Specific Inter-ORB Protocol implementation repository"
+    ],
+    "type": null,
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "container-title": [
+      "name resolution, 224–225 Object Management Architecture (OMA), naming context creation and deletion"
+    ],
+    "note": [
+      "Object Management Group (OMG), 32–33,"
+    ],
+    "pages": [
+      "220–230 188–189",
+      "43–46 227–230"
+    ],
+    "title": [
+      "basic concepts, 213–220 object identity, 37–38 binding and unbinding names, 214–215, object implementation, 41–42 225–227 Object Linking and Embedding (OLE), 25 brief description, 44–45 object live time cache replacement, functions"
+    ],
+    "type": "chapter"
+  }
+]
