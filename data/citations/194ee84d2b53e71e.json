@@ -1,0 +1,805 @@
+[
+  {
+    "author": [
+      {
+        "family": "Abelson",
+        "given": "Harold"
+      },
+      {
+        "family": "Sussman",
+        "given": "Gerald Jay"
+      }
+    ],
+    "citation-number": [
+      "Abe96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "second"
+    ],
+    "publisher": [
+      "The MIT Press"
+    ],
+    "title": [
+      "Structure and Interpretation of Computer Programs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "Alfred V."
+      },
+      {
+        "family": "Sethi",
+        "given": "Ravi"
+      },
+      {
+        "family": "Ullman",
+        "given": "Jeffrey D."
+      }
+    ],
+    "citation-number": [
+      "Aho86"
+    ],
+    "date": [
+      "1986"
+    ],
+    "isbn": [
+      "0-201-10088-6"
+    ],
+    "location": [
+      "Boston, MA, USA"
+    ],
+    "publisher": [
+      "Addison-Wesley Longman Publishing Co., Inc"
+    ],
+    "title": [
+      "Compilers: Principles, Techniques, and Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bayer",
+        "given": "Rudolf"
+      }
+    ],
+    "citation-number": [
+      "Bay72"
+    ],
+    "container-title": [
+      "Acta Informatica"
+    ],
+    "date": [
+      "1972"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "290–306"
+    ],
+    "title": [
+      "Symmetric binary B-Trees: Data structure and maintenance algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bloch",
+        "given": "Joshua"
+      }
+    ],
+    "citation-number": [
+      "Blo08"
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective Java Second Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DeRemer",
+        "given": "Frank"
+      },
+      {
+        "family": "Kron",
+        "given": "Hans"
+      }
+    ],
+    "citation-number": [
+      "DeR75"
+    ],
+    "container-title": [
+      "Proceedings of the international conference on Reliable software"
+    ],
+    "date": [
+      "1975"
+    ],
+    "doi": [
+      "10.1145/800027.808431."
+    ],
+    "location": [
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "114–121"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Programming-in-the large versus programming-in-the-small"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dijkstra",
+        "given": "Edsger W."
+      }
+    ],
+    "citation-number": [
+      "Dij70"
+    ],
+    "date": [
+      "1970-04"
+    ],
+    "note": [
+      "Circulated privately. Available at",
+      "as EWD249 (accessed June 6, 2008)."
+    ],
+    "title": [
+      "Notes on Structured Programming.”"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.utexas.edu"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Eckel",
+        "given": "Bruce"
+      }
+    ],
+    "citation-number": [
+      "Eck98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Thinking in Java"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Emir",
+        "given": "Burak"
+      },
+      {
+        "family": "Odersky",
+        "given": "Martin"
+      },
+      {
+        "family": "Williams",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Emi07"
+    ],
+    "container-title": [
+      "Proc. ECOOP, Springer LNCS"
+    ],
+    "date": [
+      "2007-07"
+    ],
+    "pages": [
+      "273–295"
+    ],
+    "title": [
+      "Matching Objects With Patterns"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Evans",
+        "given": "Eric"
+      }
+    ],
+    "citation-number": [
+      "Eva03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Addison-Wesley Professional"
+    ],
+    "title": [
+      "Domain-Driven Design: Tackling Complexity in the Heart of Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      }
+    ],
+    "citation-number": [
+      "Fow04"
+    ],
+    "date": [
+      "2004-01"
+    ],
+    "note": [
+      "Available on the web at http://martinfowler.com/articles/injection.html (accesssed August 6, 2008)."
+    ],
+    "title": [
+      "Inversion of Control Containers and the Dependency Injection pattern"
+    ],
+    "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Gam95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns : Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goetz",
+        "given": "Brian"
+      },
+      {
+        "family": "Peierls",
+        "given": "Tim"
+      },
+      {
+        "family": "Bloch",
+        "given": "Joshua"
+      },
+      {
+        "family": "Bowbeer",
+        "given": "Joseph"
+      },
+      {
+        "family": "Homes",
+        "given": "David"
+      },
+      {
+        "family": "Lea",
+        "given": "Doug"
+      }
+    ],
+    "citation-number": [
+      "Goe06"
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Java Concurrency in Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Jav"
+      }
+    ],
+    "note": [
+      "Available on the web at"
+    ],
+    "title": [
+      "The Java Tutorials: Creating a GUI with JFC/Swing"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://java.sun.com/docs/books/tutorial/uiswing."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kay",
+        "given": "Alan C."
+      }
+    ],
+    "citation-number": [
+      "Kay96"
+    ],
+    "container-title": [
+      "History of programming languages—II"
+    ],
+    "date": [
+      "1996"
+    ],
+    "doi": [
+      "doi:http://doi.acm.org/10.1145/ 234286.1057828."
+    ],
+    "isbn": [
+      "0-201-89502-1"
+    ],
+    "location": [
+      "New York, NY, USA"
+    ],
+    "pages": [
+      "511–598"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "The Early History of Smalltalk"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Landin",
+        "given": "Peter J."
+      }
+    ],
+    "citation-number": [
+      "Lan66"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1966"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "157–166"
+    ],
+    "title": [
+      "The Next 700 Programming Languages"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "citation-number": [
+      "Mey91"
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyer",
+        "given": "Bertrand"
+      }
+    ],
+    "citation-number": [
+      "Mey00"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Object-Oriented Software Construction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrison",
+        "given": "Donald R."
+      }
+    ],
+    "citation-number": [
+      "Mor68"
+    ],
+    "container-title": [
+      "J. ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "doi": [
+      "doi:http://doi.acm.org/10.1145/ 321479.321481."
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "0004–5411",
+      "514–534"
+    ],
+    "title": [
+      "PATRICIA—Practical Algorithm To Retrieve Information Coded in Alphanumeric"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Odersky",
+        "given": "Martin"
+      },
+      {
+        "family": "Cremet",
+        "given": "Vincent"
+      },
+      {
+        "family": "Röckl",
+        "given": "Christine"
+      },
+      {
+        "family": "Zenger",
+        "given": "Matthias"
+      }
+    ],
+    "citation-number": [
+      "Ode03"
+    ],
+    "container-title": [
+      "Proc. ECOOP’03, Springer LNCS"
+    ],
+    "date": [
+      "2003-07"
+    ],
+    "pages": [
+      "201–225"
+    ],
+    "title": [
+      "A Nominal Theory of Objects with Dependent Types"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Odersky",
+        "given": "Martin"
+      },
+      {
+        "family": "Zenger",
+        "given": "Matthias"
+      }
+    ],
+    "citation-number": [
+      "Ode05"
+    ],
+    "container-title": [
+      "Proceedings of OOPSLA"
+    ],
+    "date": [
+      "2005-10"
+    ],
+    "pages": [
+      "41–58"
+    ],
+    "title": [
+      "Scalable Component Abstractions"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Odersky",
+        "given": "Martin"
+      }
+    ],
+    "citation-number": [
+      "Ode11"
+    ],
+    "container-title": [
+      "EPFL"
+    ],
+    "date": [
+      "2011-05"
+    ],
+    "note": [
+      "Available on the web at",
+      "accessed April 20, 2014)."
+    ],
+    "title": [
+      "The Scala Language Specification, Version 2.9"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.scalalang.org/docu/manuals.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Raymond",
+        "given": "Eric"
+      }
+    ],
+    "citation-number": [
+      "Ray99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "O’Reilly"
+    ],
+    "title": [
+      "The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rumbaugh",
+        "given": "James"
+      },
+      {
+        "family": "Jacobson",
+        "given": "Ivar"
+      },
+      {
+        "family": "Booch",
+        "given": "Grady"
+      }
+    ],
+    "citation-number": [
+      "Rum04"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Unified Modeling Language Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jones",
+        "given": "Simon Peyton"
+      },
+      {
+        "given": "etal"
+      }
+    ],
+    "citation-number": [
+      "SPJ02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "title": [
+      "Haskell 98 Language and Libraries, Revised Report"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.haskell.org/onlinereport,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steele",
+        "given": "Guy L.",
+        "suffix": "Jr."
+      }
+    ],
+    "citation-number": [
+      "Ste99"
+    ],
+    "container-title": [
+      "Higher-Order and Symbolic Computation"
+    ],
+    "date": [
+      "1999",
+      "1998"
+    ],
+    "pages": [
+      "221–223"
+    ],
+    "title": [
+      "Growing a Language",
+      "Transcript of a talk given at OOPSLA"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Steindorfer",
+        "given": "Michael J."
+      },
+      {
+        "family": "Vinju",
+        "given": "Jurgen J."
+      }
+    ],
+    "citation-number": [
+      "Ste15"
+    ],
+    "container-title": [
+      "ACM SIGPLAN Notices"
+    ],
+    "date": [
+      "2015"
+    ],
+    "pages": [
+      "783–800"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Optimizing hash-array mapped tries for fast and lean immutable JVM collections"
+    ],
+    "type": "chapter",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Strachey",
+        "given": "Christopher"
+      }
+    ],
+    "citation-number": [
+      "Str00"
+    ],
+    "container-title": [
+      "Higher-Order and Symbolic Computation"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "11–49"
+    ],
+    "title": [
+      "Fundamental Concepts in Programming Languages"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vaziri",
+        "given": "Mandana"
+      },
+      {
+        "family": "Tip",
+        "given": "Frank"
+      },
+      {
+        "family": "Fink",
+        "given": "Stephen"
+      },
+      {
+        "family": "Dolby",
+        "given": "Julian"
+      }
+    ],
+    "citation-number": [
+      "Vaz07"
+    ],
+    "container-title": [
+      "Proc. ECOOP 2007"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "54–78"
+    ],
+    "title": [
+      "Declarative Object Identity Using Relation Types"
+    ],
+    "type": "paper-conference"
+  }
+]
