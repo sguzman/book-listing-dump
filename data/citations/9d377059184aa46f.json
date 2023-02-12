@@ -1,0 +1,83 @@
+[
+  {
+    "note": [
+      "module PixelGeneration (PixelRow, PixelCol, Clk, Char, MtxPntr, CharPntr); input [9:0] PixelRow, PixelCol; input Clk; input [7:0] Char; output [8:0] MtxPntr, output [8:0] CharPntr; reg [5:0] MtxStart; reg [8:0] MtxPntr; reg [8:0] CharPntr; wire [4:0] ScreenLine, ScreenPos; assign ScreenLine = PixelRow [9:5]; // 15 Lines=480/32 assign ScreenPos = PixelCol [9:5]; //20 Positions=640/32"
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "PCside",
+        "given": "Rside"
+      },
+      {
+        "family": "Iside",
+        "given": "ALout"
+      },
+      {
+        "family": "ResetPC",
+        "given": "PCplusI"
+      },
+      {
+        "family": "PCplus1",
+        "given": "RplusI"
+      },
+      {
+        "family": "Rplus0)",
+        "given": "input"
+      }
+    ],
+    "note": [
+      "15:0] PCside, Rside; input [7:0] Iside; input ResetPC, PCplusI, PCplus1, RplusI, Rplus0; output [15:0] ALout; reg [15:0] ALout;"
+    ],
+    "title": [
+      "module AddressLogic"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "input [15:0] in; input clk, RFLwrite, RFHwrite; input [1:0] Laddr, Raddr; input [2:0] Base; output [15:0] Lout, Rout; reg [15:0] MemoryFile [0:7];"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "TempReg"
+    ],
+    "issue": [
+      "0"
+    ],
+    "note": [
+      "if (RFHwrite) TempReg [15:8] = in [15:8]; MemoryFile [Laddress] = TempReg; end"
+    ],
+    "title": [
+      "always @(negedge clk) begin TempReg = MemoryFile [Laddress]; if (RFLwrite"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "note": [
+      "assign AddressUnitRSideBus = (Rs_on_AddressUnitRSide) ? right : (Rd_on_AddressUnitRSide) ? Left :",
+      "assign Laddr = (~Shadow) ? IRout[11:10] : IRout[3:2]; assign Raddr = (~Shadow) ? IRout[09:08] : IRout[1:0]; endmodule"
+    ],
+    "pages": [
+      "8"
+    ],
+    "title": [
+      "16'bZZZZZZZZZZZZZZZZ; assign Addressbus = Address; assign Databus = (Address_on_Databus) ? Address : (ALU_on_Databus) ? ALUout : 16'bZZZZZZZZZZZZZZZZ; assign OpndBus[07:0] = IR_on_LOpndBus == 1 ? IRout[7:0] : 8'bZZZZZZZZ; assign OpndBus[15:8] = IR_on_HOpndBus ==",
+      "assign OpndBus = RFright_on_OpndBus == 1 ? Right : 16'bZZZZZZZZZZZZZZZZ; assign Zout = SRZout; assign Cout = SRCout; assign Instruction = IRout[15:0"
+    ],
+    "type": null,
+    "volume": [
+      "7"
+    ]
+  }
+]
