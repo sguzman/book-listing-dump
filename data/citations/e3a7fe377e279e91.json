@@ -1,0 +1,393 @@
+[
+  {
+    "citation-number": [
+      "12.37"
+    ],
+    "note": [
+      "EPROM, RAM) memory unit. Solution: The 2732A IC shown in Fig. 12-14 is an EPROM memory unit."
+    ],
+    "title": [
+      "The 2732A 1C shown in Fig. 12-14 is a(n"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "12.38"
+    ],
+    "note": [
+      "see Fig. 12-11) to keep sunlight and fluorescent light from erasing the memory unit."
+    ],
+    "title": [
+      "12-11. Why would an opaque sticker be placed over the window of the EPROM after programming? Solution: An opaque sticker is commonly placed over the window of an EPROM"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12.41"
+    ],
+    "title": [
+      "The letters NVSRAM stand for . Solution: The letters NVSRAM stand for nonvolatile static random-access memory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "The N.V.S.R.A.M.",
+        "particle": "in"
+      }
+    ],
+    "citation-number": [
+      "12.44"
+    ],
+    "note": [
+      "DRAM, NOVRAM). Solution: The NVSRAM in Fig. 12-15 might also be called a NVRAM or NOVRAM."
+    ],
+    "title": [
+      "12-15 might also be called a NVRAM or"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "12.62"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "RAM, ROM, NVRAM, floppy disk, and hard disk 12.63 Refer to Fig. 12-1. Which type of memory in this system is volatile? Ans. RAM (read/write memory"
+    ],
+    "title": [
+      "12-1. List the five types of memory used by this microcomputer system"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "12.64"
+    ],
+    "note": [
+      "The medium for storing data on the (floppy disk, RAM) is magnetic. Ans. floppy disk"
+    ],
+    "pages": [
+      "12–1"
+    ],
+    "title": [
+      "12-1. What three types of storage devices are semiconductor memories in this system? Ans. RAM, ROM, and NVRAM 12.65 Refer to Fig"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "12.77"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "See the table in Fig. 12-7a."
+    ],
+    "title": [
+      "12-7b. What is the function of this simple diode ROM? Ans. decimal-to-Gray code decoder 12.78 Refer to Fig. 12-7b. List the state of the outputs for each decimal input (0-9"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "12.79"
+    ],
+    "container-title": [
+      "two diodes in columns A and B in row 2 in Fig"
+    ],
+    "pages": [
+      "12–7"
+    ],
+    "title": [
+      "12-7b. Which diode(s) are forward-biased when the input switch is at decimal 2? Ans"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "12.80"
+    ],
+    "note": [
+      "Larger-capacity ROMs (such as 512K X 8 ROMs) use (bipolar, CMOS) technology in their manufacture. Am. CMOS"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "12.86"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "electrically erasable programmable read-only memory"
+    ],
+    "title": [
+      "The letters EEPROM stand for"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "12.109"
+    ],
+    "container-title": [
+      "Ans"
+    ],
+    "note": [
+      "open (This is the opposite of the 5.25-in disk in Fig. 12-16a."
+    ],
+    "title": [
+      "12-17. Disk drives that use the 3.5-in floppy disk most often read from and write to (both sides, one side) of the memory disk. Ans. both 12.110 Refer to Fig. 12-17. The 3.5-in floppy disk is write-protected and can only be read from when the hole in the write-protect slot is (closed, open"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "12.111"
+    ],
+    "location": [
+      "Ans. hard"
+    ],
+    "title": [
+      "The (floppy, hard) disk has the advantage over the other in that it can store more data and can access the information faster"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13.15"
+    ],
+    "pages": [
+      "13–1 13–7"
+    ],
+    "title": [
+      "A (demultiplexer, shift register) reverses the action of a multiplexer. Solution: The demultiplexer reverses the action of the multiplexer (compare Figs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13.16"
+    ],
+    "note": [
+      "It is therefore commonly called a I-of-8 decoder."
+    ],
+    "title": [
+      "The demultiplexer on the right in Fig. 13-7 could also be referred to as a (1-of-8, 1-of-16) decoder. Solution: The demultiplexer on the right in Fig. 13-7 distributes data from a single input to one of eight outputs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "13.67"
+    ],
+    "note": [
+      "When the MUX clock signal is LOW, the (Is, 10s) count is lit on the (left, right) seven-segment LED display. Ans. Is, right"
+    ],
+    "pages": [
+      "13–5"
+    ],
+    "title": [
+      "13-5. The letters MUX on the counter block diagram stand for . Ans. multiplexer 13.68 Refer to Fig"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13.69"
+    ],
+    "note": [
+      "The displays would flash on and off. The eye would see the multiplexing action."
+    ],
+    "title": [
+      "To reduce power consumption, (LCD, LED) displays are most often multiplexed. Ans. LED (light-emitting diode) 13.70 Refer to Fig. 13-5. If the MUX clock frequency were reduced to 1 Hz, what would happen? Ans"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "13.71"
+    ],
+    "location": [
+      "Ans. HIGH"
+    ],
+    "title": [
+      "13-6. A (HIGH, LOW) at the anode terminal would activate the seven-segment display"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13.82"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "Serial"
+    ],
+    "title": [
+      "The 74125 three-state buffer will (block data, pass data through) when its control input is LOW. Ans. pass data through 13.83 (Parallel, Serial) data transmission is transferring data one bit at a time over a single line"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "13.89"
+    ],
+    "container-title": [
+      "Ans. programmable logic device"
+    ],
+    "title": [
+      "13-11. All devices interfaced with a data bus must use buffers having (three-state, totem-pole) outputs. Ans. three-state 13.90 The letters PLD stand for when dealing with programmable logic"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "13.91"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "programmed 13.92 Refer to Fig. 13-17. An abbreviated notation system, sometimes called a (fuse, Karnaugh) map, was used to document the programming of this PLA. Ans. fuse"
+    ],
+    "title": [
+      "13-15a. This PLA would be (activated, programmed) by burning open selected fuses"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "13.93"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "FPLA (field-programmable logic array"
+    ],
+    "title": [
+      "13-18. This is a fuse map for a (FPLA, PAL"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fig",
+        "given": "Refer",
+        "particle": "to"
+      }
+    ],
+    "citation-number": [
+      "13.96"
+    ],
+    "note": [
+      "red (The output A >Bout goes HIGH."
+    ],
+    "title": [
+      "13-26. Which color LED is lit during time period t,? Ans"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13.104"
+    ],
+    "container-title": [
+      "Ans. conditioning Index"
+    ],
+    "title": [
+      "Schmitt trigger devices are commonly used for signal (conditioning, multiplexing"
+    ],
+    "type": "article-journal"
+  }
+]
