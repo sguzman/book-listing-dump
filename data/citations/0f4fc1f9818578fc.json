@@ -1,0 +1,125 @@
+[
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "<iostream> is the header the supports I/O. The statement includes the <iostream> header in a program"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "The invalid variables are d and e. Variable names cannot begin with a digit or be the same as a C++ keyword"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "title": [
+      "A single-line comment begins with // and ends at the end of the line. A multiline comment begins with /* and ends with */"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "The general form of the if: if(condition) statement; The general form of the for: for(initialization; condition; increment) statement; 12. A block of code is started with a { and ended with a }"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "title": [
+      "// Show a table of Earth to Moon weights"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "title": [
+      "// Convert Jovian years to Earth years"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "{ //"
+    ],
+    "title": [
+      "derived-class( ) : base-class("
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "location": [
+      "Beta, Gamma"
+    ],
+    "title": [
+      "Constructors are always called in order of derivation. Thus, when a Gamma object is created, the constructors are called in this order: Alpha"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "title": [
+      "A pure virtual function represents a generic description that all implementations of that function must adhere to. Thus, in the phrase “one interface, multiple methods,” the pure virtual function represents the interface, and the individual implementations represent the methods"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2"
+    ],
+    "note": [
+      "Yes, C++ defines both 8-bit and wide-character streams."
+    ],
+    "title": [
+      "Module 11: The C++ I/O System 1. The predefined streams are cin, cout, cerr, and clog"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "The general form for overloading an inserter is shown here"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "note": [
+      "while(strm.get(ch)) // ..."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "note": [
+      "MyStrm.seekg(300, ios::beg);"
+    ],
+    "type": null
+  }
+]
