@@ -1,0 +1,2670 @@
+[
+  {
+    "pages": [
+      "7816–4"
+    ],
+    "title": [
+      "Verification VERIFY Verify passed-in PIN data; command per ISO/IEC"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "REQUIREMENT DISABLE VERIFICATION Enable PIN queries; optional command per ISO/IEC 7816-8. REQUIREMENT CHANGE REFERENCE DATA Change the PIN; command per ISO/IEC"
+    ],
+    "pages": [
+      "7816–8"
+    ],
+    "title": [
+      "ENABLE VERIFICATION Enable PIN queries; optional command per ISO/IEC 7816-8"
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      "7816–8"
+    ],
+    "title": [
+      "RESET RETRY COUNTER Reset the retry counter; command per ISO/IEC"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "command per ISO/IEC 7816-8."
+    ],
+    "title": [
+      "Cryptographic operations MANAGE SECURITY Modify the parameters for using cryptographic algorithms in ENVIRONMENT the smart card"
+    ],
+    "type": null
+  },
+  {
+    "isbn": [
+      "7816-8"
+    ],
+    "title": [
+      "PERFORM SECURITY Run a cryptographic algorithm in the smart card; command per OPERATION"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "7816–4"
+    ],
+    "title": [
+      "ASK RANDOM Request a random number from the smart card; command per ISO/IEC"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "‘Internet’ is listed as the source of publications that appeared in newsgroups or discussion forums on the Internet."
+    ],
+    "title": [
+      "The following publications are sorted first by the last name of the author and then in ascending order of publication date"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "Ross J."
+      },
+      {
+        "family": "Kuhn",
+        "given": "Markus G."
+      },
+      {
+        "family": "Anderson",
+        "given": "Ross J."
+      },
+      {
+        "family": "Kuhn",
+        "given": "Markus G."
+      },
+      {
+        "family": "Arnold",
+        "given": "Ken"
+      },
+      {
+        "family": "Gosling",
+        "given": "James"
+      },
+      {
+        "family": "Holmes",
+        "given": "David"
+      },
+      {
+        "family": "Bellare",
+        "given": "Mihir"
+      },
+      {
+        "family": "Garay",
+        "given": "Juan"
+      },
+      {
+        "family": "Hause",
+        "given": "Ralf"
+      },
+      {
+        "family": "Herzberg",
+        "given": "Amir"
+      },
+      {
+        "family": "Krawczyk",
+        "given": "Hugo"
+      },
+      {
+        "family": "Steiner",
+        "given": "Michael"
+      },
+      {
+        "family": "Tsudik",
+        "given": "Gene"
+      },
+      {
+        "family": "Waidner",
+        "given": "Michael"
+      },
+      {
+        "given": "iKP"
+      },
+      {
+        "family": "Boneh",
+        "given": "Dan"
+      },
+      {
+        "family": "DeMillo",
+        "given": "Richard A."
+      },
+      {
+        "family": "Lipton",
+        "given": "Richard J."
+      }
+    ],
+    "container-title": [
+      "Taschenbuch der Mathematik",
+      "USENIX Workshop",
+      "Journal of Cryptology"
+    ],
+    "date": [
+      "1992-12",
+      "1996-11",
+      "1996-11",
+      "2000",
+      "1993",
+      "1996",
+      "1991",
+      "1993",
+      "1996-08",
+      "1997",
+      "1981",
+      "1997"
+    ],
+    "edition": [
+      "3rd edn",
+      "2nd edn",
+      "3rd edn",
+      "2nd edn",
+      "7th edn, B"
+    ],
+    "editor": [
+      {
+        "family": "Barry",
+        "given": "W."
+      },
+      {
+        "family": "Bronstein",
+        "given": "I.N."
+      },
+      {
+        "family": "Semendjajew",
+        "given": "K.A."
+      }
+    ],
+    "genre": [
+      "[Anderson 96a]",
+      "Internet,",
+      "[Anderson 96b]",
+      "[Arnold 00]",
+      "[Blumtritt 97]",
+      "[Boehm 81]",
+      "[Boneh 96]",
+      "[Bronstein 96]"
+    ],
+    "issue": [
+      "1"
+    ],
+    "location": [
+      "Boston",
+      "Heidelberg",
+      "Braunschweig",
+      "Braunschweig",
+      "New York",
+      "Basel",
+      "Oskar Blumtritt",
+      "Munich",
+      "Boehm",
+      "Upper Saddle River, New Jersey"
+    ],
+    "note": [
+      "Anderson 01] Ross J. Anderson: Security Engineering, Wiley, Chichester 2001 [Anderson 92] Ross J. Anderson: Automatic Teller Machines, Internet,",
+      "Bellare 95a",
+      "Buchmann 96] Johannes Buchmann: Faktorisierung großer Zahlen, [Chen 00] Zhiqun Chen: Java Card Technology for Smart Cards, Addison Wesley, Boston 2000 [CMM 93] Mark C. Paulk, Bill Curtis, Mary Beth Chrissis, Charles V. Weber: Capability Maturity Model for Software, Version 1.1, Software Engineering Institute, Pittsburg 1993 [Dhem 96] J. F. Dhem, D. Veithen, J.-J. Quisquater: SCALPS: Smart Card Applied to Limited Payment Systems, UCL Crypto Group Technical Report Series, Universite Catholique de Louvain, 1996 [Dictionary of Computing 91] Dictionary of Computing, Oxford University Press, Oxford 1991 [Diffie 76] Whitfield Diffie, Martin E. Hellman: New Directions in Cryptography, Internet, 1976 [Droschel 99] Wolfgang Droschel, Manuela Wiemers: Das V- Modell 97, Oldenbourg Verlag, Munich 1999 [Eberspacher 97] Jorg Eberspacher, Hans-Jorg Vogel: GSM – Global System for Mobile Communication, B. G. Teubner Verlag, Stuttgart 1997 [EFF 98] Electronic Frontier Foundation: Frequently Asked Questions (FAQ) about the Electronic Frontier Foundation’s “DES Cracker” Machine, Internet,"
+    ],
+    "publisher": [
+      "Addison Wesley",
+      "Spektrum Akademischer Verlag",
+      "Vieweg Verlag",
+      "Vieweg Verlag",
+      "Springer-Verlag",
+      "Nachrichtentechnik",
+      "Deutsches Museum",
+      "Software Engineering Economics, Prentice Hall",
+      "G. Teubner Verlagsgesellschaft, Leipzig"
+    ],
+    "title": [
+      "Improved Differential Fault Analysis",
+      "Tamper Resistance – a Cautionary Note",
+      "The Java Programming Language",
+      "Balzert 98] Helmut Balzert: Lehrbuch der Software-Technik",
+      "A Family of Secure Electronic Payment Protocols, Internet, 1995 [Bellare 95b] Mihir Bellare, Philip Rogaway: Optimal Asymmetric Encryption – How to Encrypt with RSA, Internet, 1995 [Bellare 96] Mihir Bellare, Philip Rogaway: The Exact Security of Digital Signatures – How to Sign with RSA and Rabin, Internet, 1996 [Beutelsbacher 93] Albrecht Beutelsbacher: Kryptologie",
+      "Beutelsbacher 96] Albrecht Beutelsbacher, Jorg Schwenk, Klaus-Dieter Wolfenstetter: Moderne Verfahren der Kryptografie",
+      "Biham 91] Eli Biham, Adi Shamir: Differential Cryptoanalysis of DES-like Cryptosystems",
+      "Biham 93] Eli Biham, Adi Shamir: Differential Cryptoanalysis of the Data Encryption Standard",
+      "Biham 96] Eli Biham, Adi Shamir: A New Cryptoanalytic Attack on DES, Internet, 1996 [BIS 96] Bank for International Settlements: Security of Electronic Money – Report by the Committee on Payment and Settlement Systems and the Group of Computer Experts of the Central Banks of the Group of Ten Countries",
+      "On the Importance of Checking Computations, Math and Cryptography Research Group, Bellcore 1996"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fenton",
+        "given": "Norman E."
+      },
+      {
+        "given": "Shari"
+      },
+      {
+        "family": "Verlag",
+        "given": "R.Oldenbourg"
+      },
+      {
+        "given": "Munich/Vienna"
+      }
+    ],
+    "container-title": [
+      "Fossil Verlag, Koln 1998 [Gosling 95] James Gosling, Henry McGilton: The Java Language Environment – A White Paper, Sun Microsystems, USA 1995 [Grun 96] Herbert Grun: Card Manufacturing Materials and Environmental Responsibility, Presentation at CardTech/SecurTech",
+      "GSM 95] Proceedings of the Seminar for Latin America Decision Makers by GSM MoU Association and ECTEL: Personal Communication Services based on the GSM Standard, Buenos Aires 1995 [Guthery 02"
+    ],
+    "date": [
+      "1996",
+      "Munich/Vienna 2002",
+      "1997",
+      "1994",
+      "1995",
+      "1996-05"
+    ],
+    "edition": [
+      "3rd edn",
+      "2nd edn",
+      "3rd edn"
+    ],
+    "genre": [
+      "[Fenton 96]"
+    ],
+    "location": [
+      "Lawrence Pfleeger",
+      "London",
+      "Reading, MA",
+      "Braunschweig",
+      "Atlanta, GA"
+    ],
+    "note": [
+      "Finkenzeller 02] Klaus Finkenzeller: RFID-Handbuch,",
+      "Scott B. Guthery, Mary J. Cronin: Mobile Application Development with SMS and the SIM Toolkit, McGraw-Hill, New York 2002 [Gutmann 96] Peter Gutmann: Secure Deletion of Data from Magnetic and Solid-State Memory, USENIX Conferenz, San Jose, CA 1996 [Gutmann 98a] Peter Gutmann: Software Generation of Practically Strong Random Numbers, Internet, 1998"
+    ],
+    "publisher": [
+      "Software Metrics, Thomson Computer Press",
+      "Carl Hanser Verlag",
+      "Addison-Wesley",
+      "Vieweg Verlag"
+    ],
+    "title": [
+      "Franz 98] Michael Franz: Java – Anmerkungen eines Wirth-Schulers, Informatik Spektrum, Springer-Verlag, [Freeman 97] Adam Freemann, Darrel Ince: Active Java – Object Oriented Programming for the World Wide Web",
+      "Walter Fumy, Hans Peter Ries: Kryptographie",
+      "Gentz 97] Wolfgang Gentz: Die elektronische Geldborse in Deutschland, Diplomarbeit an der Fachhochschule Munchen, Munich 1997 [Glade 95] Albert Glade, Helmut Reimer, Bruno Struif: Digitale Signatur",
+      "Walter Gora: ASN.1 – Abstract Syntax Notation One"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Gutmann 98b] Peter Gutmann"
+      }
+    ],
+    "date": [
+      "1979-08"
+    ],
+    "note": [
+      "Wiley, Chichester 2002 [Hassler 02] Vesna Hassler, Martin Manninger, Mikhail Gordeev, Christoph Muller: Java Card for E-Payment Applications, Artech House, London 2002 [Hellmann 79] Martin E. Hellmann: The Mathematics of Public-Key Cryptography, Scientific American,"
+    ],
+    "title": [
+      "X.509 Style Guide, Internet, 1998 [Haghiri 02] Yahya Haghiri, Thomas Tarantino: Smart Card Manufacturing: A Practical Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jun",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Kocher",
+        "given": "Paul"
+      },
+      {
+        "family": "Kaliski",
+        "given": "Burton S.",
+        "suffix": "Jr"
+      }
+    ],
+    "date": [
+      "2002",
+      "2002",
+      "1997",
+      "1991",
+      "1993",
+      "1997-08",
+      "1997",
+      "1999-05-10"
+    ],
+    "edition": [
+      "3rd edn"
+    ],
+    "editor": [
+      {
+        "family": "Friedhelm Hillebrand",
+        "given": "G.S.M."
+      },
+      {
+        "family": "UMTS",
+        "given": "Wiley"
+      },
+      {
+        "given": "Chichester"
+      }
+    ],
+    "genre": [
+      "[Jun 99]",
+      "[Kaliski 96]"
+    ],
+    "location": [
+      "Luneburg",
+      "Jones",
+      "New York",
+      "Frankfurt",
+      "Reading, MA",
+      "Chicago, USA"
+    ],
+    "note": [
+      "Kocher 95] Paul C. Kocher: Timing Attacks on Implementations of Diffie-Hellmann, RSA, DSS, and Other Systems, Internet, 1995 [Kocher 98 a] Paul C. Kocher, Joshua Jaffe, Benjamin Jun: Introduction to Differential Power Analysis and Related Attacks, Internet, 1998 [Kocher 98b] Paul C. Kocher, Joshua Jaffe, Benjamin Jun: Differential Power Analysis: Leaking Secrets, Internet, 1998 [Kommerling 99] Oliver Kommerling, Markus G. Kuhn, Design Principles for Tamper-Resistant Smartcard Processors, USENIX Workshop on Smartcard Technology,",
+      "Kuhn 97] Markus G. Kuhn: Probability Theory for Pickpockets –ec-PIN Guessing, COAST Laboratory, Purdue University, West Lafayette, Indiana 1997"
+    ],
+    "publisher": [
+      "Applied Software Measurement, McGraw-Hill",
+      "Seminumerical Algorithms",
+      "Addison-Wesley/Longman"
+    ],
+    "title": [
+      "IC Protection 97] Common Criteria for IT Security Evaluation Protection Profile – Smartcard Integrated Circuit Protection Profile, Internet, 1997 [Isselhorst 97] Hartmut Isselhorst: Betreiberorientierte Sichrheitsanforderungen fur Chipkarten-Anwendungen, Card-Forum",
+      "C",
+      "The Intel Random Number Generator, Internet, 1999 [Kaliski 93] Burton S. Kaliski Jr.: A Layman’s Guide to a Subset of ASN.1, BER and DER, RSA Laboratories Technical Note, Internet",
+      "Timing Attacks on Cryptosystems, RSA Laboratories, Redwood City, CA 1996 [Karten 97] Zeitschrift Karten: Zur Sicherheit der ec-Karte PIN: Das Urteil des OLG Hamm, Fritz Knapp Verlag",
+      "Knuth 97] Donald Ervin Knuth: The Art of Computer Programming"
+    ],
+    "type": null,
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kuhn",
+        "given": "Kuhn] Markus G."
+      }
+    ],
+    "container-title": [
+      "Eurosmart Security Conference",
+      "Personalisation and Mailing of Smart Cards – A Survey, Smart Card Technologies and Applications Workshop"
+    ],
+    "date": [
+      "2000-06-13",
+      "1999-06",
+      "1996-11"
+    ],
+    "location": [
+      "Marseille",
+      "Berlin"
+    ],
+    "publisher": [
+      "Spektrum der Wissenschaft"
+    ],
+    "title": [
+      "Attacks on Pay-TV Access Control Systems, University of Cambridge, Internet, year unknown [Lamla 00] Michael Lamla: Hardware Attacks on Smart Cards –Overview",
+      "Leiberich 99] Otto Leiberich: Vom diplomatischen Code zur Fallturfunktion",
+      "Lender 96] Friedwart Lender: Production"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lindholm",
+        "given": "Tim"
+      },
+      {
+        "family": "Yellin",
+        "given": "Frank"
+      },
+      {
+        "family": "Massey",
+        "given": "James L."
+      },
+      {
+        "family": "Massey",
+        "given": "James L."
+      },
+      {
+        "family": "Cryptography",
+        "given": "Fundamentals"
+      },
+      {
+        "given": "Applications"
+      },
+      {
+        "family": "Menezes",
+        "given": "Alfred J."
+      },
+      {
+        "family": "Menezes",
+        "given": "Alfred J."
+      },
+      {
+        "family": "Oorschot",
+        "given": "Paul C.",
+        "particle": "van"
+      },
+      {
+        "family": "Vanstone",
+        "given": "Scott A."
+      },
+      {
+        "family": "Merkle",
+        "given": "Ralph C."
+      },
+      {
+        "family": "Hellman",
+        "given": "Martin E."
+      },
+      {
+        "family": "Messerges",
+        "given": "Thomas S."
+      },
+      {
+        "family": "Dabbish",
+        "given": "Ezzy A."
+      },
+      {
+        "family": "Sloan",
+        "given": "Robert H."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE",
+      "USENIX Workshop on Smartcard Technology"
+    ],
+    "date": [
+      "1999-04",
+      "1999",
+      "1988-05",
+      "1997",
+      "1995",
+      "1993",
+      "1997",
+      "1981",
+      "1999-05-10",
+      "1996-07",
+      "1997"
+    ],
+    "edition": [
+      "2nd edn"
+    ],
+    "genre": [
+      "[Levy 99]",
+      "[Lindholm 97]",
+      "[Massey 88]",
+      "[Massey 97]",
+      "[Merkle 81]",
+      "[Messerges 99]",
+      "c’t,"
+    ],
+    "issue": [
+      "5"
+    ],
+    "location": [
+      "Steven Levy",
+      "Reading, MA",
+      "in",
+      "Bruno Struif",
+      "Braunschweig",
+      "Boston, MA",
+      "Boca Raton, FL",
+      "Chicago, USA",
+      "Bryan Pfaffenberger",
+      "New York"
+    ],
+    "note": [
+      "Menezes 93",
+      "Menezes 97",
+      "Meyer 82] Carl H. Meyer, Stephen M. Matyas: Cryptography, [Meyer 96] Carsten Meyer: Nur Peanuts – Der Risikofaktor Magnetkarte,",
+      "Montenegro 99] Sergio Montenegro: Sichere und fehlertolerante Steuerungen, Carl Hanser Verlag, Munich/Vienna 1999 [Moore 02] Simon Moore, Ross Anderson, Paul Cunningham, Robert Mullins, George Tayler: Improving Smart Card Security using Self-timed Circuits, Internet, May 2002 [Muller-Maguhn 97a] Andy Muller-Maguhn: “Sicherheit” von EC-Karten, Die Datenschleuder, Ausgabe 53, 1997 [Muller-Maguhn 97b] Andy Muller-Maguhn: EC-Karten Unsicherheit, Die Datenschleuder, Ausgabe 59, 1997 [Myers 95] Glenford J. Myers: The Art of Software Testing, 5th edn, Wiley, New York 1995 [Nebelung 96] Brigitte Nebelung: Das Geldborsen-Konzept der ec-Karte mit Chip, debis Systemhaus, Bonn 1996 [Nechvatal 00] James Nechvatal, Elaine Barker, Lawrence Bassham, William Burr, Morris Dworkin, James Foti, Edward Roback, NIST: Report on the Development of the Advanced Encryption Standard (AES), Internet, 2000 [Odlyzko 95] Andrew. M. Odlyzko: The Future of Integer Factorization, AT&T Bell Laboratories, 1995 [Otto 82] Siegfried Otto: Echt oder falsch? Die maschinelle Echtheitserkennung, Betriebswirtschaftliche Blatter, Heft 2, February 1982 [Peyret 97] Patrice Peyret: Which Smart Card Technologies will you need to Ride the Information Highway Safely?, Gemplus, 1997 [Pfaffenberger 97",
+      "Piller 96] Ernst Piller: Die “ideale” Geldborse fur Europa, Card-Forum, Luneburg 1996 [Pomerance 84] C. Pomerance: The Quadratic Sieve Factoring Algorithm, Advances in Cryptology – Eurocrypt 84 [Press 92] William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery: Numerical Recipes in C –The Art of Scientific Computing, 2nd edn, Cambridge University Press, Cambridge 1992 [Rivest 78] Ronald L. Rivest, Adi Shamir, Leonard Adleman: Method for Obtaining Digital Signatures and Public-Key Cryptosystems, Internet, 1976"
+    ],
+    "pages": [
+      "533–549"
+    ],
+    "publisher": [
+      "The Open Secret, Wired",
+      "Addison-Wesley",
+      "Albert Glade, Helmut Reimer",
+      "Digitale Signatur, Vieweg Verlag",
+      "Kluwer Academic Publishing",
+      "CRC Press",
+      "Dictionary of Computer Terms, Simon & Schuster/Macmillan"
+    ],
+    "title": [
+      "The Java Virtual Machine Specification",
+      "An Introduction to Contemporary Cryptology",
+      "Meister 95] Giesela Meister, Eric Johnson: Schlusselmanagement und Sicherheitsprotokolle gemaß ISO/SC 27 – Standards in Smart Card-Umgebungen",
+      "Elliptic Curve Public Key Cryptosystems",
+      "Handbook of Applied Cryptography",
+      "On the Security of Multiple Encryption, Internet",
+      "Investigations of Power Analysis Attacks on Smartcards"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "76"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wiley",
+        "given": "New York"
+      },
+      {
+        "family": "Silverman",
+        "given": "Robert D."
+      }
+    ],
+    "container-title": [
+      "The Subliminal Channels in the U.S. Digital Signature Algorithm, Proceedings of Symposium on the State and Progress of Research in [Skorobogatov 02",
+      "Dobb’s Journal"
+    ],
+    "date": [
+      "Munich/Vienna 1996",
+      "1998",
+      "2000-03-14",
+      "1987",
+      "1997-10",
+      "1997-04",
+      "1996",
+      "1999-12",
+      "1997",
+      "2001-05-22",
+      "1997",
+      "1996-02",
+      "2002",
+      "1993",
+      "1993",
+      "2000",
+      "1993"
+    ],
+    "edition": [
+      "10th edn",
+      "2nd edn",
+      "3rd edn",
+      "3rd edn",
+      "10th edn"
+    ],
+    "genre": [
+      "[Robertson 96]",
+      "[Silverman 97]"
+    ],
+    "location": [
+      "James Robertson, Suzanne Robertson",
+      "Braunschweig",
+      "Tubingen",
+      "Heppenheim",
+      "Bonn/Munchen/Reading, MA",
+      "Gary Stix",
+      "Reading, MA",
+      "Georg Erwin Thaller",
+      "Braunschweig",
+      "Berlin",
+      "Bernhard Walke",
+      "Band 2",
+      "schnurlose Telefonsysteme, W-ATM, HIPERLAN, Satellitenfunk, UPT, B",
+      "Stuttgart",
+      "Santa Barbara, CA"
+    ],
+    "note": [
+      "Rother 98a] Stefan Rother: Prufung von Chipkarten-Sicherheit, [Rother 98b] Stefan Rother: Prufung von Chipkarten-Sicherheit, in Tagungsband Chipkarten,",
+      "Simmons 92] Gustavus J. Simmons (editor): Contemporary Cryptology, IEEE Press, New York 1992 [Simmons 93",
+      "Sergei Skorobogatov, Ross Anderson: Optical Fault Induction Attacks, Internet, May 2002 [Sommerville 90] Ian Sommerville: Software Engineering, Addison-Wesley, Wokingham 1990 [Steele 01] Raymond Steele, Chin-Chun Lee, Peter Gould:GSM, cdmaOne and 3G Systems, Wiley, Chichester 2001 [Stix 96",
+      "Stocker 98] Thomas Stocker: Java for Smart Cards, in: Tagungsband Smart Cards, Vieweg Verlag, Braunschweig 1998 [Tanenbaum 02] Andrew S. Tanenbaum: Moderne Betriebssysteme,",
+      "Thaller 93",
+      "Tietze 93] Ulrich Tietze, Christoph Schenk: Halbleiter-Schaltungstechnik,",
+      "Vedder 97] Klaus Vedder, Franz Weikmann: Smart Cards –Requirements, Properties and Applications, ESAT-COSIC course, Catholic University of Leuven, 1997 [Walke 00",
+      "Weikmann 92] Franz Weikmann: SmartCard-Chips – Technik und weitere Perspektiven, Der GMD-Spiegel 1’92, Gesellschaft for Mathematik und Datenverarbeitung, Sankt Augustin 1992 [Weikmann 98] Franz Weikmann, Klaus Vedder: Smart Cards Requirements, Properties and Applications, in: Tagungsband Smart Cards, Vieweg Verlag, Braunschweig 1998 [Wiener 93] Michael J. Wiener: Efficient DES Key Search, Crypto 93,"
+    ],
+    "publisher": [
+      "Vollstandige Systemanalyse, Carl Hanser Verlag",
+      "Vieweg Verlag",
+      "Attempto Verlag",
+      "Addison-Wesley",
+      "Herausforderung “Komma eins”, Spektrum der Wissenschaft",
+      "Addison-Wesley Longman",
+      "Qualitatsoptimierung der Software-Entwicklung. Das Capability Maturity Model (CMM), Vieweg Verlag",
+      "Springer-Verlag",
+      "Mobilfunknetze und ihre Protokolle",
+      "Bundelfunk",
+      "G. Teubner Verlag"
+    ],
+    "title": [
+      "RSA 97] RSA Data Security Inc.: DES Crack Fact Sheet, Internet, 1997 [Scherzer 00] Helmut Scherzer: Chipkarten-Betriebssysteme –Gefahrenpotentiale und Sicherheitsmechanismen, Forum IT-Sicherheit Smartcards",
+      "Schief 87] Rudolf Schief: Einfuhrung in die Mikroprozessoren und Mikrocomputer",
+      "Werner Schindler: Wie sicher ist die PIN?, speech presented at the ‘Kreditkartenkriminalitat’conference",
+      "Schlumberger 97] Schlumberger: Cyberflex – Programmers Guide, Version 6d",
+      "Schneier 96] Bruce Schneier: Applied Cryptography",
+      "Schneier 99] Bruce Schneier: Attack Trees – Modeling Security Threats, Dr",
+      "Sedgewick 97] Robert Sedgewick: Algorithmen",
+      "SigG 01] Gesetz uber Rahmenbedingungen fur elektronische Signaturen",
+      "Fast Generation of Random, Strong RSA Primes, RSA Laboratories Crypto Byte, Internet"
+    ],
+    "translator": [
+      {
+        "family": "Simmons",
+        "given": "Gustavus J."
+      }
+    ],
+    "type": "article-journal"
+  },
+  {
+    "note": [
+      "Yellin 96] Frank Yellin: Low Level Security in Java, Internet, 1996 [Zieschang 98] Thilo Zieschang: Differentielle Fehleranalyse und"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "PIN Protection Principles and Techniques"
+    ],
+    "title": [
+      "ANSI X9.8 Banking – Personal Identification Number Management and Security – 1: 1995 Part 1"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Approved Algorithms for PIN Encipherment"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ANSI",
+        "given": "X."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "title": [
+      "Financial Institution Message Authentication ANSI X 9.17: 1985 Financial Institution Key Management ANSI X 9.19: 1996 Financial Institution Retail Message Authentication ANSI X 9.30 Public Key Cryptography Using Irreversible Algorithms for the Financial Services Industry"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: The Digital Signature Algorithm (DSA"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "note": [
+      "The Secure Hash Algorithm (SHA-1"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ANSI",
+        "given": "X."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Digital Signatures Using Reversible Public Key Cryptography for the Financial Services Industry ANSI X9.55: 1997 Public Key Cryptography for the Financial Services Industry: Extensions to Public Key Certificates and Certificate Revocation Lists ANSI X9.84: 2001 Biometric Information Management and Security This very comprehensive standard specifies the basic architectural principles of a wide variety of biometric identification methods, as well as the requirements for the use, management and security of biometric data"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ANSI",
+        "given": "X."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "92"
+    ],
+    "title": [
+      "Data Encryption Algorithm Describes the DES algorithm"
+    ],
+    "type": null,
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ANSI",
+        "given": "X."
+      }
+    ],
+    "container-title": [
+      "Modes of Operation ANSI / IEEE 829"
+    ],
+    "date": [
+      "1983",
+      "1991"
+    ],
+    "issue": [
+      "106"
+    ],
+    "title": [
+      "American National Standard for Information Systems – Data Encryption Algorithm",
+      "Standard for Software Test Documentation Describes the methods and necessary documentation for testing software"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "container-title": [
+      "ANSI / IEEE 1008"
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "Standard for Software Unit Testing Describes basic methods for testing software"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "ANSI / IEEE 1012"
+    ],
+    "date": [
+      "1992"
+    ],
+    "note": [
+      "This standard is based on the waterfall model for software development."
+    ],
+    "title": [
+      "Software Verification and Validation Plans Specifies the necessary test activities and test plans for software development"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "CCITT Z.100: 1993 CCITT Specification and Description Language (SDL"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "C.E.P.S."
+      }
+    ],
+    "title": [
+      "Version 2.1.3: 2001 Joint Specification for Common Electronic Purse Cards CEPS is an important standard for electronic purses and is based on EN 1546. It provides the foundation for the majority of present and future European purse systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Criteria",
+        "given": "Common"
+      }
+    ],
+    "title": [
+      "Version 2.1: 1999 Identical to ISO/IEC 15 408 (q.v.) DIN 9781-10: 1985 Buro- und Datentechnik; Identifikationskarten aus Kunststoff oder kunststofflaminiertem Werkstoff; Anforderungen an Echtheitsmerkmale This very short standard defines the terms used in the context of authenticity features and lists general requirements for such features"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "44 300 – 1 9"
+    ],
+    "title": [
+      "Informationsverarbeitung – Begriffe Defines many information technology concepts"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "E.M.V."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Integrated Circuit Card Specification for Payment"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 7"
+    ],
+    "title": [
+      "Part 7: Security Module EN 753 Identification Card Systems – Intersector Thin Flexible Cards"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: General Technical Specifications"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Magnetic Recording Technique"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Test Methods"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "This standard primarily"
+    ],
+    "title": [
+      "EN 1038: 1995 Identification Card Systems – Telecommunication Applications – Integrated Circuit(s) Card Payphone Defines basic considerations for using smart cards with public card phones"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "EN 1332 Identification Card Systems – Man–Machine Interface – 1: 1999 Part 1: Design Principles and Symbols for the User Interface"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Definition of a Tactile Identifier for ID-1 cards Specifies a perceptible recess in ID-1 cards for detecting the orientation of the card"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Keypads"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 4"
+    ],
+    "title": [
+      "Part 4: Coding of User Requirements for People with Special Needs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "EN 1362: 1997 Identification Card Systems – Device Interface Characteristics – Classes of Device Interfaces EN 1387: 1996 Machine Readable Cards – Health Care Applications – Cards: General Characteristics EN 1545-1: 1998 Identification Card Systems – Surface Transport Applications – Part 1: General EN 1545-2: 1998 Identification Card Systems – Surface Transport Applications – Part 2: Transport Payment prEN 1545-3: 1995 Identification Card Systems – Surface Transport Applications – Part 3: Tachograph"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3 prEN: 1998 Part 3: Abstract Test Suite (ATS) and Implementation Extra Information for Testing (IXIT) Pro-forma Specification EN 13 344 Identification Card Systems –Telecommunications IC Cards and Terminals –Test Methods and Conformance Testing for EN 726-4"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 prEN: 1998 Part 1: Implementation Conformance Statement (ICS) Pro-forma Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2 prEN: 1998 Part 2: Test Suite Structure (TSS) and Test Purposes (TP"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3 prEN: 1998 Part 3: Abstract Test Suite (ATS) and Implementation Extra Information for Testing (IXIT) Pro-forma Specification EN 13 345 Identification Card Systems –Telecommunications IC Cards and Terminals –Test Methods and Conformance Testing for EN 726-7"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 prEN: 1998 Part 1: Implementation Conformance Statement (ICS) pro-forma Specification"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "publisher": [
+      "TSS & TP"
+    ],
+    "title": [
+      "2 prEN: 1998 Part 2: Test Suite Structure and Test Purposes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3 prEN: 1998 Part 3: Abstract Test Suite (ATS) and Implementation extra Information for Testing (IXIT) pro-forma Specification"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "from transfering the PIN to the cardholder (PIN letter) to entering the PIN using a keypad (PIN pad)."
+    ],
+    "title": [
+      "EN 1750: 1999 Identification Card Systems – Intersector Messages between Devices and Hosts – Acceptor to Acquirer Messages EN 300812, Version 2.1.1: 2001 Terrestrial Trunked Radio (TETRA); Security Aspects; Subscriber Identity Module to Mobile Equipment (SIMME) Interface ENV 1257 Identification Card Systems – Rules for Personal Identification Number Handling in Intersector Environments Illustrates and explains security aspects related to using PINs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 prENV: 1997 Part 1: PIN Presentation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2 prENV: 1997 Part 2: PIN Protection"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3 prENV: 1997 Part 3: PIN Verification"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "FIPS 186-2: 2000 Digital Signature Standard (DSS) N Describes the DSS algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "FIPS 197: 2001 Advanced Encryption Standard (AES) N Describes the AES algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "GSM 01.02, Version 6.0.1: 2001 Digital Cellular Telecommunications System (Phase 2+) (GSM); General Description of a GSM Public Land Mobile Network (PLMN) Forms the basis for the architecture of all GSM mobile telecommunications networks"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "GSM); Abbreviations and Acronyms"
+    ],
+    "title": [
+      "GSM 01.04, Version 8.0.0: 1999 Digital Cellular Telecommunications Systems (Phase 2"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "GSM); Security Aspects GSM 02.17, Version 8.0.0: 1999 Digital Cellular Telecommunications Systems (Phase 2) (GSM); SIM Functional Characteristics"
+    ],
+    "title": [
+      "GSM 01.60, Version 6.0.0: 1998 Digital Cellular Telecommunications System (Phase 2+); General Packet Radio Service (GPRS) Requirements Specification of GPRS GSM 02.09, Version 7.0.1: 1998 Digital Cellular Telecommunications Systems (Phase 2"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "This standard is the key document for using Java Card in GSM. The basis for this is provided by GSM 02.19."
+    ],
+    "title": [
+      "GSM 03.19, Version 8.2.0: 2001 Digital Cellular Telecommunications System (Phase 2+); Subscriber Identity Module Application Programming Interface (SIM API); SIM API for Java Card; Stage 2 N Specifies a Java Card variant for use as a SIM with the SIM Application Toolkit, based on the Java Card 2.1 specifications"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "GSM); Alphabets and Language-specific Information Specifies a GSM character set based on ASCII"
+    ],
+    "title": [
+      "GSM 03.20, Version 8.1.0: 1999 Global System for Mobile Communication (GSM) (Phase 2+); Security Related Network Functions GSM 03.38, Version 7.2.0: 1999 Digital Cellular Telecommunications System (Phase 2+"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "GSM); Technical realization of the Short Message Service (SMS"
+    ],
+    "title": [
+      "GSM 03.40, Version 7.4.0: 2000 Digital Cellular Telecommunications System (Phase 2+"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GSM 03.48, Version 8.7.0: 2001 Digital Cellular Telecommunications System"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ISO 639 Codes for the Representation of Names of Languages"
+    ],
+    "title": [
+      "GSM 11.18 Version 7.0.1: 1998 Digital Cellular Telecommunications System (Phase 2 +); Specification of the 1.8 Volt Subscriber Identity Module – Mobile Equipment (SIM – ME) Interface GSM 11.19 Version 7.0.3: 1998 Digital Cellular Telecommunications System (Phase 2+) (GSM) – Specification of the Cordless Telephony System Subscriber Identity Module for both Fixed Part and Mobile IEEE 828: 1990 Standard for Software Configuration Management Plans IEEE 1363: 2000 Standard for RSA, Diffie-Hellman and Related Public-Key Cryptography N A very extensive and comprehensive standard, which addresses almost all aspects of asymmetric cryptographic algorithms, including generating keys, using digital signatures, key exchange and encryption"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1: 2001 Part 1: Alpha-2 Code"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Alpha-3 Code"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ISO/IEC 646: 1991 Information Technology – ISO 7-bit Coded Character Set for Information Interchange ISO 3166 Codes for the Representation of Names of Countries and their Subdivisions"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Country Codes"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Country Subdivision Code"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Code for Formerly Used Names of Countries"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Magnetic Stripe Data Contents for Track 3 ISO/IEC 7501 Identification Cards – Machine Readable Travel Documents"
+    ],
+    "title": [
+      "ISO/IEC 4217: 1995 Codes for the Representation of Currencies and Funds ISO 4909: 2000 Bank Cards"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Machine Readable Passport"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Machine Readable Visas"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Official Travel Documents"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ISO 7811 Identification Cards – Recording Technique"
+    ],
+    "title": [
+      "ISO 7810: 1995 Identification Cards – Physical Characteristics Describes the most important physical properties of cards without chips, and defines the ID-1, ID-2 and ID-3 card formats"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "ISO/IEC 9126: 1991 Information Technology –Software product evaluation – Quality Characteristics and Guidelines for their Use ISO/IEC 9126 Software Engineering – Product Quality"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1: 2001 Part 1: Quality Model"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2: CD 2001 Part 2: External Metrics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3: CD 2001 Part 3: Internal Metrics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "4: CD 2001 Part 4: Quality in Use Metrics"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: General Defines the terms and notation used in the other parts of this family of standards"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Mechanisms using Symmetric Encipherment Algorithms Specifies authentication methods based on symmetric cryptographic algorithms"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Mechanisms using Digital Signature Techniques Specifies authentication methods based on asymmetric cryptographic algorithms"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 4"
+    ],
+    "title": [
+      "Part 4: Mechanisms using a Cryptographic Check Function Specifies authentication methods based on cryptographic check functions"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 5"
+    ],
+    "title": [
+      "Part 5: Mechanisms using Zero Knowledge Techniques Specifies authentication methods based on zero-knowledge techniques"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ISO 9807: 1991 Banking and Related Financial Services –Requirements for Message Authentication (retail"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ISO/IEC 9979: 1999 Information Technology – Security techniques –Procedures for the Registration of Cryptographic Algorithms ISO 9992 Financial Transaction Cards – Messages between the Integrated Circuit Card and the Card Accepting Device"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Concepts and Structures"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "note": [
+      "Contains the definitions of"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Functions, Messages (Commands and Responses), Data Elements and Structures Defines commands, procedures, and data elements for smart cards used in financial transaction systems"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "CD"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 4"
+    ],
+    "title": [
+      "Part 4: Answer to Reset and Transmission Protocols Specifies data transmission at the physical level, as well as the structure and parameters of the ATR and PPS for contactless smart cards. Defines the T = 2 data transmission protocol, with many sample scenarios for protocol procedures"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "ISO/IEC 10646 Information Technology – Universal Multiple-Octet Coded Character Set (UCS) – 1: 2000 Part 1: Architecture and Basic Multilingual Plane – 2: 2001 Part 2: Supplementary Planes ISO 11 568 Banking – Key Management"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Introduction to Key Management"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Key Management Techniques for Symmetric Ciphers"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Key Life Cycle for Symmetric Ciphers"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 4"
+    ],
+    "title": [
+      "Part 4: Key Management Techniques for Public Key Cryptosystems"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 5"
+    ],
+    "title": [
+      "Part 5: Key Life for Public Key Cryptosystems"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 6"
+    ],
+    "title": [
+      "Part 6: Key Management Schemes"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ISO/IEC 11 693: 2000 Identification Cards – Optical Memory Cards ISO/IEC 11 694 Identification Cards – Optical Memory Cards and Devices – Linear Recording Method"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1: 2000 Part 1: Physical Characteristics"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Dimensions and Location of the Accessible Optical Area"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3: 2001 Part 3: Optical Properties and Characteristics"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "– 4"
+    ],
+    "publisher": [
+      "Security Techniques –Key Management"
+    ],
+    "title": [
+      "Part 4: Logical Data Structures ISO/IEC 11 770 Information Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Framework"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Mechanisms using Symmetric Techniques"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Mechanisms using Asymmetric Techniques"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ISO/IEC 12 207: 1995 Information technology – Software Life Cycle Processes ISO/IEC 13 239: 2000 Information Technology – Telecommunications and Information Exchange between Systems –High-level Data Link Control (HDLC) Procedures ISO 13 491 Banking – Secure Cryptographic Devices"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Concepts, Requirements and Evaluation Methods"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Security Compliance Checklists for Devices used in Magnetic Stripe Card Systems ISO/IEC 13 888 Information Technology – Security Techniques –Non-repudiation"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: General"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Mechanisms using Symmetric Techniques"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Mechanisms using Asymmetric Techniques ISO/IEC 14 443 Identification Cards – Contactless Integrated Circuit(s) Cards – Proximity Cards N This standard describes contactless smart cards that can be used at a distance of up to several tens of centimeters from a terminal"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1: 2000 Part 1: Physical Characteristics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2: 2001 Part 2: Radio Frequency Power and Signal Interface"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3: 2001 Part 3: Initialization and Anticollision"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "– 4"
+    ],
+    "title": [
+      "Part 4: Transmission Protocol ISO/IEC 14 888 Information Technology – Security Techniques –Digital Signature with Appendix This standard specifies basic mechanisms and methods for digital signatures with appendix. It is independent of any particular asymmetric cryptographic algorithm"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: General"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Identity-based Mechanisms"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Certificate-based Mechanisms"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ISO/IEC 15 292: 2001 Information Technology – Security Techniques –Protection Profile Registration Procedures ISO/IEC 15 408 Information Technology – Security Techniques –Evaluation Criteria for IT Security"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "title": [
+      "Part 1: Introduction and General Model"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Security Functional Requirements"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "– 3"
+    ],
+    "title": [
+      "Part 3: Security Assurance Requirements"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 CD: 2000 Part 1: Physical Characteristics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2 WD: 2000 Part 2: Air Interface and Initialization"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3 WD: 2001 Part 3: Anticollision and Transmission Protocol"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "4 WD: 1996 Part 4: Extended Command Set and Security Features ISO 15 782 Banking – Certificate Management for Financial Services"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 DIS: 2000 Part 1: Public Key Certificates"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Security Techniques –Cryptographic Techniques based on Elliptic Curves"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Part 2: Certificate Extensions ISO/IEC 15 946 Information Technology"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 FDIS: 2001 Part 1: General"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2 FDIS: 2001 Part 2: Digital Signatures"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "3 FDIS: 2001 Part 3: Key Establishment"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "4 CD: 2000 Part 4: Digital Signatures giving Message Recovery ISO 17 090 Public Key Infrastructure"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "1 CD: 2001 Part 1: Framework and Overview"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "title": [
+      "2 CD: 2001 Part 2: Certificate Profile"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "–"
+      }
+    ],
+    "location": [
+      "The Directory"
+    ],
+    "publisher": [
+      "Authentication"
+    ],
+    "title": [
+      "3 CD: 2001 Part 3: Policy Management of Certification Authority ITU X.509: 2000 Information Technology – Open Systems Interconnection"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "O.C.F."
+      }
+    ],
+    "container-title": [
+      "Programmer’s Guide"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "2001"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "note": [
+      "Addendum 1"
+    ],
+    "title": [
+      "SET Book 2, Version 1.0: 1997 Secure Electronic Transaction Specification, Book 2: Programmer’s Guide SET Book 3, Version 1.0: 1997 Secure Electronic Transaction Specification, Book 3: Formal Protocol Definition TIA/EIA/IS-820: 2000 Removable User Identity Module (R-UIM) for TIA/EIA Spread Spectrum Standards TIA/EIA/IS-820-1: 2001 Removable User Identity Module (R-UIM) for TIA/EIA Spread Spectrum Standards"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "T.I.A./E.I.A./I.S.-839"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "R-UIM Overview, Operation, and File Structure"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "USIM Application Test Specification TS"
+    ],
+    "genre": [
+      "3rd Generation Partnership Project;"
+    ],
+    "issue": [
+      "122"
+    ],
+    "location": [
+      "USIM"
+    ],
+    "pages": [
+      "2000"
+    ],
+    "publisher": [
+      "Technical Specification Group Terminals"
+    ],
+    "title": [
+      "TS 31.113, Version 5.0.0: 2001 3rd Generation Partnership Project; Technical Specification Group Terminals; USAT Interpreter Byte Codes TS 31.114, Version 1.1.0: 2002 3rd Generation Partnership Project; Technical Specification Group Terminals; USAT Interpreter Protocol and Administration TS 31.121, Version 4.0.0: 2001 3rd Generation Partnership Project; Technical Specification Group Terminals; UICC-Terminal Interface"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "container-title": [
+      "SIM/USIM Internal and External Interworking Aspects TS 33.102, Version 4.1.0: 2001 3rd Generation Partnership Project; Technical Specification Group Services and System Aspects; 3G Security; Security Architecture"
+    ],
+    "title": [
+      "TS 31.900, Version 3.1.0: 2001 3rd Generation Partnership Project; Technical Specification Group Terminals"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Security Principles and Objectives TS 35.205, Version 4.0.0: 2001 Universal Mobile Telecommunications System"
+    ],
+    "title": [
+      "TS 33.105, Version 4.1.0: 2001 3rd Generation Partnership Project; Technical Specification Group Services and System Aspects; 3G Security; Cryptographic Algorithm Requirements TS 33.120, Version 4.0.0: 2001 Universal Mobile Telecommunications System (UMTS); 3G Security"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "and describes basic tests for the communications link to the UICC and tests for the T = 0 and T = 1 transmission protocols."
+    ],
+    "title": [
+      "TS 102.224, Version 1.0.0: 2001 Smart Cards; Security mechanisms for the Card Application Toolkit; Functional requirements TS 102.225, Version 1.0.0: 2001 Smart Cards; Secured packet structure for UICC applications TS 102.226, Version 1.0.0: 2001 Smart Cards; Remote APDU Structure for UICC based Applications TS 102.230, Version 4.0.0: 2001 Smart Cards; UICC-Terminal Interface; Physical, Electrical and Logical Test Specification Specifies physical and electrical tests for UICCs"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "This very comprehensive specification forms the Revision"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "0"
+    ],
+    "note": [
+      "basis for the USB interface."
+    ],
+    "title": [
+      "TS 102.240, Version 1.0.0: 2001 Smart Cards; UICC Application Programming Interface (UICC API); Service description TS 102.241, Version 1.0.0: 2001 UICC Application Programming Interface (UICC API); UICC API for Java Card TS 123.002, Version 4.4.0: 2002 Universal Mobile Telecommunications System (UMTS); Network architecture Unicode Standard, Version 3.1.1: 2001 Universal Serial Bus Specification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "title": [
+      "Wireless Application Protocol Specifies the physical and electrical properties of Identity Module Specification, a WIM, which is the digital signature application Version 260: July 2001 for telecommunications smart cards. Lists all mechanisms, commands, data objects and files needed for a WIM application"
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "http://www.basiccard.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "B.S.I."
+      }
+    ],
+    "note": [
+      "CDG] CDMA Development Group (CDG) information about CDMA",
+      "CEN] CEN standards http://www.cenorm.be/ [CEPS] CEPSCO information about CEPS",
+      "Certicom] Certicom Corp., Canada cryptography, ECC",
+      "Counterpane] Counterpane, USA cryptography http://www.counterpane.com/ [CR] Cryptography Research attacks"
+    ],
+    "title": [
+      "Bundesamt for Sicherheit in der Informationstechnik (BSI), Germany information about security http://www.bsi.bund.de/ [Card Forum] Card Forum, Germany publisher in the smart card field http://www.card-forum.com/ [Cardshow] The Smart Card Cyber Show, France http://www.cardshow.com/ [CC] Common Criteria http://www.commoncriteria.org/ [CCC] Chaos Computer Club e.V., Germany attacks on smart cards and cryptographic algorithms"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ccc.de/",
+      "http://www.cdg.org/",
+      "http://www.cepsco.com/",
+      "http://www.certicom.ca/",
+      "http://www.cryptography.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Conference",
+        "given": "C.T.S.T.] CardTech/SecurTech"
+      }
+    ],
+    "location": [
+      "Dallas Semiconductor, USA"
+    ],
+    "note": [
+      "semiconductor manufacturer; security processors"
+    ],
+    "title": [
+      "USA events relating to smart cards http://www.ctst.com/ [Dai Nippon] Dai Nippon Printing Co. Ltd., Japan smart card manufacturer http://www.dnp.co.jp/ 16.9 World Wide Web Addresses 1037 [Dallas Semi"
+    ],
+    "type": null,
+    "url": [
+      "http://www.dalsemi.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Datacard",
+        "given": "Datacard]"
+      }
+    ],
+    "title": [
+      "USA production machinery for smart cards http://www.datacard.com/ [De La Rue] De La Rue Card Systems, Great Britain smart card manufacturer"
+    ],
+    "type": null,
+    "url": [
+      "http://www.delarue.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.I.N."
+      }
+    ],
+    "title": [
+      "Deutsches Institut fur Normung e.V. (DIN), Germany standards http://www.din.de/ [DPA] Deutsches Patentamt, Germany patents http://www.deutsches-patentamt.de/ [Drexler] Drexler Technology Corp., USA cards with optically writeable and readable regions"
+    ],
+    "type": null,
+    "url": [
+      "http://www.lasercard.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E.C.B.S."
+      }
+    ],
+    "title": [
+      "European Committee for Banking Standards standards and specifications"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ecbs.org/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E.C.C."
+      }
+    ],
+    "note": [
+      "EMV] EMVCO information about EMV",
+      "Entrust] Entrust, Canada cryptography http://www.entrust.com/ [ETSI] ETSI standards http://www.etsi.org/ [Europay] Europay International, Belgium card issuer"
+    ],
+    "title": [
+      "The Error Correcting Codes (ECC) Home Page, Japan link farm for error detection and correction codes http://www.csl.sony.co.jp/person/morelos/ecc/codes.html [Emosyn] Emosyn manufacturer of smart card microcontrollers"
+    ],
+    "type": null,
+    "url": [
+      "http://www.emosyn.com/",
+      "http://www.emvco.com/",
+      "http://www.europay.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FINEID",
+        "given": "F.I.N.E.I.D.]"
+      }
+    ],
+    "title": [
+      "Finland information about FINEID"
+    ],
+    "type": null,
+    "url": [
+      "http://www.fineid.fi/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Giesecke",
+        "given": "G.D.]"
+      },
+      {
+        "family": "GmbH",
+        "given": "Devrient"
+      }
+    ],
+    "title": [
+      "Germany smart cards; operating systems; terminals"
+    ],
+    "type": null,
+    "url": [
+      "http://www.gieseckedevrient.com/",
+      "http://www.gi-de.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "S.C.A",
+        "given": "Gemplus] Gemplus"
+      }
+    ],
+    "container-title": [
+      "Global Global Platform Platform] information about Global Platform"
+    ],
+    "title": [
+      "France smart cards, operating systems, terminals"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.gemplus.com/",
+      "http://www.globalplatform.org/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "Groupmark] Groupmark"
+      }
+    ],
+    "title": [
+      "Canada smart card manufacturer"
+    ],
+    "type": null,
+    "url": [
+      "http://www.groupmark.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Gutmann"
+      }
+    ],
+    "title": [
+      "Peter Gutmann’s Security and Encryption Links"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.auckland.ac.nz/"
+    ]
+  },
+  {
+    "note": [
+      "Hanser] Carl Hanser Verlag GmbH, Germany pubisher (Handbuch der Chipkarten, The Smart Card Simulator"
+    ],
+    "type": null,
+    "url": [
+      "http://www.hanser.de/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corp",
+        "given": "Hypercom] Hypercom"
+      }
+    ],
+    "title": [
+      "USA terminals"
+    ],
+    "type": null,
+    "url": [
+      "http://www.hypercom.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.C.M.A."
+      }
+    ],
+    "title": [
+      "ICMA – International Card Manufacturers Association information about smart cards"
+    ],
+    "type": null,
+    "url": [
+      "http://www.icma.com/"
+    ]
+  },
+  {
+    "note": [
+      "IEEE] IEEE standards",
+      "ISO] ISO standards http://www.iso.ch/ [ITU] ITU standards http://www.itu.ch/ [JavaPOS] JavaPOS Java for POS terminals http://www.javapos.com/ [Javasoft] Javasoft, USA Java for smart cards http://www.javasoft.com/ [JCF] Java Card Forum, USA Java, specifictions for Java in smart cards"
+    ],
+    "title": [
+      "Infineon] Infineon AG, Germany semiconductor manufacturer http://www.infineon.com [Ingenico] Ingenico, France terminal manufacturer http://www.ingenico.com/ [Integri] Integri, Belgium testing smart card operating systems http://www.integri.com/ [Iridium] Iridium, USA information about the Iridium mobile telecommunications network"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ieee.org/",
+      "http://www.iridium.com/",
+      "http://www.javacardforum.org/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.S.O."
+      }
+    ],
+    "citation-number": [
+      "JTC1"
+    ],
+    "note": [
+      "MagTek] MagTek Inc., USA terminals"
+    ],
+    "title": [
+      "Joint Technical Committee One international standardization http://www.jtc1.org/ [Logika] Logika Comp Spa, Italy personalization systems"
+    ],
+    "type": null,
+    "url": [
+      "http://www.logika.it/",
+      "http://www.magtek.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "MasterCard"
+      }
+    ],
+    "title": [
+      "MasterCard International, USA card issuer"
+    ],
+    "type": null,
+    "url": [
+      "http://www.mastercard.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Microsoft",
+        "given": "Microsoft]"
+      }
+    ],
+    "title": [
+      "USA Crypto-API, PC/SC"
+    ],
+    "type": null,
+    "url": [
+      "http://www.microsoft.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Mondex"
+      }
+    ],
+    "title": [
+      "Mondex International Ltd., Great Britain electronic purse system"
+    ],
+    "type": null,
+    "url": [
+      "http://www.mondex.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Muhlbauer"
+      }
+    ],
+    "title": [
+      "Muhlbauer GmbH, Germany card production machinery"
+    ],
+    "type": null,
+    "url": [
+      "http://www.muehlbauer.de/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "M.U.S.C.L.E."
+      }
+    ],
+    "title": [
+      "MUSCLE (Movement for the Use of Smart Cards in a Linux Environment) MUSCLE project for linking smart cards to Linux systems"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.I.S.T."
+      }
+    ],
+    "title": [
+      "National Institute of Standards and Technology (NIST), USA standards"
+    ],
+    "type": null,
+    "url": [
+      "http://www.nist.gov/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.S.A."
+      }
+    ],
+    "title": [
+      "National Security Agency (NSA), USA information about security and cryptography"
+    ],
+    "type": null,
+    "url": [
+      "http://www.nsa.gov/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oki",
+        "given": "Oki]"
+      }
+    ],
+    "note": [
+      "Protechno] Protechno Card GmbH, Germany manufacturer of desktop personalization machinery"
+    ],
+    "title": [
+      "Japan manufacturer of smart card microcontrollers and terminals",
+      "OMA] Open Mobile Alliance successor to the WAP Forum http://www.openmobilealliance.org [Omni] Omnikey smart card terminals http://www.omnikey.com [Orga] Orga GmbH, Germany smart card manufacturer http://www.orga.com/ [PC/SC] PC/SC Working Group, USA PC/SC specification http://www.smartcardsys.com/ [Philips] Philips, Germany manufacturer of smart card microcontrollers"
+    ],
+    "type": null,
+    "url": [
+      "http://www.oki.com/",
+      "http://www.oki.co.jp/",
+      "http://www.philips.com/",
+      "http://www.semiconductors.philips.com/",
+      "http://www.protechno-card.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Inc",
+        "given": "R.S.A.] R.S.A."
+      }
+    ],
+    "note": [
+      "SCA] Smart Card Allliance information about smart cards"
+    ],
+    "title": [
+      "USA cryptography, PKCS specifications"
+    ],
+    "type": null,
+    "url": [
+      "http://www.rsa.com/",
+      "http://www.smartcardallilance.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.C.A.R.D."
+      }
+    ],
+    "title": [
+      "Smart Card Developer Association, USA attacks, software"
+    ],
+    "type": null,
+    "url": [
+      "http://www.scard.org/"
+    ]
+  },
+  {
+    "note": [
+      "SCDK] Smart Card Developer’s Kit book"
+    ],
+    "type": null,
+    "url": [
+      "http://www.scdk.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "Schlumberger] Schlumberger"
+      }
+    ],
+    "title": [
+      "France smart card manufacturer"
+    ],
+    "type": null,
+    "url": [
+      "http://www.slb.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.E.T."
+      }
+    ],
+    "title": [
+      "Secure Electronic Transaction LLC, USA SET home page"
+    ],
+    "type": null,
+    "url": [
+      "http://www.setco.org/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SETEC",
+        "given": "S.E.T.E.C.]"
+      }
+    ],
+    "title": [
+      "Finland smart card manufacturer http://www.setec.fi/ [Siemens] Siemens, Germany smart card operating system"
+    ],
+    "type": null,
+    "url": [
+      "http://www.siemens.com/"
+    ]
+  },
+  {
+    "note": [
+      "Smart Card The Smart Card Club Club"
+    ],
+    "type": null,
+    "url": [
+      "http://www.smartcardclub.co.uk/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.O.S.S.E."
+      }
+    ],
+    "title": [
+      "Simple Operating System for Smartcard Education smart card operating system"
+    ],
+    "type": null,
+    "url": [
+      "http://www.mbsks.franken.de/sosse"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Microelectronics",
+        "given": "S.T.M.] S.T."
+      }
+    ],
+    "title": [
+      "France manufacturer of smart card microcontrollers"
+    ],
+    "type": null,
+    "url": [
+      "http://www.st.com/"
+    ]
+  },
+  {
+    "location": [
+      "Belgium cryptography"
+    ],
+    "publisher": [
+      "UCL] UCL Microelectronics Laboratory"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.dice.ucl.ac.be/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Forum",
+        "given": "U.M.T.S."
+      }
+    ],
+    "note": [
+      "USB] USB",
+      "Verifone] Verifone Inc., USA terminal manufacturer"
+    ],
+    "title": [
+      "UMTS Forum information about UMTS"
+    ],
+    "type": null,
+    "url": [
+      "http://www.umts-forum.org/",
+      "http://www.usb.org/",
+      "http://www.verifone.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "W.A.P."
+      }
+    ],
+    "title": [
+      "WAP Forum information about WAP"
+    ],
+    "type": null,
+    "url": [
+      "http://www.wapforum.org/"
+    ]
+  }
+]
