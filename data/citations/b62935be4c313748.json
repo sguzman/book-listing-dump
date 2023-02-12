@@ -1,0 +1,2568 @@
+[
+  {
+    "note": [
+      "• Security protocols—the AH [RFC2402] and the ESP [RFC2406]."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "• Security associations—definition of the Security Policy Database (SPD) and the Security Association Database (SAD), as well as the management and usage of security associations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Poikselka",
+        "given": "The I.M.S.Miikka"
+      },
+      {
+        "family": "Mayer",
+        "given": "Georg"
+      },
+      {
+        "family": "Khartabil",
+        "given": "Hisham"
+      },
+      {
+        "family": "Niemi",
+        "given": "Aki"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3GPP"
+    ],
+    "container-title": [
+      "3GPP TS 26.235 \"Packet-switched multimedia applications; Default codecs\". 3GPP TS 26.236 \"Packet-switched conversational multimedia applications; Transport protocols\". 3GPP TS 29.198 \"Open Service Access (OSA); Application Programming Interface (API), Multiple parts\". 3GPP TS 29.207 \"Policy control over Go interface\", June 2003. 3GPP TS 29.208 \"End-to-end Quality of Service (QoS) Signaling flows\". 3GPP TS 29.228 \"IP Multimedia (IM) Subsystem Cx and Dx Interfaces; Signaling flows and message contents\". 3GPP TS 29.229"
+    ],
+    "note": [
+      "\"Cx and Dx interfaces based on the Diameter protocol; Protocol details\", June 2003."
+    ],
+    "title": [
+      "TS 26.234 \"Transparent end-to-end packet-switched streaming service (PSS); Protocols and codecs\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3GPP"
+    ],
+    "container-title": [
+      "3GPP TS 31.103 \"Characteristics of the IP Multimedia Services Identity Module (ISIM) application\". 3GPP TS 32.200 \"Telecommunication management; Charging management; Charging principles\", June 2003. 3GPP TS 32.225 \"Telecommunication management; Charging management; Charging data description for the IP Multimedia Subsystem (IMS)\", June 2003. 3GPP TS 32.235 \"Charging data description for the IP Multimedia Subsystem (IMS)\""
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "title": [
+      "TS 29.329 \"Sh interface based on the Diameter protocol\"",
+      "3GPP TS 31.102 \"Characteristics of the USIM Application\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3GPP"
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "title": [
+      "TS 33.102 \"3G security; Security architecture\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3GPP"
+    ],
+    "date": [
+      "2001-04"
+    ],
+    "title": [
+      "TS 33.120 \"Security Objectives and Principles\""
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3GPP"
+    ],
+    "container-title": [
+      "3GPP TS 33.222 \"Generic Authentication Architecture (GAA); Access to Network Application Functions using Secure Hypertext Transfer Protocol (HTTPS)\", February 2004. 3GPP TS 33.310 \"Network Domain Security; Authentication Framework (NDS/AF)\""
+    ],
+    "date": [
+      "2003-06",
+      "2003-06",
+      "2003-12",
+      "2003-12"
+    ],
+    "genre": [
+      "TS 33.203",
+      "3GPP TS 33.220"
+    ],
+    "issue": [
+      "210"
+    ],
+    "title": [
+      "3G security; Access security for IP-based services\"",
+      "3G security; Network Domain Security (NDS); IP network layer security\"",
+      "3G security; Generic Authentication Architecture (GAA); Generic Bootstrapping Architecture\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33",
+      "3GPP"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Internet Engineering Task Force RFC0791 Postel",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1981-09"
+    ],
+    "genre": [
+      "STD 5,"
+    ],
+    "title": [
+      "Internet Protocol\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC0793 Postel",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1981-09"
+    ],
+    "genre": [
+      "STD 7,"
+    ],
+    "title": [
+      "Transmission Control Protocol\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC1305 Mills",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1992-03"
+    ],
+    "title": [
+      "Network Time Protocol (Version 3) Specification, Implementation\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC1321 Rivest",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1992-04"
+    ],
+    "title": [
+      "The MD5 Message-Digest Algorithm\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "RFC 1633 Braden, R., Clark, D. and S. Shenker"
+      }
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "title": [
+      "Integrated Services in the Internet Architecture: An Overview\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "RFC 1851 Kara, P., Metzger, P. and W. Simpson"
+      },
+      {
+        "family": "RFC2104 Krawczyk",
+        "given": "H."
+      },
+      {
+        "family": "Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Canetti",
+        "given": "R."
+      },
+      {
+        "family": "RFC2246 Dierks",
+        "given": "T."
+      },
+      {
+        "family": "Allen",
+        "given": "C."
+      },
+      {
+        "family": "Treese",
+        "given": "W."
+      },
+      {
+        "family": "Karlton",
+        "given": "P."
+      },
+      {
+        "family": "Freier",
+        "given": "A."
+      },
+      {
+        "family": "Kocher",
+        "given": "P."
+      },
+      {
+        "family": "RFC2327 Handley",
+        "given": "M."
+      },
+      {
+        "family": "Jacobson",
+        "given": "V."
+      },
+      {
+        "family": "RFC2396 Berners-Lee",
+        "given": "T."
+      },
+      {
+        "family": "Fielding",
+        "given": "R."
+      },
+      {
+        "family": "U.C.",
+        "given": "Irvine"
+      },
+      {
+        "family": "Masinter",
+        "given": "L."
+      },
+      {
+        "family": "RFC2401 Kent",
+        "given": "S."
+      },
+      {
+        "family": "Atkinson",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1995-09",
+      "1997-02",
+      "1999-01",
+      "1998-04",
+      "1998-08",
+      "1998-11",
+      "1998-11"
+    ],
+    "note": [
+      "RFC2402 Kent, S. and R. Atkinson, \"IP Authentication Header\", November 1998. RFC2403 Madson, C. and R. Glenn, \"The Use of HMAC-MD5-96 within ESP and AH\","
+    ],
+    "title": [
+      "The ESP Triple DES Transform\"",
+      "HMAC: Keyed-Hashing for Message Authentication\"",
+      "The TLS Protocol Version 1.0\"",
+      "SDP: Session Description Protocol\"",
+      "Uniform Resource Identifiers (URI): Generic Syntax\"",
+      "Security Architecture for the Internet Protocol\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC2404 Madson",
+        "given": "C."
+      },
+      {
+        "family": "Glenn",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1998-11"
+    ],
+    "title": [
+      "The Use of HMAC-SHA-1-96 within ESP and AH\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC2406 Kent",
+        "given": "S."
+      },
+      {
+        "family": "Atkinson",
+        "given": "R."
+      },
+      {
+        "family": "RFC2407 Piper",
+        "given": "D."
+      },
+      {
+        "family": "RFC2408 Maughan",
+        "given": "D."
+      },
+      {
+        "family": "Schneider",
+        "given": "M."
+      },
+      {
+        "family": "Schertler",
+        "given": "M."
+      },
+      {
+        "family": "RFC2409 Harkins",
+        "given": "D."
+      },
+      {
+        "family": "Carrel",
+        "given": "D."
+      },
+      {
+        "literal": "RFC2412 Orman, H., \"The OAKLEY Key Determination Protocol\", November"
+      },
+      {
+        "family": "RFC2451 Pereira",
+        "given": "R."
+      },
+      {
+        "family": "Adams",
+        "given": "R."
+      },
+      {
+        "given": "Zorn"
+      }
+    ],
+    "date": [
+      "1998-11",
+      "1998-11",
+      "1998-11",
+      "1998-11",
+      "1998",
+      "1998-11",
+      "1998-12",
+      "1999-01"
+    ],
+    "editor": [
+      {
+        "family": "RFC2475 Blake",
+        "given": "S."
+      },
+      {
+        "family": "Black",
+        "given": "D."
+      },
+      {
+        "family": "Carlson",
+        "given": "M."
+      },
+      {
+        "family": "Davies",
+        "given": "E."
+      },
+      {
+        "family": "Wang",
+        "given": "Z."
+      },
+      {
+        "family": "Weiss",
+        "given": "W."
+      }
+    ],
+    "note": [
+      "RFC2477 Aboba, B. and G."
+    ],
+    "title": [
+      "IP Encapsulating Security Payload (ESP)\"",
+      "The Internet IP Security Domain of Interpretation for ISAKMP\"",
+      "Internet Security Association and Key Management Protocol (ISAKMP)\"",
+      "The Internet Key Exchange (IKE)\"",
+      "The ESP CBC-Mode Cipher Algorithms\"",
+      "An Architecture for Differentiated Service\"",
+      "Criteria for Evaluating Roaming Protocols\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC2486 Aboba",
+        "given": "B."
+      },
+      {
+        "family": "Beadles",
+        "given": "M."
+      },
+      {
+        "family": "RFC2543 Handley",
+        "given": "M."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Schooler",
+        "given": "E."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "RFC2578 McCloghrie",
+        "given": "K."
+      },
+      {
+        "family": "Perkins",
+        "given": "D."
+      },
+      {
+        "family": "Schoenwaelder",
+        "given": "J."
+      },
+      {
+        "family": "Case",
+        "given": "J."
+      },
+      {
+        "family": "McCloghrie",
+        "given": "K."
+      },
+      {
+        "family": "Rose",
+        "given": "M."
+      },
+      {
+        "family": "Waldbusser",
+        "given": "S."
+      },
+      {
+        "family": "RFC2616 Fielding",
+        "given": "R."
+      },
+      {
+        "family": "Gettys",
+        "given": "J."
+      },
+      {
+        "family": "Mogul",
+        "given": "J."
+      },
+      {
+        "family": "Nielsen",
+        "given": "H."
+      },
+      {
+        "family": "Masinter",
+        "given": "L."
+      },
+      {
+        "family": "Leach",
+        "given": "P."
+      },
+      {
+        "family": "Berners-Lee",
+        "given": "T."
+      },
+      {
+        "family": "Stewart",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1999-01",
+      "1999-03",
+      "1999-04",
+      "1999-06",
+      "1999-06"
+    ],
+    "genre": [
+      "STD 58,"
+    ],
+    "note": [
+      "RFC2617 Franks,"
+    ],
+    "producer": [
+      {
+        "family": "J.",
+        "given": "Hallam-Baker"
+      },
+      {
+        "family": "P.",
+        "given": "Hosteller"
+      },
+      {
+        "family": "J.",
+        "given": "Lawrence"
+      },
+      {
+        "family": "S.",
+        "given": "Leach"
+      },
+      {
+        "family": "P.",
+        "given": "Luotonen"
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "title": [
+      "The Network Access Identifier\"",
+      "SIP: Session Initiation Protocol\"",
+      "Structure of Management Information Version 2 (SMIv2)\"",
+      "Hypertext Transfer Protocol—HTTP/1.1\"",
+      "HTTP Authentication: Basic and Digest Access Authentication\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "RFC2633 Ramsdell"
+      },
+      {
+        "family": "RFC2748 Durham",
+        "given": "D."
+      },
+      {
+        "family": "Boyle",
+        "given": "J."
+      },
+      {
+        "family": "Cohen",
+        "given": "R."
+      },
+      {
+        "family": "Herzog",
+        "given": "S."
+      },
+      {
+        "family": "Rajan",
+        "given": "R."
+      },
+      {
+        "family": "Sastry",
+        "given": "A."
+      },
+      {
+        "family": "RFC2753 Yavatkar",
+        "given": "R."
+      },
+      {
+        "family": "Pendarakis",
+        "given": "D."
+      },
+      {
+        "family": "Guerin",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "\"A DNS RR for specifying the Location of Services (DNS SRV)\""
+    ],
+    "date": [
+      "1999-06",
+      "2000-01",
+      "2000-01",
+      "2000-02"
+    ],
+    "editor": [
+      {
+        "family": "RFC2782 Gulbrandsen",
+        "given": "A."
+      },
+      {
+        "family": "Vixie",
+        "given": "P."
+      },
+      {
+        "family": "Esibov",
+        "given": "L."
+      }
+    ],
+    "title": [
+      "S/MIME Version 3 Message Specification\"",
+      "The COPS (Common Open Policy Service) Protocol\"",
+      "A Framework for Policy-based Admission Control\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "RFC2806 Vaha-Sipila",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "2000-04"
+    ],
+    "title": [
+      "URLs for Telephone Calls\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "RFC2810 Kalt",
+        "given": "C."
+      },
+      {
+        "family": "RFC2833 Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Petrack",
+        "given": "S."
+      },
+      {
+        "family": "RFC2865 Rigney",
+        "given": "C."
+      },
+      {
+        "family": "Willens",
+        "given": "S."
+      },
+      {
+        "family": "Rubens",
+        "given": "A."
+      },
+      {
+        "family": "Simpson",
+        "given": "W."
+      },
+      {
+        "family": "RFC2915 Mealling",
+        "given": "M."
+      },
+      {
+        "family": "Daniel",
+        "given": "R."
+      },
+      {
+        "family": "RFC2960 Stewart",
+        "given": "R."
+      },
+      {
+        "family": "Xie",
+        "given": "Q."
+      },
+      {
+        "family": "Morneault",
+        "given": "K."
+      },
+      {
+        "family": "Sharp",
+        "given": "C."
+      },
+      {
+        "family": "Schwarzbauer",
+        "given": "H."
+      },
+      {
+        "family": "Taylor",
+        "given": "T."
+      },
+      {
+        "family": "Rytina",
+        "given": "L."
+      },
+      {
+        "family": "Kalla",
+        "given": "M."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      },
+      {
+        "family": "Paxson",
+        "given": "V."
+      },
+      {
+        "family": "RFC2977 Glass",
+        "given": "S."
+      },
+      {
+        "family": "Hiller",
+        "given": "T."
+      },
+      {
+        "family": "Jacobs",
+        "given": "S."
+      },
+      {
+        "family": "Perkins",
+        "given": "C."
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "Smith",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "October",
+      "October"
+    ],
+    "date": [
+      "2000-04",
+      "2000-05",
+      "2000-06",
+      "2000-09",
+      "2000",
+      "2000",
+      "2001-03"
+    ],
+    "note": [
+      "RFC3084",
+      "RFC3169 Beadles, M. and D. Mitton, \"Criteria for Evaluating Network Access Server Protocols\", September 2001."
+    ],
+    "producer": [
+      {
+        "family": "Chan",
+        "given": "K."
+      },
+      {
+        "family": "Seligson",
+        "given": "J."
+      },
+      {
+        "family": "Durham",
+        "given": "D."
+      },
+      {
+        "family": "Gai",
+        "given": "S."
+      },
+      {
+        "family": "McCloghrie",
+        "given": "K."
+      },
+      {
+        "family": "Herzog",
+        "given": "S."
+      },
+      {
+        "family": "Reichmeyer",
+        "given": "F."
+      },
+      {
+        "given": "Yavatkar"
+      }
+    ],
+    "title": [
+      "Internet Relay Chat: Architecture\"",
+      "RTP Payload for DTMF Digits, Telephony Tones and Telephony Signals\"",
+      "Remote Authentication Dial In User Service (RADIUS)\"",
+      "The Naming Authority Pointer (NAPTR) DNS Resource Record\"",
+      "Stream Control Transmission Protocol\"",
+      "Mobile IP Authentication, Authorization, and Accounting Requirements\"",
+      "COPS Usage for Policy Provisioning (COPS-PR)\""
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RFC3261 Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Johnston",
+        "given": "A."
+      },
+      {
+        "family": "Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Sparks",
+        "given": "R."
+      },
+      {
+        "family": "Handley",
+        "given": "M."
+      },
+      {
+        "family": "Schooler",
+        "given": "E."
+      },
+      {
+        "family": "RFC3262 Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "RFC3263 Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "RFC3264 Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Roach",
+        "given": "RFC3265 A.B."
+      },
+      {
+        "family": "RFC3310 Niemi",
+        "given": "A."
+      },
+      {
+        "family": "Arkko",
+        "given": "J."
+      },
+      {
+        "family": "Torvinen",
+        "given": "V."
+      },
+      {
+        "family": "RFC3311 Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "RFC3312 Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Marshall",
+        "given": "W."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "RFC3313 Marshal",
+        "given": "W."
+      },
+      {
+        "family": "RFC3315 Droms",
+        "given": "R."
+      },
+      {
+        "family": "Bounds",
+        "given": "J."
+      },
+      {
+        "family": "Volz",
+        "given": "B."
+      },
+      {
+        "family": "Lemon",
+        "given": "T."
+      },
+      {
+        "family": "Perkins",
+        "given": "C."
+      },
+      {
+        "family": "Carney",
+        "given": "M."
+      },
+      {
+        "family": "RFC3319 Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Volt",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "October",
+      "October"
+    ],
+    "date": [
+      "2002-06",
+      "2002-06",
+      "2002-06",
+      "2002-06",
+      "2002-06",
+      "2002-09",
+      "2002",
+      "2002",
+      "2003-01",
+      "2003-07",
+      "2003-07",
+      "2003-01",
+      "2003-01"
+    ],
+    "editor": [
+      {
+        "literal": "RFC3320 Price, R., Bormann, C., Christoffersson, J., Hannu, H., Liu, Z. and J. Rosenberg, \"Signaling Compression (SigComp)\""
+      }
+    ],
+    "note": [
+      "RFC3323 Peterson, J., \"A Privacy Mechanism for the Session Initiation Protocol (SIP)\", November 2002. RFC3325 Jenning, C., Peterson, J. and M. Watson, \"Private Extensions to the Session Initiation Protocol (SIP) for Asserted Identity within Trusted Networks\", November 2002. RFC3327 Willis, D. and B. Hoeneisen, \"Session Initiation Protocol (SIP) Extension Header Field for Registering Non-Adjacent Contacts\", December 2002. RFC3329 Arkko, J., Torvinen, V., Camarillo, G., Niemi, A. and T. Haukka, \"Security Mechanism Agreement for the Session Initiation Protocol (SIP)\","
+    ],
+    "title": [
+      "SIP: Session Initiation Protocol\"",
+      "Reliability of Provisional Responses in the Session Initiation Protocol (SIP)\"",
+      "SIP: Locating SIP Servers\"",
+      "An Offer/Answer Model with SDP\"",
+      "Session Initiation Protocol (SlP)-specific Event Notification\"",
+      "Hypertext Transfer Protocol (HTTP) Digest Authentication Using Authentication and Key Agreement (AKA)\"",
+      "The Session Initiation Protocol (SIP) UPDATE Method\"",
+      "Integration of Resource Management and Session Initiation Protocol\"",
+      "Private Session Initiation Protocol (SIP) Extensions for Media Authorization\"",
+      "Dynamic Host Configuration Protocol for IPv6 (DHCPv6)\"",
+      "Dynamic Host Configuration Protocol (DHCPv6) Options for Session Initiation Protocol (SIP) Servers\""
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RFC3388 Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Eriksson",
+        "given": "G."
+      },
+      {
+        "family": "Holler",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "RFC3411 Harrington",
+        "given": "D."
+      },
+      {
+        "family": "Presuhn",
+        "given": "R."
+      },
+      {
+        "family": "Wijnen",
+        "given": "B."
+      },
+      {
+        "family": "RFC3418 Presuhn",
+        "given": "R."
+      },
+      {
+        "family": "RFC3428 Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "RFC3455 Garcia-Martin",
+        "given": "M."
+      },
+      {
+        "family": "Henrikson",
+        "given": "E."
+      },
+      {
+        "family": "Mills",
+        "given": "D."
+      },
+      {
+        "family": "RFC3485 Garcia-Martin",
+        "given": "M."
+      },
+      {
+        "family": "Bormann",
+        "given": "C."
+      },
+      {
+        "family": "Ott",
+        "given": "J."
+      },
+      {
+        "family": "Price",
+        "given": "R."
+      },
+      {
+        "family": "Roach",
+        "given": "A.B."
+      },
+      {
+        "family": "Camarillo",
+        "given": "RFC3486 G."
+      },
+      {
+        "family": "Sparks",
+        "given": "RFC3515 R."
+      },
+      {
+        "family": "RFC3520 Hamer",
+        "given": "L.-N."
+      },
+      {
+        "family": "Gage",
+        "given": "B."
+      },
+      {
+        "family": "Kosinski",
+        "given": "B."
+      },
+      {
+        "family": "Shieh",
+        "given": "H."
+      },
+      {
+        "family": "RFC3524 Camarillo",
+        "given": "G."
+      },
+      {
+        "family": "Monrad",
+        "given": "A."
+      },
+      {
+        "family": "RFC3525 Groves",
+        "given": "C."
+      },
+      {
+        "family": "Pantaleo",
+        "given": "M."
+      },
+      {
+        "family": "Anderson",
+        "given": "T."
+      },
+      {
+        "family": "Taylor",
+        "given": "T."
+      },
+      {
+        "given": "Casner"
+      }
+    ],
+    "container-title": [
+      "February",
+      "April",
+      "April",
+      "\"RTP Profile for Audio and Video Conferences with Minimal Control\""
+    ],
+    "date": [
+      "2002-12",
+      "2002-12",
+      "2002-12",
+      "2002-09",
+      "2003-01",
+      "2003-02",
+      "2003",
+      "2003",
+      "2003-04",
+      "2003-06",
+      "2003-07",
+      "2003-07"
+    ],
+    "editor": [
+      {
+        "family": "H.",
+        "given": "Casner"
+      },
+      {
+        "family": "S.",
+        "given": "Frederick"
+      },
+      {
+        "given": "R."
+      },
+      {
+        "family": "Jacobson",
+        "given": "V."
+      }
+    ],
+    "genre": [
+      "STD 62,",
+      "STD 62,"
+    ],
+    "note": [
+      "RFC3539 Aboba, B. and J. Wood, \"Authentication, Authorization and Accounting (AAA) Transport Profile\", June 2003. RFC3550 Schulzrinne,",
+      "RFC3551 Schulzrinne, H. and S.",
+      "RFC3588 Calhoun, P., Loughney, J., Guttman, E., Zorn, G. and J. Arkko, \"Diameter Base Protocol\", September 2003. RFC3589 Loughney, J., \"Diameter Command Codes for Third Generation Partnership Project (3GPP) Release 5\", September 2003. RFC3608 Willis, D. and B. Hoeneisen, \"Session Initiation Protocol (SIP) Extension Header Field for Service Route Discovery During Registration\", December 2002"
+    ],
+    "title": [
+      "Grouping of Media Lines in the Session Description Protocol (SDP)\"",
+      "An Architecture for Describing Simple Network Management Protocol (SNMP) Management Frameworks\"",
+      "Management Information Base (MIB) for the Simple Network Management Protocol (SNMP)\"",
+      "Session Initiation Protocol Extension for Instant Messaging\"",
+      "Private Header (P-Header) Extensions to the Session Initiation Protocol (SIP) for the 3rd-Generation Partnership Project (3GPP)\"",
+      "The Session Initiation Protocol (SIP) and Session Description Protocol (SDP) Static Dictionary for Signaling Compression (SigComp)\"",
+      "Compressing the Session Initiation Protocol (SIP)\"",
+      "The Session Initiation Protocol (SIP) REFER Method\"",
+      "Session Authorization Policy Element\"",
+      "Mapping of Media Streams to Resource Reservation Flows\"",
+      "Gateway Control Protocol Version 1\"",
+      "RTP: A Transport Protocol for Real-Time Applications\""
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2003"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Draft-hakala- Hakala",
+        "given": "H."
+      },
+      {
+        "family": "Draft-ietf-aaa- Calhoun",
+        "given": "P."
+      },
+      {
+        "family": "Johansson",
+        "given": "T."
+      },
+      {
+        "family": "Perkins",
+        "given": "C."
+      },
+      {
+        "family": "Draft-ietf-aaa- Calhoun",
+        "given": "P."
+      },
+      {
+        "family": "Zorn",
+        "given": "G."
+      },
+      {
+        "family": "Spence",
+        "given": "D."
+      },
+      {
+        "family": "Mitton",
+        "given": "D."
+      },
+      {
+        "family": "Draft-ietf-aaa-eap Eronen",
+        "given": "P."
+      },
+      {
+        "family": "Hiller",
+        "given": "T."
+      },
+      {
+        "family": "Zorn",
+        "given": "G."
+      },
+      {
+        "family": "Draft-ietf-enum- Faltstrom",
+        "given": "P."
+      },
+      {
+        "family": "Mealling",
+        "given": "M."
+      },
+      {
+        "family": "Draft-ietf-enum-sip Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Draft-ietf-impp- Atkins",
+        "given": "D."
+      },
+      {
+        "family": "Klyne",
+        "given": "G."
+      },
+      {
+        "family": "Draft-ietf-impp- Sugano",
+        "given": "H."
+      },
+      {
+        "family": "Fujimoto",
+        "given": "S."
+      },
+      {
+        "family": "Draft-ietf-impp-im Peterson",
+        "given": "J."
+      },
+      {
+        "family": "Draft-ietf-iptel- Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Vaha-Sipila",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "Work In Progress",
+      "\"SDP: Session sdp-new Description Protocol\", Work In Progress",
+      "Event Notification Extension for Resource Lists\", Work In Progress",
+      "\"A Presence Event Package for the Session Initiation presence Protocol (SIP)\", Work In Progress"
+    ],
+    "date": [
+      "2003-10",
+      "2003-10",
+      "2003-10",
+      "2003-10",
+      "2003-10",
+      "2003-11",
+      "2004-02",
+      "2003-01",
+      "2003-05",
+      "2003-10",
+      "2003-06",
+      "2003-03",
+      "2003-06",
+      "2003-01",
+      "2002-12",
+      "2003-10"
+    ],
+    "director": [
+      {
+        "family": "Draft-ietf-aaa- Garcia-Martin",
+        "given": "M."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Progress",
+        "given": "Work In"
+      },
+      {
+        "family": "November. Draft-ietf-geopriv- Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Morris",
+        "given": "J."
+      },
+      {
+        "family": "Tschofenig",
+        "given": "H."
+      },
+      {
+        "family": "Cuellar",
+        "given": "J."
+      },
+      {
+        "family": "Polk",
+        "given": "J."
+      },
+      {
+        "family": "J. Rosenberg",
+        "particle": "commom-policy"
+      },
+      {
+        "family": "Draft-ietf-mmusic- Handley",
+        "given": "M."
+      },
+      {
+        "family": "Jacobson",
+        "given": "V."
+      },
+      {
+        "family": "Perkins",
+        "given": "C."
+      },
+      {
+        "family": "Draft-ietf-simple- Roach",
+        "given": "A."
+      },
+      {
+        "family": "Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Campbell",
+        "given": "B."
+      },
+      {
+        "family": "Draft-ietf-simple- Rosenberg",
+        "given": "J."
+      }
+    ],
+    "note": [
+      "November 2002 diameter-credit- (Obsolete) control-05.txt Draft-ietf-aaa- Hakala, H., \"Diameter Credit Control Application\", November 2002 diameter-cc Work In Progress,",
+      "Draft-ietf-simple- Rosenberg, J., \"A Watcher Information Event Template-package for winfo-package the Session Initiation Protocol (SIP)\", Work In Progress,",
+      "Draft-ietf-simple- Rosenberg, J., \"The Extensible Markup Language (XML) xcap Configuration Access Protocol (XCAP)\", Work In Progress, Draft-ietf-simple- Rosenberg, J., \"Extensible Markup Language (XML) Configuration xcap-auth-usage Access Protocol (XCZP)\", Work In Progress,"
+    ],
+    "title": [
+      "Diameter Credit-control Application\"",
+      "Diameter Mobile IPv4 diameter-mobileip Application\"",
+      "Diameter Network diameter-nasreq Access Server Application\"",
+      "Diameter Session Initiation Protocol (SIP) diameter-sip-app Application\"",
+      "Diameter Extensible Authentication Protocol (EAP) Application\"",
+      "The E.I64 to URI DDDS rfc2916bis Application (ENUM)\"",
+      "enumservice registration for SIP Addresses-of-Record\"",
+      "Common Policy\"",
+      "Common Presence and Instant cpim-msgfmt Messaging: Message Format\"",
+      "Presence Information Data Format cpim-pidf (PIDF)\"",
+      "Common Profile for Instant Messaging (CPIM)\"",
+      "The tel URI for Telephone rfc2806bis Numbers\"",
+      "A Session Initiation event-list Protocol (SIP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Draft-ietf-simple- Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Draft-ietf-sip-publish Niemi",
+        "given": "A."
+      },
+      {
+        "family": "Draft-ietf-sipping- Rosenberg",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Work In Progress",
+      "Work In Progress",
+      "\"A Session Initiation Protocol conference- (SIP) Event Package for Conference State\", Work In Progress, package September 2003",
+      "\"The Conference Policy Control Protocol\", Work In Progress",
+      "Work In Progress, simple-rules February 2004",
+      "October"
+    ],
+    "date": [
+      "2003-02",
+      "2003-10",
+      "2002",
+      "2004-04"
+    ],
+    "director": [
+      {
+        "family": "Draft-rosenberg- Rosenberg",
+        "given": "J."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Draft-ietf-sipping- Rosenberg",
+        "given": "J."
+      },
+      {
+        "family": "Schulzrinne",
+        "given": "H."
+      },
+      {
+        "family": "Draft-ietf-xcon-cpcp Khartabil",
+        "given": "H."
+      },
+      {
+        "family": "Koskelainen",
+        "given": "P."
+      }
+    ],
+    "note": [
+      "Draft-rosenberg- Rosenberg, J., \"An Extensible Markup Language (XML) simple-commom- Representation for Expressing Policy Capabilities\". policy-caps Draft-rosenberg- Rosenberg, J., \"An Extensible Markup Language (XML) simple-pres-policy- Representation for Expressing Presence Policy Capabilities\", Work In caps Progress, February 2004."
+    ],
+    "title": [
+      "An Extensible Markup Language (XML) xcap-list-usage Configuration Access Protocol (XCAP) Usage for Resource Lists\"",
+      "Session Initiation Protocol (SIP) Extension for Event State Publication\"",
+      "A Session Initiation Protocol (SIP) Event Package reg-event for Registrations\"",
+      "Presence Authorization Rules\""
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "2002-03"
+    ],
+    "genre": [
+      "ITU-T Recommendation H.248.1,"
+    ],
+    "title": [
+      "International Telecommunications Union (ITU) ITU.H248.1 \"Gateway Control Protocol: Version 1\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "ITU-T G.711 \"Pulse code modulation (PCM) of voice frequencies\""
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "ITU-T G.726"
+    ],
+    "title": [
+      "40, 32, 24, 16kbit/s adaptive differential pulse code modulation (ADPCM)\""
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "AOR see address of record 44-45",
+      "AAAA",
+      "AUID",
+      "AKA",
+      "Function",
+      "binding"
+    ],
+    "date": [
+      "198, 202, 208, 210, 212",
+      "228",
+      "authentication 8",
+      "295",
+      "253"
+    ],
+    "genre": [
+      "access point name 60,"
+    ],
+    "note": [
+      "171, 173, 175, 212, AVP see attribute value pair; audio video 219, 229, 255, 261-265, 270, 293, 301, profile 313-314,",
+      "Backus-Naur Form grammar 270, 294 375, 377-379, 383, 385, 389 bearer charging function 97 application server 22, 24-26, 29, 32, 39-44, BGCF see Breakout Gateway Control 58,",
+      "410 Index"
+    ],
+    "pages": [
+      "283–284,",
+      "225–228,",
+      "235–238,",
+      "324 241–242,",
+      "314–315, 335–340, 344 164–165,",
+      "378 217–222,",
+      "241–242,",
+      "290–291 49–50,",
+      "61–66,",
+      "271–274, 176–177, 181–182,",
+      "278–281,",
+      "338–340, 355–359",
+      "61–62,",
+      "88–91,",
+      "25–27,",
+      "44–45,",
+      "185–186, 239–241,",
+      "70–71,",
+      "113–114, 126–127,",
+      "137–139,",
+      "168–169,",
+      "327–328, 330–340,",
+      "361–364, 369–370,",
+      "94–98, 104–105, 107–109,",
+      "212–215, 249–250,",
+      "88–89,",
+      "176–178, 255–257,",
+      "273–274, 279, 305"
+    ],
+    "title": [
+      "AAA see authentication, authorization and 241-242, 304, 314-315, 335-340, 344 accounting audio video profile 74, 80-81, 84, 94, 98",
+      "68-72, 119, 125, 130, activity-status 389 133, 137-140, 142-144, 146, 148-149, ad hoc conference 3, 387-388 153, 156, 160-161, 168-169, 171, address of record 176-180",
+      "68-71, 139-143, 185, authentication, authorization and 280-281 accounting 331-332, 334-336, 339, 343 Allow-Events header 288 authorization 8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "131",
+      "317 101, 223",
+      "233",
+      "82, 87",
+      "304",
+      "369",
+      "230, 236, 238",
+      "22-23, 25, 30-36, 38, 40, 266, 277",
+      "54",
+      "268",
+      "195",
+      "320 327-332, 335",
+      "22, 38",
+      "21, 23, 25, 32-33, 36, 38",
+      "48, 75, 77-78, 80, 82",
+      "application 3, 5, 9-10, 13, 15-18, 22, 95-96,98-99, 101, 103, 112, 135",
+      "29, 42",
+      "52, 54-56, 59-61, 140-143, 169",
+      "245",
+      "77, 86, 91, 97-98, 103-105, 107, 247, 278, 281, 298, 331-332, 338-339, 109",
+      "135",
+      "343, 354, 370, 379 142, 144",
+      "317, 319, 324",
+      "342, 344",
+      "67, 91",
+      "166, 182, 195",
+      "77",
+      "127, 129, 133",
+      "264 181, 186, 264, 271"
+    ]
+  },
+  {
+    "pages": [
+      "171–173,",
+      "204–210,",
+      "221–222,",
+      "217–218,",
+      "271–275, 271–274, 277 279–280,",
+      "389"
+    ],
+    "title": [
+      "Contact header 129-130, 132-133, call control 25, 27, 109, 114, 121, 261, 388 136-137, 146, 150-152, 163-165, Call-ID header 129-130, 132-133"
+    ],
+    "type": null,
+    "volume": [
+      "136",
+      "175, 178, 186, 202",
+      "186, 201-202, 215",
+      "265, 267, 212",
+      "222, 265, 267",
+      "293, 295, 300"
+    ]
+  },
+  {
+    "container-title": [
+      "CPS see conference policy server",
+      "CANCEL"
+    ],
+    "note": [
+      "325, CRLF see carriage return line feed 340, 363 CSCF see Call Session Control Protocol CAMEL see Customized Applications for CSeq header 129-130, 132-133, 136, 186, Mobile network Enhanced Logic 201-202, 221-222, 265,",
+      "290 carriage return line feed 266-267, 303 Customized Applications for Mobile CCF see Charging Collection Function network Enhanced Logic 5, 25-26, 42,"
+    ],
+    "pages": [
+      "48–52,",
+      "57–58,",
+      "265 64–67, 69–70,",
+      "212–219,",
+      "255–257,",
+      "271–273,",
+      "277–278 275–277,"
+    ],
+    "title": [
+      "Call Session Control Protocol 15, 18-26, Content-Length header 129-130, 132-133, 29-36, 38-40",
+      "72-75, 77-78, 83-86, Content-Type header 175, 265 89-91, 93-97, 99, 101-104, 106-115, COPS see Common Open Policy Service 119, 121, 123, 125-127, 129-135, CPCP see Conference Policy Control 137-144, 146, 148, 150-160, 162-168, Protocol 170-175, 177-182,184-186, 188, cpim (message-cpim) 289"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43^5",
+      "54",
+      "136, 171, 173, 175, 186",
+      "377 191-192, 194-199, 201-210",
+      "239-242, 244-250, 253",
+      "267",
+      "165-166, 266"
+    ]
+  },
+  {
+    "container-title": [
+      "Gateway GPRS Support Node",
+      "HSS see Home Subscriber Server Expires 171-173, 288 HTTP see Hyper Text Transfer Protocol From 5",
+      "Diameter SIP application",
+      "Event header",
+      "From header",
+      "Content-Type",
+      "initial filter criteria",
+      "instant messaging",
+      "Service-Route",
+      "Internet Key Exchange",
+      "Internet Protocol Security"
+    ],
+    "date": [
+      "267, 280",
+      "224",
+      "253, 265",
+      "26",
+      "228, 230, 236, 238",
+      "199, 202-210, integrity 19",
+      "275",
+      "209, 214",
+      "240",
+      "163, 172, 186, 191, 195, 199",
+      "202-203",
+      "199, 202-210"
+    ],
+    "issue": [
+      "tification 130, 180, 184, 189",
+      "eader (cont.) 217-219, 267-268",
+      "ijacking (registration) 278 265, 267"
+    ],
+    "note": [
+      "format (message",
+      "290 255, 257 Event 93, 95, 98, 171, 173, 175, 181, 184, hop-by-hop (security mechanism) 65,",
+      "26, 68, 78, 81, 85, 99, Hyper Text Transfer Protocol 44, 61, 70,",
+      "296 IMS-MGW see Internet Protocol Privacy 68, 194-198, 213, 279, 296 Multimedia Subsystem-Media P-Visited-Network-ID 166, 299 Gateway Function RACK 164, 198, 202, 208, 210, 212, IMS Service Control 30,",
+      "212 Route 129-135,",
+      "213, 299 284, 294, 298, 300, 343 Subscription-State 175, 186, 288, 294 Internet Engineering Task Force 6-9, 17, Supported 221, 271, 273,",
+      "137, 151, Internet Protocol Multimedia Subsystem-155-156, 168-169, 171, 175, 178, 180, Media Gateway Function 27,"
+    ],
+    "pages": [
+      "21–22,",
+      "26–29,",
+      "339–340, 344 92–93,",
+      "319–320,",
+      "345–346, 355–356, 359 344",
+      "331–340, 342–344",
+      "28–29,",
+      "76–78,",
+      "72–73,",
+      "72–73,",
+      "90–91,",
+      "283–284,",
+      "125–126,",
+      "236–237,",
+      "319–321",
+      "65–66,",
+      "288–289,",
+      "76–77, 83–85,",
+      "89–91,",
+      "388 109–110, 113–114,",
+      "140–144,",
+      "157–158, 287–289, 293–294,",
+      "164–165,",
+      "129–130,",
+      "276–277, 296–297,",
+      "164–165,",
+      "182–183,",
+      "274",
+      "356–359,",
+      "385",
+      "129–135,",
+      "140–144,",
+      "285 150–154, 156–161,",
+      "174–175,",
+      "225–226,",
+      "201–210, 212–219, 221–222,",
+      "365–366",
+      "246–250,",
+      "14–15,",
+      "293–296, 298–300,",
+      "271–277,",
+      "271–274, 277",
+      "271–273,",
+      "286–287,",
+      "271–275, 279–280,",
+      "– 389",
+      "265",
+      "73–75,",
+      "132–133,",
+      "132–134,",
+      "271–273,",
+      "204–205,",
+      "275–277,",
+      "288–289,",
+      "336 388",
+      "14–15,",
+      "130–132,",
+      "169–170, 139–140,",
+      "155–157,",
+      "201–209,",
+      "271–277,",
+      "95–97 217–219, 221–222,",
+      "241–242, 290–291",
+      "151–152, 163–165,",
+      "383–384 171–172,",
+      "185–186,",
+      "61–66, 69–70,",
+      "212–218,",
+      "275–276, 279–280,",
+      "139–143,",
+      "185–186,",
+      "285–286, 294–295, 299–300 279–281,",
+      "327–328,",
+      "290 357–359",
+      "134–135,",
+      "263–264, 272–273,",
+      "202–203,",
+      "293–295,",
+      "261–262,",
+      "19–23,",
+      "57,",
+      "356–357, 62–63,",
+      "129–131, 133–135,",
+      "201–203,",
+      "65–66,",
+      "271–277,",
+      "292–293,",
+      "142–144, 151–153,",
+      "389–390 155–161,",
+      "130–132,",
+      "151–154,",
+      "279–280,",
+      "163–165,",
+      "214–215, 332–333, 355–357, 359"
+    ],
+    "title": [
+      "Diameter credit control application gateway",
+      "80, 82-83, Accounting-Answer 94, 96 87, 89-91, 93, 97, 99, 121, 123, Accounting-Request 94 125-126, 135, 201, 240, 245, 247, Digest authentication 143, 281 323-325 discovery 25, 49-50, 72, 126, 137, 198, 273, GBA see Generic Bootstrapping 280, 283, 299 Architecture DNS see domain name system General Packet Radio Service 3, 5-6, DOI 357 12-15, 18, 21, 28-29, 45, 48-50, 60, domain name system 22",
+      "245, 250, 299, 323 Dx 30, 38, 339 Generic Bootstrapping Architecture 71-72 Dynamic Host Configuration Protocol GGSN see Gateway GPRS Support Node 72-73, 126, 365-366 global failure (response) 267 dynamic payload 305, 314-315 global number 269 Gm 30-31, 51-52, 65-66, 68-69, 143-144, 155 ENUM 22, 110-111, 319-320 Go 3, 5, 7-8, 11, 13-14, 18-19, 30-32, 35",
+      "168-169, 179, 185, event notification package 388 192, 205-207, 212, 216, 219, 221, Expires header 171-173, 288 229-231, 238, 240, 242, 245, 253, 262, expires parameter 33-34",
+      "expiry 333 GPRS see General Packet Radio Service Gq 45, 48, 76, 85 fetching 274 focus 255-256, 371, 387-390, 392 header 58, 66, 68-69, 106, 109, 114, forking proxy 48",
+      "FQDN see fully qualified domain name 267-269, 271-277, 279-281, 285-291",
+      "300, 389 Home Subscriber Server 18, 21-24, 32-36",
+      "296, 325 Max-Forwards 129-133, 136, 185, 265, I-CSCF see Interrogating-Call Session 267, 272 Control Function P-Access-Network-Info 165-166, 299 IETF see Internet Engineering Task Force P-Associated-URI 168, 170-171, 300 IKE see Internet Key Exchange Path 129, 135, 199, 205, 294-295 immediate messaging 383-384 P-Called-Party-ID 197, 299-300 impersonating a server 278 P-Preferred-Identity 171-172, 194-195, IMS identity module 54 197"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12",
+      "24",
+      "65, 67, 72",
+      "97, 121, 123, 201, 263",
+      "332, 339-340, 323",
+      "12, 15, 21, Diameter 6",
+      "23",
+      "45, 48, 72",
+      "58",
+      "126",
+      "76",
+      "99, 101, 119, 121, 131, 174, 199, 204, 268",
+      "317, 123",
+      "165, 201",
+      "240",
+      "93, 95, 98, 171, 173, 175, 39, 45, 48, 58, 60, 62",
+      "69, 72, 181, 184, 189, 245",
+      "294, 346, 74",
+      "87",
+      "99, 103, 376, 379",
+      "149, 151-152, 155",
+      "378, 388 160, 162",
+      "75",
+      "264",
+      "309, 311-312, 132-133, 136, 146, 148, 150",
+      "314, 324, 327-328, 330-332, 337, 339, 175, 177",
+      "186, 209",
+      "344, 349, 354",
+      "361, 363",
+      "85, 89, 114, 264, 273",
+      "137",
+      "146,148",
+      "163-172",
+      "22, 34, 69, 105, 110, 170, 178, 180, 183, 186, 192, 194-199, 172",
+      "308, 311, 314",
+      "227, 318-319, 321, 335, 344, 351",
+      "230, 232, 240",
+      "5, 8",
+      "68, 78, 81",
+      "311, 314, 335-337, 85,99, 113, 130-132, 137, 142, 344, 350, 355, 357-358, 376, 378-379, 169-170, 174-175, 182, 194, 201-209, 389-390 213, 215, 224, 227, 253, 267",
+      "Call-ID 129-130, 132-133, 136, 186, 296, 325 201-202, 215, 221-222, 265, 267, fully qualified domain name 126, 268, 286",
+      "146",
+      "280, 150-152, 163-165, 171-173, 175, 178",
+      "222",
+      "293, 295",
+      "175",
+      "3 8 - 3 , 50, 52, 54, 57",
+      "101, 103, CSeq 129-130",
+      "136, 186, 107, 111, 125, 127",
+      "137-142, 201-202, 221-222, 265, 267",
+      "144, 174, 184, 186, 199",
+      "212",
+      "279, 189, 245",
+      "294, 346, 376, 379",
+      "8",
+      "113",
+      "137, 142",
+      "143",
+      "161, 262, 281, 174-175, 182, 194",
+      "213, 215, 369 224, 227, 253, 267",
+      "32",
+      "39, 101, 103-108, 127",
+      "137",
+      "289, 375",
+      "174",
+      "23, 38, 59",
+      "72",
+      "253, 272",
+      "135",
+      "166",
+      "208",
+      "297",
+      "330, 355, RSeq 222",
+      "129",
+      "172, 186, intermediary 68",
+      "199",
+      "290",
+      "98, 233",
+      "287, 289, 305, 331, 378 349, 354 To 16",
+      "27, 36, 38, 43, 54",
+      "65-66",
+      "70, 93, 106, 108, 110, 112, 114, 359 119",
+      "109-111 182, 186, 194, 197",
+      "19, 63",
+      "253, 267",
+      "279",
+      "70, 125, 135",
+      "313, 329-330, 354, 359, 378",
+      "Via 13",
+      "134, 148",
+      "205-210",
+      "297, 327",
+      "212"
+    ]
+  },
+  {
+    "container-title": [
+      "Internet Relay Chat",
+      "PUBLISH",
+      "REGISTER",
+      "media description",
+      "SUBSCRIBE",
+      "Media Gateway Control Function",
+      "message"
+    ],
+    "date": [
+      "191-192, 196, 201, 203, 208, 212, 230",
+      "Function 19",
+      "340 body 8",
+      "227",
+      "271, 276, 289",
+      "194-199, 201-210, format 22",
+      "267",
+      "271",
+      "payload 13, 19-20",
+      "229",
+      "134"
+    ],
+    "genre": [
+      "REFER 293-294,"
+    ],
+    "note": [
+      "293, 298, 384, local URI 274-276 388-390 location server 264, 273 PRACK 164, 198, 202, 208, 210, 212, loose routing 272, 284 217-219, 221-222, 228, 230, 236, 238, loose-route parameter 23, 129-133,",
+      "73, Max-Forwards header 129-133,",
+      "103, 106, Mg 43 109-111, 114-115, 119, 123, 126, MGCF see Media Gateway Control 129-131, 134-135, 144, 146, 148, 154, Function 414 Index Mi 43 P-Access-Network-Info header 165-166, Mj 43-44 299 Mk 29, 44 P-Associated-URI header 168, 170-171, Mm 29-30, 43 300"
+    ],
+    "pages": [
+      "162–164,",
+      "184,",
+      "278–281,",
+      "289–290,",
+      "300–301,",
+      "328–330,",
+      "73–75, 93–95,",
+      "361–366,",
+      "131–132,",
+      "382–385, 391–392 204–205,",
+      "255–257,",
+      "83–84,",
+      "106–109,",
+      "267–268,",
+      "134–135,",
+      "378–379,",
+      "191–192,",
+      "212–217, 219–224,",
+      "229–230, 225–226,",
+      "232–233, 236–241,",
+      "249–250,",
+      "365–366 264–266,",
+      "276–278, 290–291,",
+      "388–390 225–227,",
+      "304–305,",
+      "277–278",
+      "134–135,",
+      "274 276–278, 290–291,",
+      "241–242, 290–291",
+      "285",
+      "382",
+      "330",
+      "32–35,",
+      "49–51,",
+      "126–127, 129–144,",
+      "272 150–153,",
+      "90–91,",
+      "272–274, 294–295, 239–240,",
+      "354 299–300",
+      "276, 302",
+      "112–113,",
+      "171–174,",
+      "287–288,",
+      "26–27,",
+      "93–95, 109–111 388–389",
+      "19–20,",
+      "237–239, 54–55, 57–58, 61–62, 68–70,",
+      "247–249,",
+      "291–292",
+      "90–91,",
+      "97–98,"
+    ],
+    "publisher": [
+      "Internet Security Association and Key"
+    ],
+    "title": [
+      "Management Protocol 65-66, 356-357 239-241, 264-265, 267-268, 271, Interrogating-Call Session Control 273-274",
+      "IPsec see Internet Protocol Security 311-312, 314-315, 355, 357-359 IRC see Internet Relay Chat Messaging ISAKMP see Internet Security Association deferred delivery 383-385 and Key Management Protocol immediate 383-384 ISC see IMS Service Control session-based 383-385 isfocus 389 Method CANCEL",
+      "156-161, 163-170, 172, maximum transfer unit 286 176-177, 179, 181-182, 184-186, 194, media authorization 45"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "385 156, 158",
+      "172, 180, 182",
+      "276",
+      "284",
+      "21-24, 30-36, 38-39, 43, 294, 298",
+      "303, 323",
+      "50, 52",
+      "111, 123, 127, 332-337, 339, 350-351, 357",
+      "129",
+      "134, 174, 186, 199, 375",
+      "210, 216, 250",
+      "106, 126, 175, 177, 180, 186, 223, INVITE 39, 51-52, 78",
+      "94",
+      "244",
+      "294, 111, 123, 125, 129",
+      "148, 153, 376",
+      "389 166",
+      "34, 69, 105, 110, 170, 172",
+      "227",
+      "280, 308, 311, 314",
+      "246",
+      "256, 318-319, 321, 335, 344, 351",
+      "273",
+      "22, 45, 66, 68, 293, 298, 384",
+      "268, 288",
+      "165-166, 266",
+      "jitter 312 INVITE 39, 51-52, 78, 83-84, 94, 106-109, 111, 123, 125, 129",
+      "layering 17, 99 148, 153, 166, 191-192, 194-199, Ir parameter 284, 285 201-210, 212-217, 219-224, 227, local number 269 229-230, 232-233, 236-241, 246, local sequence number 274-276 249-250, 256, 264-266, 271, 273",
+      "164",
+      "185, 218, 272",
+      "289, 377, 379",
+      "389 MAC 143, 155, 158, 328",
+      "19",
+      "40",
+      "136, 185, 112, 123",
+      "146, 148, 265, 267",
+      "48, 78",
+      "135, 264, 266, 269",
+      "245, 247, 298",
+      "78, 262",
+      "55,96",
+      "18",
+      "216",
+      "294, 378, 381",
+      "43, 67",
+      "8",
+      "23, 27, 30-32, 35, 45, 50, UPDATE 164, 198, 202, 230",
+      "73, 77, 85",
+      "276",
+      "88",
+      "94"
+    ]
+  },
+  {
+    "container-title": [
+      "MMS see Multimedia Messaging Service P-Called-Party-ID header 197",
+      "mode 289 Multimedia Resource Function path",
+      "NAF see Network Application Function",
+      "NAI see network access identifier PDF see Policy Decision Function naming authority pointer 73, 131, 283, PDP see Packet Data Protocol",
+      "decision point NAPTR see naming authority pointer PDP context 21",
+      "mobility",
+      "Multimedia Messaging Service",
+      "NDS",
+      "policy information base",
+      "PRACK"
+    ],
+    "date": [
+      "197",
+      "245"
+    ],
+    "genre": [
+      "P-Visited-Network-ID header 166,",
+      "PA see presence agent 344-345,",
+      "policy decision point 349-352 226-228,"
+    ],
+    "issue": [
+      "header 129, 135, 199, 205"
+    ],
+    "note": [
+      "network access identifier 54, 332 236-237, 240-242, 245, 247, 249, 253, Network Application Function 71-72 323-325 non-adjacent contact 137, 294 PIB see policy information base non-repudiation 279 Policy Decision Function 18, 20-21, 31, 45, 48, 76-78, 80-83, 85-91, 99, OCS see Online Charging System 239-240, 298 offer/answer 25,",
+      "228, 230, 236, 238, Online Charging System 23-25, 95, 98 241-242, 290-291 Open Service Architecture 5, 25-26, 39 precondition 34, 207, 219, 230, 232-235,"
+    ],
+    "pages": [
+      "299–300",
+      "273 –",
+      "48–52,",
+      "345 64–67,",
+      "363 3–4,",
+      "11–13,",
+      "24–27,",
+      "– – 171–172,",
+      "66–67,",
+      "194–195,",
+      "223–224,",
+      "323–324,",
+      "383–385,",
+      "77–78, 82–91,",
+      "125–126,",
+      "324–325,",
+      "236–237, 240–242,",
+      "93–98",
+      "294–295,",
+      "294–295",
+      "51–52",
+      "225–227,",
+      "304–305, 311–312,",
+      "357–359",
+      "317–320, 366",
+      "77–78,",
+      "155 82–91,",
+      "125–126,",
+      "229,",
+      "219–221,",
+      "235–238, 241–242,",
+      "354 276–277, 291–293,",
+      "307–309,",
+      "333–337,",
+      "385 217–219, 221–222,"
+    ],
+    "title": [
+      "69-70, 72-73, 77-78, 83-86, Mr 44 89-91, 93-95, 99, 101, 114-115, 119, MRFC see Multimedia Resource Function 121, 123, 125-126, 129-131, 134-135, Controller 137, 139-142, 144, 146, 148, 150-160, MRFP see Multimedia Resource Function 162-168, 170, 172-175, 177, 180, 182, Processor 185-186, 191, 194-199, 201-203, MTU see maximum transfer unit 205-210, 216-219, 239-242, 245-250, multicast 261, 278",
+      "387 Packet Data Protocol 21, 29, 45, 50, 72",
+      "Multimedia Resource Function 247, 249, 253, 323-325 Controller 18"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3, 5, 28, 262",
+      "15, 19-22, 29-32, 45",
+      "Mp 44",
+      "365 253, 325",
+      "6, 8",
+      "17",
+      "36",
+      "38, 43, 49, 59",
+      "83, 114, 119",
+      "296 121, 123, 126, 192, 201, 216",
+      "299 255, 261, 263, 276, 301, 317",
+      "363, 377",
+      "60, 245",
+      "99, 123",
+      "129",
+      "385 192, 224, 229",
+      "24, 44, 67",
+      "23, 73, 101, 275, 285",
+      "Mw 29-32",
+      "payload 13, 19-20, 22, 45, 66, 68",
+      "229, 268, 288",
+      "314-315, 355",
+      "29, 45, 50, 72",
+      "61, 63-66, 68",
+      "99",
+      "129, 192, 224",
+      "32, 38, 85, 105",
+      "231",
+      "352",
+      "298",
+      "164, 198, 202, 208, 210, 212",
+      "365"
+    ]
+  },
+  {
+    "container-title": [
+      "Cx"
+    ],
+    "date": [
+      "198, 201",
+      "229",
+      "266, 268",
+      "protocol stack 96, 208",
+      "proxy 19-20",
+      "185, 191, 198"
+    ],
+    "genre": [
+      "provisional responses 221-222,"
+    ],
+    "issue": [
+      "42-43"
+    ],
+    "pages": [
+      "165–166, 180–181,",
+      "38–39,",
+      "191–192,",
+      "339–340 224–225,",
+      "339 261–262,",
+      "155 323–324,",
+      "7–8,",
+      "65–66,",
+      "387–388 109–110, 113–114,",
+      "132,",
+      "361 140–144,",
+      "157–158,",
+      "164–165, 168–169,",
+      "205–207,",
+      "221,",
+      "229–231,",
+      "156–157, 159–162,",
+      "276–277, 296–297,",
+      "311–312,"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "139, 143, 155, 161",
+      "30, 32, 34, 36",
+      "52, 75, 103, 106, 184, 189",
+      "219, 133",
+      "279, 289, 301, Gm 30-31, 51-52, 65-66, 68-69, 143-144, 303-304, 307, 311-313, 317, 319",
+      "327-328, 331-332, 336-337, Go 3, 5",
+      "11, 13-14, 18-19, 30-32, 35, 345-346, 350, 354-356, 362-363, 39, 45, 48, 58, 60, 62",
+      "69, 72, 74, 365-366, 369, 371, 376-378, 383-384, 76-77, 83-85, 87, 89-91, 99, 103",
+      "119, 129",
+      "262",
+      "149, 151-152, 155",
+      "229, 273, 160, 162",
+      "179, 185, 290, 298 192",
+      "212, 216, 219",
+      "22-23, 32, 49, 72, 109, 119",
+      "238, 240, 242, 245, 253, 262, 123, 131, 151",
+      "172, 264",
+      "309",
+      "202, 210, 262, 264, 314, 324, 327-328, 330-332, 337, 339"
+    ]
+  },
+  {
+    "container-title": [
+      "quality of service"
+    ],
+    "date": [
+      "REGISTER 19",
+      "194",
+      "RACK header 164, 198, 202, 208",
+      "197, 199, 205, 217, 264, 269, registration 6"
+    ],
+    "issue": [
+      "trar 20, 22, 123, 129-131, 135, 137, 238"
+    ],
+    "note": [
+      "49-51, 54-55, 57, 59-60, 69-70, 198-199, 202-203, 207-208, 210, 212, 73, 75,"
+    ],
+    "pages": [
+      "76–78, 81–83,",
+      "49–51,",
+      "85–90,",
+      "236–237, 292–293,",
+      "126–127, 129–144,",
+      "323–324 150–153,",
+      "184–186,",
+      "272–274, 294–295,",
+      "299–300",
+      "217–219, 221–222,",
+      "241–242, 290–291 168–169,",
+      "19–20, 22–23,",
+      "29–36,",
+      "152–154,",
+      "38–39,",
+      "214–216,",
+      "255–257,",
+      "112–113,",
+      "125–127, 129–130,",
+      "283–285,",
+      "333–337"
+    ],
+    "title": [
+      "156-161, 163-170, 172, QoS see quality of service 176-177"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, 28, 45",
+      "32-35, 40",
+      "73, 112",
+      "94, 114, 233",
+      "123",
+      "146, 148, 298, 311, 313",
+      "179,181-182",
+      "264, 266, 269",
+      "210",
+      "212",
+      "17",
+      "25",
+      "150",
+      "164, 171, 174, 194, 196",
+      "98, 101-102, 104, 107, 110",
+      "227",
+      "262, 268, 272",
+      "119, 123",
+      "274",
+      "300, 331"
+    ]
+  },
+  {
+    "container-title": [
+      "Session Description Protocol 7",
+      "52, SIP",
+      "trapezoid 263 Serving GPRS Support Node 5",
+      "server",
+      "application",
+      "Sh",
+      "session description",
+      "SIP compression",
+      "transaction user"
+    ],
+    "date": [
+      "29",
+      "198, 202",
+      "19-27, 29-36",
+      "179, 196"
+    ],
+    "genre": [
+      "session-based local policy 20,",
+      "session-based messaging 383-385 327-332,"
+    ],
+    "note": [
+      "server discovery 283 224, 227-230, 232-233, 237, 239-241, server error (response) 267 245-250, 253, 261-281, 283-285, service records 73,",
+      "332, service route discovery 299 339-340, 344, 362-363, 366-367, 376, Service-Route header",
+      "34, 43^5, SIP extensions 287, 295, 298 49-52, 54-55, 57-58, 62, 66, 68, SIP layers 70-73, 75-78, 80, 82-84, 89-94, syntax and encoding",
+      "245-247, 250, 253, 255, SIP URI 22, 34-36, 55-56, 58, 74,",
+      "179, 418 Index"
+    ],
+    "pages": [
+      "22–23, 25–26,",
+      "125–127,",
+      "158–161,",
+      "387 202–209,",
+      "255–256, 263–264,",
+      "76–78, 266–268, 270–271,",
+      "294–300,",
+      "319–321,",
+      "338–340,",
+      "349–350,",
+      "76–78, 80–81, 83–84,",
+      "388–389, 391–392",
+      "219–221,",
+      "24–26,",
+      "39–44,",
+      "223–231, 233–238, 240–242, 244–245,",
+      "276–277, 289–292,",
+      "212–215, 249–250,",
+      "303–305, 307–308, 315 255–257,",
+      "298–300, 366 339",
+      "49–50,",
+      "8–9, 13–14,",
+      "43–45,",
+      "57–58,",
+      "73–75, 93–97,",
+      "179–181,",
+      "245–250, 255–257,",
+      "212–213, 215–222,",
+      "283–284, 321 287–296, 298–300,",
+      "319–321,",
+      "134–135,",
+      "387–388",
+      "202–203,",
+      "299",
+      "34–36, 55–56,",
+      "323–324",
+      "169–171,",
+      "268–269,",
+      "277–278,",
+      "301– 283–284,",
+      "307–308",
+      "363 3–4,",
+      "13–23, 25–32,",
+      "270 96–99,",
+      "106–111, 113–114, 270",
+      "165–167,",
+      "286–287, 180–181,",
+      "191–192, 197–198,",
+      "207–210, 216–225,",
+      "229–237, 270 239–241,",
+      "276–278,",
+      "291–292,",
+      "169–171,"
+    ],
+    "title": [
+      "264 SGSN see Serving GPRS Support Node location server 264, 273 SGW see Signalling Gateway proxy 22, 264, 273, 285, 294-295",
+      "Si 42 272 SigComp 217, 361-363 redirect 108, 264 SigComp architecture 361 Server-Call Session Control Function Signalling Gateway 18"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, 18",
+      "34, 43, 50, 52, 298, 301-304, 307-308, 311, 313, 319, 58, 69, 71, 73-74, 91, 96, 101, 104-110, 323, 327-330, 333-334, 338-340, 343, 114",
+      "135, 137, 141, 144, 148, 345, 362-363, 366, 375-376, 383-385, 150-154, 156",
+      "172, 199",
+      "212, 218",
+      "45",
+      "273, 278, 281, 283, 85,87 285, 287, 289",
+      "317",
+      "334",
+      "343",
+      "9, 20, 22, 365-367, 369, 371, 377-379, 385, 29, 45, 68",
+      "86, 89",
+      "103, 106, 115, 119, 121, 201",
+      "22",
+      "32",
+      "58",
+      "67, 91, 94-98, 104-105, 107-109, 166, 268",
+      "298, 301, 182, 195",
+      "253",
+      "36, 39, 43, 67, 110, 113, 240, 250, 253",
+      "outbound 123, 131, 151, 172",
+      "27 19-26, 30-36, 38^0, 43^4",
+      "6",
+      "39",
+      "54",
+      "67",
+      "101-104, 48-52, 54-59, 61, 65-66, 68-70, 73-75, 106-114, 123, 125, 127, 129, 132-135, 77-78, 83, 89-91, 93-94, 96, 98, 137-141, 143-144, 146, 156-160, 164, 101-103, 105-106, 108-111, 114-115, 166-168, 170-172, 174-175, 177-182, 119, 121, 123, 125-126, 129-137, 184-186, 188, 191-192, 195-197, 199, 139-144, 146, 148, 151-173, 175, 202-206, 208, 210, 212-216, 218, 240",
+      "184-186, 189, 191-192, 242",
+      "340 194-199, 201-210",
+      "131, 268",
+      "307",
+      "129",
+      "172, 378-379, 381, 384-385",
+      "186, 199",
+      "213",
+      "12, 15, 23, URI 22",
+      "58, 74, 102, 110, 28, 90, 93, 97, 99",
+      "121, 123, 129, 167",
+      "7, 20, 78, 106, 119, 201, 198-199, 202, 205",
+      "280, 224, 229, 245, 268",
+      "291",
+      "300, 381, 385, 387 302",
+      "20, 30, 114, 125",
+      "6, 9",
+      "101, 104",
+      "119, 121, 123, 137, 153, 161",
+      "226, 271, 283",
+      "184, 189",
+      "345 201",
+      "227",
+      "102, 261, 266, 268",
+      "289",
+      "110, 121, 123, 129, 167"
+    ]
+  },
+  {
+    "container-title": [
+      "Stream Control Transmission Protocol"
+    ],
+    "date": [
+      "186, 194, 197, 201-203, 209, 214, statefull (proxy server) 20",
+      "284",
+      "stream 24-25"
+    ],
+    "note": [
+      "335 strict route 284, 286 state machine 26, 264, 271, 333 SUBSCRIBE 55, 96, 112-113, 134, timeout 270, 272, 288 171-174, 216, 287-288, 294, 378, 381, transaction user 226, 271,"
+    ],
+    "pages": [
+      "289 182,",
+      "271–277,",
+      "292–293,",
+      "389–390",
+      "270–272,",
+      "286–287,",
+      "83–86,",
+      "223–230,",
+      "150–154, 156–161,",
+      "263–264,",
+      "263–264,",
+      "307–309, 270–271,",
+      "345–346,",
+      "338–339,",
+      "378–379,",
+      "332 270–271,",
+      "286–287, 388–389 345"
+    ],
+    "title": [
+      "stateless (proxy server) 264, 334-335, topology-hiding inter-network gateway 21 338-339, 343 transaction 19, 30-31, 130, 201-202, 208, static payload 305"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "333 155-156, 168-169, 171, 175, 178, 180",
+      "23, 210, 264, 240, 253, 267",
+      "279",
+      "333, 338, 350 313, 329-330, 354, 359, 378",
+      "314-315 212, 220, 264",
+      "277",
+      "27, 44, 78",
+      "88, 90, 290, 333, 366, 384 109, 121, 191-192, 201, 220",
+      "client 6, 11, 55,69, 114, 144, 148, 233-234, 236-240, 242, 245, 247",
+      "186",
+      "267",
+      "276, 279, 292, 300",
+      "281, 289, 296, 308-309, 312, 325, 332, 337",
+      "389 319-321, 327-330, 332-334",
+      "27, 349-352, 365-366, 371",
+      "388 262, 279, 286",
+      "283"
+    ]
+  },
+  {
+    "container-title": [
+      "TCP see Transmission Control Protocol 365 telephone uniform resource identifier 170, SCTP see Stream Control Transmission 269 Protocol tel URI see telephone uniform resource TCP see Transmission Control Protocol identifier UDP see User Datagram Protocol template package 288-289"
+    ],
+    "date": [
+      "167, 170, 192, 201",
+      "229"
+    ],
+    "issue": [
+      "eader 175, 186, 288, 268",
+      "eader 221, 271, 273, 290, 48, 72, 81, 84, 86, 99, 126, 140, 144"
+    ],
+    "note": [
+      "success (response",
+      "379-380 Transport Layer Security 72, 155, 158, temporary public user identity 56-57, 102, 161, 268, 275, 279-280, 297, 319,"
+    ],
+    "pages": [
+      "38–39,",
+      "204–205 81–82,",
+      "279–280,",
+      "311–314,",
+      "356",
+      "12–14,",
+      "293–295, 378 154–155,",
+      "225–226,",
+      "279–281,",
+      "272–274, 304–305,",
+      "289–290, 292–295,"
+    ],
+    "title": [
+      "Subscription Locator Function 18, 24, 33, Transmission Control Protocol 13"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "78",
+      "43",
+      "283, 286, 304",
+      "294 317, 327, 332, 335, 350",
+      "3, 266, 272, 275, 340 transport 6, 9",
+      "d",
+      "204",
+      "233, 245, 262, 267-272, tag 130, 132, 134, 157, 159, 171, 175, 179",
+      "283, 286-287, 299, 301, 194, 201-202, 221, 233",
+      "311, 314, 319, 325, 327, 330",
+      "378 332, 344, 350, 355, 357, 359, 361, 363"
+    ]
+  },
+  {
+    "container-title": [
+      "Module",
+      "Universal Subscriber Identity Module"
+    ],
+    "date": [
+      "194-199, 201-203, 205-210",
+      "user agent 19",
+      "197"
+    ],
+    "genre": [
+      "user agent client 263-264,"
+    ],
+    "note": [
+      "300 watcher information 379-380, 382 user agent server 263-264, 271-275, 277, winfo 289, 379-380 279-280, 284, 290-291 User Datagram Protocol 13, 78, 126, XCAP 369-370, 378-379, 381"
+    ],
+    "pages": [
+      "34–36,",
+      "55–56,",
+      "216–227, 229–230, 232–233, 236–242,",
+      "245–249,",
+      "384–385 195–199,",
+      "204–206,",
+      "299–300,",
+      "391 378–379,",
+      "387–389",
+      "169–170 265–266,",
+      "237–239, 350–351,",
+      "365 247–249,",
+      "202–210,",
+      "214–215,",
+      "32–35,",
+      "68–69,",
+      "217–219, 267–268, 271–273,",
+      "108–109, 214–215, 263–264, 271–280, 286–287,",
+      "290–291,",
+      "83–84,",
+      "387–388",
+      "215 225–229,",
+      "241–242,",
+      "263–264, 271–277, 279–280,",
+      "314–315,",
+      "387 290–291,",
+      "108–109, 263–264, 271–275,",
+      "279–280, 113–114,",
+      "385 284, 290–291",
+      "271–277, 376–382 279–280,",
+      "290–291,"
+    ],
+    "title": [
+      "UA see user agent user equipment 11-13, 17, 19-20, 22-23, UAC see user agent client 28-31, 34, 36, 43-44, 49-52, 54-57, UAS see user agent server 59-60, 62, 64-73, 75-78, 80, 82-87, UDP see User Datagram Protocol 89-91, 95, 99, 101, 108-115, 123, UDVM see universal decompressor virtual 125-127, 129-135, 137-142, 144, 146, machine 148, 150-160, 162-166, 168-172, UE see user equipment 174-175, 177, 179-187, 191-192, uniform resource identifier",
+      "210, 215, user-to-user (security mechanism) 280 217-219, 255, 261, 265-269, 271-272, USIM see Universal Subscriber Identity 274-277, 279-280, 283-286, 288-289",
+      "universal decompressor virtual machine 361-362",
+      "276, 291-292 Via header 13, 130-132, 134, 148, 151-154, URI see uniform resource identifier 163-165"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22",
+      "212",
+      "58, 74, 102, 106, 108, 110, 121",
+      "123, 129, 131, 137, 140, 162, 164",
+      "253, 263, 323-325, 363, 381, 167-172, 174-176, 178-179, 187, 192",
+      "202",
+      "293, 295",
+      "319, 369, 371, Ut 44, 70, 72, 379",
+      "381, 384-385",
+      "364 version 27, 98, 106, 110, 161, 164, 178",
+      "56, 180, 182, 186, 188, 224, 227, 229, 60, 126",
+      "301, 303, 311, 329, 345, UPDATE 164, 198, 202, 230",
+      "354",
+      "199",
+      "212",
+      "22",
+      "41",
+      "73, 75",
+      "280",
+      "300 284, 286",
+      "293-300, 340, video 15, 17, 48, 58, 78, 80",
+      "86, 89, 376-377, 381-382",
+      "93, 103, 113, 121, 201, 219, 223, B2BUA 214",
+      "233",
+      "261, 304",
+      "286",
+      "375, 385",
+      "300 voice 3, 6, 12, 15, 78, 96, 106",
+      "277",
+      "226, 261, 342, 375",
+      "286"
+    ]
+  }
+]
