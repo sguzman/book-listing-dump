@@ -1,0 +1,2252 @@
+[
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "G.E."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Electronics"
+    ],
+    "date": [
+      "1965-04-19",
+      "2007"
+    ],
+    "issue": [
+      "8",
+      "22"
+    ],
+    "note": [
+      "book Mobk089 October 26,"
+    ],
+    "pages": [
+      "114–117,"
+    ],
+    "title": [
+      "Cramming more components onto integrated circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38",
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wall",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1993"
+    ],
+    "genre": [
+      "WRL Research Report 93/6,"
+    ],
+    "location": [
+      "Palo Alto, CA"
+    ],
+    "publisher": [
+      "Digital Western Research Laboratory"
+    ],
+    "title": [
+      "Limits of instruction-level parallelism"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Yeager",
+        "given": "K."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Hot Chips VII"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Stanford, CA"
+    ],
+    "title": [
+      "R10 000 superscalar microprocessor"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nayfeh",
+        "given": "B.A."
+      },
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Proceedings of 23rd Int. Symp"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "pages": [
+      "66–77"
+    ],
+    "publisher": [
+      "Computer Architecture"
+    ],
+    "title": [
+      "Evaluating alternatives for a multiprocessor microprocessor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Amarasinghe",
+        "given": "S."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Hot Chips VII"
+    ],
+    "date": [
+      "1995-08"
+    ],
+    "location": [
+      "Stanford, CA"
+    ],
+    "title": [
+      "Hot compilers for future hot chips"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.hotchips.org/archives/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ousterhout",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Summer 1990 USENIX Conference"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "pages": [
+      "247–256"
+    ],
+    "title": [
+      "Why aren’t operating systems getting faster as fast as hardware?"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "location": [
+      "Warrenton"
+    ],
+    "title": [
+      "Standard Performance Evaluation Corporation, SPEC"
+    ],
+    "type": null,
+    "url": [
+      "http://www.spec.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "REFERENCES [1] L. Barroso, J. Dean, and U. Hoezle"
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      },
+      {
+        "family": "Nayfeh",
+        "given": "B.A."
+      },
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Wilson",
+        "given": "K."
+      },
+      {
+        "family": "Chang",
+        "given": "K."
+      },
+      {
+        "family": "Kapil",
+        "given": "S."
+      },
+      {
+        "family": "Maruyama",
+        "given": "T."
+      },
+      {
+        "family": "McNairy",
+        "given": "C."
+      },
+      {
+        "family": "Bhatia",
+        "given": "R."
+      },
+      {
+        "family": "Moore",
+        "given": "C."
+      },
+      {
+        "given": "Verghese"
+      }
+    ],
+    "citation-number": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "container-title": [
+      "Proc. 7th Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS-VII",
+      "Hot Chips 15",
+      "Microprocessor Forum",
+      "Hot Chips 16",
+      "Microprocessor Forum",
+      "Proc. 27th Int. Symp. Computer Architecture (ISCA-27",
+      "IEEE Micro"
+    ],
+    "date": [
+      "2003-03",
+      "1996-10",
+      "2003-08",
+      "2003-10",
+      "2004-08",
+      "2000-10",
+      "2000-06"
+    ],
+    "doi": [
+      "10.1109/MM.2003.1196112"
+    ],
+    "editor": [
+      {
+        "family": "Barroso",
+        "given": "L.A."
+      },
+      {
+        "family": "Gharachorloo",
+        "given": "K."
+      },
+      {
+        "family": "McNamara",
+        "given": "R."
+      },
+      {
+        "family": "Nowatzyk",
+        "given": "A."
+      },
+      {
+        "family": "Qadeer",
+        "given": "S."
+      },
+      {
+        "family": "Sano",
+        "given": "B."
+      },
+      {
+        "family": "Smith",
+        "given": "S."
+      },
+      {
+        "family": "Stets",
+        "given": "R."
+      },
+      {
+        "given": "B."
+      }
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Cambridge, MA",
+      "Stanford, CA",
+      "San Jose, CA",
+      "Stanford, CA",
+      "San Jose, CA",
+      "Vancouver, BC, Canada"
+    ],
+    "note": [
+      "5",
+      "8] J. Lo, L. Barroso, S. Eggers, K. Gharachorloo, et al. “An analysis of database workload performance on simultaneous multithreaded processors,” in Proc. 25th Annu. Int. Symp."
+    ],
+    "pages": [
+      "22–28,",
+      "2–11",
+      "7",
+      "282–293"
+    ],
+    "title": [
+      "Web search for a planet: the architecture of the Google cluster",
+      "The case for a single chip multiprocessor",
+      "UltraSPARC Gemini: dual CPU processor",
+      "SPARC64 VI: Fujitsu’s Next Generation Processor",
+      "Montecito: the next product in the Itanium Processor Family",
+      "POWER4 system microarchitecture",
+      "Piranha: a scalable architecture based on single-chip multiprocessing"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.hotchips.org/archives/",
+      "http://www.hotchips.org/archives/"
+    ],
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "date": [
+      "1998-06"
+    ],
+    "location": [
+      "Barcelona, Spain"
+    ],
+    "pages": [
+      "39–50"
+    ],
+    "title": [
+      "Computer Architecture (ISCA-25"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kunkel",
+        "given": "S."
+      },
+      {
+        "family": "Eickemeyer",
+        "given": "R."
+      },
+      {
+        "family": "Lip",
+        "given": "M."
+      },
+      {
+        "family": "Mullins",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "IBM J. Res. Dev"
+    ],
+    "date": [
+      "2000-11"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "851–872"
+    ],
+    "title": [
+      "A performance methodology for commercial servers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agerwala",
+        "given": "T."
+      },
+      {
+        "family": "Chatterjee",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "May/June 2005"
+    ],
+    "doi": [
+      "10.1109/MM.2005.45"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "58–69,"
+    ],
+    "title": [
+      "Computer architecture: challenges and opportunities for the next decade"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "CHIP MULTIPROCESSOR ARCHITECTURE [11] P. Kongetira, K. Aingaran, and K. Olukotun"
+      },
+      {
+        "family": "Clabes",
+        "given": "J."
+      },
+      {
+        "family": "Friedrich",
+        "given": "J."
+      },
+      {
+        "family": "Sweet",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "58",
+      "12"
+    ],
+    "container-title": [
+      "ISSCC Dig. Tech",
+      "IEEE Micro"
+    ],
+    "date": [
+      "Mar./Apr. 2005",
+      "2004-02"
+    ],
+    "doi": [
+      "10.1109/MM.2005.35"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Papers, San Francisco, CA"
+    ],
+    "pages": [
+      "21–29",
+      "56–57"
+    ],
+    "title": [
+      "Niagara: a 32-way multithreaded SPARC processor",
+      "Design and implementation of the POWER5TM Microprocessor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "J.D."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "Proc. 14th Int. Conf. Parallel Architectures and Compilation Techniques, St"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "location": [
+      "Louis, MO"
+    ],
+    "pages": [
+      "51–62"
+    ],
+    "title": [
+      "Maximizing CMT throughput with Mediocre cores"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Marr",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "Hot Chips XIV"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "location": [
+      "Stanford, CA"
+    ],
+    "title": [
+      "Hyper-threading technology in the Netburst Microarchitecture"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.hotchips.org/archives/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Agarwal",
+        "given": "A."
+      },
+      {
+        "family": "Kubiatowicz",
+        "given": "J."
+      },
+      {
+        "family": "Kranz",
+        "given": "D."
+      },
+      {
+        "family": "Lim",
+        "given": "B.-H."
+      },
+      {
+        "family": "Yeung",
+        "given": "D."
+      },
+      {
+        "family": "D’Souza",
+        "given": "G."
+      },
+      {
+        "family": "Parkin",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1993-06"
+    ],
+    "doi": [
+      "10.1109/40.216748"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "48–61"
+    ],
+    "title": [
+      "Sparcle: an evolutionary processor design for large-scale multiprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laudon",
+        "given": "J."
+      },
+      {
+        "family": "Gupta",
+        "given": "A."
+      },
+      {
+        "family": "Horowitz",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Proc. 6th Int. Symp. Architectural Support for Parallel Languages and Operating Systems (ASPLOS-VI"
+    ],
+    "date": [
+      "1994-10"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "308–318"
+    ],
+    "title": [
+      "Interleaving: a multithreading technique targeting multiprocessors and workstations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tullsen",
+        "given": "D."
+      },
+      {
+        "family": "Eggers",
+        "given": "S."
+      },
+      {
+        "family": "Levy",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "Proc. 22nd Annu. Int. Symp. Computer Architecture (ISCA-22"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "location": [
+      "Santa Margherita Ligure, Italy"
+    ],
+    "pages": [
+      "392–403"
+    ],
+    "title": [
+      "Simultaneous multithreading: maximizing onchip parallelism"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Naffziger",
+        "given": "S."
+      },
+      {
+        "family": "Grutkowski",
+        "given": "T."
+      },
+      {
+        "family": "Stackhouse",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Proc. of IEEE International Solid-State Circuits Conference (ISSCC"
+    ],
+    "date": [
+      "2005-02"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "pages": [
+      "182–183"
+    ],
+    "title": [
+      "The implementation of a 2-core multithreaded Itanium Family Processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sites",
+        "given": "R.L."
+      },
+      {
+        "family": "Witek",
+        "given": "R.T."
+      },
+      {
+        "family": "Manual",
+        "given": "Alpha A.X.P.Architecture Reference"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Burlington, MA"
+    ],
+    "publisher": [
+      "Digital Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jouppi",
+        "given": "N.P."
+      },
+      {
+        "family": "Wilton",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "21st Annu. Int. Symp. Computer Architecture (ISCA-21"
+    ],
+    "date": [
+      "1994-04"
+    ],
+    "location": [
+      "Chicago, IL"
+    ],
+    "pages": [
+      "34–45"
+    ],
+    "title": [
+      "Tradeoffs in two-level on-chip caching"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "TPC Benchmark B, Standard Specification Revision"
+    ],
+    "date": [
+      "1994-06-02"
+    ],
+    "title": [
+      "Transaction Processing Performance Council"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Council",
+        "given": "Transaction Processing Performance"
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "container-title": [
+      "Standard Specification Revision"
+    ],
+    "date": [
+      "1996-11"
+    ],
+    "issue": [
+      "2"
+    ],
+    "title": [
+      "TPC Benchmark D (Decision Support"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barroso",
+        "given": "L.A."
+      },
+      {
+        "family": "Gharachorloo",
+        "given": "K."
+      },
+      {
+        "family": "Bugnion",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "25th Annu. Int. Symp"
+    ],
+    "date": [
+      "1998-06"
+    ],
+    "location": [
+      "Barcelona, Spain"
+    ],
+    "pages": [
+      "3–14"
+    ],
+    "publisher": [
+      "Computer Architecture"
+    ],
+    "title": [
+      "Memory system characterization of commercial workloads"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenblum",
+        "given": "M."
+      },
+      {
+        "family": "Bugnion",
+        "given": "E."
+      },
+      {
+        "family": "Herrod",
+        "given": "S."
+      },
+      {
+        "family": "Devine",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "ACM Trans. Model. Comput. Simul"
+    ],
+    "title": [
+      "Using the SimOS machine simulator to study complex computer systems"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "25"
+    ],
+    "container-title": [
+      "TPC Benchmark C, Standard Specification Revision"
+    ],
+    "date": [
+      "1999-10"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Transaction Processing Performance Council"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Laudon",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "container-title": [
+      "Proc. Workshop on Design, Architecture, and Simulation of Chip Multiprocessors"
+    ],
+    "date": [
+      "2005-11"
+    ],
+    "location": [
+      "Barcelona, Spain"
+    ],
+    "title": [
+      "Performance/Watt: the new server focus"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "location": [
+      "Warrenton, VA"
+    ],
+    "title": [
+      "Standard Performance Evaluation Corporation, SPEC"
+    ],
+    "type": null,
+    "url": [
+      "http://www.spec.org"
+    ]
+  },
+  {
+    "citation-number": [
+      "28"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "title": [
+      "Transaction Processing Performance Council, TPC"
+    ],
+    "type": null,
+    "url": [
+      "http://www.tpc.org"
+    ]
+  },
+  {
+    "citation-number": [
+      "29"
+    ],
+    "genre": [
+      "reference/whitepapers/XML Test-1 0.pdf"
+    ],
+    "title": [
+      "XML Processing Performance in Java and .Net"
+    ],
+    "type": null,
+    "url": [
+      "http://java.sun.com/performance/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sherwood",
+        "given": "T."
+      },
+      {
+        "family": "Sair",
+        "given": "S."
+      },
+      {
+        "family": "Calder",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "container-title": [
+      "30th Annu. Int. Symp. Computer Architecture"
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "336–347"
+    ],
+    "title": [
+      "Phase tracking and prediction"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Alameldeen",
+        "given": "A.R."
+      },
+      {
+        "family": "Wood",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "container-title": [
+      "9th Int. Symp. High Performance Computer Architecture (HPCA"
+    ],
+    "date": [
+      "2003-02",
+      "2007"
+    ],
+    "issue": [
+      "22"
+    ],
+    "location": [
+      "Anaheim, CA"
+    ],
+    "note": [
+      "book Mobk089 October 26,"
+    ],
+    "title": [
+      "Variability in architectural simulations of multithreaded workloads"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chappell",
+        "given": "R.S."
+      },
+      {
+        "family": "Tseng",
+        "given": "F."
+      },
+      {
+        "family": "Yoaz",
+        "given": "A."
+      },
+      {
+        "family": "Patt",
+        "given": "Y.N."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Proc. 29th Annual Int. Symp"
+    ],
+    "date": [
+      "2002-06"
+    ],
+    "location": [
+      "Anchorage, AK"
+    ],
+    "pages": [
+      "307–317"
+    ],
+    "publisher": [
+      "Computer Architecture"
+    ],
+    "title": [
+      "Difficult-path branch prediction using subordinate microthreads"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kim",
+        "given": "D."
+      },
+      {
+        "family": "Liao",
+        "given": "S.S."
+      },
+      {
+        "family": "Wang",
+        "given": "P.H."
+      },
+      {
+        "family": "Cuvillo",
+        "given": "J.",
+        "particle": "del"
+      },
+      {
+        "family": "Tian",
+        "given": "X."
+      },
+      {
+        "family": "Zou",
+        "given": "X."
+      },
+      {
+        "family": "Wang",
+        "given": "H."
+      },
+      {
+        "family": "Yeung",
+        "given": "D."
+      },
+      {
+        "family": "Girkar",
+        "given": "M."
+      },
+      {
+        "family": "Shen",
+        "given": "J.P."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Proc. Int. Symp. Code Generation and Optimization (CGO 2004"
+    ],
+    "date": [
+      "2004-03"
+    ],
+    "location": [
+      "Palo Alto, CA"
+    ],
+    "pages": [
+      "27–38"
+    ],
+    "title": [
+      "Physical experimentation with prefetching helper threads on Intel’s hyper-threaded processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Song",
+        "given": "Y."
+      },
+      {
+        "family": "Kalogeropulos",
+        "given": "S."
+      },
+      {
+        "family": "Tirumalai",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "Proc. 14th Int. Conf. on Parallel Architectures and Compilation Techniques (PACT-2005), St"
+    ],
+    "date": [
+      "2005-09"
+    ],
+    "location": [
+      "Louis, MO"
+    ],
+    "pages": [
+      "99–109"
+    ],
+    "title": [
+      "Design and implementation of a compiler framework for helper threading on multi-core processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Luk",
+        "given": "C.-K."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Proc. 28th Annual Int. Symp. Computer Architecture (ISCA-28"
+    ],
+    "date": [
+      "2001-06",
+      "2007-10-26"
+    ],
+    "issue": [
+      "22"
+    ],
+    "location": [
+      "Goteborg, Sweden"
+    ],
+    "pages": [
+      "40–51"
+    ],
+    "title": [
+      "Tolerating memory latency through software-controlled pre-execution in simultaneous multithreading processors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "5"
+    ],
+    "location": [
+      "Warrenton, VA"
+    ],
+    "title": [
+      "Standard Performance Evaluation Corporation, SPEC"
+    ],
+    "type": null,
+    "url": [
+      "http://www.spec.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sohi",
+        "given": "G."
+      },
+      {
+        "family": "Breach",
+        "given": "S."
+      },
+      {
+        "family": "Vijaykumar",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Proc. 22nd Annual Int. Symp. Computer Architecture"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "location": [
+      "Santa Margherita Ligure, Italy"
+    ],
+    "pages": [
+      "414–425"
+    ],
+    "title": [
+      "Multiscalar processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Nayfeh",
+        "given": "B."
+      },
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Proc. of 23rd Annual Int. Symp"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "pages": [
+      "66–77"
+    ],
+    "publisher": [
+      "Computer Architecture"
+    ],
+    "title": [
+      "Evaluation of Design Alternatives for a Multiprocessor Microprocessor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "M."
+      },
+      {
+        "family": "Sohi",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "doi": [
+      "10.1109/12.509907"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "552–571"
+    ],
+    "title": [
+      "ARB: a hardware mechanism for dynamic reordering of memory references"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gopal",
+        "given": "S."
+      },
+      {
+        "family": "Vijaykumar",
+        "given": "T.N."
+      },
+      {
+        "family": "Smith",
+        "given": "J.E."
+      },
+      {
+        "family": "Sohi",
+        "given": "G.S."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "Proc. 4th Int. Symp. High-Performance Computer Architecture (HPCA-4"
+    ],
+    "date": [
+      "1998-02"
+    ],
+    "location": [
+      "Las Vegas, NV"
+    ],
+    "title": [
+      "Speculative versioning cache"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Jouppi",
+        "given": "N.P."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "Proc. 17th Annu. Int. Symp"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "location": [
+      "Seattle, WA"
+    ],
+    "pages": [
+      "364–373"
+    ],
+    "publisher": [
+      "Computer Architecture"
+    ],
+    "title": [
+      "Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Muchnick",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "San Mateo, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Advanced Compiler Design and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Olukotun",
+        "given": "K."
+      },
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Willey",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "Proc. 1999 Int. Conf"
+    ],
+    "date": [
+      "1999-06"
+    ],
+    "location": [
+      "Supercomputing, Rhodes, Greece"
+    ],
+    "pages": [
+      "21–30"
+    ],
+    "title": [
+      "Improving the performance of speculatively parallel applications on the hydra CMP"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Olukotun",
+        "given": "K."
+      },
+      {
+        "family": "Nayfeh",
+        "given": "B.A."
+      },
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Wilson",
+        "given": "K."
+      },
+      {
+        "family": "Chang",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "Proc. 7th Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS-VII"
+    ],
+    "date": [
+      "1996-10"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "2–11"
+    ],
+    "title": [
+      "The case for a single chip multiprocessor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tremblay",
+        "given": "M."
+      },
+      {
+        "family": "B. Case",
+        "given": "Also",
+        "particle": "reported in"
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "Hot Chips XI",
+      "Microprocessor Report"
+    ],
+    "date": [
+      "1999-08",
+      "1999-10-25"
+    ],
+    "location": [
+      "Stanford, CA"
+    ],
+    "pages": [
+      "275–288",
+      "18–21"
+    ],
+    "title": [
+      "MAJCTM : an architecture for the new millennium",
+      "Sun makes MAJC with mirrors"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.hotchips.org/archives/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Willey",
+        "given": "M."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "Proc. 8th Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS-VIII"
+    ],
+    "date": [
+      "1998-10"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "58–69"
+    ],
+    "title": [
+      "Data speculation support for a chip multiprocessor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Steffan",
+        "given": "J.G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Proc. 27th Ann. Int. Symp. Computer Architecture (ISCA-27"
+    ],
+    "date": [
+      "2000-06"
+    ],
+    "location": [
+      "Vancouver, BC, Canada"
+    ],
+    "pages": [
+      "1–12"
+    ],
+    "title": [
+      "A scalable approach to thread-level speculation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "book Mobk089 October 26"
+    ],
+    "date": [
+      "1997",
+      "2007"
+    ],
+    "issue": [
+      "22"
+    ],
+    "note": [
+      "18",
+      "20"
+    ],
+    "title": [
+      "Kaffe Virtual Machine"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://kaffe.org",
+      "http://www.byte.com",
+      "http://www.specbench.org/jvm98/",
+      "http://www.epcc.ed.ac.uk/javagrande/"
+    ],
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Carlstrom",
+        "given": "B.D."
+      },
+      {
+        "family": "Wong",
+        "given": "V."
+      },
+      {
+        "family": "Chen",
+        "given": "M."
+      },
+      {
+        "family": "Kozyrakis",
+        "given": "C."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "2004"
+    ],
+    "doi": [
+      "10.1109/MM.2004.91"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "–",
+      "92–103"
+    ],
+    "title": [
+      "Transactional coherence and consistency: simplifying parallel hardware and software"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hammond",
+        "given": "L."
+      },
+      {
+        "family": "Hubbert",
+        "given": "B."
+      },
+      {
+        "family": "Siu",
+        "given": "M."
+      },
+      {
+        "family": "Prabhu",
+        "given": "M."
+      },
+      {
+        "family": "Chen",
+        "given": "M."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "2000"
+    ],
+    "doi": [
+      "10.1109/40.848474"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "–",
+      "71–84"
+    ],
+    "title": [
+      "The Stanford Hydra CMP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krishnan",
+        "given": "V."
+      },
+      {
+        "family": "Torrellas",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1999-09"
+    ],
+    "doi": [
+      "10.1109/12.795218"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "866–880"
+    ],
+    "title": [
+      "A chip multiprocessor architecture with speculative multithreading"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sohi",
+        "given": "G."
+      },
+      {
+        "family": "Breach",
+        "given": "S."
+      },
+      {
+        "family": "Vijaykumar",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Proc. 22nd Annual Int. Symp. Computer Architecture"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "location": [
+      "Santa Margherita Ligure, Italy"
+    ],
+    "pages": [
+      "414–425"
+    ],
+    "title": [
+      "Multiscalar processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Steffan",
+        "given": "J.G."
+      },
+      {
+        "family": "Mowry",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Proc. 4th Int. Symp. High-Performance Computer Architecture (HPCA-4"
+    ],
+    "date": [
+      "1998-02"
+    ],
+    "location": [
+      "Las Vegas, NV"
+    ],
+    "pages": [
+      "2–13"
+    ],
+    "title": [
+      "The potential for using thread-level data speculation to facilitate automatic parallelization"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Martinez",
+        "given": "J.F."
+      },
+      {
+        "family": "Torrellas",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Proc. 10th Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS-X"
+    ],
+    "date": [
+      "2002-10"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "18–29"
+    ],
+    "title": [
+      "Speculative synchronization: applying thread-level speculation to explicitly parallel applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhai",
+        "given": "A."
+      },
+      {
+        "family": "Colohan",
+        "given": "C.B."
+      },
+      {
+        "family": "Steffan",
+        "given": "J.G."
+      },
+      {
+        "family": "Mowry",
+        "given": "T.C."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Proc. 10th Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS-X"
+    ],
+    "date": [
+      "2002-10"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "171–183"
+    ],
+    "title": [
+      "Compiler optimization of scalar value communication between speculative threads"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sherwood",
+        "given": "T."
+      },
+      {
+        "family": "Calder",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Dept. of Computer Science and Eng., UCSD, Tech. Rep"
+    ],
+    "date": [
+      "1999-08"
+    ],
+    "issue": [
+      "CS99-630"
+    ],
+    "title": [
+      "Time varying behavior of programs"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Prabhu",
+        "given": "M.K."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "Proc. Principles and Practices of Parallel Programming 2005"
+    ],
+    "date": [
+      "2005-06"
+    ],
+    "location": [
+      "Chicago, IL"
+    ],
+    "title": [
+      "Exposing speculative thread parallelism in SPEC2000"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "PPoPP 05"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Kaffe Virtual Machine"
+    ],
+    "type": null,
+    "url": [
+      "http://kaffe.org"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "M.K."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Proc. 30th Int. Symp. Computer Architecture (ISCA-30"
+    ],
+    "date": [
+      "2003-06"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "434–445"
+    ],
+    "title": [
+      "The Jrpm system for dynamically parallelizing Java programs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Woo",
+        "given": "S."
+      },
+      {
+        "family": "Ohara",
+        "given": "M."
+      },
+      {
+        "family": "Torrie",
+        "given": "E."
+      },
+      {
+        "family": "Singh",
+        "given": "J.P."
+      },
+      {
+        "family": "Gupta",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "Proc. 22nd Int. Symp. Computer Architecture (ISCA-22"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "location": [
+      "Santa Margherita Ligure, Italy"
+    ],
+    "pages": [
+      "24–36"
+    ],
+    "title": [
+      "The SPLASH2 programs: characterization and methodological considerations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "O’Hallaron",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1997-10"
+    ],
+    "genre": [
+      "Tech. Rep. CMU-CS-97-178,"
+    ],
+    "note": [
+      "book Mobk089 October 26, 2007 10:22 IMPROVING LATENCY USING MANUAL PARALLEL PROGRAMMING 139"
+    ],
+    "publisher": [
+      "School of Computer Science, Carnegie Mellon University"
+    ],
+    "title": [
+      "Spark98: sparse matrix kernels for shared memory and message passing systems"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Larus",
+        "given": "J.R."
+      },
+      {
+        "family": "Rajwar",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "San Rafael, CA"
+    ],
+    "publisher": [
+      "Morgan & Claypool Publishers"
+    ],
+    "title": [
+      "Transactional Memory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajwar",
+        "given": "R."
+      },
+      {
+        "family": "Goodman",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "Proc. 10th Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS"
+    ],
+    "date": [
+      "2002-10",
+      "2007-10-26"
+    ],
+    "issue": [
+      "22"
+    ],
+    "location": [
+      "San Jose, CA"
+    ],
+    "pages": [
+      "5–17"
+    ],
+    "title": [
+      "Transactional lock-free execution of lock-based programs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hammond",
+        "given": "Lance"
+      }
+    ],
+    "title": [
+      "You can find current information on Lance Hammond at his home page, located at"
+    ],
+    "type": null,
+    "url": [
+      "http://www.mavam.com/lance/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "from the University of Wisconsin – Madison and a M.S. and Ph.D. in Electrical Engineering from Stanford University."
+      }
+    ],
+    "note": [
+      "dissertation he proposed Interleaved multithreading, which is the multithreading technique employed in the UltraSPARC T1 chip multiprocessor. book Mobk089 October 26, 2007 10:22"
+    ],
+    "title": [
+      "While at Stanford, James was coarchitect of the Stanford DASH multiprocessor and in his Ph.D"
+    ],
+    "type": "thesis"
+  }
+]
