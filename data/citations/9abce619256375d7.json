@@ -1,0 +1,9510 @@
+[
+  {
+    "citation-number": [
+      "5.2–7"
+    ],
+    "note": [
+      "see Problem 5.2-2."
+    ],
+    "title": [
+      "Write a computer code to compute the Bhattacharyya distance (5.2-11). Compute the Bhattacharyya distance for several pairs of distributions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6.3–1"
+    ],
+    "note": [
+      "6.3-13). Hint: start with two-dimensional Gaussian pdf, 288 Einsteinian Neural Network"
+    ],
+    "title": [
+      "Verify normalization of Eq"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "1.3-9), LL1;M = (∂/∂M) ln G(x|M, C) = (∂/∂M)(−0.5 DT C−1 D) = (x − M)T C−1"
+    ],
+    "title": [
+      "Take the derivative of the Gaussian distribution Eq"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "9.3–1 Derive Eq. (9.1-3) from Eq. (9.3-13)."
+    ],
+    "title": [
+      "Evaluate var{LL1;M } = E{LL1;M · (LL1;M )T } = E{C−1 (x − M)(x − M)T C−1 } = C−1 E{(x − M)T (x − M)}C−1 = C−1 CC−1 = C−1"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9.4–1"
+    ],
+    "container-title": [
+      "Derive Eq"
+    ],
+    "location": [
+      "Hints"
+    ],
+    "pages": [
+      "9 4–3"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ackley",
+        "given": "D.H."
+      },
+      {
+        "family": "Hinton",
+        "given": "G.E."
+      },
+      {
+        "family": "Sejnowski",
+        "given": "T.J."
+      }
+    ],
+    "container-title": [
+      "Cognitive Science"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "147–169"
+    ],
+    "title": [
+      "A learning algorithm for Boltzmann machines"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adelman",
+        "given": "G."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Birkhaüser, Boston, MA"
+    ],
+    "title": [
+      "Encyclopedia of Neuroscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Akaike",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Ann. Stat. Math"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "203–217"
+    ],
+    "title": [
+      "Statistical predictor identification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Albus",
+        "given": "J.S."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Syst., Man Cyber"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "473–509"
+    ],
+    "title": [
+      "An outline for a theory of intelligence"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Anderberg",
+        "given": "M.R."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Cluster Analysis for Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "T.W."
+      }
+    ],
+    "container-title": [
+      "The Complete Works of Aristotle"
+    ],
+    "date": [
+      "1984",
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "editor": [
+      {
+        "family": "Wiley",
+        "given": "John"
+      },
+      {
+        "family": "Aristotle",
+        "given": "New York"
+      },
+      {
+        "family": "Barnes",
+        "given": "J."
+      }
+    ],
+    "location": [
+      "Bollingen Series, Princeton, NJ"
+    ],
+    "title": [
+      "An Introduction to Multivariate Statistical Analysis"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Aristotle"
+      }
+    ],
+    "date": [
+      "IV BC",
+      "1995"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "title": [
+      "Metaphysics"
+    ],
+    "translator": [
+      {
+        "family": "Ross",
+        "given": "W.D."
+      },
+      {
+        "family": "Series",
+        "given": "Bollingen"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Aristotle"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "title": [
+      "De Anima (On the Soul"
+    ],
+    "translator": [
+      {
+        "family": "Smith",
+        "given": "J.A."
+      },
+      {
+        "family": "Series",
+        "given": "Bollingen"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Aristotle.. Topics",
+        "given": "W.A."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "title": [
+      "Pickard-Cambridge"
+    ],
+    "translator": [
+      {
+        "family": "Series",
+        "given": "Bolingen"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Aquinas",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1924"
+    ],
+    "location": [
+      "London"
+    ],
+    "title": [
+      "XIII) Summa contra Gentiles, English Dominican Fathers"
+    ],
+    "translator": [
+      {
+        "literal": "trans."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Avicenna"
+      }
+    ],
+    "container-title": [
+      "Avicenna, S.M. Afnan, trans"
+    ],
+    "date": [
+      "1958"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "George Allen & Unwin"
+    ],
+    "title": [
+      "Kitab al-Shifa"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Baggenstoss",
+        "given": "P.M."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics, ISAS’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "124–129"
+    ],
+    "title": [
+      "Joint density and structural learning by feature grouping"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bar-Shalom",
+        "given": "Y."
+      },
+      {
+        "family": "Li",
+        "given": "X.-R."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Norwood, MA"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Multitarget-Multisensor Tracking: Principles and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bar-Shalom",
+        "given": "Y."
+      },
+      {
+        "family": "Tse",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Automatica"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "451–460"
+    ],
+    "title": [
+      "Tracking in a cluttered environment with probabilistic data association"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bartlett",
+        "given": "M.S."
+      }
+    ],
+    "container-title": [
+      "J. Royal Statis. Soc. Supp"
+    ],
+    "date": [
+      "1946"
+    ],
+    "pages": [
+      "27–41"
+    ],
+    "title": [
+      "On the theoretical specifications and sampling properties of autocorrelated time series"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bayes",
+        "given": "Rev T."
+      }
+    ],
+    "container-title": [
+      "Phil. Trans. R. Soc"
+    ],
+    "date": [
+      "1763"
+    ],
+    "note": [
+      "Reprinted in Biometrika"
+    ],
+    "pages": [
+      "370–418",
+      "293–315"
+    ],
+    "title": [
+      "An essay toward solving a problem in the doctrine of chances"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53",
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bellman",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1961"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Adaptive Control Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berdyaev",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Paris, France"
+    ],
+    "publisher": [
+      "YMCA Press"
+    ],
+    "title": [
+      "The meaning of history (Smysl istorii, Russian"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Berwick",
+        "given": "R.C."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "genre": [
+      "Ph.D."
+    ],
+    "location": [
+      "Thesis, MIT, Cambridge, MA"
+    ],
+    "title": [
+      "Locality principles and the acquisition of syntactic knowledge"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhatnagar",
+        "given": "R."
+      },
+      {
+        "family": "Kanal",
+        "given": "L.N."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Anal. Machine Intell"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "233–245"
+    ],
+    "title": [
+      "Structural and probabilistic knowledge for abductive reasoning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bilbro",
+        "given": "G.L."
+      },
+      {
+        "family": "Snyder",
+        "given": "W.E."
+      }
+    ],
+    "container-title": [
+      "IEEE Conference on Neural Information Processing Systems"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Denver, CO"
+    ],
+    "title": [
+      "Range image restoration using mean field annealing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bishop",
+        "given": "C.M."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "NY"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Neural Networks for Pattern Recognition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blackman",
+        "given": "S.S."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Norwood, MA"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Multiple Target Tracking with Radar Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Blum",
+        "given": "A.L."
+      },
+      {
+        "family": "Rivest",
+        "given": "R.L."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "117–127"
+    ],
+    "title": [
+      "Training a 3-node neural networks is NP-complete"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bonnisone",
+        "given": "P.P."
+      },
+      {
+        "family": "Henrion",
+        "given": "M."
+      },
+      {
+        "family": "Kanal",
+        "given": "L.N."
+      },
+      {
+        "family": "Lemmer",
+        "given": "J.F."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "North Holland, Amsterdam, The Netherlands"
+    ],
+    "title": [
+      "Uncertainty in Artificial Intelligence 6"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Booker",
+        "given": "H.G."
+      },
+      {
+        "family": "J-W.",
+        "given": "Tao"
+      },
+      {
+        "family": "Behroozi",
+        "given": "Toosi"
+      },
+      {
+        "given": "A.B."
+      }
+    ],
+    "container-title": [
+      "J. Atmos. Terr. Phys"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "939–958"
+    ],
+    "title": [
+      "A scintillation theory of fading in long distance HF ionospheric communications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Botha",
+        "given": "R.P."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Basil Blackwell, Oxford"
+    ],
+    "title": [
+      "Challenging Chomsky. The Generative Garden Game"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bourgeois",
+        "given": "F."
+      },
+      {
+        "family": "Lassalle",
+        "given": "J.-C."
+      }
+    ],
+    "container-title": [
+      "Commun. ACM"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "805–806"
+    ],
+    "title": [
+      "Algorithm for the assignment problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Broca",
+        "given": "P.P."
+      }
+    ],
+    "date": [
+      "1878",
+      "1987"
+    ],
+    "editor": [
+      {
+        "family": "Adelman",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "pages": [
+      "589"
+    ],
+    "publisher": [
+      "Birkhauser"
+    ],
+    "title": [
+      "In Encyclopedia of Neuroscience"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brockett",
+        "given": "R.W."
+      }
+    ],
+    "container-title": [
+      "Linear Algebra Appl"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "79–91"
+    ],
+    "title": [
+      "Dynamical systems that sort lists, diagonalize matrices, and solve linear programming problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "146"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brooks",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Anal. Machine Intell"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "140–150"
+    ],
+    "title": [
+      "Model-based three-dimensional interpretation of two-dimensional images"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burdick",
+        "given": "B.J."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "publisher": [
+      "Presidential Scientific Advisory Group Meeting"
+    ],
+    "title": [
+      "Application of MLANS to Real-Time Learning of Targets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Burg",
+        "given": "J.P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 37th Meeting of the Society for Exploration Geophysicists"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Dallas, TX"
+    ],
+    "title": [
+      "Maximum entropy spectral analysis"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Califano"
+      },
+      {
+        "family": "Mohan",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Anal. Machine Intell"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "373–392"
+    ],
+    "title": [
+      "Multidimensional indexing for recognizing visual shapes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "243–257"
+    ],
+    "title": [
+      "Neural network models for pattern recognition and associative memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "159–168"
+    ],
+    "title": [
+      "A distributed outstar network for spatial pattern learning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the World Congress on Neural Networks (WCNN’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "333–344"
+    ],
+    "title": [
+      "Distributed ART networks for learning, recognition, and prediction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "1473–1494"
+    ],
+    "title": [
+      "Distributed learning, recognition, and prediction by ART and ARTMAP neural networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Comput. Vision, Graphics Image Process"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "54–115"
+    ],
+    "title": [
+      "A massively parallel architecture for a self-organizing neural pattern recognition machine"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Reynolds",
+        "given": "J.H."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "565–588"
+    ],
+    "title": [
+      "ARTMAP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Rosen",
+        "given": "D.B."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "759–771"
+    ],
+    "title": [
+      "Fuzzy ART"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Markuzon",
+        "given": "N."
+      },
+      {
+        "family": "Reynolds",
+        "given": "J.H."
+      },
+      {
+        "family": "Rosen",
+        "given": "D.B."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Neural Networks"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "698–713"
+    ],
+    "title": [
+      "Fuzzy ARTMAP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Gjaja",
+        "given": "M.N."
+      },
+      {
+        "family": "Gopal",
+        "given": "S."
+      },
+      {
+        "family": "Markuzon",
+        "given": "N."
+      },
+      {
+        "family": "Woodcock",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "Soft Computing Techniques in Knowledge-Based Intelligent Systems in Engineering"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Jain",
+        "given": "L.C."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "279–317"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "ART and ARTMAP neural networks for applications: Self-organizing learning, recognition and prediction"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Carpenter",
+        "given": "G.A."
+      },
+      {
+        "family": "Milenova",
+        "given": "B.L."
+      },
+      {
+        "family": "Noeske",
+        "given": "B.W."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "793–813"
+    ],
+    "title": [
+      "dARTMAP"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chalmers",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Explaining Consciousness: The Hard Problem"
+    ],
+    "date": [
+      "1994",
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "J. Shear",
+        "particle": "ed."
+      }
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Facing up to the problem of consciousness"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Chapman",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "333–377"
+    ],
+    "title": [
+      "Planning for conjunctive goals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "R.T."
+      },
+      {
+        "family": "Dyer",
+        "given": "C.R."
+      }
+    ],
+    "container-title": [
+      "ACM Comput. Surveys"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "67–108"
+    ],
+    "title": [
+      "Model-based recognition in robotic vision"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cherkassky",
+        "given": "V."
+      },
+      {
+        "family": "Mulier",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "J"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Wiley & Sons"
+    ],
+    "title": [
+      "Learning from data: concepts, theory, and methods"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chomsky",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harcourt, Brace Jovanovich"
+    ],
+    "title": [
+      "Language and Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chomsky",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Explanation in Linguistics. The Logical Problem of Language Acquisition"
+    ],
+    "date": [
+      "1981"
+    ],
+    "editor": [
+      {
+        "family": "Hornstein",
+        "given": "N."
+      },
+      {
+        "family": "Lightfoot",
+        "given": "D."
+      }
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Longman"
+    ],
+    "title": [
+      "Principles and parameters in syntactic theory"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cramer",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1946"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Mathematical Methods of Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Crevier",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Basic Books"
+    ],
+    "title": [
+      "AI: The Tumultuos History of the Search for Artificial Intelligence"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lama",
+        "given": "Dalai",
+        "suffix": "XIV"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "Hopkins",
+        "given": "Ed J."
+      }
+    ],
+    "location": [
+      "Ithaca, NY"
+    ],
+    "publisher": [
+      "Snow Lion Pubs"
+    ],
+    "title": [
+      "The Buddhism of Tibet"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Daugman",
+        "given": "J.G."
+      }
+    ],
+    "container-title": [
+      "Computational Neuroscience"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "Schwartz",
+        "given": "E."
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Brain metaphor and brain theory"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Daum",
+        "given": "F.E."
+      }
+    ],
+    "container-title": [
+      "Proc. IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1990"
+    ],
+    "note": [
+      "4)."
+    ],
+    "pages": [
+      "833–839"
+    ],
+    "title": [
+      "Bounds on performance for multiple target tracking"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dempster",
+        "given": "A.P."
+      },
+      {
+        "family": "Laird",
+        "given": "N.M."
+      },
+      {
+        "family": "Rubin",
+        "given": "D.B."
+      }
+    ],
+    "container-title": [
+      "J. Royal Stat. Soc"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "1–38"
+    ],
+    "title": [
+      "Maximum likelihood from incomplete data via the EM algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39B"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Descartes",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Discourse on Method and the Meditations, F.E. Sutcliffe, trans"
+    ],
+    "date": [
+      "1637",
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Penguin Books"
+    ],
+    "title": [
+      "Discourse on method"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Descartes",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1644",
+      "1983"
+    ],
+    "location": [
+      "Dordrecht, The Netherlands"
+    ],
+    "title": [
+      "Principles of Philosophy"
+    ],
+    "translator": [
+      {
+        "family": "Miller",
+        "given": "V.R."
+      },
+      {
+        "family": "Miller",
+        "given": "R.P."
+      },
+      {
+        "family": "Reidel",
+        "given": "D."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dixon",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1943",
+      "1781"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "J. Wiley & Sons"
+    ],
+    "title": [
+      "In Foreword to Kant",
+      "Critique of Pure Reason"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dmitriev",
+        "given": "V.A."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "385–389"
+    ],
+    "title": [
+      "Art form as an object of cognitive modeling (towards development of Vygotsky’s semiotics model"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dmitriev",
+        "given": "V.A."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "333–337"
+    ],
+    "title": [
+      "Cyberaesthetics and zoosemiology"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Duda",
+        "given": "R.O."
+      },
+      {
+        "family": "Fossum",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Electr. Comp"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "220–232"
+    ],
+    "title": [
+      "Pattern classification by iteratively determined linear and piecewise linear disciminant functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EC-15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duda",
+        "given": "R.O."
+      },
+      {
+        "family": "Hart",
+        "given": "P.E."
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Pattern Classification and Scene Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Durbin",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Internation Stati. Rev"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "233–244"
+    ],
+    "title": [
+      "The fitting of time-series models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Einstein",
+        "given": "A."
+      },
+      {
+        "family": "L",
+        "given": "Hopf"
+      }
+    ],
+    "container-title": [
+      "Ann. Phys"
+    ],
+    "date": [
+      "1910"
+    ],
+    "pages": [
+      "1096–1104"
+    ],
+    "title": [
+      "Uber einen Satz der Wahrscheinlichkeitsrechnung und seine Anwendung an die Strahlungstheorie"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feynman",
+        "given": "R.P."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "Benjamin, Reading, MA"
+    ],
+    "title": [
+      "Statistical Mechanics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Feynman",
+        "given": "R.P."
+      }
+    ],
+    "container-title": [
+      "Foundations of Physics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "507–531"
+    ],
+    "title": [
+      "Simulating physics with computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feynman",
+        "given": "R.P."
+      }
+    ],
+    "container-title": [
+      "Int. J. Theor. Physics"
+    ],
+    "date": [
+      "1986"
+    ],
+    "issue": [
+      "6/7"
+    ],
+    "pages": [
+      "467–488"
+    ],
+    "title": [
+      "Quantum mechanical computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fogel",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Piscataway, NJ"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Evolutionary Computation: Toward a new philosophy of machine intelligence"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fortmann",
+        "given": "T.E."
+      },
+      {
+        "family": "Bar-Shalom",
+        "given": "Y."
+      },
+      {
+        "family": "Scheffe",
+        "given": "M."
+      },
+      {
+        "family": "Gelfand",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Automatic Control"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "221–229"
+    ],
+    "title": [
+      "Detection thresholds for tracking in clutter—A connection between estimation and signal processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AC-30(3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Franchi",
+        "given": "P.R."
+      },
+      {
+        "family": "Tichovolsky",
+        "given": "E.J."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "– –89–296"
+    ],
+    "title": [
+      "Phase Screen Modulation as a Source of Clutter Related Noise in Over-the-Horizon Radars"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Franklin",
+        "given": "S.P."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Artificial Minds"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Frank-Kamenetsky",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Unraveling DNA: The Most Important Molecule of Life"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "W.J."
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Mass Action in the Nervous System"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Freeman",
+        "given": "W.J."
+      }
+    ],
+    "container-title": [
+      "ISAS’96, Intelligent Systems: A Semiotic Perspective"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "A biological model for construction of meaning to serve as an interface between intelligent system and its environment"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Freud",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "The Standard Edition of the Complete Psychological Works, J. Strachey, trans"
+    ],
+    "date": [
+      "1895"
+    ],
+    "location": [
+      "London"
+    ],
+    "pages": [
+      "283–398,"
+    ],
+    "publisher": [
+      "Hogart Press"
+    ],
+    "title": [
+      "Project for a Scientific Psychology"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freud",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "J. Strachey, trans"
+    ],
+    "date": [
+      "1900"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Hogart Press"
+    ],
+    "title": [
+      "Interpretation of Dreams. In The Standard Edition of the Complete Psychological Works"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fukunaga",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1972",
+      "1991"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Introduction to Statistical Pattern Recognition. Academic Press"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "K.",
+        "given": "Fukunaga"
+      },
+      {
+        "family": "Hayes",
+        "given": "R.R."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "genre": [
+      "Purdue University Report TR-EE 88-19,"
+    ],
+    "location": [
+      "West Lafayette, IN"
+    ],
+    "title": [
+      "Statistical classifier design and evaluation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "K.",
+        "given": "Fukushima"
+      },
+      {
+        "family": "Miyake",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Pattern Recognition"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "445–451"
+    ],
+    "title": [
+      "Neocognitron: A new algorithm for pattern recognition tolerant of deformations and shifts in position"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gardner",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper Collins"
+    ],
+    "title": [
+      "The Mind’s New Science"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Garvin",
+        "given": "L."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Current Topics in Pattern Recognition Research, S.G. Pandalai"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "location": [
+      "Trivandrum, India"
+    ],
+    "publisher": [
+      "Research Trends"
+    ],
+    "title": [
+      "Statistical quantum theory and statistical pattern recognition"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Garvin",
+        "given": "L."
+      },
+      {
+        "family": "Marzetta",
+        "given": "T."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Proceedings of 1989 Tri-Service Data Fusion Symposium"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "title": [
+      "Fusion and effects of fusion on exoatmospheric [450] discrimination"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Girosi",
+        "given": "F."
+      },
+      {
+        "family": "Jones",
+        "given": "M."
+      },
+      {
+        "family": "Poggio",
+        "given": "T."
+      },
+      {
+        "family": "Lines Goj",
+        "given": "W.W."
+      },
+      {
+        "family": "Goldfarb",
+        "given": "L."
+      },
+      {
+        "family": "Gödel",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Neural Comp"
+    ],
+    "date": [
+      "1995",
+      "1993",
+      "1996",
+      "1986"
+    ],
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Norwood, MA",
+      "Gaithersburg, MD",
+      "Norm New York"
+    ],
+    "note": [
+      "12.0",
+      "Kurt Gödel Collected Works, I, S. Feferman at al.,"
+    ],
+    "pages": [
+      "219–269"
+    ],
+    "publisher": [
+      "Artech House",
+      "Oxford University Press"
+    ],
+    "title": [
+      "Regularization theory and neural networks architectures",
+      "Synthetic Aperture Radar and Electronic Warfare",
+      "Inductive learning as a central learning process. ISAS’96, Intelligent Systems: A Semiotic Perspective"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "L.E."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "PgEn New York"
+    ],
+    "publisher": [
+      "Schocken Books"
+    ],
+    "title": [
+      "Rambam, Readings in the Philosophy of Moses Maimonides"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Graham",
+        "given": "M.L."
+      },
+      {
+        "family": "R.L",
+        "given": "Streit"
+      }
+    ],
+    "container-title": [
+      "NUWC-NPT Tech. Rep"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "450"
+    ],
+    "pages": [
+      "969–970",
+      "97–98"
+    ],
+    "title": [
+      "The Cramer-Rao bound for multiple target tracking algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10,406",
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Greineder",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Private communication"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Grimson",
+        "given": "W.E.L."
+      },
+      {
+        "family": "Huttenlocher",
+        "given": "D.P."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Analy. Machine Intelligence"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "10",
+      "2"
+    ],
+    "pages": [
+      "969–970",
+      "97–98"
+    ],
+    "title": [
+      "Introduction to the special issue on interpretation of 3-D scenes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13",
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grimson",
+        "given": "W.E.L."
+      },
+      {
+        "family": "Lozano-Perez",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Int. J. Robotics Res"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "3–35"
+    ],
+    "title": [
+      "Model-based recognition and localization from sparse range or tactile data"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proc. Nat. Acad. Sci. U.S.A"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "368–372"
+    ],
+    "title": [
+      "Some nonlinear networks capable of learning a spatial pattern of arbitrary complexity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "J. Theoret. Biol"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "291–337"
+    ],
+    "title": [
+      "Neural pattern discrimination"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "J. Cybern"
+    ],
+    "date": [
+      "1971"
+    ],
+    "pages": [
+      "28–50"
+    ],
+    "title": [
+      "Embedding fields: Underlying philosophy, mathematics and applications to psychology, physiology, and anatomy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Math. Biosci"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "39–67"
+    ],
+    "title": [
+      "A neural theory of punishment and avoidance, I: Qualitative theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Math. Biosci"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "253–285"
+    ],
+    "title": [
+      "A neural theory of punishment and avoidance, II: Quantitative theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "International Review of Neurobiology"
+    ],
+    "date": [
+      "1975"
+    ],
+    "editor": [
+      {
+        "family": "Pfeiffer",
+        "given": "C.C."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "A neural model of attention, reinforcement and discrimination learning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Biol. Cybern"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "187–207"
+    ],
+    "title": [
+      "Adaptive pattern classification and universal recording: II. Feedback, oscillation, olfaction, and illusions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Progress in Theoretical Biology"
+    ],
+    "date": [
+      "1978"
+    ],
+    "editor": [
+      {
+        "family": "Rosen",
+        "given": "R."
+      },
+      {
+        "family": "Snell",
+        "given": "F."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "233–374"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "A theory of human memory: Self-organization and performance of sensorymotor codes, maps and plans"
+    ],
+    "type": "chapter",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Psychol. Rev"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "1–51"
+    ],
+    "title": [
+      "How does a brain build a cognitive code?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "87"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proc. Natl. Acad. Sci. U.S.A"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "2338–2342"
+    ],
+    "title": [
+      "Biological competition: Decision rules, pattern formation, and oscillations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "77"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Dordrecht, Holland"
+    ],
+    "publisher": [
+      "D. Reidel"
+    ],
+    "title": [
+      "Studies of Mind and Brain"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Brain Sci"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "625–692"
+    ],
+    "title": [
+      "The quantized geometry of visual space: The coherent computation of depth, form, and lightness, Behav"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Neural Networks and Natural Intelligence"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "17–61"
+    ],
+    "title": [
+      "Nonlinear neural networks: Principles, mechanisms, and architectures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Am. Sci"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "483–449"
+    ],
+    "title": [
+      "The attentive brain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "83"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Gutowski",
+        "given": "W.E."
+      }
+    ],
+    "container-title": [
+      "Psychol. Rev"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "300–318"
+    ],
+    "title": [
+      "Neural dynamics of decision making under risk: Affective balance and cognitive-emotional interactions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "94"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Kuperstein",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "Neural Dynamics of Adaptive Sensory-Motor Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Levine",
+        "given": "D.S."
+      }
+    ],
+    "container-title": [
+      "Psychobiol"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "195–240"
+    ],
+    "title": [
+      "Neural dynamics of attentionally modulated Pavlovian conditioning: Blocking, inter-stimulus interval, and secondary reinforcement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Merrill",
+        "given": "J.W.L."
+      }
+    ],
+    "container-title": [
+      "Cog. Brain Res"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "3–38"
+    ],
+    "title": [
+      "A neural network model of adaptively timed reinforcement learning and hippocampal dynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Schmajuk",
+        "given": "N.A."
+      }
+    ],
+    "container-title": [
+      "Psychobiology"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "195–240"
+    ],
+    "title": [
+      "Neural dynamics of attentionally modulated Pavlovian conditioning: Conditioned reinforcement, inhibition, and opponent processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grossberg",
+        "given": "S."
+      },
+      {
+        "family": "Schmajuk",
+        "given": "N.A."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "79–102"
+    ],
+    "title": [
+      "Neural dynamics of adaptive timing and temporal discrimination during associative learning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "D.L."
+      }
+    ],
+    "container-title": [
+      "IEEE Proc"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "6–23"
+    ],
+    "title": [
+      "An introduction to multisensor data fusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "85"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "D.L."
+      },
+      {
+        "family": "Linn",
+        "given": "R.J."
+      }
+    ],
+    "container-title": [
+      "Proc. Tri-Service Data Fusion Symp"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "13–29"
+    ],
+    "title": [
+      "A taxonomy of algorithms for multisensor data fusion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "D.L."
+      },
+      {
+        "family": "Linn",
+        "given": "R.J."
+      },
+      {
+        "family": "Llinas",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proc. SPIE Conf. Data Structure and Target Classification. SPIE 1470"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "pages": [
+      "13–36"
+    ],
+    "title": [
+      "A survey of data fusion systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hameroff",
+        "given": "S.R."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Amsterdam"
+    ],
+    "publisher": [
+      "North-Holland"
+    ],
+    "title": [
+      "Ultimate Computing. Biomolecular Consciousness and Nanotechnology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hameroff",
+        "given": "S.R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Toward a Scientific Basis for Consciousness"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haykin",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Neural Networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hebb",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1949"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Organization of Behavior"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hegel",
+        "given": "G.W.F."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "A.V. Miller. Oxford University Press"
+    ],
+    "title": [
+      "Phenomenology of Spirit. Tr"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hildebrand",
+        "given": "F.B."
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Methods of Applied Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ho",
+        "given": "Y.C."
+      },
+      {
+        "family": "Agrawala",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "IEEE Proc"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "2101–2114"
+    ],
+    "title": [
+      "On pattern classification algorithms: Introduction and survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "56"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Holland",
+        "given": "J.H."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Adaptation in Natural and Artificial Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Holland",
+        "given": "J.H."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Hidden Order"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hopfield",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Proc. Natl. Acad. Sci"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "2554–2558"
+    ],
+    "title": [
+      "Neural networks and physical systems with emerging collective computational abilities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "79"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Horgan",
+        "given": "T."
+      },
+      {
+        "family": "Tienson",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Philosophical Topics"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "147–174"
+    ],
+    "title": [
+      "Representations without rules"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobs",
+        "given": "R.A.Jordan"
+      },
+      {
+        "family": "M.I.",
+        "given": "Nowlan"
+      },
+      {
+        "family": "S.J."
+      },
+      {
+        "family": "Hinton",
+        "given": "G.E."
+      }
+    ],
+    "container-title": [
+      "Neural Comp"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "79–87"
+    ],
+    "title": [
+      "Adaptive mixtures of local experts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jaffer",
+        "given": "A.J."
+      },
+      {
+        "family": "Bar-Shalom",
+        "given": "Y."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 3rd Symposium Non-Linear Estimation Theory and Its Applications,San Diego, CA"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "112–117"
+    ],
+    "title": [
+      "On optimal tracking in multiple target environments"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "James",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1890",
+      "1950"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Dover Books"
+    ],
+    "title": [
+      "The Principles of Psychology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaynes",
+        "given": "E.T."
+      },
+      {
+        "family": "Bibliography Jaynes",
+        "given": "E.T."
+      }
+    ],
+    "container-title": [
+      "Phys. Rev"
+    ],
+    "date": [
+      "1957",
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "620–630 452"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Information theory and statistical mechanics I",
+      "Probability Theory: The Logic of Science"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jaynes",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Houghton Mifflin"
+    ],
+    "title": [
+      "The Origin of Consciousness in the Breakdown of the Bicameral Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jibu",
+        "given": "M."
+      },
+      {
+        "family": "Yasue",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Rethinking Neural Netwroks"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "Pribram",
+        "given": "K.H."
+      }
+    ],
+    "location": [
+      "Lawrence Erlbaum, Hillsdale, NJ"
+    ],
+    "pages": [
+      "121–145"
+    ],
+    "title": [
+      "The basics of quantum brain dynamics"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Jordan",
+        "given": "M.I."
+      },
+      {
+        "family": "Jacobs",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Neural Comp"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "181–214"
+    ],
+    "title": [
+      "Hierarchical mixtures of experts and the EM algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jung",
+        "given": "C.G."
+      }
+    ],
+    "collection-title": [
+      "Bollingen Series XX"
+    ],
+    "container-title": [
+      "The Collected Works"
+    ],
+    "date": [
+      "1921",
+      "1971"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Psychological Types"
+    ],
+    "type": "chapter",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jung",
+        "given": "C.G."
+      }
+    ],
+    "collection-title": [
+      "part II. Bollingen Series XX"
+    ],
+    "container-title": [
+      "The Collected Works"
+    ],
+    "date": [
+      "1934",
+      "1969"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Archetypes of the Collective Unconscious"
+    ],
+    "type": "chapter",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jung",
+        "given": "C.G."
+      }
+    ],
+    "collection-title": [
+      "Bollingen Series XX"
+    ],
+    "container-title": [
+      "The Collected Works"
+    ],
+    "date": [
+      "1951",
+      "1969"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Aion, Researches into the Phenomenology of the Self"
+    ],
+    "type": "chapter",
+    "volume": [
+      "9, part II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalman",
+        "given": "R.E."
+      }
+    ],
+    "container-title": [
+      "Journal of Basic Engineering"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "35–46"
+    ],
+    "title": [
+      "A new approach to linear filtering and prediction"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kant",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1781",
+      "1943"
+    ],
+    "location": [
+      "New York"
+    ],
+    "title": [
+      "Critique of Pure Reason"
+    ],
+    "translator": [
+      {
+        "family": "Meiklejohn",
+        "given": "J.M.D."
+      },
+      {
+        "family": "Wiley",
+        "given": "John"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kant",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Tractats and Letters"
+    ],
+    "date": [
+      "1787",
+      "1980"
+    ],
+    "location": [
+      "Moscow"
+    ],
+    "title": [
+      "Letter to Reingold"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kant",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1788",
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Hafner"
+    ],
+    "title": [
+      "Critique of Practical Reason, J.H Bernard, trans"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kant",
+        "given": "I."
+      }
+    ],
+    "date": [
+      "1790",
+      "1914"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Critique of Judgment"
+    ],
+    "translator": [
+      {
+        "family": "Bernard",
+        "given": "J.H."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kay",
+        "given": "S.M."
+      },
+      {
+        "family": "Marple",
+        "given": "S.L.",
+        "suffix": "Jr"
+      }
+    ],
+    "container-title": [
+      "IEEE Proc"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1380–1419"
+    ],
+    "title": [
+      "Spectrum analysis—A modern perspective"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Keshavan",
+        "given": "H.R."
+      },
+      {
+        "family": "Barnett",
+        "given": "J."
+      },
+      {
+        "family": "Geiger",
+        "given": "D."
+      },
+      {
+        "family": "Verma",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. PAMI"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "193–195"
+    ],
+    "title": [
+      "Introduction to the special section on probabilisitc reasoning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Klein",
+        "given": "L.A."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "14"
+    ],
+    "publisher": [
+      "SPIE Press"
+    ],
+    "title": [
+      "Sensor and data fusion concepts and applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Klopf",
+        "given": "A.H."
+      }
+    ],
+    "container-title": [
+      "Air Force Wright Aeronautical Laboratories Report AFWAL-TR-87-1139"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "WPAFB, OH"
+    ],
+    "title": [
+      "A Neuronal Model of Classical Conditioning"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kohonen",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Self-Organization and Associative Memory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koster",
+        "given": "J."
+      },
+      {
+        "family": "May",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Dordrecht, The Netherlands"
+    ],
+    "publisher": [
+      "Foris Publications"
+    ],
+    "title": [
+      "Levels of Syntactic Representation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kryukov",
+        "given": "V.I."
+      }
+    ],
+    "container-title": [
+      "a model of attention, IEEE Conference on Neural Information Processing Systems"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Denver, CO"
+    ],
+    "title": [
+      "Short-term memory as a metastable state: “Neurolocator"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kullback",
+        "given": "S."
+      },
+      {
+        "family": "Leibler",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Ann. Math. Stat"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "76–86"
+    ],
+    "title": [
+      "On information and sufficiency"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "V.P."
+      },
+      {
+        "family": "Manolakos",
+        "given": "E.S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "215–220"
+    ],
+    "title": [
+      "Combining soft decision algorithms and scale-sequential hypotheses pruning for object recognition"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lakatos",
+        "given": "I."
+      },
+      {
+        "family": "Musgrave",
+        "given": "A.E."
+      }
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Criticism and the Growth of Knowledge"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lakoff",
+        "given": "G."
+      },
+      {
+        "family": "Johnson",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Chicago, IL"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "title": [
+      "Metaphors We Live By"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lamdan",
+        "given": "Y."
+      },
+      {
+        "family": "Wolfson",
+        "given": "H.J."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2nd International Conference Computer Vision"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "143–148"
+    ],
+    "title": [
+      "Geometric hashing: A general and efficient recognition scheme"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Landau",
+        "given": "L.D."
+      },
+      {
+        "family": "Lifshitz",
+        "given": "E.M."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "Statistical Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "J.K."
+      },
+      {
+        "family": "Waibel",
+        "given": "A.H."
+      },
+      {
+        "family": "Hinton",
+        "given": "G.E."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "23–43"
+    ],
+    "title": [
+      "A time-delay neural network architecture for isolated word recognition"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levine",
+        "given": "D.S."
+      }
+    ],
+    "container-title": [
+      "World Congress on Neural Networks, San Diego"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Erlbaum, Mahwah, NJ"
+    ],
+    "pages": [
+      "215–220"
+    ],
+    "title": [
+      "Steps toward a neural network theory of self-actualization"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levine",
+        "given": "D.S."
+      }
+    ],
+    "container-title": [
+      "Washington"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Erlbaum, Mahwah, NJ"
+    ],
+    "pages": [
+      "955–962"
+    ],
+    "title": [
+      "Do we know what we want? World Congress on Neural Networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levine",
+        "given": "D.S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "240–46"
+    ],
+    "title": [
+      "Neural modeling of prefrontal executive function"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levine",
+        "given": "D.S."
+      }
+    ],
+    "date": [
+      "in preparation"
+    ],
+    "location": [
+      "New York",
+      "New York"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Common Sense and Common Nonsense"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Levine",
+        "given": "D.S."
+      },
+      {
+        "family": "Leven",
+        "given": "S.J."
+      },
+      {
+        "family": "Prueitt",
+        "given": "P.S."
+      }
+    ],
+    "container-title": [
+      "Motivation, Emotion, and Goal Direction in Neural Networks"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Levine",
+        "given": "D.S."
+      },
+      {
+        "family": "Leven",
+        "given": "S.J."
+      }
+    ],
+    "location": [
+      "Erlbaum, Hillsdale, NJ"
+    ],
+    "title": [
+      "Integration, disintegration, and the frontal lobes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Levinson",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "J. Math. Phys"
+    ],
+    "date": [
+      "1947"
+    ],
+    "pages": [
+      "261–278"
+    ],
+    "title": [
+      "the Wiener RMS error criterion in filter design and prediction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levitin",
+        "given": "L.B."
+      },
+      {
+        "family": "Schapiro",
+        "given": "B."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "65–70"
+    ],
+    "title": [
+      "Zipf’s law revisited: Evolutionary model of emergent multiresolution classification"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lèvy-Bruhl",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "How Natives Think"
+    ],
+    "date": [
+      "1910",
+      "1926"
+    ],
+    "location": [
+      "London"
+    ],
+    "title": [
+      "Les Fonctions mentales dans les sociètès infèrieures, tr. L.A. Clare"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "X.R."
+      },
+      {
+        "family": "Bar-Shalom",
+        "given": "Y."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Control Syst. Technol"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "186–194"
+    ],
+    "title": [
+      "Design of an interactive multiple model algorithm for air traffic control tracking"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Llinas",
+        "given": "J."
+      },
+      {
+        "family": "Waltz",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Artech House"
+    ],
+    "title": [
+      "Multisensor data fusion"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Longstaff",
+        "given": "I.D."
+      },
+      {
+        "family": "Cross",
+        "given": "J.F."
+      }
+    ],
+    "container-title": [
+      "Pattern Recognition Lett"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "315–320"
+    ],
+    "title": [
+      "A pattern recognition approach to understanding the multi-layer perceptron"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lorenz",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "title": [
+      "The Foundations of Ethology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MacLean",
+        "given": "P.D."
+      }
+    ],
+    "date": [
+      "1952"
+    ],
+    "editor": [
+      {
+        "family": "Adelman",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "Birkhaüser, Boston, MA"
+    ],
+    "pages": [
+      "589"
+    ],
+    "title": [
+      "In Encyclopedia of Neuroscience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Maes",
+        "given": "P."
+      },
+      {
+        "family": "Cabridge",
+        "given": "M.A.Maimonides"
+      },
+      {
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1991",
+      "1190"
+    ],
+    "location": [
+      "Dover, New York, NY"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Designing Autonomous Agents",
+      "The Guide for the Perplexed"
+    ],
+    "translator": [
+      {
+        "family": "Friedlander",
+        "given": "M."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Malsburg",
+        "given": "C.von der"
+      }
+    ],
+    "container-title": [
+      "Kybernetik"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "85–100"
+    ],
+    "title": [
+      "Self-organization of orientation sensitive cells in the striate cortex"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marr",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Freeman"
+    ],
+    "title": [
+      "Vision"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marty",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Linear and Combinatorial Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marzetta",
+        "given": "T.L."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Unpublished"
+    ],
+    "title": [
+      "A New Approach to Covariance Matrix Estimation When the Sample Covariance Matrix Is Singular"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marzetta",
+        "given": "T.L."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the International Conference Acoustic, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Detroit, MI"
+    ],
+    "title": [
+      "EM algorithm for estimating the parameters of a multivariate complex Rician density for polarimetric SAR"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazo",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Themes and Variations"
+    ],
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "family": "B. Yung",
+        "particle": "ed."
+      },
+      {
+        "family": "Lam",
+        "given": "J.C."
+      }
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "title": [
+      "Lament made visible: a study of paramusical elements in Russian lament"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "McCamey",
+        "given": "K.J."
+      },
+      {
+        "family": "Pauli",
+        "given": "M."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Marzetta",
+        "given": "T.L."
+      },
+      {
+        "family": "Martinsen",
+        "given": "E.A."
+      },
+      {
+        "family": "Garvin",
+        "given": "L.C."
+      }
+    ],
+    "container-title": [
+      "IRIS Conference"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Monterey, CA"
+    ],
+    "title": [
+      "Detection of targets in a high clutter background"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McCulloch",
+        "given": "W.S."
+      }
+    ],
+    "container-title": [
+      "Gen. Semant. Bull"
+    ],
+    "date": [
+      "1961"
+    ],
+    "note": [
+      "Also in McCulloch (1965)."
+    ],
+    "pages": [
+      "18"
+    ],
+    "title": [
+      "What Is a Number That a Man May Know It, and a Man, That He May Know a Number? The 9th Alfred Korzybski Memorial Lecture"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, 17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McCulloch",
+        "given": "W.S."
+      }
+    ],
+    "date": [
+      "1965",
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Embodiments of Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McCulloch",
+        "given": "W."
+      },
+      {
+        "family": "Pitts",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Bull. Math. Biophys"
+    ],
+    "date": [
+      "1943"
+    ],
+    "pages": [
+      "115–133"
+    ],
+    "title": [
+      "A logical calculus of the ideas immanent in nervous activity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mehrotra",
+        "given": "K.G."
+      },
+      {
+        "family": "Mohan",
+        "given": "C.K."
+      },
+      {
+        "family": "Ranka",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Neural Networks"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "548–554"
+    ],
+    "title": [
+      "Bounds on the number of samples needed for neural learning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Metropolis",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Los Alamos, NM"
+    ],
+    "publisher": [
+      "UCP"
+    ],
+    "title": [
+      "New Directions in Physics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meystel",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "J. Robotic Syst"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "269–308"
+    ],
+    "title": [
+      "Intelligent control in robotics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meystel",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Bala Cynwyd, PA"
+    ],
+    "publisher": [
+      "Ad. Rem"
+    ],
+    "title": [
+      "Semiotic modeling and Situational Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meystel",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "IFAC World Congress"
+    ],
+    "title": [
+      "Intelligent Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Michalski",
+        "given": "R.S."
+      },
+      {
+        "family": "Carbonell",
+        "given": "J.G."
+      },
+      {
+        "family": "Mitchell",
+        "given": "T.M."
+      }
+    ],
+    "container-title": [
+      "An Artificial Intelligence Approach"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Los Altos, CA"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Machine Learning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "II"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M.L."
+      }
+    ],
+    "date": [
+      "1954"
+    ],
+    "genre": [
+      "Ph.D. Thesis,"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "Princeton University"
+    ],
+    "title": [
+      "Neural-analog networks and the brain model problem"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M.L."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Semantic Information Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M.L."
+      }
+    ],
+    "container-title": [
+      "Semantic Information Processing"
+    ],
+    "date": [
+      "1968"
+    ],
+    "editor": [
+      {
+        "family": "Minsky",
+        "given": "M.L."
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Matter, mind, and models"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M.L."
+      }
+    ],
+    "container-title": [
+      "The Psychology of Computer Vision"
+    ],
+    "date": [
+      "1975"
+    ],
+    "editor": [
+      {
+        "family": "Whinston",
+        "given": "P.H."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "A framework for representing knowlege"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Society of Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Minsky",
+        "given": "M.L."
+      },
+      {
+        "family": "Papert",
+        "given": "S.A."
+      }
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Perceptrons"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Moore",
+        "given": "B."
+      },
+      {
+        "family": "Poggio",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "The 1st Annual INNS Meeting"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "Representation properties of multilayer feedforward networks"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Moravscik",
+        "given": "E.A."
+      },
+      {
+        "family": "Wirth",
+        "given": "J.R."
+      }
+    ],
+    "container-title": [
+      "Current Approaches to Syntax"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Syntax and Semantics"
+    ],
+    "type": "chapter",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "More",
+        "given": "L.T."
+      }
+    ],
+    "date": [
+      "1934"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Isaac Newton a Biography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morris",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "editor": [
+      {
+        "family": "Sebeok",
+        "given": "Th A."
+      }
+    ],
+    "publisher": [
+      "Mouton, The Hague"
+    ],
+    "title": [
+      "Writings on the General Theory of Signs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Munkres",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "J. SIAM"
+    ],
+    "date": [
+      "1957"
+    ],
+    "pages": [
+      "32–38"
+    ],
+    "title": [
+      "Algorithms for the assignment and transportation problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Muratet",
+        "given": "M.A."
+      },
+      {
+        "family": "Brahm",
+        "given": "S."
+      },
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Burdick",
+        "given": "B.J."
+      },
+      {
+        "family": "Lash",
+        "given": "M.E."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "publisher": [
+      "AIAA/BMDO Tech. Readiness Conf"
+    ],
+    "title": [
+      "Interceptor designation and discrimination with concurrent algorithms. 7th Ann"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nahi",
+        "given": "N.E."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Inform. Theory"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "457–462"
+    ],
+    "title": [
+      "Optimal recursive estimation with uncertain observations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IT-15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nagel",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "The Philosophical Review"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "207–212"
+    ],
+    "title": [
+      "What is it like to be a bat?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Negahdaripour",
+        "given": "S."
+      },
+      {
+        "family": "Jain",
+        "given": "A.K."
+      },
+      {
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Nachr. Acad. Wiss"
+    ],
+    "date": [
+      "1991",
+      "1927"
+    ],
+    "location": [
+      "Washington, DC"
+    ],
+    "pages": [
+      "245–273"
+    ],
+    "publisher": [
+      "National Science Foundation",
+      "Neumann von"
+    ],
+    "title": [
+      "Final Report of the NSF Workshop on the Challenges in Computer Vision Research; Future Directions of Research",
+      "Density operator in quantum mechanics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "R.",
+        "given": "Nevatia"
+      },
+      {
+        "family": "Binford",
+        "given": "T.O."
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence"
+    ],
+    "date": [
+      "1977"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "77–98"
+    ],
+    "title": [
+      "Description and recognition of curved objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Newell",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "The Study of Information"
+    ],
+    "date": [
+      "1983"
+    ],
+    "editor": [
+      {
+        "family": "Machlup",
+        "given": "F."
+      },
+      {
+        "family": "Mansfield",
+        "given": "U."
+      }
+    ],
+    "location": [
+      "John Wiley, New York"
+    ],
+    "title": [
+      "Intellectual issues in the history of artificial intelligence"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Newell",
+        "given": "A."
+      },
+      {
+        "family": "Simon",
+        "given": "H.A."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Human Problem Solving"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nietzsche",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Basic Writings of Nietzsche"
+    ],
+    "date": [
+      "1886",
+      "1968"
+    ],
+    "location": [
+      "Kaufman, trans",
+      "New York"
+    ],
+    "publisher": [
+      "Random House"
+    ],
+    "title": [
+      "Beyond good and evil"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Nilsson",
+        "given": "N.J."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Learning Machines"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Occam",
+        "given": "W."
+      },
+      {
+        "family": "Propositions",
+        "given": "A.J.Freddoso",
+        "particle": "Occam’s Theory of"
+      },
+      {
+        "family": "Schuurman",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Loux, trans"
+    ],
+    "date": [
+      "1974",
+      "1980"
+    ],
+    "location": [
+      "Notre Dame, IN"
+    ],
+    "publisher": [
+      "University of Notre Dame Press"
+    ],
+    "title": [
+      "Summa logicae. In Occam’s Theory of Terms, M.J"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Oja",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "927–935"
+    ],
+    "title": [
+      "Principal components, minor components, and linear neural networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Olive",
+        "given": "J.P."
+      },
+      {
+        "family": "Greenwood",
+        "given": "A."
+      },
+      {
+        "family": "J",
+        "given": "Coleman"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Acoustics of American English Speech. Springer-Verlag"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Papez",
+        "given": "J.W."
+      }
+    ],
+    "container-title": [
+      "Encyclopedia of Neuroscience"
+    ],
+    "date": [
+      "1937",
+      "1987"
+    ],
+    "editor": [
+      {
+        "family": "Adelman",
+        "given": "G."
+      }
+    ],
+    "location": [
+      "Birkhaüser, Boston, MA"
+    ],
+    "pages": [
+      "589"
+    ],
+    "title": [
+      "Emotions"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Parker",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "genre": [
+      "Tech. Rep. tr-47,"
+    ],
+    "location": [
+      "Sc., MIT"
+    ],
+    "publisher": [
+      "Center Comp. Res. Econom. manag"
+    ],
+    "title": [
+      "Learning logic"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Parra-Loera",
+        "given": "R."
+      },
+      {
+        "family": "Thompson",
+        "given": "W.E."
+      },
+      {
+        "family": "Akbar",
+        "given": "S.A."
+      }
+    ],
+    "container-title": [
+      "Conference on Signal Processing, Sensor Fusion and Target Recognition, SPIE Proceedings"
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Multilevel distributed fusion of multisesnsor data"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1699"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peirce",
+        "given": "C.S."
+      }
+    ],
+    "date": [
+      "1935"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "title": [
+      "Collected Papers of Charles Sanders Peirce"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Penrose",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Oxford, England"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Emperor’s New Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Penrose",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Oxford, England"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Shadows of the Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Houston, TX"
+    ],
+    "publisher": [
+      "American Statistical Association Annual Meeting"
+    ],
+    "title": [
+      "On estimates of the parameters of the autoregressive process: Spectrum vs. autocorrelation function"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "DARPA Neural Network Study, MIT/Lincoln Laboratory"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Lexington, MA"
+    ],
+    "title": [
+      "Multiple Sensor Fusion and Neural Networks"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "SIAM 35th Anniversary Meeting"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Denver, CO"
+    ],
+    "title": [
+      "Robust estimates for parameters of oscillating systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 1st Annual International Neural Network Society Meeting"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "pages": [
+      "42"
+    ],
+    "title": [
+      "Neural networks for sensor fusion and adaptive classification"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Pattern Recog. Lett"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "1–3"
+    ],
+    "title": [
+      "Cramer–Rao bounds for the estimation of means in a clustering problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Linear Algebra in Signals, Systems & Control, B.N. Datta et al"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "location": [
+      "PA"
+    ],
+    "publisher": [
+      "SIAM Press"
+    ],
+    "title": [
+      "Frequency estimates for simple oscillating systems under random forcing"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Pattern Recog. Lett"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "141–148"
+    ],
+    "title": [
+      "Cramer–Rao bounds for the estimation of normal mixtures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "SPIE Meeting on Quantum Limited Image and Information Processing II"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "North Falmouth, MA"
+    ],
+    "title": [
+      "Neural network for adaptive processing of quantum limited images"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Government Neural Network Applications Workshop"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "NOSC, San Diego, CA"
+    ],
+    "pages": [
+      "57"
+    ],
+    "title": [
+      "Application of neural networks to transient signal classification"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "ATR Systems & Technical Conference"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "NWSC, Silver Springs, MD"
+    ],
+    "title": [
+      "ATR performance prediction model development using maximum likelihood artificial neural system"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Conference on Neural Networks for Vision and Image Processing"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Tyngsboro, MA"
+    ],
+    "title": [
+      "Tracking multiple objects in visual imagery"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 2nd Government Neural Network Applications Workshop"
+    ],
+    "date": [
+      "1991",
+      "Sect"
+    ],
+    "issue": [
+      "6"
+    ],
+    "location": [
+      "Huntsville, AL"
+    ],
+    "pages": [
+      "1–5"
+    ],
+    "title": [
+      "Decision directed sensor fusion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 3rd Government Neural Network Applications Workshop"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Dayton, OH"
+    ],
+    "pages": [
+      "85–88"
+    ],
+    "title": [
+      "Track before detect using model based neural network"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of SPIE Conference on Sensor Fusion"
+    ],
+    "date": [
+      "1992",
+      "1828"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "pages": [
+      "197–200"
+    ],
+    "title": [
+      "Model based sensor fusion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the IEEE NAECON Conference"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Dayton, OH"
+    ],
+    "pages": [
+      "880–884"
+    ],
+    "title": [
+      "MLANS neural network for sensor fusion"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "J. Math. Imaging Vision"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "81–110"
+    ],
+    "title": [
+      "Computational concepts in classification: Neural networks, statistical pattern recognition, and model based vision"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "565–572"
+    ],
+    "title": [
+      "A model based neural network for transient signal processing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the ARPA Counterdrug Over The Horizon Radar Workshop"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Chesapeake, VA"
+    ],
+    "pages": [
+      "147– 173"
+    ],
+    "title": [
+      "MLANS tracker"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the World Congress on Neural Networks"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Diego, CA",
+      "Erlbaum, Hillsdale, NJ"
+    ],
+    "pages": [
+      "380–383"
+    ],
+    "title": [
+      "Model-based neural network for pattern recognition"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the World Congress on Neural Networks"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Diego, CA",
+      "Erlbaum, Hillsdale, NJ"
+    ],
+    "pages": [
+      "603–606"
+    ],
+    "title": [
+      "Einsteinian neural network"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the World Congress on Neural Networks"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Diego, CA",
+      "Erlbaum, Hillsdale, NJ"
+    ],
+    "pages": [
+      "1013–1016"
+    ],
+    "title": [
+      "Mathematical concepts of intellect"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the World Conference on Neural Networks"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Diego, CA",
+      "Erlbaum, Hillsdale, NJ"
+    ],
+    "pages": [
+      "1152"
+    ],
+    "title": [
+      "Aristotle, complexity and fuzzy logic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the World Conference on Neural Networks"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Diego, CA",
+      "Erlbaum, Hillsdale, NJ"
+    ],
+    "pages": [
+      "668–671"
+    ],
+    "title": [
+      "Statistical and predictive models in neural networks"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Fracisco, CA"
+    ],
+    "publisher": [
+      "IFAC Triennial World Congress"
+    ],
+    "title": [
+      "Complexity of recognition: Aristotle, Gödel, Zadeh"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "43–48"
+    ],
+    "title": [
+      "Fuzzy logic of Aristotelian Forms"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Introduction. Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "Intelligence of recognition"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "14–18"
+    ],
+    "title": [
+      "Gödel theorem and semiotics"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Pattern Recog. Lett"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "283–288"
+    ],
+    "title": [
+      "Cramer–Rao bound for tracking in clutter and tracking multiple objects"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "319–324"
+    ],
+    "title": [
+      "Mathematical aspects of cyberaesthetics"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "295–300"
+    ],
+    "title": [
+      "Towards quantum field theory of symbol"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "307–312"
+    ],
+    "title": [
+      "Information, likelihood and Einstein"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Plenary Talk. Conference on Intelligent Systems and Semiotics ’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "Modeling fields, evolutionary computations, and hierarchies"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proc. Russian Acad. Sci"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "320–323"
+    ],
+    "title": [
+      "Physical concepts of intellect"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "354"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. PAMI"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "666–670"
+    ],
+    "title": [
+      "Conundrum of Combinatorial Complexity"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proc. STIS’98: Joint Conf. Science & Tech. Intelligent Sys. (ISIC/CIRA/ISAS"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "Cyberaesthetics: aesthetics, symbol, and control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proc. STIS’98: Joint Conf. Science & Tech. Intelligent Sys. (ISIC/CIRA/ISAS"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "Models, Similarity, and Complexity"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proc. STIS ’98: Joint Conf. Science & Tech. Intelligent Sys. (ISIC/CIRA/ISAS"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "Semiotics, Mind, and Architecture of Intelligent Target Tracker"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      }
+    ],
+    "container-title": [
+      "Proc. World Congress on Philosophy"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "title": [
+      "Computational Complexity and the Origin of Universals"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Jaskolski",
+        "given": "J.V."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "671–680"
+    ],
+    "title": [
+      "Maximum likelihood adaptive neural controller"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Marzetta",
+        "given": "T.L."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. SP"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "2097–2100"
+    ],
+    "title": [
+      "Estimating a covariance matrix from incomplete independent realizations of a random vector"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "McManus",
+        "given": "M.M."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1991"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "89–102"
+    ],
+    "title": [
+      "Maximum likelihood neural networks for sensor fusion and adaptive classification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Plum",
+        "given": "C.P."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Third Biennial ASSP Mini Conference"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "pages": [
+      "56–59"
+    ],
+    "title": [
+      "Model based multiple target tracking using MLANS"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Gelder",
+        "given": "P.",
+        "particle": "Van"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Madison, WI"
+    ],
+    "publisher": [
+      "Society for Mathematical Psychology Annual Meeting"
+    ],
+    "title": [
+      "The biological clock hypothesis and eye movements"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      },
+      {
+        "family": "Clark",
+        "given": "L.G."
+      },
+      {
+        "family": "Keller",
+        "given": "T.L."
+      }
+    ],
+    "container-title": [
+      "IRIS Meeting on Passive Sensors"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Laurel, MD"
+    ],
+    "title": [
+      "Information theoretic performance model for ATR"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Coons",
+        "given": "R.P."
+      },
+      {
+        "family": "Streit",
+        "given": "R.L."
+      },
+      {
+        "family": "Luginbuhl",
+        "given": "T.E."
+      },
+      {
+        "family": "Greineder",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "J. Underwater Acoust"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "783–809"
+    ],
+    "title": [
+      "Application of MLANS to signal classification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Chernick",
+        "given": "J.A."
+      },
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "7/8"
+    ],
+    "pages": [
+      "1185–1200"
+    ],
+    "title": [
+      "Multi-sensor ATR and identification friend or foe using MLANS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      },
+      {
+        "family": "Tye",
+        "given": "D.M."
+      },
+      {
+        "family": "Chang",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "J. Underwater Acoust"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "399–414"
+    ],
+    "title": [
+      "Concurrent classification and tracking using maximum likelihood adaptive neural system"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Plum",
+        "given": "C.P."
+      },
+      {
+        "family": "Franchi",
+        "given": "P.R."
+      },
+      {
+        "family": "Tichovolsky",
+        "given": "E.J."
+      },
+      {
+        "family": "Choi",
+        "given": "D.S."
+      },
+      {
+        "family": "Weijers",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1541–1546"
+    ],
+    "title": [
+      "Einsteinian neural network for spectrum estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      },
+      {
+        "family": "Garvin",
+        "given": "L.C."
+      },
+      {
+        "family": "Chang",
+        "given": "W."
+      },
+      {
+        "family": "J",
+        "given": "Monti"
+      }
+    ],
+    "container-title": [
+      "J. Underwater Acoust"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "202–210"
+    ],
+    "title": [
+      "Development of concurrent classification and tracking"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      },
+      {
+        "family": "Burdick",
+        "given": "B.J."
+      },
+      {
+        "family": "Tye",
+        "given": "D.M."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Image Proc"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "203–216"
+    ],
+    "title": [
+      "Model-based neural network for target detection in SAR images"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Webb",
+        "given": "V.H."
+      },
+      {
+        "family": "Bradley",
+        "given": "S.R."
+      },
+      {
+        "family": "Hansen",
+        "given": "C.A."
+      }
+    ],
+    "container-title": [
+      "AGU Radio Sci"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "127–147"
+    ],
+    "title": [
+      "Improved ROTHR detection and tracking using MLANS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Webb",
+        "given": "V.H."
+      },
+      {
+        "family": "Plum",
+        "given": "C.P."
+      },
+      {
+        "family": "Franchi",
+        "given": "P.R."
+      },
+      {
+        "family": "Tichovolsky",
+        "given": "E.J."
+      },
+      {
+        "family": "Weijers",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "A.F. Geoph"
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "Lab. Report T-89-31,"
+    ],
+    "location": [
+      "Lincoln, MA"
+    ],
+    "title": [
+      "Analysis of spread-doppler clutter observed in OTH radar spectra"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Pitts",
+        "given": "W."
+      },
+      {
+        "family": "McCulloch",
+        "given": "W.S."
+      }
+    ],
+    "container-title": [
+      "Bull. Math. Biophys"
+    ],
+    "date": [
+      "1947"
+    ],
+    "pages": [
+      "127–147"
+    ],
+    "title": [
+      "How we know universals: The perception of auditory and visual forms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Plato.. Parmenides. In Plato",
+        "given": "L.Cooper"
+      },
+      {
+        "family": "Press",
+        "given": "Oxford University"
+      },
+      {
+        "family": "Cooper",
+        "given": "New York Plato Complete Works J."
+      }
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "publisher": [
+      "Hackett Publishing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Plotinus"
+      }
+    ],
+    "date": [
+      "250",
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Dillon",
+        "given": "J."
+      },
+      {
+        "family": "S. MacKenna",
+        "particle": "ed."
+      }
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Penguin"
+    ],
+    "title": [
+      "The Six Enneads"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Poggio",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "The 1st Annual INNS Meeting"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "211"
+    ],
+    "title": [
+      "Learning, Regularization and Splines"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Postaire",
+        "given": "J.B."
+      },
+      {
+        "family": "Vasseur",
+        "given": "C.P.A."
+      }
+    ],
+    "container-title": [
+      "IEEE PAMI"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "163–179"
+    ],
+    "title": [
+      "An approximate solution to normal mixture identification with applications to unsupervised pattern classification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "S.J."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Bayesian Statistics: Principles, Models, and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W.H."
+      },
+      {
+        "family": "Flannery",
+        "given": "B.P."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S.A."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W.T."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pribram",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Languages of the Brain"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pribram",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Hillsdale, NJ"
+    ],
+    "publisher": [
+      "Erlbaum"
+    ],
+    "title": [
+      "Rethinking Neural Networks: Quantum Fields and Biological Data"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Priestly",
+        "given": "M.B."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Special Analysis and Time Series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Proakis",
+        "given": "J.G."
+      },
+      {
+        "family": "Rader",
+        "given": "C.M."
+      },
+      {
+        "family": "Ling",
+        "given": "F."
+      },
+      {
+        "family": "Nikias",
+        "given": "C.L."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Advanced Digital Signal processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Putnam",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Bull. Am. Math. Soc"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "370–373"
+    ],
+    "title": [
+      "Review of Shadows of the Mind, by R. Penrose"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reilly",
+        "given": "D.L."
+      },
+      {
+        "family": "Scofield",
+        "given": "C.L."
+      },
+      {
+        "family": "Elbaum",
+        "given": "C."
+      },
+      {
+        "family": "Cooper",
+        "given": "L.N."
+      }
+    ],
+    "container-title": [
+      "1st Int. Conf"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Neural Networks, IEEE"
+    ],
+    "title": [
+      "Learning System Architectures Composed of Multiple Learning Modules"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Riasanovsky",
+        "given": "N.V."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Emergence of Romanticism"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ricciardi",
+        "given": "L.M."
+      },
+      {
+        "family": "Umezawa",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Kybernetik"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "44"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "S.O."
+      }
+    ],
+    "container-title": [
+      "Bell Syst. Tech. J"
+    ],
+    "date": [
+      "1944"
+    ],
+    "note": [
+      "reprinted in Wax (1954)."
+    ],
+    "pages": [
+      "282–332"
+    ],
+    "title": [
+      "Mathematical analysis of random noise"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "S.O."
+      }
+    ],
+    "container-title": [
+      "Bell Syst. Tech. J"
+    ],
+    "date": [
+      "1945"
+    ],
+    "note": [
+      "reprinted in Wax (1954)."
+    ],
+    "pages": [
+      "46–156"
+    ],
+    "title": [
+      "Mathematical analysis of random noise II"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenblatt",
+        "given": "F."
+      }
+    ],
+    "container-title": [
+      "Psychol. Rev"
+    ],
+    "date": [
+      "1958"
+    ],
+    "pages": [
+      "386–408"
+    ],
+    "title": [
+      "The perceptron; A probabilistic model for information storage and organization in the brain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenblatt",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Spartan Books"
+    ],
+    "title": [
+      "Principles of Neurodynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenblueth",
+        "given": "A."
+      },
+      {
+        "family": "Wiener",
+        "given": "N."
+      },
+      {
+        "family": "Bigelow",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Philos. Sci"
+    ],
+    "date": [
+      "1943"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "18–24"
+    ],
+    "title": [
+      "Behavior, purpose and teleology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rumelhart",
+        "given": "D.E."
+      },
+      {
+        "family": "Hinton",
+        "given": "G.E."
+      },
+      {
+        "family": "Williams",
+        "given": "R.J."
+      }
+    ],
+    "container-title": [
+      "Rumelhart and McClelland"
+    ],
+    "date": [
+      "1986",
+      "1986"
+    ],
+    "title": [
+      "Learning internal representations by error propagation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Rumelhart",
+        "given": "D.E."
+      },
+      {
+        "family": "McClelland",
+        "given": "J.L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Parallel Distributing Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Russell",
+        "given": "B."
+      },
+      {
+        "family": "Whitehead",
+        "given": "A.N."
+      }
+    ],
+    "date": [
+      "1908",
+      "1962"
+    ],
+    "location": [
+      "Oxford, England"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Principia Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sakurai",
+        "given": "J.J."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Modern Quantum Mechanics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schoendorf",
+        "given": "W.H."
+      },
+      {
+        "family": "Marzetta",
+        "given": "T.L."
+      },
+      {
+        "family": "Perlovsky",
+        "given": "L.I."
+      },
+      {
+        "family": "Martinsen",
+        "given": "E.A."
+      },
+      {
+        "family": "Wallace",
+        "given": "R.G."
+      },
+      {
+        "family": "Rais",
+        "given": "H."
+      },
+      {
+        "family": "Affens",
+        "given": "D.W."
+      }
+    ],
+    "container-title": [
+      "SPIE Conference on Optical Engineering in Aerospace Sensing"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "title": [
+      "Application of a maximum likelihood algorithm to the detection of targets in SAR images"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Schopenhauer",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1819"
+    ],
+    "location": [
+      "Dover, Boston, MA"
+    ],
+    "title": [
+      "The World as Will and Representation"
+    ],
+    "translator": [
+      {
+        "family": "Payne",
+        "given": "E.F."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schrödinger",
+        "given": "E."
+      }
+    ],
+    "date": [
+      "1944"
+    ],
+    "location": [
+      "Cambridge, England"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "What Is Life?"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Searle",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Cambridge, England"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Minds, Brains, and Programs, The Behavioral and Brain Sciences, 3"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Searle",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Rediscovery of the Mind"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Searle",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "New York Review Press"
+    ],
+    "title": [
+      "The Mystery of Consciousness"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Searle",
+        "given": "S.R."
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Matrix Algebra Useful for Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sebeok",
+        "given": "T.A."
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "publisher": [
+      "Mouton, The Hague"
+    ],
+    "title": [
+      "Perspectives in Zoosemiotics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sebeok",
+        "given": "T.A."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Bloomington, IN"
+    ],
+    "publisher": [
+      "Indiana University Press"
+    ],
+    "title": [
+      "A Perfusion of Signs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Segre",
+        "given": "A.M."
+      }
+    ],
+    "container-title": [
+      "IEEE Expert"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "31–34"
+    ],
+    "title": [
+      "Applications of machine learning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shannon",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "Bell Syst. Tech. J"
+    ],
+    "date": [
+      "1948"
+    ],
+    "title": [
+      "The mathematical theory of communication"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Shore",
+        "given": "J.E."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Info. Theory"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "851–854"
+    ],
+    "title": [
+      "On a relation between maximum likelihood classification and minimum relativeentropy classification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IT-84"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shore",
+        "given": "J.E."
+      },
+      {
+        "family": "Johnson",
+        "given": "R.W."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Inform. Theory"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "26–37"
+    ],
+    "title": [
+      "Axiomatic derivation of the principle of maximum entropy and the principle of minimum cross-entropy"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IT-26(1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Simpson",
+        "given": "P.K."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Pergamon Press"
+    ],
+    "title": [
+      "Artificial Neural Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Singer",
+        "given": "R.A."
+      },
+      {
+        "family": "Sea",
+        "given": "R.G."
+      },
+      {
+        "family": "Housewright",
+        "given": "R.B."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Inform. Theory"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "423–432"
+    ],
+    "title": [
+      "Derivation and evaluation of improved tracking filters for use in dense multitarget environments"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IT-20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sittler",
+        "given": "R.W."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Military Electronics"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "125–139"
+    ],
+    "title": [
+      "An Optimal Data Association Problem in Surveillance Theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "MIL-8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Skinner",
+        "given": "B.F."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Alfred A. Knopf"
+    ],
+    "title": [
+      "About Behaviorism"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Solovyov",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Encyclopaedia",
+        "given": "Brokgauz"
+      },
+      {
+        "family": "Efron",
+        "given": "St"
+      }
+    ],
+    "location": [
+      "Peterburg, Russia"
+    ],
+    "title": [
+      "Kant’s philosophy"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Spearman",
+        "given": "C.E."
+      }
+    ],
+    "container-title": [
+      "Am. J. Psych"
+    ],
+    "date": [
+      "1904"
+    ],
+    "pages": [
+      "201–293"
+    ],
+    "title": [
+      "General Intelligence Objectively Determined and Measured"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Specht",
+        "given": "D.F."
+      }
+    ],
+    "date": [
+      "1966"
+    ],
+    "genre": [
+      "Lab. Rep. SU-SEL-66-029."
+    ],
+    "publisher": [
+      "Stanford Elec"
+    ],
+    "title": [
+      "Generation of polynomial discriminant functions for pattern recognition"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Specht",
+        "given": "D.F."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "109–118"
+    ],
+    "title": [
+      "Probabilistic neural networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Streit",
+        "given": "R.L."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Signal and Data Processing of Small Targets, SPIE International Symposium"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "460–471"
+    ],
+    "title": [
+      "Track initialization sensitivity in clutter"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2561"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Streit",
+        "given": "R.L."
+      },
+      {
+        "family": "Luginbuhl",
+        "given": "T.E."
+      }
+    ],
+    "container-title": [
+      "NUSC Tech. Memorandum, TM #911277"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New London, CT"
+    ],
+    "title": [
+      "Maximum likelihood training of probabilistic neural networks"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Streit",
+        "given": "R.L."
+      },
+      {
+        "family": "Luginbuhl",
+        "given": "T.E."
+      }
+    ],
+    "container-title": [
+      "SPIE International Symposium on Signal and Data Processing of Small Targets, SPIE Proceedings"
+    ],
+    "date": [
+      "1994",
+      "2335"
+    ],
+    "location": [
+      "Orlando, FL"
+    ],
+    "title": [
+      "Maximum likelihood method for probabilistic multi-hypothesis tracking"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Stuart",
+        "given": "C.I.J.M."
+      },
+      {
+        "family": "Takahashi",
+        "given": "Y."
+      },
+      {
+        "family": "Umezawa",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "J. Theor. Biol"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "605"
+    ],
+    "title": [
+      "Quantum neurodynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sun",
+        "given": "R."
+      },
+      {
+        "family": "Bookman",
+        "given": "L.A."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Computational Architectures Integrating Neural and Symbolic Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Taborsky",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Conference on Intelligent Systems and Semiotics ’98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "title": [
+      "The Architectures of Intelligent Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Taborsky",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Joint Conference on Intelligent Systems ISIC/ISAS 99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "title": [
+      "Emotions As Forms of Consciousness"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "J.G."
+      }
+    ],
+    "container-title": [
+      "Neural Networks"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "6/7"
+    ],
+    "pages": [
+      "1181–1190"
+    ],
+    "title": [
+      "Goals, drives and consciousness"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "J.G."
+      }
+    ],
+    "container-title": [
+      "Toward a Scientific Basis for Consciousness, Hameroff et al"
+    ],
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Modelling what it is like to be"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "US/AS MoA Radar Research Meeting"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Adelaide, Australia"
+    ],
+    "title": [
+      "Clutter characterization"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Thurstone",
+        "given": "L.L."
+      }
+    ],
+    "date": [
+      "1947"
+    ],
+    "location": [
+      "Chicago, IL"
+    ],
+    "publisher": [
+      "University of Chicago Press"
+    ],
+    "title": [
+      "Multiple Factor Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Titterington",
+        "given": "D.M."
+      },
+      {
+        "family": "Smith",
+        "given": "A.F.M."
+      },
+      {
+        "family": "Makov",
+        "given": "U.E."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Statistical Analysis of Finite Mixture Distributions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tukey",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Welsey"
+    ],
+    "title": [
+      "Exploratory Data Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "A.M",
+        "given": "Turing"
+      }
+    ],
+    "container-title": [
+      "Proc. London Math. Soc"
+    ],
+    "date": [
+      "1937"
+    ],
+    "pages": [
+      "230–265"
+    ],
+    "title": [
+      "On computable numbers with an application to the Entscheidunggsproblem"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "Ser. 2) 42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vandrak",
+        "given": "R.R."
+      },
+      {
+        "family": "Smith",
+        "given": "G."
+      },
+      {
+        "family": "IIatfield",
+        "given": "V.E."
+      },
+      {
+        "family": "Tsunoda",
+        "given": "R.T."
+      },
+      {
+        "family": "Frank",
+        "given": "V.R."
+      },
+      {
+        "family": "Perreault",
+        "given": "P.D."
+      }
+    ],
+    "date": [
+      "1977"
+    ],
+    "genre": [
+      "RADC-TR-78-7,"
+    ],
+    "location": [
+      "Menlo Park, CA"
+    ],
+    "publisher": [
+      "SRI"
+    ],
+    "title": [
+      "Chatanika Model for the HF Propagation Prediction"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vapnik",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Nature of Statistical Learning Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Walker",
+        "given": "A.M."
+      }
+    ],
+    "container-title": [
+      "J. Aust. Math. Soc"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "363–384"
+    ],
+    "title": [
+      "Asymptotic properties of least squares estimates of parameters of the spectrum of a stationary non-determininstic time series"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Watanabe",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "John Wiley, New York"
+    ],
+    "title": [
+      "Pattern Recognition: Human and Mechanical"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Watson",
+        "given": "J.B."
+      }
+    ],
+    "container-title": [
+      "Psychol. Rev"
+    ],
+    "date": [
+      "1913"
+    ],
+    "pages": [
+      "158–177"
+    ],
+    "title": [
+      "Psychology as the behaviorist views it"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wax",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1954"
+    ],
+    "location": [
+      "Dover, New York"
+    ],
+    "title": [
+      "Selected Papers in Noise and Stochastic Processes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Webb",
+        "given": "J.C."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Dordrecht, The Netherlands"
+    ],
+    "publisher": [
+      "Reidel"
+    ],
+    "title": [
+      "Mechanism, Mentalism, and Metamathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Werbos",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1974"
+    ],
+    "genre": [
+      "Ph.D. thesis,"
+    ],
+    "publisher": [
+      "Harvard"
+    ],
+    "title": [
+      "Beyond regression: new T"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Wheeler",
+        "given": "J.A."
+      }
+    ],
+    "container-title": [
+      "IBM Journ. Res. & Dev"
+    ],
+    "date": [
+      "1988"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "4–15"
+    ],
+    "title": [
+      "World as system self-synthesized by quantum networking"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Whorf",
+        "given": "B.L."
+      }
+    ],
+    "date": [
+      "1936",
+      "1964"
+    ],
+    "editor": [
+      {
+        "family": "Carroll",
+        "given": "J.B."
+      }
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "In Language Thought and Reality: Selected Writings of Benjamin Lee Whorf"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Widrow",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "WESCON Convention Record, Part"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "74–85"
+    ],
+    "title": [
+      "Adaptive sample-data systems—A statistical theory of adaptation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Widrow",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "Twenty-Second Asilomar Conference on Signals, Systems & Computers"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Asilomar, CA"
+    ],
+    "title": [
+      "Efficiency of adaptive algorithms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wiener",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1948"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Cybernetics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Windelband",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1883"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "The History of Philosophy"
+    ],
+    "translator": [
+      {
+        "family": "Tufts",
+        "given": "J.H."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Winston",
+        "given": "P.H."
+      }
+    ],
+    "date": [
+      "1984",
+      "1961"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "editor": [
+      {
+        "family": "Philosophers",
+        "given": "M.A.Xenophanes In The Presocratic"
+      },
+      {
+        "family": "Kirk",
+        "given": "G."
+      },
+      {
+        "family": "Raven",
+        "given": "J.E."
+      }
+    ],
+    "location": [
+      "Reading",
+      "Cambridge"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Artificial Intelligence"
+    ],
+    "translator": [
+      {
+        "literal": "trans."
+      }
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Xu",
+        "given": "L."
+      },
+      {
+        "family": "Yuille",
+        "given": "A.L."
+      }
+    ],
+    "container-title": [
+      "IEEE Trans. Neural Networks"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "131–143"
+    ],
+    "title": [
+      "Robust principal component analysis by self-organizing rules based on statistical physics approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yarman-Vural",
+        "given": "F."
+      },
+      {
+        "family": "Ataman",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Pattern Recog"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "385–401"
+    ],
+    "title": [
+      "Noise, histogram and cluster validity for Gaussian-mixtured data"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yule",
+        "given": "G.U."
+      }
+    ],
+    "container-title": [
+      "Trans. Royal Soc"
+    ],
+    "date": [
+      "1927"
+    ],
+    "pages": [
+      "267–298"
+    ],
+    "title": [
+      "On a method of investigating periodicities in disturbed series, with special reference to Wolfer’s sunspot numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "A226"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zadeh",
+        "given": "L.A."
+      },
+      {
+        "family": "also",
+        "given": "See"
+      },
+      {
+        "family": "Kandel",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proc. Inst. Radio Eng"
+    ],
+    "date": [
+      "1962",
+      "1986"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "pages": [
+      "856–865"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "From circuit theory to system theory",
+      "Fuzzy Mathematical Techniques with Applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zadeh",
+        "given": "L.A."
+      }
+    ],
+    "container-title": [
+      "Inform. Control"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "338–352"
+    ],
+    "title": [
+      "Fuzzy sets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zadeh",
+        "given": "L.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Intelligent Systems and Semiotics ’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Gaithersburg, MD"
+    ],
+    "pages": [
+      "26–30"
+    ],
+    "title": [
+      "Information granulation and its centrality in human and machine intelligence"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zebker",
+        "given": "H.A."
+      },
+      {
+        "family": "Zyl",
+        "given": "J.J.",
+        "particle": "van"
+      },
+      {
+        "family": "Held",
+        "given": "D.N."
+      }
+    ],
+    "container-title": [
+      "J. Geoph. Res"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "683–701"
+    ],
+    "title": [
+      "Imaging radar polarimetry from wave synthesis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "92"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zeki",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Blackwell, Oxford, England"
+    ],
+    "title": [
+      "A Vision of the Brain"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zubarev",
+        "given": "D.N."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Moscow"
+    ],
+    "publisher": [
+      "Nauka"
+    ],
+    "title": [
+      "Nonequilibrium Statistical Thermodynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zue",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "note": [
+      "This page intentionally left blank"
+    ],
+    "publisher": [
+      "MIT"
+    ],
+    "title": [
+      "Spoken Language Systems. Annual Research Summary, Laboratory for Computer Science"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Blackman",
+        "given": "S.S."
+      },
+      {
+        "literal": "and Ego, 394, Blum, A.L."
+      },
+      {
+        "family": "emotions",
+        "given": "Bonnisone"
+      },
+      {
+        "family": "differentiation",
+        "given": "Bookman"
+      },
+      {
+        "given": "L.A."
+      }
+    ],
+    "container-title": [
+      "P.P",
+      "R.P"
+    ],
+    "location": [
+      "Brooks, R.A"
+    ],
+    "note": [
+      "and Kant-MFT Competitive neural network, 58 399, 404; mysteries, theory, 411–412 Complex adaptive systems, 418; neural structures, Brockett, R.W., 327 107–108; vs. fuzziness, 409–411; purpose, 400;",
+      "and MFT, 368 and resonance, 115; and Buddhism, xx; emptiness and instinct for knowledge, Complexity: of CAT, 297; Self, 394; time, 403; 395 combinatorial complexity, and unconscious, 396; Burdick, B.J., 260 51, 121n.1, 121n.4; and Understanding, 396."
+    ],
+    "pages": [
+      "47 347 392–393",
+      "401–402",
+      "74 378 2 397",
+      "147,",
+      "409–411",
+      "74 109–110"
+    ],
+    "title": [
+      "123 Clutter, 29, 243, 269, 281 404; emergence in history, Böhme, 419 Cognitive science",
+      "14 Collective consciousness, 396, 393–395, 398, 404; and Boole, 121n.2, 143 407 fuzziness, 396; hard and Botha",
+      "421 Collective unconscious, 130, easy questions, 395; Bottom-up processing, 74–75, 111 149n.21, 392, 419n.5 intentionality, 406; levels, Boundary contour system, 114 Competitive and cooperative dynamics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "146n.10",
+      "46, 54",
+      "46, 123",
+      "44 393; modalities, 393, Brain",
+      "46, 52, 54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burg",
+        "given": "J.P."
+      },
+      {
+        "family": "Jaynes",
+        "given": "J.",
+        "particle": "See also"
+      },
+      {
+        "family": "Burgeois",
+        "given": "F."
+      },
+      {
+        "family": "Maimonides",
+        "given": "M."
+      },
+      {
+        "family": "J.",
+        "given": "Searle"
+      },
+      {
+        "family": "MBV",
+        "particle": "of"
+      }
+    ],
+    "date": [
+      "47 conundrum"
+    ],
+    "note": [
+      "77; of MFT, Unconscious 193; of nearest neighbor Contradiction law, 102 concept, 60; of problems, Conundrum of combinatorial"
+    ],
+    "pages": [
+      "144"
+    ],
+    "title": [
+      "287 computational, 120"
+    ],
+    "type": null,
+    "volume": [
+      "29, 52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MFT",
+        "given": "Hart"
+      }
+    ],
+    "container-title": [
+      "Field System",
+      "P.E",
+      "Gibbs Quantum Modeling Field Hegel"
+    ],
+    "issue": [
+      "ood, 186"
+    ],
+    "location": [
+      "Hall, D.L"
+    ],
+    "note": [
+      "mutual information, 180 372–374 Haykin, S., 123 Information fusion, 312–313 Genetic operators, 108 Hebb, D., 5 InnoVerity.com, xix GFRANS, 292 Hebbian learning, 258–261 Instinct,"
+    ],
+    "pages": [
+      "371–372",
+      "53",
+      "368–369,",
+      "356 395"
+    ],
+    "title": [
+      "General fuzzy non-linear Information, 172; and alternative regression, 292–293",
+      "122 choice states, 177; and Generalization, xix, 69, 80, 85, Hameroff, S.R., 124, 424 Einsteinian likelihood, 194 Hamiltonian Quantum Modeling 177, 183; vs. entropy, Genetic algorithms, 106–107"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46",
+      "112, 118, 194",
+      "147n.15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "May",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "approximate, 196"
+    ],
+    "genre": [
+      "CRB 342–"
+    ],
+    "note": [
+      "AR, McClelland, 90 343; interactive learning, MA, ARMA, 264–265; McCulloch, W.S., 4, 142; a priori 229; partial supervision, CAT models, 299–301; structures, 53; additive 228; SAR, 245–250; clutter, 241–242; dynamic, neural network, 122; scene segmentation, 238; 33–36; motor control, realism, 5; revolution 6 structure learning, 232; 115; origins of, 372–373;"
+    ],
+    "title": [
+      "46 convergence sensitivities, antinomial nature, 420; MBV. See Model-based vision 217–218; vs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "See Putnam",
+        "given": "H."
+      },
+      {
+        "given": "A.-similarity"
+      },
+      {
+        "given": "conditional"
+      }
+    ],
+    "container-title": [
+      "internal also Entropy; Information Quantum Modeling Field Theory, Schema",
+      "Sign",
+      "D.E",
+      "Qualia",
+      "Quantum computing",
+      "See"
+    ],
+    "location": [
+      "Sakurai, J.J"
+    ],
+    "note": [
+      "fuzzy, 158; and 321–322 SAR, 238–239; data, 239–240; Judgment, 359; Shannon-Quantum measurement, 45,",
+      "and Simon, H.A., 86; logic, 88 322–323; Gibbs QMF, fuzziness, 110, 371 Simple and complex problems, 324–325; Hamiltonian Schoendorf, W.H., 196, 260 59, 80–81, 84. See also QMF, 326–327 Scholasticism, 145n.6 Statistical Learning"
+    ],
+    "pages": [
+      "415",
+      "123 157",
+      "327 156–157",
+      "418",
+      "421"
+    ],
+    "title": [
+      "Pure Spirit, 356 Rule-based systems, xix, 6",
+      "387–388 complexity, 7; and also Semiotics Purposiveness, 360, 366, 384, learning, 6–7. See also Similarity measures, 12, Adaptive 421; and beauty, 375 Artificial intelligence fuzzy, 159; Aristotelian, Pythagoras, 135 Rumelhart",
+      "55, 86, 121n.2, 143, Aristotelian); AZ-385 similarity (see Aristotelian Q Fuzzy); Bayesian A-similarity, 165–166; QMFT. See Quantum Modeling S Bayesian AZ-similarity, Field Theory 168–169; complexity",
+      "173, models, See Models, Einsteinian, 181–183"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11–12, 92, 375",
+      "90",
+      "388, 393, 407 158, 160",
+      "120",
+      "198",
+      "325, 382, 391",
+      "109, 370"
+    ]
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "note": [
+      "Bold references (e.g., [Alexandrescu02]) are hyperlinks in the online bibliography."
+    ],
+    "title": [
+      "Note: For browsing convenience, this bibliography is also available online at"
+    ],
+    "type": "webpage",
+    "url": [
+      "http://www.gotw.ca/publications/xc++s/bibliography.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Alexandrescu01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Modern C++ Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Alexandrescu02"
+    ],
+    "container-title": [
+      "Users Journal"
+    ],
+    "date": [
+      "April/June/August 2002"
+    ],
+    "issue": [
+      "C++",
+      "4,6,8"
+    ],
+    "title": [
+      "Discriminated Unions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C",
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "M."
+      },
+      {
+        "family": "Fink",
+        "given": "S."
+      },
+      {
+        "family": "Grove",
+        "given": "D."
+      },
+      {
+        "family": "Hind",
+        "given": "M."
+      },
+      {
+        "family": "Sweeney",
+        "given": "P.F."
+      }
+    ],
+    "citation-number": [
+      "Arnold00"
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Object-Oriented Programming, Systems, Languages, and Applications"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Adaptive Optimization in the Jalapeño JVM"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bentley",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Bentley00"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Second Edition (Addison-Wesley"
+    ],
+    "title": [
+      "Programming Pearls"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Boost] C++ Boost (www.boost.org)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "BoostES"
+      },
+      {
+        "family": "Cargill",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Cargill94"
+    ],
+    "note": [
+      "C++ Report, 9(6), November-December 1994)."
+    ],
+    "title": [
+      "Boost Library Requirements and Guidelines, Exception-specification rationale\" (Boost web site",
+      "Exception Handling: A False Sense of Security"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "C90"
+    ],
+    "container-title": [
+      "ISO/IEC 9899:1990(E), Programming LanguagesC (ISO C90 and ANSI C89 standard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "C99"
+    ],
+    "note": [
+      "ISO/IEC 9899:1999(E), Programming LanguagesC (revised ISO and ANSI C99 standard)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "C++98"
+    ],
+    "container-title": [
+      "Programming LanguagesC++"
+    ],
+    "editor": [
+      {
+        "given": "I.S.O."
+      },
+      {
+        "family": "standard)",
+        "given": "A.N.S.I.C.++"
+      }
+    ],
+    "title": [
+      "ISO/IEC 14882:1998(E"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "I.S.O./I.E.C."
+      }
+    ],
+    "citation-number": [
+      "C++03"
+    ],
+    "title": [
+      "Programming LanguagesC++ (up-dated ISO and ANSI C++ standard including the contents of [C++98] plus errata corrections"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Specification",
+        "given": "C.++/C.L.I.Language"
+      }
+    ],
+    "citation-number": [
+      "C++CLI04"
+    ],
+    "container-title": [
+      "Working Draft"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "issue": [
+      "6"
+    ],
+    "publisher": [
+      "Ecma International"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cline",
+        "given": "M."
+      },
+      {
+        "family": "Lomow",
+        "given": "G."
+      },
+      {
+        "family": "FAQs",
+        "given": "M.Girou C.++"
+      }
+    ],
+    "citation-number": [
+      "Cline99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Coplien92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Advanced C++ Programming Styles and Idioms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dewhurst",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Dewhurst02"
+    ],
+    "date": [
+      "2002-04"
+    ],
+    "genre": [
+      "(Software Development 2002 West conference talk,"
+    ],
+    "title": [
+      "C++ Hierarchy Design Idioms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gotchas",
+        "given": "S.Dewhurst C.++"
+      }
+    ],
+    "citation-number": [
+      "Dewhurst03"
+    ],
+    "date": [
+      "2003"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ellis",
+        "given": "M."
+      },
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Ellis90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Annotated C++ Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "Gamma95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "GotW]",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Guru of the Week"
+    ],
+    "title": [
+      "Sutter"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hicks",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Hicks00"
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2000-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "title": [
+      "Creating an Index Table in STL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  }
+]
