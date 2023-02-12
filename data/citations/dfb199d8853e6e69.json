@@ -1,0 +1,47 @@
+[
+  {
+    "container-title": [
+      "NULL, MB_OK | MB_ICONEXCLAMATION); PostQuitMessage"
+    ],
+    "title": [
+      "MessageBox(\"Error during CryptAcquireContext\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NULL, MB_OK | MB_ICONEXCLAMATION); PostQuitMessage"
+    ],
+    "title": [
+      "MessageBox(\"Error during CryptGenKey\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NULL, MB_OK | MB_ICONEXCLAMATION); PostQuitMessage"
+    ],
+    "title": [
+      "MessageBox(\"Error allocating memory for blob.\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NULL, MB_OK | MB_ICONEXCLAMATION); PostQuitMessage"
+    ],
+    "title": [
+      "MessageBox(\"Error during CryptExportKey\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NULL, MB_OK | MB_ICONEXCLAMATION); PostQuitMessage"
+    ],
+    "title": [
+      "MessageBox(\"Error during CryptEncrypt\""
+    ],
+    "type": "chapter"
+  }
+]
