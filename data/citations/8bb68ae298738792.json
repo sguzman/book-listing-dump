@@ -1,0 +1,17 @@
+[
+  {
+    "author": [
+      {
+        "literal": "); //------Output Ports-------output[7:0]CAT; output[3:0]ANO; //------Input Ports--------input CLK, CLEAR, HOLD"
+      }
+    ],
+    "container-title": [
+      "//-----Internal Variables-----reg[23:0]clkdiv"
+    ],
+    "issue": [
+      "ode; reg[7:0]cat0; reg[7:0]cat1; reg[7:0]cat2; reg[7:0]cat3; reg[13:0]refclk; reg[3:0]anode; reg[3:0]ones; reg[3:0]tens; reg[3:0]hundreds"
+    ],
+    "type": "article-journal",
+    "volume": []
+  }
+]

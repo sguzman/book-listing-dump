@@ -1,0 +1,3427 @@
+[
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Computational Lithography By Xu"
+      },
+      {
+        "family": "Copyright",
+        "given": "Gonzalo R.Arce"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Computational Lithography By Xu"
+      },
+      {
+        "family": "Copyright",
+        "given": "Gonzalo R.Arce"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Syntax OPC tv(N,N filter,k,pz,s,a,t r,t m,gamma D, gamma TV,epsilon,maxloop"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax PSM tv(N,N filter,k,pz,r,s,a,t r,t m,gamma D, gamma TV,epsilon,maxloop"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax OPC fse(N,pz,N filter,pixel,k,NA,lamda,order,sigma large inner, sigma large outer,step,a,t r,t m,gamma D,gamma WA,epsilon, maxloop"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Syntax TCC=SOCS(N,pixel,k,NA,lamda,midway,sigma,order)."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax PSM dct(N mask,pz,r,pixel,k,NA,lamda,sigma,order, threshold,step,a,t r,t m,gamma D,epsilon,maxloop"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax smo OPC(N,pz,N filter,pixel,k,NA,lamda,order, sigma large inner,sigma large outer"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax smo OPC mask(N,pz,N filter,pixel,k,NA,lamda,order, sigma large inner,sigma large outer"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax smo PSM(N,pz,N filter,pixel,k,NA,lamda,order,sigma"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Syntax flag=check OPC(m dummy,N dummy,singular1, singular2"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Example check PSM(m dummy,80,9,1,2); This example is used in Section 10.5.3"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "The"
+    ],
+    "title": [
+      "Description PSM 3D2 performs the phase-shifting mask optimization based on the boundary layer model, which takes into account the thick-mask effects"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Adam",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "Technical report,",
+      "PhD dissertation,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "pages": [
+      "2"
+    ],
+    "publisher": [
+      "Electrical Engineering and Computer Sciences, University of California"
+    ],
+    "title": [
+      "Algorithm The algorithms are described in Section 10.5.2. References 1. International technology roadmap for semiconductors",
+      "Domain decomposition methods for the electromagnetic simulation of scattering from three-dimensional structures with applications in lithography"
+    ],
+    "type": "thesis",
+    "url": [
+      "http://public."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adam",
+        "given": "K."
+      },
+      {
+        "family": "Neureuther",
+        "given": "A.R."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Journal of Microlithography, Microfabrication, and Microsystems"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "253"
+    ],
+    "title": [
+      "Domain decomposition methods for the rapid electromagnetic simulation of photomask scattering"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Azpiroz",
+        "given": "J.T."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2004"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "location": [
+      "Los Angeles"
+    ],
+    "publisher": [
+      "Department of Electrical Engineering, University of California"
+    ],
+    "title": [
+      "Analysis and modeling of photomask near-fields in sub-wavelength deep ultraviolet lithography with optical proximity corrections"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Babin",
+        "given": "S."
+      },
+      {
+        "family": "Kuzmin",
+        "given": "I.Yu"
+      },
+      {
+        "family": "Mack",
+        "given": "C.A."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "503,"
+    ],
+    "title": [
+      "Comprehensive simulation of e-beam lithography processes using prolith/3D and temptation software tools"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4186"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bjorkholm",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Intel Technology Journal"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "ue 3"
+    ],
+    "pages": [
+      "3,"
+    ],
+    "title": [
+      "EUV lithography: the successor to optical lithography?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Born",
+        "given": "M."
+      },
+      {
+        "family": "Wolf",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "SPIE Press"
+    ],
+    "title": [
+      "Principles of Optics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Borodovsky",
+        "given": "Y.A."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "genre": [
+      "US patent 5,424,154,"
+    ],
+    "title": [
+      "Lithographic enhancement method and apparatus for randomly spaced structures"
+    ],
+    "type": "patent"
+  },
+  {
+    "author": [
+      {
+        "family": "Brunner",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1/2"
+    ],
+    "pages": [
+      "57–67"
+    ],
+    "title": [
+      "Impact of lens aberrations on optical lithography"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burkhardt",
+        "given": "M."
+      },
+      {
+        "family": "Progler",
+        "given": "C."
+      },
+      {
+        "family": "Yen",
+        "given": "A."
+      },
+      {
+        "family": "Wells",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Microelectronic Engineering"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "91–95"
+    ],
+    "title": [
+      "Illuminator design for the printing of regular contact patterns"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Publishing House of Electronics Industry"
+    ],
+    "title": [
+      "The Science and Engineering of Microelectronic Fabrication"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chan",
+        "given": "S.H."
+      },
+      {
+        "family": "Wong",
+        "given": "A.K."
+      },
+      {
+        "family": "Lam",
+        "given": "E.Y."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Optics Express"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "19"
+    ],
+    "pages": [
+      "14746–14760"
+    ],
+    "title": [
+      "Initialization for robust inverse synthesis of phaseshifting masks in optical projection lithography"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cobb",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1998"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "publisher": [
+      "University of California at Berkeley"
+    ],
+    "title": [
+      "Fast optical and process proximity correction algorithms for integrated circuit manufacturing"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Cobb",
+        "given": "N."
+      },
+      {
+        "family": "Zakhor",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "BACUS Symposium on Photomask Technology, Proceedings of SPIE"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "313–327,"
+    ],
+    "title": [
+      "Fast sparse aerial image calculation for OPC"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2440"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cook",
+        "given": "W.J."
+      },
+      {
+        "family": "Cunningham",
+        "given": "W.H."
+      },
+      {
+        "family": "Pulleyblank",
+        "given": "W.R."
+      },
+      {
+        "family": "Schrijver",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Combinatorial Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Computational Lithography By Xu"
+      },
+      {
+        "family": "Copyright",
+        "given": "Gonzalo R.Arce"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dai",
+        "given": "Y."
+      },
+      {
+        "family": "Yuan",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "SIAM Journal on Optimization"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "177–182"
+    ],
+    "title": [
+      "A nonlinear conjugate gradient method with a strong global convergence property"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davids",
+        "given": "P.S."
+      },
+      {
+        "family": "Bollepalli",
+        "given": "S.B."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "69240 ,"
+    ],
+    "title": [
+      "Generalized inverse problem for partially coherent projection lithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6924"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Domnenko",
+        "given": "V."
+      },
+      {
+        "family": "Schmoeller",
+        "given": "T."
+      },
+      {
+        "family": "Klimpel",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "727141,"
+    ],
+    "title": [
+      "Analysis of EUVL mask effects under partially coherent illumination"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "7271"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Engeldrum",
+        "given": "P.G."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Journal of Imaging Science and Technology"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "239–244"
+    ],
+    "title": [
+      "Color gamut limits of halftone printing with and without the paper spread function"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Erdmann",
+        "given": "A."
+      },
+      {
+        "family": "Evanschitzky",
+        "given": "P."
+      },
+      {
+        "family": "Citarella",
+        "given": "G."
+      },
+      {
+        "family": "Fuhner",
+        "given": "T."
+      },
+      {
+        "family": "Bisschop",
+        "given": "P.D."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Photomask and Next- Generation Lithography Mask Technology XIII, Proc. of SPIE"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "628319,"
+    ],
+    "title": [
+      "Rigorous mask modeling using waveguide and FDTD methods: An assess- ment for typical hyper NA imaging problems"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6283"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Erdmann",
+        "given": "A."
+      },
+      {
+        "family": "Farkas",
+        "given": "R."
+      },
+      {
+        "family": "Fuhner",
+        "given": "T."
+      },
+      {
+        "family": "Tollkuhn",
+        "given": "B."
+      },
+      {
+        "family": "Kokai",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Optical Microlithography, Proceedings of SPIE"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "646–657,"
+    ],
+    "title": [
+      "Towards automatic mask and source optimization for optical lithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5377"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Farsiu",
+        "given": "S."
+      },
+      {
+        "family": "Robinson",
+        "given": "D."
+      },
+      {
+        "family": "Elad",
+        "given": "M."
+      },
+      {
+        "family": "Milanfar",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "IEEE Transactions on Image Processing"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1327–1344"
+    ],
+    "title": [
+      "Fast and robust multi-frame superresolution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fletcher",
+        "given": "R."
+      },
+      {
+        "family": "Reeves",
+        "given": "C.M."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Computer Journal"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "149–154"
+    ],
+    "title": [
+      "Function minimization by conjugate gradients"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gau",
+        "given": "T.S."
+      },
+      {
+        "family": "Liu",
+        "given": "R.G."
+      },
+      {
+        "family": "Chen",
+        "given": "C.K."
+      },
+      {
+        "family": "Lai",
+        "given": "C.M."
+      },
+      {
+        "family": "Liang",
+        "given": "F.J."
+      },
+      {
+        "family": "Hsiar",
+        "given": "C.C."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "271,"
+    ],
+    "title": [
+      "The customized illumination aperture filter for low k1 photolithography process"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goodman",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1968"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Fourier Optics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Granik",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "Optical Microlithography, Proceedings of SPIE"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "217–229,"
+    ],
+    "title": [
+      "Illuminator optimization methods in microlithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5754"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hager",
+        "given": "W.W."
+      },
+      {
+        "family": "Zhang",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "SIAM Journal on Optimization"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "170–192"
+    ],
+    "title": [
+      "A new conjugate gradient method with guaranteed descent and an efficient line search"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Proceeding of the Royal Society of London"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "263–377,"
+    ],
+    "title": [
+      "The concept of partial coherence in optics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "A208"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hopkins",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London"
+    ],
+    "date": [
+      "1953"
+    ],
+    "pages": [
+      "408–432,"
+    ],
+    "title": [
+      "The concept of partial coherence in optics"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "A217"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Iba",
+        "given": "J."
+      },
+      {
+        "family": "Hashimoto",
+        "given": "K."
+      },
+      {
+        "family": "Ferguson",
+        "given": "R.A."
+      },
+      {
+        "family": "Yanagisawa",
+        "given": "T."
+      },
+      {
+        "family": "Samuels",
+        "given": "D.J."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "218–225,"
+    ],
+    "title": [
+      "Electrical characterization of across field lithographic performance for 256 mbit dram technologies"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2512"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "J."
+      },
+      {
+        "family": "Progler",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "container-title": [
+      "Microlithography World"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "25–28"
+    ],
+    "title": [
+      "Pinholes and pupil fills"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kirk",
+        "given": "J."
+      },
+      {
+        "family": "Progler",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Hove",
+        "given": "L.",
+        "particle": "van den"
+      }
+    ],
+    "pages": [
+      "281–288,"
+    ],
+    "title": [
+      "Pupil illumination: in-situ measurement of partial coherence"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "3334"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lam",
+        "given": "L."
+      },
+      {
+        "family": "Lee",
+        "given": "S.W."
+      },
+      {
+        "family": "Suen",
+        "given": "C.Y."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "869–885"
+    ],
+    "title": [
+      "Thinning methodologies: a comprehensive survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lau",
+        "given": "D.L."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Modern Digital Halftoning"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Levenson",
+        "given": "M.D."
+      },
+      {
+        "family": "Viswanathan",
+        "given": "N.S."
+      },
+      {
+        "family": "Simpson",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electron Devices"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "1828–1836"
+    ],
+    "title": [
+      "Improving resolution in photolithography with a phase-shifting mask"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Levinson",
+        "given": "H.J."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "SPIE Press"
+    ],
+    "title": [
+      "Principles of Lithography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Liebmann",
+        "given": "L."
+      },
+      {
+        "family": "Mansfield",
+        "given": "S."
+      },
+      {
+        "family": "Wong",
+        "given": "A."
+      },
+      {
+        "family": "Lavin",
+        "given": "M."
+      },
+      {
+        "family": "Leipold",
+        "given": "W."
+      },
+      {
+        "family": "Dunham",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "651–665,"
+    ],
+    "title": [
+      "TCAD development for lithography resolution enhancement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "Zakhor",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "container-title": [
+      "IEEE Transactions on Semiconductor Manufacturing"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "138–152"
+    ],
+    "title": [
+      "Binary and phase shifting mask design for optical lithography"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lucas",
+        "given": "K."
+      },
+      {
+        "family": "Tanabe",
+        "given": "H."
+      },
+      {
+        "family": "Strojwas",
+        "given": "A.J."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "Journal of the Optical Society of America A"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "2187–2199"
+    ],
+    "title": [
+      "Efficient and rigorous three-dimensional model for optical lithography simulation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "65200 ,"
+    ],
+    "title": [
+      "Generalized inverse lithography methods for phase-shifting mask design"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6520"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "Optics Express"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "23"
+    ],
+    "pages": [
+      "15066–15079"
+    ],
+    "title": [
+      "Generalized inverse lithography methods for phase-shifting mask design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "714087,"
+    ],
+    "title": [
+      "Binary mask optimization for inverse lithography with partially coherent illumination"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "7140"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "container-title": [
+      "Journal of the Optical Society of America A"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "2960–2970"
+    ],
+    "title": [
+      "Binary mask optimization for inverse lithography with partially coherent illumination"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "container-title": [
+      "Optics Express"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "24"
+    ],
+    "pages": [
+      "20126–20141"
+    ],
+    "title": [
+      "PSM design for inverse lithography with partially coherent illumination"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "45."
+    ],
+    "container-title": [
+      "Journal of the Optical Society of America A"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "1687–1695"
+    ],
+    "title": [
+      "Binary mask optimization for forward lithography based on the boundary layer model in coherent systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "46."
+    ],
+    "container-title": [
+      "Optics Express"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "5783–5793"
+    ],
+    "title": [
+      "Pixel-based simultaneous source and mask optimization for resolution enhancement in optical lithography"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "47."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2009"
+    ],
+    "pages": [
+      "727437,"
+    ],
+    "title": [
+      "PSM design for inverse lithography with partially coherent illumination"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "7274"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "X."
+      },
+      {
+        "family": "Arce",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "48."
+    ],
+    "container-title": [
+      "in review, Journal of the Optical Society of America A"
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "3D PSM optimization based on boundary layer model"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mack",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "date": [
+      "2008"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Fundamental Principles of Optical Lithography: The Science of Microfabrication"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mansfield",
+        "given": "S.M."
+      },
+      {
+        "family": "Liebmann",
+        "given": "L.W."
+      },
+      {
+        "family": "Molless",
+        "given": "A.F."
+      },
+      {
+        "family": "Wong",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "50."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2000"
+    ],
+    "editor": [
+      {
+        "family": "Progler",
+        "given": "C."
+      }
+    ],
+    "pages": [
+      "63–76,"
+    ],
+    "title": [
+      "Lithographic comparison of assist feature design strategies"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nakagawa",
+        "given": "K.H."
+      },
+      {
+        "family": "Chen",
+        "given": "F."
+      },
+      {
+        "family": "Socha",
+        "given": "R."
+      },
+      {
+        "family": "Laidig",
+        "given": "T."
+      },
+      {
+        "family": "Wampler",
+        "given": "K.E."
+      },
+      {
+        "family": "Broeke",
+        "given": "D.V.D."
+      },
+      {
+        "family": "Dusa",
+        "given": "M."
+      },
+      {
+        "family": "Caldwell",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "51."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "315–323,"
+    ],
+    "title": [
+      "Halftone biasing OPC technology: an approach for achieving fine bias control on raster-scan systems"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "3748"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nemhauser",
+        "given": "G.L."
+      },
+      {
+        "family": "Wolsey",
+        "given": "L.A."
+      }
+    ],
+    "citation-number": [
+      "52."
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Integer and Combinatorial Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nocedal",
+        "given": "J."
+      },
+      {
+        "family": "Wright",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "53."
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "Springer Press"
+    ],
+    "title": [
+      "Numerical Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nugrowati",
+        "given": "A.M."
+      },
+      {
+        "family": "Nes",
+        "given": "A.S.",
+        "particle": "van de"
+      },
+      {
+        "family": "Pereira",
+        "given": "S.F."
+      },
+      {
+        "family": "Braat",
+        "given": "J.J.M."
+      }
+    ],
+    "citation-number": [
+      "54."
+    ],
+    "container-title": [
+      "Microelectronic Engineering"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "684–687"
+    ],
+    "title": [
+      "EUV phase mask engineering based on image optimisation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "83"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pang",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "Y."
+      },
+      {
+        "family": "Abrams",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "55."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "62830 ,"
+    ],
+    "title": [
+      "Inverse lithography technology (ILT): What is the impact to the photomask industry?"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6283"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Papadimitriou",
+        "given": "C.H."
+      },
+      {
+        "family": "Steiglitz",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "56."
+    ],
+    "date": [
+      "1982"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Combinatorial Optimization: Algorithms and Complexity"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "J."
+      },
+      {
+        "family": "Park",
+        "given": "C."
+      },
+      {
+        "family": "Rhie",
+        "given": "S."
+      },
+      {
+        "family": "Kim",
+        "given": "Y."
+      },
+      {
+        "family": "Yoo",
+        "given": "M."
+      },
+      {
+        "family": "Kong",
+        "given": "J."
+      },
+      {
+        "family": "Kim",
+        "given": "H."
+      },
+      {
+        "family": "Yoo",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "57."
+    ],
+    "container-title": [
+      "International Symposium on Quality Electronic Design, IEEE Proceedings of the 1st International Symposium on Quality of Electronic Design"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "81–85,"
+    ],
+    "title": [
+      "An efficient rule-based OPC approach using a drc tool for 0.18 ␮m ASIC"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pati",
+        "given": "Y.C."
+      },
+      {
+        "family": "Kailath",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "58."
+    ],
+    "container-title": [
+      "Journal of the Optical Society of America A"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "2438–2452"
+    ],
+    "title": [
+      "Phase-shifting masks for microlithography: automated design and mask requirements"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peckerar",
+        "given": "M.C."
+      },
+      {
+        "family": "Marrian",
+        "given": "C.R.K."
+      }
+    ],
+    "citation-number": [
+      "59."
+    ],
+    "container-title": [
+      "Electron-Beam, X-Ray, EUV and Ion-Beam Submicrometer Lithographies for Manufacturing, Proceedings of SPIE"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "222–238,"
+    ],
+    "title": [
+      "Error measure comparison of currently employed dose-modulation schemes for e-beam proximity effect control"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2437"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peckerar",
+        "given": "M.C."
+      },
+      {
+        "family": "Marrian",
+        "given": "C.R.K."
+      }
+    ],
+    "citation-number": [
+      "60."
+    ],
+    "container-title": [
+      "Description of the algorithm. Journal of Vacuum Science and Technology B"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "2518–2525"
+    ],
+    "title": [
+      "Proximity correction algorithms and a co-processor based on regularized optimization. I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pierrat",
+        "given": "C."
+      },
+      {
+        "family": "Wong",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "61."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "193–202,"
+    ],
+    "title": [
+      "MEF revisited: Low k1 effects versus mask topography effects"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5040"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pierrat",
+        "given": "C."
+      },
+      {
+        "family": "Wong",
+        "given": "A."
+      },
+      {
+        "family": "Vaidya",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "62."
+    ],
+    "container-title": [
+      "Technical Digest: International Electron Devices Meeting"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "53–56,"
+    ],
+    "title": [
+      "Phase-shifting mask topography effects on lithographic image quality"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pistor",
+        "given": "T.V."
+      }
+    ],
+    "citation-number": [
+      "63."
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "publisher": [
+      "University of California at Berkeley"
+    ],
+    "title": [
+      "Electromagnetic simulation and modeling with application in lithography"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Pistor",
+        "given": "T.V."
+      },
+      {
+        "family": "Neureuther",
+        "given": "A.R."
+      },
+      {
+        "family": "Socha",
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "64."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "228–237,"
+    ],
+    "title": [
+      "Modeling oblique incidence effects in photomasks"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Poonawala",
+        "given": "A."
+      },
+      {
+        "family": "Borodovsky",
+        "given": "Y."
+      },
+      {
+        "family": "Milanfar",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "65."
+    ],
+    "container-title": [
+      "Proceedings of SPIE Advanced Lithography Symposium"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "65202 ,"
+    ],
+    "title": [
+      "ILT for double exposure lithography with conventional and novel materials"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6520"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Poonawala",
+        "given": "A."
+      },
+      {
+        "family": "Milanfar",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "66."
+    ],
+    "container-title": [
+      "Journal of Microlithography, Microfabrication, and Microsystems"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "ue 4"
+    ],
+    "pages": [
+      "043001,"
+    ],
+    "title": [
+      "Double exposure mask synthesis using inverse lithography"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Poonawala",
+        "given": "A."
+      },
+      {
+        "family": "Milanfar",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "67."
+    ],
+    "container-title": [
+      "Proceedings of SPIE Microlithography Symposium"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "1159–1172,"
+    ],
+    "title": [
+      "OPC and PSM design using inverse lithography: a nonlinear optimization approach"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6154"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Poonawala",
+        "given": "A."
+      },
+      {
+        "family": "Milanfar",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "68."
+    ],
+    "container-title": [
+      "IEEE Transactions on Image Processing"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "774–788"
+    ],
+    "title": [
+      "Mask design for optical microlithography: an inverse imaging problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Poonawala",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "69."
+    ],
+    "date": [
+      "2007"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "location": [
+      "Santa Cruz"
+    ],
+    "publisher": [
+      "Computer Engineering, University of California"
+    ],
+    "title": [
+      "Mask design for single and double exposure optical microlithography: an inverse imaging approach"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Progler",
+        "given": "C."
+      },
+      {
+        "family": "Conley",
+        "given": "W."
+      },
+      {
+        "family": "Socha",
+        "given": "B."
+      },
+      {
+        "family": "Ham",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "70."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "315,"
+    ],
+    "title": [
+      "Layout and source dependent phase mask transmission tuning"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5754"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Prouty",
+        "given": "M.D."
+      },
+      {
+        "family": "Neureuther",
+        "given": "A.R."
+      }
+    ],
+    "citation-number": [
+      "71."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "228–232,"
+    ],
+    "title": [
+      "Optical imaging with phase shift masks"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "470"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robert",
+        "given": "S."
+      },
+      {
+        "family": "Shi",
+        "given": "X."
+      },
+      {
+        "family": "David",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "72."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "180,"
+    ],
+    "title": [
+      "Simultaneous source mask optimization (SMO"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5853"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosenbluth",
+        "given": "A.E."
+      },
+      {
+        "family": "Bukofsky",
+        "given": "S."
+      },
+      {
+        "family": "Fonseca",
+        "given": "C."
+      },
+      {
+        "family": "Hibbs",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "73."
+    ],
+    "container-title": [
+      "Journal of Microlithography, Microfabrication, and Microsystems"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "13–30"
+    ],
+    "title": [
+      "Optimum mask and source patterns to print a given shape"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Saleh",
+        "given": "B.E.A."
+      },
+      {
+        "family": "Rabbani",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "74."
+    ],
+    "container-title": [
+      "Applied Optics"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "2770–2777"
+    ],
+    "title": [
+      "Simulation of partially coherent imagery in the space and frequency domains and by modal expansion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Salik",
+        "given": "B."
+      },
+      {
+        "family": "Rosen",
+        "given": "J."
+      },
+      {
+        "family": "Yariv",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "75."
+    ],
+    "container-title": [
+      "Journal of the Optical Society of America A"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "2086–2090"
+    ],
+    "title": [
+      "Average coherent approximation for partially coherent optical systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schellenberg",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "76."
+    ],
+    "date": [
+      "2004"
+    ],
+    "publisher": [
+      "SPIE Press"
+    ],
+    "title": [
+      "Resolution Enhancement Techniques in Optical Lithography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schellenberg",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "77."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1–20,"
+    ],
+    "title": [
+      "Resolution enhancement technology: the past, the present, and extensions for the future, optical microlithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5377"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "G.J."
+      },
+      {
+        "family": "Murakowski",
+        "given": "J."
+      },
+      {
+        "family": "Venkataraman",
+        "given": "S."
+      },
+      {
+        "family": "Prather",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "78."
+    ],
+    "container-title": [
+      "Journal of Vacuum Science & Technology B"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "146–151"
+    ],
+    "title": [
+      "Combination lithography for photonic crystal circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sherif",
+        "given": "S."
+      },
+      {
+        "family": "Saleh",
+        "given": "B."
+      },
+      {
+        "family": "Leone",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "79."
+    ],
+    "container-title": [
+      "IEEE Transactions on Image Processing"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "1252–1257"
+    ],
+    "title": [
+      "Binary image synthesis using mixed integer programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shi",
+        "given": "R."
+      },
+      {
+        "family": "Cai",
+        "given": "Y."
+      },
+      {
+        "family": "Hong",
+        "given": "X."
+      },
+      {
+        "family": "Wu",
+        "given": "W."
+      },
+      {
+        "family": "Yang",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "80."
+    ],
+    "container-title": [
+      "Chinese Journal of Semiconductors"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "701–706"
+    ],
+    "title": [
+      "Important works about rules in rules-based optical proximity correction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tirapu-Azpiroz",
+        "given": "J."
+      },
+      {
+        "family": "Burchard",
+        "given": "P."
+      },
+      {
+        "family": "Yablonovitch",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "81."
+    ],
+    "container-title": [
+      "Optical Microlithography, Proceedings of SPIE"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "1611–1619,"
+    ],
+    "title": [
+      "Boundary layer model to account for thick mask effects in photolithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5040"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tirapu-Azpiroz",
+        "given": "J."
+      },
+      {
+        "family": "Yablonovitch",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "82."
+    ],
+    "container-title": [
+      "Optical Microlithography, Proceedings of SPIE"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "1528–1535,"
+    ],
+    "title": [
+      "Fast evaluation of photomask near-fields in subwavelength 193 nm lithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5377"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vogel",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "83."
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "SIAM Press"
+    ],
+    "title": [
+      "Computational Methods for Inverse Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "D.L."
+      },
+      {
+        "family": "Cirelli",
+        "given": "R.A."
+      },
+      {
+        "family": "Spector",
+        "given": "S.J."
+      },
+      {
+        "family": "Blakey",
+        "given": "M.I."
+      },
+      {
+        "family": "Wood",
+        "given": "O.R."
+      }
+    ],
+    "citation-number": [
+      "84."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2000"
+    ],
+    "editor": [
+      {
+        "family": "Progler",
+        "given": "C."
+      }
+    ],
+    "pages": [
+      "366–372,"
+    ],
+    "title": [
+      "Phase-mask effects by dark-field lithography"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4000"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilson",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "85."
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Fourier Series and Optical Transform Techniques in Contemporary Optics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wojcik",
+        "given": "G."
+      },
+      {
+        "family": "Mould",
+        "given": "J.J."
+      },
+      {
+        "family": "Ferguson",
+        "given": "R."
+      },
+      {
+        "family": "Martino",
+        "given": "R."
+      },
+      {
+        "family": "Low",
+        "given": "K.K."
+      }
+    ],
+    "citation-number": [
+      "86."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "455–465,"
+    ],
+    "title": [
+      "Some image modeling issues for I-line, 5 × phase shifting masks"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2197"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "87."
+    ],
+    "container-title": [
+      "Proceedings of the Royal Society of London A"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "349–357"
+    ],
+    "title": [
+      "Electromagnetic diffraction in optical systems I. an integral representation of the image field"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "253"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wolsey",
+        "given": "L.A."
+      }
+    ],
+    "citation-number": [
+      "88."
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Integer Programming, Wiley-Interscience Series in Discrete Mathematics and Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "89."
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "Electrical Engineering and Computer Sciences, University of California"
+    ],
+    "title": [
+      "Rigorous three-dimensional time-domain finite difference electromagnetic simulation"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "A."
+      },
+      {
+        "family": "Neureuther",
+        "given": "A.R."
+      }
+    ],
+    "citation-number": [
+      "90."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electron Devices"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "895–902"
+    ],
+    "title": [
+      "Mask topography effects in projection printing of phase shift masks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "91."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "2001"
+    ],
+    "editor": [
+      {
+        "family": "Progler",
+        "given": "C."
+      }
+    ],
+    "pages": [
+      "1548–1553,"
+    ],
+    "title": [
+      "Asymmetric biasing for subgrid pattern adjustment"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4346"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "92."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "SPIE Press"
+    ],
+    "title": [
+      "Resolution Enhancement Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "93."
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "SPIE Press"
+    ],
+    "title": [
+      "Optical Imaging in Projection Microlithography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "A.K.-K."
+      }
+    ],
+    "citation-number": [
+      "94."
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "PhD dissertation,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "University of California"
+    ],
+    "title": [
+      "Rigorous three-dimensional time-domain finite-difference electromagnetic simulation"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Yao",
+        "given": "P."
+      },
+      {
+        "family": "Schneider",
+        "given": "G.J."
+      },
+      {
+        "family": "Miao",
+        "given": "B.L."
+      },
+      {
+        "family": "Murakowski",
+        "given": "J."
+      },
+      {
+        "family": "Prather",
+        "given": "D.W."
+      },
+      {
+        "family": "Wetzel",
+        "given": "E.D."
+      },
+      {
+        "family": "O’Brien",
+        "given": "D.J."
+      }
+    ],
+    "citation-number": [
+      "95."
+    ],
+    "container-title": [
+      "Applied Physics Letters"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "2920–2922"
+    ],
+    "title": [
+      "Multilayer three-dimensional photolithography with traditional planar method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "85"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yeung",
+        "given": "M.S."
+      },
+      {
+        "family": "Barouch",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "96."
+    ],
+    "container-title": [
+      "IEEE Electron Device Letters"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "433–435"
+    ],
+    "title": [
+      "Limitation of the Kirchhoff boundary conditions for aerial image simulation in 157 nm optical lithography"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yeung",
+        "given": "M.S."
+      },
+      {
+        "family": "Lee",
+        "given": "D."
+      },
+      {
+        "family": "Lee",
+        "given": "R."
+      },
+      {
+        "family": "Neureuther",
+        "given": "A.R."
+      }
+    ],
+    "citation-number": [
+      "97."
+    ],
+    "container-title": [
+      "Proceedings of SPIE"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "452–463,"
+    ],
+    "title": [
+      "Extension of the Hopkins theory of partially coherent imaging to include thin-film interference effects"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1927"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "P."
+      },
+      {
+        "family": "Pan",
+        "given": "D.Z."
+      }
+    ],
+    "citation-number": [
+      "98."
+    ],
+    "container-title": [
+      "Proceedings of ACM/IEEE International Conference on Computer-Aided Design (ICCAD"
+    ],
+    "date": [
+      "2005"
+    ],
+    "pages": [
+      "847–853,"
+    ],
+    "title": [
+      "TIP-OPC: a new topological invariant paradigm for pixel based optical proximity correction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yuan",
+        "given": "C.M."
+      }
+    ],
+    "citation-number": [
+      "99."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electron Devices"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "1604–1613"
+    ],
+    "title": [
+      "Calculation of one-dimension lithographic aerial images using the vector theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yune",
+        "given": "H."
+      },
+      {
+        "family": "Kim",
+        "given": "C."
+      },
+      {
+        "family": "Ahn",
+        "given": "Y."
+      },
+      {
+        "family": "Nam",
+        "given": "B."
+      },
+      {
+        "family": "Yim",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "100."
+    ],
+    "container-title": [
+      "Proceedings of SPIE, The International Society for Optical Engineering"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "61561 1–661561 8,"
+    ],
+    "title": [
+      "High accurate hybrid-OPC method for sub-60 nm memory device"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6156"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "J."
+      },
+      {
+        "family": "Xiong",
+        "given": "W."
+      },
+      {
+        "family": "Tsai",
+        "given": "M."
+      },
+      {
+        "family": "Wang",
+        "given": "Y."
+      },
+      {
+        "family": "Yu",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "101."
+    ],
+    "container-title": [
+      "Simulation of Semiconductor Processes and Devices"
+    ],
+    "date": [
+      "2007"
+    ],
+    "pages": [
+      "49–52"
+    ],
+    "title": [
+      "Efficient mask design for inverse lithography technology based on 2D discrete cosine transformation (DCT"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "Computational Lithography By Xu"
+      },
+      {
+        "family": "Copyright",
+        "given": "Gonzalo R.Arce"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "type": "book"
+  }
+]
