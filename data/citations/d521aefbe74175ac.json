@@ -1,0 +1,727 @@
+[
+  {
+    "title": [
+      "There are few direct references in the text, but here is a short list of books and papers that are mentioned directly or indirectly"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "I.] A.V."
+      },
+      {
+        "family": "Hopcroft",
+        "given": "J.E."
+      },
+      {
+        "family": "Ullman",
+        "given": "J.D."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Data Structures and Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahl",
+        "given": "O.-J."
+      },
+      {
+        "family": "Myrhaug",
+        "given": "B."
+      },
+      {
+        "family": "Nygaard",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Norwegian Computing Center S-22"
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Oslo, Norway"
+    ],
+    "title": [
+      "SIMULA Common Base Language"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahl",
+        "given": "O.-J."
+      },
+      {
+        "family": "Hoare",
+        "given": "C.A.R."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1972"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "174–220"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Hierarchical Program Construction in Structured Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Margaret",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Ellis and Bjarne Stroustrup: The Annotated C++ Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "A."
+      },
+      {
+        "family": "Robson",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Reading, Massachusetts"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "SMALLTALK-80 - The Language and Its Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R.E."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Griswold et.al.: The Snohol4 Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Griswold",
+        "given": "R.E."
+      },
+      {
+        "family": "Griswold",
+        "given": "M.T."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The ICON Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kernighan",
+        "given": "Brian W."
+      },
+      {
+        "family": "Ritchie",
+        "given": "Dennis M."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1978",
+      "1988"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "Andrew"
+      },
+      {
+        "family": "Bjarne Stroustrup",
+        "given": "C.++'"
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "The C++ Report"
+    ],
+    "date": [
+      "1989-07"
+    ],
+    "pages": [
+      "7"
+    ],
+    "title": [
+      "As close to C as possible - but no closer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "Andrew"
+      },
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "Proc USENIX c++ Conference",
+      "Journal of Object Oriented Programming"
+    ],
+    "date": [
+      "1990-04",
+      "July/Aug 1990"
+    ],
+    "pages": [
+      "2",
+      "16–33"
+    ],
+    "title": [
+      "Exception Handling for c++ (revised",
+      "Also"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liskov",
+        "given": "Barbara"
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "pages": [
+      "–225"
+    ],
+    "publisher": [
+      "CLU Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Orwell",
+        "given": "George"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1984",
+      "1949"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Seeker and Warburg"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Richards",
+        "given": "Martin"
+      },
+      {
+        "family": "Whitby-Strevens",
+        "given": "Colin"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1980"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "BCPL - The Language and Its Compiler"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "RosIer",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "AT&T Bell Laboratories Technical Journal"
+    ],
+    "date": [
+      "1984-10-08"
+    ],
+    "pages": [
+      "1685–1700"
+    ],
+    "title": [
+      "The Evolution ofC - Past and Future"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sethi",
+        "given": "Ravi"
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "Software Practice & Experience"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "623–628"
+    ],
+    "title": [
+      "Uniform Syntax for Type Expressions and Declarations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "l1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "An Exercise in Language Evolution. Software Practice & Experience"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "139–61"
+    ],
+    "title": [
+      "Adding Classes to C.'"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1986"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Bjarne Stroustrup: The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Proc. EUUG Spring Conference",
+      "USENIX Computer Systems"
+    ],
+    "date": [
+      "1987-05",
+      "1989"
+    ],
+    "issue": [
+      "4"
+    ],
+    "title": [
+      "Multiple Inheritance for c++",
+      "Also"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      },
+      {
+        "family": "Shopiro",
+        "given": "Jonathan"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Proc. USENIX C++ conference"
+    ],
+    "date": [
+      "1987-11"
+    ],
+    "location": [
+      "Santa Fe"
+    ],
+    "pages": [
+      "417–439"
+    ],
+    "title": [
+      "A Set of C classes for Co-Routine Style Programming"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "USENIX Computer Systems"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "4"
+    ],
+    "title": [
+      "Type-safe Linkage for c++"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "Proc. USENIX c++ Conference"
+    ],
+    "date": [
+      "1988-10",
+      "1989"
+    ],
+    "location": [
+      "Denver",
+      "Also"
+    ],
+    "pages": [
+      "1–18"
+    ],
+    "publisher": [
+      "USENIX Computer Systems"
+    ],
+    "title": [
+      "Parameterized Types for c++"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "container-title": [
+      "The C++ Report"
+    ],
+    "date": [
+      "1989-01"
+    ],
+    "pages": [
+      "1"
+    ],
+    "title": [
+      "Bjarne Stroustrup: Standardizing C++"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1989"
+    ],
+    "publisher": [
+      "USENIX Computer Systems"
+    ],
+    "title": [
+      "The Evolution of c++: 1985-1989"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Woodward",
+        "given": "P.M."
+      },
+      {
+        "family": "Bond",
+        "given": "S.G."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Her Majesty's Stationery Office"
+    ],
+    "title": [
+      "Algol 68-R Users Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "System.'",
+        "given": "U.N.I.X.Time-Sharing"
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "container-title": [
+      "Research Version"
+    ],
+    "date": [
+      "1985-02"
+    ],
+    "edition": [
+      "Tenth"
+    ],
+    "location": [
+      "New Jersey"
+    ],
+    "publisher": [
+      "AT&T Bell Laboratories, Murray Hill"
+    ],
+    "title": [
+      "Programmer's Manual"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkstroem",
+        "given": "Aake"
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Functional Programming Using ML"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "genre": [
+      "Suite 500,"
+    ],
+    "location": [
+      "Washington, DC 20001, USA"
+    ],
+    "publisher": [
+      "NW"
+    ],
+    "title": [
+      "X3 Secretariat: Standard - The C Language. X3J11/90-013. Computer and Business Equipment Manufactures Association, 311 First Street"
+    ],
+    "type": null
+  }
+]
