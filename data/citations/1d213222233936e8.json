@@ -1,0 +1,623 @@
+[
+  {
+    "note": [
+      "language[2]"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#xpointer(id(",
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#xpointer(descendant::language[position()=2])",
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#ebnf",
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#xpointer(/child::spec/child::body/child::*/child::",
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#xpointer(/spec/body/*/language[2])",
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#/1/14/2",
+      "http://www.w3.org/TR/1998/REC-xml-19980210.xml#xpointer(id("
+    ]
+  },
+  {
+    "note": [
+      "Production [9]) or an external ID (Production [75])."
+    ],
+    "title": [
+      "Production [74] says that the definition of a parameter entity may be either an entity value"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SYSTEM “logo.gif” SYSTEM “/images/logo.gif” SYSTEM “http://www.idgbooks.com/logo.gif” SYSTEM “../images/logo.gif"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "SYSTEM logo.gif SYSTEM “/images/logo.gif’ SYSTEM http://www.idgbooks.com/logo.gif PUBLIC “-//IETF//NONSGML Media Type image/gif//EN” PUBLIC “http://www.isi.edu/in-notes/iana/assignments/mediatypes/image/gif"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "encoding=”Big5"
+    ],
+    "title": [
+      "encoding=”ISO-8859-5” encoding = “Big5” encoding = “ISO-8859-5” encoding= ‘Big5’ encoding= ‘ISO-8859-5’ 1066 Appendixes These are illegal encoding declarations: encoding “Big5” encoding=”ISO-8859-51’ encoding = “Big5 encoding = ‘ISO-8859-5"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "These are ungrammatical public IDs: PUBLIC -//IETF//NONSGML Media Type image/gif//EN PUBLIC ‘ISO 8879:1986//ENTITIES Added Latin 1//EN//XML”"
+    ],
+    "title": [
+      "PUBLIC “-//IETF//NONSGML Media Type image/gif//EN” PUBLIC “ISO 8879:1986//ENTITIES Added Latin 1//EN//XML"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "D Expansion of Entity and Character References (Non-Normative) E Deterministic Content Models (Non-Normative"
+    ],
+    "editor": [
+      {
+        "family": "XML",
+        "given": "B.Character Classes C."
+      },
+      {
+        "given": "S.G.M.L."
+      }
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "F Autodetection of Character Encodings (Non-Normative) F.1 Detection Without External Encoding Information"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Characters referred to using character references must match the production for Char"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Authority",
+        "given": "Internet Assigned Numbers"
+      }
+    ],
+    "container-title": [
+      "See ftp://ftp.isi.edu/in-notes/iana/assignments/character-sets. IETF RFC 1766"
+    ],
+    "editor": [
+      {
+        "family": "Keld Simonsen",
+        "particle": "ed."
+      },
+      {
+        "others": true
+      }
+    ],
+    "title": [
+      "Official Names for Character Sets"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IETF (Internet Engineering Task Force). RFC 1766: Tags for the Identification of Languages"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "H. Alvestrand",
+        "particle": "ed."
+      }
+    ],
+    "note": [
+      "See http://www.ietf.org/rfc/ rfc1766.txt.) ISO/IEC 10646"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "ISO (International Organization for Standardization). ISO/IEC 10646-1993 (E)."
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "note": [
+      "plus amendments AM 1 through AM 7). ISO/IEC 10646-2000"
+    ],
+    "publisher": [
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "Information technology -- Universal Multiple-Octet Coded Character Set (UCS) - - Part 1: Architecture and Basic Multilingual Plane"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ISO/IEC"
+    ],
+    "issue": [
+      "2000"
+    ],
+    "title": [
+      "ISO (International Organization for Standardization"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "publisher": [
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "Information technology -- Universal Multiple-Octet Coded Character Set (UCS) - - Part 1: Architecture and Basic Multilingual Plane"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "Alfred V."
+      },
+      {
+        "family": "Sethi",
+        "given": "Ravi"
+      },
+      {
+        "family": "Ullman",
+        "given": "Jeffrey D."
+      }
+    ],
+    "container-title": [
+      "Uniform Resource Identifiers"
+    ],
+    "date": [
+      "1986",
+      "1988"
+    ],
+    "editor": [
+      {
+        "family": "Berners-Lee",
+        "given": "T."
+      },
+      {
+        "family": "Fielding",
+        "given": "R."
+      },
+      {
+        "family": "Masinter",
+        "given": "L."
+      }
+    ],
+    "genre": [
+      "rpt. corr."
+    ],
+    "location": [
+      "Reading",
+      "URI"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Compilers: Principles, Techniques, and Tools",
+      "Berners-Lee et al"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Syntax",
+        "given": "Generic"
+      },
+      {
+        "given": "Semantics"
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Work in progress; see updates to RFC1738.) Brüggemann-Klein Brüggemann-Klein, Anne. Formal Models in Document Processing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Habilitationsschrift"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Faculty of Mathematics at the University of Freiburg"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "See ftp://ftp.informatik.uni-freiburg.de/documents/papers/brueggem/ habil.ps."
+      }
+    ],
+    "date": [
+      "1136"
+    ],
+    "publisher": [
+      "Deterministic Regular Languages"
+    ],
+    "title": [
+      "Appendixes Brüggemann-Klein and Wood Brüggemann-Klein, Anne, and Derick Wood"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Freiburg",
+        "given": "Universität"
+      }
+    ],
+    "container-title": [
+      "Full version titled One-Unambiguous Regular Languages in Information and Computation"
+    ],
+    "date": [
+      "1991-10",
+      "1992",
+      "1992",
+      "1998-02"
+    ],
+    "editor": [
+      {
+        "family": "Finkel",
+        "given": "M.Jantzen"
+      },
+      {
+        "family": "Hrsg.",
+        "given": "S.T.A.C.S."
+      }
+    ],
+    "genre": [
+      "Bericht 38,"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "note": [
+      "Clark James Clark. Comparison of SGML and XML. See http://www.w3.org/TR/NOTE-sgml-xml-971215. IANA-LANGCODES"
+    ],
+    "pages": [
+      "173–184",
+      "229–253,"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Institut für Informatik",
+      "Extended abstract in A",
+      "Lecture Notes in Computer Science 577"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "140"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Authority",
+        "given": "Internet Assigned Numbers"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Keld Simonsen",
+        "particle": "ed."
+      },
+      {
+        "others": true
+      }
+    ],
+    "note": [
+      "See http://www.isi.edu/in-notes/iana/assignments/languages/.) IETF RFC2141"
+    ],
+    "title": [
+      "Registry of Language Tags"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IETF (Internet Engineering Task Force). RFC 2141: URN Syntax"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "R. Moats",
+        "particle": "ed."
+      }
+    ],
+    "note": [
+      "See http://www.ietf.org/rfc/rfc2141.txt.) IETF RFC 2279"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IETF (Internet Engineering Task Force). RFC 2279: UTF-8, a transformation format of ISO 10646"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "F. Yergeau",
+        "particle": "ed."
+      }
+    ],
+    "note": [
+      "See http://www.ietf.org/rfc/rfc2279.txt.) IETF RFC 2376"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IETF (Internet Engineering Task Force). RFC 2376"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "E. Whitehead",
+        "given": "X.M.L.Media Types",
+        "particle": "ed."
+      },
+      {
+        "family": "Murata",
+        "given": "M."
+      }
+    ],
+    "note": [
+      "See http://www.ietf.org/rfc/rfc2376.txt.) IETF RFC 2396"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Berners-Lee",
+        "given": "T."
+      },
+      {
+        "family": "Fielding",
+        "given": "R."
+      },
+      {
+        "family": "Masinter",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "ietf.org/rfc/rfc2396.txt.) IETF RFC"
+    ],
+    "date": [
+      "1998"
+    ],
+    "note": [
+      "See"
+    ],
+    "pages": [
+      "2732"
+    ],
+    "title": [
+      "IETF (Internet Engineering Task Force). RFC 2396: Uniform Resource Identifiers (URI): Generic Syntax"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hinden",
+        "given": "R."
+      },
+      {
+        "family": "Carpenter",
+        "given": "B."
+      },
+      {
+        "family": "Masinter",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "doi": [
+      "URL’s."
+    ],
+    "note": [
+      "See http://www.ietf.org/rfc/rfc2732.txt.) IETF RFC 2781"
+    ],
+    "title": [
+      "IETF (Internet Engineering Task Force). RFC 2732: Format for Literal IPv6 Addresses in"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IETF (Internet Engineering Task Force). RFC 2781: UTF-16, an encoding of ISO 10646"
+    ],
+    "date": [
+      "2000"
+    ],
+    "editor": [
+      {
+        "family": "P. Hoffman",
+        "particle": "ed."
+      },
+      {
+        "family": "Yergeau",
+        "given": "F."
+      }
+    ],
+    "note": [
+      "See http://www.ietf.org/rfc/rfc2781.txt.) ISO 639"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "ISO"
+    ],
+    "date": [
+      "E",
+      "1988"
+    ],
+    "issue": [
+      "1988"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "pages": [
+      "3166"
+    ],
+    "publisher": [
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "International Organization for Standardization",
+      "Code for the representation of names of languages"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "639"
+    ]
+  },
+  {
+    "container-title": [
+      "ISO"
+    ],
+    "date": [
+      "E",
+      "1997"
+    ],
+    "issue": [
+      "1997"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "pages": [
+      "8879"
+    ],
+    "publisher": [
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "International Organization for Standardization",
+      "Codes for the representation of names of countries and their subdivisions — Part 1: Country codes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "ISO"
+    ],
+    "date": [
+      "1986"
+    ],
+    "edition": [
+      "First"
+    ],
+    "issue": [
+      "1986"
+    ],
+    "location": [
+      "Geneva"
+    ],
+    "pages": [
+      "– 1986–10–15"
+    ],
+    "publisher": [
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "ISO (International Organization for Standardization",
+      "Information processing — Text and Office Systems — Standard Generalized Markup Language (SGML"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8879"
+    ]
+  },
+  {
+    "container-title": [
+      "ISO/IEC 10744 ISO (International Organization for Standardization). ISO/IEC 10744-1992 (E"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Information technology — Hypermedia/Time-based Structuring Language (HyTime"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1992",
+      "1996"
+    ],
+    "location": [
+      "Geneva",
+      "Geneva"
+    ],
+    "publisher": [
+      "International Organization for Standardization",
+      "International Organization for Standardization"
+    ],
+    "title": [
+      "Extended Facilities Annexe"
+    ],
+    "type": "book"
+  }
+]
