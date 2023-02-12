@@ -1,0 +1,110 @@
+[
+  {
+    "note": [
+      "QImage image(size(), QImage::Format_ARGB32_Premultiplied); QPainter imagePainter(&image); imagePainter.initFrom(this); imagePainter.setRenderHint(QPainter::Antialiasing, true); imagePainter.eraseRect(rect()); draw(&imagePainter); imagePainter.end();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "myFromNode->addLink(this); myToNode->addLink(this); setFlags(QGraphicsItem::ItemIsSelectable); setZValue(-1); setColor(Qt::darkRed); trackNodes();"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– –"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "roundness(rect.width()), roundness(rect.height())); painter->setPen(myTextColor); painter->drawText(rect, Qt::AlignCenter, myText);"
+    ],
+    "title": [
+      "QRectF rect = outlineRect(); painter->drawRoundRect(rect"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "private: typedef QPair<Node , Node > NodePair"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "view = new QGraphicsView; view->setScene(scene); view->setDragMode(QGraphicsView::RubberBandDrag); view->setRenderHints(QPainter::Antialiasing | QPainter::TextAntialiasing"
+    ],
+    "type": null,
+    "url": [
+      "view->setContextMenuPolicy(Qt::ActionsContextMenu); setCentralWidget(view);"
+    ]
+  },
+  {
+    "note": [
+      "connect(scene, SIGNAL(selectionChanged()), this, SLOT(updateActions())); setWindowTitle(tr(\"Diagram\")); updateActions();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "--minZ; setZValue(minZ);"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "–"
+    ],
+    "title": [
+      "Link *link = new Link(nodes.first, nodes.second"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "view->setScene(scene); setCentralWidget(view);"
+    ],
+    "title": [
+      "view = new CityView"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Hall, Building, Tower, LShapedBlock, LShapedBlockPlusSmallBlock, TwoBlocks, BlockPlusTwoSmallBlocks"
+    ],
+    "title": [
+      "public: enum Kind { Park, SmallBuilding, Hospital"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "setZValue(1000); setFlag(ItemIgnoresTransformations, true);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "QRectF rect = boundingRect("
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "painter->setPen(Qt::white);"
+    ],
+    "date": [
+      "+1"
+    ],
+    "note": [
+      "str, QTextOption(Qt::AlignCenter)); painter->setPen(Qt::blue); painter->drawText(rect, str, QTextOption(Qt::AlignCenter));"
+    ],
+    "pages": [
+      "– 1,"
+    ],
+    "type": null
+  }
+]

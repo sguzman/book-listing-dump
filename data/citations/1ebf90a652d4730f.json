@@ -1,0 +1,68 @@
+[
+  {
+    "title": [
+      "return month length[month in-1]; //Array elements numbered-O-11, not 1-12"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "cin»dec»dd»'I'»mm»'I'»yy; date_in.set_date(dd,mm,yy); return istrm;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "seconds = (seconds+add_time.seconds)%60; int hour_carry = (minutes+add time.minutes+min_carry)/60i minutes = (minutes+add_time.minutes+min_carry)%60i hours ="
+    ],
+    "type": null,
+    "url": [
+      "(hours+add_time.hours+hour_carry)%24i"
+    ]
+  },
+  {
+    "title": [
+      "istrm»dec»setfill('0'»>setw(2)i istrm»time_in.hours»':'i istrm»setw(2»>time_in.minutes»':'i istrm»setw(2»>time_in.seconds; return istrmi"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "result.numerator *= r.denominator; result.denominator *= r.numerator"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "int numeratorl numerator * r.denominator; int numerator2 Lnumerator * denominator"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "c»r.numerator»'/'»r.denominatori return Ci ostream& operator«(ostream& c, rational_num& r) c«r.numerator«\"/\"«r.denominator; return Ci"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "seconds+add_time.seconds) %60;"
+    ],
+    "title": [
+      "int min_carry = (seconds+add_time.seconds)/60; seconds ="
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "if (timel.hours>time2.hours) return TRUE; if (timel.hours<time2.hours) return FALSE; if (timel.minutes>time2.minutes) return TRUE; if (timel.minutes<time2.minutes) return FALSE"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "istrm»dec»setfill(IO'»>setw(2)i istrm»time_in.hours»':' i istrm»setw(2»>time_in.minutes»': '; istrm»setw(2»>time_in.seconds; return istrmi"
+    ],
+    "type": null
+  }
+]
