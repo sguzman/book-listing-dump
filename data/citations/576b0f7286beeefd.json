@@ -1,0 +1,50 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Place the Windows XP installation CD in your CD-ROM drive"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "When the Welcome screen appears, click the Install Optional Windows Components link. If the Welcome screen does not automatically appear, open My Computer or Windows Explorer, navigate to the CD-ROM drive, and double-click the Setup icon"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Windows components dialog box (shown in Figure 30-1), click the check box beside Internet Information Services"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "You can probably uncheck SMTP (used for mail services; this will not affect your email program). Leave all other boxes as they are by default. Click OK to exit this dialog box."
+    ],
+    "title": [
+      "With Internet Information Services highlighted, click the Details button. In the resulting Internet Information Services dialog box (also shown in Figure 30-1), check the box beside File Transfer Protocol (FTP) Services. World Wide Web Service (HTTP) should be checked"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Click Next to begin the installation. By checking the FTP box, you install both the FTP and Web server software at the same time"
+    ],
+    "type": null
+  }
+]

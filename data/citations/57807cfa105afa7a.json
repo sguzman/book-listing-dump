@@ -1,0 +1,11 @@
+[
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Fill in the other properties of GameplayEffect, including fields such as DurationPolicy and ChanceToApplyToTarget or any other fields that you'd like to modify, as follows: RecoverHP->DurationPolicy = EGameplayEffectDurationType::HasDuration; RecoverHP->DurationMagnitude = FScalableFloat( 10.f ); RecoverHP->ChanceToApplyToTarget = 1.f; RecoverHP->Period = .5f"
+    ],
+    "type": null
+  }
+]
