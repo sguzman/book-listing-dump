@@ -1,0 +1,197 @@
+[
+  {
+    "author": [
+      {
+        "given": "Wesley"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Garfinkel",
+        "given": "Simson"
+      },
+      {
+        "family": "Mahoney",
+        "given": "Michael K."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly Media, Inc"
+    ],
+    "title": [
+      "Building Cocoa Applications: A Step-by-Step Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Griffiths",
+        "given": "Ian"
+      },
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly Media, Inc"
+    ],
+    "title": [
+      ".NET Windows Forms in a Nutshell"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lehey",
+        "given": "Greg"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Sebastopol, CA"
+    ],
+    "publisher": [
+      "O’Reilly Media, Inc"
+    ],
+    "title": [
+      "Porting UNIX Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Logan",
+        "given": "Syd"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Developing Gtk+ Applications in C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Preface",
+        "particle": "xxii"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "-install_name \\ @executable_path/libencrypt.dylib -fPIC -framework \\ Cocoa -o libencrypt.dylib encrypt.o \\ encrypt_proxy.o -L../dist/macosx/debug/layout.app/\\ Contents/MacOS"
+    ],
+    "note": [
+      "\\ -L/usr/local/lib/ -lgcrypt -lgpg-error cp libencrypt.dylib ../dist/macosx/debug/layout.app/\\"
+    ],
+    "pages": [
+      "– – 4 – 4 – 4"
+    ],
+    "title": [
+      "g++ -g -I../dist/include -I../dist/include/expat \\ -I../dist/include/nspr - I../dist/include/jsengine \\ -Wall -c encrypt.cpp g++ -g -I../dist/include -I../dist/include/expat \\ -I../dist/include/nspr - I../dist/include/jsengine \\ -Wall -c encrypt_proxy.cpp g++ -g -dynamiclib -arch ppc -compatibility_version"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1 \\ -current_version 1"
+    ]
+  },
+  {
+    "container-title": [
+      "GetFilename() function"
+    ],
+    "note": [
+      "XPBinaryRead(), 290-292 GPGAESEncrypt() function, GetFactoryInstance() XPBinaryWrite(), 501-502 function, 29-31,"
+    ],
+    "pages": [
+      "466 290–292",
+      "408"
+    ],
+    "title": [
+      "graphical user interfaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "XP_WIN"
+      }
+    ],
+    "citation-number": [
+      "404-405"
+    ],
+    "container-title": [
+      "function"
+    ],
+    "note": [
+      "constructor, 364-365 XPBinaryWrite() function, sample 290-292 implementation, XPCOM, 444-446 364-367 XPConnect, 444-446 wxGridSizer class, 378 XPG (X/Open Portability wxLocale class, 421-422 Guide), 224-226"
+    ],
+    "pages": [
+      "364–366 290–292"
+    ],
+    "title": [
+      "85 wxFrame class, 336, XPBinaryRead("
+    ],
+    "type": "article-journal",
+    "volume": [
+      "339"
+    ]
+  }
+]
