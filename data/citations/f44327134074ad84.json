@@ -1,0 +1,5818 @@
+[
+  {
+    "container-title": [
+      "1. R. Chassaing, Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Note: References 21 to 33 are included with the DSK package"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with C and the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with the TMS320C25"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kehtarnavaz",
+        "given": "N."
+      },
+      {
+        "family": "Keramat",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "DSP System Design Using the TMS320C6000"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kehtarnavaz",
+        "given": "N."
+      },
+      {
+        "family": "Simsek",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "C6x-Based Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahnoun",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "DSP Implementation Using the TMS320C6x Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "McClellan",
+        "given": "J.H."
+      },
+      {
+        "family": "Schafer",
+        "given": "R.W."
+      },
+      {
+        "family": "Yoder",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "DSP First: A Multimedia Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marven",
+        "given": "C."
+      },
+      {
+        "family": "Ewers",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "A Simple Approach to Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Sorensen",
+        "given": "H.V."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "A Digital Signal Processing Laboratory Using the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tretter",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Plenum Press"
+    ],
+    "title": [
+      "Communication System Design Using DSP Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bateman",
+        "given": "A."
+      },
+      {
+        "family": "Yates",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Computer Science Press"
+    ],
+    "title": [
+      "Digital Signal Processing Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dote",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Servo Motor and Motion Control Using Digital Signal Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Eyre",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "title": [
+      "The newest breed trade off speed, energy consumption, and cost to vie for an ever bigger piece of the action"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Signal Processing"
+    ],
+    "date": [
+      "1998-01"
+    ],
+    "editor": [
+      {
+        "family": "Rabaey",
+        "given": "J.M."
+      }
+    ],
+    "title": [
+      "VLSI design and implementation fuels the signal-processing revolution"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Lapsley",
+        "given": "P."
+      },
+      {
+        "family": "Bier",
+        "given": "J."
+      },
+      {
+        "family": "Shoham",
+        "given": "A."
+      },
+      {
+        "family": "Lee",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "publisher": [
+      "Berkeley Design Technology"
+    ],
+    "title": [
+      "DSP Processor Fundamentals: Architectures and Features"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Piedra",
+        "given": "R.M."
+      },
+      {
+        "family": "Fritsh",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "title": [
+      "Digital signal processing comes of age"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Digital Signal Processing"
+    ],
+    "date": [
+      "1993-01"
+    ],
+    "title": [
+      "The need for a laboratory component in DSP education: a personal glimpse"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Anakwa",
+        "given": "W."
+      },
+      {
+        "family": "Richardson",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Proceedings of the 1993 International Conference on Acoustics, Speech and Signal Processing (ICASSP), Apr"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Real-time digital signal processing in education"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Leibson",
+        "given": "S.H."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "EDN Magazine"
+    ],
+    "date": [
+      "1990-11-08"
+    ],
+    "title": [
+      "DSP development software"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Proceedings of the 1987 ASEE Annual Conference"
+    ],
+    "date": [
+      "1987-06"
+    ],
+    "title": [
+      "An undergraduate digital signal processing laboratory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Programmer’s Guide, SPRU198D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6211 Fixed-Point Digital Signal Processor–TMS320C6711 Floating-Point Digital Signal Processor, SPRS073C"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 CPU and Instruction Set Reference Guide, SPRU189F"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX, SPRU186G"
+    ],
+    "title": [
+      "TMS320C6000 Assembly Language Tools User’s Guide"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Peripherals Reference Guide, SPRU190D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Optimizing Compiler User’s Guide, SPRU187G"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Technical Brief, SPRU197D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C64x Technical Overview, SPRU395"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6x Peripheral Support Library Programmer’s Reference, SPRU273B"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "30."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Code Composer Studio User’s Guide, SPRU328B"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "31."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Code Composer Studio Getting Started Guide, SPRU509"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "32."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Code Composer Studio Tutorial, SPRU301C"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "33."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TLC320AD535C/I Data Manual Dual Channel Voice/Data Codec, SLAS202A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kernigan",
+        "given": "B.W."
+      },
+      {
+        "family": "Ritchie",
+        "given": "D.M."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The C Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "35."
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Details on Signal Processing (quarterly publication"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gircys",
+        "given": "G.R."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Newton, MA"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Understanding and Using COFF"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TLC320AD535C/I Data Manual Dual Channel Voice/Data Codec, SLAS202A"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Norsworthy",
+        "given": "S."
+      },
+      {
+        "family": "Schreier",
+        "given": "R."
+      },
+      {
+        "family": "Temes",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Piscataway, NJ"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Delta–Sigma Data Converters: Theory, Design and Simulation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Aziz",
+        "given": "P.M."
+      },
+      {
+        "family": "Sorensen",
+        "given": "H.V."
+      },
+      {
+        "family": "Spiegel",
+        "given": "J.",
+        "particle": "Van Der"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Signal Processing"
+    ],
+    "date": [
+      "1996-01"
+    ],
+    "title": [
+      "An overview of sigma delta converters"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Oversampling Delta–Sigma Data Converters: Theory, Design and Simulation"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Candy",
+        "given": "J.C."
+      },
+      {
+        "family": "Temes",
+        "given": "G.C."
+      }
+    ],
+    "location": [
+      "Piscataway, NJ"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Solomon",
+        "given": "C.W."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "1988-06"
+    ],
+    "title": [
+      "Switched-capacitor filters"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "PCM3002/PCM3003 16-/20-Bit Single-Ended Analog Input/Output Stereo Audio Codecs, SBAS079"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 McBSP: AC’97 Codec Interface, SPRA528"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with the TMS320C25"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with C and the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings of the 1995 ASEE Annual Conference"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "title": [
+      "Parallel processing with the TMS320C40"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Ayers",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proceedings of the 1996 ASEE Annual Conference"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "title": [
+      "Digital signal processing with the SHARC"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 CPU and Instruction Set, SPRU189F"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Peripherals, SPRU190D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Programmer’s Guide, SPRU198D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Assembly Language Tools User’s Guide, SPRU186G"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Optimizing Compiler User’s Guide, SPRU187G"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6211 Fixed-Point Digital Signal Processor—TMS320C6711 Floating-Point Digital Signal Processor, SPRS073C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gomes",
+        "given": "W.J.",
+        "suffix": "III"
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proceedings of the 2000 ASEE Annual Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Filter design and implementation using the TMS320C6x interfaced with MATLAB"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.V."
+      },
+      {
+        "family": "Schafer",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Discrete-Time Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gold",
+        "given": "B."
+      },
+      {
+        "family": "Rader",
+        "given": "C.M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Signal Processing of Signals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rabiner",
+        "given": "L.R."
+      },
+      {
+        "family": "Gold",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1975"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Theory and Application of Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parks",
+        "given": "T.W."
+      },
+      {
+        "family": "McClellan",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuit Theory"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "189–194"
+    ],
+    "title": [
+      "Chebychev approximation for nonrecursive digital filter with linear phase"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "CT-19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McClellan",
+        "given": "J.H."
+      },
+      {
+        "family": "Parks",
+        "given": "T.W."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuit Theory"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "697–701"
+    ],
+    "title": [
+      "A unified approach to the design of optimum linear phase digital filters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "CT-20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kaiser",
+        "given": "J.F."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Symposium on Circuits and Systems"
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Nonrecursive digital filter design using the I0-sinh window function"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaiser",
+        "given": "J.F."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proceedings of the 3rd Allerton Conference on Circuit System Theory"
+    ],
+    "date": [
+      "1965-10"
+    ],
+    "pages": [
+      "621–633"
+    ],
+    "title": [
+      "Some practical considerations in the realization of linear digital filters"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "L.B."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Digital Filters and Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Proakis",
+        "given": "J.G."
+      },
+      {
+        "family": "Manolakis",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Signal Processing: Principles, Algorithms, and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lyons",
+        "given": "R.G."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Understanding Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harris",
+        "given": "F.J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "51–83"
+    ],
+    "title": [
+      "On the use of windows for harmonic analysis with the discrete Fourier transform"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "66"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Progri",
+        "given": "I.F."
+      },
+      {
+        "family": "Michalson",
+        "given": "W.R."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "2001 International Conference on Acoustics, Speech, and Signal Processing Student Forum"
+    ],
+    "date": [
+      "2001-05"
+    ],
+    "title": [
+      "Fast and efficient filter design and implementation on the TMS320C6711 digital signal processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Porat",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "A Course in Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parks",
+        "given": "T.W."
+      },
+      {
+        "family": "Burrus",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Filter Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearns",
+        "given": "S.D."
+      },
+      {
+        "family": "David",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Signal Processing in Fortran and C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahmed",
+        "given": "N."
+      },
+      {
+        "family": "Natarajan",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Reston, VA"
+    ],
+    "publisher": [
+      "Reston Publishing"
+    ],
+    "title": [
+      "Discrete-Time Signals and Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Orfanidis",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Introduction to Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Antoniou",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Filters: Analysis, Design, and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ifeachor",
+        "given": "E.C."
+      },
+      {
+        "family": "Jervis",
+        "given": "B.W."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Digital Signal Processing: A Practical Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lynn",
+        "given": "P.A."
+      },
+      {
+        "family": "Fuerst",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introductory Digital Signal Processing with Computer Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strum",
+        "given": "R.D."
+      },
+      {
+        "family": "Kirk",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "First Principles of Discrete Systems and Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DeFatta",
+        "given": "D.J."
+      },
+      {
+        "family": "Lucas",
+        "given": "J.G."
+      },
+      {
+        "family": "Hodgkiss",
+        "given": "W.S."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing: A System Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Designing Digital Filters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamming",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Filters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitra",
+        "given": "S.K."
+      },
+      {
+        "family": "F",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "Handbook for Digital Signal Processing"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "literal": "eds."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Kaiser"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Mitra",
+        "given": "S.K."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital Signal Processing: A Computer-Based Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Bitler",
+        "given": "B."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Proceedings of the 1991 ASEE Annual Conference"
+    ],
+    "date": [
+      "1991-06"
+    ],
+    "title": [
+      "Real-time digital filters in C"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Proceedings of the 21st Annual Pittsburgh Conference on Modeling and Simulation"
+    ],
+    "date": [
+      "1990-05"
+    ],
+    "title": [
+      "Digital filtering with the floating-point TMS320C30 digital signal processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearns",
+        "given": "S.D."
+      },
+      {
+        "family": "David",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Signal Processing in Fortran and C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Roberts",
+        "given": "R.A."
+      },
+      {
+        "family": "Mullis",
+        "given": "C.T."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cunningham",
+        "given": "E.P."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Houghton Mifflin"
+    ],
+    "title": [
+      "Digital Filtering: An Introduction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Loy",
+        "given": "N.J."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "An Engineer’s Guide to FIR Digital Filters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nuttall",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1981-02"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Some windows with very good sidelobe behavior"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ludemen",
+        "given": "L.C."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper & Row"
+    ],
+    "title": [
+      "Fundamentals of Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellanger",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Processing of Signals: Theory and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellanger",
+        "given": "M.G."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Filters and Signal Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "F.J."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Principles of Signals and Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "F.J."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Digital Filter Design Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stanley",
+        "given": "W.D."
+      },
+      {
+        "family": "Dougherty",
+        "given": "G.R."
+      },
+      {
+        "family": "Dougherty",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Reston, VA"
+    ],
+    "publisher": [
+      "Reston Publishing"
+    ],
+    "title": [
+      "Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuc",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Baher",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Analog and Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Introduction to Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haykin",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "Modern Filters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Young",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "45."
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Linear Systems and Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ambardar",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "46."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "PWS, MA"
+    ],
+    "title": [
+      "Analog and Digital Signal Processing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Enden",
+        "given": "A.W.M.",
+        "particle": "van den"
+      },
+      {
+        "family": "Verhoeckx",
+        "given": "N.A.M."
+      }
+    ],
+    "citation-number": [
+      "47."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Hemel Hempstead, Hertfordshire, England"
+    ],
+    "publisher": [
+      "Prentice-Hall International"
+    ],
+    "title": [
+      "Discrete-Time Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "48."
+    ],
+    "location": [
+      "MathWorks, Natick, MA"
+    ],
+    "publisher": [
+      "MATLAB"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with the TMS320C25"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "L.B."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Digital Filters and Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "L.B."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Transactions on Audio and Electroacoustics"
+    ],
+    "date": [
+      "1970-06"
+    ],
+    "pages": [
+      "107–122"
+    ],
+    "title": [
+      "Roundoff noise analysis for fixed-point digital filters realized in cascade or parallel form"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "AU-18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jackson",
+        "given": "L.B."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the 7th Allerton Conference on Circuit and System Theory"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "69–78"
+    ],
+    "title": [
+      "An analysis of limit cycles due to multiplicative rounding in recursive digital filters"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lawrence",
+        "given": "L.B."
+      },
+      {
+        "family": "Mirna",
+        "given": "K.V."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Symposium on Circuit and Systems"
+    ],
+    "date": [
+      "1977-04"
+    ],
+    "pages": [
+      "191–194"
+    ],
+    "title": [
+      "A new and interesting class of limit cycles in recursive digital filters"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with the TMS320C25"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A.H."
+      },
+      {
+        "family": "Markel",
+        "given": "J.D."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "491–500"
+    ],
+    "title": [
+      "Digital lattice and ladder filter synthesis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "A.H."
+      },
+      {
+        "family": "Markel",
+        "given": "J.D."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "268–277"
+    ],
+    "title": [
+      "A normalized digital filter structure"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.V."
+      },
+      {
+        "family": "Schafer",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Discrete-Time Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Progri",
+        "given": "I."
+      },
+      {
+        "family": "Michalson",
+        "given": "W.R."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "International Conference on Acoustics Speech and Signal Processing (ICASSP"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Fast and efficient filter design and implementation on the TMS320C6711 digital signal processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ahmed",
+        "given": "N."
+      },
+      {
+        "family": "Natarajan",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Reston, VA"
+    ],
+    "publisher": [
+      "Reston Publishing"
+    ],
+    "title": [
+      "Discrete-Time Signals and Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horning",
+        "given": "D.W."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE Transactions on Education"
+    ],
+    "date": [
+      "1991-02"
+    ],
+    "title": [
+      "IIR filter scaling for real-time digital signal processing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooley",
+        "given": "J.W."
+      },
+      {
+        "family": "Tukey",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Mathematics of Computation"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "297–301"
+    ],
+    "title": [
+      "An algorithm for the machine calculation of complex Fourier series"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cooley",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Signal Processing"
+    ],
+    "date": [
+      "1992-01"
+    ],
+    "pages": [
+      "10–13"
+    ],
+    "title": [
+      "How the FFT gained acceptance"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Cooley",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE 1990 International Conference on Acoustics, Speech, and Signal Processing, Apr"
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "The structure of FFT and convolution algorithms, from a tutorial"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Burrus",
+        "given": "C.S."
+      },
+      {
+        "family": "Parks",
+        "given": "T.W."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "DFT/FFT and Convolution Algorithms: Theory and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bergland",
+        "given": "G.D."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Spectrum"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "41–51"
+    ],
+    "title": [
+      "A guided tour of the fast Fourier transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brigham",
+        "given": "E.O."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Fast Fourier Transform"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Winograd",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Mathematics of Computation"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "175–199"
+    ],
+    "title": [
+      "On computing the discrete Fourier transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "H.F."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1977-04"
+    ],
+    "pages": [
+      "152–165"
+    ],
+    "title": [
+      "An introduction to programming the Winograd Fourier transform algorithm (WFTA"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-25"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Algorithms, and Implementations"
+    ],
+    "date": [
+      "1990"
+    ],
+    "editor": [
+      {
+        "family": "Papamichalis",
+        "given": "P.E."
+      }
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Digital Signal Processing Applications with the TMS320 Family: Theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bracewell",
+        "given": "R.N."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "2174–2176"
+    ],
+    "title": [
+      "Assessing the Hartley transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bracewell",
+        "given": "R.N."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Hartley Transform"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sorensen",
+        "given": "H.V."
+      },
+      {
+        "family": "Jones",
+        "given": "D.L."
+      },
+      {
+        "family": "Heidman",
+        "given": "M.T."
+      },
+      {
+        "family": "Burrus",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "849–863"
+    ],
+    "title": [
+      "Real-valued fast Fourier transform algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with C and the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Embree",
+        "given": "P.M."
+      },
+      {
+        "family": "Kimble",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "C Language Algorithms for Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kay",
+        "given": "S."
+      },
+      {
+        "family": "Sudhaker",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1986-02"
+    ],
+    "pages": [
+      "96–104"
+    ],
+    "title": [
+      "A zero crossing spectrum analyzer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kraniauskas",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Signal Processing, Apr"
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "A plain man’s guide to the FFT"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "J. R. Deller",
+        "given": "Tom",
+        "suffix": "Jr."
+      },
+      {
+        "family": "Dick"
+      },
+      {
+        "family": "DFT",
+        "given": "Mary",
+        "particle": "discover the"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Signal Processing, Apr"
+    ],
+    "date": [
+      "1994"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.V."
+      },
+      {
+        "family": "Schafer",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Discrete-Time Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Proakis",
+        "given": "J.G."
+      },
+      {
+        "family": "Manolakis",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "title": [
+      "Digital Signal Processing"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Widrow",
+        "given": "B."
+      },
+      {
+        "family": "Stearns",
+        "given": "S.D."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Adaptive Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Widrow",
+        "given": "B."
+      },
+      {
+        "family": "Hoff",
+        "given": "M.E.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IRE WESCON"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "96–104"
+    ],
+    "title": [
+      "Adaptive switching circuits"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "literal": "B.Widrow, J. R. Glover, J. M. McCool, J. Kaunitz, C. S.Williams, R. H. Hearn, J. R. Zeidler, E. Dong, Jr., and R. C. Goodlin"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "1692–1716"
+    ],
+    "title": [
+      "Adaptive noise cancelling: principles and applications"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with C and the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Manolakis",
+        "given": "D.G."
+      },
+      {
+        "family": "Ingle",
+        "given": "V.K."
+      },
+      {
+        "family": "Kogon",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Statistical and Adaptive Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haykin",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Adaptive Filter Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "J. R. Treichler, C. R. Johnson, Jr., and M. G. Larimore"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Theory and Design of Adaptive Filters"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "S.M."
+      },
+      {
+        "family": "Morgan",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Active Noise Control Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Astrom",
+        "given": "K."
+      },
+      {
+        "family": "Wittenmark",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Adaptive Control"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "J."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Gomes",
+        "given": "W.J.",
+        "suffix": "III"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proceedings of the 2000 Texas Instruments DSPS Fest Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Real-time adaptive PID controller using the TMS320C31 DSK"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings of the 2nd Annual TMS320 Educators Conference"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Student projects on applications in digital signal processing with C and the TMS320C30"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Linquist",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1989"
+    ],
+    "publisher": [
+      "Steward and Sons"
+    ],
+    "title": [
+      "Adaptive and Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stearns",
+        "given": "S.D."
+      },
+      {
+        "family": "Hush",
+        "given": "D.R."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Signal Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Zeidler",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "1781–1806"
+    ],
+    "title": [
+      "Performance analysis of LMS adaptive prediction filters"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "78"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Alexander",
+        "given": "S.T."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Adaptive Signal Processing: Theory and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Cowan",
+        "given": "C.F."
+      },
+      {
+        "family": "Grant",
+        "given": "P.F."
+      }
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Adaptive Filters, Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Honig",
+        "given": "M.L."
+      },
+      {
+        "family": "Messerschmitt",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "Adaptive Filters: Structures, Algorithms and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Solo",
+        "given": "V."
+      },
+      {
+        "family": "Kong",
+        "given": "X."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Adaptive Signal Processing Algorithms: Stability and Performance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuo",
+        "given": "S."
+      },
+      {
+        "family": "Ranganathan",
+        "given": "G."
+      },
+      {
+        "family": "Gupta",
+        "given": "P."
+      },
+      {
+        "family": "Chen",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE 1988 International Conference on Circuits and Systems"
+    ],
+    "date": [
+      "1988-06"
+    ],
+    "title": [
+      "Design and implementation of adaptive filters"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bellanger",
+        "given": "M.G."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker"
+    ],
+    "title": [
+      "Adaptive Digital Filters and Signal Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Bitler",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proceedings of the 1992 ASEE Annual Conference"
+    ],
+    "date": [
+      "1992-06"
+    ],
+    "title": [
+      "Adaptive filtering with C and the TMS320C30 digital signal processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Proceedings of the 1989 ASEE Annual Conference"
+    ],
+    "date": [
+      "1989-06"
+    ],
+    "title": [
+      "Adaptive filtering with the TMS320C25"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Programmer’s Guide, SPRU198D"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Guidelines for Software Development Efficiency on the TMS320C6000 VelociTI Architecture, SPRA434"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 CPU and Instruction Set, SPRU189F"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Assembly Language Tools User’s Guide, SPRU186G"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 Optimizing Compiler User’s Guide, SPRU 187G"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "McClellan",
+        "given": "J.H."
+      },
+      {
+        "family": "Schafer",
+        "given": "R.W."
+      },
+      {
+        "family": "Yoder",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "DSP First: A Multimedia Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kehtarnavaz",
+        "given": "N."
+      },
+      {
+        "family": "Keramat",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "DSP System Design Using the TMS320C6000"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dahnoun",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "DSP Implementation Using the TMS320C6x Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrow",
+        "given": "M."
+      },
+      {
+        "family": "Welch",
+        "given": "T."
+      },
+      {
+        "family": "Cameron",
+        "given": "C."
+      },
+      {
+        "family": "York",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings of the Texas Instruments DSPS Fest Annual Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Teaching real-time beamforming with the C6211 DSK and MATLAB"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with C and the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marven",
+        "given": "C."
+      },
+      {
+        "family": "Ewers",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "A Simple Approach to Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "J."
+      },
+      {
+        "family": "Sorensen",
+        "given": "H.V."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "A Digital Signal Processing Laboratory Using the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tretter",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Plenum Press"
+    ],
+    "title": [
+      "Communication System Design Using DSP Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proceedings of the 1995 ASEE Annual Conference"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "title": [
+      "Student projects on digital signal processing with the TMS320C30"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proceedings of the 2000 ASEE Annual Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Real-time noise reduction using the TMS320C31 digital signal processing starter kit"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "C."
+      },
+      {
+        "family": "Welch",
+        "given": "T.",
+        "suffix": "III"
+      },
+      {
+        "family": "Morrow",
+        "given": "M."
+      },
+      {
+        "family": "Gomes",
+        "given": "W.J.",
+        "suffix": "III"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings of the 1999 ASEE Annual Conference"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Teaching real-world DSP using MATLAB and the TMS320C31 DSK"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Goode",
+        "given": "J.W."
+      },
+      {
+        "family": "McClellan",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proceedings of the 1998 ASEE Annual Conference"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Real-time demonstrations of quantization and prediction using the C31 DSK"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Bitler",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Signal processing chips and applications, The Electrical Engineering Handbook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proceedings of the 3rd Annual TMS320 Educators Conference"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Digital signal processing with C and the TMS320C30: Senior projects"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Proceedings of the 2nd Annual TMS320 Educators Conference"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Student projects on applications in digital signal processing with C and the TMS320C30"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Proceedings of the TMS320 Educators Conference"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320 in a digital signal processing lab"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "18."
+    ],
+    "date": [
+      "1989"
+    ],
+    "editor": [
+      {
+        "family": "Papamichalis",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Digital Signal Processing Applications with the TMS320 Family: Theory, Algorithms, and Implementations"
+    ],
+    "type": null,
+    "volume": [
+      "Vols. 2 and 3"
+    ]
+  },
+  {
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Digital Signal Processing Applications with the TMS320C30 Evaluation Module: Selected Application Notes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with the TMS320C25"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Ahmed",
+        "given": "I."
+      }
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Digital Control Applications with the TMS320 Family"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bateman",
+        "given": "A."
+      },
+      {
+        "family": "Yates",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Computer Science Press"
+    ],
+    "title": [
+      "Digital Signal Processing Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dote",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Servo Motor and Motion Control Using Digital Signal Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "IEEE Transactions on Education"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "139–145"
+    ],
+    "title": [
+      "Chassaing,A senior project course in digital signal processing with the TMS320"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "citation-number": [
+      "274"
+    ],
+    "title": [
+      "DSP Applications and Student Projects"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "Proceedings of the 1987 ASEE Annual Conference"
+    ],
+    "date": [
+      "1987-06"
+    ],
+    "title": [
+      "Applications in digital signal processing with the TMS320 digital signal processor in an undergraduate laboratory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "K.S."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Signal Processing Applications with the TMS320 Family: Theory, Algorithms, and Implementations"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Best",
+        "given": "Roland E."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Phase-Locked Loops Design, Simulation, and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "W."
+      },
+      {
+        "family": "Meiners",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Introduction to Phase-Locked Loop System Modeling, SLTT015"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hein",
+        "given": "J.P."
+      },
+      {
+        "family": "Scott",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuits and Systems"
+    ],
+    "date": [
+      "1988-11"
+    ],
+    "pages": [
+      "1393–1400"
+    ],
+    "title": [
+      "Z-domain model for discrete-time PLL’s"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "CS-35"
+    ]
+  },
+  {
+    "citation-number": [
+      "30."
+    ],
+    "title": [
+      "ITU-T Recommendation G.722 Audio Coding with 64 kbits/s"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Embree",
+        "given": "P.M."
+      },
+      {
+        "family": "Real-Time DSP",
+        "given": "C.Algorithms",
+        "particle": "for"
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Progri",
+        "given": "I."
+      },
+      {
+        "family": "Michalson",
+        "given": "W.R."
+      }
+    ],
+    "citation-number": [
+      "32."
+    ],
+    "isbn": [
+      "-2000"
+    ],
+    "title": [
+      "Adaptive spatial and temporal selective attenuator in the presence of mutual coupling and channel errors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Brophy",
+        "given": "F."
+      },
+      {
+        "family": "Salazar",
+        "given": "A.C."
+      }
+    ],
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1974"
+    ],
+    "title": [
+      "Recursive digital filter synthesis in the time domain"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W.H."
+      },
+      {
+        "family": "Teukolsky",
+        "given": "S.A."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W.T."
+      },
+      {
+        "family": "Flannery",
+        "given": "B.P."
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in C: The Art of Scientific Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Borish",
+        "given": "J."
+      },
+      {
+        "family": "Angell",
+        "given": "J.B."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "container-title": [
+      "Journal of the Audio Engineering Society"
+    ],
+    "date": [
+      "1983"
+    ],
+    "title": [
+      "An efficient algorithm for measuring the impulse response using pseudorandom noise"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parks",
+        "given": "T.W."
+      },
+      {
+        "family": "Burrus",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "36."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Filter Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Martin",
+        "given": "P."
+      },
+      {
+        "family": "Thayer",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "container-title": [
+      "Proceedings of the 1991 ASEE Annual Conference"
+    ],
+    "date": [
+      "1991-06"
+    ],
+    "title": [
+      "Multirate filtering using the TMS320C30 floating-point digital signal processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Crochiere",
+        "given": "R.E."
+      },
+      {
+        "family": "Rabiner",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "38."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Multirate Digital Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schafer",
+        "given": "R.W."
+      },
+      {
+        "family": "Rabiner",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "39."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "692–702"
+    ],
+    "title": [
+      "A digital signal processing approach to interpolation"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crochiere",
+        "given": "R.E."
+      },
+      {
+        "family": "Rabiner",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "40."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "444–456"
+    ],
+    "title": [
+      "Optimum FIR digital filter implementations for decimation, interpolation and narrow-band filtering"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Crochiere",
+        "given": "R.E."
+      },
+      {
+        "family": "Rabiner",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "41."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "296–311"
+    ],
+    "title": [
+      "Further considerations in the design of decimators and interpolators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bellanger",
+        "given": "M.G."
+      },
+      {
+        "family": "Daguet",
+        "given": "J.L."
+      },
+      {
+        "family": "Lepagnol",
+        "given": "G.P."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "container-title": [
+      "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "231–235"
+    ],
+    "title": [
+      "Interpolation, extrapolation, and reduction of computation speed in digital filters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ASSP-22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Peterson",
+        "given": "W.A."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "43."
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "1990-10"
+    ],
+    "pages": [
+      "54–62"
+    ],
+    "title": [
+      "A TMS320C25-based multirate filter"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "44."
+    ],
+    "container-title": [
+      "Proceedings of the 1988 ASEE Annual Conference"
+    ],
+    "date": [
+      "1988-06"
+    ],
+    "title": [
+      "Digital broadband noise synthesis by multirate filtering using the TMS320C25"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Widrow",
+        "given": "B."
+      },
+      {
+        "family": "Winter",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "45."
+    ],
+    "container-title": [
+      "Computer"
+    ],
+    "date": [
+      "1988-03"
+    ],
+    "pages": [
+      "25–39"
+    ],
+    "title": [
+      "Neural nets for adaptive filtering and adaptive pattern recognition"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rumelhart",
+        "given": "D.E."
+      },
+      {
+        "family": "McClelland",
+        "given": "J.L."
+      },
+      {
+        "family": "PDP Research Group",
+        "particle": "the"
+      }
+    ],
+    "citation-number": [
+      "46."
+    ],
+    "container-title": [
+      "Explorations in the Microstructure of Cognition"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Parallel Distributed Processing"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "J."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "J",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "47."
+    ],
+    "container-title": [
+      "Real-time adaptive PID controller using the TMS320C31 DSK Proceedings of the 2000 Texas Instruments DSPS Fest Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Gomes III"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tang",
+        "given": "J."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "48."
+    ],
+    "container-title": [
+      "Proceedings of the 1999 Texas Instruments DSPS Fest Conference"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "PID controller using the TMS320C31 DSK for real-time motor control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bitler",
+        "given": "B."
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "49."
+    ],
+    "container-title": [
+      "Proceedings of the 1992 International Conference on Signal Processing Applications and Technology (ICSPAT"
+    ],
+    "date": [
+      "1992"
+    ],
+    "title": [
+      "Video line rate processing with the TMS320C30"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "M.A.T.L.A.B."
+      }
+    ],
+    "citation-number": [
+      "50."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "MathWorks, Natick, MA"
+    ],
+    "title": [
+      "The Language of Technical Computing, Version 6.3",
+      "A TMS320C6x Instruction Set"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "C6000 CPU and Instruction Set, SPRU189F"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320 TMS320C6000 Programmer’s Guide, SPRU198D"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "M.A.T.L.A.B."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "MathWorks, Natick, MA"
+    ],
+    "title": [
+      "The Language of Technical Computing"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "location": [
+      "Natick, MA"
+    ],
+    "publisher": [
+      "MATLAB Student Version, MathWorks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gomes",
+        "given": "W.J.",
+        "suffix": "III"
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the 1999 ASEE Annual Conference"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Filter design and implementation using the TMS320C6x interfaced with MATLAB"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gomes",
+        "given": "W.J.",
+        "suffix": "III"
+      },
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings of the 1999 ASEE Annual Conference"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Real-time FIR and IIR filter design using MATLAB interfaced with the TMS320C31 DSK"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley",
+      "E Additional Support Tools"
+    ],
+    "title": [
+      "Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldwave",
+        "given": "at wwwgoldwavecom"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "Cool Edit, at www.syntrillium.com."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Gram412.zip from Spectrogram, address from shareware utility with the database address www.simtel.net"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "DigiFilter, from MultiDSP, at multidsp@aol.com."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing Laboratory Experiments Using C and the TMS320C31 DSK"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with C and the TMS320C30"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chassaing",
+        "given": "R."
+      },
+      {
+        "family": "Horning",
+        "given": "D.W."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Signal Processing with the TMS320C25"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "note": [
+      "Hyperception, at info@hyperception.com."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "Integrated DSP, at www.integrated-dsp.com."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "note": [
+      "The MathWorks, Inc., at www.mathworks.com."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Dallas, TX"
+    ],
+    "publisher": [
+      "Burr-Brown/Texas Instruments"
+    ],
+    "title": [
+      "PCM3002/PCM3003 16-/20-Bit Single-Ended Analog Input/Output Stereo Audio Codec, SBAS079"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Dallas, TX"
+    ],
+    "publisher": [
+      "G DSP/BIOS and RTDX for Real-Time Data Transfer"
+    ],
+    "title": [
+      "TMS320C6000 McBSP: I2S Interface, SPRA595, Texas Instruments"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "326"
+    ],
+    "title": [
+      "DSP/BIOS and RTDX for Real-Time Data Transfer"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 DSP/BIOS User’s Guide, SPRU303B"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "An Audio Example Using DSP/BIOS, SPRA598"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "TMS320C6000 DSP/BIOS Application Programming Interface (API) Reference Guide, SPRU403A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Application Report, DSP/BIOS by Degrees: Using DSP/BIOS Features in an Existing Application, SPRA591"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Real-Time Data Exchange"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "pages": [
+      "245"
+    ],
+    "title": [
+      "Index Acoustic direction tracker, 268–269 dot product with parallel instructions, Adaptive channel equalization, adaptive filter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SPRY012"
+    ]
+  },
+  {
+    "citation-number": [
+      "219"
+    ],
+    "note": [
+      "71–72 adaptive FIR of fixed IIR, 232 Assembly function, C-callable assembly function, structures, 217–221 76, 92–94"
+    ],
+    "title": [
+      "sum of products with double-word load, applications, 218–221 sum of products with word-wide data programming examples, 221–236 access, 243 narrowband interference cancellation, ASM statement, 76 232–236 Assembler directives, 74 noise cancellation, 224–226 Assembler shell, DSK initialization/ system identification communication, 29 adaptive FIR of fixed FIR, 227–231 Assembly code format"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Adaptive prediction, 219 dot product, assembly program, 94–97 Adaptive temporal attenuator (ATA), DSP factorial, 93–94 student project, 264–265",
+      "circular buffer, C calling Bit reversal, fast Fourier transform, 195 ASM function, 153–155 Blackman window, finite impulse response filters, optimization, 239–258 115 fixed-point implementation Branch/move, TMS320C6x instruction set, dot product with no parallel instructions, 73–74 244–245 Buffer data, printed to file, 44–46"
+    ],
+    "title": [
+      "AD535 codec, input/output, 34–35 Bandpass filters Add/subtract/multiply, TMS320C6x instruction adaptive filter programming, system set, 72 identification, fixed FIR initialization, Aliasing effects, FIR with down-sampling, 227–231 141–143 finite impulse response filters Amplitude modulation, 56–57 design criteria, 112–113 Application-specific integrated circuit (ASIC), implementation programming, 122–123, C6x architecture, 62 125 ASM code programming Bandstop filters, finite impulse response filters finite impulse response filters, 144–155 design criteria, 112–113 C calling ASM function, 144–148 implementation programming, 118–122, 125 circular buffer, C calling ASM function, Bilinear transformation, 295–301 148–155 Binary representation, fixed-point, 281–284 external memory"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Cascade stages, infinite impulse response filter C6x processor implementation, 169–173 architecture"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "shell",
+        "given": "Compiler/assembler/linker"
+      }
+    ],
+    "container-title": [
+      "PID controller"
+    ],
+    "note": [
+      "RTDX real-time data transfer, 263, 325–327 decimation-in-time FFT algorithm, 193–194 SB-ADPCM encoder/decoder, G.722 audio inverse FFT (IFFT), 198–199 coding, 263–264 Error signal, adaptive filter structure, 217–218 video line rate analysis, 270, 272 Euler’s formula, z transform, sinusoidal function, voice detection and reverse playback, 268 104 voice scrambler, DMA and user switches, Execute packets (EP), 66–67 260–261 pipelining constraints within FP, 88–89 development system, 1–2 Execute stage, pipelining, 67–68 Code Composer Studio (CCS), 5–7 Execution cycles, code optimization, 258 compiler/assembler/linker shell, 26–30 Exponential function, z transform, 103–104 DSK board configuration, 4 DSK support tools, 2–4 Factorial, linear assembly function, 99–100 initialization/communication file, 24–26 Factorial of number, assembly function calling, linker file, 26, 28 93–94 TMS320C6711 processor, 4–5 Fast convolution, fast Fourier transformation, vector file, 26, 27 206–214 real-time transfer, DSP/BIOS, 325–327 Fast data acquisition, four-channel multiplexer, Direct memory access (DMA) 270 C6x processor, 81–82 Fast Fourier transform (FFT) voice scrambler with user switches, 260–261 applications, 182"
+    ],
+    "pages": [
+      "270 188–189"
+    ],
+    "title": [
+      "DSP Data allocation and alignment, 82 development system, 26–30 Data types, fixed- and floating-point format, Compiler options, code optimization, 240–241 83–84 Compiler shell, DSK initialization/ Daughter card expansion, PCM3003 stereo communication, 28–29 codec, 35, 37 Computer-aided approximation, finite impulse Decimation-in-frequency FFT algorithm, 184–191 response filters, 116 radix-4 development, 195–198 Cross-paths Decimation-in-time FFT algorithm, 191–194 code improvement, 86 Decode stage, C6x processor pipelining, 67–68 constraints, 87–88 Dependency graph, code optimization, 249–251 Difference equations code optimization, 244–248 infinite impulse response filters software pipelining, 253–258 sine generation, 174–177 efficient dot product, 91–92 swept sinusoid, 177–179 linear assembly program, 97–99 two tone generation, second-order Double-precision instructions, fixed- and floatingequations, 173–174 point format, 84–85 z-transform, finite impulse response filters, Down-sampling, aliasing effects, 141–143 106–107 DSP starter kit (DSK) Digifilter program, filter design, 304–305 board configuration, 4 Digital signal processing (DSP) input/output functions applications and student projects applications overview, 33–37 acoustic direction tracker, 268–269 PCM3003 stereo codec, 35, 37 adaptive temporal attenuator, 264–266 TLC320AD535 onboard codec, 34–35 four-channel multiplexer, fast data quick test protocol, 7–8 acquisition, 270 support programs, 24–28 FSK modem, 266–267 initialization/communication file, 24–26 image processing, 265–266 linker file, 26, 28 modified Prony’s method, filter design and vector file, 26, 27 implementation, 266 support tools, 2–4 multirate filter, 269–271 m-law speech companding, 267–268 Echo generation, 49–53 neural network for signal recognition, 270 Eight-point fast Fourier transform phase-locked loop, 261–262 decimation-in-frequency FFT algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "306 FIR of fixed IIR, 232–234 Fourier series implementation, 110–113 bilinear transformation, 167–169 MATLAB support tools C code programming examples, 169–181 GUI filter designer SPTOOL, FIR filter inverse filter, 179–181 design, 288–290 second-order stages in cascade, 169–173 student design tool, 292–294 sine generation, difference equation, 174–177 s-plane to z-plane mapping, 105–106 swept sinusoid, difference equation, 177–179 window functions, 114–116 two tone generation, second-order difference Blackman window, 115 equations, 173–175 computer-aided approximation, 116 DigiFilter design tool, 305 Hamming window, 115 MATLAB support tools Hanning window, 115 GUI filter designer SPTOOL, 290–292 Kaiser window, 116 student design tool, 294–295 Fixed- and floating-point format, 83–85 structural properties, 160–167 data types, 83–84 cascade structure, 164–165 division, 85 direct form I, 160–161 single- and double-precision, 84–85 direct form II, 161–164 Index 333"
+    ],
+    "title": [
+      "Discrete Fourier transform (DFT) bit reversal, unscrambling, 195 radix-2 fast Fourier transform development, inverse FFT, 198–199 183–184 MATLAB support tools, 301–302 decimation-in-frequency FFT algorithm, programming examples, 199–214 184–191 DFT real number sequence, 199–201 decimation-in-time FFT algorithm, 191– fast convolution, 206–214 194 graphic equalizer, 210–214 real number sequence, 199–201 overlap-add implementation, 206–214 Discrete signals, finite impulse response filters, RADIX-2 development, 183–188 z-transform, 107–108 decimation-in-frequency algorithm, Fetch packets (FP), 66–67 Fixed-point considerations interrupt control registers, 77–79 binary and two’s-complement representation, pipelining constraints, more than one EP, 88–89 281–284 Filter design and implementation fractional fixed-point representation, 284–285 DSP applications, modified Prony’s method, multiplication, 285–287 266 Fixed-point implementation, sum of products finite impulse response filters, bandstop and with word wide data access, 242–243 bandpass, 118–123 Floating-point processor, fast convolution, Finite impulse response filters 206–210 adaptive filter system identification Four-channel multiplexer, fast data acquisition, adaptive FIR for fixed FIR, 227–231 270 adaptive FIR of fixed IIR, 232–234 Fourier series, finite impulse response filters C and ASM code programming examples, design criteria, 110–113 116–155 linear phase features, 108–110 aliasing effects, down-sampling, 141–143 window functions, 114–116 bandstop and bandpass implementation, FSK modem, DSP applications, 266–267 118–123 Functional unit latency, pipelining, 68 C calling ASM function, 144–147 C calling faster ASM function, 147–148 G.722 audio encoding, SB-ADPCM CCS frequency response plot, 121 encoder/decoder, 263–264 circular buffer, C calling ASM function, Global interrupt enable, interrupt control 148–155 registers, 78–79 external memory, circular buffer, C calling Goldwave shareware, as support tool, 303–304 ASM function, 153–155 Graphic equalizer, 210–214 FIR4ways implementation, 136–138 internally generated pseudorandom noise, Hamming window 129–134 finite impulse response filters, 115 inverse filter implementation, 143–144 FIR filter design, 306 lowpass filters, 123–125 Hand-coded software pipelining, code lowpass, highpass, bandpass, and bandstop optimization, 249 filter implementation, 125 Hanning window, finite impulse response filters, notch filter, corrupted input voice, 134–136 115 pseudorandom noise sequence input, Highpass filters, finite impulse response filters 127–129 design criteria, 112 voice effects, 3 implementation programming, 125 voice scrambler, 138–141 design criteria, 108–110 Image processing, DSP applications, 265–266 difference equations, 106–107 Indirect addressing, 69 DigiFilter design tool, 304–305 Infinite impulse response filters discrete signals, 107–108 adaptive filter system identification, adaptive filter development package"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "77–79 224–226"
+    ],
+    "title": [
+      "acknowledgement, 80 finite impulse response filters, design criteria, control registers, 77–79 112–113 DSK initialization/communication file, voice effects, FIR, 123–125 24–26 registers, 278–280 Mapping techniques, finite impulse response XINT0 selection, 79 filters, s-plane to z-plane mapping, Interrupt enable register, interrupt control 105–106 registers, 77–79 MATLAB Interrupt flag register, interrupt control registers, adaptive filter for noise cancellation"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "FFT and IFFT",
+      "GUI filter designer SPTOOL Inverse fast Fourier transform (IFFT), 198–199 FIR filter design"
+    ],
+    "note": [
+      "MATLAB support tools, 301–302 IIR filter design, 290–292 Inverse filter student design tools FIR implementation, 143–144 FIR filter design, 292–294 infinite impulse response filters, 179–181 IIR filter design, 294–295"
+    ],
+    "pages": [
+      "301–302 198–199",
+      "288–290"
+    ],
+    "title": [
+      "Interrupt service table, interrupt control registers, FIR filter implementation, bandpass and 78–79 bandstop, 118–123 Intrinsic, C functions, 241 sine generation with table, 53–55 sum of products for, 243 support tools, 288–302 Intrinsics, code improvement, 85 bilinear transformation, 295–301 Inverse discrete Fourier transform (IDFT"
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      ", 220–221"
+    ],
+    "title": [
+      "Noise cancellation, adaptive filter, 218–221 Rectangular window, finite impulse response programming examples filters, 114–115 C code/Borland compiler, 221–224 Recursive least squares algorithm, adaptive filter narrowband interference cancellation"
+    ],
+    "type": null,
+    "volume": [
+      "232"
+    ]
+  },
+  {
+    "pages": [
+      "88–89"
+    ],
+    "title": [
+      "FIR implementation, 127–134 Square-wave generation, 47 sequence generation, 59–60 Stalling effects, C6x processor, pipelining constraints"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "fast Fourier transform algorithm, FSK modem, 266–267"
+    ],
+    "pages": [
+      "191–194 270 –4,"
+    ],
+    "title": [
+      "Quantization error, 61–63 Student projects, digital signal processing (DSP) acoustic direction tracker, 268–269 RADIX-2, fast Fourier transform (FFT), 183–184 adaptive temporal attenuator, 264–265 decimation-in-frequency algorithm, 184–191 four-channel multiplexer, fast data acquisition, decimation-in-time algorithm"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,692 @@
+[
+  {
+    "author": [
+      {
+        "given": "Endnotes"
+      }
+    ],
+    "container-title": [
+      "Motorola",
+      "MIPS32TM Architecture for Programmers Volume II: The MIPS32TM Instruction Set, Rev 0.95, MIPS Technologies",
+      "Revision A"
+    ],
+    "note": [
+      "3.2",
+      "3.3",
+      "3.4",
+      "3.5",
+      "3.6",
+      "3.7",
+      "3.8] Texas Instruments website:"
+    ],
+    "pages": [
+      "9",
+      "28",
+      "91",
+      "28",
+      "39 90",
+      "12 15",
+      "538"
+    ],
+    "publisher": [
+      "ARM Architecture, Pietikainen, Ville",
+      "Practical Electronics, Scherz, Paul"
+    ],
+    "title": [
+      "EnCore 400 Embedded Processor Reference Manual",
+      "MPC8xx Instruction Set Manual",
+      "MIPS32TM Architecture for Programmers Volume II: The MIPS32TM Instruction Set, Rev 0.95, MIPS Technologies",
+      "MPC8xx Instruction Set Manual, Motorola"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://focus.ti.com/docs/apps/catalog/resources/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MacNamee",
+        "given": "C."
+      },
+      {
+        "family": "Rinne",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "Application Note"
+    ],
+    "date": [
+      "www.ul.ie/~rinne/et4508/ ET4508_L9.pdf",
+      "2002-02-01"
+    ],
+    "publisher": [
+      "Infineon Technologies"
+    ],
+    "title": [
+      "Semiconductor Memories",
+      "Mobile-RAM"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Pietikainen",
+        "given": "V."
+      },
+      {
+        "family": "Vuori",
+        "given": "J."
+      }
+    ],
+    "container-title": [
+      "Micron Corporation. Wong, Doug, “NAND Flash Performance White Paper,” Toshiba America Electronic Components, Inc",
+      "M-Systems, Revision"
+    ],
+    "date": [
+      "2003-07",
+      "2004-03-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Memories ITKC11 “Mobiilit sovellusalustat (Mobile Application Platforms",
+      "Tal, Arie, “Two Technologies Compared: NOR vs. NAND White Paper",
+      "Technical Note: TN-46-05. “General DDR SDRAM Functionality"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://tisu.mit.jyu.fi/embedded/itkc11/itkc11.htm."
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Endnotes [1] Doeling, W., Mark, W., Tadewald, T., and Reichenbacher, P."
+      }
+    ],
+    "container-title": [
+      "Electronics"
+    ],
+    "date": [
+      "1978-10-12"
+    ],
+    "pages": [
+      "111–117"
+    ],
+    "title": [
+      "Getting Rid of Hook: The Hidden PC-Board Capacitance"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Rich",
+        "given": "Alan"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Analog Dialogue"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "8"
+    ],
+    "title": [
+      "Shielding and Guarding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Morrison",
+        "given": "Ralph"
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "pages": [
+      "0471245186"
+    ],
+    "publisher": [
+      "John Wiley, Inc"
+    ],
+    "title": [
+      "Grounding and Shielding Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ott",
+        "given": "Henry W."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "issue": [
+      "BN"
+    ],
+    "pages": [
+      "0–471–85068–3"
+    ],
+    "publisher": [
+      "John Wiley, Inc"
+    ],
+    "title": [
+      "Noise Reduction Techniques in Electronic Systems"
+    ],
+    "type": "book",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Brokaw",
+        "given": "Paul"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Analog Devices AN202"
+    ],
+    "title": [
+      "An IC Amplifier User’s Guide to Decoupling, Grounding and Making Things Go Right for a Change"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brokaw",
+        "given": "Paul"
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Analog Devices AN342"
+    ],
+    "title": [
+      "Analog Signal-Handling for High Speed and Accuracy"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brokaw",
+        "given": "Paul"
+      },
+      {
+        "family": "Barrow",
+        "given": "Jeff"
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Analog Devices AN345"
+    ],
+    "title": [
+      "Grounding for Low- and High-Frequency Circuits"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Barrow",
+        "given": "Jeff"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "RF Design"
+    ],
+    "date": [
+      "1989-07"
+    ],
+    "title": [
+      "Avoiding Ground Problems in High Speed Circuits"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bleaney",
+        "given": "B.I."
+      },
+      {
+        "family": "B.",
+        "given": "Electricity"
+      },
+      {
+        "family": "Magnetism",
+        "given": "Oxford at the Clarendon Press"
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1957"
+    ],
+    "pages": [
+      "23, 24, 52"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dummer",
+        "given": "G.W.A."
+      },
+      {
+        "family": "Nordenberg",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "11–13"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Fixed and Variable Capacitors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rempfer",
+        "given": "William C."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Electronic Design"
+    ],
+    "date": [
+      "1996-06-24"
+    ],
+    "note": [
+      "Special Analog Issue,"
+    ],
+    "pages": [
+      "44"
+    ],
+    "title": [
+      "Get All the Fast ADC Bits You Pay For"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Sauerwald",
+        "given": "Mark"
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "Electronic Design"
+    ],
+    "date": [
+      "1996-06-24"
+    ],
+    "note": [
+      "Special Analog Issue,"
+    ],
+    "pages": [
+      "57"
+    ],
+    "title": [
+      "Keeping Analog Signals Pure in a Hostile Digital World"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Grame",
+        "given": "Jerald"
+      },
+      {
+        "family": "Baker",
+        "given": "Bonnie"
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "Electronic Design"
+    ],
+    "date": [
+      "1996-06-24"
+    ],
+    "note": [
+      "Special Analog Issue,"
+    ],
+    "pages": [
+      "9"
+    ],
+    "title": [
+      "Design Equations Help Optimize Supply Bypassing for Op Amps"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Grame",
+        "given": "Jerald"
+      },
+      {
+        "family": "Baker",
+        "given": "Bonnie"
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "Electronic Design"
+    ],
+    "date": [
+      "1996-11-18"
+    ],
+    "note": [
+      "Special Analog Issue,",
+      "PC Board Design Issues 509"
+    ],
+    "pages": [
+      "9"
+    ],
+    "title": [
+      "Fast Op Amps Demand More Than a Single-Capacitor Bypass"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kester",
+        "given": "Walt"
+      },
+      {
+        "family": "Bryant",
+        "given": "James"
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "High Speed Design Techniques, Analog Devices",
+      "Chapter"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "7–27"
+    ],
+    "title": [
+      "Grounding in High Speed Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pattavina",
+        "given": "Jeffrey S."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "EDN"
+    ],
+    "date": [
+      "1998-10-22"
+    ],
+    "pages": [
+      "149"
+    ],
+    "title": [
+      "Bypassing PC Boards: Thumb Your Nose at Rules of Thumb"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "Howard W."
+      },
+      {
+        "family": "Graham",
+        "given": "Martin"
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "0133957241"
+    ],
+    "publisher": [
+      "PTR Prentice Hall"
+    ],
+    "title": [
+      "High-Speed Digital Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kester",
+        "given": "Walt"
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Electronic Design Analog Applications Issue"
+    ],
+    "date": [
+      "1997-06-23"
+    ],
+    "pages": [
+      "29"
+    ],
+    "title": [
+      "A Grounding Philosophy for Mixed-Signal Systems"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Morrison",
+        "given": "Ralph"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Solving Interference Problems in Electronics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motchenbacher",
+        "given": "C.D."
+      },
+      {
+        "family": "Connelly",
+        "given": "J.A."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "John Wiley"
+    ],
+    "title": [
+      "Low Noise Electronic System Design"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "21"
+    ],
+    "location": [
+      "Crystal Oscillators",
+      "New Rochelle, NY"
+    ],
+    "pages": [
+      "914–576–6570"
+    ],
+    "publisher": [
+      "MF Electronics"
+    ],
+    "title": [
+      "10 Commerce Drive"
+    ],
+    "type": "book",
+    "volume": [
+      "10801"
+    ]
+  },
+  {
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "2215"
+    ],
+    "location": [
+      "Crystal Oscillators",
+      "Austin, Texas USA"
+    ],
+    "pages": [
+      "512–835–2038,"
+    ],
+    "publisher": [
+      "Wenzel Associates, Inc",
+      "Kramer Lane"
+    ],
+    "type": "book",
+    "url": [
+      "www.wenzel.com."
+    ],
+    "volume": [
+      "78758"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Montrose",
+        "given": "Mark"
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1999"
+    ],
+    "note": [
+      "IEEE Order Number PC5756)."
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "EMC and the Printed Circuit Board"
+    ],
+    "type": null
+  }
+]
