@@ -1,0 +1,2856 @@
+[
+  {
+    "title": [
+      "Program 7.3: VHDL code for position algorithm"
+    ],
+    "type": null
+  },
+  {
+    "author": [],
+    "container-title": [
+      "Spartan"
+    ],
+    "pages": [
+      "500"
+    ],
+    "title": [
+      "Company: Shivaji University -- Engineer: Shinde S.A and Dr.R.K.Kamat -- Create Date: 22:45:04 05/30/2008 -- Design Name: -- Module Name: Position Algorithm - Behavioral -- Project Name: Picoblaze -- Target Devices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3E"
+    ]
+  },
+  {
+    "author": [],
+    "note": [
+      "Description: -- Revision: -- Revision 0.01 - File Created"
+    ],
+    "title": [
+      "Tool versions: Webpack 9.2i"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "type": null,
+    "url": [
+      "http://www.st.com/stonline/products/technologies/soc/soc.htm"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "type": null,
+    "url": [
+      "http://whatis.techtarget.com/definition/0,,sid9_gci859459,00.html#"
+    ]
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "type": null,
+    "url": [
+      "http://www.answers.com/topic/system-on-a-chip?cat=technology"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Milica Mitiü and Mile Stojþev"
+    ],
+    "issue": [
+      "pdf"
+    ],
+    "title": [
+      "A Survey of Three System-on-Chip Buses:, AMBA, CoreConnect and Wishbone"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "06"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bennini",
+        "given": "L."
+      },
+      {
+        "family": "DeMicheli",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "2002-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "70–78"
+    ],
+    "title": [
+      "Networks on Chips: A New SoC Paradigm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yoshikazu",
+        "given": "S."
+      },
+      {
+        "family": "Hiroaki",
+        "given": "S."
+      },
+      {
+        "family": "Kouji",
+        "given": "M."
+      },
+      {
+        "family": "Satoshi",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "NEC Technical Journal"
+    ],
+    "date": [
+      "2006"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "38–41,"
+    ],
+    "title": [
+      "Present Status of the Embedded CPU in SoC Design"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.nec.co.jp/techrep/en/ journal/g06/n05/t060510.pdf"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "EE Times Europe,(07/24/2008"
+    ],
+    "issue": [
+      "11"
+    ],
+    "note": [
+      "AM EDT),"
+    ],
+    "title": [
+      "Intel Starts Foray into SoC Market, Christoph Hammerschmidt"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.eetimes.com/rss/showArticle."
+    ],
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "note": [
+      "by N. Flaherty, Friday 12 January 2007"
+    ],
+    "title": [
+      "Multi-processor SoC design poses debug challenge"
+    ],
+    "type": null,
+    "url": [
+      "http://www.electronicsweekly.com/Articles/2007/01/12/40512/multi-processor-socdesign-poses-debug-challenge.htm"
+    ]
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "Embedded Systems White Papers, System-on-Chip Designs: Strategy for Success"
+    ],
+    "type": null,
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "type": null,
+    "url": [
+      "http://www.us.design-reuse.com/articles/2502/system-on-chip-market-to-hit-1-3-billionunits-in-2004-says-new-report.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chip",
+        "given": "System",
+        "particle": "on"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "genre": [
+      "Research Report # GIA-MCP1471,"
+    ],
+    "note": [
+      "Publication Date: May 2008 Global Industry Analysts, Number of Pages: 1198"
+    ],
+    "title": [
+      "A Global Strategic Business Report"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "12."
+    ],
+    "note": [
+      "aspx"
+    ],
+    "title": [
+      "SoC market to exceed $58bn by 2010, Global system-on-a-chip or SoC market likely to increase by over 150pc between 2006 and 2010"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ciol.com/content/780798852."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "System-on-Chip",
+        "given": "Worldwide"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "title": [
+      "Market To Reach $43.2 Billion By 2009, By Electronics.ca Research Network Published 01/17/2005 Semiconductors"
+    ],
+    "type": null,
+    "url": [
+      "http://www.electronics."
+    ]
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Vasanthalakshmi, Research Trainee"
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "Mixed Signal System-on-Chip Applications- Cause of Mutual Interest! Date Published: 22 Nov 2005 By C",
+      "market-insight-top.pag?docid=53870501 Frost and Sullivan Report"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.frost.com/prod/servlet/"
+    ]
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Support for On-Chip Memory in Fiasco, Daniel Molka, TU Dresden, Verteidigung der Beleg-Arbeit"
+    ],
+    "type": null,
+    "url": [
+      "http://os.inf.tu-dresden.de/EZAG//abstracts/abstract_20070817."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "System–on-Chip",
+        "given": "Saturday"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "2007-01-06"
+    ],
+    "type": null,
+    "url": [
+      "http://www.electronics-manufacturers."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "S.E.R.C."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "2008-05"
+    ],
+    "title": [
+      "Colloquium: “On-Chip Memory Architecture Exploration of Embedded Systems"
+    ],
+    "type": null,
+    "url": [
+      "https://www.serc.iisc.ernet.in/broadcast_messages/msg12231.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bus",
+        "given": "System-on-Chip"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "location": [
+      "SE-581 83 Linköping, Sweden"
+    ],
+    "publisher": [
+      "Department of Physics and Measurement Technology, Linköping University"
+    ],
+    "title": [
+      "The next generation of System-on-Chip, Daniel Wiklund, Electronic devices"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "19."
+    ],
+    "publisher": [
+      "University of British Columbia, Dept. of ECE"
+    ],
+    "title": [
+      "Lecture 2a, Overview of System-on-Chip Design, Res Saleh"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "20."
+    ],
+    "note": [
+      "07/01/2002 6:13 PM EDT),"
+    ],
+    "title": [
+      "SoC bus war fizzles, Ron Wilson, EEdesign.com"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DLX Microprocessor With WISHBONE SoC Bus",
+        "given": "F.P.G.A.Implementation",
+        "particle": "of"
+      },
+      {
+        "family": "Rajagopal",
+        "given": "By R.Selvakumar"
+      },
+      {
+        "family": "M",
+        "given": "Mun’im Ahmad Zabidi"
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "note": [
+      "Universiti Teknologi Malaysia (UTM),"
+    ],
+    "type": null,
+    "url": [
+      "http://www.design-reuse.com/articles/18600/dlx-microprocessor-wishbone-bus.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reeves",
+        "given": "T.M."
+      },
+      {
+        "family": "Ravey",
+        "given": "T.K."
+      },
+      {
+        "family": "Timothy",
+        "given": "K."
+      },
+      {
+        "given": "Preface-"
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "System-on-a-Chip and Packaging"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Modularity",
+        "given": "Physical Limits",
+        "particle": "to"
+      },
+      {
+        "family": "Whitney",
+        "given": "By Daniel E."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "3/3/2004"
+    ],
+    "title": [
+      "Senior Lecturer MIT Engineering Systems Division"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "24."
+    ],
+    "location": [
+      "Ritchie, Bell Labs/Lucent Technologies"
+    ],
+    "title": [
+      "The Development of the C Language* Dennis M"
+    ],
+    "type": null,
+    "url": [
+      "http://cm.bell-labs.com/cm/cs/who/dmr/chist.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hardware JPEG Encoder Implementation",
+        "given": "Investigation",
+        "particle": "of"
+      },
+      {
+        "family": "Verification Methodologies",
+        "given": "S.Gordoni"
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "publisher": [
+      "University of California Santa Barbara"
+    ],
+    "title": [
+      "Department of Electrical and Computer Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "26."
+    ],
+    "note": [
+      "14:39 PM) URL:"
+    ],
+    "title": [
+      "The four Rs of efficient system design By Juergen Jaeger and Shawn McCloud, Courtesy of Embedded Systems Programming Mar 1 2005"
+    ],
+    "type": null,
+    "url": [
+      "http://www.us.design-reuse.com/showArticle.jhtml;jsessionid=NTXNPH3R3BVB4QSND"
+    ]
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "location": [
+      "Liverpool University",
+      "Switzerland"
+    ],
+    "publisher": [
+      "UK & CERN"
+    ],
+    "title": [
+      "Presentation by Jamie Lokier"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Boosten",
+        "given": "M."
+      },
+      {
+        "family": "Dobinson",
+        "given": "R.W."
+      },
+      {
+        "family": "Martin",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "The Network Interface Bottleneck, 10th IEEE Real Time Conference"
+    ],
+    "location": [
+      "Beaune ‘97",
+      "Eindhoven"
+    ],
+    "note": [
+      "RT97"
+    ],
+    "publisher": [
+      "CERN & Stan Ackermans Institute"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "29."
+    ],
+    "note": [
+      "OUCL"
+    ],
+    "publisher": [
+      "Hardware Compilation Group, Oxford University Computing Laboratory"
+    ],
+    "type": null,
+    "url": [
+      "http://www.comlab.ox.ac.uk/oucl/hwcomp.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ltd",
+        "given": "Embedded Solutions"
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "note": [
+      "embeddedsol.com/, [ESL"
+    ],
+    "title": [
+      "– Commercial suppliers and support for Handel-C"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "citation-number": [
+      "31."
+    ],
+    "note": [
+      "ALT"
+    ],
+    "title": [
+      "C level design"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cleveldesign.com/,"
+    ]
+  },
+  {
+    "citation-number": [
+      "32."
+    ],
+    "genre": [
+      "Handel-C 33."
+    ],
+    "location": [
+      "NLC"
+    ],
+    "title": [
+      "Frontier Design A|RT"
+    ],
+    "type": null,
+    "url": [
+      "http://www.frontierd.com/,",
+      "http://www.embeddedsol.com/,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "C",
+        "given": "Systolic Parallel"
+      }
+    ],
+    "citation-number": [
+      "34."
+    ],
+    "type": null,
+    "url": [
+      "http://www-mp.informatik.unimannheim.de/groups/mass_par_1/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Transmogrifier",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "35."
+    ],
+    "type": null,
+    "url": [
+      "http://www.eecg.toronto.edu/EECG/RESEARCH/tmcc/tmcc/"
+    ]
+  },
+  {
+    "citation-number": [
+      "36."
+    ],
+    "title": [
+      "Handel-C for Hardware Design the Value of Software Design and Debug Methods To Designers Addressing Reconfigurable Logic August 2002White paper by Celoxica"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hardware",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "37."
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "genre": [
+      "Technical Report,"
+    ],
+    "location": [
+      "Ku, David C"
+    ],
+    "publisher": [
+      "Stanford University CA Computer Systems Lab",
+      "De Micheli, Giovanni"
+    ],
+    "title": [
+      "A Language for Hardware Design, Descriptive Note"
+    ],
+    "type": "report"
+  },
+  {
+    "citation-number": [
+      "38."
+    ],
+    "title": [
+      "High level languages- C-FPGA environment"
+    ],
+    "type": null,
+    "url": [
+      "http://asic-soc.blogspot.com/2007/11/"
+    ]
+  },
+  {
+    "citation-number": [
+      "39."
+    ],
+    "note": [
+      "What is Transmogrifier C ?"
+    ],
+    "type": null,
+    "url": [
+      "http://www.eecg.toronto.edu/RESEARCH/tmcc/tmcc/"
+    ]
+  },
+  {
+    "citation-number": [
+      "40."
+    ],
+    "container-title": [
+      "Business Wire"
+    ],
+    "date": [
+      "1998-12-15"
+    ],
+    "title": [
+      "C Level Design Introduces C2Verilog Version 2.0 to Increase Productivity for Electronic System Designers"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://findarticles."
+    ]
+  },
+  {
+    "citation-number": [
+      "41."
+    ],
+    "note": [
+      "By Jeff Jussel, Celoxica,"
+    ],
+    "title": [
+      "C to FPGA: An Abstract Concept for Concrete Design Implementation"
+    ],
+    "type": null,
+    "url": [
+      "http://www.rtcmagazine.com/home/article.php?id=100304"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Spec-C",
+        "given": "Handel-C."
+      }
+    ],
+    "citation-number": [
+      "42."
+    ],
+    "date": [
+      "2006-03-13"
+    ],
+    "location": [
+      "By"
+    ],
+    "publisher": [
+      "Nikola Rank"
+    ],
+    "title": [
+      "SystemC: A Comparative Study"
+    ],
+    "type": "book",
+    "url": [
+      "www.web.cecs.pdx.edu/~mperkows/CAPSTONES/DSP1/ELG6163_Rank.ppt"
+    ]
+  },
+  {
+    "citation-number": [
+      "43."
+    ],
+    "note": [
+      "Mensch, Jr.1 and Dennis A. Silage2 retrieved from"
+    ],
+    "title": [
+      "System-on-chip design methodology in engineering education by William D"
+    ],
+    "type": null,
+    "url": [
+      "www.temple.edu/scdc/icee2000.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "44."
+    ],
+    "note": [
+      "retrieved from"
+    ],
+    "title": [
+      "Processor cores put more into SoC designs"
+    ],
+    "type": null,
+    "url": [
+      "http://www.electronicstalk.com/"
+    ]
+  },
+  {
+    "citation-number": [
+      "45."
+    ],
+    "container-title": [
+      "Dave Bursky | ED Online ID"
+    ],
+    "date": [
+      "1720-12-23"
+    ],
+    "title": [
+      "Programmable Clock Generator Solves System-Timing Woes"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://electronicdesign.com/Articles/Index."
+    ]
+  },
+  {
+    "citation-number": [
+      "46."
+    ],
+    "editor": [
+      {
+        "family": "Boesch",
+        "given": "T."
+      },
+      {
+        "family": "Roth",
+        "given": "E."
+      },
+      {
+        "family": "Thalmann",
+        "given": "M."
+      },
+      {
+        "family": "Felber",
+        "given": "N."
+      },
+      {
+        "family": "Fichtner",
+        "given": "W."
+      }
+    ],
+    "title": [
+      "A SoC for Multimedia Network Devices"
+    ],
+    "type": null,
+    "url": [
+      "ftp://ftp.tik.ee.ethz.ch/pub/people/spin/icce.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "47."
+    ],
+    "title": [
+      "SoC Design Environment with Automated BusArchitecture Generation for Rapid Prototyping with ISS, Sang-Heon Lee1, Jae-Gon Lee1, Ando Ki2, Chong-Min Kyung1, vs"
+    ],
+    "type": null,
+    "url": [
+      "www. kaist.ac.kr/~kyung/html/Paper/International%20Conference/IC-(132).pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "48."
+    ],
+    "note": [
+      "Jim Lipman,(08/01/2008 6:00 PM EDT), URL:"
+    ],
+    "title": [
+      "Antifuse Memory IP Fuels Low-Power Designs"
+    ],
+    "type": null,
+    "url": [
+      "http://www.eetimes.com/showArticle.jhtml?articleID=209900470"
+    ]
+  },
+  {
+    "citation-number": [
+      "49."
+    ],
+    "title": [
+      "Lower voltage next goal for low-power DDR, Marc Greenberg,(06/09/2008 12:00 AM EDT"
+    ],
+    "type": null,
+    "url": [
+      "http://www.eetimes.com/showArticle.jhtml?articleID=208402252"
+    ]
+  },
+  {
+    "citation-number": [
+      "50."
+    ],
+    "container-title": [
+      "D & R Industry Articles"
+    ],
+    "title": [
+      "Keeping the best audio quality in mobile phone by managing voltage drops created by 217 Hz transients"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.design-reuse.com/articles/18519/managing-voltage-drops.html"
+    ]
+  },
+  {
+    "citation-number": [
+      "51."
+    ],
+    "container-title": [
+      "By Lin Wu, Product Marketing Manager, Texas Instruments, Planet Analog"
+    ],
+    "note": [
+      "06/03/08, 05:36:04 PM EDT"
+    ],
+    "title": [
+      "Enhance circuit timing design with programmable clock generators (Part 1 of 2), As clocks speed increase and the number of clocks increases, a programmable clock generator may offer a better system and EMI design solution"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.design-reuse.com/exit/?url=http%3A%2F%2Fwww.embedded."
+    ]
+  },
+  {
+    "citation-number": [
+      "52."
+    ],
+    "note": [
+      "Product Marketing Manager, Texas Instruments, Planet Analog, (06/04/08, 12:00:00 PM EDT"
+    ],
+    "title": [
+      "Enhance circuit timing design with programmable clock generators (Part 2 of 2), As clocks speed increase and the number of clocks increases, a programmable clock generator may offer a better system and EMI design solution, By Lin Wu"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SAR",
+        "given": "U.W.B.Time-interleaved A.D.C.",
+        "particle": "exploiting"
+      },
+      {
+        "family": "Dondi",
+        "given": "Silvia"
+      },
+      {
+        "family": "s.r.l.",
+        "given": "Silis"
+      },
+      {
+        "family": "Bigi",
+        "given": "Marco"
+      },
+      {
+        "family": "Boni",
+        "given": "Andrea"
+      },
+      {
+        "family": "Tonelli",
+        "given": "Matteo"
+      }
+    ],
+    "citation-number": [
+      "53."
+    ],
+    "publisher": [
+      "University of Parma"
+    ],
+    "title": [
+      "Dipartimento di Ingegneria dell’Informazione"
+    ],
+    "type": "book",
+    "url": [
+      "http://www.design-reuse.com/articles/17552/uwb-time-interleaved-adc-sar.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Le",
+        "given": "B."
+      },
+      {
+        "family": "Rondeau",
+        "given": "T.W."
+      },
+      {
+        "family": "Reed",
+        "given": "J.H."
+      },
+      {
+        "family": "Bostian",
+        "given": "C.W."
+      }
+    ],
+    "citation-number": [
+      "54."
+    ],
+    "container-title": [
+      "IEEE Signal Processing Magazine"
+    ],
+    "date": [
+      "2004-11"
+    ],
+    "title": [
+      "Analog-to-Digital Converters”"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "55."
+    ],
+    "title": [
+      "Future-Ready Ultrafast 8bit CMOS ADC, for System-on-Chip Applications, Jincheol Yoo1, Daegyu Lee1, Kyusun Choi1, and Ali Tangel2"
+    ],
+    "type": null,
+    "url": [
+      "www.cse.psu.edu/~kyusun/res/wasic.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Monnier",
+        "given": "T."
+      },
+      {
+        "family": "Roche",
+        "given": "F.M."
+      },
+      {
+        "family": "Cathebras",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "56."
+    ],
+    "container-title": [
+      "Proceedings. International Workshop on"
+    ],
+    "date": [
+      "1998-08"
+    ],
+    "pages": [
+      "24–25 104–107,"
+    ],
+    "title": [
+      "Flip-flop hardening for space applications, Memory Technology, Design and Testing,1998"
+    ],
+    "type": "paper-conference",
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "57."
+    ],
+    "note": [
+      "retrieved from"
+    ],
+    "title": [
+      "US Patent 6501314 – Programmable differential D flip-flop"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shigeru",
+        "given": "I."
+      },
+      {
+        "family": "Masaaki",
+        "given": "S."
+      },
+      {
+        "family": "Sen",
+        "given": "N."
+      },
+      {
+        "family": "Akio",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "58."
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "IEIC Technical Report,"
+    ],
+    "issue": [
+      "3(FTS2001 1"
+    ],
+    "pages": [
+      "–13 49–55,"
+    ],
+    "publisher": [
+      "Institute of Electronics, Information and Communication Engineers"
+    ],
+    "title": [
+      "A Realization of Asymmetrically Faulty D-flip/ flop Based on Power Flicking Reset and Its Application to Fail-safe systems"
+    ],
+    "type": "report",
+    "volume": [
+      "101"
+    ]
+  },
+  {
+    "citation-number": [
+      "59."
+    ],
+    "container-title": [
+      "Kaben Research Inc"
+    ],
+    "note": [
+      "retrieved from"
+    ],
+    "title": [
+      "Phase Frequency Detector with a Novel D Flip Flop"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.wipo.int/pctdb/en/wo.jsp?wo=2005096501"
+    ]
+  },
+  {
+    "citation-number": [
+      "60."
+    ],
+    "note": [
+      "Flip-flop (electronics),"
+    ],
+    "type": null,
+    "url": [
+      "http://en.wikipedia.org/wiki/Flip-flop_(electronics)"
+    ]
+  },
+  {
+    "citation-number": [
+      "61."
+    ],
+    "title": [
+      "Fundamentals of the Electronic Counters, Application Note 200, Electronic Counter Series, Agilent Technologies, Electronic Counter Measures, Authored by Lee Pucker, Spectrum Signal processing"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "62."
+    ],
+    "container-title": [
+      "Introduction to CMOS VLSI Design, SRAM, Lecture Notes Retrieved from www.fp.cse"
+    ],
+    "type": "chapter",
+    "url": [
+      "wustl.edu/dzar/463/Lectures/lect13.ppt"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Power",
+        "given": "A.New Low"
+      },
+      {
+        "family": "High Speed Bidirectional Shift Register Architecture",
+        "given": "N.Sklavos"
+      },
+      {
+        "family": "Kitsos",
+        "given": "P."
+      },
+      {
+        "family": "Zervas",
+        "given": "N."
+      },
+      {
+        "family": "Koufopavlou",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "63."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "type": null,
+    "url": [
+      "www.patmos2001.eivd. ch/program/Repro%5CArt_10_4.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "64."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Frequency divider design strategies, By Louis Fan Fei, Broadband Technology"
+    ],
+    "type": null,
+    "url": [
+      "www.rfdesign.com/mag/503rfdf1.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "65."
+    ],
+    "note": [
+      "Gamad, Hemant Saxena, retrieved from www.hindawi.com/RecentlyAcceptedArticlePDF. aspx?journal=MSE&number=694582"
+    ],
+    "title": [
+      "Fifo Controller Design Technique in JPEG 2000 Encoder, R.S"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Design",
+        "given": "V.L.S.I."
+      },
+      {
+        "family": "Imagine Processor",
+        "given": "Verification",
+        "particle": "of the"
+      },
+      {
+        "family": "Khailany",
+        "given": "Brucek"
+      },
+      {
+        "family": "Dally",
+        "given": "William J."
+      },
+      {
+        "family": "Chang",
+        "given": "Andrew"
+      },
+      {
+        "family": "Kapasi",
+        "given": "Ujval J."
+      },
+      {
+        "family": "Namkoong",
+        "given": "Jinyung"
+      }
+    ],
+    "citation-number": [
+      "66."
+    ],
+    "container-title": [
+      "Proceedings of the 2002 International Conference on Computer Design"
+    ],
+    "note": [
+      "Retrieved from www.cva.stanford."
+    ],
+    "title": [
+      "Brian Towles"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "edu/publications/2002/khailany_iccd2002_imagine_impl.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "67."
+    ],
+    "container-title": [
+      "Embedded RAM In FPGAs Enables FIFO Applications Creating A FIFO Memory Solves The Problem Of An Asynchronous Boundary Between Clocks, ED Online ID #7522"
+    ],
+    "date": [
+      "1999-03-08"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://electronicdesign.com/Articles/Index."
+    ]
+  },
+  {
+    "citation-number": [
+      "68."
+    ],
+    "container-title": [
+      "NI Application Note"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Using DMA FIFO to Develop High-Speed Data Acquistion Applications for Reconfigurable I/O Devices"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://zone."
+    ]
+  },
+  {
+    "citation-number": [
+      "69."
+    ],
+    "note": [
+      "Markus Levy, EDN,march 1997 Retrieved from"
+    ],
+    "title": [
+      "FIFO memories supply the glue for high-speed systems"
+    ],
+    "type": null,
+    "url": [
+      "http://www.edn.com/archives/1997/031497/06DF_02.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balasubramanian",
+        "given": "P."
+      },
+      {
+        "family": "Anantha",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "70."
+    ],
+    "container-title": [
+      "International Journal of Computer Science"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Power and Delay Optimized Graph Representation for Combinational Logic Circuits"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.waset.org/ijecs/v1/v1-1-2.pdf"
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balasubramanian",
+        "given": "P."
+      },
+      {
+        "family": "Narayanan",
+        "given": "C.Hari"
+      },
+      {
+        "family": "Anantha",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "71."
+    ],
+    "container-title": [
+      "International Journal of Electronics, Circuits and Systems"
+    ],
+    "issue": [
+      "1"
+    ],
+    "title": [
+      "Low Power Design of Digital Combinatorial Circuits with Complementary CMOS Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bareiša",
+        "given": "E."
+      },
+      {
+        "family": "Jusas",
+        "given": "V."
+      },
+      {
+        "family": "Motiejnjnas",
+        "given": "K."
+      },
+      {
+        "family": "Šeinauskas",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "72."
+    ],
+    "container-title": [
+      "Information Technology and Control"
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1392 – 124"
+    ],
+    "title": [
+      "Delay Fault Models and Metrics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "citation-number": [
+      "73."
+    ],
+    "note": [
+      "Subhasish Mitra, Ming Zhang, Norbert Seifert, TM Mak, Kee Sup Kim, Retrieved from"
+    ],
+    "title": [
+      "Soft Error Resilient System Design through Error Correction"
+    ],
+    "type": null,
+    "url": [
+      "www.gigascale.org/ pubs/893/ifip06%5B1%5D.final.v7.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Delgado-Frias",
+        "given": "J.G."
+      },
+      {
+        "family": "Nyathi",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "74."
+    ],
+    "container-title": [
+      "Proceedings of the 8th Great Lakes Symposium on VLSI design"
+    ],
+    "date": [
+      "1998-02"
+    ],
+    "pages": [
+      "59–64,"
+    ],
+    "title": [
+      "A VLSI high-performance encoder with priority lookahead, VLSI,1998"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "19–21"
+    ]
+  },
+  {
+    "citation-number": [
+      "75."
+    ],
+    "container-title": [
+      "EE Times,(10/11/2004"
+    ],
+    "title": [
+      "IP reuse simplifies SoC design, verification John Wilson"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "citation-number": [
+      "76."
+    ],
+    "note": [
+      "Design Reuse,"
+    ],
+    "type": null,
+    "url": [
+      "http://whatis.techtarget.com/definition/0,sid9_gci759468,00.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mathur",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "77."
+    ],
+    "container-title": [
+      "FPGA and Structured ASIC Journal"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Aptix Corporation, SoC Prototyping Requirements"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.fpgajournal.com/articles/soc_aptix.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Digital Signal Processing",
+        "given": "C.- Based Rapid Prototyping",
+        "particle": "for"
+      },
+      {
+        "family": "Casseau",
+        "given": "E."
+      },
+      {
+        "family": "gal",
+        "given": "B.Le"
+      },
+      {
+        "family": "Bomel",
+        "given": "P."
+      },
+      {
+        "family": "Jego",
+        "given": "C."
+      },
+      {
+        "family": "S.Huet",
+        "given": "E.Martin"
+      }
+    ],
+    "citation-number": [
+      "78."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "type": null,
+    "url": [
+      "www.eurasip.org/Proceedings/Eusipco/ Eusipco2005/defevent/papers/cr1179.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "79."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Teaching IP Core Development: An Example, Aleksandar Milenkovic, David Fatzer"
+    ],
+    "type": null,
+    "url": [
+      "http://www.ece.uah.edu/~milenka"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Off-the-Shelf",
+        "given": "A.S.I.C.Prototyping Using"
+      }
+    ],
+    "citation-number": [
+      "80."
+    ],
+    "container-title": [
+      "81. L.A. Zadeh, Fuzzy Logic, IEEE Computer"
+    ],
+    "date": [
+      "1988"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "pages": [
+      "83–89,"
+    ],
+    "title": [
+      "FPGA Boards: How to Save Months of Verification Time and Tens of Thousands of Dollars"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.synplicity.com/literature/ whitepapers/pdf/proto_wp06.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jain",
+        "given": "L.C."
+      },
+      {
+        "family": "Martin",
+        "given": "N.M."
+      }
+    ],
+    "citation-number": [
+      "82."
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "The CRC Press"
+    ],
+    "title": [
+      "Fusion of Neural Networks, Fuzzy Sets, and Genetic Algorithms: Industrial Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kandel",
+        "given": "A."
+      },
+      {
+        "family": "Langholz",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "83."
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Fuzzy Hardware: Architectures and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "84."
+    ],
+    "title": [
+      "Handel C reference manual"
+    ],
+    "type": null,
+    "url": [
+      "www.celoxica.com/techlib/files/CEL-W0410251JJ4-60.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Paxson",
+        "given": "V."
+      },
+      {
+        "family": "Asanovic",
+        "given": "K."
+      },
+      {
+        "family": "Dharmapurikar",
+        "given": "S."
+      },
+      {
+        "family": "Lockwood",
+        "given": "J."
+      },
+      {
+        "family": "Pang",
+        "given": "R."
+      },
+      {
+        "family": "Sommer",
+        "given": "R."
+      },
+      {
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "85."
+    ],
+    "container-title": [
+      "USENIX First Workshop on Hot Topics in Security (HotSec"
+    ],
+    "date": [
+      "2006-07-31"
+    ],
+    "location": [
+      "Vancouver, B.C"
+    ],
+    "title": [
+      "Weaver: Rethinking Hardware Support for Network Analysis and Intrusion Prevention"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Sachidananda",
+        "given": "S."
+      },
+      {
+        "family": "Gopalan",
+        "given": "S."
+      },
+      {
+        "family": "Varadarajan",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "86."
+    ],
+    "date": [
+      "2005"
+    ],
+    "issue": [
+      "2005"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Hardware-Software Hybrid Packet Processing for Intrusion Detection Systems"
+    ],
+    "type": "book",
+    "volume": [
+      "3802"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schuehler",
+        "given": "D.V."
+      },
+      {
+        "family": "Lockwood",
+        "given": "J.W."
+      },
+      {
+        "family": "Splitter",
+        "given": "T.C.P."
+      }
+    ],
+    "citation-number": [
+      "87."
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "Jan/Feb 2003"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "54–59,"
+    ],
+    "title": [
+      "A TCP/IP Flow Monitor in Reconfigurable Hardware"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bertozzi",
+        "given": "D."
+      },
+      {
+        "family": "Jalabert",
+        "given": "A."
+      },
+      {
+        "family": "Murali",
+        "given": "S."
+      },
+      {
+        "family": "Tamhankar",
+        "given": "R."
+      },
+      {
+        "family": "Stergiou",
+        "given": "S."
+      },
+      {
+        "family": "Benini",
+        "given": "L."
+      },
+      {
+        "family": "Micheli",
+        "given": "G.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "88."
+    ],
+    "date": [
+      "2005"
+    ],
+    "title": [
+      "NoC Synthesis Flow for Customized Domain Specific Multiprocessor Systems-on-Chip"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bolotin",
+        "given": "E."
+      },
+      {
+        "family": "Cidon",
+        "given": "I."
+      },
+      {
+        "family": "Ginosar",
+        "given": "R."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "89."
+    ],
+    "date": [
+      "2004-02"
+    ],
+    "location": [
+      "JSA"
+    ],
+    "title": [
+      "Kolodny: QNoC: QoS Architecture and Design Process for Networks on Chip"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Goossens",
+        "given": "K."
+      },
+      {
+        "family": "Dielissen",
+        "given": "J."
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "90."
+    ],
+    "date": [
+      "2005"
+    ],
+    "publisher": [
+      "IEEE Design and Test of Computers, Sep/Oct"
+    ],
+    "title": [
+      "Radulescu: A Ethereal Network on Chip: Concepts, Architectures, and Implementations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Moraes",
+        "given": "F."
+      },
+      {
+        "family": "Calazans",
+        "given": "N."
+      },
+      {
+        "family": "Mello",
+        "given": "A."
+      },
+      {
+        "family": "Möller",
+        "given": "L."
+      },
+      {
+        "family": "Ost",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "91."
+    ],
+    "container-title": [
+      "VLSI Journal"
+    ],
+    "date": [
+      "2004-10"
+    ],
+    "title": [
+      "Hermes: an Infrastructure for Low Area Overhead Packetswitching Networks on Chip, Integration"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gindin",
+        "given": "R."
+      },
+      {
+        "family": "Cidon",
+        "given": "I."
+      },
+      {
+        "family": "Keidar",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "92."
+    ],
+    "note": [
+      "Retrieved on March 1, 2008"
+    ],
+    "title": [
+      "NoC-Based FPGA: Architecture and Routing"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lehmer",
+        "given": "D.H."
+      }
+    ],
+    "citation-number": [
+      "93."
+    ],
+    "container-title": [
+      "Proc. 2nd Sympos. on Large-Scale Digital Calculating Machinery"
+    ],
+    "date": [
+      "1949",
+      "1951"
+    ],
+    "location": [
+      "Cambridge, MA",
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "141–146,"
+    ],
+    "publisher": [
+      "Harvard University Press"
+    ],
+    "title": [
+      "Mathematical methods in large-scale computing units"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "94."
+    ],
+    "title": [
+      "Application-specific integrated circuit"
+    ],
+    "type": null,
+    "url": [
+      "http://www.answers.com/topic/asic"
+    ]
+  },
+  {
+    "citation-number": [
+      "95."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "ALD Full Custom Design"
+    ],
+    "type": null,
+    "url": [
+      "http://www.aldinc.com/ald_fullcustom.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dally",
+        "given": "W.J."
+      },
+      {
+        "family": "Chang",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "96."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "The Role of Custom Design in ASIC Chips"
+    ],
+    "type": null,
+    "url": [
+      "www. cva.stanford.edu/publications/2000/dac00.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kick",
+        "given": "B."
+      },
+      {
+        "family": "Baur",
+        "given": "U."
+      },
+      {
+        "family": "Koehl",
+        "given": "J."
+      },
+      {
+        "family": "Ludwig",
+        "given": "T."
+      },
+      {
+        "family": "Pflueger",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "97."
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "Standard-cell-based design methodology for high-performance support chips"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "98."
+    ],
+    "note": [
+      "Retrieved from URL:"
+    ],
+    "title": [
+      "Under the Hood: Gauging standard-cell performance, by Michael Keller, Semiconductor Insights 08/27/2007"
+    ],
+    "type": null,
+    "url": [
+      "http://www.eetimes.com/showArticle."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sherwani",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "99."
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "pages": [
+      "222–223,"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Algorithms For VLSI Physical Design Automation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Success",
+        "given": "W.H.I.T.E.P.A.P.E.R.",
+        "particle": "System-on-Chip Designs Strategy for"
+      }
+    ],
+    "citation-number": [
+      "100."
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "note": [
+      "Retrieved from www.wipro.com/pdf_files/Wipro_System_on_ Chip.pdf"
+    ],
+    "title": [
+      "Udaya Kamath Rajita Kaundin"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "101."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Where Do Structured ASICs Fit?"
+    ],
+    "type": null,
+    "url": [
+      "http://www.soccentral.com/results."
+    ]
+  },
+  {
+    "citation-number": [
+      "102."
+    ],
+    "container-title": [
+      "EE Times"
+    ],
+    "date": [
+      "06/03/2004"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Assessing the structured-ASIC alternative, Ron Wilson"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.eetimes.com/industrychallenges/silicon/showArticle."
+    ]
+  },
+  {
+    "citation-number": [
+      "103."
+    ],
+    "container-title": [
+      "Embedded System Engineering Magazine"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "Embedded FPGA soft core processor enables universal CompactPCI applications, Pat Mead, Marketing Manager Altera Europe And Barbara Schmitz, Marketing Director MEN Mikro Elektronik"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schofield",
+        "given": "Ian S."
+      },
+      {
+        "family": "Naylor",
+        "given": "David A."
+      }
+    ],
+    "citation-number": [
+      "104."
+    ],
+    "container-title": [
+      "Proceedings of the SPIE"
+    ],
+    "date": [
+      "2004"
+    ],
+    "editor": [
+      {
+        "family": "Lewis",
+        "given": "Hilton"
+      },
+      {
+        "family": "Raffi",
+        "given": "Gianni"
+      }
+    ],
+    "pages": [
+      "392–401"
+    ],
+    "title": [
+      "Instrumentation control using the Rabbit 2000 embedded microcontroller, Authors",
+      "Advanced Software, Control, and Communication Systems for Astronomy"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5496"
+    ]
+  },
+  {
+    "citation-number": [
+      "105."
+    ],
+    "container-title": [
+      "ACM SIGBED Review archive"
+    ],
+    "date": [
+      "2005-04",
+      "2005"
+    ],
+    "issue": [
+      "2"
+    ],
+    "note": [
+      "table of contents, Special issue: IEEE RTAS 2005"
+    ],
+    "pages": [
+      "39–42,"
+    ],
+    "title": [
+      "FPGA based CPU instrumentation for hard real-time embedded system testing, Richard Fryer"
+    ],
+    "type": "article-journal",
+    "url": [
+      "work-in-progress,",
+      "ISSN:1551–3688"
+    ],
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Microcontrollers",
+        "given": "Exploring C.",
+        "particle": "for"
+      },
+      {
+        "family": "J. S. Parab",
+        "given": "A.Hands",
+        "particle": "on Approach by"
+      },
+      {
+        "family": "Shelake",
+        "given": "V.G."
+      },
+      {
+        "family": "K",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "106."
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Naik Springer Netherlands"
+    ],
+    "title": [
+      "Kamat and G.M"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "107."
+    ],
+    "container-title": [
+      "Embedded.com"
+    ],
+    "issue": [
+      "25/03"
+    ],
+    "note": [
+      "retrieved on October 20, 2007"
+    ],
+    "title": [
+      "Altera tweaks soft-core processor, By Susan Rambo"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://"
+    ],
+    "volume": [
+      "02"
+    ]
+  },
+  {
+    "citation-number": [
+      "108."
+    ],
+    "container-title": [
+      "Design and Reuse Newsletter"
+    ],
+    "note": [
+      "retrieved on October 21, 2007"
+    ],
+    "title": [
+      "QuickLogic QuickMIPS ESP Is Industry’s First – Combines a High-speed Processor With Hardwired Functions and Field Programmability"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "citation-number": [
+      "109."
+    ],
+    "date": [
+      "2007"
+    ],
+    "note": [
+      "Javier Gutirrez, National Instruments, Industrial Control Design Line, CMP Media, http://www.industrialcontroldesignline.com/199000752; jsessionid=XZELCWV0SLJ2QQSNDLQCKH0CJUNN2JVN? printableArticle=true retrieved on October 20, 2007"
+    ],
+    "title": [
+      "PicoBlaze User Resources Xilinx Inc. website http://www.xilinx.com/ipcenter/processor_ central/picoblaze/picoblaze_user_resources.htm retrieved on October 21",
+      "Proportional-integral-derivative explained, Tuning PID controls”"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "111."
+    ],
+    "container-title": [
+      "Proceedings of 2003 IEEE Conference on",
+      "Dept. of Electr. Eng., Inchon Univ., Applied Power Electronics Conference and Exposition"
+    ],
+    "date": [
+      "2003",
+      "2001"
+    ],
+    "issue": [
+      "23–25 June 2003pp"
+    ],
+    "location": [
+      "Moradi, M.H"
+    ],
+    "note": [
+      "APEC 2001."
+    ],
+    "pages": [
+      "903–908",
+      "112"
+    ],
+    "publisher": [
+      "Control Applications"
+    ],
+    "title": [
+      "New techniques for PID controller design”",
+      "CCA 2003",
+      "The unified gain tuning approach to the PID position control with minimal overshoot, position stiffness, and robustness to load variance for linear machine drives in machine tool environment Joohn-Sheok Kim Moon-Suk Choi Seokjoo Kan"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2",
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "IEEE",
+        "given": "Sixteenth Annual"
+      },
+      {
+        "family": "Date",
+        "given": "Publication"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "BN"
+    ],
+    "pages": [
+      "635–641",
+      "0–7803–6618–2"
+    ],
+    "type": null,
+    "volume": [
+      "1, On page(s",
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "113."
+    ],
+    "container-title": [
+      "The PID Algorithm, STRAIGHT-LINE CONTROL CO., INC"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://members.aol.com/"
+    ]
+  },
+  {
+    "citation-number": [
+      "114."
+    ],
+    "title": [
+      "Xilinx Reference Design License"
+    ],
+    "type": null,
+    "url": [
+      "http://www.xilinx.com/ipcenter/doc/referencedesignlicense.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "115."
+    ],
+    "title": [
+      "PicoBlaze Soft Processor homepage"
+    ],
+    "type": null,
+    "url": [
+      "http://www.xilinx.com/ipcenter/processor_central/"
+    ]
+  },
+  {
+    "citation-number": [
+      "116."
+    ],
+    "note": [
+      "KCPSM3 Manual:"
+    ],
+    "type": null,
+    "url": [
+      "www.xilinx.com/bvdocs/userguides/ug129.pdf"
+    ]
+  },
+  {
+    "citation-number": [
+      "117."
+    ],
+    "title": [
+      "Lecture notes Digital Control Algorithms and Their Implementation by Peyman Gohari"
+    ],
+    "type": null,
+    "url": [
+      "http://users.encs.concordia.ca/~gohari/ELEC6061/Files/9.pdf"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STANDARD",
+        "given": "D.A.T.A.E.N.C.R.Y.P.T.I.O.N."
+      },
+      {
+        "family": "OF",
+        "given": "U.S.D.E.P.A.R.T.M.E.N.T."
+      }
+    ],
+    "citation-number": [
+      "118."
+    ],
+    "container-title": [
+      "FEDERAL INFORMATION PROCESSING STANDARDS PUBLICATION, FIPS PUB 46-3"
+    ],
+    "date": [
+      "1999-10-25",
+      "2008-07-01"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "COMMERCE/National Institute of Standards and Technology"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Garfinkel"
+      }
+    ],
+    "citation-number": [
+      "119."
+    ],
+    "date": [
+      "1994"
+    ],
+    "isbn": [
+      "978-1565920989"
+    ],
+    "pages": [
+      "101–102"
+    ],
+    "publisher": [
+      "O’Reilly Media"
+    ],
+    "title": [
+      "Simson,(December 1",
+      "PGP: Pretty Good Privacy"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "M.C.-J.Youn-Long Lin"
+      }
+    ],
+    "citation-number": [
+      "120."
+    ],
+    "container-title": [
+      "Design Automation Conference,2000. Proceedings of the ASP-DAC 2000"
+    ],
+    "location": [
+      "Asia and South Pacific"
+    ],
+    "title": [
+      "A VLSI implementation of the Blowfish encryption/decryption algorithm"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Cody",
+        "given": "Brian"
+      },
+      {
+        "family": "Madigan",
+        "given": "Justin"
+      },
+      {
+        "family": "MacDonald",
+        "given": "Spencer"
+      },
+      {
+        "family": "Hsu",
+        "given": "Kenneth W."
+      }
+    ],
+    "citation-number": [
+      "121."
+    ],
+    "container-title": [
+      "Very Large Scale Integration, 2007. VLSI -SoC 2007. IFIP International Conference"
+    ],
+    "date": [
+      "2007"
+    ],
+    "title": [
+      "High speed SOC design for blowfish cryptographic algorithm"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "122."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "FPGA to ASIC Strategy for Communication SoC Designs, by Rick Mosher, AMI Semiconductor"
+    ],
+    "type": null,
+    "url": [
+      "http://www.design-reuse.com/articles/4360/fpga-to-asic-strategyfor-communication-soc-designs.html"
+    ]
+  },
+  {
+    "citation-number": [
+      "123."
+    ],
+    "container-title": [
+      "14th IEEE Real Time Conference"
+    ],
+    "date": [
+      "June 6–10, 2005"
+    ],
+    "location": [
+      "Stockholm, Sweden"
+    ],
+    "note": [
+      "Retrieved from www.irfu.cea.fr/Phocea/file.php?class=std&&file=Doc/Publications/ Archives/dapnia-05-105.pdf"
+    ],
+    "title": [
+      "FPGA-based System-on-Chip Designs for Real-Time Applications in Particle Physics, Shebli Anvar, Olivier Gachelin, Pierre Kestener, Herve Le Provost, Irakli Mandjavidze"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "124."
+    ],
+    "container-title": [
+      "Proceedings of the 13th Symposium on Computer Arithmetic (ARITH ‘97"
+    ],
+    "editor": [
+      {
+        "family": "Lutz",
+        "given": "David R."
+      },
+      {
+        "family": "Jayasimha",
+        "given": "D.N."
+      }
+    ],
+    "title": [
+      "The Half-Adder Form and Early Branch Condition Resolution"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Adrian",
+        "given": "B."
+      },
+      {
+        "family": "Jarmo",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "125."
+    ],
+    "container-title": [
+      "IEEE International Symposium on Circuits and Systems: Proceedings"
+    ],
+    "date": [
+      "May 23–26, 2004"
+    ],
+    "location": [
+      "Vancouver, British Columbia, Canada"
+    ],
+    "publisher": [
+      "Sheraton Vancouver Wall Centre Hotel"
+    ],
+    "title": [
+      "Vlsi-efficient implementation of full adder-based median filter,2004"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Soudris",
+        "given": "D.J."
+      },
+      {
+        "family": "Paliouras",
+        "given": "V."
+      },
+      {
+        "family": "Stouraitis",
+        "given": "T."
+      },
+      {
+        "family": "Goutis",
+        "given": "C.E."
+      }
+    ],
+    "citation-number": [
+      "126."
+    ],
+    "container-title": [
+      "Analog and digital signal processing ISSN 1057–7130",
+      "IEEE transactions on circuits and systems"
+    ],
+    "title": [
+      "VLSI design methodology for RNS full adder-based inner product architectures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "citation-number": [
+      "127."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "pages": [
+      "–2 5"
+    ],
+    "title": [
+      "Adders and computational power"
+    ],
+    "type": null,
+    "url": [
+      "http://www.edacafe."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Recoding",
+        "given": "Booth"
+      }
+    ],
+    "citation-number": [
+      "128."
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "title": [
+      "ASIC Design for Signal Processing"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "citation-number": [
+      "129."
+    ],
+    "container-title": [
+      "IP & Ethernet Interfaces"
+    ],
+    "note": [
+      "Retrieved from"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.beyondlogic.org/etherip/ip.htm"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shinde",
+        "given": "S.A."
+      },
+      {
+        "family": "Shelake",
+        "given": "V.G."
+      },
+      {
+        "family": "Kamat",
+        "given": "R.K."
+      }
+    ],
+    "citation-number": [
+      "130."
+    ],
+    "container-title": [
+      "ELECTRONICS AND ELECTRICAL ENGINEERING"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "88"
+    ],
+    "title": [
+      "FPGA based Packet Splitter Implementation Using Mixed Design Flow"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  }
+]

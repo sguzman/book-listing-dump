@@ -1,0 +1,179 @@
+[
+  {
+    "director": [
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.println",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      }
+    ],
+    "note": [
+      "\"); Serial.print(\"speed_val: \"); Serial.print(speed_val); Serial.print(\" \");"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "553–554"
+    ],
+    "title": [
+      "propulsion assembly, 395 for battery, 301–302 for RoboBoat robot, 365 Battle-bot weapon mount"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Battle-Bot"
+      }
+    ],
+    "note": [
+      ".brd (board layout file), 208 chain tensioning nut, 534–538 breadboards, 40–41 gearing, 533–534 breakout boards, 431–435 electronics, 523–525 broad beam angle, ultrasonic range finders, 75 Arduino board design, 523–524 brushed DC motors, 84–85 motor controllers, 524–525 brushless DC (BLDC) outrunner motor, securing, 540–544 RoboBoat, 356, 360–361, 365, 396 frame, 525–532 brushless motors, 85–86 buying vs. building, 526–527 Bug-Bot robot, 257–294 wheels, 527–528 antennae sensors for, 259–260, 277–278 input control, 520–523 bumper sensors for, 260, 278–281 parts list for, 517–520 code for, 283–291"
+    ],
+    "pages": [
+      "532–538"
+    ],
+    "title": [
+      "513–562 for camera, 319–321 armor, 550–551 for Lawn-Bot 400 robot, motor mount, 420–batteries, 538–539 424 code for, 545–550 mounting Wally robot sensors on, 187–188 combat, 515–517 brakes rules and regulations, 515 generating, 93–94 unrestricted construction price, 516–517 removal of electric, 467–471 drive train"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "503–509"
+    ],
+    "title": [
+      "threading sequence, 535–536 full"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "tool",
+        "given": "Change"
+      },
+      {
+        "given": "Eagle"
+      }
+    ],
+    "note": [
+      "See also PCBs code listing, Linus, 150–153, 155, 159 boards, layouts for, 208–211 coil resistance, determining, 55 designing, 35–36 Collector pin, BJT, 59 designs for, 206–226 combat, 515–517 board editor, 216–226 rules and regulations, 515 custom, 208–211 unrestricted construction price, 516–517 open-source, 207 comments, in sketches, 26"
+    ],
+    "pages": [
+      "35–46"
+    ],
+    "title": [
+      "209 read_pots( ) function, 497–498 channels, failsafe, 436–438 sample_accel( ) function, 494 children, in work space, 49 sample_gyro( ) function, 494–495 circuit boards serial_print_stuff( ) function, 502–503 ArduPilot PCB, for RoboBoat robot, 362–363 time_stamp( ) function, 501–502 printed, 42–43 update_motor_speed( ) function, 499–circuit design, creating, 203 501 circuitry, internal motor driving, 135–137 for Wally wall-bot, 192–201 circuits"
+    ],
+    "type": null,
+    "volume": [
+      "6–7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Polystyrene",
+        "particle": "measuring expanded"
+      },
+      {
+        "given": "RoboBoat"
+      }
+    ],
+    "note": [
+      "code for, 321–330 oscilloscopes, 12–13 current sensing in, 297"
+    ],
+    "pages": [
+      "8–9"
+    ],
+    "title": [
+      "335 amperage, 9 Explorer-Bot robot, 295–330 capacitance, 9–10 camera for, 318–321 multi-meters, 7–8 brackets for, 319–321 resistance, 10–11 pan and tilt"
+    ],
+    "type": null,
+    "volume": [
+      "319"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Force",
+        "given": "Electro-Motive"
+      },
+      {
+        "given": "backwards"
+      }
+    ],
+    "note": [
+      "523 cutting and bending main piece, 304–electronic switches, 15–16 306 electronics, 15–20 cutting top frame braces, 303–304 for Battle-Bot, 523–525 cutting top frame brackets, 303"
+    ],
+    "pages": [
+      "397–398,"
+    ],
+    "title": [
+      "57 frame for, 300–308 electron-flow theory, 6 battery bracket, 301–302 Electronic Speed Controller (ESC), for crossbar and caster wheels, 306–308 RoboBoat"
+    ],
+    "type": null,
+    "volume": [
+      "65–67, 105, 364"
+    ]
+  },
+  {
+    "note": [
+      "motor mount brackets, 420–424 LiPo (Lithium Polymer) batteries, 109–110, 514, dump-bucket for, 406 538–539 failsafe, 407, 435–441 lithium batteries, 113 avoiding R/C failsafe, 440–441 LM7805 linear voltage regulator chip, 39 power relays, 439–440 loads, 6–8, 13 R/C toggle switch, 436–438 logic-level MOSFETs, vs. standard MOSFETs, 61 frame for, 406, 412–419 long variable, millis( ) system timer, 285"
+    ],
+    "pages": [
+      "155–156"
+    ],
+    "title": [
+      "lawnmower kill-switch, 450–451 IR sensor board, 123–132 painting, 447 modifying Servo motor for continuous Arduino, 430–435 rotation, 132–137 building breakout board, 431–435 direct DC drive with external speed securing connections, 431–435 controller, 133–135 batteries for, 406 pulse drive with internal motor driving code for, 442–447 circuitry, 135–137 connections for, 441–442 parts list for, 120–122 drive-train, 420–426 testing, 157 installing chain, 424–426 track"
+    ],
+    "type": null,
+    "volume": [
+      "123"
+    ]
+  },
+  {
+    "note": [
+      "90 sensor navigation, 72–82 controlling, 264, 283 contact, 72–73 converting pulse value to degrees, 265 distance and reflection, 73–76 creating delay for, 283–284 IR sensor, 73–75 Explorer-bot, 319–321, 329 range finders, 75–76 modifying, 261–264 non-autonomous, 79–82 modifying for continuous rotation, 132–137 cameras, 79 direct DC drive with external speed current sensors, 80–82 controller, 133–135 orientation (positioning), 76–78 pulse drive with internal motor driving accelerometer, 76–77 circuitry, 135–137 GPS systems, 78–79 modifying to operate as gear motor, 90 gyroscope, 77 mounting, 271–272 IMU, 77 mounting wheels to, 137, 266–267 sensors, 457–464 propulsion assembly, 356, 365 3.3v power, 459 Servo pulse signal, 66–67 accelerometer, 459–461 Servo signals, 27"
+    ],
+    "title": [
+      "motors, 465–472 installing, for Wally wall-bot, 187–190 electric brake removal, 467–471 positioning in sensor board, 127 mounting position, 471–472 ultrasonic range finder, 169–171, 187–190, parts list for, 456–457 193–195 safety, 453 Serial command, Sabertooth 2x25 dual 25-amp sensors, 457–464 motor-controller, 67 3.3v power, 459 serial data transfer, 27 accelerometer, 459–461 serial monitor filtering angle, 463–464 Arduino IDE, 24 gyroscope, 461–462 testing Xbee connection, 317 testing, 509 ultrasonic range finder sensors, reading, 171 segments, for RoboBoat robot Serial protocol, simplified, 474–475 cutting out, 343–345 serial_print_stuff( ) function, 502–503 gluing together, 346–347 Serial.begin( ) command, 31 semi-conductors Series 1 Xbee radios, 315–316 datasheets, 16–17 Series 2.5 Xbee radios, 316 Integrated Circuits, 17 series connection, 14–15 packages, 18 Servo motors, 88–90, 261–267 through-hole components, 18–22 Bug-bot, 261 sensor boards, IR, 123–132 continuous rotation"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "relay",
+      "chip"
+    ],
+    "note": [
+      "board, 75 sketchbook, Arduino IDE, 23 Sparkfun Xbee Explorer USB breakout board, sketches, 24–26, 574–579 72 Arduino IDE SPDT (Single Pole, Double Throw) relay, 53 loop function, 25–26 SPDT (three-way) switches, H-bridge made setup function, 24–25 with, 95–97 variable declaration, 24 spears, Battle-bot, 552–561 loop( ) function, 25–26 speed Processing, 567–574 Battle-bot, 533–534 explanation of, 570–571 controllers, external, 133–135 testing, 572–574 gear motor, 88 setup( ) function, 24–25 linear actuator, 91 variable declaration, 24 motor, 83, 91 SLA (Sealed Lead Acid) batteries, 111, 539 of motor, customizing for RoboBoat robot, SMD (Surface Mount Device",
+      "SMT (surface-mount components), 19–20 regulators (potentiometers), 164–166 software. See also Integrated Development speed control circuit, 96–97 Environment (IDE), Arduino speed regulators. See potentiometers circuit design, 35–36 speed_value variable, 164 for RoboBoat robot, 369–386 Spektrum BR6000 2.4GHz R/C system, 436"
+    ],
+    "pages": [
+      "439–440",
+      "311 391"
+    ],
+    "title": [
+      "Servo_control module, for RoboBoat robot, AP_RoboBoat module, 370–372 384–386 debug module, 372–374 Servo.h Arduino library, 265, 283 GPS receivers, 368–369 Servos header files, 386 for RoboBoat robot, 361 init module, 374–375 rudder, for RoboBoat robot, 365 installing, 387–392 setup( ) function, 24–25, 27, 99, 185, 258, 370, navigation module, 375–382 570 PID_control module, 382–383 Sharp GP2 series, sensors, 73–74 Servo_control module, 384–386 shoot-through, 33 SoftwareSerial library, 473–474 short-circuits, 6, 93 solder-bridge, 128 signal loss, FlySky CT-6, 521 soldering, 43–46 signal relays, 52 inputs, for Seg-bot, 491–492 signal-buffer, 51 PCBs, 246–253 signals, 26–35 Arduino clone circuit, 247–250 analog, 30–35 BJT H-bridge circuit, 250–253 duty-cycle, 32–33 shortcuts, 45–46 frequency, 33–34 surface mount ACS714 current sensor, 311 inputs, 30–31 soldering irons, 44, 48, 206 outputs, 31–32 solenoid, 52 PWM, 31–35 solid-state switches, 57–58 connecting, for Battle-Bot, 542–544 source, electricity, 6 decoding with Processing tool, 563–564 Source pin, MOSFET, 60 digital, 27–30 spacers, 537–538 external interrupts, 28–30 Sparkfun Ardumoto, 104 inputs, 27 Sparkfun Razor 6 DOF IMU, Seg-bot, 456–459, outputs, 27–28 464 Simple PWM control, Sabertooth 2x25 dual 25- Sparkfun Razor 6 DOF inertial measurement amp motor-controller, 67 unit, 77 Single Pole Sparkfun Xbee Explorer Regulated adapter, 314 Double Throw (SPDT) relay, 53 Sparkfun Xbee Explorer Regulated breakout Single Throw (SPST"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53",
+      "309"
+    ]
+  }
+]
