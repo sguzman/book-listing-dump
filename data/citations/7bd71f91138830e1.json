@@ -1,0 +1,1263 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "Andrei"
+      }
+    ],
+    "citation-number": [
+      "Ale01"
+    ],
+    "container-title": [
+      "ISBN"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Modern C++ Design: Generic Programming and Design Patterns Applied"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0201704315"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Abrahams",
+        "given": "David"
+      },
+      {
+        "family": "Seik",
+        "given": "Jeremy"
+      }
+    ],
+    "citation-number": [
+      "AS01a"
+    ],
+    "container-title": [
+      "Second Workshop on C++ Template Programming"
+    ],
+    "date": [
+      "2001-10"
+    ],
+    "title": [
+      "Policy Adaptors and the Boost Iterator Adaptor Library"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.boost-consulting.com/writing/iterator_adaptos0.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Abrahams",
+        "given": "David"
+      },
+      {
+        "family": "Seik",
+        "given": "Jeremy"
+      }
+    ],
+    "citation-number": [
+      "AS01b"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "title": [
+      "Boost Iterator Adaptor Library"
+    ],
+    "type": null,
+    "url": [
+      "http://www.boost-consulting.com/writing/iterator_adaptos0.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bentley",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "Bent86"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1986-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "711–721"
+    ],
+    "title": [
+      "Programming pearls: Little languages"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://doi.acm.org/10.1145/6424.315691."
+    ],
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "William J."
+      },
+      {
+        "family": "Malveau",
+        "given": "Raphael C."
+      },
+      {
+        "family": "McCormick",
+        "given": "Hays W.",
+        "nick": "Skip"
+      },
+      {
+        "family": "Mowbray",
+        "given": "Thomas J."
+      }
+    ],
+    "citation-number": [
+      "BMMM98"
+    ],
+    "container-title": [
+      "ISBN"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0471197130"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barton",
+        "given": "John J."
+      },
+      {
+        "family": "Nackman",
+        "given": "Lee R."
+      }
+    ],
+    "citation-number": [
+      "BN94"
+    ],
+    "container-title": [
+      "ISBN"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Scientific and Engineering C++: An Introduction with Advanced Techniques and Examples"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0201533936"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cleary",
+        "given": "Steve"
+      },
+      {
+        "family": "Dawes",
+        "given": "Beman"
+      },
+      {
+        "family": "Hinnant",
+        "given": "Howard"
+      },
+      {
+        "family": "Maddock",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "CDHM01"
+    ],
+    "title": [
+      "Compressed Pair"
+    ],
+    "type": null,
+    "url": [
+      "http://www.boost.org/libs/utility/compressed_pair.htm."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Coplien",
+        "given": "James O."
+      }
+    ],
+    "citation-number": [
+      "Cop96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "literal": "In Stanley B. Lippman, editor, C++ Gems"
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "135–144,"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "A Curiosly Recurring Template Pattern"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dewhurst",
+        "given": "Steve"
+      }
+    ],
+    "citation-number": [
+      "Dew02"
+    ],
+    "container-title": [
+      "Computer User's Journal"
+    ],
+    "date": [
+      "2002-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "title": [
+      "A Bit-Wise Typeof Operator, Part 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dewhurst",
+        "given": "Steve"
+      }
+    ],
+    "citation-number": [
+      "Dew02"
+    ],
+    "container-title": [
+      "Computer User's Journal"
+    ],
+    "date": [
+      "2002-10"
+    ],
+    "issue": [
+      "10"
+    ],
+    "title": [
+      "A Bit-Wise Typeof Operator, Part 2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dewhurst",
+        "given": "Steve"
+      }
+    ],
+    "citation-number": [
+      "Dew02"
+    ],
+    "container-title": [
+      "Computer User's Journal"
+    ],
+    "date": [
+      "2002-12"
+    ],
+    "issue": [
+      "12"
+    ],
+    "title": [
+      "A Bit-Wise Typeof Operator, Part 3"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dimov",
+        "given": "Peter"
+      }
+    ],
+    "citation-number": [
+      "Dimov02"
+    ],
+    "title": [
+      "Boost: bind.hpp documentation"
+    ],
+    "type": null,
+    "url": [
+      "http://www.boost.org/libs/bind."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "GHJV95"
+    ],
+    "container-title": [
+      "ISBN"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0201633612"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "citation-number": [
+      "GotW50"
+    ],
+    "title": [
+      "Guru of the Week #50: Using Standard Containers"
+    ],
+    "type": null,
+    "url": [
+      "http://www.gotw.ca/gotw/050.htm."
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Joel de Guzman. \"MAJOR BREAK-THROUGH !!! Yabadabadoo..."
+      }
+    ],
+    "citation-number": [
+      "Guz03"
+    ],
+    "title": [
+      "Must Read"
+    ],
+    "type": null,
+    "url": [
+      "http://sf.net/mailarchive/forum.php?thread_id=529112&forum_id=1595."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Guzman",
+        "given": "Joel",
+        "particle": "de"
+      },
+      {
+        "family": "Kaizer",
+        "given": "Hartmut"
+      },
+      {
+        "family": "al",
+        "particle": "et."
+      }
+    ],
+    "citation-number": [
+      "Guz04"
+    ],
+    "title": [
+      "The Spirit Parser Framework"
+    ],
+    "type": null,
+    "url": [
+      "http://spirit.sf.net."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heering",
+        "given": "Jan"
+      },
+      {
+        "family": "Mernik",
+        "given": "Marjan"
+      }
+    ],
+    "citation-number": [
+      "Heer02"
+    ],
+    "container-title": [
+      "Proceedings of the 35th Hawaii International Conference on System Sciences–2002"
+    ],
+    "title": [
+      "Domain-Specific Languages for Software Engineering"
+    ],
+    "type": "paper-conference",
+    "url": [
+      "http://www.computer.org/proceedings/hicss/1435/volume9/14350279.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hudak",
+        "given": "Paul"
+      }
+    ],
+    "citation-number": [
+      "Hudak89"
+    ],
+    "container-title": [
+      "ISSN:0360-0300",
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "3"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "359–411,"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Conception, evolution, and application of functional programming languages"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://doi.acm.org/10.1145/72551.72554."
+    ],
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "citation-number": [
+      "IBM54"
+    ],
+    "container-title": [
+      "Programming Research Group, Applied Science Division, IBM Corporation"
+    ],
+    "date": [
+      "1954-11-10"
+    ],
+    "title": [
+      "Preliminary Report: Specifications for the IBM Mathematical FORmula TRANslation System FORTRAN"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Committee",
+        "given": "A.N.S.I./I.S.O.C.++"
+      }
+    ],
+    "citation-number": [
+      "ISO98"
+    ],
+    "container-title": [
+      "ISO/IEC"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "American National Standards Institute"
+    ],
+    "title": [
+      "Programming Languages — C++++"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://webstore.ansi.org/ansidocstore/find.asp?find_spec=14882"
+    ],
+    "volume": [
+      "14882"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "Stephen C."
+      }
+    ],
+    "citation-number": [
+      "Joh79"
+    ],
+    "container-title": [
+      "UNIX Programmer's Manual"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "353–387,"
+    ],
+    "publisher": [
+      "Holt, Reinhart, and Winston"
+    ],
+    "title": [
+      "Yacc: Yet Another Compiler Compiler"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2b"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "Andrew"
+      },
+      {
+        "family": "Moo",
+        "given": "Barbara E."
+      }
+    ],
+    "citation-number": [
+      "KM00"
+    ],
+    "container-title": [
+      "ISBN"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Accelerated C++: Practical Programming by Example"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "020170353X"
+    ]
+  },
+  {
+    "container-title": [
+      "Thanks"
+    ],
+    "title": [
+      "This document was created by an unregistered ChmMagic, please go to http://www.bisenter.com to register . it"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Keffer",
+        "given": "Thomas"
+      },
+      {
+        "family": "Vermeulen",
+        "given": "Allan"
+      }
+    ],
+    "citation-number": [
+      "KV89"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Corvallis, Oregon"
+    ],
+    "publisher": [
+      "Rogue Wave Software"
+    ],
+    "title": [
+      "Math.h++ Introduction and Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lafreniere",
+        "given": "David"
+      }
+    ],
+    "citation-number": [
+      "LaFre00"
+    ],
+    "container-title": [
+      "C++ Report"
+    ],
+    "date": [
+      "2000-05"
+    ],
+    "title": [
+      "State Machine Design in C++"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.cuj.com/documents/s=8039/cuj0005lafrenie/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Landry",
+        "given": "Walter"
+      }
+    ],
+    "citation-number": [
+      "Land01"
+    ],
+    "container-title": [
+      "Second Workshop on C++ Template Programming"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "Implementing a High Performance Tensor Library"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://citeseer.nj.nec.com/landry01implementing.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maddock",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Mad00"
+    ],
+    "title": [
+      "Static Assertions"
+    ],
+    "type": null,
+    "url": [
+      "http://www.boost.org/libs/static_assert."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert"
+      }
+    ],
+    "citation-number": [
+      "Mart98"
+    ],
+    "date": [
+      "1998-06"
+    ],
+    "genre": [
+      "C++ Report,"
+    ],
+    "title": [
+      "UML Tutorial: Finite State Machines"
+    ],
+    "type": "report",
+    "url": [
+      "http://www.objectmentor.com/resources/articles/umlfsm.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mensonides",
+        "given": "Paul"
+      },
+      {
+        "family": "Karvonen",
+        "given": "Vesa"
+      }
+    ],
+    "citation-number": [
+      "MK04"
+    ],
+    "title": [
+      "The Boost Preprocessor Library"
+    ],
+    "type": null,
+    "url": [
+      "http://www.boost.org/libs/preprocessor."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McNamara",
+        "given": "Brian"
+      },
+      {
+        "family": "Smaragdakis",
+        "given": "Yannis"
+      }
+    ],
+    "citation-number": [
+      "MS00a"
+    ],
+    "container-title": [
+      "First Workshop on C++ Template Programming"
+    ],
+    "date": [
+      "2000-10-10"
+    ],
+    "location": [
+      "Erfurt, Germany"
+    ],
+    "title": [
+      "Static Intefaces in C++"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://oonumerics.org/tmpw00/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Brian McNamara and Yannis Smaragdakis. \"FC++.\""
+      }
+    ],
+    "citation-number": [
+      "MS00b"
+    ],
+    "date": [
+      "2000"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cc.gatech.edu/~yannis/fc++."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "citation-number": [
+      "n1185"
+    ],
+    "title": [
+      "vector<bool> Is Nonconforming, and Forces Optimization Choice"
+    ],
+    "type": null,
+    "url": [
+      "http://www.gotw.ca/publications/N1185.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "citation-number": [
+      "n1211"
+    ],
+    "title": [
+      "vector<bool>: More Problems, Better Solutions"
+    ],
+    "type": null,
+    "url": [
+      "http://www.gotw.ca/publications/N1211.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maddock",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "n1424"
+    ],
+    "title": [
+      "A Proposal to Add Type Traits to the Standard Library"
+    ],
+    "type": null,
+    "url": [
+      "http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1424.htm."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maddock",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "n1519"
+    ],
+    "note": [
+      "\"Type Traits Issue List.\""
+    ],
+    "type": null,
+    "url": [
+      "http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1519.htm."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reis",
+        "given": "Gabriel",
+        "particle": "dos"
+      }
+    ],
+    "citation-number": [
+      "n1521"
+    ],
+    "note": [
+      "document number N1521-03-0104."
+    ],
+    "title": [
+      "Generalized Constant Expressions"
+    ],
+    "type": null,
+    "url": [
+      "http://www.openstd.org/jctl/wg21/docs/papers/2003/nl1521.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Abrahams",
+        "given": "David"
+      },
+      {
+        "family": "Siek",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Witt",
+        "given": "Thomas"
+      }
+    ],
+    "citation-number": [
+      "n1550"
+    ],
+    "title": [
+      "New Iterator Concepts"
+    ],
+    "type": null,
+    "url": [
+      "http://anubis.dkuug.dk/jtc1/sc22/wg21/docs/papers/2003/n1550.htm."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nasonov",
+        "given": "Alexander"
+      }
+    ],
+    "citation-number": [
+      "Nas03"
+    ],
+    "title": [
+      "Re: boost::tuple to MPL sequence"
+    ],
+    "type": null,
+    "url": [
+      "http://lists.boost.org/MailArchives/boost/msg46771.php."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Seymour",
+        "given": "John"
+      }
+    ],
+    "citation-number": [
+      "Sey96"
+    ],
+    "title": [
+      "Views—A C++ Standard Template Library Extension"
+    ],
+    "type": null,
+    "url": [
+      "http://www.zeta.org/au/~jon/STLviews/doc/views.html."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Siek",
+        "given": "Jeremy"
+      },
+      {
+        "family": "Lumsdaine",
+        "given": "Andrew"
+      }
+    ],
+    "citation-number": [
+      "SL00"
+    ],
+    "container-title": [
+      "First Workshop on C++ Template Programming"
+    ],
+    "date": [
+      "2000-10-10"
+    ],
+    "location": [
+      "Erfurt, Germany"
+    ],
+    "title": [
+      "Concept Checking: Binding Parametric Polymorphism in C++"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://oonumerics.org/tmpw00/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sussman",
+        "given": "Gerald"
+      },
+      {
+        "family": "Steele",
+        "given": "Guy L.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "SS75"
+    ],
+    "date": [
+      "1975-05"
+    ],
+    "genre": [
+      "MIT AI Memo 349,Massachusetts"
+    ],
+    "publisher": [
+      "Institute of Technology"
+    ],
+    "title": [
+      "Scheme: An interpreter for extended lambda calculus"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "Bjarne"
+      }
+    ],
+    "citation-number": [
+      "Strou03"
+    ],
+    "container-title": [
+      "Incorporating Technical Corrigendum No. 1. BS ISO/IEC 14882:2003. ISBN: 0470846747"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "The C++ Standard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Unruh",
+        "given": "Erwin"
+      }
+    ],
+    "citation-number": [
+      "Unruh94"
+    ],
+    "container-title": [
+      "ANSI"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "O"
+    ],
+    "pages": [
+      "21–462"
+    ],
+    "title": [
+      "Prime number computation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0075"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuizen",
+        "given": "Veld95a] Todd"
+      }
+    ],
+    "title": [
+      "Blitz++"
+    ],
+    "type": null,
+    "url": [
+      "http://www.oonumerics.org/blitz/."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuizen",
+        "given": "Veld95b] Todd"
+      }
+    ],
+    "container-title": [
+      "C++ Report, SIGS Publications Inc., ISSN 1040-6042"
+    ],
+    "date": [
+      "1995-05"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "36–43,"
+    ],
+    "title": [
+      "Using C++ Template Metaprograms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veldhuizen",
+        "given": "Todd"
+      }
+    ],
+    "citation-number": [
+      "Veld04"
+    ],
+    "date": [
+      "2004-05-17"
+    ],
+    "genre": [
+      "Doctoral Dissertation,"
+    ],
+    "publisher": [
+      "Indiana University, Computer Science"
+    ],
+    "title": [
+      "Active Libraries and Universal Languages"
+    ],
+    "type": "thesis",
+    "url": [
+      "http://www.cs.chalmers.se/~tvedhui/papers/2004/dissertation.pdf."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vandervoode",
+        "given": "David"
+      },
+      {
+        "family": "Josuttis",
+        "given": "Nicolai M."
+      }
+    ],
+    "citation-number": [
+      "VJ02"
+    ],
+    "container-title": [
+      "ISBN"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Templates: The Complete Guide"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0201734842"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weiser",
+        "given": "Martin"
+      },
+      {
+        "family": "Powell",
+        "given": "Gary"
+      }
+    ],
+    "citation-number": [
+      "WP99"
+    ],
+    "title": [
+      "The View Template Library"
+    ],
+    "type": null,
+    "url": [
+      "http://www.zib.de/weiser/vtl."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weiser",
+        "given": "Martin"
+      },
+      {
+        "family": "Powell",
+        "given": "Gary"
+      }
+    ],
+    "citation-number": [
+      "WP00"
+    ],
+    "container-title": [
+      "Thanks . October"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "The View Template Library. First Workshop on C++ Template Programming, Erfurt, Germany, This document was created by an unregistered ChmMagic, please go to http://www.bisenter.com to register it"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  }
+]
