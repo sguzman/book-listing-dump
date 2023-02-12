@@ -1,0 +1,3530 @@
+[
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "Find the expression for v(t) for t≥0."
+    ],
+    "title": [
+      "8.3 PSPICEMULTISIM The resistance in Problem 8.2 is increased to 250 Ω"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "5. 8.5 PSPICEMULTISIM The resistor in the circuit in Example 8.4 is changed to 3200 Ω."
+    ],
+    "title": [
+      "8.4 PSPICEMULTISIM The resistance in Problem 8.2 is increased to 312.5 Ω. Find the expression for v(t) for t≥0"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "V",
+        "particle": "v=40e−1000t−90e−4000t"
+      }
+    ],
+    "note": [
+      "α, C, and R. 2. Calculate iR(t), iL(t), and iC(t) for t≥0+."
+    ],
+    "title": [
+      "1. Determine the numerical values of ω0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Find v(t) when iC(t)=0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "the expression for iR(t)≥0, 3. the expression for iL(t)≥0"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "note": [
+      "P8.14 is increased from 100 Ω to 125 Ω. Find vo(t) for t≥0."
+    ],
+    "title": [
+      "8.15 PSPICEMULTISIM The resistor in the circuit of Fig"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "16."
+    ],
+    "note": [
+      "P8.14 is increased from 100 Ω to 200 Ω. Find vo(t) for t≥0."
+    ],
+    "title": [
+      "8.16 PSPICEMULTISIM The resistor in the circuit of Fig"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "9.30 PSPICEMULTISIM The circuit in Fig"
+    ],
+    "note": [
+      "P9.30 is operating in the sinusoidal steady state. Find io(t) if vs(t)=25 sin 4000t V."
+    ],
+    "title": [
+      "9.29 PSPICEMULTISIM Find the steady-state expression for io(t) in the circuit in Fig. P9.29 if vs=100 sin 50t mV. Figure P9.29 Figure P9.29 Full Alternative Text 16"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "ic(t), and ig(t)."
+    ],
+    "title": [
+      "If ω=1500 rad/s, write expressions for ia(t"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "b) v=100 cos (ωt−45°) V;i=20 cos (ωt+165°) A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "c) v=100 cos (ωt−45°) V;i=20 cos (ωt−105°) A"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Answer"
+    ],
+    "date": [
+      "a"
+    ],
+    "title": [
+      "d) v=100 cos ωt V;i=20 cos (ωt+120°) A",
+      "P=500 W(A to B);Q=−866.03 VAR(B to A"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "b"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "c"
+    ],
+    "title": [
+      "P=−866.03 W(B to A);Q=500 VAR(A to",
+      "P=500 W(A to B);Q=866.03 VAR(A to B"
+    ],
+    "type": null,
+    "volume": [
+      "B). 3"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "d"
+    ],
+    "title": [
+      "P=−500 W(B to A);Q=−866.03 VAR(B to A"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1690"
+    ],
+    "type": null,
+    "volume": [
+      "S1=12V1I1*=P1+jQ1=12(78−j104"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "S3=12V3I3=P3+jQ3=12=1970+j5910",
+        "given": "V.A."
+      }
+    ],
+    "title": [
+      "This impedance is absorbing 1970 W and 5910 VAR"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "The complex power associated with the current-controlled voltage source is"
+    ],
+    "title": [
+      "The complex power associated with the independent voltage source is Ss=−12VsI1*=Ps+jQs=−12(150)(−26+j52)=1950−j3900 VA. Note that the independent voltage source is absorbing an average power of 1950 W and delivering 3900 VAR"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "P φ = (115.22)(2.4) cos 35.68° = 224.64 W"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The power per phase may also be calculated from Iφ2Rφ, or Pφ=(2.4)2(39)=224.64 W"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "The total power lost in the line is Pline=3(2.4)2(0.8)=13.824 W"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "a"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "genre": [
+      "P11.7."
+    ],
+    "title": [
+      "Find I0 in the circuit in Fig"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Find VAN",
+        "particle": "b)"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Find VAB",
+        "particle": "c)"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "b"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Calculate the a-phase line current"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "b"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Calculate the magnitude of the line current"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "c"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Calculate the magnitude of the line voltage at the terminals of the load"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "note": [
+      "P11.19 is 160+j120 Ω. Find"
+    ],
+    "title": [
+      "11.19 The impedance Z in the balanced three-phase circuit in Fig"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "a) the phase currents IAB, IBC, and ICA"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "genre": [
+      "P11.21."
+    ],
+    "title": [
+      "11.21 A balanced three-phase Δ-connected source is shown in Fig"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "F(s)=280s2+14s+245"
+    ],
+    "location": [
+      "F(s)=14s2+56s+152(s+6)(s2+4s+20"
+    ],
+    "title": [
+      "12.41 Find f(t) for each of the following functions. 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2. F(s)=−s2+52s+445s(s2+10s+89). 3"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "publisher": [
+      "F(s)=8(s+1)2(s2+10s+34)(s2+8s+20"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "location": [
+      "F(s)=25(s+4)2s2(s+5)2"
+    ],
+    "pages": [
+      "4"
+    ],
+    "title": [
+      "12.42 Find f(t) for each of the following functions"
+    ],
+    "type": null,
+    "volume": [
+      "1. F(s)=320s2(s+8). 2. F(s)=80(s+3)s(s+2)2. 3. F(s)=60(s+5)(s+1)2(s2+6s+25"
+    ]
+  },
+  {
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "F(s)=135s(s+3)3"
+    ],
+    "location": [
+      "F(s)=25s2+395s+1494s2+15s+54"
+    ],
+    "title": [
+      "12.43 Find f(t) for each of the following functions. 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2. F(s)=10(s+2)2(s2+2s+2)2. 3"
+    ]
+  },
+  {
+    "note": [
+      "Answer: 1. (a) I=0.02/(s+1250),V1=80/(s+1250),V2=20/(s+1250); 2. (b) i=20e−1250tu(t) mA,v1=80e−1250tu(t) V,v2=20e−1250tu(t) V. 13.3-5 Full Alternative Text"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Find the s-domain expression for V"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Answer"
+    ],
+    "issue": [
+      "(s2+1.2s+1)",
+      "6t",
+      "6t"
+    ],
+    "note": [
+      "b",
+      "d"
+    ],
+    "pages": [
+      "2",
+      "4",
+      "13 3–6"
+    ],
+    "publisher": [
+      "Full Alternative Text"
+    ],
+    "title": [
+      "Find the time-domain expression for v when t>0"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40",
+      "0",
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "From Example"
+    ],
+    "date": [
+      "1000"
+    ],
+    "issue": [
+      "9"
+    ],
+    "title": [
+      "Sketch vo versus t for 0≤t≤1.5 ms. Solution 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Find Vo",
+        "particle": "b)"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Find Vo",
+        "particle": "b)"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Find Io",
+        "particle": "b)"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Find Vo",
+        "particle": "a)"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "b) Find I1."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "40."
+    ],
+    "title": [
+      "13.48 Find vo(t) in the circuit shown in Fig. P13.48 if the ideal op amp operates within its linear range and vg=4.8u(t)V"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "13.57 The operational amplifier in the circuit in Fig. P13.57 is ideal. 1. a) Find the numerical expression for the transfer function H(s)=Vo/Vg"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "a) Show that if y(t)=h(t)*x(t), then Y(s)=H(x)X(s)."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "H(s)=IoIg=125(s+400)s(s2+200s+104)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "a"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Find the transfer function Vo/Vg"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "b"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Find vo if vg=0.6 u(t) V"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "c"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Find the steady-state expression for vo if vg=2 cos 10,000t V"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "note": [
+      "P13.89 at the time the impulsive current is applied."
+    ],
+    "title": [
+      "13.89 There is no energy stored in the circuit in Fig"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Ig"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "location": [
+      "and"
+    ],
+    "pages": [
+      "7"
+    ],
+    "type": null,
+    "volume": [
+      "i1(0-); 6. i1(0+",
+      "i2(0-); 8. i2(0+); 9. vo(0"
+    ]
+  },
+  {
+    "container-title": [
+      "Full Alternative Text Answer"
+    ],
+    "pages": [
+      "17 7–5"
+    ],
+    "type": "chapter",
+    "volume": [
+      "10. vo(0+"
+    ]
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "pages": [
+      "17 7–6"
+    ],
+    "publisher": [
+      "Full Alternative Text"
+    ],
+    "type": "book",
+    "volume": [
+      "Compute va(0-), va(0+), and va(∞"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "note": [
+      "Find f(t)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "f(t)=2Aτt+A,−τ2≤t≤0;f(t)=−2Aτt+A,0≤t≤τ2;f(t)=0,elsewhere."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Sections 17.3––17.5 1. 17.4 Derive F{sin ω0t}"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "pages": [
+      "– 0 4 – 0",
+      "– 0"
+    ],
+    "type": null,
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "17.10 Show that if f(t) is an odd function, A(ω)=0.B(ω)=−2∫0∞f(t)sinωt dt"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Show that F{dnf(t)/dtn}=(jω)nF(ω), where F(ω)=F{f(t)}"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "If f(x)=e-axu(x), can the operational transform in (a) be used? Explain"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "F.{f}=e-jωaF"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2"
+    ],
+    "note": [
+      "F{ejω0tf(t)}=F(ω-ω0); 3. F{f(t)cosω0t}=12F(ω-ω0)+12F(ω+ω0)."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "69.2765 V(rms), −0.0081%"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "F(ω)→π[Δ(ω−ω0)+Δ(ω+ω0)"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "low-pass filters, 574–575, 579, 587–591, 593–595, 608 narrowband (high-Q) filters, 600–605, 609 op amp filters, 575–577, 579, 580–600, 608 prototypes, 575–577, 608"
+    ],
+    "pages": [
+      "608"
+    ],
+    "title": [
+      "broadband (low-Q) filters, 581–587, 608 Butterworth filters, 591–600, 608–609 cascading filters, 581–583, 587–591, 608–609 first-order, 574–577, 608 fourth-order, 589–590, 594–595 higher-order, 587–600, 608 high-pass filters"
+    ],
+    "type": null,
+    "volume": [
+      "576–577, 598"
+    ]
+  },
+  {
+    "container-title": [
+      "cascading connections"
+    ],
+    "pages": [
+      "310"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "303–308"
+    ]
+  },
+  {
+    "pages": [
+      "125–126"
+    ],
+    "title": [
+      "node-voltage method, 102–103 Ohm’s law for, 47 resistor-inductor-capacitor (RLC) circuits for, 303–308, 310 Thévenin equivalent circuits for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Amplitude plots, 744–748, 751–753 accuracy of, 747–748 complex poles, 751–753 corrections to, 752–753 straight-line, 744–748, 751–753"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "663–664"
+    ],
+    "title": [
+      "Amplitude spectrum, 645–647, 650, 663–664 Fourier series and, 645–647, 650 Fourier transform transition of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "425–426, 639–641"
+    ],
+    "title": [
+      "appliance power ratings, 381–382 balanced three-phase circuits, 425–426, 430–433, 435 calculations for"
+    ],
+    "type": null,
+    "volume": [
+      "377–382, 389, 401"
+    ]
+  },
+  {
+    "note": [
+      "Back-substitution method, 721–722, 726"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "580–583, 598–599, 600–602, 608–609, 682–683"
+    ],
+    "title": [
+      "Balanced three-phase circuits, 412, 416–417, 435. See also Three-phase circuits Bandpass filters, 538–539, 550–560"
+    ],
+    "type": null,
+    "volume": [
+      "565"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Butterworth"
+      }
+    ],
+    "pages": [
+      "598–599, 608"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "parallel RLC circuit,"
+    ],
+    "pages": [
+      "555–557"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "quantitative analysis, 551–554 resonant frequency (ωo) for, 550 series RLC circuit, 551–555, 557–559 transfer function (H(s)) for, 559"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "583–587,",
+      "602–605, 608–609"
+    ],
+    "title": [
+      "Bandreject filter, 538–539, 560–563"
+    ],
+    "type": null,
+    "volume": [
+      "565",
+      "598"
+    ]
+  },
+  {
+    "pages": [
+      "602–605, 609"
+    ],
+    "title": [
+      "frequency response plot"
+    ],
+    "type": null,
+    "volume": [
+      "539 narrowband"
+    ]
+  },
+  {
+    "pages": [
+      "560–563"
+    ],
+    "title": [
+      "quantitative analysis, 561–562 series RLC circuit"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Bode plots (diagrams), 574–576, 580, 583–584, 587–588, 602, 605, 743–756 active filter analysis using, 574–576, 580, 583–584, 588 amplitude plots, 744–748, 751–753 bandpass filters, 580, 602 bandreject filters, 583–584, 605 broadband (low-Q) filters, 581, 583–584 cascading filters, 587–588 complex poles, 750–756 complex zeros, 750–751 corner frequency for, 747–748 high-pass filters, 576 low-pass filters, 574–576, 588 magnitude plots, 587–588"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "narrowband (high-Q) filters, 602, 605 phase angle plots, 748–750, 754–756 real, first-order poles and zeros, 743–744 straight-line plots, 744–756"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Branches"
+      }
+    ],
+    "pages": [
+      "94–96"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Bode plots for"
+    ],
+    "pages": [
+      "583–584"
+    ],
+    "title": [
+      "Broadband (low-Q) filters, 581–587, 608 bandpass, 581–583, 608 bandreject, 583–587, 608"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "581"
+    ]
+  },
+  {
+    "container-title": [
+      "cascading",
+      "circuit analysis"
+    ],
+    "pages": [
+      "608–609",
+      "593–595"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "591–600",
+      "591"
+    ]
+  },
+  {
+    "note": [
+      "transfer functions (H(s)) for, 592–593"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "given": "equivalent"
+      }
+    ],
+    "pages": [
+      "196–197"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "circuit analysis of",
+      "Capacitors"
+    ],
+    "date": [
+      "195–196, 198–199, 211"
+    ],
+    "pages": [
+      "189–193,",
+      "760",
+      "189–193, 514–515"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "182",
+      "329–330, 361, 485–486, 514–515, 521"
+    ]
+  },
+  {
+    "note": [
+      "impulse function (KΔ(t)"
+    ],
+    "pages": [
+      "514–515"
+    ],
+    "publisher": [
+      "for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "relationships"
+    ],
+    "pages": [
+      "329–330, 361"
+    ],
+    "title": [
+      "voltage to current (v–i"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "190"
+    ]
+  },
+  {
+    "container-title": [
+      "Cascading connections"
+    ],
+    "note": [
+      "active filters, 581–583, 587–600, 608–609 bandpass filters, 581–583 Bode magnitude plot for, 588"
+    ],
+    "pages": [
+      "581–583, 587–600, 608–609, 708–711"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "303–308, 310"
+    ]
+  },
+  {
+    "pages": [
+      "708–711"
+    ],
+    "title": [
+      "low-pass filters, 587–591, 593–595, 608 op amp filters, 587–591 two-port circuits"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Center frequency (ωo), 550, 552–554, 562, 565 Characteristic determinant, 722–723"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "series RLC circuits"
+    ],
+    "pages": [
+      "275–276,",
+      "309",
+      "299–301"
+    ],
+    "title": [
+      "Characteristic equations, 275–276, 293, 297, 299–301, 309 parallel RLC circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "293",
+      "297"
+    ]
+  },
+  {
+    "container-title": [
+      "Circuit analysis",
+      "amplifiers"
+    ],
+    "date": [
+      "220, 224"
+    ],
+    "pages": [
+      "40–48, 68–70, 75–80, 92–149, 150–181,",
+      "241–242, 246–254,",
+      "605–607, 677–679, 681–685",
+      "125–126",
+      "605–607"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11–15",
+      "230, 234, 238",
+      "256, 273, 308–309, 318–373, 482–535, 536–571, 573",
+      "47, 102–103, 111",
+      "bass volume control, 573"
+    ]
+  },
+  {
+    "note": [
+      "delta-to-wye (Δ-to-Y) transformations, 75–78,"
+    ],
+    "pages": [
+      "338–340",
+      "11–12 – , 252–254, 256"
+    ],
+    "title": [
+      "dependent sources and, 45–48, 98–100, 107–108, 122 Fourier transforms for, 677–679, 681–685 frequency-selective circuits, 536–571 household distribution, 319, 359–360 ideal basic circuit element, 14 ideal circuit components"
+    ],
+    "type": null,
+    "volume": [
+      "80"
+    ]
+  },
+  {
+    "pages": [
+      "40–44, 487"
+    ],
+    "title": [
+      "Kirchhoff’s laws for"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "150–181"
+    ],
+    "title": [
+      "operational amplifiers (op amps"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "sensitivity analysis",
+      "step response method",
+      "superposition"
+    ],
+    "note": [
+      "135 surge suppressors and, 483, 520 terminal behavior and, 118–126, 152–156 terminals, 118–126"
+    ],
+    "pages": [
+      "131–134",
+      "115–118,",
+      "340–343",
+      "241–242, 256",
+      "129–131,"
+    ],
+    "title": [
+      "sequential switching and, 246–250, 256 simultaneous equations for, 94–96 sinusoidal steady-state, 318–373 source transformation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "93",
+      "92",
+      "121, 134",
+      "220, 234, 238",
+      "92"
+    ]
+  },
+  {
+    "pages": [
+      "334"
+    ],
+    "title": [
+      "Thévenin equivalent circuits for, 92, 118–126, 135 transformers, 347–356, 361 voltage division"
+    ],
+    "type": null,
+    "volume": [
+      "68–70, 79"
+    ]
+  },
+  {
+    "note": [
+      "50 electrical radiator examples of, 27, 48–49 electrical sources, 28"
+    ],
+    "pages": [
+      "45–48,"
+    ],
+    "title": [
+      "current sources, 28–31, 50 dependent sources"
+    ],
+    "type": null,
+    "volume": [
+      "28, 31"
+    ]
+  },
+  {
+    "container-title": [
+      "Kirchhoff’s laws for"
+    ],
+    "pages": [
+      "45–47, 50"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39–44"
+    ]
+  },
+  {
+    "note": [
+      "passive, 30 resistance (R), 32–35, 484, 521 s domain representation, 484–486, 521 symbols for, 28–29 voltage sources, 28–31, 50"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "flashlight (electrical system), 36–38, 39–41 operational amplifiers (op amps), 154–155, 167–170, 172–173 resistors, 32–35 terminal measurements for, 38, 43–44 two-port, 692, 712"
+    ],
+    "pages": [
+      "48–49"
+    ],
+    "title": [
+      "electrical behavior of components, 37 electrical effects from, 37 electrical radiator"
+    ],
+    "type": null,
+    "volume": [
+      "27"
+    ]
+  },
+  {
+    "pages": [
+      "7–8"
+    ],
+    "title": [
+      "Circuit theory"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Circuits"
+    ],
+    "note": [
+      "analysis of, 11–12 current (i), 12–13, 15–17, 33 current-divider, 67, 79 delta-to-wye (Δ-to-Y) equivalent, 75–78, 80 electrical charge,"
+    ],
+    "pages": [
+      "474–476,",
+      "564",
+      "12–13"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2–25, 32–35, 58–91, 445",
+      "483, 520, 537"
+    ]
+  },
+  {
+    "note": [
+      "voltage-divider, 64–66, 79 Wheatstone bridge, 73–75, 80"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "729–730"
+    ],
+    "title": [
+      "Communication systems, 4–5 Complex numbers, 727–732 addition/subtraction of, 729 arithmetic operations"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "polar form, 727–728 rectangular form, 727–728 roots of, 731–732"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Complex power, 384–393, 401, 426–427 apparent power (magnitude), 385, 401 balanced three-phase circuits, 426–427"
+    ],
+    "type": null
+  },
+  {
+    "editor": [
+      {
+        "family": "loads",
+        "particle": "delta"
+      }
+    ],
+    "pages": [
+      "426–427"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Convolution"
+      }
+    ],
+    "pages": [
+      "510–511"
+    ],
+    "title": [
+      "505–511, 521, 674–675 Fourier operational transforms, 674–675 frequency domain, 675 integral, 505–511, 521, 675 memory, concept of using"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Cramer’s method"
+    ],
+    "pages": [
+      "722–724"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "step response"
+    ],
+    "pages": [
+      "297–299, 301",
+      "291–293, 300–301"
+    ],
+    "title": [
+      "Critically damped response, 286–289, 291–293, 297–299, 300–301, 309 natural response, 286–289, 297–300, 309 parallel RLC circuits, 286–289, 291–293, 309 series RLC circuits"
+    ],
+    "type": "chapter",
+    "volume": [
+      "297"
+    ]
+  },
+  {
+    "note": [
+      "Current (i), 12–17,",
+      "balanced three-phase circuits, 417, 418–419, 422–423, 435 capacitors, 189–193 defined, 13 displacement, 189–190 dot convention for, 354–355 electric charge and, 12–14"
+    ],
+    "pages": [
+      "39–40,",
+      "70–73,",
+      "152–156,",
+      "184–186, 189–193, 222–224,",
+      "289–290,",
+      "320–321,",
+      "639–641"
+    ],
+    "type": null,
+    "volume": [
+      "33",
+      "41, 50, 58",
+      "80",
+      "172",
+      "230",
+      "318",
+      "324, 327–333, 353–355, 417, 418–419, 422–423, 435"
+    ]
+  },
+  {
+    "collection-title": [
+      "Fourier series applications"
+    ],
+    "pages": [
+      "639–641,"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "327–333, 353–355 – , 324"
+    ],
+    "title": [
+      "resistor-inductor (RL) circuit expression, 222–224 sinusoidal source, 320–321 steady-state analysis and behavior of"
+    ],
+    "type": null,
+    "volume": [
+      "318, 324"
+    ]
+  },
+  {
+    "note": [
+      "Current sources, 28–31, 50"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Current to voltage (i–v) relationships, 185–186, 190 Cutoff frequency (ωc), 540–542, 544, 552–553, 556, 562, 564 bandpass filters, 552–553, 556"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Decaying exponential function, 452 Decibels (dB), 741–742 Delta (Δ) interconnection, 76 Delta (Δ) loads, 426–427"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Dependent sources"
+    ],
+    "pages": [
+      "130–131"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28, 31, 45–48, 98–100, 107–108, 122"
+    ]
+  },
+  {
+    "pages": [
+      "189–190"
+    ],
+    "title": [
+      "Discontinuous functions, 446–447 Displacement current"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Domain"
+      }
+    ],
+    "pages": [
+      "354–355"
+    ],
+    "title": [
+      "Laplace transform for, 456–457 Dot convention, 199–201, 211, 354–355 ideal transformers, 354–355 mutual inductance, 199–201, 211 polarity and"
+    ],
+    "type": null,
+    "volume": [
+      "199–201, 211"
+    ]
+  },
+  {
+    "pages": [
+      "2–9"
+    ],
+    "title": [
+      "Electrical charge, 12–13 Electrical engineering"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "natural response and"
+    ],
+    "pages": [
+      "230"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "226"
+    ]
+  },
+  {
+    "note": [
+      "Equivalent capacitance (Ceq), 197 Equivalent circuits, 61–62, 194–197, 418–421, 435, 484–486, 521, 733–740 capacitance (Ceq), 196–197, 485–486, 521 ideal transformers in, 737–740 inductance (Leq),",
+      "521 magnetically coupled coils and, 733–737 π-equivalent circuit, 734–735 resistance (Req), 61–62, 484, 521 s domain representation, 484–486, 521 single-phase, 418–421, 435"
+    ],
+    "pages": [
+      "484–485,"
+    ],
+    "type": null,
+    "volume": [
+      "194–195, 196"
+    ]
+  },
+  {
+    "pages": [
+      "305–308, 310"
+    ],
+    "title": [
+      "Feedback, see Negative feedback Feedback resistors"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Filters"
+    ],
+    "pages": [
+      "538–539",
+      "574–577, 608"
+    ],
+    "title": [
+      "See also Active filter circuits; Frequency; Frequency-selective circuits Final-value theorem, 472–474, 477 First-order active filters"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "536"
+    ]
+  },
+  {
+    "pages": [
+      "621–630, 649"
+    ],
+    "title": [
+      "Flashlight (electrical system) circuit model, 36–38, 39–41 Fourier coefficients"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "622–624"
+    ],
+    "title": [
+      "half-wave symmetry, 627–628 odd-function symmetry, 626–627 periodic functions (f(t)) for, 621–630 quarter-wave symmetry, 628–629 symmetry effects on, 625–630, 649 trigonometric form of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "642–644, 650"
+    ],
+    "title": [
+      "Fourier series, 618–659 active high-Q filter response, 619, 647–649 amplitude spectrum, 645–647, 650 average-power calculations, 639–641, 650 direct approach, 635–637 exponential form of"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "periodic response and, 618, 620 periodic voltage applications, 631–637, 639–641, 645–647 phase spectrum, 645–647, 650 phasor domain circuit transformation, 631–632, 650 quality factor (Q), 619"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "623–629,",
+      "635–636, 650"
+    ],
+    "title": [
+      "RC circuit application, 633–637 root-mean-square (rms) value, 641–642, 650 sine and cosine terms for, 631–632, 650 steady-state response and, 621–622, 633–638, 650 symmetry functions, 625–630, 649 waveforms"
+    ],
+    "type": null,
+    "volume": [
+      "618, 620",
+      "633"
+    ]
+  },
+  {
+    "container-title": [
+      "digital signal filtering"
+    ],
+    "pages": [
+      "662–664",
+      "685–686"
+    ],
+    "title": [
+      "Fourier transform, 660–691 amplitude spectrum, 663–664 circuit applications, 677–679, 681–685 convergence of integral, 664–666 derivation of"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "661"
+    ]
+  },
+  {
+    "pages": [
+      "671–672"
+    ],
+    "title": [
+      "Laplace transforms for, 666–668 limiting values, 662–663, 665–670 mathematical properties of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "677–678"
+    ],
+    "title": [
+      "transient response from"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Fourth-order filters"
+    ],
+    "pages": [
+      "594–595"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "589–590"
+    ]
+  },
+  {
+    "pages": [
+      "552–554, 565"
+    ],
+    "title": [
+      "bandreject filter, 538–539 center (ωo"
+    ],
+    "type": null,
+    "volume": [
+      "550"
+    ]
+  },
+  {
+    "pages": [
+      "472–474, 477"
+    ],
+    "title": [
+      "final-value theorem for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Fourier transform (F(ω)), 660, 662–663, 671–672, 674–675, 686 frequency-selective circuit analysis, 545, 559–560 impedance (Z) and, 330–331, 333–338, 340–343, 361 initial-value theorem for, 472–474, 477 inverse Laplace transforms for, 460–470, 476 Kirchhoff’s laws in, 332–333"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "transform",
+        "given": "Laplace"
+      }
+    ],
+    "pages": [
+      "340–341"
+    ],
+    "title": [
+      "446, 457, 460–474, 476–477 low-pass filters, 545 node-voltage method in, 344–345 Norton equivalent circuits for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "poles of F(s), 470–472, 476 rational functions (F(s)) and, 460–470 series impedance combination, 334–335, 337 source transformations for, 340–343 steady-state circuit analysis in, 327–357, 361"
+    ],
+    "pages": [
+      "327–331"
+    ],
+    "title": [
+      "passive circuit elements in, 327–331 phasor transforms and"
+    ],
+    "type": null,
+    "volume": [
+      "325"
+    ]
+  },
+  {
+    "pages": [
+      "340–341, 343"
+    ],
+    "title": [
+      "Thévenin equivalent circuits for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "high-pass filters, 545–550, 564–565 low-pass filters, 539–545, 564 parallel RLC, 555–557, 563 pushbutton telephone circuits, 537, 564 qualitative analysis, 539–541, 544, 546, 551, 560–561 quantitative analysis, 542–543, 546–547, 551–554, 561–562 series RC, 543–544, 546–547"
+    ],
+    "pages": [
+      "559–560"
+    ],
+    "title": [
+      "bandreject filters, 560–563, 565 center frequency (ωo) for, 550, 552–554, 565 cutoff frequency (ωc) for, 540–542, 544, 552–553, 556, 562, 564 filter categories, 538–539 filters as, 536, 564 frequency and time domain relationships"
+    ],
+    "type": null,
+    "volume": [
+      "545"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "RL",
+        "particle": "series"
+      }
+    ],
+    "pages": [
+      "557–559, 560–563"
+    ],
+    "title": [
+      "539–540, 542–543, 547–548 series RLC"
+    ],
+    "type": null,
+    "volume": [
+      "551–555"
+    ]
+  },
+  {
+    "note": [
+      "Harmonic frequency, 621, 649 High-pass filters, 538, 545–550, 564–565, 576–577, 598, 608 active, 576–577,"
+    ],
+    "pages": [
+      "608"
+    ],
+    "type": null,
+    "volume": [
+      "598"
+    ]
+  },
+  {
+    "pages": [
+      "546–547"
+    ],
+    "title": [
+      "qualitative analysis, 546 quantitative analysis, 546–547 second-order, 598, 608 series RC circuits"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "14–15"
+    ],
+    "title": [
+      "Ideal basic circuit element"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Ideal transformers"
+    ],
+    "note": [
+      "current (i) ratios, 353–355"
+    ],
+    "pages": [
+      "397–398, 737–740"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "351–356, 361"
+    ]
+  },
+  {
+    "note": [
+      "730–731 Immitance, 696"
+    ],
+    "title": [
+      "Ideal versus realistic op-amp models, 173, 14–15 Identities for complex numbers"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "514–515"
+    ],
+    "title": [
+      "capacitor circuit analysis"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "450–451"
+    ],
+    "title": [
+      "impulsive sources, 517–520 inductor circuit analysis, 515–517 Laplace transform method and, 514–520, 521 Laplace transform of"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Independent sources"
+    ],
+    "pages": [
+      "50"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28, 31"
+    ]
+  },
+  {
+    "pages": [
+      "351–352"
+    ],
+    "title": [
+      "steady-state transformer analysis and"
+    ],
+    "type": null,
+    "volume": [
+      "347–348"
+    ]
+  },
+  {
+    "pages": [
+      "289–290"
+    ],
+    "title": [
+      "Inductive circuits, power for, 378–379 Inductor current"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Inductors"
+    ],
+    "date": [
+      "194–195, 198–199"
+    ],
+    "note": [
+      "211 equivalent circuits for, 194–195, 196, 484–485, 521 impulse function (KΔ(t)) for, 515–517"
+    ],
+    "pages": [
+      "184–189,",
+      "484–485, 515–517,",
+      "187–189,"
+    ],
+    "title": [
+      "521, 760 circuit analysis of, 184–189, 515–517 circuit component values, 760 current to voltage (i–v) relationships, 185–186 duality (symmetry) of, 198–199, 211 energy in"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "182",
+      "211, 328–329, 361",
+      "182"
+    ]
+  },
+  {
+    "pages": [
+      "153–154, 172"
+    ],
+    "title": [
+      "Infinite frequency, 544 Initial-value theorem, 472–474, 477 Input constraints"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "balanced three-phase circuits, 427–428 calculations for, 376–377, 378, 401, 427–428 sinusoidal steady-state circuits, 376–377,"
+    ],
+    "pages": [
+      "427–428",
+      "401"
+    ],
+    "title": [
+      "In-series circuit elements, 41, 50. See also Series-connected circuits Instantaneous power"
+    ],
+    "type": null,
+    "volume": [
+      "376–377, 378, 401",
+      "378"
+    ]
+  },
+  {
+    "note": [
+      "convolution, 505–511, 521"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Fourier transforms"
+    ],
+    "note": [
+      "frequency-domain function (F(ω)) and, 671–672 Laplace transforms, 446, 455–456 table of, 758–759 time-domain function (F(t)) and, 671–672 transfer function (H(s)) use of, 505–511, 521"
+    ],
+    "pages": [
+      "664–666, 671–672"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "662"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Integrating-amplifier"
+      }
+    ],
+    "pages": [
+      "303–308, 310"
+    ],
+    "title": [
+      "252–254, 256, 303–308, 310 cascading connections, 303–308, 310 feedback resistors and, 305–308, 310 first-order circuit analysis, 252–254, 256 second-order circuit analysis"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "delta (Δ), 76 delta-to-wye (Δ-to-Y) equivalent circuits, 75–78, 80"
+    ],
+    "pages": [
+      "36–37"
+    ],
+    "title": [
+      "circuit model creation for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "461–462 improper rational functions, 460, 469–470 partial fraction expansion, 461–470 proper rational functions, 461–469 rational functions (F(s)) and, 460–470 repeated complex roots of D(s), 468–468 repeated real roots of D(s), 466–467"
+    ],
+    "title": [
+      "Inverse Laplace transforms, 460–470, 476 distinct complex roots of D(s), 463–465 distinct roots of D(s"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "50 current law (KCL), 39–40, 41, 50, 60–61, 332–333 dependent sources and, 45–47"
+    ],
+    "pages": [
+      "40–47,"
+    ],
+    "title": [
+      "amplifier circuit analysis using, 47 circuit analysis using"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "514–520, 521"
+    ],
+    "title": [
+      "equivalent circuits for time and frequency domains, 485–486 impulse function and"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "491–492"
+    ],
+    "title": [
+      "RLC circuit analysis, 489–490 s-domain applications, 495–496, 499–500 s-domain equivalent circuits, 485–486 sinusoidal source circuit analysis"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "484–485, 521"
+    ],
+    "title": [
+      "voltage to current (v-i) equations for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Laplace transform"
+    ],
+    "pages": [
+      "666–668"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "444–481"
+    ]
+  },
+  {
+    "container-title": [
+      "functional transforms"
+    ],
+    "note": [
+      "476 impulse function (KΔ(t)), 449–451, 476 initial-value theorem for, 472–474, 477 integral of, 446, 455–456 inverse transforms, 460–470, 476 lumped-parameter circuits and, 458–460, 476 operational transforms, 447, 453–458, 476 partial fraction expansion for, 460–470"
+    ],
+    "pages": [
+      "452–458, 460–474, 476–477",
+      "452–453,"
+    ],
+    "title": [
+      "final-value theorem for, 472–474, 477 Fourier transforms from, 666–668 frequency domain (F(s"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "446",
+      "447"
+    ]
+  },
+  {
+    "note": [
+      "step function (Ku(t)), 447–448, 476 time domain (f(t)), 446–458, 472–474, 476–477 transform pairs, 452–453, 469 transient effects on circuits, 445, 474–476 unilateral (one-sided) behavior of, 446–447 unit impulse function (Δ(t)), 449, 476 unit step function (u(t)), 447, 476 zeros of F(s), 470–472, 476"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Limiting values"
+    ],
+    "pages": [
+      "665–670"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "662–663"
+    ]
+  },
+  {
+    "note": [
+      "winding (primary and secondary), 347 Loads, 127–128, 390–391, 393–397, 425–430 balanced three-phase circuits, 425–430 delta (Δ), 426–427 impedance (Z) conditions and restrictions, 393–397 maximum power transfer, 127–128, 393–397 parallel, 390–391 power calculations for, 390–391, 393–397, 425–430 resistive, 127–128 unspecified, 429–430 wye (Y), 425–426"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Loop (closed path), 40, 50, 94 Low-pass filters, 538, 539–545, 564, 574–575, 587–591, 593–595, 608, 683–684 active, 574–575, 587–591, 593–595, 608 Bode plots for, 574–576, 588 Butterworth, 593–595, 608 cascading connections, 587–591, 593–595, 608 cutoff frequency (ωc) for, 540–542, 544 design of, 543, 544, 575 first-order active, 574–575, 608 fourth-order active, 589–590, 594–595"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "539–540, 542–543"
+    ],
+    "title": [
+      "qualitative analysis, 539–541, 544 quantitative analysis, 542–543 series RC circuits, 543–544 series RL circuits"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "458–460, 476"
+    ],
+    "title": [
+      "Laplace transform for"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "734–735"
+    ],
+    "title": [
+      "energy storage in, 207–209, 211 equivalent circuits for, 733–737 mutual inductance and, 207–209, 211 π-equivalent circuit"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "127–128"
+    ],
+    "title": [
+      "power calculations for, 393–399, 401 resistive loads"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ammeter for"
+    ],
+    "pages": [
+      "71–72, 80"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "70"
+    ]
+  },
+  {
+    "note": [
+      "International System of Units (SI), 9–11 power, 430–433, 741–742 resistance, 73–75, 80 three-phase circuits, 430–433,"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Mesh current,"
+    ],
+    "pages": [
+      "104–105"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Mesh-current method"
+    ],
+    "note": [
+      "mutual inductance and, 199–202 node-voltage method compared to, 112–115 special cases for, 108–112"
+    ],
+    "pages": [
+      "104–115, 134–135,",
+      "345–347"
+    ],
+    "title": [
+      "199–202, 345–347 amplifier circuit analysis, 111 circuit analysis process, 92, 104–115, 134–135 dependent sources and, 107–108 duality of, 104 frequency-domain circuit analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "92"
+    ]
+  },
+  {
+    "pages": [
+      "207–209, 211"
+    ],
+    "title": [
+      "energy storage in magnetically coupled coils"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Natural response"
+    ],
+    "pages": [
+      "222–232, 241–246,",
+      "274–289, 296–303, 308–310, 489"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "220",
+      "256"
+    ]
+  },
+  {
+    "pages": [
+      "222–224, 230"
+    ],
+    "title": [
+      "current (i) expression for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "circuits"
+    ],
+    "note": [
+      "Neper frequency (α), 276, 297, 299, 309 overdamped response, 279–282, 297–300, 309 parallel RLC circuits,",
+      "309 power (p) expression for, 226, 230 resistor-capacitor (RC"
+    ],
+    "pages": [
+      "274–296,",
+      "228–232, 241–246,",
+      "489"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "272",
+      "220",
+      "256"
+    ]
+  },
+  {
+    "container-title": [
+      "resonant radian frequency",
+      "series RLC circuits"
+    ],
+    "note": [
+      "resistor-inductor (RL) circuits, 220, 222–228, 241–246, 256 resistor-inductor-capacitor (RLC) circuits, 274–289, 296–300,"
+    ],
+    "pages": [
+      "308–310",
+      "299",
+      "296–300,",
+      "310"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "302",
+      "ω0), 276, 293, 297",
+      "272",
+      "302"
+    ]
+  },
+  {
+    "container-title": [
+      "transient response of"
+    ],
+    "pages": [
+      "227"
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      "162"
+    ],
+    "title": [
+      "difference-amplifier circuit"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "153–154, 172"
+    ],
+    "title": [
+      "summing-amplifier circuit, 158 voltage constraint and"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "special cases for, 100–104 steady-state circuit analysis, 344–345 supernodes and, 101–102 Nodes,"
+    ],
+    "pages": [
+      "112–115",
+      "94–96"
+    ],
+    "title": [
+      "Node voltage, 97 Node-voltage method, 92, 96–104, 112–115, 134–135, 344–345 amplifier circuit analysis, 102–103 circuit analysis process, 96–98, 101–102, 134–135 dependent sources and, 98–100 duality of, 104 frequency-domain circuit analysis, 344–345 mesh-current method compared to"
+    ],
+    "type": null,
+    "volume": [
+      "39, 50"
+    ]
+  },
+  {
+    "container-title": [
+      "terminal circuit simplification using"
+    ],
+    "note": [
+      "135 Odd periodic function, 626–627"
+    ],
+    "pages": [
+      "120–123,",
+      "340–341",
+      "120–123,"
+    ],
+    "title": [
+      "frequency domain simplification, 340–341 impedance (Z) in, 340–341 source transformation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "92",
+      "135",
+      "92"
+    ]
+  },
+  {
+    "note": [
+      "Ohm’s law, 32–33, 42–43, 45–47, 50, 61, 484, 486 amplifier circuit analysis using, 47 circuit analysis using, 42–43, 45–47, 50 dependent sources and, 45–47 electrical resistance and, 32–33, 50"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Butterworth"
+      }
+    ],
+    "pages": [
+      "587–600"
+    ],
+    "title": [
+      "591–600 cascading, 587–591 design of, 575, 576–577 first-order active, 575, 576–577, 587–591 higher-order active"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "165–167, 173"
+    ],
+    "title": [
+      "common mode rejection ratio (CMRR) for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "172 symbols for, 152 terminals, 152–156, 172 transducers, 151, 171–172 voltage (v), 152–156, 172"
+    ],
+    "title": [
+      "input constraints, 153–154, 172 inverting-amplifier circuit, 156–158, 168, 172 negative feedback in, 153–154, 157, 158, 160, 162, 172 noninverting-amplifier circuit, 159–162, 168–170, 172 open-loop operation, 157 realistic models, analysis of, 167–170, 173 strain gage analysis, 151, 171–172 summing-amplifier circuit, 158–159"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Fourier"
+      }
+    ],
+    "container-title": [
+      "Laplace"
+    ],
+    "pages": [
+      "453–458, 476"
+    ],
+    "title": [
+      "672–676 integration, 455–456, 673"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "447"
+    ]
+  },
+  {
+    "container-title": [
+      "translation in time domain"
+    ],
+    "pages": [
+      "456–457, 674"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Parallel-connected circuits"
+    ],
+    "date": [
+      "79, 194–196"
+    ],
+    "note": [
+      "708–709.See also Parallel RLC circuits"
+    ],
+    "pages": [
+      "61–64,",
+      "390–391,"
+    ],
+    "title": [
+      "Overdamped response, 279–282, 291–293, 297–299, 300–301, 309 natural response, 279–282, 297–300, 309 parallel RLC circuits, 279–282, 291–293, 309 series RLC circuits, 297–299, 301 step response, 291–293, 300–301 P"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "58",
+      "335, 337"
+    ]
+  },
+  {
+    "pages": [
+      "– , 708–709"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "309"
+    ],
+    "title": [
+      "frequency-selective circuits, 555–557, 563 natural response of, 274–289, 309 Neper frequency (α"
+    ],
+    "type": null,
+    "volume": [
+      "276, 293"
+    ]
+  },
+  {
+    "pages": [
+      "274–277"
+    ],
+    "title": [
+      "second-order differential equations for"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "679–685, 686"
+    ],
+    "title": [
+      "Parasitic resistance, 37 Parseval’s theorem, 679–685, 686 bandpass filter application, 662–663 energy calculations using"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "684–685"
+    ],
+    "title": [
+      "rectangular voltage pulse application"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "468–468 repeated real roots of D(s), 466–467 s domain use of, 461–470, 502–505 transfer function (H(s)) in, 502–505"
+    ],
+    "title": [
+      "Partial fraction expansion, 461–470, 502–505 distinct complex roots of D(s), 463–465 distinct roots of D(s), 461–462 improper rational functions, 460, 469–470 inverse Laplace transforms and, 461–470 proper rational functions, 461–469 repeated complex roots of D(s"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "time",
+        "given": "Period",
+        "particle": "of"
+      }
+    ],
+    "pages": [
+      "639–641"
+    ],
+    "title": [
+      "320 Periodic current, average-power calculations and"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "649"
+    ],
+    "title": [
+      "Fourier series of found with symmetry, 630 Fourier series representation, 621–622, 639–641 fundamental frequency"
+    ],
+    "type": null,
+    "volume": [
+      "ω0), 621"
+    ]
+  },
+  {
+    "pages": [
+      "621–622"
+    ],
+    "title": [
+      "steady-state response from"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "639–641"
+    ],
+    "title": [
+      "amplitude spectra for, 645–647 average-power calculations expressed from"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "663"
+    ],
+    "title": [
+      "Fourier series applications, 631–637, 639–641, 645–647 inverse Fourier transform and"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "538 – , 748–750, 754–756"
+    ],
+    "title": [
+      "frequency response and"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "Phase current,"
+    ],
+    "pages": [
+      "418–419, 422–423, 435"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "327–331, 361"
+    ],
+    "title": [
+      "voltage to current (v–i) relationships"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Phasors"
+    ],
+    "date": [
+      "650"
+    ],
+    "pages": [
+      "631–632,",
+      "329–330, 361"
+    ],
+    "title": [
+      "See also Phasor transforms capacitor voltage to current (v–i) relationships"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "324–331, 387–388"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "and",
+        "particle": "impedance"
+      }
+    ],
+    "pages": [
+      "330–331"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "324–330"
+    ],
+    "title": [
+      "sinusoidal functions and, 324–327 steady-state analysis using"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "mutual inductance, 199–201, 211 power reference, 16–17 self-inductance, 204 voltage and current references, 14"
+    ],
+    "pages": [
+      "211"
+    ],
+    "title": [
+      "coil current and voltage, 354–355 dot convention for, 199–201, 211, 354–355 ideal transformers, 354–355 induced voltages"
+    ],
+    "type": null,
+    "volume": [
+      "199–201, 204"
+    ]
+  },
+  {
+    "container-title": [
+      "Poles"
+    ],
+    "note": [
+      "amplitude plots, 750–753 complex, 750–756 frequency domain (F(s)), 470–472, 476 phase angle plots, 754–756"
+    ],
+    "pages": [
+      "743–744, 750–756"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "470–472, 476, 502"
+    ]
+  },
+  {
+    "pages": [
+      "391–392"
+    ],
+    "title": [
+      "ac circuits"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "211 maximum power transfer, 126–128, 135 natural response and, 226, 230 passive sign convention for, 16–17"
+    ],
+    "pages": [
+      "186–187,"
+    ],
+    "title": [
+      "current and voltage relationship to, 15–17 defined, 16 electric transmission and distribution, 413, 433–435 energy and, 15–17 inductive circuits, 378–379 inductors and"
+    ],
+    "type": null,
+    "volume": [
+      "182"
+    ]
+  },
+  {
+    "container-title": [
+      "units for"
+    ],
+    "pages": [
+      "– , 427–428",
+      "384–385, 401"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "379"
+    ]
+  },
+  {
+    "pages": [
+      "381–382"
+    ],
+    "title": [
+      "Power calculations, 374–411, 425–430, 435 apparent power, 385, 401 appliance ratings for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "balanced three-phase circuits, 430–433, 435"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "two-wattmeter method, 431–432, 435"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "542–543"
+    ],
+    "title": [
+      "Quantitative analysis, 542–543, 546–547, 551–554, 561–562 bandpass filters, 551–554 bandreject filters, 561–562 high-pass filters, 546–547 low-pass filters"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "460–470"
+    ],
+    "title": [
+      "Quarter-wave periodic function, 628–629 Rational functions (F(s"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Reactive factor (rf), 379, 401 Reactive power (Q), 377–382, 389, 401, 426–427 balanced three-phase circuits, 426–427"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Reflected impedance (Zr), 348–349, 361 Resistance (R), 32–35, 37, 50, 61–62, 73–75, 80 conductance (G) and, 33 equivalent (Req), 61–62 measurement of, 73–75, 80 Ohm’s law and, 32–33, 50 parasitic, 37 resistors as models of, 32–35"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "73–75, 80"
+    ],
+    "title": [
+      "Wheatstone bridge circuit for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "79 current division, 69–70, 79–80 delta-to-wye (Δ-to-Y) equivalent circuits, 75–78, 80 interconnections, 58, 60–64, 75–78 measurement of voltage and current, 58, 70–73, 80 parallel connections, 58, 61–64, 79 pi-to-tee (π-to-T) equivalent circuits, 75–78, 80"
+    ],
+    "title": [
+      "Resistive circuits, 58–91, 115–118, 121, 134, 378 analysis of, 68–70, 79–80, 115–118, 121, 134 current-divider circuit, 67"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "134"
+    ],
+    "title": [
+      "series–parallel simplification, 62–63 source transformation, 115–118"
+    ],
+    "type": null,
+    "volume": [
+      "121"
+    ]
+  },
+  {
+    "note": [
+      "Wheatstone bridge, 73–75, 80"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "546–547"
+    ],
+    "title": [
+      "Fourier series application, 633–637 frequency-selective analysis of, 543–544, 546–547 general solution for, 241–246, 256 high-pass filters"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "periodic voltage in, 633–637 power (p) expression, 230 sequential switching, 246, 249–250, 256 steady state response,"
+    ],
+    "pages": [
+      "633–637"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "539–540, 542–543"
+    ],
+    "title": [
+      "frequency-selective analysis of, 539–540, 542–543, 547–548 general solution for, 241–246, 256 high-pass filters, 547–548 low-pass filters"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "256 time constant (τ), 223–224, 226–227, 256 unbounded response, 250–251, 256 voltage (v) expression, 226"
+    ],
+    "pages": [
+      "233–237, 241–246,"
+    ],
+    "title": [
+      "quantitative analysis, 546–547 sequential switching, 246–249, 256 step response of"
+    ],
+    "type": null,
+    "volume": [
+      "220"
+    ]
+  },
+  {
+    "note": [
+      "Resistor-inductor-capacitor (RLC) circuits, 272–317, 489–490, 551–559, 560–563, 637–638 bandwidth (β), 553–554, 556 center frequency (ωo),",
+      "309 cutoff frequency (ωc), 553, 556 damped radian frequency (ωd), 282, 293, 301 direct approach for, 291–292, 637–638 Fourier series approach for, 637–638 frequency-selective circuit analysis, 551–559, 560–563 indirect approach for, 290–291 inductor current for, 289–290"
+    ],
+    "pages": [
+      "300–301,"
+    ],
+    "title": [
+      "552–554 characteristic equations for, 275–276, 293, 297, 299, 301, 309 clock for computer timing, 273, 308–309 critically damped voltage response"
+    ],
+    "type": null,
+    "volume": [
+      "286–289, 291–293, 298–299"
+    ]
+  },
+  {
+    "pages": [
+      "489–490"
+    ],
+    "title": [
+      "integrating amplifiers in cascade, 303–308, 310 Laplace transform method for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "sensitivity analysis of"
+    ],
+    "pages": [
+      "131–134 – , 62–63"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "93"
+    ]
+  },
+  {
+    "pages": [
+      "301"
+    ],
+    "title": [
+      "parallel RLC circuits, 276, 293 series RLC circuits"
+    ],
+    "type": null,
+    "volume": [
+      "297, 299"
+    ]
+  },
+  {
+    "pages": [
+      "677–678"
+    ],
+    "title": [
+      "Fourier transforms for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "steady-state analysis of"
+    ],
+    "pages": [
+      "323–324, 361"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "318"
+    ]
+  },
+  {
+    "pages": [
+      "482–535"
+    ],
+    "title": [
+      "initial-value theorem for, 472–474, 477 inverse Laplace transforms for, 460–470, 476 Kirchhoff’s laws in, 487 Laplace transform method applications"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "476 partial fraction expansion, 461–470, 502–505 poles of F(s), 470–472, 476, 502 rational functions (F(s)) and, 460–470 superposition applications in, 499–500"
+    ],
+    "pages": [
+      "453–458,"
+    ],
+    "title": [
+      "Laplace transform (F(s)) of, 460–474, 476–477 mutual inductance circuit in, 497–498 Ohm’s law in, 484, 486 operational transforms for"
+    ],
+    "type": null,
+    "volume": [
+      "447"
+    ]
+  },
+  {
+    "container-title": [
+      "relationships"
+    ],
+    "note": [
+      "477 transfer function (H(s)), 500–513, 521 transform pairs, 452–453, 469"
+    ],
+    "pages": [
+      "453–458, 472–474,"
+    ],
+    "title": [
+      "Thévenin equivalent circuit in, 495–496 time domain (t"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "446"
+    ]
+  },
+  {
+    "date": [
+      "199–201"
+    ],
+    "pages": [
+      "211"
+    ],
+    "title": [
+      "Faraday’s law for, 203–204 mutual inductance and, 199–200, 206–207, 211 polarity of induced voltages"
+    ],
+    "type": null,
+    "volume": [
+      "204"
+    ]
+  },
+  {
+    "container-title": [
+      "Sequential switching"
+    ],
+    "pages": [
+      "256"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "246–250"
+    ]
+  },
+  {
+    "pages": [
+      "246–249, 256"
+    ],
+    "title": [
+      "resistor-inductor (RL) circuits with"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "546–548"
+    ],
+    "title": [
+      "frequency domain, 334–335, 337 frequency-selective circuits, 539–540, 542–544, 546–548 high-pass filters"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "708–709"
+    ],
+    "title": [
+      "Series–parallel connections, 62–63, 708–709 simplification of, 62–63 two-port circuits"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Series RLC circuits",
+      "bandpass filters"
+    ],
+    "pages": [
+      "296–303,",
+      "551–555, 557–563, 578–579",
+      "557–559"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "272, 274",
+      "310",
+      "551–555"
+    ]
+  },
+  {
+    "pages": [
+      "552–553, 562"
+    ],
+    "title": [
+      "critically damped response, 297, 297–299, 301 cutoff frequency (ωc"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "115–118, 121"
+    ],
+    "title": [
+      "delta-to-wye (Δ-to-Y) transformation, 75–78 series–parallel simplification, 62–63 source transformation"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "94–95"
+    ],
+    "title": [
+      "Simultaneous equations, 94–96, 718–726 applications of, 723–726 back-substitution method for, 721–722, 726 calculator and computer methods for, 719–721, 724–726 characteristic determinant of, 722–723 circuit analysis using, 94–96 Cramer’s method for, 722–724 essential nodes and branches for, 95–96 Kirchhoff’s laws for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Sine functions"
+    ],
+    "pages": [
+      "650"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "631–632"
+    ]
+  },
+  {
+    "pages": [
+      "418–421, 435"
+    ],
+    "title": [
+      "Single-phase equivalent circuits"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Sinusoidal sources"
+    ],
+    "pages": [
+      "491–492"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "318–323, 361"
+    ]
+  },
+  {
+    "pages": [
+      "323–324",
+      "320–322"
+    ],
+    "title": [
+      "steady-state analysis and, 318–323, 361 steady-state response from"
+    ],
+    "type": null,
+    "volume": [
+      "319",
+      "voltage (v"
+    ]
+  },
+  {
+    "container-title": [
+      "bilateral configurations",
+      "Source transformation"
+    ],
+    "pages": [
+      "115–118,",
+      "340–343",
+      "115–116"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "92",
+      "121, 134"
+    ]
+  },
+  {
+    "note": [
+      "impedance (Z) for, 340–343"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "340–343"
+    ],
+    "title": [
+      "Norton equivalent circuits from, 121, 340–341 resistive circuit simplification, 92, 115–118, 121, 134 steady-state circuit analysis"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "517–520"
+    ],
+    "title": [
+      "Laplace transform method for"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "359–360"
+    ],
+    "title": [
+      "delta-to-wye (Δ-to-Y) transformations, 338–340 frequency domain of, 327–357 household distribution circuit"
+    ],
+    "type": null,
+    "volume": [
+      "319"
+    ]
+  },
+  {
+    "note": [
+      "340–343 transformers, 347–356, 361 voltage to current (v–i) relationships, 327–331, 361"
+    ],
+    "title": [
+      "sinusoidal sources for, 318–323, 361 source transformations for, 340–343 Thévenin equivalent circuit for"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "direct approach to, 635–638, 650 Fourier series approach for, 621–622, 633–638, 650"
+    ],
+    "pages": [
+      "678"
+    ],
+    "title": [
+      "Steady-state current component, 324 Steady-state response"
+    ],
+    "type": null,
+    "volume": [
+      "227, 318, 323–324, 361, 511–513, 521, 621–622, 633–638, 650"
+    ]
+  },
+  {
+    "container-title": [
+      "sinusoidal sources of"
+    ],
+    "pages": [
+      "318",
+      "323–324"
+    ],
+    "title": [
+      "periodic functions used for, 621–622 periodic voltage and, 633–637 RC circuit periodic voltage response, 633–637 RLC circuit square-wave voltage response, 637–638 sinusoidal analysis conditions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "318"
+    ]
+  },
+  {
+    "container-title": [
+      "waveforms of"
+    ],
+    "pages": [
+      "635–636"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "Step function (Ku(t)), 447–448, 476"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "damped radian frequency (ωd), 293, 301 direct approach for, 291–292 general solution for, 241–246, 256 indirect approach for, 290–291"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Neper frequency (α), 293, 301 overdamped response, 291–293, 300–301 parallel, 272, 289–296 resistor-capacitor (RC) circuits, 220, 238–246, 256 resistor-inductor (RL) circuits, 220, 233–237, 241–246, 256 resistor-inductor-capacitor (RLC) circuits, 289–296,"
+    ],
+    "pages": [
+      "309–310, 489–490"
+    ],
+    "type": null,
+    "volume": [
+      "300–303"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Supernodes"
+      }
+    ],
+    "pages": [
+      "101–102"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Superposition"
+    ],
+    "pages": [
+      "129–131,",
+      "499–500",
+      "499–500"
+    ],
+    "title": [
+      "circuit analysis using, 92, 129–131, 135 dependent sources and, 130–131 Laplace transform method using"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "92",
+      "135"
+    ]
+  },
+  {
+    "pages": [
+      "625–630, 649"
+    ],
+    "title": [
+      "Fourier coefficient, effects on"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "– , 626–627"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Tee (T) interconnection, 76 Terminals,",
+      "negative feedback and, 153–154, 172 Norton equivalent circuits and, 120–123"
+    ],
+    "pages": [
+      "43–44, 118–126, 152–156,",
+      "692–717",
+      "43–44"
+    ],
+    "title": [
+      "circuit behavior and, 118–126, 152–156 current of, 152–156, 172 measurements for circuit construction"
+    ],
+    "type": null,
+    "volume": [
+      "38",
+      "172",
+      "38"
+    ]
+  },
+  {
+    "pages": [
+      "692–717"
+    ],
+    "title": [
+      "two-port circuits"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Terminals"
+    ],
+    "note": [
+      "Terminated two-port circuits, 703–708"
+    ],
+    "pages": [
+      "43–44, 118–126, 152–156,",
+      "692–717"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38",
+      "172"
+    ]
+  },
+  {
+    "container-title": [
+      "Thévenin equivalent circuits"
+    ],
+    "note": [
+      "amplifier circuit analysis using, 125–126 impedance (Z) in, 340–341 frequency-domain circuit simplification, 340–341,343"
+    ],
+    "pages": [
+      "118–126,",
+      "495–496"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "92",
+      "135, 340–341, 343"
+    ]
+  },
+  {
+    "pages": [
+      "495–496"
+    ],
+    "title": [
+      "Laplace transform method for"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "balanced conditions"
+    ],
+    "note": [
+      "impedance relationships, 422 instantaneous power in, 427–428"
+    ],
+    "pages": [
+      "416–417,",
+      "433–435"
+    ],
+    "title": [
+      "435 basic circuit use and characteristics, 412, 414 delta (Δ) loads, 426–427 electric power transmission and distribution"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "412",
+      "413"
+    ]
+  },
+  {
+    "pages": [
+      "429–430"
+    ],
+    "title": [
+      "single-phase equivalent circuit for, 418–421, 435 unspecified loads"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "416–421, 428"
+    ],
+    "title": [
+      "wye-wye (Y-Y) circuit analysis"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "circuits"
+    ],
+    "note": [
+      "Time constant (τ), 223–224, 226–227, 229, 256 resistor-capacitor (RC"
+    ],
+    "pages": [
+      "256"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "229"
+    ]
+  },
+  {
+    "container-title": [
+      "relationships",
+      "functional transforms"
+    ],
+    "note": [
+      "Fourier transform (f(t)), 662–663, 671–672,",
+      "476 impulse function (KΔ(t)), 449–451, 476 initial-value theorem for, 472–474, 477"
+    ],
+    "pages": [
+      "679–685,",
+      "472–474,",
+      "559–560",
+      "452–453,"
+    ],
+    "title": [
+      "686 frequency domain (s"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "674",
+      "446",
+      "477, 545",
+      "447"
+    ]
+  },
+  {
+    "pages": [
+      "447–448, 476"
+    ],
+    "title": [
+      "Parseval’s theorem, 679–685, 686 sifting property and, 450–451 step function (Ku(t"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Time-invariant circuits"
+    ],
+    "pages": [
+      "521"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "504–505"
+    ]
+  },
+  {
+    "container-title": [
+      "capacitance of",
+      "resistive circuits of"
+    ],
+    "pages": [
+      "209–210",
+      "78–80"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "183",
+      "59"
+    ]
+  },
+  {
+    "note": [
+      "Transducers (strain gages),"
+    ],
+    "pages": [
+      "171–172"
+    ],
+    "type": null,
+    "volume": [
+      "151"
+    ]
+  },
+  {
+    "pages": [
+      "500–501"
+    ],
+    "title": [
+      "bandreject filters, 561, 563, 565 Butterworth filters, 592–593 circuit analysis and, 501–502, 504–505 convolution integral and, 505–511, 521 defined"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "time-invariant circuits"
+    ],
+    "pages": [
+      "521"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "504–505"
+    ]
+  },
+  {
+    "container-title": [
+      "Transform pairs"
+    ],
+    "pages": [
+      "469"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "452–453"
+    ]
+  },
+  {
+    "pages": [
+      "347–356"
+    ],
+    "title": [
+      "equivalent circuits with, 737–740 frequency domain analysis of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "347–356, 361"
+    ],
+    "title": [
+      "self-impedance of, 348 self-inductance of, 347–348, 351–352 steady-state analysis of"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "698–699, 701 – , 708–709 – , 708–709"
+    ],
+    "title": [
+      "parameters for, 695–703, 712 reciprocal, 701–702, 712 relationships among"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "unknown circuit characterization"
+    ],
+    "note": [
+      "z parameters, 696–697, 703–706 Unbounded response, 250–251, 256"
+    ],
+    "pages": [
+      "711–712"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "693"
+    ]
+  },
+  {
+    "pages": [
+      "297–299, 301"
+    ],
+    "title": [
+      "Underdamped response, 282–286, 291–293, 297–299, 300–301, 309 natural response, 282–286, 297–300, 309 parallel RLC circuits, 282–286, 291–293, 309 series RLC circuits"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Unit impulse response (h(t)), 504–511 Unit prefixes, 10–11 Unit step function (u(t)), 447, 452, 476, 669 Unknown circuit characterization, 693, 711–712 Vampire (standby) power analysis,"
+    ],
+    "pages": [
+      "399–400"
+    ],
+    "type": null,
+    "volume": [
+      "375"
+    ]
+  },
+  {
+    "note": [
+      "Volt-amp reactive (VAR), unit of, 379, 385, 401 Volt-amps (VA), unit of, 384–385, 401"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "199–201, 203–204"
+    ],
+    "note": [
+      "435, 631–641, 645–647, 684–685 a-, b-, and c-phase references, 414"
+    ],
+    "pages": [
+      "70–73,",
+      "152–156,",
+      "184–186,",
+      "417–419,"
+    ],
+    "type": null,
+    "volume": [
+      "Voltage (v), 12–17, 34, 40, 42, 46, 50, 58",
+      "80",
+      "172",
+      "211, 226, 229, 274, 320–322, 332–333, 354–355, 414"
+    ]
+  },
+  {
+    "pages": [
+      "12–14"
+    ],
+    "title": [
+      "electric charge and"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "354–355"
+    ],
+    "title": [
+      "Fourier series applications, 631–641, 645–647 frequency domain"
+    ],
+    "type": null,
+    "volume": [
+      "332–333"
+    ]
+  },
+  {
+    "container-title": [
+      "circuits"
+    ],
+    "note": [
+      "resistor-inductor-capacitor (RLC"
+    ],
+    "pages": [
+      "637–638"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "274"
+    ]
+  },
+  {
+    "container-title": [
+      "Voltage sources"
+    ],
+    "pages": [
+      "415"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28–31, 50"
+    ]
+  },
+  {
+    "date": [
+      "521 capacitors"
+    ],
+    "issue": [
+      "tors"
+    ],
+    "note": [
+      "Voltage to current (v–i) relationships, 184–185,",
+      "361 steady-state analysis and, 327–330, 361 Watt (W), unit of, 384–385, 401 Waveforms, 618, 620, 623–629, 633, 635–636, 650 even periodic function, 625–626 half-wave periodic function, 627–628"
+    ],
+    "pages": [
+      "484–485,",
+      "329–330,",
+      "327–328,"
+    ],
+    "title": [
+      "361 circuit analysis and, 184–185, 190 inductors, 184–185, 328–329, 361 Laplace transform method using, 484–485, 521 phasor domain of"
+    ],
+    "type": null,
+    "volume": [
+      "190, 327–330, 361",
+      "190"
+    ]
+  },
+  {
+    "genre": [
+      "steady-state response,"
+    ],
+    "pages": [
+      "635–636"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "416–421, 428"
+    ],
+    "title": [
+      "Wye-delta (Y-Δ) circuits, 422–425, 428–429 analysis of balanced, 422–425 power calculations for, 428–429 Wye-wye (Y-Y) circuits"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Zero frequency, 544 Zeros, 470–472, 476, 502, 743–744, 750–751 Bode plots and, 743–744, 750–751"
+    ],
+    "type": null
+  }
+]
