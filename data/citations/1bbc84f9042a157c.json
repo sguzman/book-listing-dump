@@ -1,0 +1,97 @@
+[
+  {
+    "citation-number": [
+      "3.47"
+    ],
+    "container-title": [
+      "Hint: A sweep of RL values can determine the particular value of RL for which VCEQ 1⁄4 VCC =2",
+      "Ans"
+    ],
+    "issue": [
+      "4"
+    ],
+    "note": [
+      "Netlist code available at author website.) Ans: RL 7:74 k"
+    ],
+    "title": [
+      "The circuit of Problem 3-28(a) has -independent bias ðRE 10RB =Þ. Find the allowable range of if ICQ can change at most 2 percent from its value for 1⁄4 110",
+      "3.48 For the circuit of Fig. 3-27, vS 1⁄4 0:25 cos !t V; RB 1⁄4 30 k; VB 1⁄4 1 V, and VCC 1⁄4 12 V. The transistor is described by the default npn model. If VCEsat ’ 0 and ICBO 1⁄4 0, use SPICE methods to determine the range of RL for class A operation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "86"
+    ]
+  },
+  {
+    "citation-number": [
+      "3.49"
+    ],
+    "container-title": [
+      "Let"
+    ],
+    "issue": [
+      "5"
+    ],
+    "note": [
+      "k, and RC 1⁄4 5 k. Assume the transistor is an Si device with ICEO 1⁄4 VCEsat 1⁄4 0 and 1⁄4 80. Ans: 477:4 k"
+    ],
+    "title": [
+      "If an emitter resistor is added to the circuit of Fig. 3-17, find the value of RF needed to bias for maximum symmetrical swing"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "10.7"
+    ],
+    "note": [
+      "Since D 1⁄4 0:6 > Dmin 1⁄4 0:4286, continuous inductor current is assured. Also, by (10.5),"
+    ],
+    "title": [
+      "Find the maximum and minimum values of the inductor current for the buck converter of Problem 10.2 if the duty cycle D 1⁄4 0:6 and V1 1⁄4 24 V"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10.17"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "Imax 1⁄4 2:4 A; Imin 1⁄4 0"
+    ],
+    "title": [
+      "Find the values of Imax and Imin for the buck converter of Example 10.5 if the value of L 1⁄4 Lc 1⁄4 50 H, as determined in Problem 10.16"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10.25"
+    ],
+    "location": [
+      "Ans"
+    ],
+    "note": [
+      "GI 1⁄4 ð1 DÞ=D"
+    ],
+    "pages": [
+      "10–6"
+    ],
+    "title": [
+      "Use the procedure of Problem 10.3 to find an expression for the current gain GI 1⁄4 I2 =I1 for the ideal buckboost converter of Fig"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Bipolar junction transistors (BJT) (continued) Common-source (CS) amplifier, 200, 201–202 dc load lines in, 78–81 Common-source (CS) JFET, 103 high-frequency hybrid- model for, 232–234 Conductance, 1 nonlinear-element stabilization of, 139–140 Constant-base-current bias, 136–137"
+    ],
+    "type": "webpage"
+  }
+]
