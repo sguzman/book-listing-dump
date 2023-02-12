@@ -1,0 +1,94 @@
+[
+  {
+    "author": [
+      {
+        "family": "console=Console",
+        "given": "NewL"
+      },
+      {
+        "given": "TSize"
+      }
+    ],
+    "pages": [
+      "–"
+    ],
+    "title": [
+      "CleanupStack::PushL(console); console->Printf(_L(\"Active Object Example\")); console->Printf(_L(\"Press Key to Begin\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CActiveScheduler* mySched = new (ELeave) CActiveScheduler; CleanupStack::PushL(mySched);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "_LIT(KActiveComplete,\"Scheduler exited, cleanup\"); console->Printf(_L(\"%S\\n\"),&KActiveComplete); iLog.Write(KActiveComplete); iLog.Close();"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10/04/2005"
+    ],
+    "note": [
+      "RunL 10/04/2005 9:03:45CPrimaryTask: RunL 10/04/2005 9:03:46CBackground RunL 10/04/2005 9:03:46CPrimaryTask: RunL 10/04/2005 9:03:47CPrimaryTask: RunL 10/04/2005 9:03:49CPrimaryTask: RunL"
+    ],
+    "title": [
+      "9:03:31CPrimaryTask: RunL 10/04/2005 9:03:32CPrimaryTask: RunL 10/04/2005 9:03:33CPrimaryTask: RunL 10/04/2005 9:03:34CBackground RunL 10/04/2005 9:03:34CPrimaryTask: RunL 10/04/2005 9:03:35CPrimaryTask: RunL 10/04/2005 9:03:36CPrimaryTask: RunL 10/04/2005 9:03:37CPrimaryTask: RunL 10/04/2005 9:03:38CBackground RunL 10/04/2005 9:03:38CPrimaryTask: RunL 10/04/2005 9:03:40CPrimaryTask: RunL 10/04/2005 9:03:41CPrimaryTask: RunL 10/04/2005 9:03:42CBackground RunL 10/04/2005 9:03:42CPrimaryTask: RunL 10/04/2005 9:03:43CPrimaryTask: RunL 10/04/2005 9:03:44CPrimaryTask"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10/04/2005"
+    ],
+    "title": [
+      "9:03:50CPrimaryTask: RunL 10/04/2005 9:03:50CBackground RunL 10/04/2005 9:03:51CPrimaryTask: RunL 10/04/2005 9:03:52CPrimaryTask: RunL 10/04/2005 9:03:53Scheduler exited, cleanup"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The following example illustrates this"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The application P.EXE is linked to the library L1.DLL. The library L1.DLL is linked to the library L0.DLL"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ReAlloc"
+    ],
+    "note": [
+      "basic data types 82–3 RecvFrom 310–11, 314–15 C++ in Symbian OS 81–2, RecvOneOrMore 310–11,"
+    ],
+    "pages": [
+      "282–3 193–4, 250–6, 262–3, 235–65",
+      "171 278–83, 339–40"
+    ],
+    "title": [
+      "wildcard searches 208 concepts 60–6, 116–17, Ptr 183–4, 187–91 programming basics 81–113, 125–6 PtrZ 183–4 235–65, 293–324, 325–93 executed-in-place code 60–6 PushL 94–102, 110, 111–12, asynchronous functions ReadL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "220–8",
+      "169"
+    ]
+  },
+  {
+    "note": [
+      "SIM) 4 multitasking aspects 11, 56–7, State 375 suffixes, naming conventions 128, 237–8 state machines, active objects 93–103, 111–12 naming conventions 58, 70,"
+    ],
+    "title": [
+      "StartRunning 259–63 workings 289 historical background 10–13 StartServer 273–4, 277–80, sub-strings, descriptors 174–7 kernel 55–6, 62–8 285–7 Subscriber Identification Module memory 60–6 StartThreadL 214–15"
+    ],
+    "type": null
+  }
+]
