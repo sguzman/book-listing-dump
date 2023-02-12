@@ -1,0 +1,85 @@
+[
+  {
+    "citation-number": [
+      "196"
+    ],
+    "title": [
+      "FPGAs: Instant Access"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "CH008-H8974.indd 196 6/21/2008 6:59:02 PM Index"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "38–40 pipelining, 62–3 multiple standards, 39 resource sharing, 67–8 intellectual property (IP), 40–4 state machine encoding, 68 block/core generators, 43–4 test methodologies, 69 handcrafted IP, 41–3 ASMBL architecture, 185, 193 logic blocks: Assertion, definition of, 176 LUT-based approach, 20–1 Assertion-based verification (ABV), 175 w w w.new nespress.com"
+    ],
+    "title": [
+      "embedded RAMs, 27 migration: fine-grained architecture, 18, 19 ASIC-to-FPGA, 71–2 general-purpose I/O: FPGA only, 69 configurable I/O impedances, 37 FPGA-to-ASIC, 70–1 configurable I/O standards, 36–7 FPGA-to-FPGA, 69–70 gigabit transceivers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "198 Index"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "algorithm",
+        "given": "D.S.P."
+      }
+    ],
+    "note": [
+      "fixed-point verification IP, 171–2 representations, 133–4 Device under test (DUT), 171, 172 system-level design and simulation Digital signal processing (DSP), 3–4 environments, 133 DSP-based design flows, 125 system/algorithmic level, to C/C⫹⫹, alternative implementations, 126–31 137–8 FPGA-centric design flows, 131–9 system/algorithmic level, to RTL, mixed DSP and VHDL/Verilog 134–6, 136–7 environments, 139–40 testbench, 139 Direct Programming Interface (DPI), 102 w w w.new nespress.com"
+    ],
+    "title": [
+      "128–30 resynthesis, 169 DSP-related embedded FPGA retiming, 168 resources, 130–1 simulation tool: software running on DSP core, 127–8 cycle-based simulators, 163–165 system-level evaluation and algorithmic delay modeling, 160–3 verification, 126–7 event-driven logic simulators, 156–8 embedded processor-based design flows, logic simulator, choosing, 165–6 140 logic values, 158–9 hard microprocessor cores, 142–3 mixed-language simulation, 159–60 soft microprocessor cores, 143–4 timing analysis: FPGA, using: static timing analysis (STA), 169–70 as its own developmental environment, statistical static timing analysis, 170–1 147 verification: FPGA-centric design flows, for DSPs, 131 environments, 173 block-level IP environments, 138–9 simulation results, analyzing, 174 domain-specific languages, 131–3 testbenches creation, 173 floating-point vs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "200"
+    ],
+    "container-title": [
+      "Domain-specific languages (DSLs"
+    ],
+    "date": [
+      "193"
+    ],
+    "note": [
+      "technologies: software running, on DSP core, 127–8 antifuse technology, 7–8 system-level evaluation and algorithmic FLASH-based technologies, 9–11 verification, 126–7 fusible-link technology, 4–6 DSP-based design flows, 125–6 SRAM-based technology, 8–9 DSP-related embedded FPGA resources, 130–1 Fine-grained architecture, 18, 19 Dynamic formal verification, 175 Firm IP, 41 vs. static formal verification, 179–82 Fixed-point representations: Dynamic RAM (DRAM), 8 vs. floating-point representations, 133–4"
+    ],
+    "pages": [
+      "131–2 185,",
+      "1–3 130–1"
+    ],
+    "title": [
+      "Index Distributed RAMs, 26, 53, 188 Field programmable analog arrays (FPAAs",
+      "DSP algorithm, 128–30 Field programmable gate arrays (FPGAs) DSP implementations, 126 applications, 3–4 DSP algorithms, 128–30 definition, 1 DSP-related embedded FPGA resources, need for"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "108"
+    ]
+  },
+  {
+    "note": [
+      "202 Index"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "204 Index"
+    ],
+    "type": null
+  }
+]
