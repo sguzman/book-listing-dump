@@ -1,0 +1,6603 @@
+[
+  {
+    "note": [
+      "| Korth, Henry F., author. | Sudarshan, S., author."
+    ],
+    "title": [
+      "Library of Congress Cataloging-in-Publication Data Names: Silberschatz, Abraham, author"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Korth",
+        "given": "Henry F."
+      },
+      {
+        "family": "Lehigh University",
+        "given": "S.Sudarshan"
+      }
+    ],
+    "container-title": [
+      "Identifiers: LCCN 2018060474 | ISBN 9780078022159"
+    ],
+    "date": [
+      "2020"
+    ],
+    "edition": [
+      "Description: Seventh"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "note": [
+      "alk. paper) | ISBN 0078022150 (alk. paper) Subjects: LCSH: Database management."
+    ],
+    "publisher": [
+      "Yale University",
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Title: Database system concepts/Abraham Silberschatz",
+      "Indian Institute of Technology, Bombay",
+      "| Includes bibliographical references"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "LC record available at"
+    ],
+    "pages": [
+      "005 74– 23"
+    ],
+    "title": [
+      "Classification: LCC QA76.9.D3 S5637 2020 |"
+    ],
+    "type": null,
+    "url": [
+      "https://lccn.loc.gov/2018060474"
+    ],
+    "volume": [
+      "DDC"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Abadi"
+      },
+      {
+        "others": true
+      },
+      {
+        "literal": "D. Abadi, R. Agrawal, A. Ailamaki, M. Balazinska, P. A. Bernstein, M. J. Carey, S. Chaudhuri, J. Dean, A. Doan, M. J. Franklin, J. Gehrke, L. M. Haas, A. Y. Halevy, J. M. Hellerstein, Y. E. Ioannidis, H. Jagadish, D. Kossmann, S. Madden, S. Mehrotra, T. Milo, J. F. Naughton, R. Ramakrishnan, V. Markl, C. Olston, B. C. Ooi, C. RÂ ́e, D. Suciu, M. Stonebraker, T. Walter, and J. Widom"
+      }
+    ],
+    "container-title": [
+      "“The Beckman Report on Database Research”, Communications of the ACM"
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "pages": [
+      "92–99"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Codd (1970)] E. F. Codd"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "377–387"
+    ],
+    "title": [
+      "A Relational Model for Large Shared Data Banks”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Date",
+        "given": "C.J."
+      },
+      {
+        "family": "Wesley",
+        "given": "Addison"
+      },
+      {
+        "family": "Elmasri",
+        "given": "R."
+      },
+      {
+        "family": "Navathe",
+        "given": "S.B."
+      },
+      {
+        "family": "Wesley",
+        "given": "Addison"
+      },
+      {
+        "family": "Garcia-Molina",
+        "given": "H."
+      },
+      {
+        "family": "Ullman",
+        "given": "J.D."
+      },
+      {
+        "family": "Widom",
+        "given": "J.D."
+      },
+      {
+        "family": "Kifer",
+        "given": "M."
+      },
+      {
+        "family": "Bernstein",
+        "given": "A."
+      },
+      {
+        "family": "Lewis",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2003",
+      "2003",
+      "2016",
+      "2008",
+      "2008",
+      "2005",
+      "2000"
+    ],
+    "edition": [
+      "8th",
+      "7th",
+      "2nd",
+      "2nd",
+      "2nd"
+    ],
+    "note": [
+      "Elmasri and Navathe (2016)",
+      "Kifer et al. (2005)",
+      "O’Neil and O’Neil (2000)] P. O’Neil and E. O’Neil, Database: Principles, Programming, Performance,",
+      "Ramakrishnan and Gehrke (2002)] R. Ramakrishnan and J. Gehrke, Database Management Systems, 3rd edition, McGraw Hill (2002)."
+    ],
+    "publisher": [
+      "Prentice Hall",
+      "Addison Wesley",
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "An Introduction to Database Systems",
+      "Fundamentals of Database Systems",
+      "Garcia-Molina et al",
+      "Database Systems: The Complete Book",
+      "Database Systems: An Application Oriented Approach, Complete Version"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Abiteboul"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Abiteboul",
+        "given": "S."
+      },
+      {
+        "family": "Hull",
+        "given": "R."
+      },
+      {
+        "family": "Vianu",
+        "given": "V."
+      }
+    ],
+    "date": [
+      "1995",
+      "1995"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Foundations of Databases"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Codd (1970)] E. F. Codd"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "377–387"
+    ],
+    "title": [
+      "A Relational Model for Large Shared Data Banks”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Codd (1982)] E. F. Codd"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "109–117"
+    ],
+    "title": [
+      "The 1981 ACM Turing Award Lecture: Relational Database: A Practical Foundation for Productivity”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Chamberlin"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Chamberlin",
+        "given": "D.D."
+      },
+      {
+        "family": "Astrahan",
+        "given": "M.M."
+      },
+      {
+        "family": "Eswaran",
+        "given": "K.P."
+      },
+      {
+        "family": "Griffiths",
+        "given": "P.P."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Mehl",
+        "given": "J.W."
+      },
+      {
+        "family": "Reisner",
+        "given": "P."
+      },
+      {
+        "family": "Wade",
+        "given": "B.W."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1976",
+      "1976"
+    ],
+    "pages": [
+      "560–575"
+    ],
+    "title": [
+      "SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Astrahan"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Astrahan",
+        "given": "M.M."
+      },
+      {
+        "family": "Blasgen",
+        "given": "M.W."
+      },
+      {
+        "family": "Chamberlin",
+        "given": "D.D."
+      },
+      {
+        "family": "Eswaran",
+        "given": "K.P."
+      },
+      {
+        "family": "Gray",
+        "given": "J.N."
+      },
+      {
+        "family": "Griffiths",
+        "given": "P.P."
+      },
+      {
+        "family": "King",
+        "given": "W.F."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "McJones",
+        "given": "P.R."
+      },
+      {
+        "family": "Mehl",
+        "given": "J.W."
+      },
+      {
+        "family": "Putzolu",
+        "given": "G.R."
+      },
+      {
+        "family": "Traiger",
+        "given": "I.L."
+      },
+      {
+        "family": "Wade",
+        "given": "B.W."
+      },
+      {
+        "family": "Watson",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1976",
+      "1976"
+    ],
+    "pages": [
+      "97–137"
+    ],
+    "title": [
+      "System R, A Relational Approach to Data Base Management”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Chamberlin"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Chamberlin",
+        "given": "D.D."
+      },
+      {
+        "family": "Astrahan",
+        "given": "M.M."
+      },
+      {
+        "family": "Eswaran",
+        "given": "K.P."
+      },
+      {
+        "family": "Griffiths",
+        "given": "P.P."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Mehl",
+        "given": "J.W."
+      },
+      {
+        "family": "Reisner",
+        "given": "P."
+      },
+      {
+        "family": "Wade",
+        "given": "B.W."
+      }
+    ],
+    "container-title": [
+      "IBM Journal of Research and Development"
+    ],
+    "date": [
+      "1976",
+      "1976"
+    ],
+    "pages": [
+      "560–575"
+    ],
+    "title": [
+      "SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Chamberlin"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Chamberlin",
+        "given": "D.D."
+      },
+      {
+        "family": "Astrahan",
+        "given": "M.M."
+      },
+      {
+        "family": "Blasgen",
+        "given": "M.W."
+      },
+      {
+        "family": "Gray",
+        "given": "J.N."
+      },
+      {
+        "family": "King",
+        "given": "W.F."
+      },
+      {
+        "family": "Lindsay",
+        "given": "B.G."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Mehl",
+        "given": "J.W."
+      },
+      {
+        "family": "Price",
+        "given": "T.G."
+      },
+      {
+        "family": "Selinger",
+        "given": "P.G."
+      },
+      {
+        "family": "Schkolnick",
+        "given": "M."
+      },
+      {
+        "family": "Slutz",
+        "given": "D.R."
+      },
+      {
+        "family": "Traiger",
+        "given": "I.L."
+      },
+      {
+        "family": "Wade",
+        "given": "B.W."
+      },
+      {
+        "family": "Yost",
+        "given": "R.A."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1981",
+      "1981"
+    ],
+    "pages": [
+      "632–646"
+    ],
+    "title": [
+      "A History and Evaluation of System R”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24, Number 10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Melton and Simon (2001)] J. Melton and A. R. Simon, SQL:1999"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Understanding Relational Language Components"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Chen (1976)] P. P. Chen"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "9–36"
+    ],
+    "title": [
+      "The Entity-Relationship Model: Toward a Unified View of Data”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "NIST (1993)] NIST"
+      }
+    ],
+    "container-title": [
+      "Technical Report Federal Information Processing Standards Publication 184, National Institute of Standards and Technology (NIST"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Integration Definition for Information Modeling (IDEF1X)”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Thalheim"
+      }
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "title": [
+      "B. Thalheim, Entity-Relationship Modeling: Foundations of Database Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Armstrong (1974)] W. W. Armstrong"
+      }
+    ],
+    "container-title": [
+      "Proc. of the 1974 IFIP Congress"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "580–583"
+    ],
+    "title": [
+      "Dependency Structures of Data Base Relationships”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Codd (1970)] E. F. Codd"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "377–387"
+    ],
+    "title": [
+      "A Relational Model for Large Shared Data Banks”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Codd (1972)] E. F. Codd."
+      }
+    ],
+    "date": [
+      "1972",
+      "1972"
+    ],
+    "editor": [
+      {
+        "literal": "In [Rustin"
+      }
+    ],
+    "pages": [
+      "33–64"
+    ],
+    "title": [
+      "Further Normalization of the Data Base Relational Model”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Maier (1983)] D. Maier"
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "publisher": [
+      "Computer Science Press"
+    ],
+    "title": [
+      "The Theory of Relational Databases"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Rustin (1972)] R. Rustin"
+      }
+    ],
+    "date": [
+      "1972"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Data Base Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Manning"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Manning",
+        "given": "C.D."
+      },
+      {
+        "family": "Raghavan",
+        "given": "P."
+      },
+      {
+        "family": "Schutze",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2008",
+      "2008"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Introduction to Information Retrieval"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Salton (1989)] G. Salton"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "publisher": [
+      "Addison Wesley"
+    ],
+    "title": [
+      "Automatic Text Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Stonebraker (1986)] M. Stonebraker"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Data Engineering"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "262–269"
+    ],
+    "title": [
+      "Inclusion of New Types in Relational Database Systems”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Stonebraker and Rowe (1986)] M. Stonebraker and L. Rowe"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "340–355"
+    ],
+    "title": [
+      "The Design of POSTGRES”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Diffie and Hellman (1976)] W. Diffie and M. E. Hellman"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "644–654"
+    ],
+    "title": [
+      "New Directions in Cryptography”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Katz and Lindell (2014)] J. Katz and Y. Lindell"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Chapman and Hall/CRC"
+    ],
+    "title": [
+      "Introduction to Modern Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Rivest"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Rivest",
+        "given": "R.L."
+      },
+      {
+        "family": "Shamir",
+        "given": "A."
+      },
+      {
+        "family": "Adleman",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1978",
+      "1978"
+    ],
+    "pages": [
+      "120–126"
+    ],
+    "title": [
+      "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Stallings"
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "edition": [
+      "7th"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "W. Stallings, Cryptography and Network Security - Principles and Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Davoudian"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Davoudian",
+        "given": "A."
+      },
+      {
+        "family": "Chen",
+        "given": "L."
+      },
+      {
+        "family": "Liu",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "pages": [
+      "2–42"
+    ],
+    "title": [
+      "A Survey of NoSQL Stores”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Malewicz"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Malewicz",
+        "given": "G."
+      },
+      {
+        "family": "Austern",
+        "given": "M.H."
+      },
+      {
+        "family": "Bik",
+        "given": "A.J.C."
+      },
+      {
+        "family": "Dehnert",
+        "given": "J.C."
+      },
+      {
+        "family": "Horn",
+        "given": "I."
+      },
+      {
+        "family": "Leiser",
+        "given": "N."
+      },
+      {
+        "family": "Czajkowski",
+        "given": "G."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "pages": [
+      "135–146"
+    ],
+    "title": [
+      "Pregel: a system for large-scale graph processing”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Valiant (1990)] L. G. Valiant"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "103–111"
+    ],
+    "title": [
+      "A Bridging Model for Parallel Computation”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33, Number 8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Agrawal"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Agrawal",
+        "given": "R."
+      },
+      {
+        "family": "Imielinski",
+        "given": "T."
+      },
+      {
+        "family": "Swami",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1993",
+      "1993"
+    ],
+    "pages": [
+      "207–216"
+    ],
+    "title": [
+      "Mining Association Rules between Sets of Items in Large Databases”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Baeza-Yates and Ribeiro-Neto (2011)] R. Baeza-Yates and B. Ribeiro-Neto"
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "S."
+      },
+      {
+        "family": "Web",
+        "given": "Mining",
+        "particle": "the"
+      },
+      {
+        "family": "HyperText Data",
+        "given": "Discovering Knowledge",
+        "particle": "from"
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Morgan"
+      },
+      {
+        "given": "Goodfellow"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Goodfellow",
+        "given": "I."
+      },
+      {
+        "family": "Bengio",
+        "given": "Y."
+      },
+      {
+        "family": "Courville",
+        "given": "A."
+      },
+      {
+        "family": "Deep Learning",
+        "given": "M.I.T.Press"
+      },
+      {
+        "family": "Han",
+        "given": "J."
+      },
+      {
+        "family": "Kamber",
+        "given": "M."
+      },
+      {
+        "family": "Pei",
+        "given": "J."
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Morgan"
+      },
+      {
+        "family": "Kimball",
+        "given": "R."
+      },
+      {
+        "family": "Ross",
+        "given": "M."
+      },
+      {
+        "family": "Kimball",
+        "given": "R."
+      },
+      {
+        "family": "Ross",
+        "given": "M."
+      },
+      {
+        "family": "Thornthwaite",
+        "given": "W."
+      },
+      {
+        "family": "Mundy",
+        "given": "J."
+      },
+      {
+        "family": "Becker",
+        "given": "B."
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Morgan"
+      }
+    ],
+    "container-title": [
+      "Introduction to Information Retrieval"
+    ],
+    "date": [
+      "2011",
+      "2002",
+      "2002",
+      "2016",
+      "2016",
+      "2011",
+      "2011",
+      "2013",
+      "2008",
+      "2008",
+      "2008",
+      "2011"
+    ],
+    "edition": [
+      "2nd",
+      "3rd",
+      "3rd"
+    ],
+    "editor": [
+      {
+        "family": "Manning",
+        "given": "C.D."
+      },
+      {
+        "family": "Raghavan",
+        "given": "P."
+      },
+      {
+        "family": "Schutze",
+        "given": "H."
+      }
+    ],
+    "note": [
+      "Kimball and Ross (2013)",
+      "Manning et al. (2008)",
+      "Mitchell (1997)] T. M. Mitchell, Machine Learning, McGraw Hill (1997). [Witten et al. (2011)] I. H. Witten, E. Frank, and M. Hall, Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations,"
+    ],
+    "publisher": [
+      "ACM Press",
+      "John Wiley and Sons",
+      "John Wiley and Sons",
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Modern Information Retrieval",
+      "556 Chapter 11 Data Analytics [Chakrabarti",
+      "Han et al",
+      "Data Mining: Concepts and Techniques",
+      "The Data Warehouse Tookit: The Definitive Guide to Dimensional Modeling”",
+      "Kimball et al",
+      "The Data Warehouse Lifecycle Toolkit”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Chen"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Chen",
+        "given": "P.M."
+      },
+      {
+        "family": "Lee",
+        "given": "E.K."
+      },
+      {
+        "family": "Gibson",
+        "given": "G.A."
+      },
+      {
+        "family": "Katz",
+        "given": "R.H."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1994",
+      "1994"
+    ],
+    "pages": [
+      "145–185"
+    ],
+    "title": [
+      "RAID: High-Performance, Reliable Secondary Storage”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cisco"
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "publisher": [
+      "Cisco"
+    ],
+    "title": [
+      "Cisco UCS Servers RAID Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Hennessy"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Goldberg",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Patterson"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Gibson",
+        "given": "G."
+      },
+      {
+        "family": "Katz",
+        "given": "R.H."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1988",
+      "1988"
+    ],
+    "pages": [
+      "109–116"
+    ],
+    "title": [
+      "A Case for Redundant Arrays of Inexpensive Disks (RAID)”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Pless (1998)] V. Pless"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Introduction to the Theory of Error-Correcting Codes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Abadi"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Abadi",
+        "given": "D.J."
+      },
+      {
+        "family": "Madden",
+        "given": "S."
+      },
+      {
+        "family": "Hachem",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "2008",
+      "2008"
+    ],
+    "pages": [
+      "967–980"
+    ],
+    "title": [
+      "Column-Stores vs. Row-S-tores: How Different Are They Really?”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Chou and Dewitt (1985)] H. T. Chou and D. J. Dewitt"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "127–141"
+    ],
+    "title": [
+      "An Evaluation of Buffer Management Strategies for Relational Database Systems”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Hennessy"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Goldberg",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Idreos"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Idreos",
+        "given": "S."
+      },
+      {
+        "family": "Groffen",
+        "given": "F."
+      },
+      {
+        "family": "Nes",
+        "given": "N."
+      },
+      {
+        "family": "Manegold",
+        "given": "S."
+      },
+      {
+        "family": "Mullender",
+        "given": "K.S."
+      },
+      {
+        "family": "Kersten",
+        "given": "M.L."
+      }
+    ],
+    "container-title": [
+      "IEEE Data Engineering Bulletin"
+    ],
+    "date": [
+      "2012",
+      "2012"
+    ],
+    "pages": [
+      "40–45"
+    ],
+    "title": [
+      "MonetDB: Two Decades of Research in Column-oriented Database Architectures”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Silberschatz"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Silberschatz",
+        "given": "A."
+      },
+      {
+        "family": "Galvin",
+        "given": "P.B."
+      },
+      {
+        "family": "Gagne",
+        "given": "G."
+      },
+      {
+        "family": "Wiley",
+        "given": "John"
+      },
+      {
+        "given": "Sons"
+      },
+      {
+        "family": "Stonebraker",
+        "given": "M."
+      },
+      {
+        "family": "Abadi",
+        "given": "D.J."
+      },
+      {
+        "family": "Batkin",
+        "given": "A."
+      },
+      {
+        "family": "Chen",
+        "given": "X."
+      },
+      {
+        "family": "Cherniack",
+        "given": "M."
+      },
+      {
+        "family": "Ferreira",
+        "given": "M."
+      },
+      {
+        "family": "Lau",
+        "given": "E."
+      },
+      {
+        "family": "Lin",
+        "given": "A."
+      },
+      {
+        "family": "Madden",
+        "given": "S."
+      },
+      {
+        "family": "O’Neil",
+        "given": "E.J."
+      },
+      {
+        "family": "O’Neil",
+        "given": "P.E."
+      },
+      {
+        "family": "Rasin",
+        "given": "A."
+      },
+      {
+        "family": "Tran",
+        "given": "N."
+      },
+      {
+        "family": "Zdonik",
+        "given": "S.B."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "2018",
+      "2018",
+      "2005",
+      "2005"
+    ],
+    "edition": [
+      "10th"
+    ],
+    "pages": [
+      "553–564"
+    ],
+    "title": [
+      "Operating System Concepts",
+      "622 Chapter 13 Data Storage Structures [Stonebraker et al",
+      "C-Store: A Column-oriented DBMS”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Zukowski"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Zukowski",
+        "given": "M."
+      },
+      {
+        "family": "Wiel",
+        "given": "M.",
+        "particle": "van de"
+      },
+      {
+        "family": "Boncz",
+        "given": "P.A."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Data Engineering"
+    ],
+    "date": [
+      "2012",
+      "2012"
+    ],
+    "pages": [
+      "1349–1350"
+    ],
+    "title": [
+      "Vectorwise: A Vectorized Analytical DBMS”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Arge (2003)] L. Arge"
+      }
+    ],
+    "container-title": [
+      "Algorithmica"
+    ],
+    "date": [
+      "2003"
+    ],
+    "pages": [
+      "1–24"
+    ],
+    "title": [
+      "The Buffer Tree: A Technique for Designing Batched External Data Structures”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "37, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bayer (1972)] R. Bayer"
+      }
+    ],
+    "container-title": [
+      "Acta Informatica"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "290–306"
+    ],
+    "title": [
+      "Symmetric Binary B-trees: Data Structure and Maintenance Algorithms”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bayer and McCreight (1972)] R. Bayer and E. M. McCreight"
+      }
+    ],
+    "container-title": [
+      "Acta Informatica"
+    ],
+    "date": [
+      "1972"
+    ],
+    "pages": [
+      "173–189"
+    ],
+    "title": [
+      "Organization and Maintenance of Large Ordered Indices”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bayer and Unterauer (1977)] R. Bayer and K. Unterauer"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "11–26"
+    ],
+    "title": [
+      "Prefix B-trees”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bentley (1975)] J. L. Bentley"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "509–517"
+    ],
+    "title": [
+      "Multidimensional Binary Search Trees Used for Associative Searching”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18, Number 9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Comer (1979)] D. Comer"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "121–137"
+    ],
+    "title": [
+      "The Ubiquitous B-tree”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Reuter (1993)] J. Gray and A. Reuter"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Guttman (1984)] A. Guttman"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "47–57"
+    ],
+    "title": [
+      "R-Trees: A Dynamic Index Structure for Spatial Searching”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Jagadish"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Jagadish",
+        "given": "H.V."
+      },
+      {
+        "family": "Narayan",
+        "given": "P.P.S."
+      },
+      {
+        "family": "Seshadri",
+        "given": "S."
+      },
+      {
+        "family": "Sudarshan",
+        "given": "S."
+      },
+      {
+        "family": "Kanneganti",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 23rd International Conference on Very Large Data Bases, VLDB"
+    ],
+    "date": [
+      "1997",
+      "1997"
+    ],
+    "pages": [
+      "16–25"
+    ],
+    "title": [
+      "Incremental Organization for Data Recording and Warehousing”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "97"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Knuth (1973)] D. E. Knuth"
+      }
+    ],
+    "date": [
+      "1973"
+    ],
+    "publisher": [
+      "Addison Wesley, Sorting and Searching"
+    ],
+    "title": [
+      "The Art of Computer Programming"
+    ],
+    "type": "book",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "O’Neil and Quass (1997)] P. O’Neil and D. Quass"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "38–49"
+    ],
+    "title": [
+      "Improved Query Performance with Variant Indexes”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "O.’Neil"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "O’Neil",
+        "given": "P."
+      },
+      {
+        "family": "Cheng",
+        "given": "E."
+      },
+      {
+        "family": "Gawlick",
+        "given": "D."
+      },
+      {
+        "family": "O’Neil",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Acta Inf"
+    ],
+    "date": [
+      "1996",
+      "1996"
+    ],
+    "pages": [
+      "351–385"
+    ],
+    "title": [
+      "The Log-structured Merge-tree (LSM-tree)”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Robinson (1981)] J. Robinson"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "10–18"
+    ],
+    "title": [
+      "The k-d-B Tree: A Search Structure for Large Multidimensional Indexes”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Samet (2006)] H. Samet"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Foundations of Multidimensional and Metric Data Structures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Shekhar and Chawla (2003)] S. Shekhar and S. Chawla"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Spatial Databases: A TOUR"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Vitter (2001)] J. S. Vitter"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "209–271"
+    ],
+    "title": [
+      "External Memory Algorithms and Data Structures: Dealing with Massive Data”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Faerber"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Faerber",
+        "given": "F."
+      },
+      {
+        "family": "Kemper",
+        "given": "A."
+      },
+      {
+        "family": "Larson",
+        "given": "P.-A."
+      },
+      {
+        "family": "Levandoski",
+        "given": "J."
+      },
+      {
+        "family": "Neumann",
+        "given": "T."
+      },
+      {
+        "family": "Pavlo",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Foundations and Trends in Databases"
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "pages": [
+      "1–130"
+    ],
+    "title": [
+      "Main Memory Database Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, Number 1-2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe (1993)] G. Graefe"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1993"
+    ],
+    "note": [
+      "Further Reading 741"
+    ],
+    "title": [
+      "Query Evaluation Techniques for Large Databases”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Kemper"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kemper",
+        "given": "A."
+      },
+      {
+        "family": "Neumann",
+        "given": "T."
+      },
+      {
+        "family": "Funke",
+        "given": "F."
+      },
+      {
+        "family": "Leis",
+        "given": "V."
+      },
+      {
+        "family": "Muhe",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "IEEE Data Engineering Bulletin"
+    ],
+    "date": [
+      "2012",
+      "2012"
+    ],
+    "pages": [
+      "46–51"
+    ],
+    "title": [
+      "HyPer: Adapting Columnar Main-Memory Data Management for Transaction AND Query Processing”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Manning"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Manning",
+        "given": "C.D."
+      },
+      {
+        "family": "Raghavan",
+        "given": "P."
+      },
+      {
+        "family": "Schutze",
+        "given": "H."
+      }
+    ],
+    "date": [
+      "2008",
+      "2008"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Introduction to Information Retrieval"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Samet (2006)] H. Samet"
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Foundations of Multidimensional and Metric Data Structures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Shekhar and Chawla (2003)] S. Shekhar and S. Chawla"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Pearson"
+    ],
+    "title": [
+      "Spatial Databases: A TOUR"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe (1995)] G. Graefe"
+      }
+    ],
+    "container-title": [
+      "Data Engineering Bulletin"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "19–29"
+    ],
+    "title": [
+      "The Cascades Framework for Query Optimization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe and McKenna (1993)] G. Graefe and W. McKenna"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Data Engineering"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "209–218"
+    ],
+    "title": [
+      "The Volcano Optimizer Generator”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Haas"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Haas",
+        "given": "L.M."
+      },
+      {
+        "family": "Freytag",
+        "given": "J.C."
+      },
+      {
+        "family": "Lohman",
+        "given": "G.M."
+      },
+      {
+        "family": "Pirahesh",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1989",
+      "1989"
+    ],
+    "pages": [
+      "377–388"
+    ],
+    "title": [
+      "Extensible Query Processing in Starburst”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Moerkotte"
+      }
+    ],
+    "date": [
+      "2014",
+      "2014"
+    ],
+    "note": [
+      "retrieved 13 Dec 2018"
+    ],
+    "title": [
+      "G. Moerkotte, Building Query Compilers, available online at"
+    ],
+    "type": null,
+    "url": [
+      "http://pi3."
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Selinger"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Selinger",
+        "given": "P.G."
+      },
+      {
+        "family": "Astrahan",
+        "given": "M.M."
+      },
+      {
+        "family": "Chamberlin",
+        "given": "D.D."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Price",
+        "given": "T.G."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1979",
+      "1979"
+    ],
+    "pages": [
+      "23–34"
+    ],
+    "title": [
+      "Access Path Selection in a Relational Database System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Bernstein and Newcomer (2009)] P. A. Bernstein and E. Newcomer"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Principles of Transaction Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Eswaran"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Eswaran",
+        "given": "K.P."
+      },
+      {
+        "family": "Gray",
+        "given": "J.N."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Traiger",
+        "given": "I.L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1976",
+      "1976"
+    ],
+    "pages": [
+      "624–633"
+    ],
+    "title": [
+      "The Notions of Consistency and Predicate Locks in a Database System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19, Number 11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Reuter (1993)] J. Gray and A. Reuter"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Gray"
+      },
+      {
+        "given": "Reuter"
+      }
+    ],
+    "container-title": [
+      "Bernstein and Newcomer (2009)] provides textbook coverage of various aspects of transaction processing including concurrency control"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "provides detailed textbook coverage of transactionprocessing concepts, including concurrency-control concepts and implementation details"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1976"
+    ],
+    "title": [
+      "The two-phase locking protocol was introduced by [Eswaran et al",
+      "The"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1975",
+      "1983",
+      "1981"
+    ],
+    "note": [
+      "Multiversion timestamp order was introduced in [Reed (1983)]. A multiversion tree-locking algorithm appears in [Silberschatz (1982)]."
+    ],
+    "title": [
+      "locking protocol for multiple-granularity data items is from [Gray et al",
+      "The timestamp-based concurrency-control scheme is from [Reed",
+      "The validation concurrency-control scheme is from [Kung and Robinson"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "in",
+        "given": "Degree-two",
+        "particle": "consistency was introduced"
+      }
+    ],
+    "date": [
+      "1975"
+    ],
+    "note": [
+      "1995)]; the snapshot isolation technique was also introduced in the same paper. Serializable snapshot-isolation was introduced by [Cahill et al. (2009)]; [Ports and Grittner"
+    ],
+    "title": [
+      "The levels of consistency— or isolation— offered in SQL are explained and critiqued in [Berenson et al"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2012"
+    ],
+    "container-title": [
+      "and [Johnson and Shasha (1993)]. The crabbing and B-link tree techniques were introduced by"
+    ],
+    "title": [
+      "describes the implementation of serializable snapshot isolation in PostgreSQL. Concurrency in B+ -trees was studied by [Bayer and Schkolnick (1977"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Kung and Lehman (1980)] and [Lehman and Yao"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "title": [
+      "The technique of key-value locking used in ARIES provides for very high concurrency on B+ -tree access and is de"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Bayer and Schkolnick (1977)] R. Bayer and M. Schkolnick"
+      }
+    ],
+    "container-title": [
+      "Acta Informatica"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "1–21"
+    ],
+    "title": [
+      "Concurrency of Operating on B-trees”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Berenson"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Berenson",
+        "given": "H."
+      },
+      {
+        "family": "Bernstein",
+        "given": "P."
+      },
+      {
+        "family": "Gray",
+        "given": "J."
+      },
+      {
+        "family": "Melton",
+        "given": "J."
+      },
+      {
+        "family": "O’Neil",
+        "given": "E."
+      },
+      {
+        "family": "O’Neil",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1995",
+      "1995"
+    ],
+    "pages": [
+      "1–10"
+    ],
+    "title": [
+      "A Critique of ANSI SQL Isolation Levels”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Bernstein and Newcomer (2009)] P. A. Bernstein and E. Newcomer"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Principles of Transaction Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Cahill"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Cahill",
+        "given": "M.J."
+      },
+      {
+        "family": "Rohm",
+        "given": "U."
+      },
+      {
+        "family": "Fekete",
+        "given": "A.D."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "pages": [
+      "1–20 42"
+    ],
+    "title": [
+      "Serializable isolation for snapshot databases”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34, Number 4",
+      20
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dechev"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Dechev",
+        "given": "D."
+      },
+      {
+        "family": "Pirkelbauer",
+        "given": "P."
+      },
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "IEEE Int’l Symp. on Object/Component/Service-Oriented Real-Time Distributed Computing, (ISORC"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "pages": [
+      "185–192"
+    ],
+    "title": [
+      "Understanding and Effectively Preventing the ABA Problem in Descriptor-Based Lock-Free Designs”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Eswaran"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Eswaran",
+        "given": "K.P."
+      },
+      {
+        "family": "Gray",
+        "given": "J.N."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Traiger",
+        "given": "I.L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1976",
+      "1976"
+    ],
+    "pages": [
+      "624–633"
+    ],
+    "title": [
+      "The Notions of Consistency and Predicate Locks in a Database System”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19, Number 11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Faerber"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Faerber",
+        "given": "F."
+      },
+      {
+        "family": "Kemper",
+        "given": "A."
+      },
+      {
+        "family": "Larson",
+        "given": "P.-A."
+      },
+      {
+        "family": "Levandoski",
+        "given": "J."
+      },
+      {
+        "family": "Neumann",
+        "given": "T."
+      },
+      {
+        "family": "Pavlo",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Foundations and Trends in Databases"
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "pages": [
+      "1–130"
+    ],
+    "title": [
+      "Main Memory Database Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, Number 1-2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Reuter (1993)] J. Gray and A. Reuter"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Gray"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Gray",
+        "given": "J."
+      },
+      {
+        "family": "Lorie",
+        "given": "R.A."
+      },
+      {
+        "family": "Putzolu",
+        "given": "G.R."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1975",
+      "1975"
+    ],
+    "pages": [
+      "428–451"
+    ],
+    "title": [
+      "Granularity of Locks and Degrees of Consistency in a Shared Data Base”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Johnson and Shasha (1993)] T. Johnson and D. Shasha"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "51–101"
+    ],
+    "title": [
+      "The Performance of Concurrent B-Tree Algorithms”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Kung and Lehman (1980)] H. T. Kung and P. L. Lehman"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "339–353"
+    ],
+    "title": [
+      "Concurrent Manipulation of Binary Search Trees”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Kung and Robinson (1981)] H. T. Kung and J. T. Robinson"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "312–326"
+    ],
+    "title": [
+      "Optimistic Concurrency Control”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Lehman and Yao (1981)] P. L. Lehman and S. B. Yao"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "650–670"
+    ],
+    "title": [
+      "Efficient Locking for Concurrent Operations on B-trees”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Mohan (1990)] C. Mohan"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "392–405"
+    ],
+    "title": [
+      "ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operations on B-Tree indexes”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Mohan and Narang (1992)] C. Mohan and I. Narang"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Extending Database Technology"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "453–468"
+    ],
+    "title": [
+      "Efficient Locking and Caching of Data in the Multisystem Shared Disks Transaction Environment”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ports and Grittner (2012)] D. R. K. Ports and K. Grittner"
+      }
+    ],
+    "container-title": [
+      "Proceedings of the VLDB Endowment"
+    ],
+    "date": [
+      "2012"
+    ],
+    "pages": [
+      "1850–1861"
+    ],
+    "title": [
+      "Serializable Snapshot Isolation in PostgreSQL”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "5, Number 12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Reed (1983)] D. Reed"
+      }
+    ],
+    "container-title": [
+      "Transactions on Computer Systems"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "3–23"
+    ],
+    "title": [
+      "Implementing Atomic Actions on Decentralized Data”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Silberschatz (1982)] A. Silberschatz"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM Symposium on Principles of Distributed Computing"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "216–223"
+    ],
+    "title": [
+      "A Multi-Version Concurrency Control Scheme With No Rollbacks”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Bayer"
+      },
+      {
+        "others": true
+      }
+    ],
+    "collection-title": [
+      "of Lecture Notes in Computer Science"
+    ],
+    "container-title": [
+      "Operating Systems: An Advanced Course"
+    ],
+    "date": [
+      "1978",
+      "1978"
+    ],
+    "editor": [
+      {
+        "family": "Bayer",
+        "given": "R."
+      },
+      {
+        "family": "Graham",
+        "given": "R.M."
+      },
+      {
+        "family": "Seegmuller",
+        "given": "G."
+      }
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "type": "chapter",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bernstein and Goodman (1981)] P. A. Bernstein and N. Goodman"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "185–221"
+    ],
+    "title": [
+      "Concurrency Control in Distributed Database Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Faerber"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Faerber",
+        "given": "F."
+      },
+      {
+        "family": "Kemper",
+        "given": "A."
+      },
+      {
+        "family": "Larson",
+        "given": "P.-A."
+      },
+      {
+        "family": "Levandoski",
+        "given": "J."
+      },
+      {
+        "family": "Neumann",
+        "given": "T."
+      },
+      {
+        "family": "Pavlo",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Foundations and Trends in Databases"
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "pages": [
+      "1–130"
+    ],
+    "title": [
+      "Main Memory Database Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, Number 1-2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray (1978)] J. Gray."
+      }
+    ],
+    "date": [
+      "1978",
+      "1978"
+    ],
+    "editor": [
+      {
+        "literal": "In [Bayer et al."
+      }
+    ],
+    "pages": [
+      "393–481"
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "title": [
+      "Notes on Data Base Operating System”"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Reuter (1993)] J. Gray and A. Reuter"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Gray"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Gray",
+        "given": "J."
+      },
+      {
+        "family": "McJones",
+        "given": "P.R."
+      },
+      {
+        "family": "Blasgen",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1981",
+      "1981"
+    ],
+    "pages": [
+      "223–242"
+    ],
+    "title": [
+      "The Recovery Manager of the System R Database Manager”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Haerder and Reuter (1983)] T. Haerder and A. Reuter"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1983"
+    ],
+    "pages": [
+      "287–318"
+    ],
+    "title": [
+      "Principles of Transaction-Oriented Database Recovery”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Mohan"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Mohan",
+        "given": "C."
+      },
+      {
+        "family": "Haderle",
+        "given": "D."
+      },
+      {
+        "family": "Lindsay",
+        "given": "B."
+      },
+      {
+        "family": "Pirahesh",
+        "given": "H."
+      },
+      {
+        "family": "Schwarz",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1992",
+      "1992"
+    ],
+    "pages": [
+      "94–162"
+    ],
+    "title": [
+      "ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Abts and Felderman (2012)] D. Abts and B. Felderman"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2012"
+    ],
+    "pages": [
+      "44–51"
+    ],
+    "title": [
+      "A Guided Tour of Datacenter Networking”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Reuter (1993)] J. Gray and A. Reuter"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Transaction Processing: Concepts and Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Hennessy"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Hennessy",
+        "given": "J.L."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Goldberg",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "edition": [
+      "6th"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ozsu and Valduriez (2010)] T. Ozsu and P. Valduriez"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "edition": [
+      "3nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Principles of Distributed Database Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Baker"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Baker",
+        "given": "J."
+      },
+      {
+        "family": "Bond",
+        "given": "C."
+      },
+      {
+        "family": "Corbett",
+        "given": "J.C."
+      },
+      {
+        "family": "Furman",
+        "given": "J.J."
+      },
+      {
+        "family": "Khorlin",
+        "given": "A."
+      },
+      {
+        "family": "Larson",
+        "given": "J."
+      },
+      {
+        "family": "Leon",
+        "given": "J.-M."
+      },
+      {
+        "family": "Li",
+        "given": "Y."
+      },
+      {
+        "family": "Lloyd",
+        "given": "A."
+      },
+      {
+        "family": "Yushprakh",
+        "given": "V."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the Conference on Innovative Data system Research (CIDR"
+    ],
+    "date": [
+      "2011",
+      "2011"
+    ],
+    "pages": [
+      "223–234"
+    ],
+    "title": [
+      "Megastore: Providing Scalable, Highly Available Storage for Interactive Services”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Chang"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Chang",
+        "given": "F."
+      },
+      {
+        "family": "Dean",
+        "given": "J."
+      },
+      {
+        "family": "Ghemawat",
+        "given": "S."
+      },
+      {
+        "family": "Hsieh",
+        "given": "W.C."
+      },
+      {
+        "family": "Wallach",
+        "given": "D.A."
+      },
+      {
+        "family": "Burrows",
+        "given": "M."
+      },
+      {
+        "family": "Chandra",
+        "given": "T."
+      },
+      {
+        "family": "Fikes",
+        "given": "A."
+      },
+      {
+        "family": "Gruber",
+        "given": "R.E."
+      }
+    ],
+    "container-title": [
+      "ACM Trans. Comput. Syst"
+    ],
+    "date": [
+      "2008",
+      "2008"
+    ],
+    "title": [
+      "Bigtable: A Distributed Storage System for Structured Data”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cooper"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Cooper",
+        "given": "B.F."
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "R."
+      },
+      {
+        "family": "Srivastava",
+        "given": "U."
+      },
+      {
+        "family": "Silberstein",
+        "given": "A."
+      },
+      {
+        "family": "Bohannon",
+        "given": "P."
+      },
+      {
+        "family": "Jacobsen",
+        "given": "H.-A."
+      },
+      {
+        "family": "Puz",
+        "given": "N."
+      },
+      {
+        "family": "Weaver",
+        "given": "D."
+      },
+      {
+        "family": "Yerneni",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the VLDB Endowment"
+    ],
+    "date": [
+      "2008",
+      "2008"
+    ],
+    "pages": [
+      "1277–1288"
+    ],
+    "title": [
+      "PNUTS: Yahoo!’s Hosted Data Serving Platform”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Corbett"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Corbett",
+        "given": "J.C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "ACM Trans. on Computer Systems"
+    ],
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "title": [
+      "Spanner: Google’s Globally Distributed Database”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "DeCandia"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "DeCandia",
+        "given": "G."
+      },
+      {
+        "family": "Hastorun",
+        "given": "D."
+      },
+      {
+        "family": "Jampani",
+        "given": "M."
+      },
+      {
+        "family": "Kakulapati",
+        "given": "G."
+      },
+      {
+        "family": "Lakshman",
+        "given": "A."
+      },
+      {
+        "family": "Pilchin",
+        "given": "A."
+      },
+      {
+        "family": "Sivasubramanian",
+        "given": "S."
+      },
+      {
+        "family": "Vosshall",
+        "given": "P."
+      },
+      {
+        "family": "Vogels",
+        "given": "W."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM Symposium on Operating System Principles"
+    ],
+    "date": [
+      "2007",
+      "2007"
+    ],
+    "pages": [
+      "205–220"
+    ],
+    "title": [
+      "Dynamo: Amazons Highly Available Key-value Store”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "DeWitt (1990)] D. DeWitt"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Knowledge and Data Engineering"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "44–62"
+    ],
+    "title": [
+      "The Gamma Database Machine Project”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Ghemawat"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Ghemawat",
+        "given": "S."
+      },
+      {
+        "family": "Gobioff",
+        "given": "H."
+      },
+      {
+        "family": "Leung",
+        "given": "S.-T."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM Symposium on Operating System Principles"
+    ],
+    "date": [
+      "2003",
+      "2003"
+    ],
+    "title": [
+      "The Google File System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe (1990)] G. Graefe"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "102–111"
+    ],
+    "title": [
+      "Encapsulation of Parallelism in the Volcano Query Processing System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Karger"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Karger",
+        "given": "D."
+      },
+      {
+        "family": "Lehman",
+        "given": "E."
+      },
+      {
+        "family": "Leighton",
+        "given": "T."
+      },
+      {
+        "family": "Panigrahy",
+        "given": "R."
+      },
+      {
+        "family": "Levine",
+        "given": "M."
+      },
+      {
+        "family": "Lewin",
+        "given": "D."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM Symposium on Theory of Computing"
+    ],
+    "date": [
+      "1997",
+      "1997"
+    ],
+    "pages": [
+      "654–663"
+    ],
+    "title": [
+      "Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Stonebraker"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Stonebraker",
+        "given": "M."
+      },
+      {
+        "family": "Katz",
+        "given": "R.H."
+      },
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Ousterhout",
+        "given": "J.K."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1988",
+      "1988"
+    ],
+    "pages": [
+      "318–330"
+    ],
+    "title": [
+      "The Design of XPRS”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Agrawal"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Agrawal",
+        "given": "P."
+      },
+      {
+        "family": "Silberstein",
+        "given": "A."
+      },
+      {
+        "family": "Cooper",
+        "given": "B.F."
+      },
+      {
+        "family": "Srivastava",
+        "given": "U."
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "pages": [
+      "179–192"
+    ],
+    "title": [
+      "Asynchronous view maintenance for VLSD databases”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Akidau"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Akidau",
+        "given": "T."
+      },
+      {
+        "family": "Balikov",
+        "given": "A."
+      },
+      {
+        "family": "Bekiroglu",
+        "given": "K."
+      },
+      {
+        "family": "Chernyak",
+        "given": "S."
+      },
+      {
+        "family": "Haberman",
+        "given": "J."
+      },
+      {
+        "family": "Lax",
+        "given": "R."
+      },
+      {
+        "family": "McVeety",
+        "given": "S."
+      },
+      {
+        "family": "Mills",
+        "given": "D."
+      },
+      {
+        "family": "Nordstrom",
+        "given": "P."
+      },
+      {
+        "family": "Whittle",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the VLDB Endowment"
+    ],
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "pages": [
+      "1033–1044"
+    ],
+    "title": [
+      "MillWheel: Fault-tolerant Stream Processing at Internet Scale”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "6, Number 11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Carbone"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Carbone",
+        "given": "P."
+      },
+      {
+        "family": "Katsifodimos",
+        "given": "A."
+      },
+      {
+        "family": "Ewen",
+        "given": "S."
+      },
+      {
+        "family": "Markl",
+        "given": "V."
+      },
+      {
+        "family": "Haridi",
+        "given": "S."
+      },
+      {
+        "family": "Tzoumas",
+        "given": "K."
+      }
+    ],
+    "container-title": [
+      "IEEE Data Eng. Bull"
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "pages": [
+      "28–38"
+    ],
+    "title": [
+      "Apache Flink: Stream and Batch Processing in a Single Engine”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Dean and Ghemawat (2010)] J. Dean and S. Ghemawat"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2010"
+    ],
+    "pages": [
+      "72–77"
+    ],
+    "title": [
+      "MapReduce: a flexible data processing tool”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "DeWitt (1990)] D. DeWitt"
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Knowledge and Data Engineering"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "44–62"
+    ],
+    "title": [
+      "The Gamma Database Machine Project”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "DeWitt"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "DeWitt",
+        "given": "D."
+      },
+      {
+        "family": "Naughton",
+        "given": "J."
+      },
+      {
+        "family": "Schneider",
+        "given": "D."
+      },
+      {
+        "family": "Seshadri",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1992",
+      "1992"
+    ],
+    "pages": [
+      "27–40"
+    ],
+    "title": [
+      "Practical Skew Handling in Parallel Joins”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Ganguly"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Ganguly",
+        "given": "S."
+      },
+      {
+        "family": "Hasan",
+        "given": "W."
+      },
+      {
+        "family": "Krishnamurthy",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1992",
+      "1992"
+    ],
+    "pages": [
+      "9–18"
+    ],
+    "title": [
+      "Query Optimization for Parallel Execution”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe (1990)] G. Graefe"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "102–111"
+    ],
+    "title": [
+      "Encapsulation of Parallelism in the Volcano Query Processing System”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe (1993)] G. Graefe"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Query Evaluation Techniques for Large Databases”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe and McKenna (1993)] G. Graefe and W. McKenna"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Data Engineering"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "209–218"
+    ],
+    "title": [
+      "The Volcano Optimizer Generator”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Herodotou and Babu (2013)] H. Herodotou and S. Babu"
+      }
+    ],
+    "container-title": [
+      "IEEE Data Eng. Bull"
+    ],
+    "date": [
+      "2013"
+    ],
+    "pages": [
+      "5–14"
+    ],
+    "title": [
+      "A What-if Engine for Cost-based MapReduce Optimization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Kersten"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kersten",
+        "given": "T."
+      },
+      {
+        "family": "Leis",
+        "given": "V."
+      },
+      {
+        "family": "Kemper",
+        "given": "A."
+      },
+      {
+        "family": "Neumann",
+        "given": "T."
+      },
+      {
+        "family": "Pavlo",
+        "given": "A."
+      },
+      {
+        "family": "Boncz",
+        "given": "P.A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the VLDB Endowment"
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "pages": [
+      "2209–2222"
+    ],
+    "title": [
+      "Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "11, Number 13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Kwon"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Kwon",
+        "given": "Y."
+      },
+      {
+        "family": "Ren",
+        "given": "K."
+      },
+      {
+        "family": "Balazinska",
+        "given": "M."
+      },
+      {
+        "family": "Howe",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "IEEE Data Eng. Bull"
+    ],
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "pages": [
+      "24–33"
+    ],
+    "title": [
+      "Managing Skew in Hadoop”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Leis"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Leis",
+        "given": "V."
+      },
+      {
+        "family": "Boncz",
+        "given": "P.A."
+      },
+      {
+        "family": "Kemper",
+        "given": "A."
+      },
+      {
+        "family": "Neumann",
+        "given": "T."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "2014",
+      "2014"
+    ],
+    "pages": [
+      "743–754"
+    ],
+    "title": [
+      "Morsel-driven parallelism: a NUMA-aware query evaluation framework for the many-core age”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ozsu and Valduriez (2010)] T. Ozsu and P. Valduriez"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Principles of Distributed Database Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Shah"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Shah",
+        "given": "M.A."
+      },
+      {
+        "family": "Hellerstein",
+        "given": "J.M."
+      },
+      {
+        "family": "Brewer",
+        "given": "E.A."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "pages": [
+      "827–838"
+    ],
+    "title": [
+      "Highly-Available, Fault-Tolerant, Parallel Dataflows”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Stonebraker"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Stonebraker",
+        "given": "M."
+      },
+      {
+        "family": "Aoki",
+        "given": "P."
+      },
+      {
+        "family": "Seltzer",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1989",
+      "1989"
+    ],
+    "title": [
+      "Parallelism in XPRS”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Zaharia"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Zaharia",
+        "given": "M."
+      },
+      {
+        "family": "Chowdhury",
+        "given": "M."
+      },
+      {
+        "family": "Das",
+        "given": "T."
+      },
+      {
+        "family": "Dave",
+        "given": "A."
+      },
+      {
+        "family": "Ma",
+        "given": "J."
+      },
+      {
+        "family": "McCauly",
+        "given": "M."
+      },
+      {
+        "family": "Franklin",
+        "given": "M.J."
+      },
+      {
+        "family": "Shenker",
+        "given": "S."
+      },
+      {
+        "family": "Stoica",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Procs. USENIX Symposium on Networked Systems Design and Implementation, NSDI"
+    ],
+    "date": [
+      "2012",
+      "2012"
+    ],
+    "pages": [
+      "15–28"
+    ],
+    "title": [
+      "Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Zaharia"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Zaharia",
+        "given": "M."
+      },
+      {
+        "family": "Xin",
+        "given": "R.S."
+      },
+      {
+        "family": "Wendell",
+        "given": "P."
+      },
+      {
+        "family": "Das",
+        "given": "T."
+      },
+      {
+        "family": "Armbrust",
+        "given": "M."
+      },
+      {
+        "family": "Dave",
+        "given": "A."
+      },
+      {
+        "family": "Meng",
+        "given": "X."
+      },
+      {
+        "family": "Rosen",
+        "given": "J."
+      },
+      {
+        "family": "Venkataraman",
+        "given": "S."
+      },
+      {
+        "family": "Franklin",
+        "given": "M.J."
+      },
+      {
+        "family": "Ghodsi",
+        "given": "A."
+      },
+      {
+        "family": "Gonzalez",
+        "given": "J."
+      },
+      {
+        "family": "Shenker",
+        "given": "S."
+      },
+      {
+        "family": "Stoica",
+        "given": "I."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "pages": [
+      "56–65"
+    ],
+    "title": [
+      "Apache Spark: a unified engine for big data processing”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "59, Number 11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Zhou"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Zhou",
+        "given": "J."
+      },
+      {
+        "family": "Larson",
+        "given": "P."
+      },
+      {
+        "family": "Chaiken",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Data Engineering"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "pages": [
+      "1060–1071"
+    ],
+    "title": [
+      "Incorporating partitioning and parallel plans into the SCOPE optimizer”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "date": [
+      "1982"
+    ],
+    "note": [
+      "The 2PC protocol was developed"
+    ],
+    "title": [
+      "The implementation of the transaction concept in a distributed database is presented by [Gray (1981)] and [Traiger et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "by"
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "note": [
+      "The three-phase commit protocol is from [Skeen"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1981"
+    ],
+    "note": [
+      "are described in [Gray and Lamport (2004)]."
+    ],
+    "title": [
+      "Techniques for non-blocking two-phase commit based on consensus, called Paxos Commit"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2004"
+    ],
+    "title": [
+      "Chain replication was initially proposed by [van Renesse and Schneider"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "and an optimized version of was proposed by [Terrace and Freedman"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1987"
+    ],
+    "note": [
+      "while distributed snapshot isolation is described in [Binnig et al. (2014)] and [Schenkel"
+    ],
+    "title": [
+      "Distributed optimistic concurrency control is described in [Agrawal et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "others": true
+      }
+    ],
+    "date": [
+      "1999",
+      "2013"
+    ],
+    "title": [
+      "The externally consistent distributed multi-version 2PL scheme used in Spanner is described in [Corbett et al"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "and was formalized and"
+    ],
+    "title": [
+      "The CAP theorem was conjectured by [Brewer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "by",
+        "particle": "proved"
+      },
+      {
+        "given": "and"
+      }
+    ],
+    "date": [
+      "2008",
+      "2004",
+      "2004"
+    ],
+    "note": [
+      "while asynchronous view maintenance is described in [Agrawal et al. (2009)]. Transaction processing in federated database systems is discussed in [Mehrotra et al. (2001)]."
+    ],
+    "title": [
+      "describe Yahoo!’s PNUTS system, including its support for asynchronous maintenance of replicas using a publish-subscribe system. Parallel view maintenance is described in [Chen et al"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Paxos is described in [Lamport (1998)]; Paxos is based on features from several"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "protocols",
+        "particle": "earlier"
+      },
+      {
+        "family": "in",
+        "particle": "reference"
+      }
+    ],
+    "date": [
+      "1998",
+      "2006",
+      "2010"
+    ],
+    "note": [
+      "and the consensus protocol (also known as atomic broadcast protocol) used in ZooKeeper is described in [Junqueira et al. (2011)]. The Raft consensus protocol is described in [Ongaro and Ousterhout (2014)]."
+    ],
+    "title": [
+      "Google’s Chubby lock service, which is based on Paxos, is described by [Burrows",
+      "The widely used ZooKeeper system for distributed coordination is described in [Hunt et al"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Agrawal"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Agrawal",
+        "given": "D."
+      },
+      {
+        "family": "Bernstein",
+        "given": "A."
+      },
+      {
+        "family": "Gupta",
+        "given": "P."
+      },
+      {
+        "family": "Sengupta",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Distributed Computing"
+    ],
+    "date": [
+      "1987",
+      "1987"
+    ],
+    "pages": [
+      "45–59"
+    ],
+    "title": [
+      "Distributed optimistic concurrency control with reduced rollback”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Agrawal"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Agrawal",
+        "given": "P."
+      },
+      {
+        "family": "Silberstein",
+        "given": "A."
+      },
+      {
+        "family": "Cooper",
+        "given": "B.F."
+      },
+      {
+        "family": "Srivastava",
+        "given": "U."
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "pages": [
+      "179–192"
+    ],
+    "title": [
+      "Asynchronous view maintenance for VLSD databases”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Bernstein and Goodman (1981)] P. A. Bernstein and N. Goodman"
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "185–221"
+    ],
+    "title": [
+      "Concurrency Control in Distributed Database Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bernstein and Newcomer (2009)] P. A. Bernstein and E. Newcomer"
+      }
+    ],
+    "date": [
+      "2009"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Principles of Transaction Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Binnig"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Binnig",
+        "given": "C."
+      },
+      {
+        "family": "Hildenbrand",
+        "given": "S."
+      },
+      {
+        "family": "FÃ¤rber",
+        "given": "F."
+      },
+      {
+        "family": "Kossmann",
+        "given": "D."
+      },
+      {
+        "family": "Lee",
+        "given": "J."
+      },
+      {
+        "family": "May",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "VLDB Journal"
+    ],
+    "date": [
+      "2014",
+      "2014"
+    ],
+    "pages": [
+      "987–1011"
+    ],
+    "title": [
+      "Distributed snapshot isolation: global transactions pay globally, local transactions 1170 Chapter 23 Parallel and Distributed Transaction Processing pay locally”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Brewer (2000)] E. A. Brewer"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM Symposium on Principles of Distributed Computing"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "7"
+    ],
+    "title": [
+      "Towards Robust Distributed Systems (Abstract)”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Burrows (2006)] M. Burrows"
+      }
+    ],
+    "container-title": [
+      "Symp. on Operating Systems Design and Implementation (OSDI"
+    ],
+    "date": [
+      "2006"
+    ],
+    "pages": [
+      "335–350"
+    ],
+    "title": [
+      "The Chubby Lock Service for Loosely-Coupled Distributed Systems”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Chen"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Chen",
+        "given": "S."
+      },
+      {
+        "family": "Liu",
+        "given": "B."
+      },
+      {
+        "family": "Rundensteiner",
+        "given": "E.A."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "pages": [
+      "675–709"
+    ],
+    "title": [
+      "Multiversion-based view maintenance over distributed data sources”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cooper"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Cooper",
+        "given": "B.F."
+      },
+      {
+        "family": "Ramakrishnan",
+        "given": "R."
+      },
+      {
+        "family": "Srivastava",
+        "given": "U."
+      },
+      {
+        "family": "Silberstein",
+        "given": "A."
+      },
+      {
+        "family": "Bohannon",
+        "given": "P."
+      },
+      {
+        "family": "Jacobsen",
+        "given": "H.-A."
+      },
+      {
+        "family": "Puz",
+        "given": "N."
+      },
+      {
+        "family": "Weaver",
+        "given": "D."
+      },
+      {
+        "family": "Yerneni",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the VLDB Endowment"
+    ],
+    "date": [
+      "2008",
+      "2008"
+    ],
+    "pages": [
+      "1277–1288"
+    ],
+    "title": [
+      "PNUTS: Yahoo!’s Hosted Data Serving Platform”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Corbett"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Corbett",
+        "given": "J.C."
+      },
+      {
+        "others": true
+      }
+    ],
+    "container-title": [
+      "ACM Trans. on Computer Systems"
+    ],
+    "date": [
+      "2013",
+      "2013"
+    ],
+    "title": [
+      "Spanner: Google’s Globally Distributed Database”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gilbert and Lynch (2002)] S. Gilbert and N. Lynch"
+      }
+    ],
+    "container-title": [
+      "SIGACT News"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "51–59"
+    ],
+    "title": [
+      "Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray (1981)] J. Gray"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "144–154"
+    ],
+    "title": [
+      "The Transaction Concept: Virtues and Limitations”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Lamport (2004)] J. Gray and L. Lamport"
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "133–160"
+    ],
+    "title": [
+      "Consensus on transaction commit”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Hunt"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Hunt",
+        "given": "P."
+      },
+      {
+        "family": "Konar",
+        "given": "M."
+      },
+      {
+        "family": "Junqueira",
+        "given": "F."
+      },
+      {
+        "family": "Reed",
+        "given": "B."
+      }
+    ],
+    "container-title": [
+      "USENIX Annual Technical Conference (USENIX ATC"
+    ],
+    "date": [
+      "2010",
+      "2010"
+    ],
+    "pages": [
+      "11–11"
+    ],
+    "title": [
+      "ZooKeeper: Wait-free Coordination for Internet-scale Systems”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Junqueira"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Junqueira",
+        "given": "F.P."
+      },
+      {
+        "family": "Reed",
+        "given": "B.C."
+      },
+      {
+        "family": "Serafini",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "IEEE/IFIP 41st International Conference on Dependable Systems Networks (DSN"
+    ],
+    "date": [
+      "2011",
+      "2011"
+    ],
+    "pages": [
+      "245–256"
+    ],
+    "title": [
+      "Zab: High-performance broadcast for primary-backup systems”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Lamport (1998)] L. Lamport"
+      }
+    ],
+    "container-title": [
+      "ACM Trans. Comput. Syst"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "133–169"
+    ],
+    "title": [
+      "The Part-Time Parliament”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Lampson and Sturgis (1976)] B. Lampson and H. Sturgis"
+      }
+    ],
+    "date": [
+      "1976"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "location": [
+      "Palo Alto"
+    ],
+    "publisher": [
+      "Computer Science Laboratory, Xerox Palo Alto Research Center"
+    ],
+    "title": [
+      "Crash Recovery in a Distributed Data Storage System”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Mehrotra"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Mehrotra",
+        "given": "S."
+      },
+      {
+        "family": "Rastogi",
+        "given": "R."
+      },
+      {
+        "family": "Breitbart",
+        "given": "Y."
+      },
+      {
+        "family": "Korth",
+        "given": "H.F."
+      },
+      {
+        "family": "Silberschatz",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Inf. Comput"
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "pages": [
+      "137–172"
+    ],
+    "title": [
+      "Overcoming Heterogeneity and Autonomy in Multidatabase Systems.”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "167, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Ongaro and Ousterhout (2014)] D. Ongaro and J. K. Ousterhout"
+      }
+    ],
+    "container-title": [
+      "USENIX Annual Technical Conference (USENIX ATC"
+    ],
+    "date": [
+      "2014"
+    ],
+    "note": [
+      "Further Reading 1171"
+    ],
+    "pages": [
+      "305–319"
+    ],
+    "title": [
+      "In Search of an Understandable Consensus Algorithm”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Ooi and Parthasarathy (2009)] B. C. Ooi and S. Parthasarathy"
+      }
+    ],
+    "container-title": [
+      "IEEE Data Engineering Bulletin"
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Special Issue on Data Management on Cloud Computing Platforms”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Ozsu and Valduriez (2010)] T. Ozsu and P. Valduriez"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Principles of Distributed Database Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Schenkel"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Schenkel",
+        "given": "R."
+      },
+      {
+        "family": "Weikum",
+        "given": "G."
+      },
+      {
+        "family": "Weisenberg",
+        "given": "N."
+      },
+      {
+        "family": "Wu",
+        "given": "X."
+      }
+    ],
+    "container-title": [
+      "Eight International Workshop on Foundations of Models and Languages for Data and Objects, Transactions and Database Dynamics"
+    ],
+    "date": [
+      "1999",
+      "1999"
+    ],
+    "pages": [
+      "1–25"
+    ],
+    "title": [
+      "Federated Transaction Management with Snapshot Isolation”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Skeen (1981)] D. Skeen"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "133–142"
+    ],
+    "title": [
+      "Non-blocking Commit Protocols”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Terrace and Freedman (2009)] J. Terrace and M. J. Freedman"
+      }
+    ],
+    "container-title": [
+      "USENIX Annual Technical Conference (USENIX ATC"
+    ],
+    "date": [
+      "2009"
+    ],
+    "title": [
+      "Object Storage on CRAQ: High-Throughput Chain Replication for Read-Mostly Workloads”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Traiger"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Traiger",
+        "given": "I.L."
+      },
+      {
+        "family": "Gray",
+        "given": "J.N."
+      },
+      {
+        "family": "Galtieri",
+        "given": "C.A."
+      },
+      {
+        "family": "Lindsay",
+        "given": "B.G."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1982",
+      "1982"
+    ],
+    "pages": [
+      "323–342"
+    ],
+    "title": [
+      "Transactions and Consistency in Distributed Database Management Systems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "van Renesse and Schneider (2004)] R. van Renesse and F. B. Schneider"
+      }
+    ],
+    "container-title": [
+      "Symp. on Operating Systems Design and Implementation (OSDI"
+    ],
+    "date": [
+      "2004"
+    ],
+    "pages": [
+      "91–104"
+    ],
+    "title": [
+      "Chain Replication for Supporting High Throughput and Availability”"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Zhang"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Zhang",
+        "given": "X."
+      },
+      {
+        "family": "Ding",
+        "given": "L."
+      },
+      {
+        "family": "Rundensteiner",
+        "given": "E.A."
+      }
+    ],
+    "container-title": [
+      "VLDB Journal"
+    ],
+    "date": [
+      "2004",
+      "2004"
+    ],
+    "pages": [
+      "22–48"
+    ],
+    "title": [
+      "Parallel multisource view maintenance”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, Number 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Bentley (1975)] J. L. Bentley"
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "509–517"
+    ],
+    "title": [
+      "Multidimensional Binary Search Trees Used for Associative Searching”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18, Number 9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cormen"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Cormen",
+        "given": "T."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C."
+      },
+      {
+        "family": "Rivest",
+        "given": "R."
+      },
+      {
+        "family": "Stein",
+        "given": "C."
+      }
+    ],
+    "date": [
+      "2009",
+      "2009"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Fagin"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Fagin",
+        "given": "R."
+      },
+      {
+        "family": "Nievergelt",
+        "given": "J."
+      },
+      {
+        "family": "Pippenger",
+        "given": "N."
+      },
+      {
+        "family": "Strong",
+        "given": "H.R."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Database Systems"
+    ],
+    "date": [
+      "1979",
+      "1979"
+    ],
+    "pages": [
+      "315–344"
+    ],
+    "title": [
+      "Extendible Hashing — A Fast Access Method for Dynamic Files”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Guttman (1984)] A. Guttman"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "47–57"
+    ],
+    "title": [
+      "R-Trees: A Dynamic Index Structure for Spatial Searching”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Jagadish"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Jagadish",
+        "given": "H.V."
+      },
+      {
+        "family": "Narayan",
+        "given": "P.P.S."
+      },
+      {
+        "family": "Seshadri",
+        "given": "S."
+      },
+      {
+        "family": "Sudarshan",
+        "given": "S."
+      },
+      {
+        "family": "Kanneganti",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 23rd International Conference on Very Large Data Bases, VLDB"
+    ],
+    "date": [
+      "1997",
+      "1997"
+    ],
+    "pages": [
+      "16–25"
+    ],
+    "title": [
+      "Incremental Organization for Data Recording and Warehousing”"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "97"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Litwin (1978)] W. Litwin"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "517–523"
+    ],
+    "title": [
+      "Virtual Hashing: A Dynamically Changing Hashing”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Litwin (1980)] W. Litwin"
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "212–223"
+    ],
+    "title": [
+      "Linear Hashing: A New Tool for File and Table Addressing”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "O’Neil and Quass (1997)] P. O’Neil and D. Quass"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "38–49"
+    ],
+    "title": [
+      "Improved Query Performance with Variant Indexes”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "O.’Neil"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "O’Neil",
+        "given": "P."
+      },
+      {
+        "family": "Cheng",
+        "given": "E."
+      },
+      {
+        "family": "Gawlick",
+        "given": "D."
+      },
+      {
+        "family": "O’Neil",
+        "given": "E."
+      }
+    ],
+    "container-title": [
+      "Acta Inf"
+    ],
+    "date": [
+      "1996",
+      "1996"
+    ],
+    "pages": [
+      "351–385"
+    ],
+    "title": [
+      "The Log-structured Merge-tree (LSM-tree)”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Robinson (1981)] J. Robinson"
+      }
+    ],
+    "container-title": [
+      "Proc. of the ACM SIGMOD Conf. on Management of Data"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "10–18"
+    ],
+    "title": [
+      "The k-d-B Tree: A Search Structure for Large Multidimensional Indexes”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Samet (2006)] H. Samet, Foundations of Multidimensional and Metric Data Structures, Morgan Kaufmann"
+      },
+      {
+        "family": "Vitter",
+        "given": "J.S."
+      }
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "2006",
+      "2001"
+    ],
+    "note": [
+      "Vitter (2001)"
+    ],
+    "pages": [
+      "209–271"
+    ],
+    "title": [
+      "External Memory Algorithms and Data Structures: Dealing with Massive Data”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Appuswamy"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Appuswamy",
+        "given": "R."
+      },
+      {
+        "family": "Borovica",
+        "given": "R."
+      },
+      {
+        "family": "Graefe",
+        "given": "G."
+      },
+      {
+        "family": "Ailamaki",
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "Proceedings of the 7th International Workshop on Accelerating Analytics and Data Management Systems Using Modern Processor and Storage Architectures"
+    ],
+    "date": [
+      "2017",
+      "2017"
+    ],
+    "title": [
+      "The Five minute Rule Thirty Years Later and its Impact on the Storage Hierarchy”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Bitton"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Bitton",
+        "given": "D."
+      },
+      {
+        "family": "DeWitt",
+        "given": "D.J."
+      },
+      {
+        "family": "Turbyfill",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "1983",
+      "1983"
+    ],
+    "pages": [
+      "8–19"
+    ],
+    "title": [
+      "Benchmarking Database Systems: A Systematic Approach”"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "literal": "Graefe (2008)] G. Graefe"
+      }
+    ],
+    "container-title": [
+      "ACM Queue"
+    ],
+    "date": [
+      "2008"
+    ],
+    "pages": [
+      "40–52"
+    ],
+    "title": [
+      "The Five-Minute Rule 20 Years Later: and How Flash Memory Changes the Rules”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray (1991)] J. Gray"
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "The Benchmark Handbook for Database and Transaction Processing Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Gray and Graefe (1997)] J. Gray and G. Graefe"
+      }
+    ],
+    "container-title": [
+      "SIGMOD Record"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "63–68"
+    ],
+    "title": [
+      "The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Harchol-Balte (2013)] M. Harchol-Balte"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Performance Modeling and Design of Computer Systems: Queueing Theory in Action"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "O’Neil and O’Neil (2000)] P. O’Neil and E. O’Neil"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Database: Principles, Programming, Performance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Shasha and Bonnet (2002)] D. Shasha and P. Bonnet"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Database Tuning: Principles, Experiments, and Troubleshooting Techniques"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Buterin (2013)] V. Buterin"
+      },
+      {
+        "family": "Buterin",
+        "given": "V."
+      },
+      {
+        "family": "Griffith",
+        "given": "V."
+      },
+      {
+        "literal": "Castro and Liskov (1999)] M. Castro and B. Liskov"
+      },
+      {
+        "family": "Diffie",
+        "given": "W."
+      },
+      {
+        "family": "Hellman",
+        "given": "M.E."
+      },
+      {
+        "family": "Dinh",
+        "given": "T.T.A."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      },
+      {
+        "family": "Chen",
+        "given": "G."
+      },
+      {
+        "family": "Liu",
+        "given": "R."
+      },
+      {
+        "family": "Ooi",
+        "given": "B.C."
+      },
+      {
+        "family": "Tan",
+        "given": "K.-L."
+      }
+    ],
+    "container-title": [
+      "Symp. on Operating Systems Design and Implementation (OSDI), USENIX",
+      "Proc. of the ACM SIGMOD Conf. on Management of Data",
+      "IEEE Transactions on Information Theory"
+    ],
+    "date": [
+      "2013",
+      "2017",
+      "2017",
+      "1999",
+      "1976",
+      "2017"
+    ],
+    "genre": [
+      "Technical report",
+      "Technical report"
+    ],
+    "note": [
+      "Diffie and Hellman (1976)",
+      "Dinh et al. (2017)"
+    ],
+    "pages": [
+      "1085–1100"
+    ],
+    "title": [
+      "Ethereum: The Ultimate Smart Contract and Decentralized Application Platform”",
+      "Buterin and Griffith",
+      "Casper the Friendly Finality Gadget”",
+      "Practical Byzantine Fault Tolerance”",
+      "New Directions in Cryptography”",
+      "BLOCKBENCH: A Framework for Analyzing Private Blockchains”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22, Number 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Dinh"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Dinh",
+        "given": "T.T.A."
+      },
+      {
+        "family": "Liu",
+        "given": "R."
+      },
+      {
+        "family": "Zhang",
+        "given": "M.H."
+      },
+      {
+        "family": "Chen",
+        "given": "G."
+      },
+      {
+        "family": "Ooi",
+        "given": "B.C."
+      },
+      {
+        "family": "Wang",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "pages": [
+      "1366–1385"
+    ],
+    "title": [
+      "Untangling Blockchain: A Data Processing View of Blockchain Systems”"
+    ],
+    "type": null,
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Katz and Lindell (2014)] J. Katz and Y. Lindell"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "publisher": [
+      "Chapman and Hall/CRC"
+    ],
+    "title": [
+      "Introduction to Modern Cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Lamport"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Lamport",
+        "given": "L."
+      },
+      {
+        "family": "Shostak",
+        "given": "R."
+      },
+      {
+        "family": "Pease",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "ACM Transactions on Programming Languages and Systems"
+    ],
+    "date": [
+      "1982",
+      "1982"
+    ],
+    "pages": [
+      "382–401"
+    ],
+    "title": [
+      "The Byzantine Generals Problem”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, Number 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Mazieres (2016)] D. Mazieres"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "genre": [
+      "Technical report"
+    ],
+    "title": [
+      "The Stellar Consensus Protocol”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "literal": "Morrison (1968)] D. Morrison"
+      }
+    ],
+    "container-title": [
+      "Journal of the ACM"
+    ],
+    "date": [
+      "1968"
+    ],
+    "pages": [
+      "514–534"
+    ],
+    "title": [
+      "Practical Algorithm To Retrieve Information Coded in Alphanumeric”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15, Number 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Nakamoto (2008)] S. Nakamoto"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "publisher": [
+      "Bitcoin.org"
+    ],
+    "title": [
+      "Bitcoin: A Peer-to-Peer Electronic Cash System”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Narayanan"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Narayanan",
+        "given": "A."
+      },
+      {
+        "family": "Bonneau",
+        "given": "J."
+      },
+      {
+        "family": "Felten",
+        "given": "E."
+      },
+      {
+        "family": "Miller",
+        "given": "A."
+      },
+      {
+        "family": "Goldfeder",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2016",
+      "2016"
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Bitcoin and Cryptocurrency Technologies"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Pease"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Pease",
+        "given": "M."
+      },
+      {
+        "family": "Shostak",
+        "given": "R."
+      },
+      {
+        "family": "Lamport",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Journal of the ACM"
+    ],
+    "date": [
+      "1980",
+      "1980"
+    ],
+    "pages": [
+      "228–234"
+    ],
+    "title": [
+      "Reaching Agreement in the Presence of Faults”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "27, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Rivest"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Rivest",
+        "given": "R.L."
+      },
+      {
+        "family": "Shamir",
+        "given": "A."
+      },
+      {
+        "family": "Adleman",
+        "given": "L."
+      }
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1978",
+      "1978"
+    ],
+    "pages": [
+      "120–126"
+    ],
+    "title": [
+      "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21, Number 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Vogelsteller and Buterin (2013)] F. Vogelsteller and V. Buterin"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "genre": [
+      "Technical report"
+    ],
+    "title": [
+      "ERC-20 Token Standard”"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "given": "Wang"
+      },
+      {
+        "others": true
+      },
+      {
+        "family": "Wang",
+        "given": "S."
+      },
+      {
+        "family": "Dihn",
+        "given": "T.T.A."
+      },
+      {
+        "family": "Lin",
+        "given": "Q."
+      },
+      {
+        "family": "Xie",
+        "given": "Z."
+      },
+      {
+        "family": "Zhang",
+        "given": "M."
+      },
+      {
+        "family": "Cai",
+        "given": "Q."
+      },
+      {
+        "family": "Chen",
+        "given": "G."
+      },
+      {
+        "family": "Ooi",
+        "given": "B.C."
+      },
+      {
+        "family": "Ruan",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Proc. of the International Conf. on Very Large Databases"
+    ],
+    "date": [
+      "2018",
+      "2018"
+    ],
+    "pages": [
+      "1085–1100"
+    ],
+    "title": [
+      "ForkBase: An Efficient Storage Engine for Blockchain and Forkable Applications”"
+    ],
+    "type": "paper-conference"
+  }
+]
