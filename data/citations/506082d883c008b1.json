@@ -1,0 +1,35 @@
+[
+  {
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Zeroing memory memset(dest"
+    ],
+    "note": [
+      "Finding the Number of Elements in an Array n_elements = sizeof(array) / sizeof(array[0]); 17. Using gets Don't use gets. There is no way to make it safe. Use fgets instead."
+    ],
+    "pages": [
+      "16"
+    ],
+    "title": [
+      "Copying A String strncpy(dest, source, sizeof(dest)); 13. String Concatenation strncat(dest, source, sizeof(dest) – strlen(dest)); dest[sizeof(dest)-1] = '\\0'; 14. Copying Memory memcpy(dest, source, sizeof(dest)); 15"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "18."
+    ],
+    "note": [
+      "sizeof(string), in_file);"
+    ],
+    "title": [
+      "Using fgets fgets(string"
+    ],
+    "type": null
+  }
+]
