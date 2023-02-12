@@ -1,0 +1,256 @@
+[
+  {
+    "type": null,
+    "url": [
+      "<xsd:simpleType name=\"Q12003DateType\"> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"2003-01-01\"/> <xsd:maxInclusive value=\"2003-03-31\"/> </xsd:restriction> </xsd:simpleType>"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "<xsd:simpleType name=\"Q12003DateType\"> <xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"2003-01-01\"/> <xsd:maxInclusive value=\"2003-03-31\"/> </xsd:restriction> </xsd:simpleType>"
+    ]
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "http://www.XMML.com/Customers",
+      "http://www.XMML.com/CoreSchema",
+      "http://www.XMML.com/Customers"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "http://www.XMML.com/CoreSchema",
+      "http://www.XMML.com/CoreSchema"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "title": [
+      "<?xml version='1.0'?> <XMMLHRFile> <Person> <Name> <FirstName>Nelson</FirstName> <MiddleNames>Zebulun</MiddleNames> <LastName>Mandela</LastName> </Name> <Demographics> <DateOfBirth>1975-12-03</DateOfBirth> <Gender>Male</Gender> </Demographics> <Residence> <CurrentAddress> <Street1>888 Uptown Avenue</Street1> <Street2></Street2> <City>Any Town</City> continues"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<Name> <FirstName>Jacqui</FirstName> <MiddleNames>Mary</MiddleNames> <LastName>Kennedy</LastName> </Name> <Demographics> <DateOfBirth>1958-10-07</DateOfBirth>"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "title": [
+      "> <xsd:annotation> <xsd:documentation> A hypothetical schema for the human resources information needs for XMML.com. This version is dated 2001-11-10. Version 0.01. The schema accesses and uses type definitions from the XMMLCore.xsd file"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "</xsd:documentation> </xsd:annotation> </xsd:schema>"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "title": [
+      "Listing 10.18 A first version of the Human Resources schema (XMMLHRSchema001.xsd"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "title": [
+      "> <xsd:annotation> <xsd:documentation> A hypothetical schema for the human resources information needs for XMML.com. This version is dated 2001-11-10. Version 0.02. The schema accesses and uses type definitions from the XMMLCore.xsd file"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "</xsd:documentation> </xsd:annotation>"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "–8"
+    ],
+    "title": [
+      "> <xsd:annotation> <xsd:documentation> A hypothetical schema for the human resources information needs for XMML.com. This version is dated 2001-11-10. Version 0.03. The schema accesses and uses type definitions from the XMMLCore.xsd file"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "</xsd:documentation> </xsd:annotation>"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "container-title": [
+      "It has a sequence of Person child elements"
+    ],
+    "issue": [
+      "0"
+    ],
+    "note": [
+      "which are unbounded in number."
+    ],
+    "pages": [
+      "–8"
+    ],
+    "title": [
+      "> <xsd:annotation> <xsd:documentation> A hypothetical schema for the human resources information needs for XMML.com. This version is dated 2001-11-10. Version 1.0. The schema accesses and uses type definitions and/or element declarations from the XMMLCore.xsd file. </xsd:documentation> </xsd:annotation> <xsd:include schemaLocation=\"XMMLCore.xsd\"/> <xsd:element name=\"XMMLHRFile\"> <xsd:annotation> <xsd:documentation> The XMMLHRFile element is the document element for the XMMLHR schema"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "</xsd:documentation> </xsd:annotation> <xsd:complexType> <xsd:sequence> continues"
+    ],
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "type": null,
+    "url": [
+      "<xsd:restriction base=\"xsd:date\"> <xsd:minInclusive value=\"1935-01-01\"/> <xsd:maxInclusive value=\"1984-01-01\"/> </xsd:restriction> </xsd:simpleType>"
+    ]
+  },
+  {
+    "note": [
+      "pattern, <xsd:pattern> for, 282—284 #PCDATA in, 62–63, 73 restriction of, <xsd:restriction> and, 102—106, 3—tuple of, 185 260, 271—279 totalDigits facet for, <xsd:totalDigits>, reusing element/attribute definitions by 171—174, 183, 237—238 grouping, 243—253 unions and <xsd:union>, 163—167 <xsd:complexContent> and, 99—108 Index 381"
+    ],
+    "pages": [
+      "227–230",
+      "25–42,",
+      "114",
+      "54–56 200–211"
+    ],
+    "title": [
+      "common attributes, 128—129 maxLength facet for, <xsd:maxLength>, 168, complex content, <complexContent>, 49, 72, 81, 170—171, 198—200 99—108 minExclusive, <xsd:minExclusive> facet, 219, complex types, <complexType> element",
+      "minInclusive, <xsd:minInclusive>, 219, attribute groups in, 62 230—237 empty elements as, 46—51 minLength facet for, <xsd:minLength>, enumeration and, for special restriction, 168–171, 195—198 279—282 minOccurs and maxOccurs in, 167 extension, <xsd:extension> and, 260—271, 316 pattern matching, <xsd:pattern>, 180—181, 183, minOccurs and maxOccurs in"
+    ],
+    "type": null,
+    "volume": [
+      "4, 7, 15",
+      "17",
+      "80, 99, 112"
+    ]
+  },
+  {
+    "citation-number": [
+      "375—376"
+    ],
+    "container-title": [
+      "<xsd:minLength>"
+    ],
+    "issue": [
+      ", <xsd:minLength>, 168—171, 182, 187, maxExclusive, <xsd:maxExclusive>, 182, 186",
+      "ema, 305—325"
+    ],
+    "note": [
+      "importing in, <xsd:import>, 315–316, minInclusive,",
+      "376 namespaces and, 316—321 totalDigits, <xsd:totalDigits> facets, naming schema components for, 306 237—238 redefining components, <xsd:redefine> for, numeric facet, 373 312—316 type libraries in, 307—309 O uses for, 306—325 object oriented (OO) languages, 77"
+    ],
+    "pages": [
+      "230–237, 376 174–175,",
+      "237–238,",
+      "195–198, 376 219–225, 374–375",
+      "198–200,",
+      "328–329",
+      "375–376",
+      "321–325",
+      "230–237,",
+      "307–312",
+      "195–198,"
+    ],
+    "title": [
+      "numeric data minInclusive, <xsd:minInclusive>, 182, 187, 219, fractionDigits, <xsd:fractionDigits> facet",
+      "minOccurs, 35–36, 51—56, 167 maxInclusive, <xsd:maxInclusive>, 182, 186, elements and, 82, 84—85 219, 225—227, 375 mixed content, 31—34, 100 maxLength, <xsd:maxLength>, 168, 170—171, model groups (see also grouping elements and",
+      "376 including components, <xsd:include> for, minLength"
+    ],
+    "type": "article-journal",
+    "url": [
+      "<xsd:minInclusive>,"
+    ],
+    "volume": [
+      "171",
+      "182, 186",
+      "182, 186",
+      "219",
+      "182, 187",
+      "219",
+      "168—171, 182",
+      "187"
+    ]
+  },
+  {
+    "pages": [
+      "51–56"
+    ],
+    "title": [
+      "MSXML parser, 8, 13 occurrence constraints"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "206–211 212–216"
+    ],
+    "title": [
+      "Postal Code example using <xsd:pattern>, enumeration, <xsd:enumeration> facet"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "reusing element/attribute definitions by preserve setting, 176, 216 grouping, 240—253"
+    ],
+    "pages": [
+      "317–320"
+    ],
+    "title": [
+      "#PCDATA content, 62—63, 73 fractionDigits, <xsd:fractionDigits> facet, plus sign (+) operator, 51 237—238 repeatable elements and, 74—75 length constraints in, <xsd:length>, 190—195 <positiveInteger>, 155, 365—366 pattern matching, <xsd:pattern facet>, 202—211 Postal Code example using <xsd:pattern facet>, <pattern> and, for special restriction, 282—284 206—211 totalDigits, <xsd:totalDigits> facets, 237—238 prefixes for namespaces"
+    ],
+    "type": null,
+    "volume": [
+      "102, 110, 284"
+    ]
+  }
+]
