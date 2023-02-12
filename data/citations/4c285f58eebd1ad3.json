@@ -1,0 +1,323 @@
+[
+  {
+    "citation-number": [
+      "glCompileShader(id);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "m_FragmentShaderId = glCreateShader(GL_FRAGMENT_SHADER); LoadShader(m_FragmentShaderId, m_FragmentShaderCode);"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "andle = glGetAttribLocation(m_ProgramId, \"a_vPosition\")"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "glCompileShader(id);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::string m_VertexShaderCode; std::string m_FragmentShaderCode; public: Shader() = default; virtual ~Shader() = default"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "LoadShader(m_FragmentShaderId, m_FragmentShaderCode); glLinkProgram(m_ProgramId); "
+    ],
+    "title": [
+      "m_VertexShaderId = glCreateShader(GL_VERTEX_SHADER); LoadShader(m_VertexShaderId, m_VertexShaderCode); m_FragmentShaderId = glCreateShader(GL_FRAGMENT_SHADER"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "private: GLint m_PositionAttributeHandle;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "triangle.SetVertices",
+        "given": "triangleSetIndices"
+      }
+    ],
+    "container-title": [
+      "glClearColor(0.25f"
+    ],
+    "issue": [
+      "25f"
+    ],
+    "pages": [
+      "0 95 , 1 0"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "basicShader.Setup(triangle);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "glShaderSource(id, NUM_SHADERS, &pCode, &length); glCompileShader(id);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::string m_VertexShaderCode; std::string m_FragmentShaderCode; public: Shader() = default; virtual ~Shader() = default"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "m_VertexShaderId = glCreateShader(GL_VERTEX_SHADER); LoadShader(m_VertexShaderId, m_VertexShaderCode); m_FragmentShaderId = glCreateShader(GL_FRAGMENT_SHADER); LoadShader(m_FragmentShaderId, m_FragmentShaderCode"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GLint m_PositionAttributeHandle; GLint m_TextureCoordinateAttributeHandle; GLint m_SamplerHandle"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "m_PositionAttributeHandle = glGetAttribLocation(m_ProgramId, \"a_vPosition\"); m_TextureCoordinateAttributeHandle = glGetAttribLocation(m_ProgramId, \"a_vTexCoord\""
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "glTexParameteri",
+        "given": "glTexParameteri"
+      },
+      {
+        "family": "glTexParameteri",
+        "given": "glTexParameteri"
+      }
+    ],
+    "note": [
+      "GL_LINEAR); glVertexAttribPointer( m_PositionAttributeHandle, geometry.GetNumVertexPositionElements(), GL_FLOAT, GL_FALSE, geometry.GetVertexStride(), geometry.GetVertices()); glEnableVertexAttribArray(m_PositionAttributeHandle);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "private: Vertices m_Vertices; Indices m_Indices;"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "eader* m_pHeader{}; void* m_pImageData{}"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "fileStream.seekg(0,"
+    ],
+    "note": [
+      "std::ios::beg); fileStream.read(m_FileData.data(), m_FileData.size());"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "glShaderSource(id, NUM_SHADERS, &pCode, &length); glCompileShader(id);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::string m_VertexShaderCode; std::string m_FragmentShaderCode; public: Shader() = default; virtual ~Shader() = default"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "LoadShader(m_FragmentShaderId, m_FragmentShaderCode); glLinkProgram(m_ProgramId); "
+    ],
+    "title": [
+      "m_VertexShaderId = glCreateShader(GL_VERTEX_SHADER); LoadShader(m_VertexShaderId, m_VertexShaderCode); m_FragmentShaderId = glCreateShader(GL_FRAGMENT_SHADER"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GLint m_PositionAttributeHandle; GLint m_TextureCoordinateAttributeHandle; GLint m_SamplerHandle"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "m_PositionAttributeHandle = glGetAttribLocation(m_ProgramId, \"a_vPosition\"); m_TextureCoordinateAttributeHandle = glGetAttribLocation(m_ProgramId, \"a_vTexCoord\""
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "glTexParameteri",
+        "given": "glTexParameteri"
+      },
+      {
+        "family": "glTexParameteri",
+        "given": "glTexParameteri"
+      }
+    ],
+    "note": [
+      "GL_LINEAR); glVertexAttribPointer( m_PositionAttributeHandle, geometry.GetNumVertexPositionElements(), GL_FLOAT, GL_FALSE, geometry.GetVertexStride(), geometry.GetVertices()); glEnableVertexAttribArray(m_PositionAttributeHandle);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TextureShader textureShader(myTexture); textureShader.Link();"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "quad.SetVertices(vertices); quad.SetIndices(indices); quad.SetNumVertexPositionElements(3); quad.SetNumTexCoordElements(2); quad.SetVertexStride(sizeof(float) * 5);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "glClear(GL_COLOR_BUFFER_BIT);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "private: Vertices m_Vertices; Indices m_Indices;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "const OBJFile::Vertices& objVertexPositions{ objFile.GetVertices() }; const OBJFile::TextureCoordinates& objTextureCoordinates{ objFile.GetTextureCoordinates() }"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "const OBJFile::Vertices& objVertexPositions{ objFile.GetVertices() }; const OBJFile::TextureCoordinates& objTextureCoordinates{ objFile.GetTextureCoordinates() }"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "eader* m_pHeader{}; void* m_pImageData{}"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "fileStream.seekg(0,"
+    ],
+    "note": [
+      "std::ios::beg); fileStream.read(m_FileData.data(), m_FileData.size());"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "glShaderSource(id, NUM_SHADERS, &pCode, &length); glCompileShader(id);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::string m_VertexShaderCode; std::string m_FragmentShaderCode; public: Shader() = default; virtual ~Shader() = default"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "LoadShader(m_FragmentShaderId, m_FragmentShaderCode); glLinkProgram(m_ProgramId); "
+    ],
+    "title": [
+      "m_VertexShaderId = glCreateShader(GL_VERTEX_SHADER); LoadShader(m_VertexShaderId, m_VertexShaderCode); m_FragmentShaderId = glCreateShader(GL_FRAGMENT_SHADER"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "GLint m_PositionAttributeHandle; GLint m_TextureCoordinateAttributeHandle; GLint m_SamplerHandle"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "m_PositionAttributeHandle = glGetAttribLocation(m_ProgramId, \"a_vPosition\"); m_TextureCoordinateAttributeHandle = glGetAttribLocation(m_ProgramId, \"a_vTexCoord\""
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "glTexParameteri",
+        "given": "glTexParameteri"
+      },
+      {
+        "family": "glTexParameteri",
+        "given": "glTexParameteri"
+      }
+    ],
+    "note": [
+      "GL_LINEAR); glVertexAttribPointer( m_PositionAttributeHandle, geometry.GetNumVertexPositionElements(), GL_FLOAT, GL_FALSE, geometry.GetVertexStride(), geometry.GetVertices()); glEnableVertexAttribArray(m_PositionAttributeHandle);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "window",
+        "given": "GLFWwindow"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "TextureShader textureShader(myTexture); textureShader.Link(); OBJFile objSphere(\"sphere.obj\"); Geometry sphere(objSphere);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "glClearColor(0.0f,"
+    ],
+    "note": [
+      "0.0f, 0.0f, 1.0f); glEnable(GL_CULL_FACE); glCullFace(GL_BACK); glEnable(GL_DEPTH_TEST);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "textureShader.Setup(sphere);"
+    ],
+    "type": null
+  }
+]
