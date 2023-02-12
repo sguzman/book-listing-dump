@@ -1,0 +1,358 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "Andrei"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Modern C++ Design"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "ACM Code of Ethics and Professional Conduct"
+    ],
+    "title": [
+      "Association for Computing Machinery"
+    ],
+    "type": "chapter",
+    "url": [
+      "www.acm.org/constitution/code.html."
+    ]
+  },
+  {
+    "author": [],
+    "title": [
+      "Software Engineering Code of Ethics and Professional Practice"
+    ],
+    "type": null,
+    "url": [
+      "www.acm.org/serving/se/code.htm."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cline",
+        "given": "Marshall P."
+      },
+      {
+        "family": "Lomow",
+        "given": "Greg A."
+      },
+      {
+        "family": "FAQs",
+        "given": "Mike Girou C.++"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Helm",
+        "given": "Richard"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "Nicolai"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The C++ Standard Library"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Robert"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Agile Software Development"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective STL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dewhurst",
+        "given": "Stephen C."
+      },
+      {
+        "family": "Stark",
+        "given": "Kathy T."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Programming in C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strunk",
+        "given": "William"
+      },
+      {
+        "family": "White",
+        "given": "E.B."
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "edition": [
+      "3d"
+    ],
+    "publisher": [
+      "Macmillan"
+    ],
+    "title": [
+      "The Elements of Style"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "More Exceptional C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "E.B."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "HarperCollins"
+    ],
+    "title": [
+      "Writings from The New Yorker"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "operator",
+        "particle": "arrow"
+      }
+    ],
+    "note": [
+      "See downcasting. associativity incomplete types, 100–101 and precedence, 42 under multiple inheritance, 98–100, 147 problems, 44–45 non-dynamic casts. See static casts."
+    ],
+    "title": [
+      "58–60, 257–258 cast operators vs. conversion operators, assert macro, 72–74 24–25 assertions, side effects, 72–74 casting. See also void *. assignment vs. initialization, 125–129, base class pointers to derived class 139–141 pointers"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "reference data members, 245–247 capability queries, 302–306 templated copy operations, 268–270 Index ❘ 311"
+    ],
+    "pages": [
+      "220"
+    ],
+    "title": [
+      "C++ base language friend vs. member operators, 262–264 conditional operator, 15–16 get/set interfaces, 241–245 fallthrough, 17–19 increment operator, 264–268 index operator, 16–17 operator overloading, 258–264 logical operators, 14–15 operator precedence, 261–262 switch-statements, 17 overloading, 258–262 calling a pure virtual function"
+    ],
+    "type": null,
+    "volume": [
+      "212"
+    ]
+  },
+  {
+    "note": [
+      "static_cast in preference to, 146 reinterpret_cast, 76, 100–101 formal arguments slicing derived class objects, 79–81 passing by reference, 109 static casts, 103–105 passing by value, 108–109 temporaries, 110–115. See also temporary initialization, 106–109 anonymous temporaries. functions for, 90–94 void *, 75–78 implicit converting types. See casting; void *. ambiguous results, 90–94 copy constructor base, initializing, 147–150 Index ❘ 313"
+    ],
+    "pages": [
+      "100–101"
+    ],
+    "title": [
+      "conversions constructor conversions, 95–98 array names vs. constant pointers, 87 contravariance, 120–123 casting from derived class to public base, 122 incomplete types, 100–101 initialization of formal arguments, multiple inheritance, 98–100 106–109 under multiple inheritance, 98–100 references, 112–115 old-style casts, 102–103 initializing reinterpret_cast, 76, 100–101 formal arguments, 106–109 static casts, 103–105 references, 112–115 const pointers Meyers, Scott, 105 vs. array names, 87 objects, temporary lifetime, 110–111 pointer-to-const conversion, 81–82 old-style casts, 102–103 const_cast operator, 103–105, 112, platform dependency, 76 246, 252 pointer-to-const conversion, 81–82 contravariance, 120–123 pointer-to-multidimensional arrays, delta arithmetic 87–88 casting incomplete types, 101 pointer-to-pointer-to-base conversion, class object addresses, 98–100 86–87 correcting this value in virtual pointer-to-pointer-to-const conversion, function call, 235–236 82–86 downcasting, 89 pointers downcasting, 89 converting, 82–86 dynamic_cast operator to incomplete class types, 100–101 ambiguity, 116–120 to members, converting, 120–123 to ask a personal question of a to pointers to derived classes, 86–87 type, 300 qualification conversions, 82–86 for a capability query, 303–304 references of pointer to virtual base sub- as aliases, 112–115 object, 146 conversions, 112–115 in preference to static cast, 89 to incomplete class types"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "references, 10–13 destructors, 218–220 throwing, 181 default argument initializers, polymorphism 216–217. See also overloading, algorithms, variant and invariant, virtual functions. 212–214 overloading, 214–215. See also default initialization. Index ❘ 321"
+    ],
+    "title": [
+      "pointer-to-const conversion, 81–82 object-oriented to non-object-oriented pointer-to-multidimensional array, 87–88 communication, 202 pointer-to-pointer-to-base conversion, overloading 86–87 vs. hiding and overriding, 224–230 pointer-to-pointer-to-const conversion, virtual functions, 214–215. See also 82–86 default initialization. pointers overriding containers of, 255–258 definition, 232 converting, 82–86 mechanism, 230–236 to functions, 13 vs. overloading and hiding, 224–230 to incomplete class types, 100–101 switching on type codes, 200 to local variables, 185 type codes, 199–204 to members, 9 virtual assignment, 220–224 to members, converting, 120–123 virtual copy construction, 223 ownership, 255–258 virtual functions to pointers to derived classes, 86–87 calling in a nonvirtual manner, 211 precedence problems, 43–44 calling in constructors and vs"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "literals, defining, 61–63 See also Schwarz counter."
+    ],
+    "pages": [
+      "152–153"
+    ],
+    "title": [
+      "#define pseudofunctions, 64–66 readability. See also comments; #if maintenance. debugging, 66–69 formatting code, 29–31 platform independence, 69 unnecessary cleverness, 29–31 portability, 69–70 recompilation, avoiding, 21, 283 in the real world, 71–72 reference counting, 257 varying class implementation, 70–71 reference counting inclusions"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "10 scope, #define literals, 61–63 references preprocessor macros, side effects, 16 as aliases, 10–13, 112–115 322 ❘ Index"
+    ],
+    "title": [
+      "NDEBUG, mysterious failures, 67 reference data members, 245–247 pseudofunctions, defining, 64–66 reference type name, ignoring qualifiers"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Visit us online for more books and more information, and to read sample chapters: www.awprofessional.com C++ Courses and Services"
+    ],
+    "type": null
+  }
+]
