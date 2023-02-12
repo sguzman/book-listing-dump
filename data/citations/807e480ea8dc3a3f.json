@@ -1,0 +1,854 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alexandrescu",
+        "given": "A."
+      },
+      {
+        "family": "Design",
+        "given": "Modern C.++"
+      },
+      {
+        "given": "Addison-Wesley"
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Baxter",
+        "given": "M."
+      },
+      {
+        "family": "Rennie",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Financial Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bjork",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Arbitrage Theory in Continuous Time"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dalton",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "2007"
+    ],
+    "publisher": [
+      "Second Edition, Wiley"
+    ],
+    "title": [
+      "Financial Applications using Excel Add-in Development in C/C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dupire",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Risk Books"
+    ],
+    "title": [
+      "Monte Carlo: Methodologies and Applications for Pricing and Risk Management"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Entsminger",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Hungry Minds Inc"
+    ],
+    "title": [
+      "The Tao of Objects"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "E."
+      },
+      {
+        "family": "Helm",
+        "given": "R."
+      },
+      {
+        "family": "Johnson",
+        "given": "R."
+      },
+      {
+        "family": "Vlissides",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns: Elements of Reusable Object-Oriented Software"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Grimmett",
+        "given": "G."
+      },
+      {
+        "family": "Stirzaker",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "second"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "Probability and Random Processes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Haug",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Irwin Professional"
+    ],
+    "title": [
+      "The Complete Guide to Option Pricing Formulas"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hull",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "fifth"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Options, Futures, and Other Derivatives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jackel",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Monte Carlo Methods in Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Josuttis",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Standard Library, Addison-Wesley"
+    ],
+    "title": [
+      "The C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Joshi",
+        "given": "M.S."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "2003"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "The Concepts and Practice of Mathematical Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karatzas",
+        "given": "I."
+      },
+      {
+        "family": "Shreve",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Brownian Motion and Stochastic Calculus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Karatzas",
+        "given": "I."
+      },
+      {
+        "family": "Shreve",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Methods of Mathematical Finance"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lakos",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Addison–Wesley"
+    ],
+    "title": [
+      "Large Scale C++ Software Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "A.L."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Finance Press"
+    ],
+    "title": [
+      "Option Valuation under Stochastic Volatility"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "second"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Effective C++"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      },
+      {
+        "family": "C++",
+        "given": "More Effective"
+      },
+      {
+        "given": "Addison-Wesley"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "date": [
+      "1995"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "S."
+      },
+      {
+        "family": "STL",
+        "given": "Effective"
+      },
+      {
+        "given": "Addison-Wesley"
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "date": [
+      "2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Moro",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "Risk"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "53–57"
+    ],
+    "title": [
+      "The full monte"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Merton",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Blackwell"
+    ],
+    "title": [
+      "Continuous-Time Finance"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Merton",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "Journal of Financial Economics"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "125–144"
+    ],
+    "title": [
+      "Option pricing when underlying stock returns are discontinuous"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Muldner",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "C++ Programming: with Design Patterns Revealed"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Musiela",
+        "given": "M."
+      },
+      {
+        "family": "Rutowski",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Martingale Methods in Financial Modelling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Oksendal",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Stochastic Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Park",
+        "given": "S.K."
+      },
+      {
+        "family": "Miller",
+        "given": "K.W."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "container-title": [
+      "ACM"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "1192–1201"
+    ],
+    "title": [
+      "Random number generators: good ones are hard to find, Comm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Press",
+        "given": "W.H."
+      },
+      {
+        "family": "Teutolsky",
+        "given": "S.A."
+      },
+      {
+        "family": "Vetterling",
+        "given": "W.T."
+      },
+      {
+        "family": "Flannery",
+        "given": "B.P."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "second"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in C"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rogers",
+        "given": "L.C.G."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "2001"
+    ],
+    "genre": [
+      "Preprint,"
+    ],
+    "publisher": [
+      "University of Bath"
+    ],
+    "title": [
+      "Monte Carlo Valuation of American Options"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shalloway",
+        "given": "A."
+      },
+      {
+        "family": "Trott",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Design Patterns Explained: A New Perspective on Object-Oriented Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stroustrup",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "third"
+    ],
+    "publisher": [
+      "Addison–Wesley"
+    ],
+    "title": [
+      "The C++ Programming Language"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "C++",
+        "given": "Exceptional"
+      },
+      {
+        "given": "Addison–Wesley"
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "date": [
+      "2000"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "C++",
+        "given": "More Exceptional"
+      },
+      {
+        "given": "Addison–Wesley"
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "date": [
+      "2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "H."
+      },
+      {
+        "family": "style",
+        "given": "Exceptional C.++"
+      },
+      {
+        "given": "Addison–Wesley"
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "date": [
+      "2004"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Vandevoorde",
+        "given": "D."
+      },
+      {
+        "family": "Josuttis",
+        "given": "N.M."
+      },
+      {
+        "family": "Templates",
+        "given": "C.++"
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "Index"
+    ],
+    "publisher": [
+      "Addison–Wesley"
+    ],
+    "title": [
+      "The Complete Guide"
+    ],
+    "type": null
+  }
+]
