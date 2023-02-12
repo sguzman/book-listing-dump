@@ -1,0 +1,167 @@
+[
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Create a Logger object. Typically, the package hierarchy — including the class name — is used: Logger WroxTestLogger = Logger.getLogger(“wroxLogging.WroxLoggingTest”); 2. Once the Logger is in place, set the logging level to the Logger object: WroxTestLogger.setLevel(Level.DEBUG"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "5. Finally, add this Appender object to the Logger object: WroxTestLogger.addAppender(WroxFileAppender);"
+    ],
+    "title": [
+      "Create an instance of the Layout to be used: SimpleLayout WroxSimpleLayout = new SimpleLayout(); 4. Create an instance of the Appender to be used and use the Layout object: FileAppender WroxFileAppender = new FileAppender(WroxSimpleLayout,”WroxSampleLog.log”"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "//Assign a SimpleLayout to the FileAppender FileAppender WroxFileAppender= new FileAppender(WroxSimpleLayout,”WroxSampleLog.log”"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// Load the properties using the PropertyConfigurator PropertyConfigurator.configure(“SampleLog.properties”"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "W.A.R.N."
+      }
+    ],
+    "note": [
+      "Wrox Logging in progress by : wroxLogging.SampleLogTest.SampleSubLogTest"
+    ],
+    "title": [
+      "Wrox Logging in progress by : wroxLogging.SampleLogTest ERROR -- Wrox Logging in progress by : wroxLogging.SampleLogTest FATAL -- Wrox Logging in progress by : wroxLogging.SampleLogTest WARN -- Wrox Logging in progress by : wroxLogging.SampleLogTest.SampleSubLogTest ERROR -- Wrox Logging in progress by : wroxLogging.SampleLogTest.SampleSubLogTest FATAL"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "File Location Properties file location D:\\Apps\\Tomcat5\\webapps\\jsp-examples\\WEB-INF\\ SMTPLog.properties JSP location D:\\Apps\\Tomcat5\\webapps\\jsp-examples\\SMTPLog.jsp"
+    ],
+    "title": [
+      "The following table shows the required settings for this example"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "SMTPLogproperties"
+      }
+    ],
+    "container-title": [
+      "# WroxSMTPLog.properties log4j.logger.wroxLogging.WroxLogger = DEBUG, SMTPDest"
+    ],
+    "title": [
+      "Log Configuration File The following code shows the log configuration file"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "SMTPLogjsp"
+      }
+    ],
+    "title": [
+      "Sample JSP for Testing Following is the sample JSP code for testing"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "2003-08-03 12:35:27,569 ERROR [http8080-Processor25] wroxLogging.WroxLogger --ERROR -- logging message !"
+    ],
+    "title": [
+      "SMTP Message Contents The log messages are sent as e-mail. The following lines show typical contents of the generated e-mail"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "wroxLogging.WroxLogger –FATAL -- logging message !"
+    ],
+    "date": [
+      "2003-08-03"
+    ],
+    "issue": [
+      "ttp8080-Processor25"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "L"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Select the File pull-down menu, followed by Project"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "publisher": [
+      "Select Next"
+    ],
+    "title": [
+      "Select the Java node on the left and the Tomcat Project item on the right"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "publisher": [
+      "Select Finish"
+    ],
+    "title": [
+      "Give the project a name and select Next. 4"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Select the Window pull-down menu, followed by Customize Perspective"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "Click the Commands tab."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "Check the Tomcat checkbox on the left, and select OK"
+    ],
+    "type": null
+  }
+]
