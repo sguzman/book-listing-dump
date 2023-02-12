@@ -1,0 +1,2103 @@
+[
+  {
+    "title": [
+      "MOSFETs are discussed in a large number of books and an even larger number of journal articles. All of the books listed below contain excellent discussions of MOSFET characteristics. A few select journal articles have also been listed to aid the reader in performing a literature search that starts with some original papers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Akers",
+        "given": "L.A."
+      },
+      {
+        "family": "Sanchez",
+        "given": "J.J."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Solid-State Electronics"
+    ],
+    "date": [
+      "1982-07"
+    ],
+    "pages": [
+      "621–641,"
+    ],
+    "title": [
+      "Threshold Voltage Models of Short, Narrow and Small Geometry MOSFET’s: A Review”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Semiconductor Device Modelling with SPICE"
+    ],
+    "date": [
+      "1988"
+    ],
+    "editor": [
+      {
+        "given": "Massobrio"
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Antognetti and G"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brews",
+        "given": "J.R."
+      },
+      {
+        "family": "Fichtner",
+        "given": "W."
+      },
+      {
+        "family": "Nicollian",
+        "given": "E.H."
+      },
+      {
+        "family": "Sze",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "IEEE Electron Device Letters"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "2–4,"
+    ],
+    "title": [
+      "Generalized guide for MOSFET Miniaturization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "EDL-1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chi",
+        "given": "J.Y."
+      },
+      {
+        "family": "Holstrom",
+        "given": "R.P."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Solid-State Electronics"
+    ],
+    "date": [
+      "1983-07"
+    ],
+    "pages": [
+      "667–670,"
+    ],
+    "title": [
+      "Constant voltage scaling of FET’s for high frequency and high power applications”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cottrell",
+        "given": "P.E."
+      },
+      {
+        "family": "Troutman",
+        "given": "R.R."
+      },
+      {
+        "family": "Ning",
+        "given": "T.H."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "IEEE Trans. Electron Devices"
+    ],
+    "date": [
+      "1979-04"
+    ],
+    "pages": [
+      "520–532,"
+    ],
+    "title": [
+      "Hot-Electron Emission in N-Channel IGFET’s”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "ED-26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deen",
+        "given": "M.J."
+      },
+      {
+        "family": "Zuo",
+        "given": "Z.P."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "IEEE Trans. Electron Devices"
+    ],
+    "date": [
+      "1991-08"
+    ],
+    "pages": [
+      "1815–1819,"
+    ],
+    "title": [
+      "Edge Effects in Narrow-Width MOSFET’s”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dennard",
+        "given": "R.H."
+      },
+      {
+        "family": "al",
+        "particle": "et."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1974-10"
+    ],
+    "pages": [
+      "256–268,"
+    ],
+    "title": [
+      "Design of ion-implanted MOSFETs with very small physical dimensions”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SC-9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Divekar",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "FET Modeling for Circuit Simulation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Foty",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "title": [
+      "MOSFET Modelling with SPICE, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Krieger",
+        "given": "G."
+      },
+      {
+        "family": "Sikora",
+        "given": "R."
+      },
+      {
+        "family": "Ceuvas",
+        "given": "P.P."
+      },
+      {
+        "family": "Misheloff",
+        "given": "M.N."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "IEEE Trans. Electron Devices"
+    ],
+    "date": [
+      "1991-01"
+    ],
+    "pages": [
+      "121–127,"
+    ],
+    "title": [
+      "Moderately Doped NMOS (M-LDD)-Hot Electron and Current Drive Optimization”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pierret",
+        "given": "Robert F."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Semiconductor Device Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sheu",
+        "given": "B.J."
+      },
+      {
+        "family": "Scharfetter",
+        "given": "D.L."
+      },
+      {
+        "family": "Ko",
+        "given": "P.-K."
+      },
+      {
+        "family": "Jeng",
+        "given": "M.-C."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1987-08"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "558–565,"
+    ],
+    "title": [
+      "BSIM: Berkeley Short-Channel IGFET Model for MOS Transistors”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sze",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1981"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Physics of Semiconductor Devices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Toh",
+        "given": "K.-Y."
+      },
+      {
+        "family": "Ko",
+        "given": "P.-K."
+      },
+      {
+        "family": "Meyer",
+        "given": "R.G."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "950–957,"
+    ],
+    "title": [
+      "An Engineering Model for Short-Channel MOS Devices’”"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "E.S."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Microelectronic Devices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "P",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Tsividis, Operation and Modeling of The MOS Transistor"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "The circuit designer usually views the fabrication technology as the basis for layout. There are many excellent books on the subject. A few select titles are listed below, but additional literature can easily be found in a library or using the resources of the world-wide web"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Campbell",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Oxford University Press"
+    ],
+    "title": [
+      "The Science and Engineering of Microelectronic Fabrication"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "C.Y."
+      },
+      {
+        "family": "Sze",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "ULSI Technology, McGraw-Hill Book Company"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "Manufacturing Yield Evaluation of Vlsi/Wsi Systems"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Ciciani",
+        "given": "B."
+      }
+    ],
+    "publisher": [
+      "IEEE Computer Society"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "J.-P."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Colinge, Silicon-on-Insulator Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cogan",
+        "given": "D.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Design and Technology of Integrated Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ghandhi",
+        "given": "S.K."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "VLSI Fabrication Principles"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "IDDQ Testing of VLSI Circuits"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "Gulati",
+        "given": "R.K."
+      },
+      {
+        "family": "Hawkins",
+        "given": "C.F."
+      }
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Jha",
+        "given": "N.J."
+      },
+      {
+        "family": "Kundu",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Testing and Reliable Design of CMOS Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Madou",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Fundamentals of Microfabrication"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rajsuman",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "The Artech House"
+    ],
+    "title": [
+      "Iddq Testing for Cmos Vlsi"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sarrafzadeh",
+        "given": "M."
+      },
+      {
+        "family": "Wong",
+        "given": "C.K."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "An Introduction to VLSI Physical Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sherwani",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Algorithms for VLSI Physical Design Automation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sze",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Company"
+    ],
+    "title": [
+      "VLSI Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Troutman",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Latchup in CMOS Technology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Uyemura",
+        "given": "J.P."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "PWS Publishers"
+    ],
+    "title": [
+      "Physical Design of CMOS Integrated Circuits Using L-Edit"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "All of the books listed below examine the CMOS inverter from different perspectives"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bellaouar",
+        "given": "A."
+      },
+      {
+        "family": "Elmasry",
+        "given": "M.I."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Low Power Digital VLSI Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chandrakasan",
+        "given": "A.P."
+      },
+      {
+        "family": "Broderson",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Low Power Digital CMOS Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DeMassa",
+        "given": "T.A."
+      },
+      {
+        "family": "Ciccone",
+        "given": "Z."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Digital Integrated Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hodges",
+        "given": "D.A."
+      },
+      {
+        "family": "Jackson",
+        "given": "H.J."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "2nd."
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Analysis and Design of Digital Integrated Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "title": [
+      "Rabaey, Digital Integrated Circuits, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shoji",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "title": [
+      "CMOS Digital Circuit Technology, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Weste",
+        "given": "N."
+      },
+      {
+        "family": "Eshraghian",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "CMOS VLSI Design"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Low Power Design Methodologies"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Rabaey",
+        "given": "J.M."
+      },
+      {
+        "family": "Pedram",
+        "given": "M."
+      }
+    ],
+    "location": [
+      "Norwell, MA"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Yeap",
+        "given": "Gary K."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Practical Low Power Digital VLSI Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dobberpuhl",
+        "given": "D.W."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "Digital Technical Journal"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "4 "
+    ],
+    "pages": [
+      "35–50,"
+    ],
+    "title": [
+      "A 200 MHz 64-bit Dual-issue CMOS Processor"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Friedman",
+        "given": "V."
+      },
+      {
+        "family": "Liu",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1984-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "263–266,"
+    ],
+    "title": [
+      "Dynamic Logic CMOS Circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goncalves",
+        "given": "N.F."
+      },
+      {
+        "family": "DeMan",
+        "given": "H.J."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1983-06"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "261–266,"
+    ],
+    "title": [
+      "NORA: A Racefree Dynamic CMOS Technique for Pipelined Logic Structures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gu",
+        "given": "R.X."
+      },
+      {
+        "family": "Elmasry",
+        "given": "M.I."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1996-02"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "221–299,"
+    ],
+    "title": [
+      "All N-Logic High-Speed True Single-Phase Dynamic CMOS Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "I.S."
+      },
+      {
+        "family": "Fisher",
+        "given": "A.J."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1989-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "358–369,"
+    ],
+    "title": [
+      "Ultrafast Compact 32-bit CMOS Adder in Multiple-Output Domino Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ji-ren",
+        "given": "Y."
+      },
+      {
+        "family": "Karlsson",
+        "given": "I."
+      },
+      {
+        "family": "Svenson",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "899–901,"
+    ],
+    "title": [
+      "A true single phase clock dynamic CMOS circuit technique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SC-22"
+    ]
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "R.H. Krambek, C.M. Lee, and H-F. Law,”"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1982-04"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "614–618,"
+    ],
+    "title": [
+      "High-speed compact circuits with CMOS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pretorius",
+        "given": "J.A."
+      },
+      {
+        "family": "Shubat",
+        "given": "A.S."
+      },
+      {
+        "family": "Salama",
+        "given": "C.A.T."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1985-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "523–530,"
+    ],
+    "title": [
+      "Analysis and design optimization of domino CMOS logic with applications to standard cells"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pretorius",
+        "given": "J.A."
+      },
+      {
+        "family": "Shubat",
+        "given": "A.S."
+      },
+      {
+        "family": "Salama",
+        "given": "C.A.T."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "IEEE Trans. Circuits and Systems"
+    ],
+    "date": [
+      "1986-08"
+    ],
+    "issue": [
+      "8"
+    ],
+    "pages": [
+      "786–793,"
+    ],
+    "title": [
+      "Charge distribution and noise margins in domino CMOS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rabaey",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "title": [
+      "Digital Integrated Circuits, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shoji",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Englewood cliff, NJ"
+    ],
+    "title": [
+      "CMOS Digital Circuit Technology, Prentice-Hall"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shoji",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1985-10"
+    ],
+    "pages": [
+      "1067–1071,"
+    ],
+    "title": [
+      "FET Scaling in Domino CMOS gates"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "SC-20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yuan",
+        "given": "J."
+      },
+      {
+        "family": "Svensen",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1989-02"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "62–70,"
+    ],
+    "title": [
+      "High-Speed CMOS Circuit Technique"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chu",
+        "given": "K.M."
+      },
+      {
+        "family": "Pulfrey",
+        "given": "D.L."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1987-08"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "528–532,"
+    ],
+    "title": [
+      "A Comparison of CMOS Circuit Techniques: Differential Cascode Voltage Switch Logic Versus Conventional Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chu",
+        "given": "K.M."
+      },
+      {
+        "family": "D.L",
+        "given": "Pulfrey"
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1986-12"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1082–1087,"
+    ],
+    "title": [
+      "Design Procedures for Differential Cascode Voltage Switch Logic Circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grotjohn",
+        "given": "T.A."
+      },
+      {
+        "family": "Hoefflinger",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1986-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "367–369,"
+    ],
+    "title": [
+      "Sample-Set Differential Logic (SSDL) for Complex High-Speed VLSI"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Heller",
+        "given": "L.G."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "date": [
+      "1984-02"
+    ],
+    "pages": [
+      "16–17,"
+    ],
+    "title": [
+      "Cascode voltage switch logic: a differential CMOS logic family, ISSCC84 Digest"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kanopoulos",
+        "given": "N."
+      },
+      {
+        "family": "Vasanthavada",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "806–812,"
+    ],
+    "title": [
+      "Testing of Differential Cascode Voltage Switch (DCVS) Circuits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lai",
+        "given": "F.-S."
+      },
+      {
+        "family": "Hwang",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1997-04"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "563–573,"
+    ],
+    "title": [
+      "Design and Implementation of Differential Cascode Voltage Switch with Pass-Gate (DCVSPG) Logic for High-Performance Digital Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lu",
+        "given": "S.-H."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1013–1017,"
+    ],
+    "title": [
+      "Implementation of Iterative Networks with CMOS Differential Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Somasekhar",
+        "given": "D."
+      },
+      {
+        "family": "Roy",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1996-07"
+    ],
+    "issue": [
+      "7"
+    ],
+    "pages": [
+      "981–991,"
+    ],
+    "title": [
+      "Differential Current Switch Logic: A Low Power DCVS Logic Family"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Suzuki",
+        "given": "M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "1145–1151, ,"
+    ],
+    "title": [
+      "A 1.5ns 32-b CMOS ALU in Double Pass-Transistor Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Yano",
+        "given": "K."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "IEEE J. Solid-State Circuits"
+    ],
+    "date": [
+      "1990-04"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "388–395,"
+    ],
+    "title": [
+      "A 2.8-ns CMOS 16xl6-b Multiplier Using Complementary Pass-Transistor Logic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25"
+    ]
+  },
+  {
+    "title": [
+      "This Page Intentionally Left Blank Chapter 10"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The books below provide detailed discussions on the topics presented in this chapter"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Bakoglu, Circuits, Interconnection and Packaging for VLSI"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goel",
+        "given": "A.K."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "High-Speed VLSI Interconnections"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gunning",
+        "given": "B."
+      },
+      {
+        "family": "Yuan",
+        "given": "L."
+      },
+      {
+        "family": "Nguyen",
+        "given": "T."
+      },
+      {
+        "family": "Wong",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "ISSCC92 Technical Digest"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "58–59,"
+    ],
+    "title": [
+      "A CMOS Low-Voltage-Swing Transmission-Line Transceiver"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Clock Distribution Networks in VLSI Circuits and Systems"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Friedman",
+        "given": "E.G."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Paul",
+        "given": "C.R."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Multiconductor Transmission Lines"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Poon",
+        "given": "R.K."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Computer Circuits Electrical Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shoji",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "High-Speed Digital Circuits"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ramo",
+        "given": "S."
+      },
+      {
+        "family": "Duzer",
+        "given": "T.",
+        "particle": "Van"
+      },
+      {
+        "family": "Whinnery",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Fields and Waves in Communication Electronics"
+    ],
+    "type": "book"
+  },
+  {
+    "publisher": [
+      "This Page Intentionally Left Blank"
+    ],
+    "type": "book"
+  }
+]
