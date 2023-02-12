@@ -1,0 +1,8290 @@
+[
+  {
+    "author": [
+      {
+        "family": "Gajski",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Silicon Compilers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Vissers",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Embedded Processor Design Challenges, Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      },
+      {
+        "family": "Teich",
+        "given": "J."
+      },
+      {
+        "family": "Vassiliadis",
+        "given": "S."
+      }
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "A methodology to designing embedded systems: the y-chart approach"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Balarin",
+        "given": "F."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Hardware-Software Co-Design of Embedded Systems: The Polis Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      },
+      {
+        "family": "Vissers",
+        "given": "K."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings of the International Conference on Application Specific Systems, Architectures, and Processors"
+    ],
+    "date": [
+      "1997-07"
+    ],
+    "title": [
+      "An approach for quantitative analysis of application-specific dataflow architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Keutzer",
+        "given": "K."
+      },
+      {
+        "family": "Malik",
+        "given": "S."
+      },
+      {
+        "family": "Newton",
+        "given": "R."
+      },
+      {
+        "family": "Rabaey",
+        "given": "J."
+      },
+      {
+        "family": "Sangiovanni-Vincentelli",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2000-12-19"
+    ],
+    "title": [
+      "System-level design: orthogonalization of concerns and platform-based design"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Zivkovic",
+        "given": "V."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proceedings of the Design, Automation and Test in Europe Conference"
+    ],
+    "date": [
+      "1999"
+    ],
+    "title": [
+      "Fast and accurate multiprocessor exploration with symbolic programs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Technologies",
+        "given": "John Glossner Sandbridge"
+      }
+    ],
+    "location": [
+      "New York, U.S.A",
+      "Eindhoven, The Netherlands"
+    ],
+    "publisher": [
+      "Kees Goossens Philips Research Laboratories"
+    ],
+    "title": [
+      "White Plains"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "ECE",
+        "given": "Michael J.Schulte"
+      }
+    ],
+    "genre": [
+      "Department,"
+    ],
+    "location": [
+      "Madison, Wisconsin, U.S.A",
+      "Eindhoven",
+      "Tampere, Finland"
+    ],
+    "publisher": [
+      "University of Wisconsin–Madison",
+      "Paul Stravers Philips Research Laboratories",
+      "The Netherlands Jarmo Takala Tampere University of Technology"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Paderborn, Germany"
+    ],
+    "publisher": [
+      "Jurgen Teich University of Paderborn"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "E. George Walters III CSE Department"
+      }
+    ],
+    "genre": [
+      "George Walters III CSE Department,"
+    ],
+    "location": [
+      "Bethlehem, Pennsylvania, U.S.A",
+      "Bethlehem, Pennsylvania, U.S.A",
+      "New York, U.S.A",
+      "Madison, Wisconsin, U.S.A"
+    ],
+    "publisher": [
+      "Lehigh University",
+      "Stephan Wong Computer Engineering Laboratory",
+      "Lehigh University",
+      "John Glossner Sandbridge Technologies, White Plains",
+      "Michael J. Schulte ECE Department, University of Wisconsin–Madison"
+    ],
+    "title": [
+      "Electrical Engineering Department, Delft University of Technology, Delft, The Netherlands Automatic VHDL Model Generation of Parameterized FIR Filters E"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lightbody",
+        "given": "G."
+      },
+      {
+        "family": "Walke",
+        "given": "R."
+      },
+      {
+        "family": "Woods",
+        "given": "R.F."
+      },
+      {
+        "family": "McCanny",
+        "given": "J.V."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proceedings of Signal Processing Systems"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "285–294"
+    ],
+    "title": [
+      "Rapid System Prototyping of a Single Chip Adaptive Beamformer"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "McCanny",
+        "given": "J."
+      },
+      {
+        "family": "Ridge",
+        "given": "D."
+      },
+      {
+        "family": "Yi",
+        "given": "H."
+      },
+      {
+        "family": "Hunter",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "675–678"
+    ],
+    "title": [
+      "Hierarchical VHDL Libraries for DSP ASIC Design"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Pihl",
+        "given": "J."
+      },
+      {
+        "family": "Aas",
+        "given": "E.J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the 39th Midwest Symposium on Circuits and Systems"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "109–112"
+    ],
+    "title": [
+      "A Multiplier and Squarer Generator for High Performance DSP Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Richards",
+        "given": "M.A."
+      },
+      {
+        "family": "Gradient",
+        "given": "A.J."
+      },
+      {
+        "family": "Frank",
+        "given": "G.A."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Rapid Prototyping of Application Specific Signal Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Saultz",
+        "given": "J.E."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing Systems for Signal, Image, and Video Technology"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "29–47"
+    ],
+    "title": [
+      "Rapid Prototyping of Application-Specific Signal Processors (RASSP) In-Progress Report"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wallace",
+        "given": "C.S."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Transactions on Electronic Computers"
+    ],
+    "date": [
+      "1964"
+    ],
+    "pages": [
+      "–13 14–17"
+    ],
+    "title": [
+      "A Suggestion for a Fast Multiplier"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "*As of this writing, the software has been refactored and given the name ‘‘Magellan.’’ The current state of Magellan can be found at http://www.lehigh.edu/~gew5/magellan.html, or by contacting the authors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dadda",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Alta Frequenza"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "349–356"
+    ],
+    "title": [
+      "Some Schemes for Parallel Multipliers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bickerstaff",
+        "given": "K.C."
+      },
+      {
+        "family": "Schulte",
+        "given": "M.J."
+      },
+      {
+        "family": "Swartzlander",
+        "given": "E.E."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "181–191"
+    ],
+    "title": [
+      "Parallel Reduced Area Multipliers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schulte",
+        "given": "M.J."
+      },
+      {
+        "family": "Swartzlander",
+        "given": "E.E."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "VLSI Signal Processing VI"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Eindhoven, Netherlands"
+    ],
+    "pages": [
+      "338–396"
+    ],
+    "publisher": [
+      "IEEE Press"
+    ],
+    "title": [
+      "Truncated Multiplication with Correction Constant"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Schulte",
+        "given": "M.J."
+      },
+      {
+        "family": "Stine",
+        "given": "J.E."
+      },
+      {
+        "family": "Jansen",
+        "given": "J.G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "IEEE Alessandro Volta Memorial Workshop on Low Power Design"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Como, Italy"
+    ],
+    "pages": [
+      "61–69"
+    ],
+    "title": [
+      "Reduced Power Dissipation Through Truncated Multiplication"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Swartzlander",
+        "given": "E.E."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proceedings of the 33rd Asilomar Conference on Signals, Circuits, and Systems"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "1480–1483"
+    ],
+    "title": [
+      "Truncated Multiplication with Approximate Rounding"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppenheim",
+        "given": "A.V."
+      },
+      {
+        "family": "Schafer",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Discrete-Time Signal Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Koren",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Computer Arithmetic and Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Stdlogic1164): IEEE Std 1164–1993"
+    ],
+    "date": [
+      "1993-05-26"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Walters",
+        "given": "E.G.",
+        "suffix": "III"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "publisher": [
+      "Lehigh University"
+    ],
+    "title": [
+      "Design Tradeoffs Using Truncated Multipliers in FIR Filter Implementations"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Debaere",
+        "given": "E."
+      },
+      {
+        "family": "Campenhout",
+        "given": "J.M.V."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Interpretation and Instruction Path Coprocessing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lagadec",
+        "given": "L."
+      },
+      {
+        "family": "Pottier",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2000-11"
+    ],
+    "publisher": [
+      "SPIE, Reconfigurable Technology II"
+    ],
+    "title": [
+      "Object oriented meta-tools for reconfigurable architectures"
+    ],
+    "type": "book",
+    "volume": [
+      "4212"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sentovich",
+        "given": "E.M."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1992"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "EECS"
+    ],
+    "title": [
+      "Sis A system for sequential circuit synthesis"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Lemarchand",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Tucson"
+    ],
+    "publisher": [
+      "IEEE"
+    ],
+    "title": [
+      "Parallel performance directed technology mapping for fpga. SSMSD"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "B."
+      },
+      {
+        "family": "Whitcomb",
+        "given": "S."
+      },
+      {
+        "family": "Newton",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IFIP",
+      "Logic and Architecture Synthesis"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "literal": "ed."
+      }
+    ],
+    "publisher": [
+      "Elsevier"
+    ],
+    "title": [
+      "Symbolic don’t care and equivalence in high level synthesis"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ballard",
+        "given": "M.B."
+      },
+      {
+        "family": "Wirfs-Brock",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "OOPSLA"
+    ],
+    "date": [
+      "1986-11"
+    ],
+    "pages": [
+      "21, 11"
+    ],
+    "title": [
+      "Quicktalk: a smalltalk-80 dialect for defining primitive methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "86"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Llopis, J. -L., Pottier, B."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "FCCM’96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "title": [
+      "Smalltalk blocks revisited, a logic generator for fpgas"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Fabregat",
+        "given": "G."
+      },
+      {
+        "family": "Leon",
+        "given": "G."
+      },
+      {
+        "family": "Le Berre",
+        "given": "O."
+      },
+      {
+        "family": "Pottier",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "CASES’99"
+    ],
+    "date": [
+      "1999-10"
+    ],
+    "title": [
+      "Embedded system modeling and synthesis in oo environments. a smart-sensor case study"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Weaver",
+        "given": "N."
+      },
+      {
+        "family": "Chu",
+        "given": "M."
+      },
+      {
+        "family": "Sulimma",
+        "given": "K."
+      },
+      {
+        "family": "Dehon",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "FCCM"
+    ],
+    "date": [
+      "1998"
+    ],
+    "title": [
+      "Object oriented circuit-generators in java"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Peymandoust",
+        "given": "A."
+      },
+      {
+        "family": "Micheli",
+        "given": "G.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "DAC"
+    ],
+    "title": [
+      "Using symbolic algebra in algorithmic level dsp synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bertin",
+        "given": "Touati"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "genre": [
+      "FCCM 133–138."
+    ],
+    "title": [
+      "Pam programming environments: practice and experience"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Patterson",
+        "given": "D.A."
+      },
+      {
+        "family": "Hennessy",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "1998"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Organisation and Design, the hardware/software interface"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Plank",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1999"
+    ],
+    "genre": [
+      "Technical report,"
+    ],
+    "publisher": [
+      "DCS, University of Tennessee"
+    ],
+    "title": [
+      "A tutorial on reed-solomon coding for fault-tolerance in raidlike systems"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Paar",
+        "given": "C."
+      },
+      {
+        "family": "Rosner",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "FCCM’97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "title": [
+      "Comparison of arithmetic architectures for reedsolomon decoders in reconfigurable hardware"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Mallat",
+        "given": "S.G."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "674–693"
+    ],
+    "title": [
+      "A theory for multiresolution signal decomposition; the wavelet representation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vetterli",
+        "given": "M."
+      },
+      {
+        "family": "Kovacevic",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Wavelets and Subband Coding"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Daubachies",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Philadelphia (PA"
+    ],
+    "publisher": [
+      "SIAM"
+    ],
+    "title": [
+      "Ten Lectures on Wavelets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sweldens",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Proceedings of SPIE International Conference on Wavelet Applications in Signal and Image Processing III"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "pages": [
+      "68–79"
+    ],
+    "title": [
+      "The lifting scheme: a New philosophy in biorthogonal wavelets constructions"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2569"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Beylkin",
+        "given": "G."
+      },
+      {
+        "family": "Coifman",
+        "given": "R."
+      },
+      {
+        "family": "Rokhlin",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "181–210"
+    ],
+    "publisher": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "Wavelets in numerical analysis. Wavelets and their Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "W."
+      },
+      {
+        "family": "Ortega",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans Circ Syst Video Tech"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "651–657"
+    ],
+    "title": [
+      "Lifting factorization-based discrete wavelet transform architecture design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Diou",
+        "given": "C."
+      },
+      {
+        "family": "Torres",
+        "given": "L."
+      },
+      {
+        "family": "Robert",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "IEEE International Conference on Image Processing"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Vancouver"
+    ],
+    "title": [
+      "A wavelet core for video processing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lafruit",
+        "given": "G."
+      },
+      {
+        "family": "Nachttegraele",
+        "given": "L."
+      },
+      {
+        "family": "Bormans",
+        "given": "J."
+      },
+      {
+        "family": "Engles",
+        "given": "M."
+      },
+      {
+        "family": "Bolsens",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Trans on Circ Syst Video Tech"
+    ],
+    "date": [
+      "1999"
+    ],
+    "pages": [
+      "218–243"
+    ],
+    "title": [
+      "Optimal memory organization for scalable texture codecs in MPEG-4"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ferretti",
+        "given": "M."
+      },
+      {
+        "family": "Rizzo",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "J VLSI Signal Proc"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "165–185"
+    ],
+    "title": [
+      "A Parallel architecture for the 2-D discrete wavelet transform with integer lifting scheme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Huang",
+        "given": "Ch-T."
+      },
+      {
+        "family": "Tseng",
+        "given": "Po-Ch"
+      },
+      {
+        "family": "Chen",
+        "given": "L.-G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Symposium on Circuits and Systems, Phoenix"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "565–568"
+    ],
+    "title": [
+      "Efficient VLSI architectures of lifting-based discrete wavelet transform by systematic design method"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Andra",
+        "given": "K."
+      },
+      {
+        "family": "Chakrabarti",
+        "given": "Ch"
+      },
+      {
+        "family": "Acharya",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE Trans Sign Proc"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "966–977"
+    ],
+    "title": [
+      "A VLSI architecture for liftingbased forward and inverse wavelet transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "50"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pan",
+        "given": "S.B."
+      },
+      {
+        "family": "Park",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing, Munich"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "113–4116"
+    ],
+    "title": [
+      "New systolic arrays for computation of the 1_D discrete wavelet transform"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Premkumar",
+        "given": "A.B."
+      },
+      {
+        "family": "Madhukumar",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Information, Communications and Signal Processing, Singapore"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "1180–1184"
+    ],
+    "title": [
+      "An efficient VLSI architecture for the computation of 1-D discrete wavelet transform"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Vishwanath",
+        "given": "M."
+      },
+      {
+        "family": "Owens",
+        "given": "R.M."
+      },
+      {
+        "family": "Irwin",
+        "given": "M.J."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Trans Circ Syst-II: Analog Dig Sign Proc"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "305–316"
+    ],
+    "title": [
+      "VLSI architectures for the discrete wavelet transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fridman",
+        "given": "J."
+      },
+      {
+        "family": "Manolakos",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Trans Sign Proc"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "1291–1308"
+    ],
+    "title": [
+      "Discrete wavelet transform: data dependence analysis and synthesis of distributed memory and control array architectures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parhi",
+        "given": "K."
+      },
+      {
+        "family": "Nishitani",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Trans VLSI Syst"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "191–202"
+    ],
+    "title": [
+      "VLSI architectures for discrete wavelet transforms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Denk",
+        "given": "T.C."
+      },
+      {
+        "family": "Parhi",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Proceedings of the Thirty-Second Asilomar Conference on Signals, Systems and Computers, Monterey"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "1220–1224"
+    ],
+    "title": [
+      "Systolic VLSI architectures for 1-d discrete wavelet transform"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Knowles",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "El Let"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "1184–1185"
+    ],
+    "title": [
+      "VLSI architecture for the discrete wavelet transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chakrabarti",
+        "given": "Ch"
+      },
+      {
+        "family": "Vishwanath",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Trans Sign Proc"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "759–771"
+    ],
+    "title": [
+      "Efficient realizations of discrete and continuous wavelet transforms: from single chip implementations to mappings on SIMD array computers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "43"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chakrabarti",
+        "given": "Ch"
+      },
+      {
+        "family": "Vishwanath",
+        "given": "M."
+      },
+      {
+        "family": "Owens",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "J VLSI Sign Proc"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "171–192"
+    ],
+    "title": [
+      "Architectures for wavelet transforms: a survey"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Grzeszczak",
+        "given": "A."
+      },
+      {
+        "family": "Mandal",
+        "given": "M.K."
+      },
+      {
+        "family": "Panchanatan",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE Trans VLSI Systems"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "421–433"
+    ],
+    "title": [
+      "VLSI implementation of discrete wavelet transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vishwanath",
+        "given": "M."
+      },
+      {
+        "family": "Owens",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Application Specific Systems, Architectures and Processors"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "pages": [
+      "193–198"
+    ],
+    "title": [
+      "A common architecture for the DWT and IDWT"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Yu",
+        "given": "C."
+      },
+      {
+        "family": "Hsieh",
+        "given": "C.H."
+      },
+      {
+        "family": "Chen",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Custom Integrated Circuits"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Santa Clara (CA"
+    ],
+    "pages": [
+      "237–240"
+    ],
+    "title": [
+      "Design and implementation of a highly efficient VLSI architecture for discrete wavelet transforms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Syed",
+        "given": "S.B."
+      },
+      {
+        "family": "Bayoumi",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Proceedings of Computer Architectures for Machine Perception"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Italy"
+    ],
+    "pages": [
+      "44–50"
+    ],
+    "publisher": [
+      "Como"
+    ],
+    "title": [
+      "A scalable architecture for discrete wavelet transform"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Marino",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "IEEE Trans Circ Syst-II: Analog Dig Sign Proc"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "65–71"
+    ],
+    "title": [
+      "A ’Double-Face’ bit-serial architecture for the 1-D discrete wavelet transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vishwanath",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "IEEE Trans Sign Proc"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "673–677"
+    ],
+    "title": [
+      "The recursive pyramid algorithm for the discrete wavelet transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marino",
+        "given": "F."
+      },
+      {
+        "family": "Gevorkian",
+        "given": "D."
+      },
+      {
+        "family": "Astola",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "IEEE Trans Circ Syst-II: Analog Dig Sign Proc"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "1492–1502"
+    ],
+    "title": [
+      "Highly efficient high-speed/lowpower architectures for the 1-D DWT"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Marino",
+        "given": "F."
+      },
+      {
+        "family": "Gevorkian",
+        "given": "D."
+      },
+      {
+        "family": "Astola",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE International Conference on Circuits and Systems, Geneva"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "337–340"
+    ],
+    "title": [
+      "High-speed/low-power 1-D DWT architecture with high efficiency"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gevorkian",
+        "given": "D."
+      },
+      {
+        "family": "Marino",
+        "given": "F."
+      },
+      {
+        "family": "Agaian",
+        "given": "S."
+      },
+      {
+        "family": "Astola",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Proceedings of the European Signal Processing Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Tampere (Finland"
+    ],
+    "title": [
+      "Highly efficient fast architectures for discrete wavelet transforms based on their flowgraph representation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gevorkian",
+        "given": "D."
+      },
+      {
+        "family": "Marino",
+        "given": "F."
+      },
+      {
+        "family": "Agaian",
+        "given": "S."
+      },
+      {
+        "family": "Astola",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Proceedings of TICSP International Workshop on Spectral Transforms and Logic Design for Future Digital Systems"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Tampere (Finland"
+    ],
+    "title": [
+      "Flowgraph representation of discrete wavelet transforms and wavelet packets for their efficient parallel implementation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Seznec"
+      },
+      {
+        "family": "J",
+        "given": "Lenfant"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distrib. Syst"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1329–1334"
+    ],
+    "title": [
+      "Interleaved parallel schemes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Wuytack"
+      },
+      {
+        "family": "F.",
+        "given": "Catthoor"
+      },
+      {
+        "family": "Jong G.",
+        "particle": "de"
+      },
+      {
+        "family": "Man H. J",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "IEEE Trans. VLSI Syst"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "433–441"
+    ],
+    "title": [
+      "Minimizing the required memory bandwidth in VLSI system realizations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "H.",
+        "given": "Lin"
+      },
+      {
+        "family": "W",
+        "given": "Wolf"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proc. Int. Workshop Hardware/Software Codesign"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "46–50"
+    ],
+    "title": [
+      "Co-design of interleaved memory systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Chen"
+      },
+      {
+        "family": "A",
+        "given": "Postula"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Trans. VLSI Syst"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "74–83"
+    ],
+    "title": [
+      "Synthesis of custom interleaved memory systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "T",
+        "given": "Harper D."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "227–230"
+    ],
+    "title": [
+      "Increased memory performance during vector accesses through the use of linear address transformations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "P.",
+        "given": "Budnik"
+      },
+      {
+        "family": "D",
+        "given": "Kuck"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1971"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1566–1569"
+    ],
+    "title": [
+      "The organization and use of parallel memories"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gossel",
+        "given": "M."
+      },
+      {
+        "family": "Rebel",
+        "given": "B."
+      },
+      {
+        "family": "Creutzburg",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Amsterdam, The Netherlands"
+    ],
+    "publisher": [
+      "North Holland"
+    ],
+    "title": [
+      "Memory Architecture & Parallel Access"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "D.H.",
+        "given": "Lawrie"
+      },
+      {
+        "family": "C.R",
+        "given": "Vora"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1982"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "435–442"
+    ],
+    "title": [
+      "The prime memory system for array access"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "H.A.G.",
+        "given": "Wijshoff"
+      },
+      {
+        "family": "Leeuwen J",
+        "particle": "van"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "501–505"
+    ],
+    "title": [
+      "The structure of periodic storage schemes for parallel memories"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Deb",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distrib. Syst"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "595–604"
+    ],
+    "title": [
+      "Multiskewing—a novel technique for optimal parallel memory access"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.M.",
+        "given": "Frailong"
+      },
+      {
+        "family": "W.",
+        "given": "Jalby"
+      },
+      {
+        "family": "J",
+        "given": "Leflant"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. Parallel Processing, St. Charles"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "276–283"
+    ],
+    "title": [
+      "XOR-schemes: a flexible data organization in parallel memories"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IL"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "G.S",
+        "given": "Sohi"
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "34–44"
+    ],
+    "title": [
+      "Interleaved memories for vector processors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "42"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "D.T",
+        "given": "Harper"
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "IEEE Trans. Parallel and Distrib. Syst"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "43–51"
+    ],
+    "title": [
+      "Block, multistride vector, and FFT accesses in parallel memory systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Norton"
+      },
+      {
+        "family": "E",
+        "given": "Melton"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Proc. Int. Conf. Parallel Processing, St. Charles"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "247–254"
+    ],
+    "title": [
+      "A class of boolean linear transformations for conflict-free power-of-two stride access"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "IL"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "M.",
+        "given": "Valero"
+      },
+      {
+        "family": "T.",
+        "given": "Lang"
+      },
+      {
+        "family": "M.",
+        "given": "Peiron"
+      },
+      {
+        "family": "E",
+        "given": "Ayguade"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "634–646"
+    ],
+    "title": [
+      "Conflict-free access for streams in multimodule memories"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "Granata"
+      },
+      {
+        "family": "M.",
+        "given": "Cooner"
+      },
+      {
+        "family": "R",
+        "given": "Tolimieri"
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Trans. Signal Processing"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "2921–2930"
+    ],
+    "title": [
+      "Recursive fast algorithms and the role of the tensor product"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Davio",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Trans. Comput"
+    ],
+    "date": [
+      "1981"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "116–125"
+    ],
+    "title": [
+      "Kronecker products and shuffle algebra"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "Astola"
+      },
+      {
+        "family": "D",
+        "given": "Akopian"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Trans. Signal Processing"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "1109–1124"
+    ],
+    "title": [
+      "Architecture-oriented regular algorithms for discrete sine and cosine transforms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "J.",
+        "given": "Takala"
+      },
+      {
+        "family": "D.",
+        "given": "Akopian"
+      },
+      {
+        "family": "J.",
+        "given": "Astola"
+      },
+      {
+        "family": "J",
+        "given": "Saarinen"
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "IEEE Trans. Signal Processing"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "1840–1843"
+    ],
+    "title": [
+      "Constant geometry algorithm for discrete cosine transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "P.D.",
+        "given": "Lapsley"
+      },
+      {
+        "family": "J.",
+        "given": "Bier"
+      },
+      {
+        "family": "A.",
+        "given": "Shoham"
+      },
+      {
+        "family": "E.A",
+        "given": "Lee"
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Fremont, CA"
+    ],
+    "publisher": [
+      "Berkeley Design Technology, Inc"
+    ],
+    "title": [
+      "DSP Processor Fundamentals: Architectures and Features"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "IEEE Trans. Acoust., Speech, Signal Processing"
+    ],
+    "date": [
+      "1976"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "255–579"
+    ],
+    "title": [
+      "Simplified control of FFT hardware"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Systems",
+        "given": "Cadence Design"
+      },
+      {
+        "family": "Arvind",
+        "given": "Gostelow"
+      },
+      {
+        "family": "P",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Innoveda Inc",
+      "IEEE Computer"
+    ],
+    "date": [
+      "1982",
+      "Feb"
+    ],
+    "issue": [
+      "ttp://www.innoveda.com 3",
+      "2"
+    ],
+    "pages": [
+      "42–49"
+    ],
+    "title": [
+      "Inc., http://www.cadence.com 2",
+      "The U-Interpreter"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balarin",
+        "given": "F."
+      },
+      {
+        "family": "Sentovich",
+        "given": "E."
+      },
+      {
+        "family": "Chiodo",
+        "given": "M."
+      },
+      {
+        "family": "Giusto",
+        "given": "P."
+      },
+      {
+        "family": "Hsieh",
+        "given": "H."
+      },
+      {
+        "family": "Tabbara",
+        "given": "B."
+      },
+      {
+        "family": "Jurecska",
+        "given": "A."
+      },
+      {
+        "family": "Lavagno",
+        "given": "L."
+      },
+      {
+        "family": "Passerone",
+        "given": "C."
+      },
+      {
+        "family": "Suzuki",
+        "given": "K."
+      },
+      {
+        "family": "Sangiovanni-Vincentelli",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Hardware-Software Co-design of Embedded Systems-The POLIS approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Brunel, J. -Y., de Kock, E. A., Kruijtzer, W. M., Kenter, H. J. H. N., Smits, W. J. M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proc. 7th Int. Workshop on Hardware/Software Codesign"
+    ],
+    "date": [
+      "1999",
+      "May"
+    ],
+    "pages": [
+      "142–146,"
+    ],
+    "title": [
+      "Communication refinement in video systems on chip"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Buck",
+        "given": "J."
+      },
+      {
+        "family": "Ha",
+        "given": "S."
+      },
+      {
+        "family": "Lee",
+        "given": "E.A."
+      },
+      {
+        "family": "Messerschmitt",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Int. Journal of Computer Simulation"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "155–182"
+    ],
+    "publisher": [
+      "Apr"
+    ],
+    "title": [
+      "Ptolemy: A framework for simulating and prototyping heterogeneous systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Buck",
+        "given": "J.T."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Proc. of the 28th Asilomar conference on Signals, Systems, and Computers"
+    ],
+    "date": [
+      "1994",
+      "Oct"
+    ],
+    "title": [
+      "Static scheduling and code generation from dynamic dataflow graphs with integer valued control streams"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Coffland",
+        "given": "J.E."
+      },
+      {
+        "family": "Pimentel",
+        "given": "A.D."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proc. of the ACM SAC, Embedded Systems track"
+    ],
+    "date": [
+      "2003",
+      "March"
+    ],
+    "title": [
+      "A software framework for efficient system-level performance evaluation of embedded systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Dreike",
+        "given": "P."
+      },
+      {
+        "family": "J",
+        "given": "McCoy"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Embedded Systems Programming"
+    ],
+    "date": [
+      "1997",
+      "June"
+    ],
+    "issue": [
+      "6"
+    ],
+    "title": [
+      "Co-simulating software and hardware in embedded systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Gupta, R. K., Coelho, C. N. Jr., De Micheli, G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Proc. of the Design Automation Conference"
+    ],
+    "date": [
+      "1992",
+      "June"
+    ],
+    "pages": [
+      "225–230,"
+    ],
+    "title": [
+      "Synthesis and simulation of digital systems containing interacting hardware and software components"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Harriss",
+        "given": "T."
+      },
+      {
+        "family": "Walke",
+        "given": "R."
+      },
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proc. of the 35th Asiloar conference on Signals, Systems, and Computers"
+    ],
+    "date": [
+      "2001",
+      "Nov"
+    ],
+    "title": [
+      "Compilation from Matlab to process network realized in FPGA"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hines",
+        "given": "K."
+      },
+      {
+        "family": "Borriello",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Proc. of the Design Automation Conference"
+    ],
+    "date": [
+      "1997-06",
+      "June"
+    ],
+    "pages": [
+      "395–400,"
+    ],
+    "title": [
+      "Dynamic communication models in embedded system co-simulation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kahn",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Proc. of the IFIP Congress"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "74"
+    ],
+    "title": [
+      "The semantics of a simple language for parallel programming"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      },
+      {
+        "family": "Vissers",
+        "given": "K.A."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Proc. of the Int. Conf. on Application-specific Systems, Architectures and Processors"
+    ],
+    "date": [
+      "1997",
+      "July"
+    ],
+    "title": [
+      "An approach for quantitative analysis of application-specific dataflow architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Rijpkema",
+        "given": "E."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proc. of the 8th International Workshop on Hardware/Software Codesign (CODES’2000"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "May"
+    ],
+    "title": [
+      "Compaan: Deriving process networks from Matlab for embedded signal processing architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lahiri",
+        "given": "K."
+      },
+      {
+        "family": "Raghunathan",
+        "given": "A."
+      },
+      {
+        "family": "Dey",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "IEEE Trans. on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2001-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "768–783"
+    ],
+    "title": [
+      "System-level performance analysis for designing on-chip communication architectures"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "E.A."
+      },
+      {
+        "family": "Neuendorffer",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "2000-03"
+    ],
+    "location": [
+      "Berkeley"
+    ],
+    "publisher": [
+      "Electronics Research Lab, University of California"
+    ],
+    "title": [
+      "MoML-a Modeling Markup Language in XML, version 0.4 Technical Report UCB/ERL M00/8"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lieverse",
+        "given": "P."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      },
+      {
+        "family": "Vissers",
+        "given": "K.A."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing for Signal, Image and Video Technology"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Special issue on SiPS’99."
+    ],
+    "pages": [
+      "197–207"
+    ],
+    "title": [
+      "A methodology for architecture exploration of heterogeneous signal processing systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pimentel",
+        "given": "A.D."
+      },
+      {
+        "family": "Polstra",
+        "given": "S."
+      },
+      {
+        "family": "Terpstra",
+        "given": "F."
+      },
+      {
+        "family": "Halderen",
+        "given": "A.W.",
+        "particle": "van"
+      },
+      {
+        "family": "Coffland",
+        "given": "J.E."
+      },
+      {
+        "family": "Hertzberger",
+        "given": "L.O."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "Embedded Processor Design Challenges: Systems, Architectures, Modeling, and Simulation. Springer: LNCS 2268"
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "57–73"
+    ],
+    "title": [
+      "Towards efficient design space exploration of heterogeneous embedded media systems"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Pimentel",
+        "given": "A.D."
+      },
+      {
+        "family": "Lieverse",
+        "given": "P."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Hertzberger",
+        "given": "L.O."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "2001-11"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "57–63"
+    ],
+    "title": [
+      "Exploring embedded-systems architectures with Artemis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sriram",
+        "given": "S."
+      },
+      {
+        "family": "Bhattacharyya",
+        "given": "S.S."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Marcel Dekker Inc"
+    ],
+    "title": [
+      "Embedded Multiprocessors: Scheduling and Synchronization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stefanov",
+        "given": "T."
+      },
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proc. of the 10th Int. Symposium on Hardware/Software Codesign (CODES’02"
+    ],
+    "date": [
+      "2002",
+      "May"
+    ],
+    "pages": [
+      "7–12,"
+    ],
+    "title": [
+      "Algorithmic transformation techniques for efficient exploration of alternative application instances"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zivkovic",
+        "given": "V."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      },
+      {
+        "family": "Kock",
+        "given": "E.A.",
+        "particle": "de"
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Proc. of the IEEE Workshop on Signal Processing Systems (SIPS’02), Oct"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Design space exploration of streaming multiprocessor architectures"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bednara",
+        "given": "M."
+      },
+      {
+        "family": "Teich",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "First Internationl Conference on Engineering of Reconfigurable Systems and Algorithms (ERSA’01), Las Vegas, NV"
+    ],
+    "date": [
+      "2001",
+      "June"
+    ],
+    "pages": [
+      "1–7,"
+    ],
+    "title": [
+      "Synthesis of FPGA Implementations from Loop Algorithms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Catthoor",
+        "given": "F."
+      },
+      {
+        "family": "Franssen",
+        "given": "F."
+      },
+      {
+        "family": "Wuytack",
+        "given": "S."
+      },
+      {
+        "family": "Nachtergaele",
+        "given": "L."
+      },
+      {
+        "family": "Man",
+        "given": "H.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "VLSI Signal Processing Workshop"
+    ],
+    "date": [
+      "1994",
+      "October"
+    ],
+    "pages": [
+      "178–187,"
+    ],
+    "title": [
+      "Global Communication and Memory Optimizing Transformations for Low Power Systems"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Chandrakasan",
+        "given": "A.P."
+      },
+      {
+        "family": "Potkonjak",
+        "given": "M."
+      },
+      {
+        "family": "Mehra",
+        "given": "R."
+      },
+      {
+        "family": "Rabaey",
+        "given": "J."
+      },
+      {
+        "family": "Brodersen",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "1995-01"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "12–31"
+    ],
+    "title": [
+      "Optimizing Power Using Transformations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "Chang, J. -M., Pedram, M."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE European Design Automation Conference (EuroDAC"
+    ],
+    "date": [
+      "1996",
+      "September"
+    ],
+    "location": [
+      "Geneva, Switzerland"
+    ],
+    "pages": [
+      "376–381,"
+    ],
+    "title": [
+      "Module Assignment for Low Power"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Clauss",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Tenth ACM International Conference on Supercomputing"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Philadelphia, Pennsylvania, May"
+    ],
+    "title": [
+      "Counting Solutions to Linear and Nonlinear Constraints through Ehrhart polynomials: Applications to Analyse and Transform Scientific Programs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Clauss",
+        "given": "P."
+      },
+      {
+        "family": "Loechner",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "1998-07"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "179–194"
+    ],
+    "title": [
+      "Parametric Analysis of Polyhedral Iteration Spaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Derrien",
+        "given": "S."
+      },
+      {
+        "family": "Rajopadhye",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "15th International Symposium on System Synthesis (ISSS’02"
+    ],
+    "date": [
+      "2002",
+      "October"
+    ],
+    "location": [
+      "Kyoto, Japan"
+    ],
+    "title": [
+      "Energy/Power Estimation of Regular Processor Arrays"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Eckhardt",
+        "given": "U."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Dresden, Ger many"
+    ],
+    "publisher": [
+      "Technische Universitat Dresden, Fakultat Elektrotechnik"
+    ],
+    "title": [
+      "Algorithmus-Architektur-Codesign fur den Entwurf digitaler Systeme mit eingebettetem Prozessorarray und Speicherhierarche"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrhart",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "collection-title": [
+      "of International Series of Numerical Mathematics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "edition": [
+      "1"
+    ],
+    "location": [
+      "Basel"
+    ],
+    "publisher": [
+      "Birkhauser, Verlag"
+    ],
+    "title": [
+      "Polynomes arithmetiques et Methode des Polyedres en Combinatoire"
+    ],
+    "type": "book",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feautrier",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1996"
+    ],
+    "genre": [
+      "Technical Report 8,"
+    ],
+    "note": [
+      "Laboratoire PRiSM, Universite des Versailles St-Quentin en Yvelines, 45, avenue des Etats-Unis: F-78035. Versailles Cedex, June."
+    ],
+    "title": [
+      "Automatic Parallelization in the Polytope Model"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "S."
+      },
+      {
+        "family": "Najm",
+        "given": "F.N."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "IEEE International Symposium on Low Power Electronics and Design"
+    ],
+    "date": [
+      "1999",
+      "August"
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "pages": [
+      "103–105,"
+    ],
+    "title": [
+      "Power Macro-Models for DSP Blocks with Application to High-Level Synthesis"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Gupta",
+        "given": "S."
+      },
+      {
+        "family": "Najm",
+        "given": "F.N."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Integration (VLSI) Systems"
+    ],
+    "date": [
+      "2000-02"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "18–29"
+    ],
+    "title": [
+      "Power Modeling for High-Level Power Estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hannig",
+        "given": "F."
+      },
+      {
+        "family": "Teich",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "collection-title": [
+      "of Lecture Notes in Computer Science (LNCS"
+    ],
+    "container-title": [
+      "Parallel Computing Technologies, 6th International Conference, PaCT 2001, Proceedings"
+    ],
+    "date": [
+      "2001-09"
+    ],
+    "editor": [
+      {
+        "family": "Malyshkin",
+        "given": "V."
+      }
+    ],
+    "location": [
+      "Novosibirsk, Russia"
+    ],
+    "pages": [
+      "51–65"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Design Space Exploration for Massively Parallel Processor Arrays"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2127"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hannig",
+        "given": "F."
+      },
+      {
+        "family": "Teich",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "Proceedings of the Second International Samos Workshop on Systems, Architecture, Modeling, and Simulation (SAMOS 2002"
+    ],
+    "date": [
+      "2002",
+      "July"
+    ],
+    "location": [
+      "Greece"
+    ],
+    "publisher": [
+      "Island of Samos"
+    ],
+    "title": [
+      "Energy Estimation for Piecewise Regular Processor Arrays"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hannig",
+        "given": "F."
+      },
+      {
+        "family": "Teich",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Proceedings 14th Annual ACM Symposium on Parallel Algorithms and Architectures (SPAA 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Winnipeg, Manitoba, Canada",
+      "August"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Energy Estimation of Nested Loop Programs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kuhn",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Workshop on Interconnection Networks for Parallel and Distributed Processing. West Layfaette, IN"
+    ],
+    "date": [
+      "1980",
+      "April"
+    ],
+    "pages": [
+      "11–19,"
+    ],
+    "title": [
+      "Transforming Algorithms for Single-Stage and VLSI Architectures"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "Kung, S. -Y."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, New Jersey"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "VLSI Array Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Landman",
+        "given": "P.E."
+      },
+      {
+        "family": "Rabaey",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "IEEE Transactions on Very Large Integration (VLSI) Systems"
+    ],
+    "date": [
+      "1995-06"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "173–187"
+    ],
+    "title": [
+      "Architectural Power Analysis: The Dual Bit Type Method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lengauer",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "collection-title": [
+      "CONCUR’93, Lecture Notes in Computer Science 715"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "Best",
+        "given": "E."
+      }
+    ],
+    "pages": [
+      "398–416"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Loop Parallelization in the Polytope Model"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Marculescu",
+        "given": "D."
+      },
+      {
+        "family": "Marculescu",
+        "given": "R."
+      },
+      {
+        "family": "Pedram",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "1996-06"
+    ],
+    "issue": [
+      "6"
+    ],
+    "pages": [
+      "599–610"
+    ],
+    "title": [
+      "Information Theoretic Measures for Power Analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Moldovan",
+        "given": "D.I."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1983-01"
+    ],
+    "pages": [
+      "113–120"
+    ],
+    "title": [
+      "On the Design of Algorithms for VLSI Systolic Arrays"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Musoll",
+        "given": "E."
+      },
+      {
+        "family": "Cortadella",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "International Symposium on Low-Power Design"
+    ],
+    "date": [
+      "1995",
+      "1995-04"
+    ],
+    "pages": [
+      "99–104,"
+    ],
+    "title": [
+      "High-level Synthesis Techniques for Reducing the Activity of Functional Units"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Musoll",
+        "given": "E."
+      },
+      {
+        "family": "Cortadella",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Int. Symp. on System Synthesis"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "104–109"
+    ],
+    "title": [
+      "Scheduling and Resource Binding for Low Power"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "24."
+    ],
+    "title": [
+      "PARO Design System Project"
+    ],
+    "type": null,
+    "url": [
+      "http://www-date.upb.de/research/paro/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Raghunathan",
+        "given": "A."
+      },
+      {
+        "family": "Jha",
+        "given": "N.K."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "IEEE Symposium on Circuits and Systems"
+    ],
+    "date": [
+      "1995",
+      "May"
+    ],
+    "title": [
+      "An ILP Formulation for Low Power based on Minimizing Switched Capacitance during Data Path Allocation"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Raghunathan",
+        "given": "A."
+      },
+      {
+        "family": "Jha",
+        "given": "N.K."
+      },
+      {
+        "family": "Dey",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Norwell, Massachusetts"
+    ],
+    "publisher": [
+      "Kluwer Academic"
+    ],
+    "title": [
+      "High-Level Power Analysis and Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "note": [
+      "Synopsys, Inc.,"
+    ],
+    "type": null,
+    "url": [
+      "http://www.synopsys.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Teich",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "1993"
+    ],
+    "genre": [
+      "Ph.D. thesis,"
+    ],
+    "location": [
+      "Saarbrucken, Germany"
+    ],
+    "publisher": [
+      "Institut fur Mikroeletronik, Universitat des Saarlandes"
+    ],
+    "title": [
+      "A Compiler for Application-Specific Processor Arrays"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Teich",
+        "given": "J."
+      },
+      {
+        "family": "Thiele",
+        "given": "L."
+      },
+      {
+        "family": "Zhang",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "1997-09"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "5–20"
+    ],
+    "title": [
+      "Scheduling of Partitioned Regular Algorithms on Processor Arrays with Constrained Resources"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Thiele",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "295–310"
+    ],
+    "title": [
+      "Resource Constrained Scheduling of Uniform Algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "WildStar Datasheet"
+    ],
+    "title": [
+      "Annapolis Micro System, Inc"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Catthoor",
+        "given": "F."
+      },
+      {
+        "family": "Danckaert",
+        "given": "K."
+      },
+      {
+        "family": "Kulkarni",
+        "given": "C."
+      },
+      {
+        "family": "T",
+        "given": "Omnes"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Programmable Digital Signal Processors: Architecture, Programming, and Applications"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Marcel Dekker Inc"
+    ],
+    "title": [
+      "Data Transfer and Storage Architecture Issues and Exploration in Multimedia Processors"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Datasheet",
+        "given": "Celoxica Ltd RC1000"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "2001"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Darte",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Integration, The VLSI Journal"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "293–304"
+    ],
+    "title": [
+      "Regular Partitioning for Synthesizing Fixed-Size Systotic Arrays"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Darte",
+        "given": "A."
+      },
+      {
+        "family": "Rau",
+        "given": "B."
+      },
+      {
+        "family": "Vivien",
+        "given": "F."
+      },
+      {
+        "family": "Schreiber",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1999"
+    ],
+    "genre": [
+      "Technical Report 1999-15,"
+    ],
+    "note": [
+      "Laboratoire de l’informatique du parallelisme."
+    ],
+    "title": [
+      "A Constructive Solution to Juggling Problem in Systolic Array Synthesis"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Man",
+        "given": "H.",
+        "particle": "De"
+      },
+      {
+        "family": "Bolsens",
+        "given": "I."
+      },
+      {
+        "family": "Lin",
+        "given": "B."
+      },
+      {
+        "family": "Rompaey",
+        "given": "K.",
+        "particle": "Van"
+      },
+      {
+        "family": "Vercauteren",
+        "given": "S."
+      },
+      {
+        "family": "Verkest",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "391–418"
+    ],
+    "title": [
+      "Hardware and Software Codesign of Digital Telecommunication System"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "85"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Micheli",
+        "given": "G.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "pages": [
+      "418–420"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "Network on Chip: a new Paradigm for System on Chip Design. Design Automation and Test in Europe"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Derrien",
+        "given": "S."
+      },
+      {
+        "family": "Risset",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "PDPTA 2000: Second International Workshop on Engineering of Reconfigurable Hardware/Software Objects"
+    ],
+    "date": [
+      "2000",
+      "June"
+    ],
+    "editor": [
+      {
+        "family": "Arabnia",
+        "given": "A."
+      }
+    ],
+    "publisher": [
+      "CSREA Press"
+    ],
+    "title": [
+      "Interfacing Compiled FPGA Programs: the MMALPHA Approach"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Frigo",
+        "given": "J."
+      },
+      {
+        "family": "Gokhale",
+        "given": "M."
+      },
+      {
+        "family": "Lavenier",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Ninth international symposium on Field programmable gate arrays"
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "134–140"
+    ],
+    "publisher": [
+      "ACM Press"
+    ],
+    "title": [
+      "Evaluation of the Streams C C-to-FPGA Compiler: an Applications Perspective"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillou",
+        "given": "A.C."
+      },
+      {
+        "family": "Quinton",
+        "given": "P."
+      },
+      {
+        "family": "Risset",
+        "given": "T."
+      },
+      {
+        "family": "Massicotte",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "DATE Design Contest 2001"
+    ],
+    "date": [
+      "2001-03"
+    ],
+    "note": [
+      "Second place, available at"
+    ],
+    "title": [
+      "High-Level Design of Digital Filters in Mobile Communications"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://www.irisa.fr/bibli/publi/pi/2001/1405/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Haykin",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ 07458, USA"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Adaptive Filter Theory",
+      "Prentice-Hall information and system sciences series"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Katsushige",
+        "given": "M."
+      },
+      {
+        "family": "Kiyoshi",
+        "given": "N."
+      },
+      {
+        "family": "Hitoshi",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Circuits and Systems"
+    ],
+    "date": [
+      "1999",
+      "January"
+    ],
+    "pages": [
+      "51–55"
+    ],
+    "title": [
+      "Pipilined LMS Adaptive Filter Using a New Look-Ahead Transformation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Rijpkema",
+        "given": "E."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "8th International Workshop on Hardware/Software Codesign"
+    ],
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "title": [
+      "Compaan: Deriving Process Networks from Matlab for Embedded Signal Processing Architectures"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Lavenier",
+        "given": "D."
+      },
+      {
+        "family": "Quinton",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1996"
+    ],
+    "genre": [
+      "Technical Report 988,"
+    ],
+    "location": [
+      "March"
+    ],
+    "publisher": [
+      "Irisa"
+    ],
+    "title": [
+      "SAMBA: Systolic Accelerator for Molecular Biological Application"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Le Moenner",
+        "given": "P."
+      },
+      {
+        "family": "Perraudeau",
+        "given": "L."
+      },
+      {
+        "family": "Rajopadhye",
+        "given": "S."
+      },
+      {
+        "family": "Risset",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "Massively Parallel Computing Systems (MPCS’96"
+    ],
+    "date": [
+      "1996-05"
+    ],
+    "title": [
+      "Generating Regular Arithmetic Circuits with AlpHard"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Leong",
+        "given": "P.H.W."
+      },
+      {
+        "family": "Leong",
+        "given": "M.P."
+      },
+      {
+        "family": "Cheung",
+        "given": "O.Y.H."
+      },
+      {
+        "family": "Tung",
+        "given": "T."
+      },
+      {
+        "family": "Kwok",
+        "given": "C.M."
+      },
+      {
+        "family": "Wong",
+        "given": "M.Y."
+      },
+      {
+        "family": "Le Pilchard",
+        "given": "K.H."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "Symposium on Field-Programmable Custom Computing Machines (FCCM"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "California"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "A Reconfigurable Computing Platform with Memory Slot Interface"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Lieverse",
+        "given": "P."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "Van der"
+      },
+      {
+        "family": "Deprettere",
+        "given": "F."
+      },
+      {
+        "family": "Vissers",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing for Signal, Image and Video Technology"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "3"
+    ],
+    "note": [
+      "Special issue on SiPS’99."
+    ],
+    "pages": [
+      "197–207"
+    ],
+    "title": [
+      "A Methodology for Architecture Exploration of Heterogeneous Signal Processing Systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lin",
+        "given": "B."
+      },
+      {
+        "family": "Vercauteren",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "International Conference on Computer-Aided Design (ICCAD"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "101–109"
+    ],
+    "title": [
+      "Synthesis of Concurrent System Interface Modules with Automatic Protocol Conversion Generation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Mauras",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "container-title": [
+      "These de doctorat, Ifsic, Universite de Rennes 1"
+    ],
+    "date": [
+      "1989",
+      "December"
+    ],
+    "title": [
+      "Alpha: un langage e ́quationnel pour la conception et la programmation d’architectures paralle`les synchrones"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Memin",
+        "given": "E."
+      },
+      {
+        "family": "Risset",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "Int. Workshop on Parallel Image Processing and Analysis, IWPIPA’99"
+    ],
+    "date": [
+      "1999",
+      "Jan"
+    ],
+    "location": [
+      "India"
+    ],
+    "publisher": [
+      "Madras"
+    ],
+    "title": [
+      "Full Alternate Jacobi Minimization and VLSI Derivation of Hardware for Motion Estimation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Mozipo",
+        "given": "A."
+      },
+      {
+        "family": "Massicotte",
+        "given": "D."
+      },
+      {
+        "family": "Quinton",
+        "given": "P."
+      },
+      {
+        "family": "Risset",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "container-title": [
+      "1999 IEEE Canadian Conference on Electrical & Computer Engineering"
+    ],
+    "date": [
+      "1999",
+      "May"
+    ],
+    "pages": [
+      "554–559,"
+    ],
+    "title": [
+      "A Parallel Architecture for Adaptative Channel Equalization based On Kalman Filter Using MMALPHA"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Page",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "87–107"
+    ],
+    "title": [
+      "Constructing Hardware-Software Systems from a Single Description"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pimentel",
+        "given": "A.D."
+      },
+      {
+        "family": "Hertzberger",
+        "given": "L.O."
+      },
+      {
+        "family": "Lieverse",
+        "given": "P."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "Van Der"
+      },
+      {
+        "family": "F",
+        "given": "Deprettere E."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "11"
+    ],
+    "pages": [
+      "57–63"
+    ],
+    "title": [
+      "Exploring Embedded-Systems Architectures with Artemis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Quillere",
+        "given": "F."
+      },
+      {
+        "family": "Rajopadhye",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "ACM Transactions on Programming Languages and Systems"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "773–815"
+    ],
+    "title": [
+      "Optimizing Memory Usage in the Polyhedral Model"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Quinton",
+        "given": "P."
+      },
+      {
+        "family": "Robert",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1989"
+    ],
+    "publisher": [
+      "Prentice Hall and Masson"
+    ],
+    "title": [
+      "Systolic Algorithms and Architectures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Schreiber",
+        "given": "R."
+      },
+      {
+        "family": "Aditya",
+        "given": "S.G."
+      },
+      {
+        "family": "Rau",
+        "given": "B.R."
+      },
+      {
+        "family": "Mahlke",
+        "given": "S."
+      },
+      {
+        "family": "Kathail",
+        "given": "V."
+      },
+      {
+        "family": "Cronquist",
+        "given": "D."
+      },
+      {
+        "family": "Sivaraman",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "PICO-NPA: High-Level Synthesis of Nonprogrammable Hardware Accelerators"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "27."
+    ],
+    "date": [
+      "2001-10"
+    ],
+    "title": [
+      "Synplify Pro 7.0 Reference Manual"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "K."
+      },
+      {
+        "family": "Oetker",
+        "given": "C."
+      },
+      {
+        "family": "Katchan",
+        "given": "I."
+      },
+      {
+        "family": "Steckstor",
+        "given": "T."
+      },
+      {
+        "family": "Rosenstiel",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "IEEE Symposium of Field Programmable Gate Array"
+    ],
+    "title": [
+      "Power Estimation Approach for SRAM-based FPGAs"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilde",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "date": [
+      "1993"
+    ],
+    "genre": [
+      "Technical Report 785,"
+    ],
+    "location": [
+      "Rennes. France"
+    ],
+    "publisher": [
+      "Irisa"
+    ],
+    "title": [
+      "A Library for doing Polyhedral Operations"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "W."
+      },
+      {
+        "family": "Martinez",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "container-title": [
+      "Design Automation and Test in Europe (DATE) 2002"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "pages": [
+      "296–316"
+    ],
+    "publisher": [
+      "IEEE Computer Society Press"
+    ],
+    "title": [
+      "Session: Platform Based Design and Virtual Component Reuse"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Zhu",
+        "given": "X."
+      },
+      {
+        "family": "Lin",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "31."
+    ],
+    "container-title": [
+      "Design Automation Conference (DAC"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New Orleans"
+    ],
+    "pages": [
+      "697–703"
+    ],
+    "publisher": [
+      "ACM"
+    ],
+    "title": [
+      "Hardware Compilation for FPGA-Based Configurable Computing Machines"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhattacharyya",
+        "given": "S.S."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Programmable Digital Signal Processors: Architecture, Programming, and Applications"
+    ],
+    "date": [
+      "2002"
+    ],
+    "editor": [
+      {
+        "family": "Hu",
+        "given": "Y.H."
+      }
+    ],
+    "pages": [
+      "333–378"
+    ],
+    "publisher": [
+      "Marcel Dekker, Inc"
+    ],
+    "title": [
+      "Hardware/software co-synthesis of DSP systems"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Blickle",
+        "given": "T."
+      },
+      {
+        "family": "Teich",
+        "given": "J."
+      },
+      {
+        "family": "Thiele",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Journal of Design Automation for Embedded Systems"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "23–58"
+    ],
+    "title": [
+      "System-level synthesis using evolutionary algorithms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Chudak",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Integer Programming and Combinatorial Optimization"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Boyd",
+        "given": "E.A."
+      },
+      {
+        "family": "Bixby",
+        "given": "R.E."
+      },
+      {
+        "family": "Rios-Mercado",
+        "given": "R.Z."
+      }
+    ],
+    "pages": [
+      "180–194"
+    ],
+    "publisher": [
+      "Springer LNCS"
+    ],
+    "title": [
+      "Improved approximation algorithms for uncapaciateted facility location"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cormen",
+        "given": "T.H."
+      },
+      {
+        "family": "Stein",
+        "given": "C."
+      },
+      {
+        "family": "Leiserson",
+        "given": "C.E."
+      },
+      {
+        "family": "Rivest",
+        "given": "R.L."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "Introduction to Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hauser",
+        "given": "J.R."
+      },
+      {
+        "family": "Wawrzynek",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE Symposium on FPGAs for Custom Computing Machines"
+    ],
+    "date": [
+      "1997",
+      "April"
+    ],
+    "pages": [
+      "24–33,"
+    ],
+    "title": [
+      "Garp: A MIPS processor with a reconfigurable coprocessor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Jain",
+        "given": "K."
+      },
+      {
+        "family": "Vazirani",
+        "given": "V.V."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proc"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Foundations of Computer Science"
+    ],
+    "title": [
+      "Approximation algorithms for metric facility location and k-median problems using the primaldual scheme and Lagrangian relaxation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "S.",
+        "given": "Lohani"
+      },
+      {
+        "family": "S",
+        "given": "Bhattacharyya S."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "Technical Report UMIACSTR-2002-12,",
+      "Technical Report CS-TR-4330,"
+    ],
+    "publisher": [
+      "Institute for Advanced Computer Studies, University of Maryland at College Park. Also Computer Science",
+      "February"
+    ],
+    "title": [
+      "System synthesis for polymorphous computing architectures"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "Shmoys",
+        "given": "D.B."
+      },
+      {
+        "family": "Tardos",
+        "given": "E."
+      },
+      {
+        "family": "Aardal",
+        "given": "K.I."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Proc. 29th ACM Symp. on Theory of Computing"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "265–274"
+    ],
+    "title": [
+      "Approximation algorithms for facility location problems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Sriram",
+        "given": "S."
+      },
+      {
+        "family": "Bhattacharyya",
+        "given": "S.S."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "Marcel Dekker, Inc"
+    ],
+    "title": [
+      "Embedded Multiprocessors: Scheduling and Synchronization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Waingold",
+        "given": "E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "IEEE Computer Magazine"
+    ],
+    "date": [
+      "1997",
+      "September"
+    ],
+    "pages": [
+      "86–93,"
+    ],
+    "title": [
+      "Baring it all to software: RAW machines"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "S."
+      },
+      {
+        "family": "Vassiliadis",
+        "given": "S."
+      },
+      {
+        "family": "Cotofana",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Proceedings of the International Workshop on Systems, Architectures, Modeling, and Simulation"
+    ],
+    "date": [
+      "2001",
+      "July"
+    ],
+    "pages": [
+      "207–223,"
+    ],
+    "title": [
+      "Microcoded reconfigurable embedded processors: Current developments"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Zitzler",
+        "given": "E."
+      },
+      {
+        "family": "Thiele",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Transactions on Evolutionary Computation"
+    ],
+    "date": [
+      "1999-11"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "257–271"
+    ],
+    "title": [
+      "Multiobjective evolutionary algorithms: A comparative case study and the strength Pareto approach"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Parallel and Distributed Computing Handbook"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Zomaya",
+        "given": "A.Y."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "5–23"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Parallel and distributed computing: The scene, the props, the players"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E."
+      },
+      {
+        "family": "Vissers",
+        "given": "K."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proceedings of 11th Int. Conference of Applications-specific Systems, Architectures and Processors"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Zurich, Switzerland"
+    ],
+    "pages": [
+      "338–349"
+    ],
+    "title": [
+      "An approach for quantitative analysis of application-specific dataflow architectures"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "ASAP’97"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Vissers",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2002"
+    ],
+    "pages": [
+      "18–37"
+    ],
+    "publisher": [
+      "of LNCS. Springer Verlag"
+    ],
+    "title": [
+      "A Methodology to Design Programmable Embedded Systems"
+    ],
+    "type": "book",
+    "volume": [
+      "2268"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Rijpkema",
+        "given": "E."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E.F."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "8th International Workshop on Hardware/Software Codesign (CODES’2000"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "San Diego, USA"
+    ],
+    "title": [
+      "Compaan: Deriving process networks from matlab for embedded signal processing architectures"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Basel"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers, Inc"
+    ],
+    "title": [
+      "Computers as Components—Principles of Embedded Computing System Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "E.A."
+      },
+      {
+        "family": "Parks",
+        "given": "T.M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "773–799"
+    ],
+    "title": [
+      "Dataflow process networks"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "83"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kahn",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proc. of the IFIP Congress 74"
+    ],
+    "date": [
+      "1974"
+    ],
+    "publisher": [
+      "North-Holland Publishing Co"
+    ],
+    "title": [
+      "The semantics of a simple language for parallel programming"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Harriss",
+        "given": "T."
+      },
+      {
+        "family": "Walke",
+        "given": "R."
+      },
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Depettere",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Design Automation of Embedded Systems"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Compilation from matlab to process networks realized in fpga"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ben-Ari",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1982"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Principles of Concurrent Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Turjan",
+        "given": "A."
+      },
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Deprettere",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Proceedings of the IEEE 13th International Conference on Application-specific Systems, Architectures and Processors (ASAP’02"
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "San Jose, California"
+    ],
+    "title": [
+      "A compile time based approach for solving out-of-order communication in kahn process networks"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Ehrhart",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "collection-title": [
+      "International series of numerical mathematics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "edition": [
+      "edn"
+    ],
+    "location": [
+      "Basel"
+    ],
+    "publisher": [
+      "Birkhauser Verlag"
+    ],
+    "title": [
+      "Polynomes arithmetiques et Methode des Polyedres en Combinatoire"
+    ],
+    "type": "book",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "P.",
+        "given": "Clauss"
+      },
+      {
+        "family": "V",
+        "given": "Loechner"
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "Journal of VLSI Signal Processing"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "179–194"
+    ],
+    "title": [
+      "Parametric analysis of polyhedral iteration spaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rijpkema",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "date": [
+      "2002"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Leiden, LIACS, Leiden, The Netherlands"
+    ],
+    "publisher": [
+      "University"
+    ],
+    "title": [
+      "Modeling Task Level Parallelism in Piece-wise Regular Programs"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "A.V."
+      },
+      {
+        "family": "Sethi",
+        "given": "R."
+      },
+      {
+        "family": "Ullman",
+        "given": "J.D."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "date": [
+      "1986"
+    ],
+    "isbn": [
+      "0-201-10088-6"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Compilers: Principles, Techniques and Tools"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Muchnick",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers, Inc"
+    ],
+    "title": [
+      "Advanced Compiler Design and Implementation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Xilinx"
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2001"
+    ],
+    "pages": [
+      "505–506"
+    ],
+    "title": [
+      "Memory Application Notes for Virtex-II Devices"
+    ],
+    "type": null,
+    "url": [
+      "http://www."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Veen",
+        "given": "A.H."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "366–396"
+    ],
+    "title": [
+      "Dataflow machine architecture"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clauss",
+        "given": "P."
+      },
+      {
+        "family": "Loechner",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "2002"
+    ],
+    "note": [
+      "Polylib (http://icps.u-strabg.fr/Polylib)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kock",
+        "given": "E.",
+        "particle": "de"
+      },
+      {
+        "family": "Essink",
+        "given": "G."
+      },
+      {
+        "family": "Smits",
+        "given": "W."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "J.",
+        "given": "Brunel"
+      },
+      {
+        "family": "Kruijtzer",
+        "given": "W."
+      },
+      {
+        "family": "Lieverse",
+        "given": "P."
+      },
+      {
+        "family": "Vissers",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "37th Design Automation Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Los Angeles, CA"
+    ],
+    "title": [
+      "Yapi: Application modeling for signal processing systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "J.",
+        "suffix": "II"
+      },
+      {
+        "family": "Hylands",
+        "given": "C."
+      },
+      {
+        "family": "Kienhuis",
+        "given": "B."
+      },
+      {
+        "family": "Lee",
+        "given": "E.A."
+      },
+      {
+        "family": "Liu",
+        "given": "J."
+      },
+      {
+        "family": "Liu",
+        "given": "X."
+      },
+      {
+        "family": "Muliadi",
+        "given": "L."
+      },
+      {
+        "family": "Neuendorffer",
+        "given": "S."
+      },
+      {
+        "family": "Tsay",
+        "given": "J."
+      },
+      {
+        "family": "Vogel",
+        "given": "B."
+      },
+      {
+        "family": "Xiong",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Ptolemy ii - heterogeneous concurrent modeling and design in java"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A.R.M."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Rev"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "0"
+    ],
+    "title": [
+      "AMBA Specification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.R.M."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Overview"
+    ],
+    "title": [
+      "Multi-Layer AHB"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bainbridge",
+        "given": "J."
+      },
+      {
+        "family": "Furber",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "IEEE Micro"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "5"
+    ],
+    "title": [
+      "CHAIN: A delay-insensitive chip area interconnect"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Benini",
+        "given": "L."
+      },
+      {
+        "family": "Micheli",
+        "given": "G.",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "ISSS"
+    ],
+    "title": [
+      "Powering networks on chips"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Benini",
+        "given": "L."
+      },
+      {
+        "family": "Micheli G",
+        "particle": "De"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "70–80"
+    ],
+    "title": [
+      "Networks on chips: A new SoC paradigm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Culler",
+        "given": "D.J."
+      },
+      {
+        "family": "Singh",
+        "given": "J.P."
+      },
+      {
+        "family": "Gupta",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers"
+    ],
+    "title": [
+      "Parallel Computer Architecture: A Hardware/Software Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dally",
+        "given": "W.J."
+      },
+      {
+        "family": "Towles",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "DAC"
+    ],
+    "title": [
+      "Route packets, not wires: On-chip interconnection networks"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goossens",
+        "given": "K."
+      },
+      {
+        "family": "Meerbergen",
+        "given": "J.",
+        "particle": "van"
+      },
+      {
+        "family": "Peeters",
+        "given": "A."
+      },
+      {
+        "family": "Wielage",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "DATE"
+    ],
+    "title": [
+      "Networks on silicon: Combining best-effort and guaranteed services"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Guerrier",
+        "given": "P."
+      },
+      {
+        "family": "Greiner",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "DATE"
+    ],
+    "title": [
+      "A generic architecture for on-chip packetswitched interconnections"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Having",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "2000"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "publisher": [
+      "University of Twente"
+    ],
+    "title": [
+      "Mobile Multimedia Systems"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Hennessy",
+        "given": "J."
+      },
+      {
+        "family": "Patterson",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "date": [
+      "1995"
+    ],
+    "publisher": [
+      "Morgan Kaufmann"
+    ],
+    "title": [
+      "Computer Architecture: A Quantitative Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.M."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "Rev"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "I"
+    ],
+    "title": [
+      "32-bit On-Chip Peripheral Bus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "I.B.M."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "Rev"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "9"
+    ],
+    "title": [
+      "32-bit Processor Local Bus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Keutzer",
+        "given": "K."
+      },
+      {
+        "family": "Malik",
+        "given": "S."
+      },
+      {
+        "family": "Newton",
+        "given": "A.R."
+      },
+      {
+        "family": "Rabaey",
+        "given": "J.M."
+      },
+      {
+        "family": "Sangiovanni-Vincentelli",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "container-title": [
+      "IEEE Trans. on CAD of Integrated Circuits and Systems"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "12"
+    ],
+    "pages": [
+      "1523–1543"
+    ],
+    "title": [
+      "System-level design: Orthogonalization of concerns and platformbased design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kumar",
+        "given": "S."
+      },
+      {
+        "family": "Jantsch",
+        "given": "A."
+      },
+      {
+        "family": "Soininen",
+        "given": "J.-P."
+      },
+      {
+        "family": "Forsell",
+        "given": "M."
+      },
+      {
+        "family": "Millberg",
+        "given": "M."
+      },
+      {
+        "family": "Oberg",
+        "given": "J."
+      },
+      {
+        "family": "Tiensyrja",
+        "given": "Hemani"
+      },
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "ISVLSI"
+    ],
+    "title": [
+      "A network on chip architecture and design methodology"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Leijten",
+        "given": "J.A."
+      },
+      {
+        "family": "Meerbergen",
+        "given": "J.L.",
+        "particle": "van"
+      },
+      {
+        "family": "Timmer",
+        "given": "A.H."
+      },
+      {
+        "family": "Jess",
+        "given": "J.A."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "ED&TC"
+    ],
+    "title": [
+      "Prophid, a data-driven multi-processor architecture for high-performance DSP"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Partnership",
+        "given": "O.C.P.International"
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "date": [
+      "2001"
+    ],
+    "publisher": [
+      "Open Core Protocol Specification"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Philips"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "container-title": [
+      "Rev"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "I"
+    ],
+    "title": [
+      "DTL Protocol Specification"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rexford",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1999"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "publisher": [
+      "Univ. Michigan"
+    ],
+    "title": [
+      "Tailoring Router Architectures to Performance Requirements in Cut-Through Networks"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Rijpkema",
+        "given": "E."
+      },
+      {
+        "family": "Goossens",
+        "given": "K."
+      },
+      {
+        "family": "Radulescu",
+        "given": "A."
+      },
+      {
+        "family": "Dielissen",
+        "given": "J."
+      },
+      {
+        "family": "Meerbergen",
+        "given": "J.",
+        "particle": "van"
+      },
+      {
+        "family": "Wielage",
+        "given": "P."
+      },
+      {
+        "family": "Waterlander",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "DATE"
+    ],
+    "title": [
+      "Trade offs in the design of a router with both guaranteed and best-effort services for networks on chip"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rijpkema",
+        "given": "E."
+      },
+      {
+        "family": "Goossens",
+        "given": "K."
+      },
+      {
+        "family": "Wielage",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "PROGRESS"
+    ],
+    "title": [
+      "A router architecture for networks on silicon"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "M.T."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "date": [
+      "1990"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Open Book: A Practical Perspective on OSI"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sgori",
+        "given": "M."
+      },
+      {
+        "family": "Sheets",
+        "given": "M."
+      },
+      {
+        "family": "Keutzer",
+        "given": "K."
+      },
+      {
+        "family": "Malik",
+        "given": "S."
+      },
+      {
+        "family": "Rabaey",
+        "given": "J."
+      },
+      {
+        "family": "Sangiovanni-Vincentelli",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "DAC"
+    ],
+    "title": [
+      "Addressing the system-on-a-chip interconnect woes through communication-based design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stravers",
+        "given": "P."
+      },
+      {
+        "family": "Hoogerbrugge",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "In"
+    ],
+    "publisher": [
+      "VLSI-TSA"
+    ],
+    "title": [
+      "Homogeneous multiprocessing and the future of silicon design paradigms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "25."
+    ],
+    "date": [
+      "1996"
+    ],
+    "publisher": [
+      "Computer Networks. Prentice Hall"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Alliance",
+        "given": "V.S.I."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Virtual Component Interface Standard"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "Proc. of the IEEE"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "10"
+    ],
+    "pages": [
+      "1374–1396"
+    ],
+    "title": [
+      "Service disciplines for guaranteed performance service in packet-switching networks"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "83"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Garcia-Molina",
+        "given": "H."
+      },
+      {
+        "family": "Rogers",
+        "given": "L.R."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Proceedings of the ACM Conference on Measurement and Modeling of Computer Systems"
+    ],
+    "date": [
+      "1987",
+      "May"
+    ],
+    "pages": [
+      "122–131,"
+    ],
+    "title": [
+      "Performance through memory"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "TM32A data sheet"
+    ],
+    "type": null,
+    "url": [
+      "www.trimedia.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kock",
+        "given": "E.A.",
+        "particle": "de"
+      },
+      {
+        "family": "Essink",
+        "given": "G."
+      },
+      {
+        "family": "Smits",
+        "given": "W.J.M."
+      },
+      {
+        "family": "Wolf",
+        "given": "P.",
+        "particle": "van der"
+      },
+      {
+        "family": "Brunel",
+        "given": "J.-Y."
+      },
+      {
+        "family": "Kruijtzer",
+        "given": "W.M."
+      },
+      {
+        "family": "Lieverse",
+        "given": "P."
+      },
+      {
+        "family": "Vissers",
+        "given": "K.A."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "Proceedings of the 37th Design Automation Conference"
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Los Angeles"
+    ],
+    "title": [
+      "YAPI: Application Modeling for Signal Processing Systems"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Kahn",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1974"
+    ],
+    "editor": [
+      {
+        "family": "Rosenfeld",
+        "given": "J.L."
+      }
+    ],
+    "pages": [
+      "471–474"
+    ],
+    "publisher": [
+      "Information Processing. North-Holland Publishing Company"
+    ],
+    "title": [
+      "The semantics of a simple language for parallel programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Basten",
+        "given": "T.Hoogerbrugge"
+      },
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Proceedings of Communicating Process Architectures"
+    ],
+    "date": [
+      "2001",
+      "September"
+    ],
+    "location": [
+      "Bristol, UK"
+    ],
+    "title": [
+      "Efficient Execution of Process Networks"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Eicken",
+        "given": "T.",
+        "particle": "von"
+      },
+      {
+        "family": "Culler",
+        "given": "D."
+      },
+      {
+        "family": "Goldstein",
+        "given": "S."
+      },
+      {
+        "family": "Schauser",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Proceedings of the 19th International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1992",
+      "May"
+    ],
+    "pages": [
+      "256–266,"
+    ],
+    "title": [
+      "Active Messages: a Mechanism for Integrated Communication and Computation"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Haskell",
+        "given": "B.G."
+      },
+      {
+        "family": "Puri",
+        "given": "A."
+      },
+      {
+        "family": "Netravali",
+        "given": "A.N."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "given": "Chapman"
+      },
+      {
+        "given": "Hall"
+      }
+    ],
+    "location": [
+      "Delft, The Netherlands"
+    ],
+    "publisher": [
+      "and Sorin Cotofana Delft University of Technology"
+    ],
+    "title": [
+      "Digital video: an introduction to MPEG-2",
+      "Future Directions of Programmable and Reconfigurable Embedded Processors Stephan Wong, Stamatis Vassiliadis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Altera"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Nios Embedded Processor"
+    ],
+    "type": null,
+    "url": [
+      "http://www.altera"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Altera"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Stratix Family"
+    ],
+    "type": null,
+    "url": [
+      "http://www.altera.com/products/devices/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Athanas",
+        "given": "P.M."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1992"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Providence, Rhode Island, May"
+    ],
+    "publisher": [
+      "Brown University"
+    ],
+    "title": [
+      "An Adaptive Machine Architecture and Compiler for Dynamic Processor Reconfiguration"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "M.",
+        "given": "Athanas P."
+      },
+      {
+        "family": "F",
+        "given": "Silverman H."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1993-03"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "11–18"
+    ],
+    "title": [
+      "Processor Reconfiguration through Instruction-Set Metamorphosis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "A.",
+        "given": "Blaauw G."
+      },
+      {
+        "family": "P",
+        "given": "Brooks F."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1997"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Computer Architecture: Concepts and Evolution"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cadambi",
+        "given": "S."
+      },
+      {
+        "family": "Weener",
+        "given": "J."
+      },
+      {
+        "family": "Goldstein",
+        "given": "S.C."
+      },
+      {
+        "family": "Schmit",
+        "given": "H."
+      },
+      {
+        "family": "Thomas",
+        "given": "D.E."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "6th International Symposium on Field Programmable Gate Arrays"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "California"
+    ],
+    "pages": [
+      "55–64"
+    ],
+    "publisher": [
+      "USA"
+    ],
+    "title": [
+      "Managing Pipeline-Reconfigurable FPGAs"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chang",
+        "given": "W.-T."
+      },
+      {
+        "family": "Kalavade",
+        "given": "A."
+      },
+      {
+        "family": "Lee",
+        "given": "E.A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Hardware/Software Co-Design"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Michelli",
+        "given": "G.",
+        "particle": "de"
+      },
+      {
+        "family": "Sami",
+        "given": "M."
+      }
+    ],
+    "pages": [
+      "187–211"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Effective Heterogeneous Design and Co-Simulation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilson",
+        "given": "K.L."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "U.S. Patent"
+    ],
+    "date": [
+      "1994",
+      "November"
+    ],
+    "issue": [
+      "5,361,373"
+    ],
+    "title": [
+      "Integrated Circuit Computing Device Comprising a Dynamically Configurable Gate Array Having a Microprocessor and Reconfigurable Instruction Execution Means and Method Therefore"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Goldstein",
+        "given": "S.C."
+      },
+      {
+        "family": "Schmit",
+        "given": "H."
+      },
+      {
+        "family": "Moe",
+        "given": "M."
+      },
+      {
+        "family": "Budiu",
+        "given": "M."
+      },
+      {
+        "family": "Cadambi",
+        "given": "S."
+      },
+      {
+        "family": "Taylor",
+        "given": "R."
+      },
+      {
+        "family": "Laufer",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "The 26th International Symposium on Computer Architecture"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Georgia, USA, May"
+    ],
+    "pages": [
+      "28–39"
+    ],
+    "title": [
+      "PipeRench: A Coprocessor for Streaming Multimedia Acceleration"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartenstein",
+        "given": "R.W."
+      },
+      {
+        "family": "Kress",
+        "given": "R."
+      },
+      {
+        "family": "Reinig",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "4th International Workshop on Field-Programmable Logic: Architectures, Synthesis and Applications. Lecture Notes in Computer Science"
+    ],
+    "date": [
+      "1994",
+      "September"
+    ],
+    "location": [
+      "Czech Republic"
+    ],
+    "pages": [
+      "144–155"
+    ],
+    "title": [
+      "A New FPGA Architecture for Word-Oriented Datapaths"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hauck",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "11."
+    ],
+    "container-title": [
+      "6th International Symp. on Field Programmable Gate Arrays. California"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "65–74"
+    ],
+    "title": [
+      "Configuration Prefetch for Single Context Reconfigurable Coprocessors"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hauser",
+        "given": "J.R."
+      },
+      {
+        "family": "Wawrzynek",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "12."
+    ],
+    "container-title": [
+      "IEEE Symp. on FPGAs for Custom Computing Machines. California"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "12–21"
+    ],
+    "title": [
+      "Garp: A MIPS Processor with a Reconfigurable Coprocessor"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Heinrich",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "13."
+    ],
+    "container-title": [
+      "MIPS RISC Architecture"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Intel"
+      }
+    ],
+    "citation-number": [
+      "14."
+    ],
+    "title": [
+      "Intel PCA Application Processors"
+    ],
+    "type": null,
+    "url": [
+      "http://www.intel.com/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacob",
+        "given": "J.A."
+      },
+      {
+        "family": "Chow",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "15."
+    ],
+    "container-title": [
+      "ACM/SIGDA Seventh International Symposium on Field Programmable Gate Arrays"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Monterey. California"
+    ],
+    "pages": [
+      "145–154"
+    ],
+    "title": [
+      "Memory Interfacing and Instruction Specification for Reconfigurable Processors"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "May",
+        "given": "C."
+      },
+      {
+        "family": "Silha",
+        "given": "E."
+      },
+      {
+        "family": "Simpson",
+        "given": "R."
+      },
+      {
+        "family": "Warren",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "16."
+    ],
+    "date": [
+      "1994"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers, Inc"
+    ],
+    "title": [
+      "In: The PowerPC Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Miyamori",
+        "given": "T."
+      },
+      {
+        "family": "Olukotun",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "17."
+    ],
+    "container-title": [
+      "IEEE Symposium on FPGAs for Custom Computing Machines. California"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Pocek",
+        "given": "Kenneth"
+      },
+      {
+        "family": "L.",
+        "given": "Arnold"
+      },
+      {
+        "family": "Jeffrey",
+        "given": "M."
+      }
+    ],
+    "pages": [
+      "2–11"
+    ],
+    "title": [
+      "A Quantitative Analysis of Reconfigurable Coprocessors for Multimedia Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "citation-number": [
+      "18."
+    ],
+    "title": [
+      "Motorola 68000/Coldfire Family"
+    ],
+    "type": null,
+    "url": [
+      "http://e-www.motorola"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Razdan",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "19."
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "PhD thesis."
+    ],
+    "location": [
+      "Cambridge, MA, USA"
+    ],
+    "publisher": [
+      "Harvard University"
+    ],
+    "title": [
+      "PRISC: Programmable Reduced Instruction Set Computers"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Schmit",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "20."
+    ],
+    "container-title": [
+      "IEEE Symposium on FPGAs for Custom Computing Machines"
+    ],
+    "date": [
+      "1997",
+      "April"
+    ],
+    "location": [
+      "California"
+    ],
+    "pages": [
+      "47–55"
+    ],
+    "title": [
+      "Incremental Reconfiguration for Pipelined Applications"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Seal",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "21."
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "ARM Architecture Reference Manual. Addison-Wesley"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rathnam",
+        "given": "S."
+      },
+      {
+        "family": "Slavenburg",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "22."
+    ],
+    "container-title": [
+      "Proceedings of COMPCON ’96, IEEE"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "319–326"
+    ],
+    "title": [
+      "An Architectural Overview of the Programmable Multimedia Processor, TM-1"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Trimberger",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "23."
+    ],
+    "container-title": [
+      "Patent"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "5,737,631"
+    ],
+    "title": [
+      "Reprogrammable Instruction Set Accelerator. U.S"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Vassiliadis",
+        "given": "S."
+      },
+      {
+        "family": "Wong",
+        "given": "S."
+      },
+      {
+        "family": "Cotofana",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "24."
+    ],
+    "container-title": [
+      "Proc. of the 11th Intern. Conf. on Field-Programmable Logic and Applications (FPL2001"
+    ],
+    "pages": [
+      "275–285"
+    ],
+    "title": [
+      "The MOLEN UA-Coded Processor"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "citation-number": [
+      "25."
+    ],
+    "container-title": [
+      "The SPARC Architecture Manual (v9"
+    ],
+    "editor": [
+      {
+        "family": "Weaver",
+        "given": "D.L."
+      },
+      {
+        "family": "Germond",
+        "given": "T."
+      }
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkes",
+        "given": "M.V."
+      }
+    ],
+    "citation-number": [
+      "26."
+    ],
+    "date": [
+      "1951",
+      "July"
+    ],
+    "location": [
+      "In"
+    ],
+    "pages": [
+      "16–18"
+    ],
+    "publisher": [
+      "Report of the Manchester University Computer Inaugural Conference"
+    ],
+    "title": [
+      "The Best Way to Design an Automatic Calculating Machine"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wittig",
+        "given": "R.D."
+      },
+      {
+        "family": "P",
+        "given": "Chow"
+      }
+    ],
+    "citation-number": [
+      "27."
+    ],
+    "container-title": [
+      "IEEE Symposium on FPGAs for Custom Computing Machines"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "126–135"
+    ],
+    "title": [
+      "OneChip: An FPGA Processor with Reconfigurable Logic"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Wong",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "28."
+    ],
+    "date": [
+      "2002",
+      "December"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Delft, The Netherlands"
+    ],
+    "publisher": [
+      "Delft University of Technology"
+    ],
+    "title": [
+      "Microcoded Reconfigurable Embedded Processors"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Xilinx"
+      }
+    ],
+    "citation-number": [
+      "29."
+    ],
+    "title": [
+      "Virtex-II 1.5V FPGA Family: Detailed Functional Description"
+    ],
+    "type": null,
+    "url": [
+      "http://www.xilinx.com/partinfo/databook.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Xilinx"
+      }
+    ],
+    "citation-number": [
+      "30."
+    ],
+    "title": [
+      "Xilinx MicroBlaze"
+    ],
+    "type": null,
+    "url": [
+      "http://www.xilinx.com//xlnx/xilprodcatproduct.jsp?title=microblaze"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "citation-number": [
+      "22"
+    ],
+    "note": [
+      "delay(Xdelay); mySerialPort.print(\"4567\"); delay(Xdelay); mySerialPort.print(\"5678\"); delay(Xdelay); mySerialPort.print(\"6789\"); delay(Xdelay); mySerialPort.print(\"7890\"); delay(Xdelay); mySerialPort.print(\"8900\"); delay(Xdelay); mySerialPort.print(\"9000\"); delay(Xdelay); mySerialPort.print(\"0000\"); delay(Xdelay);"
+    ],
+    "title": [
+      "Environmental Monitoring with Arduino mySerialPort.print(\"3456\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "New Component: 4Char Display 23 { mySerialPort.print(temps[i]); mySerialPort.print(temps[i+1]); mySerialPort.print(temps[i+2]); mySerialPort.print(temps[i+3]); delay(Xdelay); "
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This code is in the public domain"
+    ],
+    "type": null,
+    "url": [
+      "http://www.tigoe.net/pcomp/code/category/arduinowiring/873"
+    ]
+  },
+  {
+    "note": [
+      "pinMode(SD_CARD, OUTPUT); digitalWrite(SD_CARD, HIGH);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "pinMode(geiger_input, INPUT); digitalWrite(geiger_input,HIGH);"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "DEC"
+    ],
+    "title": [
+      "Project: Radiation Counter/Sharing Data on the Internet 75 int thisLength = getLength(thisData); client.println(thisLength"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "DEC"
+    ],
+    "title": [
+      "// here's the actual content of the PUT request: client.println(thisData"
+    ],
+    "type": null
+  }
+]
