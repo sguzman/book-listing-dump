@@ -1,0 +1,1933 @@
+[
+  {
+    "citation-number": [
+      "80.701228,"
+    ],
+    "issue": [
+      "-1, 1L: 85.8545, 9.33834, 6.70059, 8.04156, 4.49274, 3.37093< RandomReal@81, 10<, 6D 8-0.129994, 0.76516, 0.566518",
+      "4803"
+    ],
+    "pages": [
+      "–0 519139,",
+      "6"
+    ],
+    "title": [
+      "0.143366, 0.731902, 0.410061, 0.858202, 0.693984< RandomReal@1, 6D We also generate random numbers from the distributions UH1"
+    ],
+    "type": null,
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "80.0409815,"
+    ],
+    "date": [
+      "0222"
+    ],
+    "issue": [
+      "560409"
+    ],
+    "pages": [
+      "0 952521,"
+    ],
+    "type": null,
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "80.684339,"
+    ],
+    "date": [
+      "0.688333< RandomReal@1, 6D"
+    ],
+    "issue": [
+      "310975"
+    ],
+    "pages": [
+      "0 353737,"
+    ],
+    "type": null,
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "citation-number": [
+      "8a"
+    ],
+    "title": [
+      "= RandomReal@D, BlockRandom@8RandomReal@D, RandomReal@D<D, b = RandomReal@D< SeedRandom@15D"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "randomWalk@n_, opts___D := ListLinePlotA8Range@0"
+      }
+    ],
+    "date": [
+      "nD, Join@80<"
+    ],
+    "note": [
+      "SeedRandom@1D; randomWalk@2000, AspectRatio Ø 0.2, ImageSize Ø 400D"
+    ],
+    "title": [
+      "Accumulate@RandomChoice@8-1, 1<, nDDD< ̈, optsE Next, we simulate 2000 steps"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Show@Table@randomWalk@2000, PlotStyle Ø Hue@RandomReal@DDD, 820<D, PlotRange Ø All, AspectRatio Ø 0.2, ImageSize Ø 400D"
+    ],
+    "title": [
+      "Next, we do 20 simulations of 2000 steps: SeedRandom@1D"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "SeedRandom@4D"
+    ],
+    "title": [
+      "Show@Table@gamblersRuin@10, 20, PlotStyle Ø Hue@RandomReal@DDD, 820<D"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "RandomChoice@881"
+    ],
+    "date": [
+      "2000"
+    ],
+    "pages": [
+      "8–1,",
+      "–1 ,"
+    ],
+    "title": [
+      "With@8rw = Accumulate@"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0<, 80, 1<",
+      "0<, 80"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Point@newD<",
+        "given": "Axes Ø.True"
+      }
+    ],
+    "location": [
+      "Red, PointSize@LargeD"
+    ],
+    "title": [
+      "AxesOrigin Ø 80, 0<DDD Line@data = Append@data, newDD"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Table@brownianMotion@0.3",
+      "PlotStyle Ø Hue@RandomReal@DDD"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "5"
+    ],
+    "location": [
+      "SeedRandom@2D; Show"
+    ],
+    "pages": [
+      "0 01,"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0",
+      "820<D"
+    ]
+  },
+  {
+    "citation-number": [
+      "881.06783,"
+    ],
+    "issue": [
+      "29313"
+    ],
+    "location": [
+      "BinLists@aD"
+    ],
+    "pages": [
+      "2 94215 ,"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HistogramRange",
+        "given": "Ø."
+      }
+    ],
+    "note": [
+      "Automatic<D, Histogram@a, HistogramCategories Ø Range@0, 10D,"
+    ],
+    "title": [
+      "80, 10<, Ticks Ø 8Range@0, 10D"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Histogram@data",
+        "given": "HistogramCategories Ø.Range@-4"
+      }
+    ],
+    "container-title": [
+      "HistogramCategories Ø Range@-4"
+    ],
+    "pages": [
+      "0 25 ,"
+    ],
+    "title": [
+      "4, 0.25D, HistogramRange Ø 8-4, 4<D< Histogram@data"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Range@-4",
+        "given": "HistogramCategories Ø."
+      }
+    ],
+    "publisher": [
+      "FrequencyData Ø True"
+    ],
+    "title": [
+      "4, 0.25D, Ticks Ø 8Range@-4, 4D, Automatic<D Histogram@fr"
+    ],
+    "type": "book"
+  },
+  {
+    "publisher": [
+      "Show@Histogram@cumfr, FrequencyData Ø True"
+    ],
+    "title": [
+      "Plot@PDF@NormalDistribution@0, 1D, xD, 8x, -4, 4<DD, HistogramCategories Ø Range@-4, 4, 0.25D, ImageSize Ø 200D"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "StudentTCI@m, sm"
+    ],
+    "issue": [
+      "3673"
+    ],
+    "pages": [
+      "50 5747"
+    ],
+    "title": [
+      "We then use StudentTCI"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "849"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "NormalCI",
+        "given": "We",
+        "particle": "could also use"
+      },
+      {
+        "given": "NormalCI@m"
+      }
+    ],
+    "container-title": [
+      "ConfidenceLevel Ø ÒD & êü"
+    ],
+    "issue": [
+      "95",
+      "57583<"
+    ],
+    "pages": [
+      "8–2 57583,",
+      "8–3 29053, 3 29053"
+    ],
+    "title": [
+      "Sqrt@9 ê 100DD 849.383, 50.559< With NormalCI, we can easily calculate the well-known confidence intervals for the normal distribution: NormalCI@0, 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "80",
+      "2"
+    ]
+  },
+  {
+    "location": [
+      "SeedRandom@1D"
+    ],
+    "title": [
+      "samples = RandomReal@NormalDistribution@50"
+    ],
+    "type": null,
+    "volume": [
+      "3D, 8100, 100<D"
+    ]
+  },
+  {
+    "note": [
+      "PlotRange Ø All, optsD; showConfidenceIntervals@cis, 50, 100, ImageSize Ø 370D"
+    ],
+    "title": [
+      "Axes Ø 8False, True<, AspectRatio Ø 0.2"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The references can also be found from the Index"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Abell",
+        "given": "M.L."
+      },
+      {
+        "family": "Braselton",
+        "given": "J.P."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Differential Equations with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Abell",
+        "given": "M.L."
+      },
+      {
+        "family": "Braselton",
+        "given": "J.P."
+      },
+      {
+        "family": "Rafter",
+        "given": "J.A."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Statistics with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Allen",
+        "given": "A.O."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Probability, Statistics, and Queueing Theory: With Computer Science Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhatti",
+        "given": "M.A."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Practical Optimization Methods with Mathematica Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Borrelli",
+        "given": "R.L."
+      },
+      {
+        "family": "Coleman",
+        "given": "C.S."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Differential Equations: A Modeling Perspective"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bulmer",
+        "given": "M."
+      },
+      {
+        "family": "Carter",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "28–36"
+    ],
+    "title": [
+      "Integer programming with Mathematica"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Burghes",
+        "given": "D.N."
+      },
+      {
+        "family": "Borrie",
+        "given": "M.S."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "Horwood"
+    ],
+    "title": [
+      "Modelling with Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cheng",
+        "given": "A.H.-D."
+      },
+      {
+        "family": "Sidauruk",
+        "given": "P."
+      },
+      {
+        "family": "Abousleiman",
+        "given": "Y."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "76–82"
+    ],
+    "title": [
+      "Approximate inversion of the Laplace transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cleveland",
+        "given": "W.S."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Summit, NJ"
+    ],
+    "publisher": [
+      "Hobart Press"
+    ],
+    "title": [
+      "Visualizing Data"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cleveland",
+        "given": "W.S."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Summit, NJ"
+    ],
+    "publisher": [
+      "Hobart Press"
+    ],
+    "title": [
+      "The Elements of Graphing Data"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "D.R."
+      },
+      {
+        "family": "Miller",
+        "given": "H.D."
+      }
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Methuen, London"
+    ],
+    "title": [
+      "The Theory of Stochastic Processes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dennemeyer",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1968"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Introduction to Partial Differential Equations and Boundary Value Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dickau",
+        "given": "R.M."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "14–15"
+    ],
+    "title": [
+      "Compilation of iterative and list operations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gamerman",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman & Hall"
+    ],
+    "title": [
+      "Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ganzha",
+        "given": "V.G."
+      },
+      {
+        "family": "Vorozhtsov",
+        "given": "E.V."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Numerical Solutions for Partial Differential Equations: Problem Solving Using Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Gilks",
+        "given": "W.R."
+      },
+      {
+        "family": "Richardson",
+        "given": "S."
+      },
+      {
+        "family": "Spiegelhalter",
+        "given": "D.J."
+      }
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman & Hall"
+    ],
+    "title": [
+      "Markov Chain Monte Carlo in Practice"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Giordano",
+        "given": "F.R."
+      },
+      {
+        "family": "Weir",
+        "given": "M.D."
+      },
+      {
+        "family": "Fox",
+        "given": "W.P."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Brooks/Cole, Pacific Grove, CA"
+    ],
+    "title": [
+      "A First Course in Mathematical Modeling"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Gray",
+        "given": "J.W."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Mastering Mathematica: Programming Methods and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Green",
+        "given": "P.J."
+      }
+    ],
+    "container-title": [
+      "Complex Stochastic Systems"
+    ],
+    "date": [
+      "2001"
+    ],
+    "editor": [
+      {
+        "family": "Barndorff-Nielsen",
+        "given": "O.E."
+      },
+      {
+        "family": "Cox",
+        "given": "D.R."
+      },
+      {
+        "family": "Klüpperberg",
+        "given": "C."
+      }
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "note": [
+      "1064 Mathematica Navigator"
+    ],
+    "publisher": [
+      "Chapman & Hall"
+    ],
+    "title": [
+      "A primer on Markov chain Monte Carlo"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Guttorp",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman & Hall"
+    ],
+    "title": [
+      "Stochastic Modeling of Scientific Data"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hastings",
+        "given": "K.J."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "Chapman & Hall/CRC Press"
+    ],
+    "title": [
+      "Introduction to the Mathematics of Operations Research with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "N.L."
+      },
+      {
+        "family": "Kotz",
+        "given": "S."
+      },
+      {
+        "family": "Kemp",
+        "given": "A.W."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Univariate Discrete Distributions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kaplan",
+        "given": "D."
+      },
+      {
+        "family": "Glass",
+        "given": "L."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Understanding Nonlinear Dynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kelley",
+        "given": "W.G."
+      },
+      {
+        "family": "Peterson",
+        "given": "A.C."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Difference Equations: An Introduction with Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Knapp",
+        "given": "R."
+      },
+      {
+        "family": "Sofroniou",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "Dr. Dobb’s Journal"
+    ],
+    "date": [
+      "1997"
+    ],
+    "issue": [
+      "11"
+    ],
+    "note": [
+      "A version of the article can be found as item number 0209-012 in MathSource."
+    ],
+    "pages": [
+      "84–90, 95–99"
+    ],
+    "title": [
+      "Difference equations and chaos in Mathematica: Symbolic and numerical mathematics at work"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kulenovic",
+        "given": "M.R.S."
+      },
+      {
+        "family": "Merino",
+        "given": "O."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "Chapman & Hall/CRC Press"
+    ],
+    "title": [
+      "Discrete Dynamical Systems and Difference Equations with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kulkarni",
+        "given": "V.G."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "London"
+    ],
+    "publisher": [
+      "Chapman & Hall"
+    ],
+    "title": [
+      "Modeling and Analysis of Stochastic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kythe",
+        "given": "P.K."
+      },
+      {
+        "family": "Puri",
+        "given": "P."
+      },
+      {
+        "family": "Schäferkotter",
+        "given": "M.R."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Partial Differential Equations and Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MacHale",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Dublin"
+    ],
+    "publisher": [
+      "Wit and Wisdom. Boole Press"
+    ],
+    "title": [
+      "Comic Sections: The Book of Mathematical Jokes, Humour"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maeder",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "The Mathematica Programmer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Maeder",
+        "given": "R.E."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "50–61"
+    ],
+    "title": [
+      "Single-image stereograms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maeder",
+        "given": "R.E."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "28–40"
+    ],
+    "title": [
+      "Function iteration and chaos"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maeder",
+        "given": "R.E."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Programming in Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Martelli",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Introduction to Discrete Dynamical Systems and Chaos"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mesterton-Gibbons",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Redwood City, CA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "A Concrete Approach to Mathematical Modelling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Murrell",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "76–81"
+    ],
+    "title": [
+      "Planar phase plots and bifurcation animations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nachbar",
+        "given": "R.B."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "36–47"
+    ],
+    "title": [
+      "Genetic programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pearl",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "Quarterly Review of Biology"
+    ],
+    "date": [
+      "1927"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "532–548"
+    ],
+    "title": [
+      "The growth of populations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rohatgi",
+        "given": "V.K."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Statistical Inference"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rose",
+        "given": "C."
+      },
+      {
+        "family": "Smith",
+        "given": "M.D."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Mathematical Statistics with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rowland",
+        "given": "E.S."
+      }
+    ],
+    "container-title": [
+      "Journal of Integer Sequences"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "2.8"
+    ],
+    "pages": [
+      "1–13"
+    ],
+    "title": [
+      "A natural prime-generating recurrence"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "08"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ruskeepää",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Handbook of Linear Algebra"
+    ],
+    "date": [
+      "2007"
+    ],
+    "editor": [
+      {
+        "family": "Hogben",
+        "given": "L."
+      }
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "Chapman & Hall/CRC Press"
+    ],
+    "title": [
+      "Mathematica"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruskeepää",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Mathematics Newsletter"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "33–57"
+    ],
+    "title": [
+      "Mathematica: Introductory examples related to Ramanujan, Part 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ruskeepää",
+        "given": "H."
+      }
+    ],
+    "container-title": [
+      "Mathematics Newsletter"
+    ],
+    "date": [
+      "2008"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "69–91"
+    ],
+    "title": [
+      "Mathematica: Introductory examples related to Ramanujan, Part 2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sandefur",
+        "given": "J.T."
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Clarendon, Oxford"
+    ],
+    "title": [
+      "Discrete Dynamical Systems: Theory and Applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Schwalbe",
+        "given": "D."
+      },
+      {
+        "family": "Wagon",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer/TELOS"
+    ],
+    "title": [
+      "VisualDSolve: Visualizing Differential Equations with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shaw",
+        "given": "W.T."
+      },
+      {
+        "family": "Tigg",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Applied Mathematica: Getting Started, Getting It Done"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Skeel",
+        "given": "R.D."
+      },
+      {
+        "family": "Keiper",
+        "given": "J.B."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Stipes, Champaign, IL"
+    ],
+    "title": [
+      "Elementary Numerical Computing with Mathematica"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "C."
+      },
+      {
+        "family": "Blachman",
+        "given": "N."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "The Mathematica Graphics Guidebook"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Spiegel",
+        "given": "M.R."
+      }
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Schaum’s Outline of Theory and Problems of Calculus of Finite Differences and Difference Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Spiegel",
+        "given": "M.R."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Mathematical Handbook of Formulas and Tables"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Szabo",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Linear Algebra: An Introduction Using Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Szabo",
+        "given": "F."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Student Solutions Manual for Linear Algebra: An Introduction Using Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Trott",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Mathematica Guidebook for Graphics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Trott",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Mathematica Guidebook for Programming"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Trott",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Mathematica Guidebook for Numerics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Trott",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "2006"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Mathematica Guidebook for Symbolics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "D.B."
+      }
+    ],
+    "container-title": [
+      "Mathematica Journal"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "42–51"
+    ],
+    "title": [
+      "Dynamic programming"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wagner",
+        "given": "D.B."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Power Programming with Mathematica: The Kernel"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wagon",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer/TELOS"
+    ],
+    "title": [
+      "Mathematica in Action"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wellin",
+        "given": "P."
+      },
+      {
+        "family": "Gaylord",
+        "given": "R."
+      },
+      {
+        "family": "Kamin",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "An Introduction to Programming with Mathematica"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wickham-Jones",
+        "given": "T."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Mathematica Graphics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Winston",
+        "given": "W.L."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Belmont, CA"
+    ],
+    "publisher": [
+      "Duxbury Press"
+    ],
+    "title": [
+      "Operations Research: Applications and Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wolfram",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Champaign, IL"
+    ],
+    "publisher": [
+      "Wolfram Media"
+    ],
+    "title": [
+      "A New Kind of Science"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wrede",
+        "given": "R.C."
+      },
+      {
+        "family": "Spiegel",
+        "given": "M.R."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "1066 Mathematica Navigator"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Schaum’s Outline of Theory and Problems of Advanced Calculus"
+    ],
+    "type": null
+  }
+]

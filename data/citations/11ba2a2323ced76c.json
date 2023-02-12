@@ -1,0 +1,721 @@
+[
+  {
+    "note": [
+      "std::cout << std::put_time(ltime, \"%F\") << std::endl; // 2016-12-04 ISO 8601 time format \"%T\":"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "std::cout << std::put_time(ltime, \"%FT%T%z\") <<"
+    ],
+    "type": null,
+    "url": [
+      "std::endl; // 2016-12-04T05:26:47+0900"
+    ]
+  },
+  {
+    "title": [
+      "std::cout << std::put_time(ltime, \"%Y-W%V-%u\") << std::endl; // 2016-W48-7 ISO 8601 ordinal date format \"%Y-%j\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CHECK_NOTHROW(function_no_throw()); REQUIRE_NOTHROW(function_no_throw());"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Catch::CaseSensitive::No)); REQUIRE_THAT(text, Catch::Matchers::StartsWith(\"this\") && Catch::Matchers::Contains(\"an\"));"
+    ],
+    "title": [
+      "std::string text = \"this is an example\"; CHECK_THAT(text, Catch::Matchers::Contains(\"EXAMPLE\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Articles"
+      },
+      {
+        "family": "David Abrahams",
+        "particle": "books"
+      },
+      {
+        "family": "Allain",
+        "given": "Alex"
+      }
+    ],
+    "date": [
+      "2001",
+      "2016",
+      "2011"
+    ],
+    "note": [
+      "Constexpr - Generalized Constant Expressions in C++11",
+      "r.html Matthew H. Austern, 2001. The Standard Librarian: Defining a Facet"
+    ],
+    "title": [
+      "Lessons Learned from Specifying Exception-Safety for the C++ Standard Library http://www.boost.org/community/exception_safety.html Michael Afanasiev",
+      "Combining Static and Dynamic Polymorphism with C++ Mixin classes"
+    ],
+    "type": null,
+    "url": [
+      "https://michael-afanasiev.github.io/2016/08/03/Combining-Static-and-Dynamic-Polymorphism-with-C++-Template-Mixins.html",
+      "http://ww",
+      "http://www.dr"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Badie",
+        "given": "Thomas"
+      }
+    ],
+    "date": [
+      "2012",
+      "2016"
+    ],
+    "title": [
+      "C++11: A generic Singleton http://enki-tech.blogspot.ro /2012/08/c11-generic-singleton.html Eli Bendersky",
+      "The promises and challenges of std::async task-based parallelism in C++11"
+    ],
+    "type": null,
+    "url": [
+      "http://eli.thegreenplace.net/2016/the-promises-and-challengesof-stdasync-task-based-parallelism-in-c11/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bendersky",
+        "given": "Eli"
+      }
+    ],
+    "date": [
+      "2011",
+      "2008",
+      "2007"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "note": [
+      "Boost.Optional"
+    ],
+    "publisher": [
+      "-in-c Joshua Bloch",
+      "Addison-Wesley Fernando Luis Cacciola Carballal"
+    ],
+    "title": [
+      "The Curiously Recurring Template Pattern in C++",
+      "Effective Java"
+    ],
+    "type": null,
+    "url": [
+      "http://eli.t",
+      "http://www.boost.org/doc/libs/1_63_0/libs/optional/doc/html/index.html"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dawson",
+        "given": "Bruce"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "note": [
+      "Comparing Floating Point Numbers, 2012 Edition"
+    ],
+    "type": null,
+    "url": [
+      "https://ran"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fagerjord",
+        "given": "Kent"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "How to build Boost 1.62 with Visual Studio 2015"
+    ],
+    "type": null,
+    "url": [
+      "https://stud"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Friedman",
+        "given": "Eric"
+      },
+      {
+        "family": "Maman",
+        "given": "Itay"
+      }
+    ],
+    "date": [
+      "2003",
+      "2015"
+    ],
+    "title": [
+      "Boost.Variant http://www.boost.org/doc /libs/1_63_0/doc/html/variant.html Wilfried Goesgens",
+      "Comparison: Lockless programming with atomics in C++ 11 vs. mutex and RW-locks"
+    ],
+    "type": null,
+    "url": [
+      "https://www.arangodb.com/2015/02/comparing-atomic"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Henney",
+        "given": "Kevlin"
+      },
+      {
+        "family": "Josuttis",
+        "given": "Nicolai M."
+      }
+    ],
+    "date": [
+      "2001",
+      "2012"
+    ],
+    "note": [
+      "library on GitHub",
+      "The C++ Standard Library: Utilities"
+    ],
+    "title": [
+      "Boost.Any http://www.boost.org/doc/libs/1_63_0/doc /html/any.html Howard Hinnant"
+    ],
+    "type": null,
+    "url": [
+      "https://github.com/HowardHinnant/dat",
+      "http://www.informit"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Josutis",
+        "given": "Nicolai"
+      }
+    ],
+    "container-title": [
+      "Using constexpr to Improve Security, Performance and Encapsulation in C++"
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "The C++ Standard Library, 2nd Edition Addison Wesley Danny Kalev, 2012"
+    ],
+    "type": "chapter",
+    "url": [
+      "http://blog.smartbear.com/c-plus-plus/using-constex"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kalev",
+        "given": "Danny"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "C++11 Tutorial: Introducing the Move Constructor and the Move Assignment Operator"
+    ],
+    "type": null,
+    "url": [
+      "http://blog.smartbear.com/c-plus-plus/c11-tutorialintroducing-the-move-constructor-and-the-move-assignment-operator/"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kieras",
+        "given": "David"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "pages": [
+      "381"
+    ],
+    "publisher": [
+      "EECS"
+    ],
+    "title": [
+      "Why std::binary_search of std::list Works, But You Shouldn't Use It!"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kline",
+        "given": "Matt"
+      },
+      {
+        "family": "Andrzej Krzemienski",
+        "particle": "io/comparing-floats.html"
+      }
+    ],
+    "date": [
+      "2017",
+      "2016"
+    ],
+    "note": [
+      "Another polymorphism"
+    ],
+    "title": [
+      "Comparing Floating-Point Numbers Is Tricky"
+    ],
+    "type": null,
+    "url": [
+      "http://bitbashing.",
+      "https://akrzemi1.wordpress"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krzemienski",
+        "given": "Andrzej"
+      }
+    ],
+    "date": [
+      "2011"
+    ],
+    "title": [
+      "Using noexcept"
+    ],
+    "type": null,
+    "url": [
+      "https://akrzemi1.wordpress.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krzemienski",
+        "given": "Andrzej"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "note": [
+      "noexcept--what for?"
+    ],
+    "type": null,
+    "url": [
+      "https://akrzemi1.wordpress.co"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Krzemienski",
+        "given": "Andrzej"
+      }
+    ],
+    "date": [
+      "2013"
+    ],
+    "note": [
+      "noexcept destructors"
+    ],
+    "type": null,
+    "url": [
+      "https://akrzemi1.wordpress.c"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Maddock",
+        "given": "John"
+      },
+      {
+        "family": "Cleary",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "C++ Type Traits"
+    ],
+    "type": null,
+    "url": [
+      "http://www.drdobbs.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mertz",
+        "given": "Arne"
+      }
+    ],
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "Modern C++ Features – constexpr"
+    ],
+    "type": null,
+    "url": [
+      "https://arne-mertz.de"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "note": [
+      "Effective Modern C++, O'Reilly"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Meyers",
+        "given": "Scott"
+      },
+      {
+        "family": "Alexandrescu",
+        "given": "Andrei"
+      },
+      {
+        "family": "Milewski",
+        "given": "Bartosz"
+      }
+    ],
+    "date": [
+      "2004",
+      "2009"
+    ],
+    "note": [
+      "Broken promises–C++0x futures"
+    ],
+    "title": [
+      "C++ and the Perils of Double-Checked Locking"
+    ],
+    "type": null,
+    "url": [
+      "http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf",
+      "https://bartoszmilewski"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Milewski",
+        "given": "Bartosz"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "Who ordered sequential consistency?"
+    ],
+    "type": null,
+    "url": [
+      "https://bartoszmile"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Milewski",
+        "given": "Bartosz"
+      }
+    ],
+    "date": [
+      "2008"
+    ],
+    "title": [
+      "C++ atomics and memory ordering"
+    ],
+    "type": null,
+    "url": [
+      "https://bartoszmilews"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mueller",
+        "given": "Oliver"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "Testing C++ With A New Catch"
+    ],
+    "type": null,
+    "url": [
+      "http://blog.coldflake.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nanjappa",
+        "given": "Ashwin"
+      }
+    ],
+    "date": [
+      "2014"
+    ],
+    "title": [
+      "How to build Boost using Visual Studio"
+    ],
+    "type": null,
+    "url": [
+      "https://codeyarn"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "O'Neill",
+        "given": "M.E."
+      },
+      {
+        "literal": "C++ Seeding Surprises http://www.pcg-random.org/posts/cp p-seeding-surprises.html M.E. O'Neill"
+      }
+    ],
+    "container-title": [
+      "O'Neill",
+      "O'Neill"
+    ],
+    "date": [
+      "2015",
+      "2015",
+      "2015",
+      "2015"
+    ],
+    "note": [
+      "Simple Portable C++ Seed Entropy http://www.pcg-random.org /posts/simple-portable-cpp-seed-entropy.html John Pearce, Floating Point Numbers http://www.cs.sjsu.edu/~pearce/modules /lectures/co/ds/floats.htm Jeff Preshing, 2013. Double-Checked Locking is Fixed In C++11"
+    ],
+    "title": [
+      "Developing a seed_seq Alternative http://www.pcg-random.org /posts/developing-a-seed_seq-alternative.html M.E",
+      "Everything You Never Wanted to Know about C++'s random_device http://www.pcg-random.org/posts/cpps-random_device.html M.E"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://preshing.co"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Regan",
+        "given": "Rick"
+      }
+    ],
+    "date": [
+      "2010"
+    ],
+    "title": [
+      "Hexadecimal Floating-Point Constants"
+    ],
+    "type": null,
+    "url": [
+      "http://www.exploringbin"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sadovoi",
+        "given": "Eugene"
+      }
+    ],
+    "date": [
+      "2015",
+      "2015"
+    ],
+    "location": [
+      "David Sankel"
+    ],
+    "title": [
+      "Building and configuring boost in Visual Studio (MSBuild) htt ps://www.codeproject.com/Articles/882581/Building-and-configuring-bo ost-in-Visual-Studio-MS",
+      "A variant for the everyday Joe"
+    ],
+    "type": null,
+    "url": [
+      "http://davidsankel.com/c/a-v"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sen",
+        "given": "Arpan"
+      }
+    ],
+    "date": [
+      "2010",
+      "2013"
+    ],
+    "note": [
+      "GotW #90 Solution: Factories"
+    ],
+    "publisher": [
+      "Standard-Library Exception Safety Addison Wesley http ://stroustrup.com/3rd_safe.pdf Herb Sutter"
+    ],
+    "title": [
+      "A quick introduction to the Google C++ Testing Framework http://w ww.ibm.com/developerworks/aix/library/au-googletestingframework.html Bjarne Stroustrup, 2000"
+    ],
+    "type": null,
+    "url": [
+      "https://herbsutter.com"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "container-title": [
+      "Users Journal"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "7"
+    ],
+    "title": [
+      "A Pragmatic Look at Exception Specifications C/C++"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.gotw.ca/publications/mill22.htm"
+    ],
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "date": [
+      "2012"
+    ],
+    "title": [
+      "GotW #102: Exception-Safe Function Calls"
+    ],
+    "type": null,
+    "url": [
+      "https://herbsutter."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sutter",
+        "given": "Herb"
+      }
+    ],
+    "container-title": [
+      "C/C++ Users Journal"
+    ],
+    "date": [
+      "2013",
+      "2001"
+    ],
+    "issue": [
+      "9"
+    ],
+    "title": [
+      "My Favorite C++ 10-Liner https://channel9.msdn.com/Events /GoingNative/2013/My-Favorite-Cpp-10-Liner Herb Sutter",
+      "Virtuality"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://www.gotw.ca/pu"
+    ],
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Upadyshev",
+        "given": "Andrey"
+      },
+      {
+        "family": "Wicht",
+        "given": "Baptiste"
+      }
+    ],
+    "date": [
+      "2015",
+      "2000",
+      "2014",
+      "2009",
+      "2008",
+      "2010"
+    ],
+    "note": [
+      "Peterson's lock with C++0x atomics",
+      "C++ facets http://benjaminwolsey.de/node/78 Index"
+    ],
+    "publisher": [
+      "l Benjamin Wolsey"
+    ],
+    "title": [
+      "PIMPL, Rule of Zero and Scott Meyers http://oliora.g ithub.io/2015/12/29/pimpl-and-rule-of-zero.html Todd Veldhuizen",
+      "Techniques for Scientific C++",
+      "Catch: A powerful yet simple C++ test framework https://bapt iste-wicht.com/posts/2014/07/catch-powerful-yet-simple-cpp-test-fram ework.html Anthony Williams",
+      "Multithreading in C++0x part 7: Locking multiple mutexes without deadlock https://www.justsoftwaresolutions.co.uk/threading/mult ithreading-in-c++0x-part-7-locking-multiple-mutexes.html Anthony Williams"
+    ],
+    "type": null,
+    "url": [
+      "http://www.cs.indiana.edu",
+      "https://www.justsof"
+    ]
+  }
+]
