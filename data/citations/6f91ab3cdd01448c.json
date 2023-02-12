@@ -1,0 +1,293 @@
+[
+  {
+    "citation-number": [
+      "analogWrite(fan,255);"
+    ],
+    "publisher": [
+      "Max Speed"
+    ],
+    "title": [
+      "II Set the Fan to Max Speed ledGreen(); II Indicate Fan Running"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Austerrniller",
+        "given": "K."
+      },
+      {
+        "given": "KB9STR"
+      }
+    ],
+    "container-title": [
+      "QST"
+    ],
+    "date": [
+      "2004-08"
+    ],
+    "pages": [
+      "56–57"
+    ],
+    "title": [
+      "An RF Driven On-Air Indicator"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Noakes",
+        "given": "J."
+      },
+      {
+        "given": "VE7NI"
+      }
+    ],
+    "container-title": [
+      "QST",
+      "QST"
+    ],
+    "date": [
+      "2002-08",
+      "2002-09"
+    ],
+    "pages": [
+      "28–29",
+      "88"
+    ],
+    "title": [
+      "The 'No Fibbin' RF Field Strength Meter"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "1987-01"
+    ],
+    "pages": [
+      "18–26"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "EEPROM.write(EEPROM_ID_BYTE,EEPROM_ID); II Write the EEPROM ID"
+    ],
+    "title": [
+      "Serial.println(\"Writing EEPROM Calibration Data\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "II Write the Azimuth Max Calibration Low Order Byte EEPROM.write(EEPROM_AZ CAL_MAX + l,lowByte(AZ_MAX)); II Write the Elevation Zero Calibration High Order Byte EEPROM.write(EEPROM_EL_CAL_O,highByte(EL 0)); II Write the Elevation Zero Calibration Low Order Byte EEPROM.write(EEPROM_EL_CAL_O + l,lowByte(EL_O)); II Write the Elevation Max Calibration High Order Byte EEPROM.write(EEPROM_EL_CAL_MAX,highByte(EL_MAX)); II Write the Elevation Max Calibration Low Order Byte EEPROM.write(EEPROM_EL_CAL_MAX + l,lowByte(EL_MAX"
+    ],
+    "title": [
+      "II Write the Azimuth Zero Calibration High Order Byte EEPROM.write(EEPROM_AZ_CAL_O,highByte(AZ 0)); II Write the Azimuth Zero Calibration Low Order Byte EEPROM.write(EEPROM_AZ CAL_O + l,lowByte(AZ 0)); II Write the Azimuth Max Calibration High Order Byte EEPROM.write(EEPROM_AZ CAL_MAX,highByte(AZ_MAX"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Google - code.google.com/p/morse-endecoder/ LM567 Tone Decoder Calculator - www.vk2zay.net/calculators/lm567.php Texas Instruments - www.ti.com Lightning Detector The finished Lightning Detector mounted in a Solarbotics Arduino Mega S.A.F.E"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.print (AZ 0); Serial.print(\" Max = \"); Serial.println (AZ_MAX);"
+    ],
+    "title": [
+      "Serial.println(\"Max Azimuth Calibration Complete - Zero=\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "24-20 Chapter 24 digitalWrite(red , LOW) ; // Set all RBG LED pins High (Off) digita l Write(green , LOW); digita l Write (b lue , LOW) ;"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "digitalWrite"
+      }
+    ],
+    "note": [
+      "HIGH) ; II Turn on the RGB Green LED On dig i talWrite (blue , LOW) ;"
+    ],
+    "title": [
+      "; dig i talWrite(green"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "N.G."
+      }
+    ],
+    "citation-number": [
+      "adc.setMultiplexer(ADS1115_MUX_PO"
+    ],
+    "note": [
+      "II Read ADC channel 0 II Display ADC value in debug mode if (debug_mode) {Serial.println(current_AZ);"
+    ],
+    "title": [
+      "II Set the ADC to single-ended mode delay(lOO); II Wait for ADC to settle and start sampling current AZ adc.getDiffO("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.print(\" 250ms second tick : millis()=\"); Serial .p rin t(millis()) ; Serial.print(\" \");"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "if (direction== \"R\") II If we're moving Clockwise"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Serial.print(\" \"); Serial.print(\"Rotating \"); Serial.print(direction); Serial.print(\" \"); Serial.println(calculated_degrees);"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serial"
+      }
+    ],
+    "title": [
+      "println(\"F Command Received\"); Serial.println(serial_buffer index); set_max_az cal(); // F - Set the Max Azimuth Calibration break"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "container-title": [
+      "AZ_MAX"
+    ],
+    "pages": [
+      "360"
+    ],
+    "title": [
+      "II Map the Current Azimuth to Degrees AZ Degrees= map(current_AZ, AZ 0"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "title": [
+      "II Send it back v i a serial Serial_Send_Data = \";'; if (AZ Degrees < 100) II pad with O's if needed"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Serial.println",
+        "given": "read_adc"
+      }
+    ],
+    "container-title": [
+      "Zero Calibration Serial .println(current_AZ); II Set the Azimuth Maximum Calibration to Current Azimuth Reading AZ MAX = current_AZ"
+    ],
+    "title": [
+      "II Read the ADC II save current az and el va lues to EEPROM"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "digitalWrite"
+      }
+    ],
+    "note": [
+      "LOW); II Make sure the Rotate Right Pin is Low"
+    ],
+    "title": [
+      "II Release the brake digitalWrite(rotate left, HIGH); II Set the Rotate Left Pin High digitalWrite(rotate right"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      ");"
+    ],
+    "title": [
+      "Serial.println(\"M Comma nd - Ro t ate Azimuth To Function"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "AZ 0 = current_AZ; // Set the Azimuth Zero Calibration to current position write eeprom_cal data(); //Write the Calibration Data to EEPROM Serial.println(\"Zero Azimuth Calibration Complete\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 1O- Digital Compass Libraries Required: LiquidCrystal_I2C HMC5883L Sketch Required: Digital_Compass.ino"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "None Sketch Required: RF_Probe.ino"
+    ],
+    "title": [
+      "Chapter 12 - RF Probe with LED Bar Graph Libraries Required"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 14 - On Air Indicator Libraries Required: None Sketch Required: On_Air_Indicator.ino"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Chapter 17 - Iambic Keyer Libraries Required: LCD5110_Basic Sketch Required: Iambic_Keyer.ino"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Many of their products were used in projects described in this book."
+    ],
+    "title": [
+      "The following companies offer parts and supplies of general interest to Arduino experimenters"
+    ],
+    "type": null
+  }
+]
