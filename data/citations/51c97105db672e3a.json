@@ -1,0 +1,70 @@
+[
+  {
+    "author": [
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      },
+      {
+        "family": "Serial.println",
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This writes the value returned from analogRead into the cell: client.print(analogRead(i)); The tags to end the cell and end the row are written as follows: client.println(\"</td></tr>\""
+    ],
+    "type": null
+  },
+  {
+    "director": [
+      {
+        "family": "printDigits)",
+        "given": "printDigits)"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint))"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint)"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint))"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint)"
+      },
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "type": null
+  }
+]
