@@ -1,0 +1,141 @@
+[
+  {
+    "producer": [
+      {
+        "literal": "address: \"); Serial.print(mac[5], HEX); Serial.print(\":\"); Serial.print(mac[4], HEX); Serial.print(\":\"); Serial.print(mac[3], HEX); Serial.print(\":\"); Serial.print(mac[2], HEX); Serial.print(\":\"); Serial.print(mac[1], HEX); Serial.print(\":\"); Serial.println(mac[0], HEX"
+      }
+    ],
+    "title": [
+      "// print your MAC address: byte mac[6]; WiFi.macAddress(mac); Serial.print(\"MAC"
+    ],
+    "type": null
+  },
+  {
+    "producer": [
+      {
+        "family": "WiFi.BSSID",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "family": "Serial.print",
+        "given": "Serialprint"
+      },
+      {
+        "given": "Serialprintln"
+      }
+    ],
+    "title": [
+      "// print the MAC address of the router you're attached to: byte bssid[6"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "Click the Create a Recipe button, as shown in Figure 8-10"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "as shown in Figure 8-12."
+    ],
+    "title": [
+      "Search for date & time and click the Date & Time icon"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Click the that link, as shown in Figure 8-15"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Then click the Twitter icon, as shown in Figure"
+    ],
+    "pages": [
+      "8–16"
+    ],
+    "title": [
+      "Figure 8-15. Create a Recipe: that 8. Search Twitter for an action channel"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Figure 8-16. Choose an action channel"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "Click the Connect button, as shown in Figure 8-17"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Figure 8-17. Connecting to the Twitter channel"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "note": [
+      "as shown in Figure 8-18."
+    ],
+    "title": [
+      "Click the Authorize App button to authorize IFTTT to use your Twitter account to send tweets"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "13."
+    ],
+    "title": [
+      "Click the Post a Tweet section, as shown in Figure 8-20"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "?user=****&pass=****&device=NB100xxx&channel=0&value=1&service=DIG_"
+    ],
+    "title": [
+      "OUTPUT&method=post&{{October 10, 2016 at 11:30AM}}"
+    ],
+    "type": null
+  }
+]
