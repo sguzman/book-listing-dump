@@ -1,0 +1,173 @@
+[
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:27 EST 2003 uncached"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:27 EST 2003 cached in the Application Scope"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:31 EST 2003 uncached"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:27 EST 2003 cached in the Application Scope"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "session ID"
+    ],
+    "publisher": [
+      "JLGKBHDOCOPN"
+    ],
+    "title": [
+      "The time is Mon Jan 13 19:22:27 EST 2003 cached in the Session Scope"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:36 EST 2003 uncached"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:27 EST 2003 cached in the Application Scope"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "session ID"
+    ],
+    "publisher": [
+      "JLGKBHDOCOPN"
+    ],
+    "title": [
+      "The time is Mon Jan 13 19:22:36 EST 2003 cached in the Session Scope"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:42 EST 2003 uncached"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "The time is Mon Jan 13 19:22:42 EST 2003 cached in the Application Scope"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "session ID"
+    ],
+    "publisher": [
+      "JLGKBHDOCOPN"
+    ],
+    "title": [
+      "The time is Mon Jan 13 19:22:36 EST 2003 cached in the Session Scope"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Search action = new Search(); action.setSearcher((Searcher)mockSearcher.proxy());"
+    ],
+    "title": [
+      "Mock mockSearcher = new Mock(Searcher.class); mockSearcher.expectAndReturn(“search”,”dog”,pets"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "assertEquals(“456”,doc.get(“handle”)); assertEquals(“dogs”,doc.get(“name”)); assertEquals(“”,doc.get(“image”));"
+    ],
+    "title": [
+      "Document doc = indexReader.document(0"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "assertEquals(String.valueOf(obj.getHandleAttr()), doc.get(“handleField”)); assertEquals(obj.getKeywordAttr(), doc.get(“keywordField”)); assertEquals(String.valueOf(obj.getTextAttr()), doc.get(“textField”)); assertEquals(String.value(obj.getUnIndexedAttr()), doc.get(“unIndexedField”)); assertEquals(String.valueOf(obj.getUnStoredAttr()), doc.get(“unStoredField”)); "
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "luceneDocumentFactory = new DefaultLuceneDocumentFactory(); indexStore = new LuceneIndexStore(indexDir.getAbsolutePath("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "protected void setUp() throws Exception { super.setUp();"
+    ],
+    "title": [
+      "public class TestCheckOut extends AbstractShoppingCartTest { private CheckOut action"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "public abstract class AbstractShoppingCartTest extends TestCase { protected Mock mockShoppingCart"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import org.petsoar.cart.ShoppingCart; import java.math.BigDecimal"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "import java.util.Date;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "import java.util.List;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "List getOrders(); Order getOrder(long id"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "protected void setUp() throws Exception { super.setUp(); mockOrderProcessing = new Mock(OrderProcessing.class"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "package org.petsoar.actions.order;"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "package org.petsoar.order; import org.petsoar.persistence.PersistenceAware; import org.petsoar.persistence.PersistenceManager; import java.util.List"
+    ],
+    "type": null
+  }
+]
