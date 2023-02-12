@@ -1,0 +1,118 @@
+[
+  {
+    "author": [
+      {
+        "given": "EventArgs"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AssemblyLoadEventArgs"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "— NotFiniteNumberException — OverflowException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "— ArrayTypeMismatchException — BadlmageFormatException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "— CannotUnloadAppDomainException — ContextMarshalException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "ExecutionEngineException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "IndexOutOfRangeException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "InvalidProgramException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "NotlmplementedException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "TypeLoadException"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "AppDomain <— _AppDomain, Security.IEvidenceFactory — ContextBoundObject"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "location": [
+      "Math"
+    ],
+    "title": [
+      "Uri <— Runtime.Serialization.ISerializable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "OperatingSystem <— ICloneable — Random"
+    ],
+    "type": null
+  }
+]
