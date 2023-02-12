@@ -1,0 +1,47 @@
+[
+  {
+    "title": [
+      "This example prints the following output: Chapman"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "def setLEDs(setValue): for LED in LEDs: GPIO.output(LED, setValue"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "LISTING 2-9 The LED Flasher Program with a List"
+    ],
+    "title": [
+      "Listing 2-9 shows a version of the LED Flasher program that uses lists to simplify the program"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "print List1[0:3"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "For example: print[0:-1:2"
+    ],
+    "title": [
+      "Finally, you can specify a stride value as well"
+    ],
+    "type": null
+  },
+  {
+    "publisher": [
+      "Cylon LED Flasher"
+    ],
+    "title": [
+      "\"\"Listing 2-10"
+    ],
+    "type": "book"
+  }
+]
