@@ -1,0 +1,172 @@
+[
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "If you are using Visual Studio 2008, on the File menu, point to New, and then click Web Site"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "If you are using Visual Web Developer 2008 Express Edition, on the File menu, click New Web Site"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Set the Language to Visual C#"
+    ],
+    "note": [
+      "and then click OK."
+    ],
+    "title": [
+      "In the New Web Site dialog box, click the ASP.NET Web Site template. Select File System in the Location drop-down list box, and specify the \\Microsoft Press\\Visual CSharp Step By Step\\Chapter 27\\Litware folder under your Documents folder"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN"
+    ],
+    "type": null,
+    "url": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
+    ]
+  },
+  {
+    "note": [
+      "<asp:Label ID=”Label1” ... Style=”position: absolute; left: 96px; top: 24px”></"
+    ],
+    "type": null,
+    "url": [
+      "asp:Label>"
+    ]
+  },
+  {
+    "citation-number": [
+      "20."
+    ],
+    "title": [
+      "Click the Design button, and then add another Label control and a DropDownList control to the Web form. Set their properties to the values shown in the following table"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "On the Debug menu, click Start Debugging."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Visual Studio 2008 builds the application, the ASP.NET Development Server starts, and then Windows Internet Explorer starts and displays the form"
+    ],
+    "title": [
+      "In the Debugging Not Enabled message box, click Modify the Web.config file to enable debugging, and then click OK. If the Script Debugging Disabled message box appears, click Yes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "On the Website menu, click Add New Item"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Add New Item dialog box, click the LINQ to SQL Classes template, type Product. dbml in the Name text box, select Visual C# in the Language drop-down list, and then click Add"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "Professional Edition or Enterprise Edition, on the View menu, click Server Explorer."
+    ],
+    "title": [
+      "If you are using Visual Studio 2008"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Express Edition, on the View menu, click Database Explorer."
+    ],
+    "title": [
+      "If you are using Visual Web Developer 2008"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "expand the data connection for the Northwind database (YourComputer\\sqlexpress.Northwind.dbo or Northwind.mdf), and then expand Tables"
+    ],
+    "title": [
+      "In Server Explorer (if you are using Visual Studio 2008) or Database Explorer (if you are using Visual Web Developer 2008 Express Edition"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "title": [
+      "Click the Products table, and drag it onto the Object Relational Designer window"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "On the File menu, click Save All"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Display the ProductsService.cs file in the Code and Text Editor window. Remove the Service class from this file"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "note": [
+      "as shown here:"
+    ],
+    "title": [
+      "Add the ProductsService class to the file, and specify that it should implement the IProductsService interface"
+    ],
+    "type": null
+  }
+]
