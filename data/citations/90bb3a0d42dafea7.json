@@ -1,0 +1,11 @@
+[
+  {
+    "container-title": [
+      "THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(71):sf2=l IF UCASE$(Seqr$) = \".DD.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(72):sf2=l IF UCASE$(Seqr$) - \".UE.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(45)+CHR$(49):sf2=l IF UCASE$(Seqr$) = \",UD.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(45)+CHR$(48):sf2=1 IF UCASE$(Seqr$) - \".IE.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(52):sf2=l IF UCASE$(Seqr$) = \".ID.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(53):sf2=l IF UCASE$(Seqr$) = \".CE.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(15):sf2=l IF UCASE$(Seqr$) = \".CD.\" THEN Sequence2$ Sequence2$+CHR$(18):sf2=l"
+    ],
+    "title": [
+      "Sequence2$+CHR$(27)+CHR$(69):sf2=l IF UCASE$(Seqr$) = \".BD.\" THEN Sequence2$ Sequence2$+CHR$(27)+CHR$(70):sf2=l IF UCASE$(Seqr$) = \".DE"
+    ],
+    "type": "chapter"
+  }
+]
