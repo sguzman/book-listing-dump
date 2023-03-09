@@ -1,0 +1,66 @@
+[
+  {
+    "note": [
+      "> moveNumOfMonths(\"2017-10-30\",-1) [1] \"2017-09-30\" Back two months: > moveNumOfMonths(\"2017-10-30\",-2) [1] \"2017-08-30\" Forward two months:"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1"
+    ],
+    "note": [
+      "-2) [1] \"2016-11-30\""
+    ],
+    "title": [
+      "> moveNumOfMonths(\"2016-11-30\"",
+      "2017-01-31\" > moveNumOfMonths(\"2017-01-31\""
+    ],
+    "type": null,
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "note": [
+      "1] \"2016-11-30\" > moveNumOfMonths(\"2016-11-30\", 2) [1] \"2017-01-31\""
+    ],
+    "pages": [
+      "–2"
+    ],
+    "title": [
+      "Because November has 30 days, we get the same date in the backward operation, but: > moveNumOfMonths(\"2017-01-30\""
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "mdy(\"07-21-2016\") # Returns Date ## [1] \"2016-07-21\""
+    ],
+    "title": [
+      "Lubridate provides ymd() series of functions for parsing character strings into dates. The letters y, m, and d correspond to the year, month, and day elements of a date-time"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "mdy(\"07-21-2016\","
+    ],
+    "note": [
+      "dmy(\"21-07-2016\") # Returns Date ## [1] \"2016-07-21\""
+    ],
+    "title": [
+      "tz = \"UTC\") # Returns a vector of class POSIXt ## \"2016-07-21 UTC"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2016"
+    ],
+    "title": [
+      "22.07.2016\")) # Returns vector of class Date"
+    ],
+    "type": null
+  }
+]
