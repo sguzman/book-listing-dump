@@ -1,0 +1,156 @@
+[
+  {
+    "title": [
+      "If the WorkBench Screen was opened, this function returns TRUE, otherwise it returns FALSE"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "If the WorkBench Screen was opened, this function returns TRUE, otherwise it returns FALSE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Menultem SubItem",
+        "particle": "struct"
+      }
+    ],
+    "container-title": [
+      "*/ Aug"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "09"
+    ],
+    "note": [
+      "Appendix B: Intuition Include File Page 3"
+    ],
+    "title": [
+      "/* if non-zero, DrawMenu shows \"->"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KeyMap AltKeyMap",
+        "particle": "struct"
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LeftEdge",
+        "given": "S.H.O.R.T."
+      },
+      {
+        "given": "TopEdge"
+      }
+    ],
+    "note": [
+      "Height; /* screen dimensions of window */"
+    ],
+    "title": [
+      "/* screen dimensions of window */ SHORT Width"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Title",
+        "given": "U.B.Y.T.E."
+      }
+    ],
+    "publisher": [
+      "UBYTE *DefaultTitle; /* for Windows without ScreenTitle */"
+    ],
+    "title": [
+      "/* null-terminated Title text */"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Aug"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "09"
+    ],
+    "note": [
+      "Appendix B: Intuition Include File Page 22"
+    ],
+    "title": [
+      "/* these defines are for the COMMSEQ and CHECKIT menu stuff. If CHECKIT * I'll use a generic Width (for all resolutions) for the CheckMark"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "note": [
+      "active screen, 3-4 reading from, 8-15 active window, 4-4 writing to windows, 8-16 alerts using through AmigaDos, 8-15 creating, 7-15 control (CTRL) key, 10-4 display, 7-14 Copper types, 7-14 in custom screens, 3-8 alternate (ALT) keys,",
+      "8-2 proportional input stream, 8-2 example, 5-14 input/output Proplnfo structure, 5-25 Console Device, 8-14 proportional type, 5-12 IDCMP, 8-7 select box, 5-8 Input Device, 8-2 selection of, 5-8 input stream, 8-2 string paths, 8-3 Stringlnfo structure, 5-26 interlace mode, 3-10 string type, 5-16 IntuiMessage structure, 8-8 without imagery, 5-7 IntuiMessages, 8-8 Gimmezerozero window IntuiText structure, 9-7 gadgets in, 4-6 keyboard requesters in, 4-6 as alternate to mouse, 10-4 Gimmezerozero window type, 4-5 command keys, 10-4 graphics key map, 8-17 Amiga primitives, 9-16 library special Intuition functions, 9-16 opening, 2-2 header files, 2-2 lines Hello World, 2-9 Border structure, 9-5 high-resolution mode, 3-10 colors, 9-4 hold-and-modify mode, 3-10 coordinates, 9-3 IDCMP defining, 9-3 closing, 8-8 displaying, 9-2 example, 8-13 drawing modes, 9-4 flags, 8-9 linking, 9-5 IntuiMessages, 8-8 low-resolution mode, 3-10 message ports, 8-7 memory monitor task, 8-12 allocation, 11-2 opening, 8-7 deallocation, 11-2 requester features, 7-5 Remember structure, 11-3 UserPort, 8-12 RememberKey, 11-3 verification functions, 8-12 menu boxes WindowPort, 8-12 item, 6-3 illustration data types, 9-1 sub-items, 6-4 menu checkmark, 6-5 keyboard as alternate, 10-4 menu commands left (select) button, 10-2 actions, 6-1 messages, 10-3 attributes, 6-5 right (information transfer) button, 10-2 menu items mouse button philosophy, 10-2 command key shorcuts, 10-5 mutual exclusion enabling and disabling, 6-8 in menus, 6-5 menu numbers NewScreen structure, 3-16 how they work, 6-10 NewWindow structure, 4-18 how to get them, 6-9 non-interlace mode, 3-10 menu operations philosophy, 1-1 getting menu numbers, 6-9 pixel, 3-10 intercepting pointer MenuVerify, 6-11 broadcasts, 4-16 RMBTRAP, 6-12 custom, 4-29 menu selection position in gadgets, 5-9 by user, 6-2 position in Gimmezerozero windows, 4-6 menu strips position in windows, 4-16 changing, 6-8 variables, 4-16 removing, 6-3 Preferences submitting, 6-3 getting user settings, 11-4"
+    ],
+    "title": [
+      "10-4 custom gadgets AMIGA keys in screens, 3-15 as command keys, 10-4 custom pointer in command-key sequences, 6-7 setting up, 4-29 Workbench shortcuts, 10-5 custom screens application gadgets closing, 3-8 (also see gadgets), 4-10 managed by applications, 3-9 assembly language, 11-11 managed by Intuition, 3-8 Backdrop window, 4-6 rendering in, 3-9 beeping, 11-11 depth bit-planes screen, 3-11 in image display, 9-11 depth arrangement gadgets, 5-4 in screens, 3-11 display element, 9-2 Border structure, 9-5 display memory border variables, 4-5 pointers into, 9-18 Borderless window, 4-5 RastPort, 3-2 borders screen, 3-2 in Borderless windows, 4-5 display modes in Gimmezerozero windows, 4-5 in custom screens, 3-10 window, 4-10 set by screen, 3-1 window variables, 4-10 dragging gadget CHECKED and CHECKIT screens, 3-3 checkmark, 6-5 dragging gadgets, 5-4 mutual exclusion, 6-6 dual playfield mode, 3-10 close gadget, 5-4 escape (ESC) key, 10-4 color, 3-11 flashing the display, 11-11 color in windows, 4-17 fonts command key style, 12-4 custom, 3-12 command-key sequence events, 10-3 default, 3-12 command-key sequences, 6-7 in creating text, 9-7 Console Device Topaz, 3-12 keymap, 8-17 function keys, 10-4 using directly Gadget structure, 5-19 gadget style, 12-3 Image structure, 9-13 gadgets images Boolean type data, 9-9 hit select, 5-12 defining, 9-9 toggle select, 5-12 displaying, 9-2 combining types, 5-18 example, 9-14 enabling and disabling, 5-11 Image structure, 9-13 Gadget structure, 5-19 location, 9-9 hand-drawn, 5-5 inner window highlighting, 5-10 in Gimmezerozero windows, 4-5 in window borders, 5-10 with the Console Device, 4-6 integer type, 5-17 Input Device, 8-2 line-drawn, 5-6 input event"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "by Intuition, 7-10 mutual exclusion, 6-5 Requester structure, 7-7 requesters, 6-12 requesters messages as menus, 6-12 IDCMP, 8-8 as super menus, 7-1 menu selection, 6-9 designing, 7-7 mouse, 10-3 display monitor task # position\", 7-4 IDCMP, 8-12 displaying, 7-2 mouse double-menu, 7-5 basic activities, 10-1 IDCMP features, 7-5 combining buttons and movement, 10-2 rendering, 7-4 dragging, 10-3 simple, 7-11 structure, 7-7 Proplnfo, 5-25"
+    ],
+    "pages": [
+      "6–15"
+    ],
+    "title": [
+      "Menu structure, 6-14 structure, 11-6 menu style preserving the display edit menus, 12-2 Simple Refresh, 4-14 project menus, 12-1 Smart Refresh, 4-14 menu system SuperBitMap, 4-15 activating, 6-2 Proplnfo structure, 5-25 Menultem structure, 6-15 RastPort structure, 9-18 menus Remember structure, 11-3 command-key sequences, 6-7 Remembering, 11-1 designing, 6-12 rendering enabling and disabling, 6-8 requesters, 7-4 menu numbers, 6-9 requester rendering Menu structure, 6-14 by hand, 7-10 Menultem structure"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "9-6 Workbench, 3-5 displaying, 9-7 shortcuts drawing modes, 9-7 menu, 12-4 fonts, 9-7 selection, 12-4 IntuiText structure, 9-7 Simple Refresh, 4-14 linking, 9-7 sizing gadget, 5-3 TextAttr structure, 3-12 Smart Refresh, 4-14 time Speciallnfo structures, 5-25 getting current values, 11-10 sprite mode, 3-10 title sprite pointer screen, 3-14 colors, 12-5 title bar sprites screen, 3-2 as pointer, 4-16 window, 4-10 in Intuition windows & screens, 11-11 topaz font, 3-11 Stringlnfo structure, 5-26 type styles, 3-11 structures type styles, custom, 3-12 Border, 9-5 user settings Gadget, 5-19 Preferences, 11-4 Image, 9-13 verification functions IntuiMessage, 8-8 IDCMP, 8-12 IntuiText, 9-7 View Menu, 6-14 address of, 9-18 Menultem, 6-15 remaking, 11-9 NewScreen, 3-16 ViewPorts NewWindow, 4-18 address of, 9-18 Preferences, 11-6 remaking, 11-9"
+    ],
+    "title": [
+      "Screen structure, 3-18 RastPort, 9-18 screens Remember, 11-3 active, 3-4 Requester, 7-7 color, 3-11 Screen, 3-18 custom, 3-8 STpeciallnfo, 5-25 depth, 3-11 Stringlnfo, 5-26 display modes, 3-10 View, 9-18 gadgets ViewPort, 9-18 custom, 3-15 Window, 4-23 system, 3-2 SuperBitMap refresh, 4-15 height and width, 3-12 SuperBitMap window location limits, 3-13 setting up the bit-map, 4-28 NewScreen structure, 3-16 SuperBitMap window type, 4-7 Screen structure, 3-18 system gadgets standard, 3-5 placement, 5-2 starting location, 3-12 screens, 3-2 title windows, 4-7 current, 3-14 text default, 3-14 colors, 9-6 effect of Backdrop window on, 3-15 defining\""
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Limited"
+    ],
+    "publisher": [
+      "Commodore Business Machines"
+    ],
+    "type": "book"
+  },
+  {
+    "citation-number": [
+      "3370"
+    ],
+    "publisher": [
+      "Inc"
+    ],
+    "title": [
+      "Pharmacy Avenue, Agincourt, Ontario, M1W 2K4 Copyright 1985 © Commodore-Amiga"
+    ],
+    "type": "book"
+  }
+]
