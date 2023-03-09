@@ -1,0 +1,86 @@
+[
+  {
+    "title": [
+      "DRIVE The drive assigned the buffer. BUFFERS The size of the buffer to be allocated"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "NAME The new command word"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "STRING Contains the command that is called with NAME"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "NAME The logical device"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "REMOVE Removes Name from the ASSIGN list, used for development only."
+    ],
+    "title": [
+      "DIR The directory assigned the logical device. LIST Lists the assignments of the logical devices. EXISTS Searches for NAME in the ASSIGN list. ITie error code 5 is returned if NAME is not present"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "QUIET No messages are displayed."
+    ],
+    "title": [
+      "FROM Multiple files may now be protected"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FROM/A",
+        "given": "S.E.A.R.C.H."
+      },
+      {
+        "family": "SEARCH",
+        "given": "A.L.L./S."
+      },
+      {
+        "family": "NONUM/S",
+        "given": "Q.U.I.E.T./S."
+      },
+      {
+        "family": "QUICK/S",
+        "given": "F.I.L.E./S."
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "QUICK The output format is more compact"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "FILE Searches for the specified file then the character string"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "QUIET No messages are displayed."
+    ],
+    "title": [
+      "V2.0 FILE/A/M,QUIET/S FILE Multiple files may now be searched"
+    ],
+    "type": null
+  }
+]

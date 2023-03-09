@@ -1,0 +1,157 @@
+[
+  {
+    "container-title": [
+      "TblSetItemStyle(table"
+    ],
+    "date": [
+      "i % 2"
+    ],
+    "issue": [
+      "eckboxTableItem); TblSetItemInt(table, i"
+    ],
+    "pages": [
+      "4,"
+    ],
+    "title": [
+      "TblSetItemStyle(table, i, 2, numericTableItem); TblSetItemInt(table, i, 2, i"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "TblSetItemInt(table"
+    ],
+    "date": [
+      "i % 3"
+    ],
+    "pages": [
+      "8,"
+    ],
+    "title": [
+      "TblSetItemStyle(table, i, 8, customTableItem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "i"
+    ]
+  },
+  {
+    "director": [
+      {
+        "family": "TblSetSaveDataProcedure",
+        "given": "TblSetCustomDrawProcedure"
+      },
+      {
+        "given": "TblSetCustomDrawProcedure"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "TblSetItemStyle(table"
+    ],
+    "date": [
+      "i % 2"
+    ],
+    "issue": [
+      "eckboxTableItem); TblSetItemInt(table, i"
+    ],
+    "pages": [
+      "4,"
+    ],
+    "title": [
+      "TblSetItemStyle(table, i, 2, numericTableItem); TblSetItemInt(table, i, 2, i"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "TblSetItemInt(table"
+    ],
+    "date": [
+      "i % 3"
+    ],
+    "pages": [
+      "8,"
+    ],
+    "title": [
+      "TblSetItemStyle(table, i, 8, customTableItem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "i"
+    ]
+  },
+  {
+    "director": [
+      {
+        "family": "TblSetSaveDataProcedure",
+        "given": "TblSetCustomDrawProcedure"
+      },
+      {
+        "given": "TblSetCustomDrawProcedure"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "PrefSetPreference(prefLongDateFormat, (UInt32) dfDMYLong);"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "Comment out the code in your PilotMain function that handles the sysAppLaunchCmdNormalLaunch and sysAppLaunchCmdGoTo launch codes"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Check the Generate Link Map check box. Click Save and close the dialog box"
+    ],
+    "title": [
+      "Open the target settings dialog box and select 68K Linker from the Target Settings Panels list to display the 68K Linker panel"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "Rebuild your application."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "832"
+    ],
+    "title": [
+      "TEAM LinG - Live, Informative, Non-cost and Genuine ! Odds and Ends"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "In PODS, the term “multisection” is used instead of the traditional “multisegment” terminology"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "#define CODESEGMENT2 __attribute__ ((section (“segment2”))) #define CODESEGMENT3 __attribute__ ((section (“segment3”))"
+    ],
+    "type": null
+  }
+]
