@@ -1,0 +1,41 @@
+[
+  {
+    "title": [
+      "In Continental USA and Puerto Rico call 800-258-1710"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hampshire",
+        "given": "New"
+      }
+    ],
+    "pages": [
+      "809–754–7575"
+    ],
+    "title": [
+      "Alaska, and Hawaii call 603-884-6660. In Canada call 800-267-6215. Any prepaid order from Puerto Rico must be placed with the local Digital subsidiary"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "Westminster, Massachusetts 01473"
+    ],
+    "publisher": [
+      "Digital Equipment Corporation"
+    ],
+    "title": [
+      "Internal orders should be placed through the Software Distribution Center (SDC"
+    ],
+    "type": "book"
+  },
+  {
+    "title": [
+      "Bit Field Contents < 1:0> 1 Reserved to DIGITAL. Must be zero. BIIC$V_EIVECTOR 12-bit vector used in error interrupt sequences. < 15:14> 1 Reserved to DIGITAL. Must be zero. BIIC$V_LEVEL These four bits ( < 19:16> ) correspond to the four interrupt levels (INT <7:4> ) of the VAXBI bus. A set bit causes the corresponding level to be used when INTR commands under control of this register are transmitted"
+    ],
+    "type": null
+  }
+]
