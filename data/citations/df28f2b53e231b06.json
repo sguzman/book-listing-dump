@@ -1,0 +1,152 @@
+[
+  {
+    "note": [
+      "DEVICE ATTENTION), the date, the processor type (KA780), the hardware revision number of the CPU (REV #10), and the serial number of the CPU (SERIAL #10)."
+    ],
+    "title": [
+      "O The first two lines are the entry heading. These lines contain the number of the entry in this error-log file, the sequence number of this error, and the identification number (SID) of this system's CPU. Each entry in the log file contains such a heading. © The next line contains the entry type"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "© The UCB$B_ERTMAX field contains the maximum number of times the port can be reinitialized by the port driver"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "7–27"
+    ],
+    "title": [
+      "AUTOGEN command procedure A description* 11-1 AUTOGEN.PAR parameter file Account creating* 11-12 to create *5-15 to delete *5-22 B to disable • 5-23 to maintain *5-20 Backing up to restrict use of *5-24 disk"
+    ],
+    "type": null,
+    "volume": [
+      "set"
+    ]
+  },
+  {
+    "issue": [
+      "uncements /LIST qualifier*7-35"
+    ],
+    "note": [
+      "site-specific startup *2-13 listing files*7-42 AST queue limit *6-3 loosely coupled volume sets *7-30 Authorize Utility (AUTHORIZE) *5-15 monthly backups *7-34 default qualifiers*5-16 operations AUTOCONFIGURE command* 11-14 image *7-23 AUTOGEN restoring from *7-37 calculations list *7-42 modifying* 11-8 restore *7-37 to 7-45 SYSGEN parameters modified volume-by-volume • 7-27 in* 11-23 /OWNER—UIC qualifier *7-31 execution type parameters* 11-4 /RECORD qualifier *7-32 functions* 11-1 save operation invoking* 11-2 incremental *7-32 OLDSITE*.DAT files save set SYSGEN parameters collected restoring from *7-37"
+    ],
+    "pages": [
+      "7–42"
+    ],
+    "title": [
+      "Accounting public volumes *7-20 record types • 6-28 system disk *2-26 system *6-27 Backup Utility (BACKUP) Accounting Utility (ACCOUNTING)* backup media 6-27 rotating backup set •1-22 Accounts daily backups *7-33 adding proxy logins *5-30 /EXCLUDE qualifier *7-32 ACNT privilege *6-13 full-volume save *7-23 Active system /IGNORE=INTERLOCK qualifier*7-33 modifying* 11-13 image operation*7-34 Aligning printer forms *9-46 /IMAGE qualifier*7-23, 7-34, 7-37 ALLSPOOL privilege *6-13 incremental backups *7-32 ALTPRI privilege *6-14 /INCREMENTAL qualifier*7-40 Analyzing system failures /INITIALIZE qualifier *7-28 small disk systems *3-18 journal files*7-35 Ancillary control processes to list*7-35"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "concealed *2-8 Error reports mounting volumes *7-10 purpose* 10-2 site-specific startup *2-9 Error-log entry spooled • 9-33 analyzing *B-11 Device driver format *B-11 connecting* 11-14 EVRAC disk formatter* 7-4"
+    ],
+    "title": [
+      "DEFAULT account to initialize*7-5 initial modifications*5-5 DISMOUNT command user authorization file *5-4 mount verification cancelation • 7-19 user authorization file entry *5-4 Dump file* 11-15 Default bootstrap command procedure size* 11-17 selecting *2-15 DXCOPY command procedure*2-17, Default directory *5-9 2-27 DEFBOO.CMD setting up for HSC boot • 4-20 E setting up for HSC bootstrap • 4-23 DELETE/QUEUE command *9-7 Enqueue quota limit *6-5 Deletion ERRFMT process* 10-1 of known images *8-5 Error* 10-1 of queues *9-7 Error log file of user account *5-22 maintaining* 10-3 DETACH privilege *6-16 printing* 10-4 Device Error Log Utility* 10-1"
+    ],
+    "type": "report"
+  },
+  {
+    "note": [
+      "7-2 INITIALIZE DCL command Files privileges *6-12 qualifiers *7-5, 7-6, 7-7 Flag pages INITIALIZE/QUEUE command *9-5 chararacteristics • 9-21 Initializing Formatter queues *9-5 disk* 7-4 Input spooling *9-33 Forms Install Utility (INSTALL) • 8-1 aligning in printer *9-46 Installed files Forms control *9-20 dual-RL02 • 3-20"
+    ],
+    "title": [
+      "EXCHANGE utility Header bars for copying command procedure* description *9-21 4-23 Header resident image *8-2 Exchange Utility (EXCHANGE) HSC bootstrap setup *4-20, 4-23 for copying command procedure* 4-20 i Executable image *8-3 Executing Image batch jobs *9-11 attributes *8-2 Execution queue *9-1 executable *8-3 Expiration date file *8-5 files *7-46 header resident *8-2 EXQUOTA privilege *6-16 known *8-1 linkable *8-3 F shareable *8-3 Image operation • 7-23, 7-34 FIELD account copy *7-23 initial modifications*5-5 restore*7-23, 7-37 user authorization file entry *5-4 save* 7-27 File Incremental backup public* 7-1 restoring from *7-39 restoration of individual • 7-41 Incremental backups *7-32 File expiration*7-46 Individual login command procedure* File group 5-10 creating site-specific *3-4 INITIALIZE command *7-5 File structures and sequential disk *7-30 maintenance*"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Login command procedure (cont'd.) K alternate *5-27"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "working set quota • 6-9 Modifying Limits and quotas *6-1 queues *9-6 Line printer Monthly backups *7-34 characteristics *9-19 MOUNT command site-specific startup *2-9 /COMMENT qualifier *7-10 Linkable image *8-3 /FOREIGN qualifier*7-28"
+    ],
+    "note": [
+      "7-44 List MOUNT privilege *6-19 known file *8-1 Mount verification *7-13 List operation (BACKUP) abort by dismount*7-19 with asterisk wildcard*7-42 cancellation from console terminal*"
+    ],
+    "pages": [
+      "10–5"
+    ],
+    "title": [
+      "_ Login function restrictions*5-24, 5-25 Known file list • 8-1 Login sequence • 5-26 privileges*8-4 Login time restrictions*5-24, 5-25 startup procedure • 8-1 LOGIO privilege *6-18 Known image*8-1 * Logout command procedure*5-15 deletion of *8-5 dismount volumes of *8-5 M site-specific startup *2-11 _ MA780 multiport memory L installation of shared images *8-6 Machine-readable files Limit for software performance reports* account jobs*6-6 10-12 AST queue *6-3 Magnetic tape buffered I/O byte count *6-4 save set buffered I/O count *6-4 restoring from • 7-37 CPU time *6-4 write ring *7-12 DEFAULT account *5-16 Maintenance detached processes • 6-7 of user account *5-20 direct I/O count *6-5 Management enqueue quota *6-5 of disk space* 7-45 on system resource *6-1 Maximum account jobs *6-6 open file *6-6 Maximum detached processes limit* paging file *6-7 6-7 process jobs *6-7 Maximum process jobs limit *6-7 shared files *6-8 Media security subprocess creation *6-8 Backup Utility *7-34 timer queue entry *6-8 Merging printer queues *9-44 working set default size *6-9 Message working set extent *6-9 operator log file*"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "controlling system use *5-31 R PSM$ANNOUNCE logical name definition and function *9-21 RE AD ALL Privilege •"
+    ],
+    "pages": [
+      "6–23"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "SET QUEUE *9-6 restoring files START/QUEUE *9-5 from magnetic tape save sets* START/QUEUE/MANAGER •"
+    ],
+    "note": [
+      "STOP/QUEUE *9-6 from multivolume save sets* STOP/QUEUE/MANAGER • 9-8 7-45 STOP/QUEUE/NEXT *9-6 from sequential-disk save sets* creating • 9-5 7-44 creating new queue file *9-8 restoring volumes deleting *9-7 entire disk volumes *7-37 emptying queue file *9-8 Restoring execution *9-1 from incremental backups *7-39"
+    ],
+    "pages": [
+      "9–5 7–45",
+      "9–8 7–43"
+    ],
+    "title": [
+      "PSWAPM privilege *6-22 Real-time priority *6-10 Public disk Remove job from queue *9-49 copy using Backup Utility *7-24 REPLY command Public file structures /DISABLE qualifier* 10-10 maintenance *7-2 /ENABLE qualifier* 10-9 Public files and volumes*7-1 Reporting problems Public volumes hardware *4-26 mounting *2-8 software *4-26 to back up *7-20 REQUEST command to mount*7-7 /REPLY qualifier* 10-9 /TO qualifier* 10-9 Q Resource limit *6-1 Queue *9-1 Restart batch *9-10 job controller *9-50 command *9-2 OPCOM* 10-9 DELETE/QUEUE *9-7 Restore operation (BACKUP)*7-37 to INITIALIZE/QUEUE"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "operation",
+        "given": "Save"
+      }
+    ],
+    "container-title": [
+      "building on disk *2-27 SET QUEUE command *9-6 building on floppy diskettes*2-30 SET VOLUME command using to back up system disk *2-26 /LABEL qualifier *7-29 START/QUEUE command *9-5 SET/STARTUP command* 11-18 START/QUEUE/MANAGER command* SETPRV privilege"
+    ],
+    "note": [
+      "SHARE command* 11-19 Starting guidelines* 11-20 queues *9-5 SHARE privilege*6-23 Startup Shareable image *8-3 site-specific *2-7 file *8-5 system *4-1 with MA780 multiport memory *8-6 Startup command procedure *2-4 Shared files limit *6-8 known file lists *8-1 Shared memory SYSGEN commands* 11-18 SYSGEN commands* 11-19 STARTUP.COM command procedure* SHMEM privilege *6-24 2-4 SHOW/STARTUP command* 11-18 STARTUP.MIN Shutdown startup procedure*7-8 by forced system failure *4-9 STOP/QUEUE command *9-6, 9-44"
+    ],
+    "pages": [
+      "7–30",
+      "6–23 9–8"
+    ],
+    "title": [
+      "Site-specific startup *2-7 saving full volumes and volume Small-disk systems *3-1 sets* 7-23 analyzing system failures*3-18 saving to sequential disk *7-28 installed files *3-20 multivolume* 7-30 job queues*3-17 Save set Software Performance Report listing contents of *7-42 See SPR restoring from *7-37 Software problems *4-26 sequential-disk • 7-28 reporting* 10-10 multivolume* 7-30 Spooled device SCS (System Communication Services) guidelines for line printers*9-36 • B-2 site-specific startup *2-10 SECONDARY days to turn off • 9-36 to define*5-24 Spooling *9-1, 9-33 Security considerations input *9-33 backup media *7-34 output *9-33 SECURITY privilege *6-23 SPR (Software Performance Report)* Selective backups *7-30 to 7-32 10-10 using creation date *7-31 classes of problems* 10-14 using expiration date *7-31 description of problem environment using the /EXCLUDE qualifier*7-32 • 10-12 using UIC* 7-31 what to include* 10-14 using wildcards*7-30 STABACKIT.COM *2-27 Sequential disk Stand-alone BACKUP *2-26 save set on building on console media *2-30 writing *7-28"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "how to invoke *4-23 SYSTEST account SYSHUTDWN.COM command initial modifications*5-5 procedure *4-1 user authorization file entry *5-4 SYSLCK privilege *6-24 SYSNAM privilege *6-24 T SYSPRV privilege *6-25 SYSTARTUP.COM *2-7 Tailored system operator-assisted mounts in • 7-8 preparing for UETP*3-15 System Tailoring commands *3-6 accounting *6-27 COPY *3-7 directories* 1-5 DELETE *3-9 errors* 10-1 DIRECTORY *3-10 events* 10-1 DISMOUNT *3-11 generation* 11-1 EXIT *3-12 shutdown *4-1 HELP *3-12 startup *2-7, 4-1 MOUNT *3-13 SYSTEM account RECORD *3-13 initial modifications*5-5 SEARCH"
+    ],
+    "pages": [
+      "5–10"
+    ],
+    "title": [
+      "STOP/QUEUE/MANAGER command* System failure (cont'd.) 9-8 reporting* 10-10 STOP/QUEUE/NEXT command *9-6 system dump analyzer*2-11 Stopping System files queues *9-6 manipulating* 11-10 Submitting batch jobs *9-11 size* 11-16 Subprocess creation limit *6-8 System Generation Utility (SYSGEN)* Suspending queues *9-6 11-11 SWAPFILES.COM command procedure how to invoke *4-20 •11-15 WRITE ACTIVE command* 11-14 Swapping file* 11-15 System management* 1-1 size* 11-17 System parameter file (AUTOGEN.PAR) Symbiont modifying* 11-13 description of *9-34 System parameters SYS$ANNOUNCE logical name *2-13 dynamic* 11-13 SYS$WELCOME logical name *2-14 MVTIMEOUT *7-17 SYSBOOT program used at bootstrap time* 11-11 alternate conversational bootstrap* System privilege*6-12 4-15 System processes alternate nonstop bootstrap *4-14 OPCOM* 10-7 commands *4-16 System-wide logical names default bootstrap *4-14 site-specific startup *2-9 SYSGBL privilege *6-24 System-wide login command SYSGEN procedure",
+      "*3-15 user authorization file entry *5-4 Tailoring Facility System communication services creating site-specific file groups*"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Name_Date-"
+      }
+    ],
+    "type": null
+  }
+]
