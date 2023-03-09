@@ -1,0 +1,919 @@
+[
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1987"
+    ],
+    "edition": [
+      "Fifth"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "M68000 16/32 Bit Microprocessor Programmer's Reference Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MC68000, MC68008, MC68010I12 Data Books"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "BR"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "The M68000 Family"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "176, Rev. 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Reinhort",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Electronic Products"
+    ],
+    "title": [
+      "Extra Functions—32-Bit Processors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1986"
+    ],
+    "genre": [
+      "BR322."
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MC68020 Benchmark Report"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "BR176, Rev"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "The M68000 Family"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Subbarao",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Microprocessors: Hardware, Software, and Design Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stranes",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Byte (Apr"
+    ],
+    "date": [
+      "1983-05"
+    ],
+    "title": [
+      "Design Philosophy Behind the M68O0O"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "M."
+      },
+      {
+        "family": "Liu",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Microcomputers for Scientists and Engineers",
+      "Objectives"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Technical Operations, In this chapter we will study"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola"
+    ],
+    "title": [
+      "MTT20: 68020 Course Notes"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      },
+      {
+        "family": "Harman",
+        "given": "T."
+      },
+      {
+        "family": "Lawson",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1983",
+      "1985"
+    ],
+    "location": [
+      "Phoenix, AZ",
+      "Englewood Cliffs, NJ"
+    ],
+    "note": [
+      "General concepts of exception processing The"
+    ],
+    "publisher": [
+      "Motorola Technical Operations",
+      "Prentice-Hall"
+    ],
+    "title": [
+      "MC68000 Data Book",
+      "In this chapter we will study: 2",
+      "The Motorola MC68000 Microprocessor"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Scanlon",
+        "given": "L.J."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Indianapolis"
+    ],
+    "note": [
+      "processing Interrupt exceptions and"
+    ],
+    "publisher": [
+      "Howard W. Sams"
+    ],
+    "title": [
+      "The 68000: Principles and Programming",
+      "exception table and vectors Reset exception"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kane",
+        "given": "G."
+      },
+      {
+        "family": "Hawkins",
+        "given": "D."
+      },
+      {
+        "family": "Leventhal",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "applications Trap exceptions and applications"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "68000 Assembly Language Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "MC68000 16/32-Bit Microprocessor Programmer's Reference Manual, Fifth Error exceptions and applications Edition"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MTT8: 68000 Course Notes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Self-Guided Tour through the 68000"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stranes",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Byte (Apr"
+    ],
+    "date": [
+      "1983-05"
+    ],
+    "title": [
+      "Design Philosophy Behind the M68000"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Melear",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "App. Note"
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Austin, TX"
+    ],
+    "publisher": [
+      "Motorola Microprocessor Group"
+    ],
+    "title": [
+      "Asynchronous Communications for MC6850"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "817"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MC68901 MFP Data Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "G.Serial I./O."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "App. Note"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Austin, TX"
+    ],
+    "publisher": [
+      "Motorola Microprocessor Group"
+    ],
+    "title": [
+      "Timer, and Interface Capabilities of the 68901"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "896"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MC68000 Data Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Harman",
+        "given": "T."
+      },
+      {
+        "family": "Lawson",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "The Motorola MC68000 Microprocessor"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gaonkar",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Columbus, OH"
+    ],
+    "publisher": [
+      "Merrill"
+    ],
+    "title": [
+      "Microprocessor Architecture, Programming, and Applications with the 8085/8080A"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gibson",
+        "given": "M."
+      },
+      {
+        "family": "Liu",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Microcomputers for Scientists and Engineers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "Data Sheets on M6850 ACIA"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Subbarao",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Microprocessors: Hardware, Software, and Design Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Triebel",
+        "given": "W."
+      },
+      {
+        "family": "Singh",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Chap"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "note": [
+      "Objectives In this chapter we will study:"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "8086 Microprocessors",
+      "12 in 16-Bit Microprocessors: Architecture, Software and Interfacing Techniques"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Davis",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "App. Note"
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Austin, TX"
+    ],
+    "publisher": [
+      "Motorola Microprocessor Group"
+    ],
+    "title": [
+      "Prioritized Individually Vectored Interrupts"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "819"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MC68901 MFP Data Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Technical Operations"
+    ],
+    "title": [
+      "MTT8: 68000 Course Notes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Andrews",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "Self-Guided Tour through the 68000"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Inc"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Phoenix, AZ"
+    ],
+    "publisher": [
+      "Motorola Semiconductor Group"
+    ],
+    "title": [
+      "MCM511000 Data Sheets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilcox",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice-Hall"
+    ],
+    "title": [
+      "68000 Microcomputer Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M.A."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "The 68000 Microprocessor: Architecture, Programming, and Applications",
+      "Chap"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Columbus, OH"
+    ],
+    "publisher": [
+      "Merrill"
+    ],
+    "title": [
+      "Parallel Interfacing the 68000"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "title": [
+      "Study of the material in this chapter will help the reader understand the virtual memory concepts that are fundamental to the implementation of virtual memory system designs using the 68010 and 68012 microprocessors"
+    ],
+    "type": null
+  }
+]
