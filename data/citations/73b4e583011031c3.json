@@ -1,0 +1,353 @@
+[
+  {
+    "author": [
+      {
+        "given": "SPAdd"
+      }
+    ],
+    "title": [
+      "FLOAT SPAdd( FLOAT leftParm, FLOAT rightParm); Add two FFP variables. SPCeil() FLOAT SPCeil( FLOAT parm ); Computer largest integer less than or equal to variable"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "SPCmp() LONG SPCmp( FLOAT leftParm, FLOAT rightParm); Compare two FFP variables"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "SPDiv() FLOAT SPDiv( FLOAT leftParm, FLOAT rightParm); Divide two FFP variables. SPFix() LONG SPFix( FLOAT parm ); Convert FFP variable to integer"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "SPFloor"
+      }
+    ],
+    "container-title": [
+      "SPMul() FLOAT SPMul( FLOAT leftParm, FLOAT rightParm); Multiply two FFP variables"
+    ],
+    "title": [
+      "FLOAT SPFloor( FLOAT parm ); Compute least integer greater than or equal to variable. SPFlt() FLOAT SPFlt( long integer ); Convert integer variable to FFP"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "SPNeg"
+      }
+    ],
+    "title": [
+      "FLOAT SPNeg( FLOAT parm ); Take two’s complement of FFP variable"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "SPSub() FLOAT SPSub( FLOAT leftParm, FLOAT rightParm); Subtract two FFP variables"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEESPAdd() FLOAT IEEESPAdd( FLOAT leftParm, FLOAT rightParm); Add two IEEE single-precision variables. IEEESPCeil() FLOAT IEEESPCeil( FLOAT parm ); Compute least integer greater than or equal to variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEESPCmp() LONG IEEESPCmp( FLOAT leftParm, FLOAT rightParm ); Compare two IEEE single-precision variables"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "IEEESPDiv"
+      }
+    ],
+    "container-title": [
+      "IEEESPFix() LONG IEEESPFix( FLOAT parm ); Convert IEEE single-precision variable to integer"
+    ],
+    "title": [
+      "FLOAT IEEESPDiv( FLOAT dividend, FLOAT divisor ); Divide two IEEE single-precision variables"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "IEEESPFloor"
+      }
+    ],
+    "title": [
+      "FLOAT IEEESPFloor( FLOAT parm ); Compute largest integer less than or equal to variable. IEEESPFlt() FLOAT IEEESPFlt( long integer ); Convert integer variable to IEEE single-precision"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IEEESPMul() FLOAT IEEESPMul( FLOAT leftParm, FLOAT rightParm ); Multiply two IEEE single-precision variables. IEEESPNeg() FLOAT IEEESPNeg( FLOAT parm ); Take two’s complement of IEEE single-precision variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEESPSub() FLOAT IEEESPSub( FLOAT leftParm, FLOAT rightParm ); Subtract two IEEE single-precision variables. IEEESPTst() LONG IEEESPTst( FLOAT parm ); Test an IEEE single-precision variable against zero"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "IEEESPAtan"
+      }
+    ],
+    "title": [
+      "FLOAT IEEESPAtan( FLOAT parm ); Return arctangent of IEEE single-precision variable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "IEEESPSinh"
+      }
+    ],
+    "container-title": [
+      "IEEESPCosh() FLOAT IEEESPCosh( FLOAT parm ); Return hyperbolic cosine of IEEE single-precision variable"
+    ],
+    "title": [
+      "FLOAT IEEESPSinh( FLOAT parm ); Return hyperbolic sine of IEEE single-precision variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "IEEESPTanh"
+      }
+    ],
+    "title": [
+      "FLOAT IEEESPTanh( FLOAT parm ); Return hyperbolic tangent of IEEE single-precision variable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "IEEESPLog"
+      }
+    ],
+    "container-title": [
+      "IEEESPLog10() FLOAT IEEESPLog10( FLOAT parm ); Return log (base 10) of IEEE single-precision variable"
+    ],
+    "title": [
+      "FLOAT IEEESPLog( FLOAT parm ); Return natural log (base e of IEEE single-precision variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEESPPow() FLOAT IEEESPPow( FLOAT exp, FLOAT arg ); Return IEEE single-precision arg2 to IEEE"
+    ],
+    "pages": [
+      "– 1"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEEDPAdd() DOUBLE IEEEDPAdd( DOUBLE leftParm, DOUBLE rightParm ); Add two IEEE double-precision variables. IEEEDPCeil() DOUBLE IEEEDPCeil( DOUBLE parm ); Compute least integer greater than or equal to variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEEDPCmp() LONG IEEEDPCmp( DOUBLE leftParm, DOUBLE rightParm ); Compare two IEEE double-precision variables"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "IEEEDPDiv",
+        "given": "IEEEDPDiv D.O.U.B.L.E."
+      }
+    ],
+    "container-title": [
+      "IEEEDPFix() LONG IEEEDPFix( DOUBLE parm ); Convert IEEE double-precision variable to integer"
+    ],
+    "title": [
+      "DOUBLE divisor ); Divide two IEEE double-precision variables"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "IEEEDPFloor",
+        "given": "IEEEDPFloor D.O.U.B.L.E."
+      }
+    ],
+    "note": [
+      "IEEEDPFlt() DOUBLE IEEEDPFlt( long integer ); Convert integer variable to IEEE double-precision."
+    ],
+    "title": [
+      "Compute largest integer less than or equal to variable"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IEEEDPMul() DOUBLE IEEEDPMul( DOUBLE factor1, DOUBLE factor2 ); Multiply two IEEE double-precision variables. IEEEDPNeg() DOUBLE IEEEDPNeg( DOUBLE parm ); Take two’s complement of IEEE double-precision variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEEDPSub() DOUBLE IEEEDPSub( DOUBLE leftParm, DOUBLE rightParm ); Subtract two IEEE double-precision variables. IEEEDPTst() LONG IEEEDPTst( DOUBLE parm ); Test an IEEE double-precision variable against zero"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEEDPAcos() DOUBLE IEEEDPAcos( DOUBLE parm ); Return arccosine of IEEE variable. IEEEDPAtan() DOUBLE IEEEDPAtan( DOUBLE parm ); Return arctangent of IEEE variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "IEEEDPCos",
+        "given": "IEEEDPCos D.O.U.B.L.E."
+      }
+    ],
+    "title": [
+      "Return cosine of IEEE variable. This function accepts an IEEE radian argument and returns the trigonometric cosine value"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IEEEDPSinh() DOUBLE IEEEDPSinh( DOUBLE parm ); Return hyperbolic sine of IEEE variable. IEEEDPCosh() DOUBLE IEEEDPCosh( DOUBLE parm ); Return hyperbolic cosine of IEEE variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEEDPTanh() DOUBLE IEEEDPTanh( DOUBLE parm ); Return hyperbolic tangent of IEEE variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "IEEEDPFieee() DOUBLE IEEEDPFieee( FLOAT single ); Convert IEEE single-precision number to IEEE double-precision number. IEEEDPLog() DOUBLE IEEEDPLog( DOUBLE parm ); Return natural log (base e of IEEE variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "D.O.U.B.L.E."
+      }
+    ],
+    "citation-number": [
+      "IEEEDPLog10("
+    ],
+    "title": [
+      "IEEEDPLog10( DOUBLE parm ); Return log (base 10) of IEEE variable"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "IEEEDPPow() DOUBLE IEEEDPPow( DOUBLE exp, DOUBLE arg ); Return IEEE arg2 to IEEE arg1. IEEEDPSqrt() DOUBLE IEEEDPSqrt( DOUBLE parm ); Return square root of IEEE variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "IEEEDPTieee() FLOAT IEEEDPTieee( DOUBLE parm ); Convert IEEE double-precision number to IEEE single-precision number."
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "862"
+    ],
+    "title": [
+      "Amiga ROM Kernel Reference Manual: Libraries DP IEEE Basic Functions IEEEDPAbs() Take absolute value of IEEE double-precision variable"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "IEEEDPAdd"
+      }
+    ],
+    "title": [
+      "Add two IEEE double-precision variables"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "IEEEDPCeil"
+      }
+    ],
+    "container-title": [
+      "IEEEDPFlt() Convert integer variable to IEEE double-precision. IEEEDPMul() Multiply two IEEE double-precision variables. IEEEDPNeg() Take two’s complement of IEEE double-precision variable"
+    ],
+    "note": [
+      "IEEEDPSub() Subtract two IEEE single-precision variables. IEEEDPTst() Test an IEEE double-precision variable against zero."
+    ],
+    "title": [
+      "Compute least integer greater than or equal to variable. IEEEDPCmp() Compare two IEEE double-precision variables. IEEEDPDiv() Divide two IEEE double-precision variables. IEEEDPFix() Convert IEEE double-precision variable to integer. IEEEDPFloor() Compute largest integer less than or equal to variable"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "IEEE Single-Precision and Double-Precision Basic and Transcendental Functions lc -b1 -cfistq -fi -v -y <filename>.c blink lib:c.o + <filename>.o TO <filename> LIB lib:lcmieee.lib + lib:lc.lib + lib:amiga.lib"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "result = Strnicmp(bread, butter, strlen(bread"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "*/ UWORD month; /* month of the year"
+    ],
+    "note": [
+      "*/ UWORD year; /* 1978 - */ UWORD wday; /* day of the week (0 - 6, where 0 is Sunday) */ };"
+    ],
+    "pages": [
+      "1 – 12"
+    ],
+    "title": [
+      "struct ClockData { UWORD sec; /* seconds (0 - 59)*/ UWORD min; /* minutes (0 - 59) */ UWORD hour; /* hour (0 - 23) */ UWORD mday; /* day of the month"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1 - 31"
+    ]
+  },
+  {
+    "note": [
+      "LONG main(void);"
+    ],
+    "type": null
+  }
+]
