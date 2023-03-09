@@ -1,0 +1,16 @@
+[
+  {
+    "author": [
+      {
+        "literal": "SELECT A.id, A.status, B.status as prev_status, A.status_time, B.status_time as prev_status_time FROM Data A, Data B WHERE A.id = B.id AND B.status_time = (SELECT MAX(status_time"
+      }
+    ],
+    "container-title": [
+      "AND A.status = 'THREE' AND NOT B.status = 'TWO'"
+    ],
+    "title": [
+      "FROM Data where status_time < A.status_time and id = A.id"
+    ],
+    "type": "chapter"
+  }
+]
