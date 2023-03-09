@@ -1,0 +1,58 @@
+[
+  {
+    "date": [
+      "Date 0.99 1989-06-08 1.01 1989-06-23 2.0 1996-12-31 2.02 1998-04-20 2.03 1999-02-19"
+    ],
+    "issue": [
+      "04"
+    ],
+    "pages": [
+      "2001–03–21 2 05 2002–07–17 3 0 2004–08–03 3 1 2005–12–08 3 2 2006–10–11 4 0 2009–02–20 4 1 2009–12–31 4 2 2011–02–13 4 3 2014–02–26 4 4 2016–09–15"
+    ],
+    "title": [
+      "Chapter 1: Getting started with Bash Version Release"
+    ],
+    "type": null,
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A.N.S.I.-C.O.L.O.R.-C.O.D.E.S.-"
+      }
+    ],
+    "source": [
+      "###-Regular-### Red=\"\\033[0;31m\" Green=\"\\033[0;32m\" Yellow=\"\\033[0;33m\" ####-Bold-####"
+    ],
+    "title": [
+      "# Color_Off=\"\\033[0m"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "mysql:x:27:27:MySQL"
+    ],
+    "title": [
+      "Server:/var/lib/mysql:/bin/bash pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin"
+    ],
+    "type": null,
+    "url": [
+      "sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin tomcat:x:91:91:Apache Tomcat:/usr/share/tomcat6:/sbin/nologin webalizer:x:67:67:Webalizer:/var/www/usage:/sbin/nologin"
+    ]
+  },
+  {
+    "citation-number": [
+      "mysql:x:27:27:MySQL"
+    ],
+    "title": [
+      "Server:/var/lib/mysql:/bin/bash pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin tomcat:x:91:91:Apache Tomcat:/usr/share/tomcat6:/sbin/nologin webalizer:x:67:67:Webalizer:/var/www/usage:/sbin/nologin Sample Output mysql:x:27:27:MySQL Server:/var/lib/mysql:/bin/bash pulse:x:497:495:PulseAudio System Daemon:/var/run/pulse:/sbin/nologin"
+    ],
+    "type": null,
+    "url": [
+      "sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin tomcat:x:91:91:Apache Tomcat:/usr/share/tomcat6:/sbin/nologin"
+    ]
+  }
+]
