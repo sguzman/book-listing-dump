@@ -1,0 +1,372 @@
+[
+  {
+    "citation-number": [
+      "72"
+    ],
+    "container-title": [
+      "Creates arrays"
+    ],
+    "note": [
+      "Displays title. 80-150 Reads flashcards from DATA statements."
+    ],
+    "title": [
+      "Basic Programs for the Atari To cause it to always display side two, change it this way: 260GOTO 290 MAIN ROUTINES 10- 70 Initializes variables"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "160-490"
+    ],
+    "title": [
+      "Drills operator on flashcards in memory"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "500-580"
+    ],
+    "title": [
+      "Displays options and analyzes response. Branches to appropriate routine"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "590-600"
+    ],
+    "title": [
+      "DATA statements defining DATA statements containing flashcards. 610-900 DATA statements of the flashcards"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "120-"
+    ],
+    "note": [
+      "200- 899 User-supplied subroutine to define D. 1000-1060 Displays output."
+    ],
+    "title": [
+      "150 Initializes, begins execution"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1100-1120"
+    ],
+    "title": [
+      "Subroutines to format messages"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1160-1190"
+    ],
+    "title": [
+      "Subroutine to stop and start output. 1200-1330 Displays initial messages. 1400-1530 Gets user's inputs"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "130-"
+    ],
+    "note": [
+      "900-910 Subroutine to space and separate the output."
+    ],
+    "title": [
+      "220 Initializes variables, clears screen and displays program title. 300- 430 Gets input from user and calculates the solution. 500- 530 Displays the solution"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "note": [
+      "2010-2140 Gaussian elimination."
+    ],
+    "title": [
+      "Subroutine to calculate the solution; consisting of the following parts: 2000 Forms solution if N = 1"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "236"
+    ],
+    "note": [
+      "2150-2180 Back substitution. 3000-3050 Error trap for illegal input."
+    ],
+    "title": [
+      "Basic Programs for the Atari 2030-2100 Interchanges rows to achieve pivotal condensation"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "140-"
+    ],
+    "title": [
+      "180 Initializes constants and dimensioning"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "200-"
+    ],
+    "title": [
+      "370 Displays messages, determines if identifiers will be used. 400- 620 Gets data from the user. 700- 710 Checks that input contains at least one value. 720- 820 Command mode- gets user's next option and does a GOSUB to it. 1000-1090 Subroutine to list data in the original order"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1200-1340"
+    ],
+    "title": [
+      "Subroutine to list data in ranking order"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1500-1740"
+    ],
+    "note": [
+      "3000-3050 Trap routine for program errors."
+    ],
+    "title": [
+      "Subroutine to calculate and display statistics. 2000-2360 Subroutines to display various messages. 2500-2530 Subroutine to allow user to temporarily start and stop display listing. 2700-2750 Subroutine to sort the list in ranking order. 2900-2920 Subroutine to detect if user has hit a key to continue"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "110-"
+    ],
+    "note": [
+      "300 Performs \"carrying\" in N array so each element has a value no larger than nine. 310- 320 Scans backwards through N array for first non-zero element."
+    ],
+    "pages": [
+      "260–"
+    ],
+    "title": [
+      "160 Displays title. Sets up array for calculations. 170- 240 Asks for number of digits and N. Checks validity of responses. Displays heading. 250 Initializes variables for calculations"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "330"
+    ],
+    "note": [
+      "390 Prepares to multiply by N to get next number. 400- 410 Multiplies each digit in N array by N. Goes back to line 260. 500-510 Prepares for next request. Goes back to 160."
+    ],
+    "pages": [
+      "380–"
+    ],
+    "title": [
+      "Checks to see if this value would be larger than the number of digits requested. 340- 370 Displays counter and number. Goes to second line if necessary"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1000-1050"
+    ],
+    "title": [
+      "Error trap for illegal inputs"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bell",
+        "given": "B.O.O.K.S."
+      },
+      {
+        "family": "C",
+        "given": "R."
+      },
+      {
+        "family": "Brown",
+        "given": "Jerald R."
+      },
+      {
+        "family": "Cohen",
+        "given": "Daniel"
+      },
+      {
+        "family": "Crow",
+        "given": "E.L."
+      },
+      {
+        "family": "David",
+        "given": "F.A."
+      },
+      {
+        "family": "Mexfield",
+        "given": "M.w"
+      },
+      {
+        "family": "Croxton",
+        "given": "F.E."
+      },
+      {
+        "family": "Crowden",
+        "given": "D.J."
+      },
+      {
+        "family": "Klein",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "Introduction to Electronic Computers"
+    ],
+    "date": [
+      "1969",
+      "1977",
+      "1976",
+      "1960",
+      "1967",
+      "1965",
+      "1961",
+      "1956",
+      "1972"
+    ],
+    "edition": [
+      "Third"
+    ],
+    "editor": [
+      {
+        "family": "Gruenberger",
+        "given": "S.T.A.T.S.)"
+      },
+      {
+        "family": "J.",
+        "given": "Fred"
+      },
+      {
+        "given": "Jaffray"
+      },
+      {
+        "family": "BIRTH-DAY",
+        "given": "P.I.) Gruenberger"
+      },
+      {
+        "family": "J.",
+        "given": "Fred"
+      },
+      {
+        "family": "McCracken",
+        "given": "Daniel D."
+      }
+    ],
+    "location": [
+      "London",
+      "Beaverton, Ore",
+      "Greenwich, Connecticut",
+      "New York",
+      "Englewood Cliffs, N.J",
+      "George",
+      "New York",
+      "New York",
+      "New York",
+      "Reading, Massachusetts"
+    ],
+    "note": [
+      "Self-teaching text on the BASIC language",
+      "BIORHYTH",
+      "STATS",
+      "MILEAGE, PI, PYTHAG, WAR! as aware) Hildebrand, F. B., Introduction to Numerical Analysis,",
+      "CURVE, DIFFEQN, INTEGRAL, SIMEQN) Kuo, S. S., Computer Applications ofNumerical Methods,",
+      "CURVE, DIFFEQN, INTEGRAL, SIMEQN"
+    ],
+    "publisher": [
+      "Oxford University Press",
+      "WAR!",
+      "Dover Publications",
+      "Prentice-Hall",
+      "Problems for Computer Solution, John Wiley and Sons",
+      "John Wiley and Sons",
+      "McGraw-Hill",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Board and Table Games From Many Civilizations",
+      "Instant BASIC, dilithium Press",
+      "Biorhythms in Your Life, Fawcett Publications",
+      "Statistics Manual",
+      "Applied General Statistics"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Atari McCracken",
+        "given": "Basic Programs",
+        "particle": "for the"
+      },
+      {
+        "family": "D.",
+        "given": "Daniel"
+      },
+      {
+        "family": "Dom",
+        "given": "W.S."
+      }
+    ],
+    "citation-number": [
+      "274"
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "CURVE, DIFFEQN, INTEGRAL, SIMEQN"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Numerical Methods and FORTRAN Programming"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Shefter",
+        "given": "Harry"
+      }
+    ],
+    "date": [
+      "1960"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "TACHIST"
+    ],
+    "publisher": [
+      "Washington Square Press"
+    ],
+    "title": [
+      "Faster Reading Self- Taught"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "note": [
+      "acceleration, of MIDI Tool calls 38-auto-key events, limit on 31- 6 ClearHeartBeat 39- 2"
+    ],
+    "title": [
+      "application switchers new features 28-7 and Resource Manager 45- 26, 41, check box control template E- 13 66 ChooseFont bugfix 32- 2 A/D converter register attack 41- 3 choosing printers 42- 3 Sound Tool Set and 47- 16 attack, decay, sustain, release 41- 2 classic desk accessories 29- 2"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "73 ctllD Control Manager field 28- 26, procedure routine 49- 18 standard header 27,38 doEraseRect, TextEdit filter fCtlCanBeTarget flag 28- 14, procedure routine 49- 17 ctlMoreFlags Control Manager field 46 35,93 doRectChanged, TextEdit filter"
+    ],
+    "title": [
+      "ctlHandleEvent control definition DOC mode list control 28- 58, 61 procedure message 36 Sound Tool Set and 47- 13 pop-up menu control 28- 63 DOC registers ctlHandleEvent control definition radio button control 28- 69 procedure message 28- 14 reading values 47- 21 sample code 28- 83 setting values 47- 23 ctlHandleTab control definition scroll bar control 28- 71 procedure message 28- 18 Sound Tool Set and 47- 11, 21, 23 simple button control 28- 49 ctllD Control Manager field 93 doEraseBuffer, TextEdit filter size box control 28"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "43 FFStartSound F- 17 picture control 28- 110 GetlndType 45- 45 fidelity, in ADPCM compression 27- 4 pop-up menu control 28- 113 GetlnterruptState 39- 8 file name separator characters 48- 3 radio button control 28- 118 GetlntStateRecSize 39- 9 file prefixes 48- 2"
+    ],
+    "title": [
+      "error message text 52- 44 deallocating 41- 22 FASTFONT 43- 3 error messages, displaying 52- 29 Sound Tool Set and 47- 9 fFromUser Print Manager parameter error processing, with TextEdit 49- 84 generators, Note Synthesizer 41-10 42-2 ErrorWindow 52- 29 GetCodeResConverter 39- 7 fFromUser Print Manager parameter event, control definition procedure GetCtlHandleFromID 28- 26 F- 14 routine 28- 14 GetCtllD 28- 27 FFSetUpSound 47- 18 extended control records GetCtlMoreFlags 28- 28 FFSoundDoneStatus 47- 2 check box control 28- 98 GetCtlParamPtr 28- 29 FFSoundDoneStatus F- 16 icon button control 28- 101 GetCurResourceApp 45- 41 FFStartPlaying 47- 20 LineEdit control 28- 104 GetCurResourceFile 45- 42 FFStartSound 47- 3 list control 28- 107 GetlndResource 45"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "40– 46"
+    ],
+    "title": [
+      "MidiSelectChannelMode command, getting information about"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "41– 8 41–7"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "5 Resource Manager 45- 26 selection, getting information about"
+    ],
+    "title": [
+      "resources selection, copying with TextEdit 49-sample code adding to resource files 45- 34 79 application switcher and and Control Manager 28"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "25 detaching 45- 40 out-of-memory routines 36- 5 3 finding by handle 45- 58 SeqAllNotesOff40-48 reading time-stamped MIDI data finding file for 45- 52 SeqBootlnit 40- 37"
+    ],
+    "title": [
+      "attributes of 45- styles in TextEdit 49- 88 fast access to MIDI Tool Set changing 45- 57, 75 selection, setting the current TextEdit routines 38- 20 controlling loading from disk 45- 49- 120 FFStartSound 47- 5 71 SelectMember2 35- 10 FFStartSound F- 19 copying 45- 40 SendEventToCtl 28- 36 note sequence with relative counting 45- 37 separator character, in alert windows addressing 40- 58 defined 45- 2 52-8 Note Sequencer 40- 28 deleting from resource file 45- 63 separator characters in file names 48-Note Synthesizer 41"
+    ],
+    "type": null
+  },
+  {
+    "genre": [
+      "TERecord field 49-"
+    ],
+    "title": [
+      "TENew 49- 104 custom scroll bars 49- 28 theBufferHPos"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "TEParamBlock"
+      }
+    ],
+    "pages": [
+      "49– 15–27",
+      "58"
+    ],
+    "title": [
+      "TextEdit record 49- features 49- 2 theFilterRect, TERecord field 49- 17, 104 filter procedures"
+    ],
+    "type": null,
+    "volume": [
+      "18, 19"
+    ]
+  },
+  {
+    "note": [
+      "keyboard and mouse interface theFilterRectfield49-58 time-stamps, writing MIDI data with"
+    ],
+    "pages": [
+      "49–58 38–16"
+    ],
+    "title": [
+      "TEPaste49-110 generic filter procedure thelnputHandle, TERecord TEPointToOfFset49-lll doEraseBuffer 49- 18 KeyRecord field 49- 20, 23 TERecord theKeyRecord, TERecord field 49- 58 doEraseRect 49- 17 filterProcfield49-53 theModifiers, TERecord KeyRecord doRectChanged 49- 19 handles to 49- 11 field 49- 20, 23 generic filter procedure 49- 16 keyFilter field 49- 58 theOpCode, TERecord KeyRecord hook routines 49- 15-27 textFlagsfield49-53 field 49- 22, 23 inserting text 49- 99 theBufferHPosfield49-58 time-stamps, reading MIDI data with justification 49"
+    ],
+    "type": null,
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "pages": [
+      "49– 14"
+    ],
+    "title": [
+      "TextEdit control version numbers, tool set 51- 2 TextEdit control record 28- 131 vertBar, TEParamBlock field 49- 28 activating records 49- 74 control template 28- 77 and Control Manager"
+    ],
+    "type": null
+  }
+]
