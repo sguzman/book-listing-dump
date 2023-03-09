@@ -1,0 +1,630 @@
+[
+  {
+    "title": [
+      "CONTENTS: 1. INTRODUCTION: Concepts, basic techniques, microprocessor control signals"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Dynamic RAM interface . The"
+    ],
+    "title": [
+      "ASSEMBLING THE CENTRAL PROCESSING UNIT: Introduction, system architecture, addressing. The 8080 system, the 6800 system, the Z-80"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8085"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "BASIC INPUT /OUTPUT"
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "note": [
+      "The three input/ output control methods : polling, interrupts, DMA. Useful circuits."
+    ],
+    "title": [
+      "Memory vs. 1/ 0 mopping. Parallel input/ output : techniques and chips (PIO). Serial input/ output: program and UART"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "PERIPHERALS",
+        "given": "I.N.T.E.R.F.A.C.I.N.G.T.H.E."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "LED display. Teletype . Poper-tape reader. Line printer. Magnetic-str ipe credit-cord reader. Cossette interface. CRT display"
+    ],
+    "publisher": [
+      "CRTC. Floppy disk. CRC"
+    ],
+    "title": [
+      "Keyboards, bounce , encoding , rollover"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "CONVERSION",
+        "given": "A.N.A.L.O.G.-D.I.G.I.T.A.L."
+      },
+      {
+        "family": "A",
+        "given": "Conceptual D.I."
+      },
+      {
+        "family": "A/ D",
+        "particle": "practical"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "ADC and DAC. Interfacing D/ As and A/ Ds. Doto collection subsystem, scaling offset, conclusions."
+    ],
+    "title": [
+      "real products, the A / D sampling theorem, successive approximation, integration, direct comparison conversion"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "BUS STANDARDS: Porollel : SlOO, 6800, IEEE-488, CAMAC. Serial: El A-RS 232 C, RS 422, RS 423, synchronous formats"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "STUDY",
+        "given": "C.A.S.E."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "A 32-Chonnel Multiplexer: introduction, specifications, architecture, software. CPU module, RAM module, USART module, host interface module, conclusion"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "TROUBLESHOOTING",
+        "given": "D.I.G.I.T.A.L."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Case study"
+    ],
+    "note": [
+      "trouble history. The perfect bench ."
+    ],
+    "title": [
+      "The problems. What goes wrong : components, noise , software; the tools and the methods; VOM, DVM, oscilloscope, logic probes, signature analysis, emulation, simulation , logic state analyzers"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "C.O.N.C.L.U.S.I.O.N.-E.V.O.L.U.T.I.O.N."
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "isbn": [
+      "0"
+    ],
+    "note": [
+      "pp., 200 Illus tr., Ref. C201, 5 V.\" X 8 V. \",",
+      "$1O.95"
+    ],
+    "title": [
+      "The new chips, one-chip systems. Plastic software. APPENDIX A: Manufacturers APPENDIX B: Sl 00 Manufacturers Microprocessors: From Chips to Systems RodnoyZok1 420"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "CONTENTS: 1. FUNDAMENTAL CONCEPTS: Introduction. Principles of operation . Buses. A pocket calculator. The memory. Memory organization . Basic microprocessor definitions. Manufacturing a microprocessor. LSI technologies. Brief history of microprocessors. Silicon Valley. Advantages of microprocessors. Summary"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "INTERNAL OPERATION OF A MICROPROCESSOR: The constraints of LSI. Standard microprocessor architecture. A case study: the BOBO, the four main architectures"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "COMPONENTS",
+        "given": "S.Y.S.T.E.M."
+      },
+      {
+        "family": "PIO",
+        "given": "U.A.R.T."
+      }
+    ],
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "The microprocessor families. The Memory. Input/output techniques",
+      "1/0 management chips. Peripheral controller chips. Typical microprocessor 1/0 devices"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "EVALUATION",
+        "given": "C.O.M.P.A.R.A.T.I.V.E.M.I.C.R.O.P.R.O.C.E.S.S.O.R."
+      }
+    ],
+    "citation-number": [
+      "4."
+    ],
+    "container-title": [
+      "Bit-slice processors. Comparison summary . Microprocessor selection. Summary"
+    ],
+    "genre": [
+      "Classifying microprocessors. 4-bit microprocessors. 4-bit 1-chip microcomputers. 8-bit microprocessors. 8-bit 1-chip microcomputers. 16-bit microprocessors. 16-bit"
+    ],
+    "title": [
+      "Functional elements of an MPU",
+      "1-chip microcomputers"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "INTERCONNECT",
+        "given": "S.Y.-S.T.E.M."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "Connecting the input/output. System interconnect. Conclusion"
+    ],
+    "title": [
+      "Standard system architecture. Assembling a CPU. Connecting the address bus. Connecting the memory"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "APPLICATIONS",
+        "given": "M.I.C.R.O.P.R.O.C.E.S.S.O.R."
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "Analog input/ output. Case studies. Personal computing"
+    ],
+    "title": [
+      "Application areas. Computer systems. Industrial systems. Consumer applications. Special applications. Building a microprocessor application. A front-panel controller. A paper-tape reader-punch controller"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "TECHNIQUES",
+        "given": "I.N.T.E.R.F.A.C.I.N.G."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "Teletype. Floppy-disk. CRT. Multi microprocessors. Bus standards"
+    ],
+    "title": [
+      "Scope. Keyboard. LED display"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "PROGRAMMING",
+        "given": "M.I.C.R.O.P.R.O.C.E.S.S.O.R."
+      },
+      {
+        "given": "Definitions"
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "container-title": [
+      "Instruction formats. Assembly language programming. A multiplication. Simulating digital logic. Limitations of programmed logic. Microprocessor controlled music. Advantages of programming. Summary"
+    ],
+    "title": [
+      "Internal representation of information. External representation of information"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Developing a program. Fundamental choices. Development tools. Summary"
+    ],
+    "title": [
+      "SYSTEM DEVELOPMENT: Development"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "THE FUTURE: Introduction. The yield . Technological evolution. Component evolution"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "CONTENTS: 1. BASIC CONCEPTS: What is programming? Flowcharting information representation: internal and external. Representing programs and data"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "Fetching and next instruction"
+    ],
+    "note": [
+      "6502 registers. The stock ."
+    ],
+    "title": [
+      "6502 HARDWARE ORGANIZATION: System architecture . Internal organization of the 6502. The instruction execution cycle"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "BCD arithmetic. Multiplication. Division . Subroutines"
+    ],
+    "title": [
+      "BASIC PROGRAMMING TECHNIQUES: Arithmetic programs : addition, subtraction"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Instructions available on the 6502 ."
+    ],
+    "title": [
+      "THE 6502 INSTRUCTION SET: Classes of instructions: data transfers, data processing , test and branch , input/ output, control"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "TECHNIQUES",
+        "given": "A.D.D.R.E.S.S.I.N.G."
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "relative, indexed (pre and post), indirect. Combination modes. Sample programs."
+    ],
+    "title": [
+      "Addressing modes: implicit, immediate, absolute, direct"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "INPUT /OUTPUT TECHNIQUES"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "Communication w ith 1/ 0 devices: hand -shaking, LED, teletype, Inpu t/output scheduling : polling interrupts, break."
+    ],
+    "title": [
+      "Basic input/output: generate a signal-delay generation. Sensing pulses . Parallel and serial transfer"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "INPUT /OUTPUT DEVICES"
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "container-title": [
+      "the"
+    ],
+    "pages": [
+      "6532"
+    ],
+    "title": [
+      "The standard PIO"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6530, 6522"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EXAMPLES",
+        "given": "A.P.P.L.I.C.A.T.I.O.N."
+      }
+    ],
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Clearing memory, reading characters, testing a character, bracket testing , parity generation, code conversion, largest element, sum of a table, checksum , counting the zeroes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "STRUCTURES",
+        "given": "D.A.T.A."
+      },
+      {
+        "given": "Pointers"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Searching and sorting. Application examples"
+    ],
+    "note": [
+      "lists, tree, linear search , binary search, tree traversal, merging, bubble sort , hashing."
+    ],
+    "title": [
+      "Lists : sequential, directories, linked, queue, stock, circular, trees, doubly linked"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "DEVELOPMENT",
+        "given": "P.R.O.G.R.A.M."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Hardware resources. The assembler. Macros. Other facilities"
+    ],
+    "pages": [
+      "11"
+    ],
+    "publisher": [
+      "CONCLUSIONS"
+    ],
+    "title": [
+      "Programming choices. Software support-development sequence. Hardware alternatives"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "title": [
+      "CONTENTS: 1. BASIC CONCEPTS: What is programming? Flowcharting information representation: internal and external. Representing programs and data"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "ON",
+        "given": "Z.I.O.H.A.R.D.W.A.R.E.O.R.G.A.N.I.Z.A.T.I."
+      }
+    ],
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Fetching the next instruction. ZBO registers. The stack"
+    ],
+    "title": [
+      "System architecture. Internal organization of the Z80. The instruction execution cycle"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "container-title": [
+      "BCD orithmetic . Multiplication. Division. Subroutines"
+    ],
+    "title": [
+      "BASIC PROGRAMMIN G TECHNIQUES: Arithmetic programs: addition, subtraction"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Instructions available on the Z80."
+    ],
+    "title": [
+      "THE ZIO INSTRUCTION SET: Classes of instructions: data transfers, data processing , test and branch, input/ output, control"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "indirect. Combination of modes. Sample programs"
+    ],
+    "title": [
+      "ADDRESSING TECHNIQUES.Addressing modes : implicit, immediote, absolute, direct relative, indexed (pre- and post"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "INPUT /OUTPUT TECHNIQUES"
+      }
+    ],
+    "citation-number": [
+      "6."
+    ],
+    "genre": [
+      "Sensing pulses. Parallel ond serial transfer. Communication with 1/"
+    ],
+    "note": [
+      "0 devices: handshaking, LED, teletype. Input/ output scheduling: polling interrupts, break."
+    ],
+    "title": [
+      "Basic input/output: generate a single-delay-ge neration"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "INPUT /OUTPUT DEVICES: The standard PIO, the SIO."
+      }
+    ],
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Other common devices. I. APPLICATION EXAMPLES: Clearing memory, reading characters, testing a character , bracket testing , parity generation, code conversion, largest element, sum of a table, checksum, counting the zeroes"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "STRUCTURES",
+        "given": "D.A.T.A."
+      },
+      {
+        "given": "Pointers"
+      }
+    ],
+    "citation-number": [
+      "9."
+    ],
+    "container-title": [
+      "Searching and sorting. Application examples/iists"
+    ],
+    "note": [
+      "trees, linear search , binary search , tree traversal."
+    ],
+    "title": [
+      "Lists : sequential directories, linked, queue, stack, circular, trees, doubly linked"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "CHOICES",
+        "given": "P.R.O.G.R.A.M.M.I.N.G."
+      }
+    ],
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "Macros. Other facilities. 11. CONCLUSION S. Program ming the ZIOOO Richard Mateoslan"
+    ],
+    "isbn": [
+      "0"
+    ],
+    "note": [
+      "lllustr., Ref. C281, 5 '!.\" X IV.\""
+    ],
+    "pages": [
+      "133",
+      "15 95"
+    ],
+    "title": [
+      "Software support-develop ment sequence. The assembler"
+    ],
+    "type": "chapter",
+    "volume": [
+      "320pp",
+      "2·6"
+    ]
+  }
+]
