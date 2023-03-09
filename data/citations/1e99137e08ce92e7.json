@@ -1,0 +1,63 @@
+[
+  {
+    "author": [
+      {
+        "family": "Release",
+        "given": "Language Version"
+      }
+    ],
+    "date": [
+      "Date 1.0 2002-01-01 1.2 2003-04-01 2.0 2005-09-01"
+    ],
+    "issue": [
+      "0"
+    ],
+    "pages": [
+      "2007–08–01 4 0 2010–04–01 5 0 2013–06–01 6 0 2015–07–01 7 0 2017–03–07"
+    ],
+    "type": null,
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "note": [
+      "Console.WriteLine(instance1.Equals(instance2)); // False Console.WriteLine(instance1.Equals(instance1Again)); // True"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "GCCollect"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "dt); // \"6:50:23 PM\" LongTime var D = String.Format(\"{0:D}\", dt); // \"Monday"
+    ],
+    "date": [
+      "2016-08-01"
+    ],
+    "note": [
+      "dt); // \"Monday, August 1, 2016 6:50:23 PM\" FullDateTime var g = String.Format(\"{0:g}\", dt); // \"8/1/2016 6:50 PM\" ShortDate+ShortTime var G = String.Format(\"{0:G}\", dt); // \"8/1/2016 6:50:23 PM\" ShortDate+LongTime var m = String.Format(\"{0:m}\", dt); // \"August 1\" MonthDay var y = String.Format(\"{0:y}\", dt); // \"August 2016\" YearMonth var r = String.Format(\"{0:r}\", dt); // \"SMon, 01 Aug 2016 18:50:23 GMT\" RFC1123 var s = String.Format(\"{0:s}\", dt); // \"2016-08-01T18:50:23\" SortableDateTime var u = String.Format(\"{0:u}\", dt); // \"2016-08-01 18:50:23Z\" UniversalSortableDateTime"
+    ],
+    "title": [
+      "var t = String.Format(\"{0:t}\", dt); // \"6:50 PM\" ShortTime var d = String.Format(\"{0:d}\", dt); // \"8/1/2016\" ShortDate var T = String.Format(\"{0:T}\"",
+      "LongDate var f = String.Format(\"{0:f}\", dt); // \"Monday, August 1, 2016 6:50 PM\" LongDate+ShortTime var F = String.Format(\"{0:F}\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "Section 163.3: Usage with a 'Button' public static class Res { /// <summary> ///",
+      "/// </summary> public static FontFamily Maneteke = GetResourceFontFamily(Properties.Resources.manteka"
+    ],
+    "type": null,
+    "url": [
+      "https://www.behance.net/gallery/2846011/Manteka"
+    ]
+  }
+]
