@@ -1,0 +1,23 @@
+[
+  {
+    "note": [
+      "The working array can be loaded from disk, saved to disk, read from memory, read from PROM, blasted into PROM, and edited."
+    ],
+    "title": [
+      "Many of the operations of the A.P.B. package are performed between the A.P.B. card and an area of memory called the working array. The working array is simply memory space set aside by the program to hold PROM data"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "A11 Address bit 11, provides most significant bit for 4K EPROMs"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Al0 A ddress bit 10, provides most significant bit for 2K EPROMs"
+    ],
+    "type": null
+  }
+]
