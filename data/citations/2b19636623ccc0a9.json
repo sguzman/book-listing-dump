@@ -1,0 +1,71 @@
+[
+  {
+    "note": [
+      "See: AreaDraw (), AreaEnd () ,AreaMove (), Ini tArea () , InitTmpRas ("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This function initializes, in the selected RastPort, the specified TextAttr structure with the values of the current font. You can use this function to check the RastPort for the currently active font"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See: MakeVPort () , MrgCop () , LoadView () ,MakeScreen () , RethinkDisplay("
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This function enables you to retrieve the UWORD that determines the color of the selected color register. The 16 bit UWORD which is returned is divided as follows: bits 0-3 are the blue component, bits 4-7 the green, and bits 8-11 the red"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "&Begin, &End). &Begin and &End mark the beginning and end of this GEL list."
+    ],
+    "title": [
+      "All the graphic elements (=GEL) are linked in a list through the vsprite structures"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See:DrawGList(),SortGList(),InitGList() RemVSprite (&VSprite"
+    ],
+    "title": [
+      "This function immediately removes the selected bob from the GEL list for its RastPort and deletes it from the RastPort"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "This occurs only after the calls to SortGList (), DrawGList (), MakeVPort(),MrgCop(),LoadView()."
+    ],
+    "title": [
+      "This routine deletes the selected vsprite from the current GEL list. However, the sprite does not immediately disappear from the screen"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "This function allows you to change the color of one color register in the specified ViewPort. You pass the number of the color register and the new red, green and blue components (0-15) for the new color value"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "DiskFontBase Now to the DiskFontBase functions (you must first open the library \"diskfontlibraries\""
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Use this function to open the selected library which gives you access to specific operating system routines"
+    ],
+    "type": null
+  }
+]
