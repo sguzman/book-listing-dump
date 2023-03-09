@@ -1,0 +1,785 @@
+[
+  {
+    "title": [
+      "The IWM Mode register is a write-only register, so disregard the advice to use only a read-modify-write instruction sequence when manipulating bits"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Second Edition--Pages 156-7, Table 7-5, Bits in the Mode register First Edition--Pages 147-8, Table 7-5, Bits in the Mode register"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 194 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Bits 0-15 Vertical (Y) coordinate in local coordinates. Bits 16-31 Horizontal (X) coordinate in local coordinates"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "location": [
+      "Developer CD"
+    ],
+    "pages": [
+      "– 255 714"
+    ],
+    "title": [
+      "Result returned must be one of the following values and the carry flag must be clear: Apple ][ Computer Family Technical Documentation Human Interface Notes"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 257 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 258 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 260 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 261 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 262 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 263 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 264 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 334 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 335 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 336 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 337 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 338 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 339 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 340 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Apple ][ Computer Family Technical Documentation"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 408 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 409 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 410 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 411 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 413 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 414 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 415 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 416 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "### END OF FILE TN.IIGS.094"
+    ],
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 475 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 476 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "location": [
+      "Developer CD"
+    ],
+    "pages": [
+      "– 523 714"
+    ],
+    "title": [
+      "The identification routine does the following things: o Disables interrupts Apple ][ Computer Family Technical Documentation Human Interface Notes"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 524 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Apple ][ Computer Family Technical Documentation"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Apple ][ Computer Family Technical Documentation"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 527 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Apple ][ Computer Family Technical Documentation"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Apple ][ Computer Family Technical Documentation"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 530 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 531 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 608 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 609 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "714 APPLE ][ COMPUTER FAMILY TECHNICAL INFORMATION"
+    ],
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 610"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": "chapter"
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 611 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 612 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 613 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 614 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 615 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 637 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 638 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 639 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 640 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 641 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 642 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 643 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 644 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 645 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 646 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 647 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 648 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SEPTEMBER",
+        "given": "C.H.A.N.G.E.S.S.I.N.C.E."
+      }
+    ],
+    "container-title": [
+      "Replaced APDA references with Resource Central"
+    ],
+    "date": [
+      "1990"
+    ],
+    "title": [
+      "Updated to include ProDOS 8 version 2.0.1 and its known bugs"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "SEPTEMBER",
+        "given": "C.H.A.N.G.E.S.S.I.N.C.E."
+      }
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 665 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 666 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 667 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 668 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 669 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 693 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1993-03"
+    ],
+    "pages": [
+      "– 694 714"
+    ],
+    "title": [
+      "Apple ][ Computer Family Technical Documentation Human Interface Notes -- Developer CD"
+    ],
+    "type": null
+  }
+]
