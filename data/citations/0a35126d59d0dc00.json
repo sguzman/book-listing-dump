@@ -1,0 +1,116 @@
+[
+  {
+    "author": [
+      {
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "705."
+    ],
+    "title": [
+      "Discarding Per VLAN Spanning Tree (PVST)+ is based on the IEEE 802.1D standard, but uses only three port states of learning, forwarding, and discarding"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Listening",
+        "given": "A.Blocking B."
+      }
+    ],
+    "citation-number": [
+      "706."
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "To view available flash memory, use the show flash command. The show flash command displays total memory, used memory, and available flash memory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "768."
+    ],
+    "title": [
+      "dir nvram: To display the contents of NVRAM, you can use the dir command followed by the type 701–800"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "771."
+    ],
+    "title": [
+      "dir flash: You can use the dir flash: command to display the contents of flash memory"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "793."
+    ],
+    "note": [
+      "Neighbor table E. Routing table"
+    ],
+    "title": [
+      "Topology table C"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "R2",
+        "given": "C.Through"
+      }
+    ],
+    "citation-number": [
+      "795."
+    ],
+    "title": [
+      "R1 will send the data through R2 to get to R4 because it will use the route with the lowest administrative distance"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "terminology, 180–181, 392–393 wildcard masks, 211, 404 troubleshooting, 317–321, 446–448 Wired Equivalent Privacy (WEP),"
+    ],
+    "pages": [
+      "391"
+    ],
+    "type": null,
+    "volume": [
+      "176"
+    ]
+  },
+  {
+    "note": [
+      "WEP (Wired Equivalent Privacy), 176, 391 wireless access points, 171–175, 389–390 WICs (Wan Interface Cards), 47,",
+      "Wi-Fi Protected Access), 176–177, 391 394–396, 444–445 WPA2 (Wi-Fi Protected Access 2), 175–177, 391 subnet masks, 41, 342 write command, 49, 344 terminology, 180–181, 392–393 troubleshooting, 317–321, 446–448 Wi-Fi Alliance, 169, 174–175, 390 •X• Wi-Fi Protected Access 2 (WPA2), 175–177, 391 X.25, 181, 393 Wi-Fi Protected Access (WPA), 176–177, 391 Xmodem protocol, 72, 353 Workspace Workspace Workspace"
+    ],
+    "title": [
+      "343 wireless interference, 171–172, 224, Wide Area Networks (WANs) 388–389, 410 address scheme, 43, 343 wireless networking connection methods, 182–183, 393–394 general discussion, 169–175, 223–225, 388–390, Frame Relay, 315–316, 446 409–410 general discussion, 179, 223–225, 311, 409–410 security, 175–177, 390–392 network IDs, 202, 400 standards, 177–178, 392 serial link configuration, 183–189, 312–315, WPA"
+    ],
+    "type": null
+  }
+]
