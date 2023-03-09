@@ -1,0 +1,558 @@
+[
+  {
+    "note": [
+      " public void expansionStateChanged(ExpansionEvent e) {"
+    ],
+    "title": [
+      "Section section = toolkit.createSection(form.getBody(), Section.DESCRIPTION | Section.TWISTIE | Section.EXPANDED); section.addExpansionListener(new ExpansionAdapter("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "org.eclipse.core.runtime.Preferences",
+        "particle": "import"
+      }
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "import org.eclipse.core.runtime.Preferences; import org.eclipse.jface.preference.IPreferenceStore; import com.bdaum.SpellChecker.SpellCheckerPlugin; import com.bdaum.SpellChecker.preferences.SpellCheckerPreferences; import com.swabunga.spell.engine.Configuration; public class JavaPropertiesPreferences extends SpellCheckerPreferences {"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Arthorne",
+        "given": "John"
+      }
+    ],
+    "container-title": [
+      "Eclipse Corner"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Drag and Drop in the Eclipse UI"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Beck",
+        "given": "Kent"
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Harlow"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Extreme Programming Explained: Embrace Change"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cornu",
+        "given": "Christophe"
+      }
+    ],
+    "container-title": [
+      "IBM OTI Labs, Eclipse Corner, www.eclipse.org"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "A Small Cup of SWT"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Daum",
+        "given": "Berthold"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "San Francisco"
+    ],
+    "publisher": [
+      "Morgan Kaufman Publishing"
+    ],
+    "title": [
+      "Modeling Business Objects with XML Schema"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Daum",
+        "given": "Berthold"
+      }
+    ],
+    "container-title": [
+      "Eclipse Corner"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Mutatis mutandis – Using Preference Pages as Property Pages"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Daum",
+        "given": "Berthold"
+      }
+    ],
+    "container-title": [
+      "IBM developerWorks"
+    ],
+    "date": [
+      "2003-11-25"
+    ],
+    "pages": [
+      "106 – ,"
+    ],
+    "title": [
+      "Equipping SWT Applications with Content Assistants"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Daum",
+        "given": "Berthold"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Eclipse 2 for Java Developers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Daum",
+        "given": "Berthold"
+      },
+      {
+        "family": "Franke",
+        "given": "Stefan"
+      },
+      {
+        "family": "Tilly",
+        "given": "Marcel"
+      }
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "Heidelberg"
+    ],
+    "publisher": [
+      "dpunkt verlag"
+    ],
+    "title": [
+      "Webentwicklung mit Eclipse"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fogel",
+        "given": "Karl"
+      },
+      {
+        "family": "Moshe",
+        "given": "Bar"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Phoenix"
+    ],
+    "publisher": [
+      "Paraglyph Publishing"
+    ],
+    "title": [
+      "Open Source Projects with CVS"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fowler",
+        "given": "Martin"
+      },
+      {
+        "family": "Beck",
+        "given": "Kent"
+      },
+      {
+        "family": "Brant",
+        "given": "John"
+      },
+      {
+        "family": "Opdyke",
+        "given": "William"
+      },
+      {
+        "family": "Roberts",
+        "given": "Don"
+      }
+    ],
+    "date": [
+      "1999",
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Gamma",
+        "given": "Appendix D."
+      },
+      {
+        "family": "Erich",
+        "given": "Richard Helm"
+      },
+      {
+        "family": "Johnson",
+        "given": "Ralph"
+      },
+      {
+        "family": "Vlissides",
+        "given": "John"
+      }
+    ],
+    "location": [
+      "Harlow",
+      "Design Patterns, Harlow"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Refactoring: Improving the Design of Existing Code"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gamma",
+        "given": "Erich"
+      },
+      {
+        "family": "Beck",
+        "given": "Kent"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Harlow"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Contributing to Eclipse: Principles, Patterns, and Plugins"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Gunther",
+        "given": "Jeff"
+      }
+    ],
+    "container-title": [
+      "IBM developerworks"
+    ],
+    "date": [
+      "2003-06-19"
+    ],
+    "pages": [
+      "106 – ,"
+    ],
+    "title": [
+      "Deploy an SWT Application Using Java Web Start"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Hatcher",
+        "given": "Erik"
+      },
+      {
+        "family": "Loughran",
+        "given": "Steve"
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "publisher": [
+      "Manning Publications Company"
+    ],
+    "title": [
+      "Java Development with Ant"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hightower",
+        "given": "Richard"
+      },
+      {
+        "family": "Lesiecki",
+        "given": "Nicholas"
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Chichester"
+    ],
+    "publisher": [
+      "John Wiley & Sons"
+    ],
+    "title": [
+      "Java Tools for Extreme Programming: Mastering Open Source Tools Including Ant, JUnit, and Cactus"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Irvine",
+        "given": "Veronika"
+      }
+    ],
+    "container-title": [
+      "Eclipse Corner"
+    ],
+    "date": [
+      "2003"
+    ],
+    "title": [
+      "Drag and Drop – Adding Drag and Drop to an SWT Application"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Kehn",
+        "given": "Dan"
+      },
+      {
+        "family": "Fairbrother",
+        "given": "Scott"
+      },
+      {
+        "family": "Le",
+        "given": "Cam-Thu"
+      }
+    ],
+    "container-title": [
+      "Eclipse Corner"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "How to Internationalize Your Eclipse Plug-In"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "MacLeod",
+        "given": "Carolyn"
+      },
+      {
+        "family": "Ramachandran",
+        "given": "Shantha"
+      }
+    ],
+    "container-title": [
+      "Eclipse Corner"
+    ],
+    "date": [
+      "2002"
+    ],
+    "title": [
+      "Understanding Layouts in SWT"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Moody",
+        "given": "James"
+      },
+      {
+        "family": "MacLeod",
+        "given": "Carolyn"
+      }
+    ],
+    "container-title": [
+      "Eclipse Corner"
+    ],
+    "date": [
+      "2001"
+    ],
+    "title": [
+      "SWT Color Model"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Robinson",
+        "given": "Matthew"
+      },
+      {
+        "family": "Vorobiev",
+        "given": "Pavel"
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Greenwich"
+    ],
+    "publisher": [
+      "Manning Publications"
+    ],
+    "title": [
+      "Swing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Steams",
+        "given": "Beth"
+      }
+    ],
+    "container-title": [
+      "Sun Microsystems"
+    ],
+    "date": [
+      "2000"
+    ],
+    "title": [
+      "Java Beans 101"
+    ],
+    "type": "article-journal",
+    "url": [
+      "http://java.sun.com/developer/onlineTraining/Beans/bean01/index.html,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tilly",
+        "given": "Jesse"
+      },
+      {
+        "family": "Burke",
+        "given": "Eric M."
+      }
+    ],
+    "date": [
+      "2002"
+    ],
+    "location": [
+      "Sebastopol"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Ant: The Definitive Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Vesperman",
+        "given": "Jennifer"
+      }
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Sebastopol"
+    ],
+    "publisher": [
+      "O’Reilly & Associates"
+    ],
+    "title": [
+      "Essential CVS"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Outline View, 57–58 Player module (Jukebox project), 241 context functions, 59–60 BasicPlayerListener interface, 260 representation, 58–59 graphics operations, 249–250 packages, 55–57 GUI, creating, 247–249 perspectives instrumentation, 251–258 configuring, 66–67 layout, 241–242 defining, 65–66 Player class source code, 243–247 project properties, 69–71 threads, 242–243 resources, 52 window management, 258–260 storing, 52–53 playlist domain model (Jukebox project), 261 synchronizing, 53 accessing features,"
+    ],
+    "pages": [
+      "270–271"
+    ],
+    "type": null
+  }
+]
