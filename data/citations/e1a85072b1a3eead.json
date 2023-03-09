@@ -1,0 +1,366 @@
+[
+  {
+    "note": [
+      "OrderDate CustomerID"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "00:00:00.000 FOLKO 1996-12-11 00:00:00.000 QUEDE 1996-12-12 00:00:00.000 LILAS 1996-12-12 00:00:00.000 HUNGO 1996-12-13 00:00:00.000 ERNSH 1996-12-16 00:00:00.000 BERGS 1996-12-16 00:00:00.000 AROUT 1996-12-17 00:00:00.000 SPLIR 1996-12-18 00:00:00.000 SANTG 1996-12-18 00:00:00.000 FAMIA 1996-12-19 00:00:00.000 SEVES 1996-12-20 00:00:00.000 BOTTM"
+    ],
+    "pages": [
+      "– –1996–12–10"
+    ],
+    "type": "chapter"
+  },
+  {
+    "title": [
+      "CompanyName Order Date"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Futterkiste",
+        "given": "Alfreds"
+      }
+    ],
+    "date": [
+      "1997-08-25"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "date": [
+      "1996-09-18"
+    ],
+    "issue": [
+      "00"
+    ],
+    "title": [
+      "Ana Trujillo Emparedados y helados"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taquería",
+        "given": "Antonio Moreno"
+      }
+    ],
+    "date": [
+      "1996-11-27"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Horn",
+        "given": "Around",
+        "particle": "the"
+      }
+    ],
+    "date": [
+      "1996-11-15"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "snabbköp",
+        "given": "Berglunds"
+      }
+    ],
+    "date": [
+      "1996-08-12"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Delikatessen",
+        "given": "Blauer See"
+      }
+    ],
+    "date": [
+      "1997-04-09"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Markets",
+        "given": "White Clover"
+      }
+    ],
+    "date": [
+      "1996-07-31"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kala",
+        "given": "Wilman"
+      }
+    ],
+    "date": [
+      "1997-07-30"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zajazd",
+        "given": "Wolski"
+      }
+    ],
+    "date": [
+      "1996-12-05"
+    ],
+    "issue": [
+      "00"
+    ],
+    "type": null,
+    "volume": [
+      "00"
+    ]
+  },
+  {
+    "note": [
+      "OrderDate=”1997-10-13T00:00:00” /> <Order CustomerID=”ALFKI” OrderID=”10835” OrderDate=”1998-01-15T00:00:00” /> </root>"
+    ],
+    "title": [
+      "<?xml version=”1.0” encoding=”UTF-8”?> <root> <Order CustomerID=”ALFKI” OrderID=”10643” OrderDate=”1997-08-25T00:00:00” /> <Order CustomerID=”ALFKI” OrderID=”10692” OrderDate=”1997-10-03T00:00:00” /> <Order CustomerID=”ALFKI” OrderID=”10702"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "OrderDate=”1998-01-15T00:00:00” /> </Customer> </root>"
+    ],
+    "title": [
+      "<?xml version=”1.0” encoding=”UTF-8”?> <root> <Customer CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Order OrderID=”10643” OrderDate=”1997-08-25T00:00:00” /> <Order OrderID=”10692” OrderDate=”1997-10-03T00:00:00” /> <Order OrderID=”10702” OrderDate=”1997-10-13T00:00:00” /> <Order OrderID=”10835"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "OrderDate=”1996-11-27T00:00:00” /> <Order OrderID=”10507” OrderDate=”1997-04-15T00:00:00” /> <Order OrderID=”10535” OrderDate=”1997-05-13T00:00:00” /> <Order OrderID=”10573” OrderDate=”1997-06-19T00:00:00” /> </Customer> </root>"
+    ],
+    "title": [
+      "If we have more than one customer, that’s not a problem — we just add another customer node: <?xml version=”1.0” encoding=”UTF-8”?> <root> <Customer CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Order OrderID=”10643” OrderDate=”1997-08-25T00:00:00” /> <Order OrderID=”10692” OrderDate=”1997-10-03T00:00:00” /> <Order OrderID=”10702” OrderDate=”1997-10-13T00:00:00” /> <Order OrderID=”10835” OrderDate=”1998-01-15T00:00:00” /> </Customer> <Customer CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería”> <Order OrderID=”10365"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "OrderDate=”1997-09-25T00:00:00” /> <row CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste” OrderID=”10692” OrderDate=”1997-10-03T00:00:00” /> <row CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste” OrderID=”10702” OrderDate=”1997-10-13T00:00:00” /> <row CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste” OrderID=”10835” OrderDate=”1998-01-15T00:00:00” /> <row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10856” OrderDate=”1998-01-28T00:00:00” /> <row CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste” OrderID=”10952” OrderDate=”1998-03-16T00:00:00” /> <row CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste” OrderID=”11011” OrderDate=”1998-04-09T00:00:00” />"
+    ],
+    "title": [
+      "<row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10365” OrderDate=”1996-11-27T00:00:00” /> <row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10507” OrderDate=”1997-04-15T00:00:00” /> <row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10535” OrderDate=”1997-05-13T00:00:00” /> <row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10573” OrderDate=”1997-06-19T00:00:00” /> <row CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste” OrderID=”10643” OrderDate=”1997-08-25T00:00:00” /> <row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10677” OrderDate=”1997-09-22T00:00:00” /> <row CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería” OrderID=”10682"
+    ],
+    "type": null
+  },
+  {
+    "source": [
+      "OrderDate=”1997-05-13T00:00:00” /> <Orders OrderID=”10573” OrderDate=”1997-06-19T00:00:00” /> </Customers>"
+    ],
+    "title": [
+      "<Customers CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería”> <Orders OrderID=”10365” OrderDate=”1996-11-27T00:00:00” /> <Orders OrderID=”10507” OrderDate=”1997-04-15T00:00:00” /> A Brief XML Primer <Orders OrderID=”10535"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "OrderDate=”1998-03-16T00:00:00” /> <Orders OrderID=”11011” OrderDate=”1998-04-09T00:00:00” /> </Customers>"
+    ],
+    "title": [
+      "<Customers CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Orders OrderID=”10643” OrderDate=”1997-08-25T00:00:00” /> </Customers> <Customers CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería”> <Orders OrderID=”10677” OrderDate=”1997-09-22T00:00:00” /> <Orders OrderID=”10682” OrderDate=”1997-09-25T00:00:00” /> </Customers> <Customers CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Orders OrderID=”10692” OrderDate=”1997-10-03T00:00:00” /> <Orders OrderID=”10702” OrderDate=”1997-10-13T00:00:00” /> <Orders OrderID=”10835” OrderDate=”1998-01-15T00:00:00” /> </Customers> <Customers CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería”> <Orders OrderID=”10856” OrderDate=”1998-01-28T00:00:00” /> </Customers> <Customers CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Orders OrderID=”10952"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "OrderDate=”1997-10-13T00:00:00” CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Customer CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Order OrderID=”10643” OrderDate=”1997-08-25T00:00:00” CompanyName=”Alfreds Futterkiste” /> <Order OrderID=”10692” OrderDate=”1997-10-03T00:00:00” CompanyName=”Alfreds Futterkiste” /> <Order OrderID=”10702"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Order OrderID=”10835” OrderDate=”1998-01-15T00:00:00"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Order OrderID=”10952” OrderDate=”1998-03-16T00:00:00"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Order OrderID=”11011” OrderDate=”1998-04-09T00:00:00"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Order OrderID=”11078” OrderDate=”1999-05-01T00:00:00” CompanyName=”Alfreds Futterkiste” /> <Order OrderID=”11079"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Order OrderID=”11080” OrderDate=”2000-07-22T16:48:00"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "CompanyName=”Alfreds Futterkiste” />"
+    ],
+    "title": [
+      "<Order OrderID=”11081” OrderDate=”2000-07-22T00:00:00"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<Order OrderID=”11087” OrderDate=”2000-08-05T17:37:52.520” CompanyName=”Alfreds Futterkiste” /> </Customer>"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "OrderDate=”1997-09-25T00:00:00” CompanyName=”Antonio Moreno Taquería” /> <Order OrderID=”10856” OrderDate=”1998-01-28T00:00:00” CompanyName=”Antonio Moreno Taquería” /> </Customer>"
+    ],
+    "title": [
+      "<Customer CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería”> <Order OrderID=”10365” OrderDate=”1996-11-27T00:00:00” CompanyName=”Antonio Moreno Taquería” /> <Order OrderID=”10507” OrderDate=”1997-04-15T00:00:00” CompanyName=”Antonio Moreno Taquería” /> <Order OrderID=”10535” OrderDate=”1997-05-13T00:00:00” CompanyName=”Antonio Moreno Taquería” /> <Order OrderID=”10573” OrderDate=”1997-06-19T00:00:00” CompanyName=”Antonio Moreno Taquería” /> <Order OrderID=”10677” OrderDate=”1997-09-22T00:00:00” CompanyName=”Antonio Moreno Taquería” /> <Order OrderID=”10682"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "<Customer CustomerID=”ALFKI” CompanyName=”Alfreds Futterkiste”> <Order OrderID=”10643”> <OrderDate>1997-08-25T00:00:00</OrderDate> </Order> <Order OrderID=”10692”> <OrderDate>1997-10-03T00:00:00</OrderDate> </Order> <Order OrderID=”10702”> <OrderDate>1997-10-13T00:00:00</OrderDate> </Order> <Order OrderID=”10835”> <OrderDate>1998-01-15T00:00:00</OrderDate> A Brief XML Primer </Order> <Order OrderID=”10952”> <OrderDate>1998-03-16T00:00:00</OrderDate> </Order> <Order OrderID=”11011”> <OrderDate>1998-04-09T00:00:00</OrderDate> </Order> </Customer> <Customer CustomerID=”ANTON” CompanyName=”Antonio Moreno Taquería”> <Order OrderID=”10365”> <OrderDate>1996-11-27T00:00:00</OrderDate> </Order> <Order OrderID=”10507”> <OrderDate>1997-04-15T00:00:00</OrderDate> </Order> <Order OrderID=”10535”> <OrderDate>1997-05-13T00:00:00</OrderDate> </Order> <Order OrderID=”10573”> <OrderDate>1997-06-19T00:00:00</OrderDate> </Order> <Order OrderID=”10677”> <OrderDate>1997-09-22T00:00:00</OrderDate> </Order> <Order OrderID=”10682”> <OrderDate>1997-09-25T00:00:00</OrderDate> </Order> <Order OrderID=”10856”> <OrderDate>1998-01-28T00:00:00</OrderDate> </Order> </Customer>"
+    ],
+    "type": null
+  },
+  {
+    "source": [
+      "OrderDate=”1998-01-05T00:00:00” />"
+    ],
+    "title": [
+      "<Product ProductID=”1” /> <Product ProductID=”2”> <Order OrderID=”10813"
+    ],
+    "type": null
+  },
+  {
+    "source": [
+      "OrderDate=”1998-01-01T00:00:00”/> <Order OrderID=”id10810” OrderDate=”1998-01-01T00:00:00”/> <Order OrderID=”id10813” OrderDate=”1998-01-05T00:00:00”/> <Order OrderID=”id10814” OrderDate=”1998-01-05T00:00:00”/> <Order OrderID=”id10816” OrderDate=”1998-01-06T00:00:00”/> <Order OrderID=”id10817” OrderDate=”1998-01-06T00:00:00”/> <Order OrderID=”id10819” OrderDate=”1998-01-07T00:00:00”/> <Order OrderID=”id10819” OrderDate=”1998-01-07T00:00:00”/> </Product>"
+    ],
+    "title": [
+      "<Product xmlns=”x-schema:#Schema9” ProductID=”76” OrderList=”id10808 id10810 id10813 id10814 id10816 id10817 id10819 id10819”> <Order OrderID=”id10808"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "541–546 executing, 547–550 execution options, 548 K logging, 549 key constraints modifying, 550–553 foreign key constraints, 158–169 reports, 548 primary key constraints, 155–158 setting values, 548 UNIQUE constraints, 169–170"
+    ],
+    "title": [
+      "Integration Services Integration Services errors, 99 Execute Package Utility, 547–549 exclusive, 85 features, 38–39 FULL JOIN, 99–100 SSIS packages INNER JOIN, 81–89, 102–103 command files, 548 OUTER JOIN, 89–99, 103 configurations, 548 subqueries, 204–205 connection managers, 548 UNION operator, 104–109 creating, 540–546 views, 295–298 data sources"
+    ],
+    "type": "report"
+  },
+  {
+    "container-title": [
+      "302–306 WITH DB CHAINING ON|OFF option (CREATE with T-SQL, 289–291 DATABASE statement), 118–119 data source views, 523–525 WITH ENCRYPTION option defined, 9–10 ALTER VIEW statement"
+    ],
+    "pages": [
+      "309"
+    ],
+    "title": [
+      "Index views WITH APPEND option (CREATE TRIGGER auditing, 306–308 statement), 452–453 creating WITH CHECK OPTION, 299–301 with Management Studio"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "DELETE statement, 298 CREATE TRIGGER statement, 450 dropping, 302 WITH LOG option (errors), 384 encrypting, 308–309 WITH NOWAIT option (errors), 385 filtering data, 293–295 WITH option (CREATE INDEX statement), 272 flattening data, 295–297 WITH RECOMPILE option (stored procedures),"
+    ],
+    "type": null
+  }
+]
