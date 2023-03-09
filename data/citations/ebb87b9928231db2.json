@@ -1,0 +1,4094 @@
+[
+  {
+    "note": [
+      "Isaacson &: Keller (1966): 1. Norms, arithmetic, and well-posed computations. Hamming (1971): 1. Roundoff and function evaluation."
+    ],
+    "title": [
+      "Of course nobody believes or asserts (Dl) quite as baldly as written. But consider the following opening chapter headings from some standard numerical analysis texts"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Dahlquist"
+      },
+      {
+        "given": "Bjorck"
+      }
+    ],
+    "date": [
+      "1974",
+      "1980"
+    ],
+    "note": [
+      "Error analysis. Conte & de Boor (1980): 1. Number systems and errors."
+    ],
+    "pages": [
+      "1"
+    ],
+    "title": [
+      "I. Some general principles of numerical calculation. 2. How to obtain and estimate accuracy.... Stoer <fe Bulirsch"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Atkinson"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "title": [
+      "1. Error: its sources, propagation, and analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kahaner",
+        "given": "Moler fc Nash"
+      }
+    ],
+    "collection-title": [
+      "Computer arithmetic and computational errors"
+    ],
+    "container-title": [
+      "Introduction"
+    ],
+    "date": [
+      "1989"
+    ],
+    "title": [
+      "I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Aho",
+        "given": "A.V."
+      },
+      {
+        "family": "Hopcroft.",
+        "given": "J.E."
+      },
+      {
+        "family": "Ullman",
+        "given": "J.D."
+      }
+    ],
+    "citation-number": [
+      "AHU74"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "Reading"
+    ],
+    "publisher": [
+      "Addison-Wesley",
+      "MA"
+    ],
+    "title": [
+      "The Design and Analysis of Computer Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Anderson",
+        "given": "E."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "And95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "LAPACK Users' Guide"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Arnold!",
+        "given": "Arnol] W.E."
+      }
+    ],
+    "container-title": [
+      "Quart. Appl. Math"
+    ],
+    "date": [
+      "1951"
+    ],
+    "pages": [
+      "17–29"
+    ],
+    "title": [
+      "The principle of minimized iteration in the solution of the matrix eigenvalue problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Axelsson",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "Axe94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Iterative Solution Methods, Cambridge U"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Axler",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Axl95"
+    ],
+    "container-title": [
+      "Math. Monthly"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "139–154"
+    ],
+    "title": [
+      "Down with determinants, Amer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "102"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Barrett",
+        "given": "R."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Bar94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ban",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Bau94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "TR94-1414,"
+    ],
+    "publisher": [
+      "Computer Science Dept., Cornell U"
+    ],
+    "title": [
+      "Faster SVD for matrices with small m/n"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bjorck",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "BJ696"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "Numerical Methods for Least Squares Problems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Bjorck",
+        "given": "A."
+      },
+      {
+        "family": "Paige",
+        "given": "C.C."
+      }
+    ],
+    "citation-number": [
+      "BjPa92"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "176–190"
+    ],
+    "title": [
+      "Loss and recapture of orthogonality m the modified Gram-Schmidt algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Bottcher",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "B6t95"
+    ],
+    "container-title": [
+      "Lectures on Operator Theory and Its Applications, Amer. Math"
+    ],
+    "date": [
+      "1995"
+    ],
+    "editor": [
+      {
+        "family": "Lancaster",
+        "given": "P."
+      }
+    ],
+    "location": [
+      "Soc., Providence, RI"
+    ],
+    "title": [
+      "Infinite matrices and projection methods"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Brualdi",
+        "given": "R.A."
+      },
+      {
+        "family": "Mellendorf",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "BrMe94"
+    ],
+    "container-title": [
+      "Math. Monthly"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "975–985"
+    ],
+    "title": [
+      "Regions in the complex plane containing the eigenvalues of a matrix, Amer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "101"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brualdi",
+        "given": "R.A."
+      },
+      {
+        "family": "Ryser",
+        "given": "H.J."
+      }
+    ],
+    "citation-number": [
+      "BrRy91"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Combinatorial Matrix Theory, Cambridge U"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bruaset",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "Bru95"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Harlow, Essex, UK"
+    ],
+    "publisher": [
+      "Addison-Wesley Longman"
+    ],
+    "title": [
+      "A Survey of Preconditioned Iterative Methods"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Canute",
+        "given": "C."
+      },
+      {
+        "family": "Hussairii",
+        "given": "M.Y."
+      },
+      {
+        "family": "Quarteroni",
+        "given": "A."
+      },
+      {
+        "family": "Zarig",
+        "given": "T.A."
+      }
+    ],
+    "citation-number": [
+      "CHQZ88"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Spectral Methods in Fluid Dynamics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Chandrasekaran",
+        "given": "S."
+      },
+      {
+        "family": "Ipsen",
+        "given": "I.C.F."
+      }
+    ],
+    "citation-number": [
+      "Chlp94"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "592–622"
+    ],
+    "title": [
+      "On rank-revealing factorisations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "Cha93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Chatelin, Eigenvalues of Matrices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ciarlet",
+        "given": "P.G."
+      }
+    ],
+    "citation-number": [
+      "Cia89"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Introduction to Numerical Linear Algebra and Optimisation, Cambridge U"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Concus",
+        "given": "P."
+      },
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "O'Leary",
+        "given": "D.P."
+      }
+    ],
+    "citation-number": [
+      "CGO76"
+    ],
+    "container-title": [
+      "Sparse Matrix Computations"
+    ],
+    "date": [
+      "1976"
+    ],
+    "editor": [
+      {
+        "family": "Bunch",
+        "given": "J.R."
+      },
+      {
+        "family": "Rose",
+        "given": "D.J."
+      }
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "A generalized conjugate gradient method for the numerical solution of elliptic partial differential equations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Conte",
+        "given": "CodeSO] S.D."
+      },
+      {
+        "family": "Boor",
+        "given": "C.",
+        "particle": "de"
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Elementary Numerical Analysis: An Algorithmic Approach"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Coppersmith",
+        "given": "D."
+      },
+      {
+        "family": "Winograd",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "CoWi90"
+    ],
+    "container-title": [
+      "J. Symbolic Comput"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "251–280"
+    ],
+    "title": [
+      "Matrix multiplication via arithmetic progressions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cullum",
+        "given": "J."
+      },
+      {
+        "family": "Greenbaum",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "CuGr96"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "223–247"
+    ],
+    "title": [
+      "Relations between Galerkin and normminimizing iterative methods for solving linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cullum",
+        "given": "J.K."
+      },
+      {
+        "family": "Willoughby",
+        "given": "R.A."
+      }
+    ],
+    "citation-number": [
+      "CuWi85"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Birkhauser, Boston"
+    ],
+    "title": [
+      "Lanczos Algorithms for Large Symmetric Eigenvalue Computations"
+    ],
+    "type": null,
+    "volume": [
+      "v. 1 and 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cuppen",
+        "given": "CupSl] J.J.M."
+      }
+    ],
+    "container-title": [
+      "Numer. Math"
+    ],
+    "date": [
+      "1981"
+    ],
+    "pages": [
+      "177–195"
+    ],
+    "title": [
+      "A divide and conquer method for the symmetric tridiagonal eigenproblem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Daniel",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "Dan71"
+    ],
+    "date": [
+      "1971"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Approximate Minimization of Functionals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Datta",
+        "given": "B.N."
+      }
+    ],
+    "citation-number": [
+      "Dat95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Pacific Grove, CA"
+    ],
+    "publisher": [
+      "Brooks/ Cole"
+    ],
+    "title": [
+      "Numerical Linear Algebra and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Davidson",
+        "given": "E.R."
+      }
+    ],
+    "citation-number": [
+      "Dav75"
+    ],
+    "container-title": [
+      "J. Comp. Phys"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "87–94"
+    ],
+    "title": [
+      "The iterative calculation of a few of the lowest eigenvalues and corresponding eigenvectors of large real symmetric matrices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jong",
+        "given": "L.S.",
+        "particle": "de"
+      }
+    ],
+    "citation-number": [
+      "dcJ77"
+    ],
+    "container-title": [
+      "Math"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "211–219"
+    ],
+    "title": [
+      "Towards a formal definition of numerical stability, Numer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "28"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Demmel",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "Dern87"
+    ],
+    "container-title": [
+      "Numer. Math"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "251–289"
+    ],
+    "title": [
+      "On condition numbers and the distance to the nearest ill-posed problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "51"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Demmel",
+        "given": "J.W."
+      }
+    ],
+    "citation-number": [
+      "Dem97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "Applied Numerical Linear Algebra"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Demmel",
+        "given": "J."
+      },
+      {
+        "family": "Veselic",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "DeVe92"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "1204–1245"
+    ],
+    "title": [
+      "Jacobi's method is more accurate than QR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dongarra",
+        "given": "J.J."
+      },
+      {
+        "family": "Bunch",
+        "given": "J.R."
+      },
+      {
+        "family": "Moler",
+        "given": "C.B."
+      },
+      {
+        "family": "Stewart",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "DBMS79"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Guide, SIAM, Philadelphia"
+    ],
+    "title": [
+      "UNPACK Users'"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Dongarra",
+        "given": "J.J."
+      },
+      {
+        "family": "Croz",
+        "given": "J.J.",
+        "particle": "Du"
+      },
+      {
+        "family": "Duff",
+        "given": "I.S."
+      },
+      {
+        "family": "Hammarling",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "DDDH90"
+    ],
+    "container-title": [
+      "ACM Trans. Math. Software"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "18–28"
+    ],
+    "title": [
+      "Algorithm 679. A set of level 3 basic linear algebra subprograms: Model implementation and test programs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dongarra",
+        "given": "J.J."
+      },
+      {
+        "family": "Sorensen",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "DoSo88"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Stat. Comput"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "39– 54"
+    ],
+    "title": [
+      "A fully parallel algorithm for the symmetric eigenvalue problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Driscoll",
+        "given": "T.A."
+      },
+      {
+        "family": "Toh",
+        "given": "K.-C."
+      },
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "DTT98"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "547–578"
+    ],
+    "title": [
+      "From potential theory to matrix iterations in six steps"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Duff",
+        "given": "I.S."
+      },
+      {
+        "family": "Erisman",
+        "given": "A.M."
+      },
+      {
+        "family": "Reid",
+        "given": "J.K."
+      }
+    ],
+    "citation-number": [
+      "DER86"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Oxford, UK"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "title": [
+      "Direct Methods for Sparse Matrices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dwyer",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "Dwy44"
+    ],
+    "container-title": [
+      "Math. Stat"
+    ],
+    "date": [
+      "1944"
+    ],
+    "pages": [
+      "82–89"
+    ],
+    "title": [
+      "A matrix presentation of least squares and correlation theory with matrix justification of improved methods of solutions, Ann"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edelman",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Ede88"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "543–560"
+    ],
+    "title": [
+      "Eigenvalues and condition numbers of random matrices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edelman",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Ede94"
+    ],
+    "container-title": [
+      "Proc. 1994 Scalable High Performance Computing Conf"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Los Alamitos, CA"
+    ],
+    "pages": [
+      "781–787"
+    ],
+    "publisher": [
+      "IEEE Computer Soc. Press"
+    ],
+    "title": [
+      "Large numerical linear algebra in 1994: The continuing influence of parallel computing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Edelman",
+        "given": "A."
+      },
+      {
+        "family": "Murakami",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "EdMu95"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "763–776"
+    ],
+    "title": [
+      "Polynomial roots from companion matrix eigenvalues"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "64"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Feynman",
+        "given": "R.P."
+      },
+      {
+        "family": "Joking",
+        "given": "Surely You're"
+      },
+      {
+        "given": "Mr"
+      }
+    ],
+    "citation-number": [
+      "Fey85"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Norton, New York"
+    ],
+    "title": [
+      "Feynman! Adventures of a Curious Character"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fischer",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "Fis96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Chichester, UK"
+    ],
+    "publisher": [
+      "Wiley-Teubner"
+    ],
+    "title": [
+      "Polynomial Based Iteration Methods for Symmetric Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fletcher",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Fle76"
+    ],
+    "container-title": [
+      "Notes in Math"
+    ],
+    "date": [
+      "1976"
+    ],
+    "editor": [
+      {
+        "family": "Watson",
+        "given": "G.A."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "73–89"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Conjugate gradient methods for indefinite systems",
+      "Numerical Analysis Dundee 1975, Lee"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "v. 506"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Forsythe",
+        "given": "G.E."
+      },
+      {
+        "family": "Henrici",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "FoHe60"
+    ],
+    "container-title": [
+      "Trans. Amer. Math. Soc"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "1–23"
+    ],
+    "title": [
+      "The cyclic Jacobi method for computing the principal values of a complex matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "94"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Forsythe",
+        "given": "G.E."
+      },
+      {
+        "family": "Moler",
+        "given": "C.B."
+      }
+    ],
+    "citation-number": [
+      "FoMo67"
+    ],
+    "date": [
+      "1967"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Computer Solution of Linear Algebraic Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Foster",
+        "given": "L.V."
+      }
+    ],
+    "citation-number": [
+      "Fos94"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "1354–1362"
+    ],
+    "title": [
+      "Gaussian elimination with partial pivoting can fail in practice"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Francis",
+        "given": "J.G.F."
+      }
+    ],
+    "citation-number": [
+      "Fra61"
+    ],
+    "container-title": [
+      "Computer J"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "256–72 332–45"
+    ],
+    "title": [
+      "The QR transformation: A unitary analogue to the LR transformation, parts I and II"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freund",
+        "given": "R.W."
+      }
+    ],
+    "citation-number": [
+      "Fre93"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Stat. Comput"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "425–448"
+    ],
+    "title": [
+      "A transpose-free quasi-minimal residual algorithm for non-hermitian linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freund",
+        "given": "R.W."
+      },
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "Nachtigal",
+        "given": "N.M."
+      }
+    ],
+    "citation-number": [
+      "FGN92"
+    ],
+    "container-title": [
+      "Acta Numerica"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "57–100"
+    ],
+    "title": [
+      "Iterative solution of linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Freund",
+        "given": "R.W."
+      },
+      {
+        "family": "Nachtigal",
+        "given": "N.M."
+      }
+    ],
+    "citation-number": [
+      "FrNa91"
+    ],
+    "container-title": [
+      "Numer. Math"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "315–339"
+    ],
+    "title": [
+      "QMR: A quasi-minimal residual method for non-Hermitian linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "George",
+        "given": "GeLiSl] A."
+      },
+      {
+        "family": "Liu",
+        "given": "J.W.-H."
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Computer Solution of Large Sparse Positive Definite Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Geurts",
+        "given": "A.J."
+      }
+    ],
+    "citation-number": [
+      "Geu82"
+    ],
+    "container-title": [
+      "Math"
+    ],
+    "date": [
+      "1982"
+    ],
+    "pages": [
+      "85–96"
+    ],
+    "title": [
+      "A contribution to the theory of condition, Numer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gill",
+        "given": "P.E."
+      },
+      {
+        "family": "Murray",
+        "given": "W."
+      },
+      {
+        "family": "Wright",
+        "given": "M.H."
+      }
+    ],
+    "citation-number": [
+      "GMW91"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Redwood City, CA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Numerical Linear Algebra and Optimization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Girko",
+        "given": "V.L."
+      }
+    ],
+    "citation-number": [
+      "Gir90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Dordrecht, the Netherlands"
+    ],
+    "publisher": [
+      "Kluwer"
+    ],
+    "title": [
+      "Theory of Random Determinants"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Goldberg",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "Gol91"
+    ],
+    "container-title": [
+      "ACM Computing Surveys"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "5–48"
+    ],
+    "title": [
+      "What every computer scientist should know about floating-point arithmetic"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G."
+      },
+      {
+        "family": "Kahan",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "GoKa65"
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1965"
+    ],
+    "pages": [
+      "205–224"
+    ],
+    "title": [
+      "Calculating the singular values and pseudoinverse of a matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "O'Leary",
+        "given": "D.P."
+      }
+    ],
+    "citation-number": [
+      "GoOL89"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "50–100"
+    ],
+    "title": [
+      "Some history of the conjugate gradient and Lanczos methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "Pereyra",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "GoPe73"
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "413–432"
+    ],
+    "title": [
+      "The differentiation of pseudoinverses and nonlinear least squares problems whose variables separate"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "Loan",
+        "given": "C.F.",
+        "particle": "Van"
+      }
+    ],
+    "citation-number": [
+      "GoVa96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Baltimore"
+    ],
+    "publisher": [
+      "Johns Hopkins U. Press"
+    ],
+    "title": [
+      "Matrix Computations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "Welsch",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "GoWe69"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "221–230"
+    ],
+    "title": [
+      "Calculation of Gauss quadrature rules"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Golub",
+        "given": "G.H."
+      },
+      {
+        "family": "Wilkinson",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "GoWi76"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1976"
+    ],
+    "pages": [
+      "578–619"
+    ],
+    "title": [
+      "Ill-conditioned eigensystems and the computation of the Jordan canonical form"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gratton",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Gra96"
+    ],
+    "container-title": [
+      "BIT"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "523–530"
+    ],
+    "title": [
+      "On the condition number of linear least squares problems in a weighted Frobenius norm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Greenbaum",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "Gre97"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "Iterative Methods for Solving Linear Systems"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Greenbaum",
+        "given": "A."
+      },
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "GrTr94"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Comput"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "359–368"
+    ],
+    "title": [
+      "GMRES/CR and Arnoldi/Lanczos as matrix approximation problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gu",
+        "given": "M."
+      },
+      {
+        "family": "Eisenstat",
+        "given": "S.C."
+      }
+    ],
+    "citation-number": [
+      "GuEi95"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "172–191"
+    ],
+    "title": [
+      "A divide-and-conquer algorithm for the symmetric tridiagonal eigenproblem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gutknecht",
+        "given": "M.H."
+      }
+    ],
+    "citation-number": [
+      "Gut92"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "594 639"
+    ],
+    "title": [
+      "A completed theory of the unsymmetric Lanczos process and related algorithms, part I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hackbusch",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "Hac94"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Iterative Solution of Large Sparse Linear Systems of Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hager",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "Hag88"
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Applied Numerical Linear Algebra"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hammel",
+        "given": "S.M."
+      },
+      {
+        "family": "Yorke",
+        "given": "J.A."
+      },
+      {
+        "family": "Grebogi",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "HYG88"
+    ],
+    "container-title": [
+      "Bull. Amer. Math. Soc"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "465–469"
+    ],
+    "title": [
+      "Numerical orbits of chaotic processes represent true orbits"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hestenes",
+        "given": "M.R."
+      },
+      {
+        "family": "Stiefel",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "HeSt52"
+    ],
+    "container-title": [
+      "J. Res. Nat. Bur. Stand"
+    ],
+    "date": [
+      "1952"
+    ],
+    "pages": [
+      "409–436"
+    ],
+    "title": [
+      "Methods of conjugate gradients for solving linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Higham",
+        "given": "N.J."
+      }
+    ],
+    "citation-number": [
+      "Hig96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "Accuracy and Stability of Numerical Algorithms"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Horn",
+        "given": "R.A."
+      },
+      {
+        "family": "Johnson",
+        "given": "C.R."
+      }
+    ],
+    "citation-number": [
+      "HoJo85"
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Matrix Analysis, Cambridge U"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Horn",
+        "given": "R.A."
+      },
+      {
+        "family": "Johnson",
+        "given": "C.R."
+      }
+    ],
+    "citation-number": [
+      "HoJo91"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Topics in Matrix Analysis, Cambridge U"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Householder",
+        "given": "A.S."
+      }
+    ],
+    "citation-number": [
+      "Hou58"
+    ],
+    "container-title": [
+      "J. Assoc. Comput. Mach"
+    ],
+    "date": [
+      "1958"
+    ],
+    "pages": [
+      "339–342"
+    ],
+    "title": [
+      "Unitary triangularization of a nonsymmetric matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Householder",
+        "given": "Hou64j A.S."
+      }
+    ],
+    "date": [
+      "1964"
+    ],
+    "location": [
+      "Blaisdell, New York"
+    ],
+    "title": [
+      "The Theory of Matrices in Numerical Analysis"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ipsen",
+        "given": "I.C.F."
+      }
+    ],
+    "citation-number": [
+      "Ips97"
+    ],
+    "container-title": [
+      "Helmut Wielandt, Mathematische Werke"
+    ],
+    "date": [
+      "1996"
+    ],
+    "editor": [
+      {
+        "family": "Huppert",
+        "given": "B."
+      },
+      {
+        "family": "Schneider",
+        "given": "H."
+      }
+    ],
+    "genre": [
+      "v. 2,"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "453–463"
+    ],
+    "publisher": [
+      "Mathematical Works",
+      "Walter de Gruyter"
+    ],
+    "title": [
+      "A history of inverse iteration"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Ipsen",
+        "given": "I.C.F."
+      },
+      {
+        "family": "Meyer",
+        "given": "C.D."
+      }
+    ],
+    "citation-number": [
+      "IpMe95"
+    ],
+    "container-title": [
+      "Math. Monthly"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "904–911"
+    ],
+    "title": [
+      "The angle between complementary subspaces, Amer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "102"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobi",
+        "given": "C.G.J."
+      }
+    ],
+    "citation-number": [
+      "Jac46"
+    ],
+    "container-title": [
+      "J. Rcine Angew. Math"
+    ],
+    "date": [
+      "1846"
+    ],
+    "pages": [
+      "51–94"
+    ],
+    "title": [
+      "Uber tin leichtes Verfahren die in der Theorie der Sdcularstorungen vorkomrnenden Gleichungen numerisch aufzulosen"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jenkins",
+        "given": "M.A."
+      },
+      {
+        "family": "Traub",
+        "given": "J.F."
+      }
+    ],
+    "citation-number": [
+      "JeTr70"
+    ],
+    "container-title": [
+      "Numer. Math"
+    ],
+    "date": [
+      "1970"
+    ],
+    "pages": [
+      "252 263"
+    ],
+    "title": [
+      "A three-stage variable-shift iteration for polynomial zeros and its relation to generalized Rayleigh iteration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kahan",
+        "given": "W.M."
+      }
+    ],
+    "citation-number": [
+      "Kah72"
+    ],
+    "date": [
+      "1972"
+    ],
+    "title": [
+      "Conserving confluence curbs ill-condition, unpublished manuscript"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Kaniel",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "Kan66"
+    ],
+    "container-title": [
+      "Math. Coinp"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "369–378"
+    ],
+    "title": [
+      "Estimates for some computational techniques in linear algebra"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kato",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "Kat76"
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Perturbation Theory for Linear Operators, 2nded"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Kelley",
+        "given": "C.T."
+      }
+    ],
+    "citation-number": [
+      "Kel95"
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "SIAM, Philadelphia"
+    ],
+    "title": [
+      "Iterative Methods for Linear and Nonlinear Equations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "N. I. Kokovkin-Shcherbak",
+        "given": "V.V.Klyuyev",
+        "particle": "arid"
+      }
+    ],
+    "citation-number": [
+      "KlKo65"
+    ],
+    "container-title": [
+      "Vychisl. Mat. i Mat. Fiz"
+    ],
+    "date": [
+      "1965",
+      "1965"
+    ],
+    "genre": [
+      "Tech. Rep. CS24,"
+    ],
+    "note": [
+      "translated from the Russian by G. J. Tee,"
+    ],
+    "pages": [
+      "21–33"
+    ],
+    "publisher": [
+      "Computer Science Dept., Stanford University"
+    ],
+    "title": [
+      "On the minimization of the number of arithmetic operations for the solution of linear algebraic systems of equations, Zh"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kozen",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "Koz92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer- Verlag"
+    ],
+    "title": [
+      "The Design and Analysis of Algorithms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Krylov",
+        "given": "A.N."
+      }
+    ],
+    "citation-number": [
+      "Kry31"
+    ],
+    "container-title": [
+      "Akad. Nauk. S. S. S. R. Otd Mat. Estest"
+    ],
+    "date": [
+      "1931"
+    ],
+    "pages": [
+      "491–539"
+    ],
+    "title": [
+      "On the numerical solution of equations which in technical questions are determined by the frequency of small vibrations of material systems, Izv"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kublanovskaya",
+        "given": "V.N."
+      }
+    ],
+    "citation-number": [
+      "Kub61"
+    ],
+    "container-title": [
+      "Math. Phys"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "637–657"
+    ],
+    "title": [
+      "On some algorithms for the solution of the complete eigenvalue problem, USSR Comp"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lanczos",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Lan50"
+    ],
+    "container-title": [
+      "J. Res. Nat. Bur. Stand"
+    ],
+    "date": [
+      "1950"
+    ],
+    "pages": [
+      "255–282"
+    ],
+    "title": [
+      "An iteration method for the solution of the eigenvalue problem of linear differential and integral operators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lanczos",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "Lan52"
+    ],
+    "container-title": [
+      "J. Res. Nat. Bur. Stand"
+    ],
+    "date": [
+      "1952"
+    ],
+    "pages": [
+      "33–53"
+    ],
+    "title": [
+      "Solution of systems of linear equations by minimized iterations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lawson",
+        "given": "C.L."
+      },
+      {
+        "family": "Hanson",
+        "given": "R.J."
+      }
+    ],
+    "citation-number": [
+      "LaHa95"
+    ],
+    "title": [
+      "Solving Least Squares Problems, SIAM, Philadelphia, 1995 (reprinting with corrections and a new appendix of a 1974 Prentice Hall text"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lehoucq",
+        "given": "R.B."
+      },
+      {
+        "family": "Sorensen",
+        "given": "D.C."
+      }
+    ],
+    "citation-number": [
+      "LeSo96"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "789–821"
+    ],
+    "title": [
+      "Deflation techniques for an implicitly restarted Arnoldi iteration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mackey",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "Mac95"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "421–435"
+    ],
+    "title": [
+      "Hamilton and Jacobi meet again: Quaternions and the eigenvalue problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Meerbergen",
+        "given": "K."
+      },
+      {
+        "family": "Roose",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "MeRo96"
+    ],
+    "container-title": [
+      "IMA J. Numer. Anal"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "297–346"
+    ],
+    "title": [
+      "Matrix transformations for computing rightmost eigenvalues of large sparse non-symmetric eigenvalue problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Mehta",
+        "given": "MehQl] M.L."
+      }
+    ],
+    "date": [
+      "1991"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Random Matrices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Meijerink",
+        "given": "J."
+      },
+      {
+        "family": "Vorst",
+        "given": "H.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "Meva77"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "148–162"
+    ],
+    "title": [
+      "An iterative solution method for linear systems of which the coefficient matrix is a symmetric M-matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nachtigal",
+        "given": "N.M."
+      },
+      {
+        "family": "Reddy",
+        "given": "S.C."
+      },
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "NRT92"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "778–795"
+    ],
+    "title": [
+      "How fast are nonsymmetric matrix iterations?"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nevanlinna",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "Nev93"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Basel"
+    ],
+    "publisher": [
+      "Birkhauser"
+    ],
+    "title": [
+      "Convergence of Iterations for Linear Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ostrowski",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "Ost59"
+    ],
+    "container-title": [
+      "Arch. Rational Mech. Anal"
+    ],
+    "date": [
+      "1959"
+    ],
+    "pages": [
+      "341 347"
+    ],
+    "title": [
+      "On the convergence of the Rayleigh quotient iteration for the computation of characteristic roots and vectors, IV. Generalized Rayleigh quotient for nonlinear elementary divisors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Paige",
+        "given": "C.C."
+      }
+    ],
+    "citation-number": [
+      "Pai71"
+    ],
+    "date": [
+      "1971"
+    ],
+    "genre": [
+      "PhD diss.,"
+    ],
+    "publisher": [
+      "U. of London"
+    ],
+    "title": [
+      "The Computation of Eigenvalues and Eigenvectors of Very Large Sparse Matrices"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Pan",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "Pan84"
+    ],
+    "container-title": [
+      "Notes in Comp. Sci"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "How to Multiply Matrices Faster, Lee"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "v. 179"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Parlett",
+        "given": "ParSO] B.N."
+      }
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The Symmetric Eigenvalue Problem"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Parlett",
+        "given": "B.N."
+      },
+      {
+        "family": "Taylor",
+        "given": "D.R."
+      },
+      {
+        "family": "Z. A. Liu",
+        "particle": "arid"
+      }
+    ],
+    "citation-number": [
+      "PTL85"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "105–124"
+    ],
+    "title": [
+      "A look-ahead Lanczos algorithm for unsymmetric matrices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Peters",
+        "given": "G."
+      },
+      {
+        "family": "Wilkinson",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "PeWi79"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "339–360"
+    ],
+    "title": [
+      "Inverse iteration, ill-conditioned equations and Newton's method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "21"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rice",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "Ric66"
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1966"
+    ],
+    "pages": [
+      "287–310"
+    ],
+    "title": [
+      "A theory of condition"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Saad",
+        "given": "SaaSO] Y."
+      }
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "687–706"
+    ],
+    "title": [
+      "On the rates of convergence of the Lanczos and the block Lanczos methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Saad",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "Saa92"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Manchester, UK"
+    ],
+    "publisher": [
+      "Manchester U. Press"
+    ],
+    "title": [
+      "Numerical Methods for Large Eigenvalue Problems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Saad",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "Saa96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "PWS Publishing"
+    ],
+    "title": [
+      "Iterative Methods for Sparse Linear Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Saad",
+        "given": "Y."
+      },
+      {
+        "family": "Schultz",
+        "given": "M.H."
+      }
+    ],
+    "citation-number": [
+      "SaSc86"
+    ],
+    "container-title": [
+      "Sci. Stat. Comput"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "856–869"
+    ],
+    "title": [
+      "GMRES: A generalized minimal residual algorithm for solving nonsymmetric linear systems, SIAM ,1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Skeel",
+        "given": "R.D."
+      }
+    ],
+    "citation-number": [
+      "Ske79"
+    ],
+    "container-title": [
+      "J. Assoc. Comput. Mach"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "494–526"
+    ],
+    "title": [
+      "Scaling for numerical stability in Gaussian elimination"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Skeel",
+        "given": "SkeSO] R.D."
+      }
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1980"
+    ],
+    "pages": [
+      "817–832"
+    ],
+    "title": [
+      "Iterative refinement implies numerical stability for Gaussian elimination"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sleijpen",
+        "given": "G.L.G."
+      },
+      {
+        "family": "Vorst",
+        "given": "H.A.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "Slvd96"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "401–425"
+    ],
+    "title": [
+      "A Jacobi Davidson iteration method for linear eigenvalue problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "B.T."
+      },
+      {
+        "others": true
+      }
+    ],
+    "citation-number": [
+      "Smi76"
+    ],
+    "date": [
+      "1976"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Matrix Eigensystem Routines—EISPACK Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "B."
+      },
+      {
+        "family": "Bj0rstad",
+        "given": "P."
+      },
+      {
+        "family": "Gropp",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "SBG96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Cambridge U. Press"
+    ],
+    "title": [
+      "Domain Decomposition: Parallel Multilevel Methods for Elliptic Partial Differential Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smithies",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "Smi70"
+    ],
+    "date": [
+      "1970"
+    ],
+    "location": [
+      "Cambridge, UK"
+    ],
+    "publisher": [
+      "Press"
+    ],
+    "title": [
+      "Integral Equations, Cambridge U"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Sonnevcld",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "Son89"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Stat. Comput"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "36–52"
+    ],
+    "title": [
+      "COS, a fast Lanczos-type solver for nonsymmetric linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "Ste73"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Introduction to Matrix Computations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "Ste77"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1977"
+    ],
+    "pages": [
+      "634–662"
+    ],
+    "title": [
+      "On the perturbation of pseudo-inverses, projections, and linear least squares problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "Ste93"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "551–566"
+    ],
+    "title": [
+      "On the early history of the singular value decomposition"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Stewart",
+        "given": "G.W."
+      },
+      {
+        "family": "Sun",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "StSu90"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Matrix Perturbation Theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Stigler",
+        "given": "S.M."
+      }
+    ],
+    "citation-number": [
+      "Sti86"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Cambridge, MA"
+    ],
+    "publisher": [
+      "Harvard U. Press"
+    ],
+    "title": [
+      "The History of Statistics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Str86"
+    ],
+    "container-title": [
+      "Appl. Math"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "171–176"
+    ],
+    "title": [
+      "A proposal for Toeplitz matrix calculations, Stud"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "74"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Strang",
+        "given": "Str88j G."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Harcourt, Brace, and Jovanovich"
+    ],
+    "title": [
+      "Linear Algebra and Its Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Strassen",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "Str69"
+    ],
+    "container-title": [
+      "Math"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "354–356"
+    ],
+    "title": [
+      "Gaussian elimination is not optimal, Numer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Szego",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "Sze75"
+    ],
+    "date": [
+      "1975"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "publisher": [
+      "Amer. Math. Soc"
+    ],
+    "title": [
+      "Orthogonal Polynomials"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "L. N. Trefethen",
+        "given": "K.-C.Toh",
+        "particle": "arid"
+      }
+    ],
+    "citation-number": [
+      "ToTr94"
+    ],
+    "container-title": [
+      "Math"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "403–425"
+    ],
+    "title": [
+      "Pseudozeros of polynomials andpseudospectra of companion matrices, Numer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "68"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Toh",
+        "given": "K.-C."
+      },
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "ToTr96"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Comput"
+    ],
+    "date": [
+      "1996"
+    ],
+    "pages": [
+      "1–15"
+    ],
+    "title": [
+      "Computation of pseudospectra by the Arnoldi iteration"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Toh",
+        "given": "K.-C."
+      },
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "ToTr98"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "400–419"
+    ],
+    "title": [
+      "The Chebyshev polynomials of a matrix"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "Trc91"
+    ],
+    "container-title": [
+      "Numerical Analysis 1991"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Griffiths",
+        "given": "D.F."
+      },
+      {
+        "family": "Watson",
+        "given": "G.A."
+      },
+      {
+        "given": "eds"
+      }
+    ],
+    "location": [
+      "Harlow, Essex, UK"
+    ],
+    "pages": [
+      "234–266"
+    ],
+    "publisher": [
+      "Longman Scientific and Technical"
+    ],
+    "title": [
+      "Pseudospectra of matrices"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      }
+    ],
+    "citation-number": [
+      "Tre97"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1997"
+    ],
+    "pages": [
+      "383–406"
+    ],
+    "title": [
+      "Pseudospectra of linear operators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      },
+      {
+        "family": "Schreiber",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "TrSc90"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "335–360"
+    ],
+    "title": [
+      "Average-case stability of Gaussian elimination"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      },
+      {
+        "family": "Trefethen",
+        "given": "A.E."
+      },
+      {
+        "family": "Reddy",
+        "given": "S.C."
+      },
+      {
+        "family": "Driscoll",
+        "given": "T.A."
+      }
+    ],
+    "citation-number": [
+      "TTRD93"
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "578–584"
+    ],
+    "title": [
+      "Hydrodynamic stability without eigenvalues"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "261"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trefethen",
+        "given": "L.N."
+      },
+      {
+        "family": "Viswanath",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "TrVi98"
+    ],
+    "container-title": [
+      "SIAM J. Matrix Anal. Appl"
+    ],
+    "date": [
+      "1998"
+    ],
+    "pages": [
+      "565–581"
+    ],
+    "title": [
+      "Condition numbers of random triangular matrices"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "19"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trefethen",
+        "given": "TrWeOl] L.N."
+      },
+      {
+        "family": "Weideman",
+        "given": "J.A.C."
+      }
+    ],
+    "container-title": [
+      "J. Approx. Theory"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "247–260"
+    ],
+    "title": [
+      "Two results on polynomial interpolation in equally spaced points"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "65"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Turing",
+        "given": "A.M."
+      }
+    ],
+    "citation-number": [
+      "Tur48"
+    ],
+    "container-title": [
+      "Quart. J. Mech. Appl. Math"
+    ],
+    "date": [
+      "1948"
+    ],
+    "pages": [
+      "287 308"
+    ],
+    "title": [
+      "Rounding-off errors in matrix processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Sluis",
+        "given": "A.",
+        "particle": "van der"
+      }
+    ],
+    "citation-number": [
+      "vdS75"
+    ],
+    "container-title": [
+      "Math"
+    ],
+    "date": [
+      "1975"
+    ],
+    "pages": [
+      "241–254"
+    ],
+    "title": [
+      "Stability of the solutions of linear least squares problems, Numer"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Vorst",
+        "given": "H.A.",
+        "particle": "van dcr"
+      }
+    ],
+    "citation-number": [
+      "vdV92"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Stat. Comput"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "631–644"
+    ],
+    "title": [
+      "Bi-CGSTAB: A fast and smoothly convergent variant of Bi-CG for the solution of nonsymmetric linear systems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Varga",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "Var62"
+    ],
+    "date": [
+      "1962"
+    ],
+    "location": [
+      "Englewood Cliffs, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Matrix Iterative Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Watkins",
+        "given": "D.S."
+      },
+      {
+        "family": "Watkins",
+        "given": "D.S."
+      }
+    ],
+    "citation-number": [
+      "Wat82",
+      "Wat,91"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1982",
+      "1991"
+    ],
+    "location": [
+      "New York"
+    ],
+    "pages": [
+      "427 440"
+    ],
+    "publisher": [
+      "W'iley"
+    ],
+    "title": [
+      "Understanding the QR algorithm",
+      "Fundamentals of Matrix Computations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wedin",
+        "given": "P.-A."
+      }
+    ],
+    "citation-number": [
+      "Wed73"
+    ],
+    "container-title": [
+      "BIT"
+    ],
+    "date": [
+      "1973"
+    ],
+    "pages": [
+      "217–232"
+    ],
+    "title": [
+      "Perturbation theory for pseudo-inverses"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "Wei96"
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Akademie Verlag"
+    ],
+    "title": [
+      "Parameter-Free Iterative Linear Solvers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "W1161"
+    ],
+    "container-title": [
+      "J. Assoc. Comput. Mach"
+    ],
+    "date": [
+      "1961"
+    ],
+    "pages": [
+      "281–330"
+    ],
+    "title": [
+      "Error analysis of direct methods of matrix inversion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "Wil65"
+    ],
+    "date": [
+      "1965"
+    ],
+    "location": [
+      "Oxford, UK"
+    ],
+    "publisher": [
+      "Clarendon Press"
+    ],
+    "title": [
+      "The Algebraic Eigenvalue Problem"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wright",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "Wri93"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Comput"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Index"
+    ],
+    "pages": [
+      "231–238"
+    ],
+    "title": [
+      "A collection of problems for which Gaussian elimination with partial pivoting is unstable"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  }
+]
