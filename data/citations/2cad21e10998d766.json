@@ -1,0 +1,161 @@
+[
+  {
+    "note": [
+      "PROCEDURE LIB$STOP (DIMMED Cond.Value: INTEGER); EXTERNAL;"
+    ],
+    "type": null
+  },
+  {
+    "location": [
+      "INTEGER); EXTERN"
+    ],
+    "title": [
+      "F-22 Examples of Using System Services PROCEDURE LIB$STOP( '/.IMMED Cond.Value"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "note": [
+      "Source Program Number 3: PROGRAM Indexed (INPUT, OUTPUT);"
+    ],
+    "title": [
+      "The STATUS function is used to detect file access errors. The program performs certain operations if the status is SUCCESS or ERRDURFIN. If any other errors occur, LIB$STOP is called"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "(119,210,220)"
+    ],
+    "pages": [],
+    "title": [
+      "CONST Prompt = 'Enter department"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "note": [
+      "* Read first dept.key record *) © FINDK (Employees, Key_Number:= 0, Key_Value:= Dept.Key);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "1-10 By-reference mechanism • 3-9 sizes* 1-10 %REF specifier with *3-12 Alternate keys *4-24 REFERENCE attribute with *3-13 characteristics of *4-25 value semantics with *3-10 Argument pointers variable semantics with *3-11 saved by routine call • 3-3 By-string-descriptor mechanism *3-18, Array 3-19 multidimensional, packing • E-8"
+    ],
+    "title": [
+      "Access method AST routines direct *4-5 attributes required for *3-7 file *4-2 ASYNCHRONOUS attribute keyed • 4-24 required for condition handler *5-6 sequential • 4-12, 4-24 use with Run-Time Library routines* Access-method parameter 3-32 of OPEN procedure *4-12 Asynchronous system traps *3-7 Actual parameter definition of *3-8 B mechanism specifier on®3-20 ADDRESS function BITNEXT function* 1-14 conflict with optimization • 2-14 BITSIZE function* 1-14 Addresses Block as foreign mechanism parameters • 3-22 allocation of* 1-7 required by PASCAL routine *3-22 BOOLEAN type ALIGNED attribute* 1-16 allocation size of* 1-11 Alignment Bound procedure value *3-13 of variables* 1-16 required by PASCAL routine *3-22 Alignment attributes* 1-16 Branch Allocation to longword-aligned address *2-10 attributes • 1 -6 By-descriptor mechanism*3-14 in common block* 1-4 By-immediate-value mechanism in program section • 1 -2 %IMMED specifier with *3-13 of subrange component*E-9 IMMEDIATE attribute with *3-14 of variables* 1-6"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2-Index"
+    ],
+    "title": [
+      "Descriptors EXTERNAL attribute %DESCR mechanism specifier • 3-14, effect on routine call *3-7 3-19 similarity to UNBOUND *3-7 on actual parameters • 3-21 External routines required by PASCAL routine*3-22 calling PASCAL routine from *3-22 Direct access to files • 4-5 passing parameters to *3-7 Disposition parameter of CLOSE procedure • 4-20 F of OPEN procedure *4-15 DOUBLE type FAB allocation size of* 1-11 access to*D-1 representation of* 1-21 Fault"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4-Index"
+    ],
+    "container-title": [
+      "LIB$SIM_TRAP procedure *5-12 MOD operator LIB$STOP procedure decommitted definition of*E-10 use to signal condition • 5-4 MTHDEF.PAS definition file *3-34 LIBDEF.PAS definition file • 3-34 Multidimensional array Line buffer*4-32 effect of packing • E-8 LIST attribute packing • 1-17 use with Run-Time Library routine *3-33 SLOCAL program section*"
+    ],
+    "note": [
+      "N LOCATE procedure for direct access *4-5, 4-12 Network *4-37 Locked record *4-23 Next component pointer *4-26 in indexed file *4-23 NEXT function *1-14 in relative file • 4-23 /NOOPTIMIZE attribute unlocking • 4-23 use of in optimization • 2-13 Logical expressions NOOPTIMIZE attribute optimization of *2-8 use of in optimization • 2-13"
+    ],
+    "pages": [
+      "3–19",
+      "1–2"
+    ],
+    "title": [
+      "Interprocess communication • 4-36 Mechanism arrays *5-7 Mechanism specifier • 3-9 K Mechanism specifiers %DESCR* 3-19 KEY attribute • 4-24 %IMMED • 3-13 Key field IMMEDIATE *3-14 alternate • 4-24 on actual parameters *3-20 characteristics of *4-25 on formal parameters • 3-8 defining • 4-24 %REF *3-12 duplicating • 4-27 REFERENCE *3-13 in indexed file *4-3 %STDESCR* 3-18 primary *4-3, 4-24 Mechanisms Keyed access method *4-5, 4-24 by-descriptor* 3-14 by-immediate-value L %IMMED specifier • 3-13 IMMEDIATE attribute • 3-14 Lazy lookahead • 4-34 by-reference • 3-9 LIB$ESTABLISH routine %REF specifier with *3-12 use to establish condition handler •5-6 REFERENCE attribute • 3-13 LIB$MATCH_COND function *5-11 value semantics with *3-10 LIB$SIGNAL procedure variable semantics with *3-11 use to signal condition •"
+    ],
+    "type": "chapter",
+    "volume": [
+      "5-4 by-string-descriptor *3-18"
+    ]
+  },
+  {
+    "citation-number": [
+      "6-Index"
+    ],
+    "issue": [
+      "*4-6"
+    ],
+    "note": [
+      "on indexed file *4-27 %REF mechanism specifier*3-12 on actual parameter variable • 3-21 Q REFERENCE attribute • 3-13 Reference mechanism • 3-9 Quadruple-precision data Registers representation of* 1-11, 1-23 assignment of variables to *2-2"
+    ],
+    "pages": [
+      "4–13"
+    ],
+    "title": [
+      "Prompting Records of text file • 4-33 in RMS *4-32 Propagation variant* 2-15 value • 2-9 Records in files PSECT attribute* 1-3 fixed-length • 4-6, 4-13 PUT procedure stream *4-13 for sequential access"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "genre": [
+      "Remote communication • 4-37"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "with REFERENCE parameter*3-13 REVERT procedure • 5-7 with system services • 3-24 REWRITE procedure with variable semantics • 3-11 for sequential access *4-12 REAL type Routines allocation size of*"
+    ],
+    "note": [
+      "AST) *3-7 representation of* 1-19 external"
+    ],
+    "pages": [
+      "3–32",
+      "1–11"
+    ],
+    "title": [
+      "RAB REPEAT statement access to* D-2 use for efficiency • 2-11 READ procedure RESET procedure for sequential access *4-12 for sequential access *4-12 with character string *E-10 RESETK procedure READONLY attribute for keyed access *4-5, 4-12 effect on allocation* 1-7 use on indexed file *4-28 on pointer variables*2-14 Resource sharing *4-37 with %DESCR parameter*3-19 Return values with %REF parameter*3-12 function • 3-2 with %STDESCR parameter*3-18 Run-Time Library routines •"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Library",
+        "given": "Run-Time"
+      }
+    ],
+    "container-title": [
+      "storage of when unpacked *E-9 Subexpressions Sharing optimization of *2-4 of files *4-22 Subrange type of resources *4-37 allocation size of • 1-11 Sharing parameter Symbol definition files *3-34 of OPEN procedure • 4-15 Symbolic constants SIGDEF.PAS definition file"
+    ],
+    "note": [
+      "allocation of* 1-7 Signal arrays • 5-7 SYSSUNWIND function in condition handlers *5-7 called by condition handler *5-9 SINGLE type System services allocation size of • 1-11 ASYNCHRONOUS required • 3-23 representation of* 1-19 called as procedure*3-27"
+    ],
+    "pages": [
+      "1–17",
+      "3–34"
+    ],
+    "title": [
+      "Size attributes condition symbols03-34 effect on allocation* 1-11 declaring in PASCAL *C-1 with data structure parameter • 3-25 parameters to routine from • 3-32 SIZE function *1-14 symbol definitions for *3-34 SS$_CONTINUE return value using LIST attribute with *3-33 returned by condition handler *5-9 SS$_RESIGNAL return value S returned by condition handler *5-9 STARLET files Semantics contents of *3-30 foreign *3-12 Statements implied by %DESCR*3-19 optimization of *2-6 implied by %REF*3-12 STATIC attribute implied by %STDESCR*3-18 effect on allocation* 1-7 value* 3-10 STATUS function with system services • 3-24 conditions detected by*B-1 variable* 3-11 testing indexed file with *4-31 implied by %DESCR*3-19 use after READLN*4-7 implied by %REF*3-12 %STDESCR mechanism specifier • 3-18 implied by %STDESCR*3-18 on actual parameter variable • 3-21 implied by REFERENCE • 3-13 Storage Allocation • 1-6, 1-10 with system services • 3-24 Stream record format *4-7 Sequential access *4-2 STREAM_CR • 4-7 methods *4-24 STREAM_LF • 4-7 to indexed file *4-5 String-descriptor mechanism *3-18, 3-19 to relative file • 4-5 Structured statements Sequential files optimization of *2-6 direct access to *4-5 use for efficiency *2-11 organization parameter • 4-14 Structured type SET type as function result type *3-2 allocation size of* 1-11 packing of*"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "8-Index"
+    ],
+    "note": [
+      "CHAR type of constants • 2-3 allocation size of® 1-11 as function result type®3-2 U representation of® 1-18 VAX Procedure Calling Standard®3-1 UFB function VAX Run-Time Library on indexed file®4-29 calling routines from®3-32 testing indexed file with®4-31 VAX/VMS system service UN ALIGNED attribute® 1-16 calling from PASCAL®3-23 UNBOUND attribute Visibility attributes effect on routine call • 3-7 effect on allocation® 1-6"
+    ],
+    "title": [
+      "System services (cont'd.) UPPER function • E-3 parameters to • 3-23 User-action function passing parameters to *3-24 parameters to®4-16, 4-21 VAX/VMS* 3-23 to close a file®4-20 System symbol definitions03-34 to open a file®4-16 use to create indexed file®4-24 T User-action parameter of CLOSE procedure®4-20 Temporary variables of OPEN procedure • 4-16 avoid for efficiency • 2-12 Terminal V output to *4-33 Text file Value semantics®3-10 buffering of characters in • 4-32 with system services®3-24 component of *4-32 Variable semantics®3-11 contrasted with FILE OF CHAR ®E-10 implied by %DESCR®3-19 delayed device access to *4-34 implied by %REF®3-12 input and output on *4-32 implied by %STDESCR® 3-18 output to terminal • 4-33 implied by REFERENCE • 3-13 prompting of®4-33 with system services • 3-24 use to supply input®4-34 Variable-length record • 4-6 TEXT type Variables 32-bit rule® 1-10 alignment of® 1-16 Trap allocation in common block® 1-4, 1-6 condition handling for®5-11 allocation in program section® 1-6 TRUNCATE procedure allocation of® 1-10 for sequential access®4-12 avoid for efficiency • 2-12 Type cast operation pointer • 2-14 optimization of®2-16 storage allocation® 1-6 Type conversion VARYING OF"
+    ],
+    "type": null
+  }
+]
