@@ -1,0 +1,186 @@
+[
+  {
+    "container-title": [
+      "1390 DATA \"BATON ROUGE\" , \"LOUISIANA\" , \"CAIRO\" , \"EGYPT\" 1400 DATA \"MONTGOMERY\" , \"ALABAMA\""
+    ],
+    "location": [
+      "CANBERRA\" , \"AUSTRALIA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1410 DATA \"HELENA\" , \"MONTANA\" , \"WELLINGTON\" , \"NEW ZEALAND\" 1420 DATA \"DENVER\" , \"COLORADO\" , \"OTTOWA\""
+    ],
+    "location": [
+      "CANADA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "DATA \"PROVIDENCE\", \"RHODE ISLAND\""
+      }
+    ],
+    "citation-number": [
+      "1430"
+    ],
+    "container-title": [
+      "1440 DATA \"TRENTON\", \"NEW JERSEY\" , \"MEXICO CITY\" , \"MEXICO\" 1450 DATA \"JUNEAU\" , \"ALASKA\" , \"HAVANA\""
+    ],
+    "location": [
+      "CUBA"
+    ],
+    "title": [
+      "WASHINGTON D.C.\",\"USA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1460 DATA \"CONCORD\" , \"NEW HAMPSHIRE\" , \"BOGOTA\" , \"COLUMBIA\" 1470 DATA \"BISMARCK\" , \"NORTH DAKOTA\" , \"QUITO\" , \"EQUADOR\" 1480 DATA \"SALT LAKE CITY\", \"UTAH\", \"LIMA\", \"PERU\" 1490 DATA \"LINCOLN\" , \"NEBRASKA\" , \"LA PAZ\" , \"BOLIVIA\" 1500 DATA \"DES MOINES\""
+    ],
+    "location": [
+      "IOWA\", \"SANTIAGO\", \"CHILE"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1510 DATA \"JEFFERSON CITY\" , \"MISSOURI\" , \"BRASILIA\""
+    ],
+    "location": [
+      "BRAZIL"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "DATA \"MADISON\""
+      }
+    ],
+    "citation-number": [
+      "1520"
+    ],
+    "container-title": [
+      "\"BUENES AIRES\""
+    ],
+    "location": [
+      "ARGENTINA"
+    ],
+    "title": [
+      "WISCONSIN\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1530 DATA \"BOSTON\""
+    ],
+    "location": [
+      "MASSACHUSETTS",
+      "MONTEVIDEO",
+      "URUGUAY"
+    ],
+    "publisher": [
+      "",
+      ""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1540 DATA \"COLUMBIA\" , \"SOUTH CAROLINA\" , \"CARACAS\""
+    ],
+    "location": [
+      "VENEZUELA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1550 DATA'\"INDIANAPOLIS\" , \"INDIANA\" , \"ASUNCION\" , \"PARAGUAY\" 1560 DATA'\"COLUMBUS\" , \"OHIO\""
+    ],
+    "location": [
+      "SOFIA\" , \"BULGARIA"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1570 DATA'\"HARRISBURG\" , \"PENNSYLVANIA\" , \"BUCHAREST\" , \"RUMANIA\" 1580 DATA\"\"ANNAPOLIS\" , \"MARYLAND\""
+    ],
+    "location": [
+      "JERUSALEM\" , \"ISRAEL"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1675 REM *** END OF DIFFERENTIAL AMPLIFIER SCHEMATIC SUBROUTINES ***"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1680 INPUT'PRESS ENTER TO CONTINUE\",-A"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1690 CLS:PRINT\"THE ABBREVIATED TERMS USED IN THE SCHEMATIC OF THE DIF-\" 1695 PRINT\"FERENTIAL AMPLIFIER ARE DEFINED AS FOLLOWS:\" 1700 PRINT:PRINT\"Q1=Q2=NPN TRANSISTORS\" 1710 FRINT\"R1=R2=MATCHED RESISTORS\" 1720 PRINT\"IS=CONSTANT CURRENT SINK\" 1730 PRINT\"IN1=INPUT 1\" 1740 PRINT\" IN2=INPUT 2\" 1750 PRINT\"OUTl=OUTPUT 1\" 1760 PRINT\"OUT2=OUTPUT 2\" 1770 PRINT\"+V=POSITIVE SUPPLY VOLTAGE\" 1780 PRINT\"-V=NEGATIVE SUPPLY VOLTAGE\" 1785 PRINT\" I1=CURRENT FLOW THROUGH Ql\" 1786 PRINT\"I2=CURRENT FLOW THROUGH Q2\" 1790 PRINT: INPUT\"PRESS ENTER TO CONTINUE\";A 1800 CLS:PRINTei8, \"CIRCUIT ANALYSIS\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1810 PRINT:PRINT\" AS I SAID EARLIER, THE KEY TO THE DIFFERENTIAL\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1820 PRINT'AMPLIFIER'S PERFORMANCE IS DESIGN SYMMETRY"
+    ],
+    "location": [
+      "THEREFORE, FOR"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1830 PRINT\"THIS ANALYSIS THE FOLLOWIING ASSUMPTIONS WILL BE MADE:\": PRINT 1840 PRINT\". -' 1) Ql AND Q2 ARE PERFECTLY MATCHED TRANSISTORS.\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1850 PRINT\" 2) Rl AND R2 ARE PERFECTLY MATCHED RESISTORS.\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1860 PRINT\" 3) EQUAL INPUT VOLTAGES ARE APPLIED TO EACH INPUT.\" 1870 PRINT\""
+    ],
+    "pages": [
+      "1 2"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1880 PRINT: PRINT\" THE CONSTANT CURRENT SINK (IS) SINKS A CONSTANT\""
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "1890 PRINT\"CURRENT AT ALL TIMES, REGARDLESS OF OTHER CIRCUIT CONDITIONS.\""
+    ],
+    "type": "chapter"
+  }
+]
