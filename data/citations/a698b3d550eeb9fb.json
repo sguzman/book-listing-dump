@@ -1,0 +1,162 @@
+[
+  {
+    "author": [
+      {
+        "family": "Map<String",
+        "given": "Map<S.U.B.J.E.C.T."
+      }
+    ],
+    "title": [
+      "List<Double>>> map = new HashMap<>("
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2016-12-28"
+    ],
+    "note": [
+      "Task 7 is sleeping for 8 seconds Dec 28, 2016 2:21:07 PM AsyncMaintenanceTaskCompleter run INFO: Task 6 is done sleeping Dec 28, 2016 2:21:07 PM AsyncMaintenanceTaskCompleter run INFO: Task 3 is done sleeping Dec 28, 2016 2:21:09 PM AsyncMaintenanceTaskCompleter run INFO: Task 2 is done sleeping Dec 28, 2016 2:21:10 PM AsyncMaintenanceTaskCompleter run INFO: Task 0 is done sleeping Dec 28, 2016 2:21:11 PM AsyncMaintenanceTaskCompleter run INFO: Task 7 is done sleeping Dec 28, 2016 2:21:12 PM AsyncMaintenanceTaskCompleter run INFO: Task 4 is done sleeping Dec 28, 2016 2:21:12 PM AsyncMaintenanceTaskCompleter run INFO: Task 1 is done sleeping Dec 28, 2016 2:21:13 PM AsyncMaintenanceTaskCompleter run INFO: Task 5 is done sleeping Dec 28, 2016 2:21:17 PM AsyncMaintenanceTaskCompleter run INFO: Task 9 is done sleeping Dec 28, 2016 2:21:21 PM AsyncMaintenanceTaskCompleter run INFO: Task 8 is done sleeping"
+    ],
+    "title": [
+      "2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 8 is sleeping for 18 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 6 is sleeping for 4 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 2 is sleeping for 6 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 3 is sleeping for 4 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 9 is sleeping for 14 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 4 is sleeping for 9 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 5 is sleeping for 10 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 0 is sleeping for 7 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO: Task 1 is sleeping for 9 seconds Dec 28, 2016 2:21:03 PM AsyncMaintenanceTaskCompleter run INFO"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2016-12-28"
+    ],
+    "note": [
+      "seconds Dec 28, 2016 3:07:17 PM AsyncValueTypeTaskCompleter call INFO: Task 9 is done sleeping Dec 28, 2016 3:07:17 PM AsyncExample2 main INFO: A task just completed after sleeping for 2 seconds Dec 28, 2016 3:07:19 PM AsyncValueTypeTaskCompleter call INFO: Task 3 is done sleeping Dec 28, 2016 3:07:19 PM AsyncExample2 main INFO: A task just completed after sleeping for 4 seconds Dec 28, 2016 3:07:20 PM AsyncValueTypeTaskCompleter call INFO: Task 0 is done sleeping Dec 28, 2016 3:07:20 PM AsyncExample2 main INFO: A task just completed after sleeping for 5 seconds Dec 28, 2016 3:07:21 PM AsyncValueTypeTaskCompleter call INFO: Task 5 is done sleeping Dec 28, 2016 3:07:21 PM AsyncExample2 main INFO: A task just completed after sleeping for 6 seconds Dec 28, 2016 3:07:25 PM AsyncValueTypeTaskCompleter call INFO: Task 1 is done sleeping Dec 28, 2016 3:07:25 PM AsyncExample2 main"
+    ],
+    "title": [
+      "3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 7 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 8 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 2 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 1 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 4 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 9 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 0 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 6 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 5 is sleeping Dec 28, 2016 3:07:15 PM AsyncValueTypeTaskCompleter call INFO: Task 3 is sleeping Dec 28, 2016 3:07:16 PM AsyncValueTypeTaskCompleter call INFO: Task 8 is done sleeping Dec 28, 2016 3:07:16 PM AsyncExample2 main INFO: A task just completed after sleeping for 1 seconds Dec 28, 2016 3:07:17 PM AsyncValueTypeTaskCompleter call INFO: Task 2 is done sleeping Dec 28, 2016 3:07:17 PM AsyncExample2 main INFO: A task just completed after sleeping for 2"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2016-12-28"
+    ],
+    "note": [
+      "Task 4 is done sleeping Dec 28, 2016 3:07:31 PM AsyncExample2 main INFO: A task just completed after sleeping for 16 seconds"
+    ],
+    "title": [
+      "3:07:27 PM AsyncValueTypeTaskCompleter call INFO: Task 6 is done sleeping Dec 28, 2016 3:07:27 PM AsyncExample2 main INFO: A task just completed after sleeping for 12 seconds Dec 28, 2016 3:07:29 PM AsyncValueTypeTaskCompleter call INFO: Task 7 is done sleeping Dec 28, 2016 3:07:29 PM AsyncExample2 main INFO: A task just completed after sleeping for 14 seconds Dec 28, 2016 3:07:31 PM AsyncValueTypeTaskCompleter call INFO"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "title": [
+      "The write(a) action happens-before the write(b) action"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "title": [
+      "The write(b) action happens-before the read(a) action"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "3."
+    ],
+    "title": [
+      "The read(a) action happens-before the read(a) action"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rule",
+        "given": "By Happens-Before"
+      }
+    ],
+    "note": [
+      "write(a) happens-before write(b) AND write(b) happens-before read(a) IMPLIES write(a) happens-before read(a)."
+    ],
+    "pages": [
+      "4"
+    ],
+    "type": null,
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "write(b) happens-before read(a) AND read(a) happens-before read(b) IMPLIES write(b) happens-before read(b)."
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Rule",
+        "given": "By Happens-Before"
+      }
+    ],
+    "note": [
+      "The write(a) action happens-before the volatile-write(a) action. 2. The volatile-read(a) action happens-before the read(b) action."
+    ],
+    "pages": [
+      "1"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rule",
+        "given": "By Happens-Before"
+      }
+    ],
+    "pages": [
+      "3"
+    ],
+    "title": [
+      "The volatile-write(a) action in the first thread happens-before the volatile-read(a) action in the second thread"
+    ],
+    "type": null,
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "GoalKickercom"
+      }
+    ],
+    "note": [
+      "super.fnRealTimeScan(); super.fnVirusMalwareScan(); }; //ClsPaidVersion IS-A ClsVirusScanner //Child Class 2 class ClsTrialVersion extends ClsVirusScanner{ @Override public void fnStartScan() { super.fnInternetSecutiry(); super.fnVirusMalwareScan();"
+    ],
+    "title": [
+      "Java® Notes for Professionals 830 super.fnInternetSecutiry("
+    ],
+    "type": null
+  },
+  {
+    "type": null,
+    "url": [
+      "http://www.w3.org/2001/XMLSchema",
+      "http://www.stackoverflow.com/users",
+      "http://www.stackoverflow.com/users"
+    ]
+  }
+]
