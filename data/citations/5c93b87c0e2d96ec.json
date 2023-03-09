@@ -1,0 +1,38 @@
+[
+  {
+    "title": [
+      "Random Access Memory Lane for August 1988 by Clark Hugh Stiles"
+    ],
+    "type": null
+  },
+  {
+    "issue": [
+      "20"
+    ],
+    "note": [
+      "58 20 2009:20 00 C3 200C:A0 00 200E:B9 30 20 2011:20 ED FD 2014:C8"
+    ],
+    "type": null,
+    "volume": [
+      "2000"
+    ]
+  },
+  {
+    "note": [
+      "notice the 29 20 in line 2023? That means \"look for the parameters in memory location 2029). Lines 2030-2054 contain the message that gets displayed (notice the 30 20 in line 200E). Lines 2058-205D contain the data for the disk eject (notice the 59 20 in 2004 for the data and the 58 20 in line 2006 for the error code)."
+    ],
+    "title": [
+      "Lines 2000-2004 do the disk eject. Lines 2006-2017 print the message. Lines 2019-201E jump (like a GOSUB in Applesoft) to the get-a-keypress routine in ROM, check for an Escape keypress, and if not found jumps (like GOTO) to 2026. Lines 2020-2023 perform the QUIT (like a BYE in Basic.System). Line 2029 contains the data for the QUIT routine"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Martin",
+        "given": "Al"
+      }
+    ],
+    "type": null
+  }
+]
