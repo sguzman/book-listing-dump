@@ -1,0 +1,20 @@
+[
+  {
+    "author": [
+      {
+        "family": "INDEX",
+        "given": "N.E.S.T.I.N.G.S.A.M.E."
+      }
+    ],
+    "title": [
+      "Where a user has constructed a nested FOR loop with two or more of the FOR-TO statements using the same running variable (index variable). WRONG NEXT: The matching NEXT statement must follow the corresponding FOR-TO statement. ILLEGAL NESTING: FOR-TO loops may be nested, but they must not overlap. OVERFLOW: A numeric constant exceeds the maximum singleprecision floating-point value"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "UNDERFLOW: A numeric constant is smaller than the minimum single-precision floating-point value. MEMORY EXCEEDED: The generated object code exceeds the bounds permitted by the computer and/or the version of BASIC being used"
+    ],
+    "type": null
+  }
+]
