@@ -1,0 +1,41 @@
+[
+  {
+    "author": [
+      {
+        "literal": "-"
+      }
+    ],
+    "citation-number": [
+      "200"
+    ],
+    "note": [
+      "500 - 530 Displays the solution. 900-910 Subroutine to space and separate the output."
+    ],
+    "title": [
+      "220 Clears screen and displays program title. 300 - 430 Gets input from user and calculates the solution"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2000",
+      "2000"
+    ],
+    "note": [
+      "Forms solution if N= 1 2010-2140 Gaussian elimination."
+    ],
+    "title": [
+      "Subroutine to calculate the solution; consisting of the following parts"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "2030"
+    ],
+    "title": [
+      "- 2100 Interchanges rows to achieve pivotal condensation 2150-2180 Back substitution"
+    ],
+    "type": null
+  }
+]
