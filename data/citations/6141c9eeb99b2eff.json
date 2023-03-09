@@ -1,0 +1,4367 @@
+[
+  {
+    "citation-number": [
+      "1"
+    ],
+    "date": [
+      "2000"
+    ],
+    "publisher": [
+      "U. S. Dept. of Commerce/National Institute of Standards and Technology"
+    ],
+    "title": [
+      "MFIPS 186-2. Digital signature standard. Federal Information Processing Standards Publication 186"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Abdalla",
+        "given": "M."
+      },
+      {
+        "family": "Bellare",
+        "given": "M."
+      },
+      {
+        "family": "Rogaway",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Computer Science"
+    ],
+    "container-title": [
+      "Topics in cryptology - CT RSA 01"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "143–158"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "The Oracle Diffie-Hellman assumption and an analysis of DHIES"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2020"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adleman",
+        "given": "L."
+      },
+      {
+        "family": "DeMarrais",
+        "given": "J."
+      },
+      {
+        "family": "Huang",
+        "given": "M.-D."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "Theoret. Comput. Sci"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "1-2"
+    ],
+    "pages": [
+      "7–18,"
+    ],
+    "title": [
+      "A subexponential algorithm for discrete logarithms over hyperelliptic curves of large genus over GF(q"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "226"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ahlfors",
+        "given": "L.V."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "collection-title": [
+      "International Series in Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1978"
+    ],
+    "edition": [
+      "third"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill Book Co"
+    ],
+    "title": [
+      "Complex analysis",
+      "An introduction to the theory of analytic functions of one complex variable"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Anglin",
+        "given": "W.S."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "Amer. Math. Monthly"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "120–124,"
+    ],
+    "title": [
+      "The square pyramid puzzle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "97"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Atiyah",
+        "given": "M.F."
+      },
+      {
+        "family": "Wall",
+        "given": "C.T.C."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Algebraic number theory (Proc. Instructional Conf"
+    ],
+    "date": [
+      "1965",
+      "1967"
+    ],
+    "location": [
+      "Brighton",
+      "Thompson, Washington, D.C"
+    ],
+    "pages": [
+      "94–115"
+    ],
+    "title": [
+      "Cohomology of groups"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Atkin",
+        "given": "A.O.L."
+      },
+      {
+        "family": "Morain",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "203"
+    ],
+    "pages": [
+      "29–68"
+    ],
+    "title": [
+      "Elliptic curves and primality proving"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Atkin",
+        "given": "A.O.L."
+      },
+      {
+        "family": "Morain",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "201"
+    ],
+    "pages": [
+      "399–405"
+    ],
+    "title": [
+      "Finding suitable curves for the elliptic curve method of factorization"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "60"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Balasubramanian",
+        "given": "R."
+      },
+      {
+        "family": "Koblitz",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "container-title": [
+      "J. Cryptology"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "141–145"
+    ],
+    "title": [
+      "The improbability that an elliptic curve has subexponential discrete log problem under the Menezes-Okamoto-Vanstone algorithm"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "J"
+    ],
+    "note": [
+      "Number Theory (to appear)."
+    ],
+    "title": [
+      "Belding A Weil pairing on the p-torsion of ordinary elliptic curves over K["
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Bernstein",
+        "given": "D."
+      },
+      {
+        "family": "Lange",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "note": [
+      "Asiacrypt 2007 (to appear)."
+    ],
+    "title": [
+      "Faster addition and doubling on elliptic curves"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Blake",
+        "given": "I.F."
+      },
+      {
+        "family": "Seroussi",
+        "given": "G."
+      },
+      {
+        "family": "Smart",
+        "given": "N.P."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "collection-title": [
+      "of London Mathematical Society Lecture Note Series"
+    ],
+    "title": [
+      "Elliptic curves in cryptography"
+    ],
+    "type": null,
+    "volume": [
+      "265"
+    ]
+  },
+  {
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "note": [
+      "Reprint of the 1999 original."
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Boneh",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic number theory"
+    ],
+    "date": [
+      "1998",
+      "1998"
+    ],
+    "location": [
+      "Portland, OR",
+      "Berlin"
+    ],
+    "pages": [
+      "48–63"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The decision Diffie-Hellman problem"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1423"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boneh",
+        "given": "D."
+      },
+      {
+        "family": "Daswani",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Financial Cryptography ’99"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "1–16"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Experimenting with electronic commerce on the PalmPilot"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1648"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Boneh",
+        "given": "D."
+      },
+      {
+        "family": "Franklin",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Advances in cryptology, Crypto 2001"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "Santa Barbara, CA",
+      "Berlin"
+    ],
+    "pages": [
+      "213–229"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Identity based encryption from the Weil pairing"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2139"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Borevich",
+        "given": "A.I."
+      },
+      {
+        "family": "Shafarevich",
+        "given": "I.R."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Number theory"
+    ],
+    "translator": [
+      {
+        "family": "N. Greenleaf",
+        "particle": "from the Russian by"
+      }
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Borwein",
+        "given": "J.M."
+      },
+      {
+        "family": "Pi",
+        "given": "P.B.Borwein"
+      },
+      {
+        "family": "AGM",
+        "particle": "the"
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "John Wiley & Sons Inc"
+    ],
+    "title": [
+      "Canadian Mathematical Society Series of Monographs and Advanced Texts",
+      "A study in analytic number theory and computational complexity, A Wiley-Interscience Publication"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bosma",
+        "given": "W."
+      },
+      {
+        "family": "Lenstra",
+        "given": "H.W.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "J. Number Theory"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "229–240"
+    ],
+    "title": [
+      "Complete systems of two addition laws for elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "53"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brent",
+        "given": "R.P."
+      },
+      {
+        "family": "Crandall",
+        "given": "R.E."
+      },
+      {
+        "family": "Dilcher",
+        "given": "K."
+      },
+      {
+        "family": "Halewyn",
+        "given": "C.",
+        "particle": "van"
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "231"
+    ],
+    "pages": [
+      "1297–1304"
+    ],
+    "title": [
+      "Three new factors of Fermat numbers"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Breuil",
+        "given": "C."
+      },
+      {
+        "family": "Conrad",
+        "given": "B."
+      },
+      {
+        "family": "Diamond",
+        "given": "F."
+      },
+      {
+        "family": "Taylor",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "J. Amer. Math. Soc"
+    ],
+    "date": [
+      "2001"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "843–939"
+    ],
+    "title": [
+      "On the modularity of elliptic curves over Q: wild 3-adic exercises"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "K.S."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Corrected reprint of the 1982 original."
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Cohomology of groups, volume 87 of Graduate Texts in Mathematics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cantor",
+        "given": "D.G."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "177"
+    ],
+    "pages": [
+      "95–101"
+    ],
+    "title": [
+      "Computing in the Jacobian of a hyperelliptic curve"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cassels",
+        "given": "J.W.S."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "date": [
+      "1991"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "of London Mathematical Society Student Texts. Cambridge University Press"
+    ],
+    "title": [
+      "Lectures on elliptic curves"
+    ],
+    "type": "book",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Clemens",
+        "given": "C.H."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "collection-title": [
+      "The University Series in Mathematics"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Plenum Press"
+    ],
+    "title": [
+      "A scrapbook of complex curve theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "collection-title": [
+      "of Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A course in computational algebraic number theory"
+    ],
+    "type": "book",
+    "volume": [
+      "138"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "H."
+      },
+      {
+        "family": "Miyaji",
+        "given": "A."
+      },
+      {
+        "family": "Ono",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "container-title": [
+      "Advances in cryptology—ASIACRYPT’98 (Beijing), volume 1514 of Lecture Notes in Comput. Sci"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "51–65"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Efficient elliptic curve exponentiation using mixed coordinates"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Cohen",
+        "given": "H."
+      },
+      {
+        "family": "Frey",
+        "given": "G."
+      },
+      {
+        "family": "Avanzi",
+        "given": "R."
+      },
+      {
+        "family": "Doche",
+        "given": "C."
+      },
+      {
+        "family": "Lange",
+        "given": "T."
+      },
+      {
+        "family": "Nguyen",
+        "given": "K."
+      },
+      {
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "27"
+    ],
+    "container-title": [
+      "Handbook of elliptic and hyperelliptic curve cryptography Chapman & Hall/CRC"
+    ],
+    "date": [
+      "2005"
+    ],
+    "editor": [
+      {
+        "literal": "editors."
+      }
+    ],
+    "location": [
+      "Boca Raton"
+    ],
+    "title": [
+      "Vercauteren"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "K. Harada",
+        "given": "I.Connell Addendum",
+        "particle": "to a paper of"
+      },
+      {
+        "family": "Lang",
+        "given": "M.-L."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "container-title": [
+      "J. Algebra",
+      "J. Algebra"
+    ],
+    "date": [
+      "1989",
+      "1992"
+    ],
+    "issue": [
+      "2",
+      "2"
+    ],
+    "pages": [
+      "298–310",
+      "463–467,"
+    ],
+    "title": [
+      "Some elliptic curves arising from the Leech lattice"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "125",
+      "145"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cornell",
+        "given": "G."
+      },
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      },
+      {
+        "family": "Stevens",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "date": [
+      "1997",
+      "August 9–18, 1995"
+    ],
+    "location": [
+      "New York",
+      "Boston, MA"
+    ],
+    "note": [
+      "Papers from the Instructional Conference on Number Theory and Arithmetic Geometry held at"
+    ],
+    "publisher": [
+      "Springer-Verlag",
+      "Boston University"
+    ],
+    "title": [
+      "Modular forms and Fermat’s last theorem"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Cox",
+        "given": "D.A."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "container-title": [
+      "Enseign. Math"
+    ],
+    "date": [
+      "1984"
+    ],
+    "issue": [
+      "3-4"
+    ],
+    "pages": [
+      "275–330"
+    ],
+    "title": [
+      "The arithmetic-geometric mean of Gauss"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Cremona",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Algorithms for modular elliptic curves"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Darmon",
+        "given": "H."
+      },
+      {
+        "family": "Diamond",
+        "given": "F."
+      },
+      {
+        "family": "Taylor",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "container-title": [
+      "Current developments in mathematics, 1995"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Cambridge, MA",
+      "Cambridge, MA"
+    ],
+    "pages": [
+      "1–154"
+    ],
+    "publisher": [
+      "Internat. Press"
+    ],
+    "title": [
+      "Fermat’s last theorem"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Deuring",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "container-title": [
+      "Abh. Math. Sem. Hamburg"
+    ],
+    "date": [
+      "1941"
+    ],
+    "pages": [
+      "197–272"
+    ],
+    "title": [
+      "Die Typen der Multiplikatorenringe elliptischer Funktionenkorper"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Dickson",
+        "given": "L.E."
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "container-title": [
+      "II: Diophantine analysis"
+    ],
+    "date": [
+      "1966"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Chelsea Publishing Co"
+    ],
+    "title": [
+      "History of the theory of numbers"
+    ],
+    "type": "chapter",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Doud",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "container-title": [
+      "Manuscripta Math"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "463–469"
+    ],
+    "title": [
+      "A procedure to calculate torsion of elliptic curves over Q"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "95"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Edwards",
+        "given": "H.M."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "container-title": [
+      "Bull. Amer. Math. Soc. (N.S"
+    ],
+    "date": [
+      "2007"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "393–422,"
+    ],
+    "title": [
+      "A normal form for elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Elkies",
+        "given": "N.D."
+      }
+    ],
+    "citation-number": [
+      "37"
+    ],
+    "container-title": [
+      "Invent. Math"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "561–567"
+    ],
+    "title": [
+      "The existence of infinitely many supersingular primes for every elliptic curve over Q"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "89"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Enge",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Dordrecht"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Elliptic curves and their applications to cryptography: An introduction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Fouvry",
+        "given": "E."
+      },
+      {
+        "family": "Murty",
+        "given": "M.Ram"
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "container-title": [
+      "Canad. J. Math"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "81–104,"
+    ],
+    "title": [
+      "On the distribution of supersingular primes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frey",
+        "given": "G."
+      },
+      {
+        "family": "Muller",
+        "given": "M."
+      },
+      {
+        "family": "Ruck",
+        "given": "H.-G."
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "container-title": [
+      "IEEE Trans. Inform. Theory"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "1717–1719"
+    ],
+    "title": [
+      "The Tate pairing and the discrete logarithm applied to elliptic curve cryptosystems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Frey",
+        "given": "G."
+      },
+      {
+        "family": "Ruck",
+        "given": "H.-G."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1994"
+    ],
+    "issue": [
+      "206"
+    ],
+    "pages": [
+      "865–874"
+    ],
+    "title": [
+      "A remark concerning m-divisibility and the discrete logarithm in the divisor class group of curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "62"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Fulton",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Redwood City, CA"
+    ],
+    "note": [
+      "Weiss, Reprint of 1969 original."
+    ],
+    "publisher": [
+      "Advanced Book Classics. Addison-Wesley Publishing Company Advanced Book Program"
+    ],
+    "title": [
+      "Algebraic curves",
+      "An introduction to algebraic geometry, Notes written with the collaboration of R"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Fulton",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Intersection theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Galbraith",
+        "given": "S."
+      },
+      {
+        "family": "Harrison",
+        "given": "K."
+      },
+      {
+        "family": "Soldera",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic number theory"
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "location": [
+      "Sydney, Australia",
+      "Berlin"
+    ],
+    "pages": [
+      "324–337"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Implementing the Tate pairing"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2369"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Galbraith",
+        "given": "S.D."
+      },
+      {
+        "family": "Smart",
+        "given": "N.P."
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Cryptography and coding"
+    ],
+    "date": [
+      "1999",
+      "1999"
+    ],
+    "location": [
+      "Cirencester",
+      "Berlin"
+    ],
+    "pages": [
+      "191–200"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A cryptographic application of Weil descent"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1746"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Gaudry",
+        "given": "P."
+      },
+      {
+        "family": "Hess",
+        "given": "F."
+      },
+      {
+        "family": "Smart",
+        "given": "N.P."
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "container-title": [
+      "J. Cryptology"
+    ],
+    "date": [
+      "2002"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "19–46"
+    ],
+    "title": [
+      "Constructive and destructive facets of Weil descent on elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Goldwasser",
+        "given": "S."
+      },
+      {
+        "family": "Kilian",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "47"
+    ],
+    "container-title": [
+      "J. ACM"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "450–472"
+    ],
+    "title": [
+      "Primality testing using elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Hankerson",
+        "given": "D."
+      },
+      {
+        "family": "Menezes",
+        "given": "A."
+      },
+      {
+        "family": "Vanstone",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "48"
+    ],
+    "date": [
+      "2004"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Guide to elliptic curve cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartshorne",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "49"
+    ],
+    "container-title": [
+      "Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1977"
+    ],
+    "issue": [
+      "52"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Algebraic geometry"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Herrmann",
+        "given": "O."
+      }
+    ],
+    "citation-number": [
+      "50"
+    ],
+    "container-title": [
+      "J. reine angew. Math"
+    ],
+    "date": [
+      "1975"
+    ],
+    "note": [
+      "Collection of articles dedicated to Helmut Hasse on his seventy-fifth birthday, III."
+    ],
+    "pages": [
+      "187–195"
+    ],
+    "title": [
+      "Uber die Berechnung der Fourierkoeffizienten der Funktion j(τ"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "275"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Howe",
+        "given": "E.W."
+      }
+    ],
+    "citation-number": [
+      "51"
+    ],
+    "container-title": [
+      "Math. Ann"
+    ],
+    "date": [
+      "1996"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "387–392"
+    ],
+    "title": [
+      "The Weil pairing and the Hilbert symbol"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "305"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Husemoller",
+        "given": "D."
+      },
+      {
+        "family": "Forster",
+        "given": "R.Lawrence"
+      },
+      {
+        "family": "Theisen",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "52"
+    ],
+    "collection-title": [
+      "of Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "2004"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Elliptic curves",
+      "With appendices by O"
+    ],
+    "type": "book",
+    "volume": [
+      "111"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ito",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "53"
+    ],
+    "container-title": [
+      "Proc. Japan Acad. Ser. A Math. Sci"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "48–50"
+    ],
+    "title": [
+      "Computation of the modular equation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ito",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "54"
+    ],
+    "container-title": [
+      "Natur. Sci"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "literal": "II. Mem. College Ed."
+      }
+    ],
+    "title": [
+      "Computation of modular equation",
+      "Akita Univ"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52):1–10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobson",
+        "given": "M.J."
+      },
+      {
+        "family": "Koblitz",
+        "given": "N."
+      },
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      },
+      {
+        "family": "Stein",
+        "given": "A."
+      },
+      {
+        "family": "Teske",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "55"
+    ],
+    "container-title": [
+      "Des. Codes Cryptogr"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "41–64"
+    ],
+    "title": [
+      "Analysis of the xedni calculus attack"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Joux",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "56"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic Number Theory (Leiden, The Netherlands"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "erefore maps2000), volume 1838"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "385–394"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A one round protocol for tripartite Diffie-Hellman"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Joux",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "57"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic number theory"
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "location": [
+      "Sydney, Australia",
+      "Berlin"
+    ],
+    "pages": [
+      "20–32"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The Weil and Tate pairings as building blocks for public key cryptosystems"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2369"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Joux",
+        "given": "A."
+      },
+      {
+        "family": "Lercier",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "58"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "2003"
+    ],
+    "issue": [
+      "242"
+    ],
+    "pages": [
+      "953–967"
+    ],
+    "title": [
+      "Improvements to the general number field sieve for discrete logarithms in prime fields. A comparison with the Gaussian integer method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kani",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "59"
+    ],
+    "container-title": [
+      "Rocky Mountain J. Math"
+    ],
+    "date": [
+      "1985",
+      "1983"
+    ],
+    "issue": [
+      "2"
+    ],
+    "location": [
+      "Winnipeg, Man"
+    ],
+    "pages": [
+      "417–449"
+    ],
+    "title": [
+      "Weil heights, Neron pairings and V -metrics on curves",
+      "Number theory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kedlaya",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "60"
+    ],
+    "container-title": [
+      "J. Ramanujan Math. Soc"
+    ],
+    "date": [
+      "2001",
+      "2003"
+    ],
+    "issue": [
+      "4",
+      "4"
+    ],
+    "pages": [
+      "323–338,",
+      "417–418,"
+    ],
+    "title": [
+      "Counting points on hyperelliptic curves using Monsky-Washnitzer cohomology"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16",
+      "18"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Knapp",
+        "given": "A.W."
+      }
+    ],
+    "citation-number": [
+      "61"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "publisher": [
+      "of Mathematical Notes. Princeton University Press"
+    ],
+    "title": [
+      "Elliptic curves"
+    ],
+    "type": "book",
+    "volume": [
+      "40"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koblitz",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "62"
+    ],
+    "container-title": [
+      "J. Cryptology"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "139–150,"
+    ],
+    "title": [
+      "Hyperelliptic cryptosystems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koblitz",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "63"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Advances in cryptology—CRYPTO ’91"
+    ],
+    "date": [
+      "1991",
+      "1992"
+    ],
+    "location": [
+      "Santa Barbara, CA",
+      "Berlin"
+    ],
+    "pages": [
+      "279–287"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "CM-curves with good cryptographic properties"
+    ],
+    "type": "chapter",
+    "volume": [
+      "576"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koblitz",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "64"
+    ],
+    "collection-title": [
+      "of Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1993"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Introduction to elliptic curves and modular forms"
+    ],
+    "type": "book",
+    "volume": [
+      "97"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koblitz",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "65"
+    ],
+    "collection-title": [
+      "of Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1994"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A course in number theory and cryptography"
+    ],
+    "type": "book",
+    "volume": [
+      "114"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Koblitz",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "66"
+    ],
+    "container-title": [
+      "Algorithms and Computation in Mathematics"
+    ],
+    "date": [
+      "1998"
+    ],
+    "editor": [
+      {
+        "family": "Menezes",
+        "given": "J."
+      },
+      {
+        "family": "Wu",
+        "given": "Y.-H."
+      },
+      {
+        "family": "Zuccherato",
+        "given": "R.J."
+      }
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Algebraic aspects of cryptography",
+      "With an appendix by A"
+    ],
+    "type": "chapter",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Kubert",
+        "given": "D.S."
+      }
+    ],
+    "citation-number": [
+      "67"
+    ],
+    "container-title": [
+      "Proc. London Math. Soc"
+    ],
+    "date": [
+      "1976"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "193–237"
+    ],
+    "title": [
+      "Universal bounds on the torsion of elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "33"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "68"
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "of Grundlehren der Mathematischen Wissenschaften. Springer-Verlag"
+    ],
+    "title": [
+      "Elliptic curves: Diophantine analysis"
+    ],
+    "type": "book",
+    "volume": [
+      "231"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "69"
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "Reprint of the 1959 original."
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Abelian varieties"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "70"
+    ],
+    "date": [
+      "1987"
+    ],
+    "edition": [
+      "second"
+    ],
+    "location": [
+      "New York"
+    ],
+    "note": [
+      "With an appendix by J. Tate."
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Elliptic functions, volume 112 of Graduate Texts in Mathematics"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lang",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "71"
+    ],
+    "date": [
+      "2002"
+    ],
+    "edition": [
+      "third"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Algebra, volume 211 of Graduate Texts in Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Lange",
+        "given": "H."
+      },
+      {
+        "family": "Ruppert",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "72"
+    ],
+    "container-title": [
+      "J. Algebra"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "106–116"
+    ],
+    "title": [
+      "Addition laws on elliptic curves in arbitrary characteristics"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "107"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lay",
+        "given": "G.-J."
+      },
+      {
+        "family": "Zimmer",
+        "given": "H.G."
+      }
+    ],
+    "citation-number": [
+      "73"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic number theory"
+    ],
+    "date": [
+      "1994",
+      "1994"
+    ],
+    "location": [
+      "Ithaca, NY",
+      "Berlin"
+    ],
+    "pages": [
+      "250–263"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Constructing elliptic curves with given group order over large finite fields"
+    ],
+    "type": "chapter",
+    "volume": [
+      "877"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lenstra",
+        "given": "H.W.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "74"
+    ],
+    "container-title": [
+      "Proceedings of the International Congress of Mathematicians"
+    ],
+    "date": [
+      "1986",
+      "1987"
+    ],
+    "location": [
+      "Berkeley, Calif",
+      "Providence, RI"
+    ],
+    "pages": [
+      "99–120,"
+    ],
+    "publisher": [
+      "Amer. Math. Soc"
+    ],
+    "title": [
+      "Elliptic curves and number-theoretic algorithms"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "1, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Lenstra",
+        "given": "H.W.",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "75"
+    ],
+    "container-title": [
+      "Ann. of Math"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "649–673"
+    ],
+    "title": [
+      "Factoring integers with elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "126"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Liverance",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "76"
+    ],
+    "date": [
+      "1993"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "publisher": [
+      "Univ. of Maryland"
+    ],
+    "title": [
+      "Heights of Heegner points in a family of elliptic curves"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazur",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "77"
+    ],
+    "container-title": [
+      "Goldfeld). Invent. Math"
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "129–162"
+    ],
+    "title": [
+      "Rational isogenies of prime degree (with an appendix by D"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "McKean",
+        "given": "H."
+      },
+      {
+        "family": "Moll",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "78"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Cambridge"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Elliptic curves. Function theory, geometry, arithmetic"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Menezes",
+        "given": "A."
+      },
+      {
+        "family": "Qu",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "79"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Topics in cryptology—CT-RSA 2001"
+    ],
+    "date": [
+      "2001"
+    ],
+    "location": [
+      "San Francisco, CA",
+      "Berlin"
+    ],
+    "pages": [
+      "308–318"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Analysis of the Weil descent attack of Gaudry, Hess and Smart"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2020"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Menezes",
+        "given": "A.J."
+      },
+      {
+        "family": "Okamoto",
+        "given": "T."
+      },
+      {
+        "family": "Vanstone",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "80"
+    ],
+    "container-title": [
+      "IEEE Trans. Inform. Theory"
+    ],
+    "date": [
+      "1993"
+    ],
+    "issue": [
+      "5"
+    ],
+    "pages": [
+      "1639–1646"
+    ],
+    "title": [
+      "Reducing elliptic curve logarithms to logarithms in a finite field"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Menezes",
+        "given": "A.J."
+      },
+      {
+        "family": "Oorschot",
+        "given": "P.C.",
+        "particle": "van"
+      },
+      {
+        "family": "Vanstone",
+        "given": "S.A."
+      }
+    ],
+    "citation-number": [
+      "81"
+    ],
+    "container-title": [
+      "CRC Press Series on Discrete Mathematics and its Applications"
+    ],
+    "date": [
+      "1997"
+    ],
+    "editor": [
+      {
+        "family": "Rivest",
+        "given": "L."
+      }
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Handbook of applied cryptography",
+      "With a foreword by R"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Menezes",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "82"
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "note": [
+      "With a foreword by N. Koblitz."
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Elliptic curve public key cryptosystems, volume 234 of The Kluwer International Series in Engineering and Computer Science"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "83"
+    ],
+    "container-title": [
+      "J. Cryptology"
+    ],
+    "date": [
+      "2004"
+    ],
+    "issue": [
+      "4"
+    ],
+    "pages": [
+      "235–161"
+    ],
+    "title": [
+      "Miller The Weil pairing and its efficient calculation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Nagell",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "84"
+    ],
+    "container-title": [
+      "Acta Math"
+    ],
+    "date": [
+      "1929"
+    ],
+    "pages": [
+      "93–126"
+    ],
+    "title": [
+      "Sur les proprietes arithmetiques des cubiques planes du premier genre"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "52"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Oesterle",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "85"
+    ],
+    "container-title": [
+      "Asterisque",
+      "Seminaire Bourbaki"
+    ],
+    "date": [
+      "1989"
+    ],
+    "issue": [
+      "694, 4",
+      "88"
+    ],
+    "pages": [
+      "165–186"
+    ],
+    "title": [
+      "Nouvelles approches du “theoreme” de Fermat"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1987"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "P1363-2000",
+        "given": "I.E.E.E."
+      }
+    ],
+    "citation-number": [
+      "86"
+    ],
+    "title": [
+      "Standard specifications for public key cryptography"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Pollard",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "87"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1978"
+    ],
+    "issue": [
+      "143"
+    ],
+    "pages": [
+      "918–924"
+    ],
+    "title": [
+      "Monte Carlo methods for index computation (mod p"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Prasolov",
+        "given": "V."
+      },
+      {
+        "family": "Solovyev",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "88"
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Providence, RI"
+    ],
+    "note": [
+      "Translated from the Russian manuscript by D. Leites."
+    ],
+    "publisher": [
+      "American Mathematical Society"
+    ],
+    "title": [
+      "Elliptic functions and elliptic integrals, volume 170 of Translations of Mathematical Monographs"
+    ],
+    "type": "manuscript"
+  },
+  {
+    "author": [
+      {
+        "family": "Ribet",
+        "given": "K.A."
+      }
+    ],
+    "citation-number": [
+      "89"
+    ],
+    "container-title": [
+      "Ann. Fac. Sci. Toulouse Math"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "116–139"
+    ],
+    "title": [
+      "From the Taniyama-Shimura conjecture to Fermat’s last theorem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Ribet",
+        "given": "K.A."
+      }
+    ],
+    "citation-number": [
+      "90"
+    ],
+    "container-title": [
+      "Invent. Math"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "431–476"
+    ],
+    "title": [
+      "On modular representations of Gal(Q/Q) arising from modular forms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "100"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Robert",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "91"
+    ],
+    "container-title": [
+      "Lecture Notes in Mathematics"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "326"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Rosing",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "92"
+    ],
+    "date": [
+      "1999"
+    ],
+    "publisher": [
+      "Manning Publications Company"
+    ],
+    "title": [
+      "Implementing elliptic curve cryptography"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Ruck",
+        "given": "H.-G."
+      }
+    ],
+    "citation-number": [
+      "93"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "179"
+    ],
+    "pages": [
+      "301–304"
+    ],
+    "title": [
+      "A note on elliptic curves over finite fields"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Satoh",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "94"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic number theory"
+    ],
+    "date": [
+      "2002",
+      "2002"
+    ],
+    "location": [
+      "Sydney, Australia",
+      "Berlin"
+    ],
+    "pages": [
+      "43–66"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "On p-adic point counting algorithms for elliptic curves over finite fields"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2369"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Satoh",
+        "given": "T."
+      },
+      {
+        "family": "Araki",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "95"
+    ],
+    "container-title": [
+      "Comment. Math. Univ. St. Paul",
+      "Errata"
+    ],
+    "date": [
+      "1998",
+      "1999"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "211–213",
+      "81–92"
+    ],
+    "title": [
+      "Fermat quotients and the polynomial time discrete log algorithm for anomalous elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "47",
+      "48"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "96"
+    ],
+    "collection-title": [
+      "in Lecture Notes Ser. Comput"
+    ],
+    "container-title": [
+      "Computational aspects of algebraic curves"
+    ],
+    "date": [
+      "2005"
+    ],
+    "location": [
+      "Hackensack, NJ"
+    ],
+    "pages": [
+      "1–12,"
+    ],
+    "publisher": [
+      "World Sci. Publ"
+    ],
+    "title": [
+      "Schaefer A new proof for the non-degeneracy of the Frey-Ruck pairing and a connection to isogenies over the base field"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schoof",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "97"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1985"
+    ],
+    "issue": [
+      "170"
+    ],
+    "pages": [
+      "483–494"
+    ],
+    "title": [
+      "Elliptic curves over finite fields and the computation of square roots mod p"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schoof",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "98"
+    ],
+    "container-title": [
+      "J. Combin. Theory Ser. A"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "183–211"
+    ],
+    "title": [
+      "Nonsingular plane cubic curves over finite fields"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "46"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schoof",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "99"
+    ],
+    "container-title": [
+      "Theorie des Nombres de Bordeaux"
+    ],
+    "date": [
+      "1995"
+    ],
+    "pages": [
+      "219–254,"
+    ],
+    "title": [
+      "Counting points on elliptic curves over finite fields J"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Schoof",
+        "given": "R."
+      },
+      {
+        "family": "Washington",
+        "given": "L."
+      },
+      {
+        "family": "Lenstra",
+        "given": "H.W.",
+        "particle": "A. K. Lenstra. verzameld door",
+        "suffix": "Jr"
+      }
+    ],
+    "citation-number": [
+      "100"
+    ],
+    "container-title": [
+      "J. K. Lenstra en P. van Emde Boas, Amsterdam"
+    ],
+    "date": [
+      "1984"
+    ],
+    "pages": [
+      "1"
+    ],
+    "title": [
+      "Untitled. In Dopo le parole (aangeboden aan Dr"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Selberg",
+        "given": "A."
+      },
+      {
+        "family": "Chowla",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "101"
+    ],
+    "container-title": [
+      "J. reine angew. Math"
+    ],
+    "date": [
+      "1967"
+    ],
+    "pages": [
+      "86–110"
+    ],
+    "title": [
+      "On Epstein’s zeta-function"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "227"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Semaev",
+        "given": "I.A."
+      }
+    ],
+    "citation-number": [
+      "102"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1998"
+    ],
+    "issue": [
+      "221"
+    ],
+    "pages": [
+      "353–356"
+    ],
+    "title": [
+      "Evaluation of discrete logarithms in a group of p-torsion points of an elliptic curve in characteristic p"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "67"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Serre",
+        "given": "J.-P."
+      }
+    ],
+    "citation-number": [
+      "103"
+    ],
+    "container-title": [
+      "Algebraic Number Theory (Proc. Instructional Conf"
+    ],
+    "date": [
+      "1965",
+      "1967"
+    ],
+    "location": [
+      "Brighton",
+      "Thompson, Washington, D.C"
+    ],
+    "pages": [
+      "292–296"
+    ],
+    "title": [
+      "Complex multiplication"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Serre",
+        "given": "J.-P."
+      }
+    ],
+    "citation-number": [
+      "104"
+    ],
+    "date": [
+      "1973"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "A course in arithmetic"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Graduate Texts in Mathematics"
+    ],
+    "issue": [
+      "7"
+    ],
+    "title": [
+      "Translated from the French"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Serre",
+        "given": "J.-P."
+      }
+    ],
+    "citation-number": [
+      "105"
+    ],
+    "container-title": [
+      "Duke Math. J"
+    ],
+    "date": [
+      "1987"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "179–230"
+    ],
+    "title": [
+      "Sur les representations modulaires de degre 2 de Gal(Q/Q"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "54"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "K. A. Hirsch",
+        "given": "I.Shafarevich Basic",
+        "particle": "algebraic geometry. from the Russian by"
+      }
+    ],
+    "citation-number": [
+      "106"
+    ],
+    "date": [
+      "1974"
+    ],
+    "location": [
+      "New York-Heidelberg"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Die Grundlehren der mathematischen Wissenschaften, Band 213"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Shanks",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "107"
+    ],
+    "container-title": [
+      "1969 Number Theory Institute (Proc. Sympos. Pure Math"
+    ],
+    "date": [
+      "1969",
+      "1971"
+    ],
+    "location": [
+      "New York, Stony Brook, NY",
+      "Providence, RI"
+    ],
+    "pages": [
+      "415–440"
+    ],
+    "publisher": [
+      "State Univ",
+      "Amer. Math. Soc"
+    ],
+    "title": [
+      "Class number, a theory of factorization, and genera"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "XX"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Shimura",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "108"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Princeton, NJ"
+    ],
+    "note": [
+      "Reprint of the 1971 original, Kano Memorial Lectures, 1."
+    ],
+    "publisher": [
+      "Princeton University Press"
+    ],
+    "title": [
+      "Introduction to the arithmetic theory of automorphic functions, volume 11 of Publications of the Mathematical Society of Japan"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "109"
+    ],
+    "collection-title": [
+      "of Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "The arithmetic of elliptic curves"
+    ],
+    "type": "book",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "110"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "192"
+    ],
+    "pages": [
+      "723–743"
+    ],
+    "title": [
+      "The difference between the Weil height and the canonical height on elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "55"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "111"
+    ],
+    "collection-title": [
+      "of Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Advanced topics in the arithmetic of elliptic curves"
+    ],
+    "type": "book",
+    "volume": [
+      "151"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      }
+    ],
+    "citation-number": [
+      "112"
+    ],
+    "container-title": [
+      "Des. Codes Cryptogr"
+    ],
+    "date": [
+      "2000"
+    ],
+    "issue": [
+      "1"
+    ],
+    "pages": [
+      "5–40"
+    ],
+    "title": [
+      "The xedni calculus and the elliptic curve discrete logarithm problem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      },
+      {
+        "family": "Suzuki",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "113"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Advances in cryptology—ASIACRYPT ’98"
+    ],
+    "date": [
+      "1998"
+    ],
+    "location": [
+      "Beijing, China",
+      "Berlin"
+    ],
+    "pages": [
+      "110–125"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Elliptic curve discrete logarithms and the index calculus"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1514"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Silverman",
+        "given": "J.H."
+      },
+      {
+        "family": "Tate",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "114"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Rational points on elliptic curves. Undergraduate Texts in Mathematics"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smart",
+        "given": "N.P."
+      }
+    ],
+    "citation-number": [
+      "115"
+    ],
+    "container-title": [
+      "J. Cryptology"
+    ],
+    "date": [
+      "1999"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "193–196"
+    ],
+    "title": [
+      "The discrete logarithm problem on elliptic curves of trace one"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tate",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "116"
+    ],
+    "container-title": [
+      "Invent. Math"
+    ],
+    "date": [
+      "1974"
+    ],
+    "pages": [
+      "179–206"
+    ],
+    "title": [
+      "The arithmetic of elliptic curves"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tate",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "117"
+    ],
+    "container-title": [
+      "Modular functions of one variable, IV (Proc. Internat. Summer School, Univ",
+      "Lecture Notes in Math"
+    ],
+    "date": [
+      "1972",
+      "1975"
+    ],
+    "location": [
+      "Antwerp, Antwerp",
+      "Berlin"
+    ],
+    "pages": [
+      "33–52"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Algorithm for determining the type of a singular fiber in an elliptic pencil"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "476"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Taylor",
+        "given": "R."
+      },
+      {
+        "family": "Wiles",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "118"
+    ],
+    "container-title": [
+      "Ann. of Math"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "553–572"
+    ],
+    "title": [
+      "Ring-theoretic properties of certain Hecke algebras"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "141"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Teske",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "119"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Algorithmic number theory"
+    ],
+    "date": [
+      "1998",
+      "1998"
+    ],
+    "location": [
+      "Portland, OR",
+      "Berlin"
+    ],
+    "pages": [
+      "541–554"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Speeding up Pollard’s rho method for computing discrete logarithms"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1423"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Theriault",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "120"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Advances in cryptology —ASIACRYPT 2003"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "75–92"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Index calculus attack for hyperelliptic curves of small genus"
+    ],
+    "type": "chapter",
+    "volume": [
+      "2894"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Trappe",
+        "given": "W."
+      },
+      {
+        "family": "Washington",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "121"
+    ],
+    "date": [
+      "2006"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Introduction to cryptography with coding theory"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Tunnell",
+        "given": "J.B."
+      }
+    ],
+    "citation-number": [
+      "122"
+    ],
+    "container-title": [
+      "Invent. Math"
+    ],
+    "date": [
+      "1983"
+    ],
+    "issue": [
+      "2"
+    ],
+    "pages": [
+      "323–334"
+    ],
+    "title": [
+      "A classical Diophantine problem and modular forms of weight 3/2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "72"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "123"
+    ],
+    "container-title": [
+      "C. R. Acad. Sci. Paris Ser. A-B"
+    ],
+    "date": [
+      "1971"
+    ],
+    "title": [
+      "Velu Isogenies entre courbes elliptiques"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "273:A238–A241"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Verheul",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "124"
+    ],
+    "collection-title": [
+      "in Lecture Notes in Computer Science"
+    ],
+    "container-title": [
+      "Eurocrypt"
+    ],
+    "date": [
+      "2001",
+      "2001"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "195–210,"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Evidence that XTR is more secure than supersingular elliptic curve cryptosystems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2045"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wagstaff",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "125"
+    ],
+    "collection-title": [
+      "Computational Mathematics Series"
+    ],
+    "date": [
+      "2003"
+    ],
+    "location": [
+      "Boca Raton"
+    ],
+    "publisher": [
+      "Chapman and Hall/CRC"
+    ],
+    "title": [
+      "Cryptanalysis of number theoretic ciphers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wan",
+        "given": "D.Q."
+      }
+    ],
+    "citation-number": [
+      "126"
+    ],
+    "container-title": [
+      "J. Number Theory"
+    ],
+    "date": [
+      "1990"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "247–268"
+    ],
+    "title": [
+      "On the Lang-Trotter conjecture"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wang",
+        "given": "X."
+      },
+      {
+        "family": "Yin",
+        "given": "Y."
+      },
+      {
+        "family": "Yiqun"
+      },
+      {
+        "family": "Yu",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "127"
+    ],
+    "collection-title": [
+      "of Lecture Notes in Comput. Sci"
+    ],
+    "container-title": [
+      "Advances in cryptology—CRYPTO"
+    ],
+    "date": [
+      "2005",
+      "2005"
+    ],
+    "location": [
+      "Berlin"
+    ],
+    "pages": [
+      "17–36,"
+    ],
+    "publisher": [
+      "Springer"
+    ],
+    "title": [
+      "Finding collisions in the full SHA-1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3621"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Washington",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "128"
+    ],
+    "date": [
+      "1999"
+    ],
+    "editor": [
+      {
+        "family": "Rodriganez",
+        "given": "C.Corrales"
+      },
+      {
+        "family": "Andradas",
+        "given": "C."
+      }
+    ],
+    "location": [
+      "Madrid"
+    ],
+    "pages": [
+      "117–136"
+    ],
+    "publisher": [
+      "Editorial Complutense"
+    ],
+    "title": [
+      "Wiles’ strategy. In Cuatrocientos anos de matematicas en torno al Ultimo Teorema de Fermat",
+      "Section 13.4 of the present book is a reworking of much of this article"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Washington",
+        "given": "L.C."
+      }
+    ],
+    "citation-number": [
+      "129"
+    ],
+    "container-title": [
+      "Graduate Texts in Mathematics"
+    ],
+    "date": [
+      "1997"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Introduction to cyclotomic fields"
+    ],
+    "type": "chapter",
+    "volume": [
+      "83"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Waterhouse",
+        "given": "W.C."
+      }
+    ],
+    "citation-number": [
+      "130"
+    ],
+    "container-title": [
+      "Ann. Sci. Ecole Norm. Sup"
+    ],
+    "date": [
+      "1969"
+    ],
+    "pages": [
+      "521–560"
+    ],
+    "title": [
+      "Abelian varieties over finite fields"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "131"
+    ],
+    "date": [
+      "1971"
+    ],
+    "edition": [
+      "2e"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "publisher": [
+      "Hermann & Cie"
+    ],
+    "title": [
+      "Weil Courbes algebriques et varietes abeliennes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Weiss",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "132"
+    ],
+    "container-title": [
+      "Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1969"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Cohomology of groups"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Wiles",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "133"
+    ],
+    "container-title": [
+      "Ann. of Math"
+    ],
+    "date": [
+      "1995"
+    ],
+    "issue": [
+      "3"
+    ],
+    "pages": [
+      "443–551"
+    ],
+    "title": [
+      "Modular elliptic curves and Fermat’s last theorem"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "141"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Williams",
+        "given": "H.C."
+      }
+    ],
+    "citation-number": [
+      "134"
+    ],
+    "container-title": [
+      "Math. Comp"
+    ],
+    "date": [
+      "1982"
+    ],
+    "issue": [
+      "159"
+    ],
+    "pages": [
+      "225–234"
+    ],
+    "title": [
+      "A p+1 method of factoring"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "39"
+    ]
+  }
+]
