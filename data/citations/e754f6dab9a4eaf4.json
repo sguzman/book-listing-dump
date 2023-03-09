@@ -1,0 +1,114 @@
+[
+  {
+    "note": [
+      ";"
+    ],
+    "title": [
+      "// check if a Point is on this Line bool Line::incident(Point P) const { return a*P.getX() + b*P.getY() + c == 0"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "// fetch the coordinates of the point double x = P.getX(); double y = P.getY("
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Justicz",
+        "given": "J."
+      },
+      {
+        "family": "Scheinerman",
+        "given": "E."
+      },
+      {
+        "family": "Winkler",
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "American Mathematical Monthly"
+    ],
+    "date": [
+      "1990-12"
+    ],
+    "genre": [
+      "[Reference:"
+    ],
+    "pages": [
+      "881–889"
+    ],
+    "title": [
+      "that intersects all the others is 23",
+      "Random intervals"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "97"
+    ]
+  },
+  {
+    "issue": [
+      "yp_count[table[0].getC()]++"
+    ],
+    "title": [
+      "// Process unique elements in the tables leg_count[table[0].getA()]++"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "14.6"
+    ],
+    "title": [
+      "A complete program to count polygrams in a text file is included on the accompanying CD-ROM"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "koch_step",
+        "particle": "void"
+      }
+    ],
+    "container-title": [
+      "X = Point(",
+      "Z = Point("
+    ],
+    "date": [
+      "2*b+d)/3",
+      "b+2*d)/3"
+    ],
+    "title": [
+      "{ double a = P.getX(); double b = P.getY(); double c = Q.getX(); double d = Q.getY("
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2*a+c)/3",
+      "a+2*c)/3"
+    ]
+  },
+  {
+    "note": [
+      "P.fline(x1,y1,x2,y2); "
+    ],
+    "title": [
+      "for (int k=0; k<K.size()-1; k++) { double x1 = K.get(k).getX(); double y1 = K.get(k).getY(); double x2 = K.get(k+1).getX(); double y2 = K.get(k+1).getY("
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      " return Constructible(a) * X; inline Constructible operator-(long a, Constructible X) { return Constructible(a) - X; inline Constructible operator/(long a, Constructible X) { return Constructible(a) / X;"
+    ],
+    "title": [
+      "inline Constructible operator+(long a, Constructible X) { return Constructible(a) + X; inline Constructible operator*(long a, Constructible X"
+    ],
+    "type": null
+  }
+]
