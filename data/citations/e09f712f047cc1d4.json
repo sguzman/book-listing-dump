@@ -1,0 +1,6090 @@
+[
+  {
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets Bibliography"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "AHARONI",
+        "given": "G."
+      },
+      {
+        "family": "AVERBUCH",
+        "given": "A."
+      },
+      {
+        "family": "COIFMAN",
+        "given": "R."
+      },
+      {
+        "family": "ISRAELI",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "1"
+    ],
+    "container-title": [
+      "J. Math. Imag. Vision"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "7–38"
+    ],
+    "title": [
+      "Local Cosine Transform — A Method for the Reduction of the Blocking Effect in JPEG"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ALPERT",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "2"
+    ],
+    "container-title": [
+      "SIAM J. Mathematical Analysis"
+    ],
+    "date": [
+      "1993-01"
+    ],
+    "pages": [
+      "246–262"
+    ],
+    "title": [
+      "A Class of Bases in L2 for the Sparse Representation of Integral Operators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ALPERT",
+        "given": "B."
+      },
+      {
+        "family": "BEYLKIN",
+        "given": "G."
+      },
+      {
+        "family": "COIFMAN",
+        "given": "R."
+      },
+      {
+        "family": "ROKHLIN",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "3"
+    ],
+    "container-title": [
+      "SIAM J. Sci. Comp"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "159–184"
+    ],
+    "title": [
+      "Wavelet-Like Bases for the Fast Solution of Second-Kind Integral Equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ANDERSSON",
+        "given": "L."
+      },
+      {
+        "family": "HALL",
+        "given": "N."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "PETERS",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "4"
+    ],
+    "pages": [
+      "1–61"
+    ],
+    "title": [
+      "Wavelets on Closed Subsets of the Real Line"
+    ],
+    "type": null,
+    "volume": [
+      "In [169"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ANTONINI",
+        "given": "M."
+      },
+      {
+        "family": "BARLAUD",
+        "given": "M."
+      },
+      {
+        "family": "MATHIEU",
+        "given": "P."
+      },
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "5"
+    ],
+    "container-title": [
+      "IEEE Trans. Image Process"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "205–220"
+    ],
+    "title": [
+      "Image Coding using the Wavelet Transform"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "APPEL",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "SIAM J. Scientific and Statistical Computing"
+    ],
+    "date": [
+      "1985"
+    ],
+    "pages": [
+      "85–103"
+    ],
+    "title": [
+      "An Efficient Program for Many Body Simulation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ARVO",
+        "given": "J."
+      },
+      {
+        "family": "TORRANCE",
+        "given": "K."
+      },
+      {
+        "family": "SMITS",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "note": [
+      "ACM. To appear."
+    ],
+    "title": [
+      "A Framework for the Analysis of Error in Global Illumination Algorithms"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "AUPPERLE",
+        "given": "L."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Computer Graphics Annual Conference Series 1993"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 155–162"
+    ],
+    "title": [
+      "A Hierarchical Illumination Algorithm for Surfaces with Glossy Reflection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "AUSCHER",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "9"
+    ],
+    "pages": [
+      "217–236"
+    ],
+    "title": [
+      "Wavelets with Boundary Conditions on the Interval"
+    ],
+    "type": null,
+    "volume": [
+      "In [27"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BACRY",
+        "given": "E."
+      },
+      {
+        "family": "MALLAT",
+        "given": "S."
+      },
+      {
+        "family": "PAPANICOLAOU",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "10"
+    ],
+    "container-title": [
+      "RAIRO Mathematical Modelling and Numerical Analysis"
+    ],
+    "pages": [
+      "7"
+    ],
+    "title": [
+      "A Wavelet Based Space-Time Adaptive Numerical Method for Partial Differential Equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARNES",
+        "given": "J."
+      },
+      {
+        "family": "HUT",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "11"
+    ],
+    "container-title": [
+      "Force Calculation Algorithm. Nature"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "446–449"
+    ],
+    "title": [
+      "A Hierarchical O(n log n"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "324"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BARTELS",
+        "given": "R."
+      },
+      {
+        "family": "BEATTY",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "12"
+    ],
+    "container-title": [
+      "Graphics Interface"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "33–39"
+    ],
+    "title": [
+      "A Technique for the Direct Manipulation of Spline Curves"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "BARTELS",
+        "given": "R.H."
+      },
+      {
+        "family": "BEATTY",
+        "given": "J.C."
+      },
+      {
+        "family": "BARSKY",
+        "given": "B.A."
+      }
+    ],
+    "citation-number": [
+      "13"
+    ],
+    "date": [
+      "1987"
+    ],
+    "publisher": [
+      "Morgan Kaufmann Publishers, Inc"
+    ],
+    "title": [
+      "An Introduction to Splines for Use in Computer Graphics and Geometric Modeling"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BEAUCHAMP",
+        "given": "K.G."
+      }
+    ],
+    "citation-number": [
+      "14"
+    ],
+    "date": [
+      "1984"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Applications of Walsh and Related Functions"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "BEYLKIN",
+        "given": "G."
+      },
+      {
+        "family": "COIFMAN",
+        "given": "R."
+      },
+      {
+        "family": "ROKHLIN",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "15"
+    ],
+    "container-title": [
+      "Comm. Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "141–183"
+    ],
+    "title": [
+      "Fast Wavelet Transforms and Numerical Algorithms I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "44"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "BOUATOUCH",
+        "given": "K."
+      },
+      {
+        "family": "PATTANAIK",
+        "given": "S.N."
+      }
+    ],
+    "citation-number": [
+      "16"
+    ],
+    "container-title": [
+      "Proceedings of Graphics Interface"
+    ],
+    "date": [
+      "1995"
+    ],
+    "title": [
+      "Discontinuity Meshing and Hierarchical Multi-Wavelet Radiosity"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CANNY",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "17"
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "679–698"
+    ],
+    "title": [
+      "A Computational Approach to Edge Detection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CARNICER",
+        "given": "J.M."
+      },
+      {
+        "family": "DAHMEN",
+        "given": "W."
+      },
+      {
+        "family": "PENA",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "18"
+    ],
+    "container-title": [
+      "Insitut fur Geometrie und angewandete Mathematik"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "RWTH Aachen"
+    ],
+    "title": [
+      "Local decompositions of refinable spaces"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "CATMULL",
+        "given": "E."
+      },
+      {
+        "family": "CLARK",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "19"
+    ],
+    "container-title": [
+      "Computer Aided Design"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "350–355"
+    ],
+    "title": [
+      "Recursively Generated B-spline Surfaces on Arbitrary Topological Meshes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10, 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CAVARETTA",
+        "given": "A."
+      },
+      {
+        "family": "DAHMEN",
+        "given": "W."
+      },
+      {
+        "family": "MICCHELLI",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "20"
+    ],
+    "container-title": [
+      "Memoirs Amer. Math. Soc"
+    ],
+    "date": [
+      "1991"
+    ],
+    "title": [
+      "Subdivision for Computer Aided Geometric Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "93"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CELNIKER",
+        "given": "G."
+      },
+      {
+        "family": "GOSSARD",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "21"
+    ],
+    "container-title": [
+      "Computer Graphics"
+    ],
+    "date": [
+      "1991-07"
+    ],
+    "pages": [
+      "257–266"
+    ],
+    "title": [
+      "Deformable Curve and Surface Finite-Elements for Free-From Shape Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHRISTENSEN",
+        "given": "P.H."
+      },
+      {
+        "family": "LISCHINSKI",
+        "given": "D."
+      },
+      {
+        "family": "STOLLNITZ",
+        "given": "E."
+      },
+      {
+        "family": "SALESIN",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "22"
+    ],
+    "date": [
+      "1995-02"
+    ],
+    "genre": [
+      "TR 95-01-07,"
+    ],
+    "publisher": [
+      "University of Washington, Department of Computer Science"
+    ],
+    "title": [
+      "Clustering for Glossy Global Illumination"
+    ],
+    "type": null,
+    "url": [
+      "ftp://ftp.cs.washington.edu/tr/1994/01/UW-CSE-95-01-07.PS.Z."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHRISTENSEN",
+        "given": "P.H."
+      },
+      {
+        "family": "STOLLNITZ",
+        "given": "E.J."
+      },
+      {
+        "family": "SALESIN",
+        "given": "D.H."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T.D."
+      }
+    ],
+    "citation-number": [
+      "23"
+    ],
+    "container-title": [
+      "Proceedings of the 5th Eurographics Workshop on Rendering"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "location": [
+      "Darmstadt"
+    ],
+    "pages": [
+      "287–302"
+    ],
+    "title": [
+      "Wavelet Radiance"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C."
+      },
+      {
+        "family": "QUAK",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "24"
+    ],
+    "container-title": [
+      "Numerical Methods of Approximation Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Braess",
+        "given": "D."
+      },
+      {
+        "family": "Schumaker",
+        "given": "L.L."
+      },
+      {
+        "family": "Eds.",
+        "given": "Birkhauser-Verlag"
+      },
+      {
+        "given": "Basel"
+      }
+    ],
+    "pages": [
+      "1–24"
+    ],
+    "title": [
+      "Wavelets on a Bounded Interval"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      }
+    ],
+    "citation-number": [
+      "25"
+    ],
+    "container-title": [
+      "Approximation Theory and Functional Analysis"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "family": "Chui",
+        "given": "C.K."
+      }
+    ],
+    "pages": [
+      "47–71"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "An Overview of Wavelets"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      }
+    ],
+    "citation-number": [
+      "26"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Boston, MA"
+    ],
+    "publisher": [
+      "Academic Press, Inc"
+    ],
+    "title": [
+      "An Introduction to Wavelets",
+      "of Wavelet Analysis and its Applications"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "citation-number": [
+      "27"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      }
+    ],
+    "location": [
+      "San Diego"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Wavelets: A Tutorial in Theory and Applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      },
+      {
+        "family": "MONTEFUSCO",
+        "given": "L."
+      },
+      {
+        "given": "P.U.C.C.I.O."
+      }
+    ],
+    "citation-number": [
+      "28"
+    ],
+    "container-title": [
+      "Conference on Wavelets: Theory, Algorithms, and Applications"
+    ],
+    "date": [
+      "1994"
+    ],
+    "editor": [
+      {
+        "given": "L."
+      }
+    ],
+    "location": [
+      "San Diego, CA"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      },
+      {
+        "family": "QUAK",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "29"
+    ],
+    "container-title": [
+      "Numerical Methods of Approximation Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Braess",
+        "given": "D."
+      },
+      {
+        "family": "Schumaker",
+        "given": "L.L."
+      }
+    ],
+    "location": [
+      "Basel"
+    ],
+    "pages": [
+      "53–75"
+    ],
+    "publisher": [
+      "Birkhauser Verlag"
+    ],
+    "title": [
+      "Wavelets on a Bounded Interval"
+    ],
+    "type": "chapter",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      },
+      {
+        "family": "WANG",
+        "given": "J.Z."
+      }
+    ],
+    "citation-number": [
+      "30"
+    ],
+    "date": [
+      "1990"
+    ],
+    "genre": [
+      "Tech. Rep. CAT 223,"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "publisher": [
+      "Center for Approximation Theory, Department of Mathematics, Texas A&M University"
+    ],
+    "title": [
+      "An Overview of Wavelets"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "CHUI",
+        "given": "C.K."
+      },
+      {
+        "family": "WANG",
+        "given": "J.Z."
+      }
+    ],
+    "citation-number": [
+      "31"
+    ],
+    "container-title": [
+      "J. Approx. Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "263–304"
+    ],
+    "title": [
+      "A General Framework of Compactly Supported Splines and Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "A.Ondelettes"
+      }
+    ],
+    "citation-number": [
+      "32"
+    ],
+    "container-title": [
+      "Ann. Inst. H. Poincare, Anal. Non Lineaire"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "439–459"
+    ],
+    "title": [
+      "Analyses Multiresolutions et Filtres Miroirs en Quadrature"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7, 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "A."
+      },
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      },
+      {
+        "family": "FEAUVEAU",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "33"
+    ],
+    "container-title": [
+      "Comm. Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "485–560"
+    ],
+    "title": [
+      "Bi-orthogonal Bases of Compactly Supported Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "A."
+      },
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      },
+      {
+        "family": "FEAUVEAU",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "34"
+    ],
+    "container-title": [
+      "Communication on Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "485–560"
+    ],
+    "title": [
+      "Biorthogonal Bases of Compactly Supported Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "45"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "A."
+      },
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "VIAL",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "35"
+    ],
+    "container-title": [
+      "Comptes Rendus de l’Acad. Sci. Paris I"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "417–421"
+    ],
+    "title": [
+      "Multiresolution Analysis, Wavelets and Fast Algorithms on an Interval"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "316"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "A."
+      },
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      },
+      {
+        "family": "VIAL",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "36"
+    ],
+    "container-title": [
+      "Appl. Comput. Harmon. Anal"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "54–81"
+    ],
+    "title": [
+      "Multiresolution analysis, wavelets and fast algorithms on an interval"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      }
+    ],
+    "citation-number": [
+      "37"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH) 26"
+    ],
+    "date": [
+      "1992-07"
+    ],
+    "pages": [
+      "293–302"
+    ],
+    "title": [
+      "Interactive Spacetime Control for Animation"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      },
+      {
+        "family": "GREENBERG",
+        "given": "D.P."
+      },
+      {
+        "family": "IMMEL",
+        "given": "D.S."
+      },
+      {
+        "family": "BROCK",
+        "given": "P.J."
+      }
+    ],
+    "citation-number": [
+      "38"
+    ],
+    "container-title": [
+      "IEEE Computer Graphics and Applications"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "pages": [
+      "26–35"
+    ],
+    "title": [
+      "An Efficient Radiosity Approach for Realistic Image Synthesis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      },
+      {
+        "family": "WALLACE",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "39"
+    ],
+    "date": [
+      "1993"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Radiosity and Realistic Image Synthesis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "COIFMAN",
+        "given": "R."
+      },
+      {
+        "family": "MEYER",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "40"
+    ],
+    "container-title": [
+      "Sci. Paris I"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "259–261"
+    ],
+    "title": [
+      "Remarques sur l’Analyse de Fourier a Fenetre. Comptes Rendus de l’Acad"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "312"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "COIFMAN",
+        "given": "R.R."
+      },
+      {
+        "family": "MEYER",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "41"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Orthonormal Wave Packet Bases"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "COIFMAN",
+        "given": "R.R."
+      },
+      {
+        "family": "MEYER",
+        "given": "Y."
+      },
+      {
+        "family": "QUAKE",
+        "given": "S."
+      },
+      {
+        "family": "WICKERHAUSER",
+        "given": "M.V."
+      }
+    ],
+    "citation-number": [
+      "42"
+    ],
+    "container-title": [
+      "Proceedings of the International Conference on Wavelets"
+    ],
+    "date": [
+      "1989"
+    ],
+    "editor": [
+      {
+        "family": "Meyer",
+        "given": "Y."
+      },
+      {
+        "family": "Ed.",
+        "given": "Masson"
+      }
+    ],
+    "location": [
+      "Marseille",
+      "Paris"
+    ],
+    "title": [
+      "Signal Processing and Compression with Wave Packets"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "COIFMAN",
+        "given": "R.R."
+      },
+      {
+        "family": "WICKERHAUSER",
+        "given": "M.L."
+      }
+    ],
+    "citation-number": [
+      "43"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "713–718"
+    ],
+    "title": [
+      "Entropy Based Algorithms for Best Basis Selection"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAHMEN",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "44"
+    ],
+    "container-title": [
+      "Institut fur Geometrie und angewandete Mathematik"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "Tech. rep.,"
+    ],
+    "location": [
+      "RWTH Aachen"
+    ],
+    "title": [
+      "Stability of multiscale transformations"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DAHMEN",
+        "given": "W."
+      },
+      {
+        "family": "KUNOTH",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "45"
+    ],
+    "container-title": [
+      "Numer. Math"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "315–344"
+    ],
+    "title": [
+      "Multilevel Preconditioning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAHMEN",
+        "given": "W."
+      },
+      {
+        "family": "KUNOTH",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "46"
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "315–344"
+    ],
+    "title": [
+      "Multilevel Preconditioning"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAHMEN",
+        "given": "W."
+      },
+      {
+        "family": "PROSSDORF",
+        "given": "S."
+      },
+      {
+        "family": "SCHNEIDER",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "47"
+    ],
+    "container-title": [
+      "[28"
+    ],
+    "pages": [
+      "385–424"
+    ],
+    "title": [
+      "Multiscale methods for pseudo-differential equations on smooth manifolds"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "48"
+    ],
+    "container-title": [
+      "Comm. Pure and Applied Mathematics"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "909–996"
+    ],
+    "title": [
+      "Orthonormal Bases of Compactly Supported Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "49"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1990-09"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "pages": [
+      "961–1005"
+    ],
+    "title": [
+      "The Wavelet Transform, Time-Frequency Localization of and Signal Analysis"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36, 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "50"
+    ],
+    "container-title": [
+      "CBMS-NSF Regional Conference Series on Applied Mathematics. SIAM"
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Philadelphia, PA"
+    ],
+    "title": [
+      "Ten Lectures on Wavelets"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "61"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAUBECHIES",
+        "given": "I.Ten Lectures on Wavelets"
+      }
+    ],
+    "citation-number": [
+      "51"
+    ],
+    "collection-title": [
+      "in CBMS-NSF Series in Applied Mathematics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "issue": [
+      "61"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "SIAM"
+    ],
+    "type": "book",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      }
+    ],
+    "citation-number": [
+      "52"
+    ],
+    "container-title": [
+      "SIAM J. Math. Anal"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "499–519"
+    ],
+    "title": [
+      "Orthonormal bases of compactly supported wavelets II: Variations on a theme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DAUBECHIES",
+        "given": "I."
+      },
+      {
+        "family": "LAGARIAS",
+        "given": "J.C."
+      }
+    ],
+    "citation-number": [
+      "53"
+    ],
+    "container-title": [
+      "SIAM J. Mathematical Analysis"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "1388–1410"
+    ],
+    "title": [
+      "Two-scale Difference Equations I. Existence and Global Regularity of Solutions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22, 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DELVES",
+        "given": "L.M."
+      },
+      {
+        "family": "MOHAMED",
+        "given": "J.L."
+      }
+    ],
+    "citation-number": [
+      "54"
+    ],
+    "date": [
+      "1985"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Computational Methods for Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DENG",
+        "given": "B."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "PETERS",
+        "given": "G."
+      },
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "55"
+    ],
+    "container-title": [
+      "Mathematical Imaging: Wavelet Applications in Signal and Image Processing (1993), A",
+      "SPIE Proceedings Series"
+    ],
+    "editor": [
+      {
+        "family": "Laine",
+        "given": "F."
+      }
+    ],
+    "pages": [
+      "266–276"
+    ],
+    "title": [
+      "Wavelet Probing for Compression Based Segmentation"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "2034"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DESLAURIERS",
+        "given": "G."
+      },
+      {
+        "family": "DUBUC",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "56"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "pages": [
+      "44–55"
+    ],
+    "publisher": [
+      "Masson"
+    ],
+    "title": [
+      "Interpolation dyadique. In Fractals, dimensions non entieres et applications"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DESLAURIERS",
+        "given": "G."
+      },
+      {
+        "family": "DUBUC",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "57"
+    ],
+    "container-title": [
+      "Constr. Approx"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "49–68"
+    ],
+    "title": [
+      "Symmetric Iterative Interpolation Processes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DEVORE",
+        "given": "R.A."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "LUCIER",
+        "given": "B.J."
+      }
+    ],
+    "citation-number": [
+      "58"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "719–746"
+    ],
+    "title": [
+      "Image Compression Through Wavelet Rransform Coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DEVORE",
+        "given": "R.A."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "LUCIER",
+        "given": "B.J."
+      }
+    ],
+    "citation-number": [
+      "59"
+    ],
+    "container-title": [
+      "Computer Aided Geometric Design"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "219–239"
+    ],
+    "title": [
+      "Surface Compression"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DEVORE",
+        "given": "R.A."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "POPOV",
+        "given": "V."
+      }
+    ],
+    "citation-number": [
+      "60"
+    ],
+    "container-title": [
+      "Amer. J. Math"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "737–785"
+    ],
+    "title": [
+      "Compression of Wavelet Decompositions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "114"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DEVORE",
+        "given": "R.A."
+      },
+      {
+        "family": "LUCIER",
+        "given": "B.J."
+      }
+    ],
+    "citation-number": [
+      "61"
+    ],
+    "container-title": [
+      "Acta Numerica"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "1–56"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Wavelets"
+    ],
+    "type": "chapter",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DONOHO",
+        "given": "D.L."
+      }
+    ],
+    "citation-number": [
+      "62"
+    ],
+    "container-title": [
+      "[169"
+    ],
+    "pages": [
+      "259–308"
+    ],
+    "title": [
+      "Smooth Wavelet Decompositions with Blocky Coefficient Kernels"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DONOHO",
+        "given": "D.L."
+      }
+    ],
+    "citation-number": [
+      "63"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "publisher": [
+      "Department of Statistics, Stanford University"
+    ],
+    "title": [
+      "Interpolating wavelet transforms"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DONOHO",
+        "given": "D.L."
+      }
+    ],
+    "citation-number": [
+      "64"
+    ],
+    "container-title": [
+      "Appl. Comput. Harmon. Anal"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "100–115"
+    ],
+    "title": [
+      "Unconditional Bases are Optimal Bases for Data Compression and for Statistical Estimation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DONOHO",
+        "given": "D.L."
+      },
+      {
+        "family": "JOHNSTONE",
+        "given": "I.M."
+      }
+    ],
+    "citation-number": [
+      "65"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Preprint Department of Statistics, Stanford University"
+    ],
+    "title": [
+      "Adapting to Unknown Smoothness by Wavelet Shrinkage"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DONOHO",
+        "given": "D.L."
+      },
+      {
+        "family": "JOHNSTONE",
+        "given": "I.M."
+      }
+    ],
+    "citation-number": [
+      "66"
+    ],
+    "date": [
+      "1992"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "publisher": [
+      "Preprint Department of Statistics, Stanford University"
+    ],
+    "title": [
+      "Ideal Spatial Adaptation via Wavelet Shrinkage"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "DONOHO",
+        "given": "D.L."
+      },
+      {
+        "family": "JOHNSTONE",
+        "given": "I.M.New Minimax Theorems"
+      }
+    ],
+    "citation-number": [
+      "67"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Preprint Department of Statistics, Stanford University"
+    ],
+    "title": [
+      "Thresholding, and Adaptation"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "DOO",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "68"
+    ],
+    "date": [
+      "1978"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "publisher": [
+      "Brunel University"
+    ],
+    "title": [
+      "A Recursive Subdivision Algorithm for Fitting Quadratic Surfaces to Irregular Polyhedrons"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "DOO",
+        "given": "D."
+      },
+      {
+        "family": "SABIN",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "69"
+    ],
+    "container-title": [
+      "Computer Aided Design"
+    ],
+    "date": [
+      "1978"
+    ],
+    "pages": [
+      "356–360"
+    ],
+    "title": [
+      "Behaviour of Recursive Division Surfaces Near Extraordinary Points"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10, 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DRETTAKIS",
+        "given": "G."
+      },
+      {
+        "family": "FIUME",
+        "given": "E."
+      },
+      {
+        "family": "FOURNIER",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "70"
+    ],
+    "container-title": [
+      "Eurographics ’90"
+    ],
+    "date": [
+      "1990-09"
+    ],
+    "editor": [
+      {
+        "family": "Vandoni",
+        "given": "C."
+      },
+      {
+        "family": "Duce",
+        "given": "D."
+      }
+    ],
+    "pages": [
+      "– , 387–398"
+    ],
+    "title": [
+      "Tightly-Coupled Multiprocessing for a Global Illumination Algorithm"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "DYN",
+        "given": "N."
+      },
+      {
+        "family": "GREGORY",
+        "given": "A."
+      },
+      {
+        "family": "LEVIN",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "71"
+    ],
+    "container-title": [
+      "Computer Aided Geometric Design"
+    ],
+    "date": [
+      "1987"
+    ],
+    "pages": [
+      "257–268"
+    ],
+    "title": [
+      "A 4-point Interpolatory Subdivision Scheme for Curve Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DYN",
+        "given": "N."
+      },
+      {
+        "family": "LEVIN",
+        "given": "D."
+      },
+      {
+        "family": "GREGORY",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "72"
+    ],
+    "container-title": [
+      "ACM Trans. on Graphics"
+    ],
+    "date": [
+      "1990-04"
+    ],
+    "pages": [
+      "160–169"
+    ],
+    "title": [
+      "A Butterfly Subdivision Scheme for Surface Interpolation with Tension Control"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "EIROLA",
+        "given": "T."
+      }
+    ],
+    "citation-number": [
+      "73"
+    ],
+    "container-title": [
+      "SIAM J. Mathematical Analysis"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "1015–1030"
+    ],
+    "title": [
+      "Sobolev Characterization of Solutions of Dilation Equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FANG",
+        "given": "X."
+      },
+      {
+        "family": "SERE",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "74"
+    ],
+    "edition": [
+      "Preprint"
+    ],
+    "title": [
+      "Adaptive Multiple Folding Local Trigonometric Transforms and Wavelet Packets"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FINKELSTEIN",
+        "given": "A."
+      },
+      {
+        "family": "SALESIN",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "75"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIG-GRAPH"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "note": [
+      "ACM. To appear."
+    ],
+    "title": [
+      "Multiresolution Curves"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "FINKELSTEIN",
+        "given": "A."
+      },
+      {
+        "family": "SALESIN",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "76"
+    ],
+    "container-title": [
+      "Computer Graphics, Annual Conference Series"
+    ],
+    "date": [
+      "1994"
+    ],
+    "pages": [
+      "261–268"
+    ],
+    "title": [
+      "Multiresolution Curves",
+      "Siggraph"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "FLANDRIN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "77"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1989-01"
+    ],
+    "pages": [
+      "197–199"
+    ],
+    "title": [
+      "On the Spectrum of Fractional Brownian Motions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "35, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FLANDRIN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "78"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "910–917"
+    ],
+    "title": [
+      "Wavelet Analysis and Synthesis of Fractional Brownian Motion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FLETCHER",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "79"
+    ],
+    "date": [
+      "1980"
+    ],
+    "publisher": [
+      "John Wiley and Sons"
+    ],
+    "title": [
+      "Practical Methods of Optimization 1"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "FORSEY",
+        "given": "D."
+      },
+      {
+        "family": "BARTELS",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "80"
+    ],
+    "container-title": [
+      "Computer Graphics"
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "pages": [
+      "205–212"
+    ],
+    "title": [
+      "Hierarchical B-Spline Refinement"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FORSEY",
+        "given": "D."
+      },
+      {
+        "family": "WENG",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "81"
+    ],
+    "container-title": [
+      "Graphics Interface"
+    ],
+    "date": [
+      "1993"
+    ],
+    "title": [
+      "Multi-resolution Surface Approximation for Animation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "FORSEY",
+        "given": "D.R."
+      },
+      {
+        "family": "BARTELS",
+        "given": "R.H.Hierarchical B.-spline Refinement"
+      }
+    ],
+    "citation-number": [
+      "82"
+    ],
+    "container-title": [
+      "SIGGRAPH"
+    ],
+    "date": [
+      "1988"
+    ],
+    "pages": [
+      "205–212"
+    ],
+    "title": [
+      "Computer Graphics (Proc"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FORSEY",
+        "given": "D.R."
+      },
+      {
+        "family": "BARTELS",
+        "given": "R.H."
+      }
+    ],
+    "citation-number": [
+      "83"
+    ],
+    "container-title": [
+      "ACM Trans"
+    ],
+    "note": [
+      "on Graphics (To appear.)."
+    ],
+    "title": [
+      "Tensor Products and Hierarchical Surface Approximation"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "FOURNIER",
+        "given": "A."
+      },
+      {
+        "family": "FIUME",
+        "given": "E."
+      },
+      {
+        "family": "OUELLETTE",
+        "given": "M."
+      },
+      {
+        "family": "CHEE",
+        "given": "C.K."
+      }
+    ],
+    "citation-number": [
+      "84"
+    ],
+    "date": [
+      "1989"
+    ],
+    "genre": [
+      "Technical Memo DGP89–1,"
+    ],
+    "publisher": [
+      "Dynamic Graphics Project, Department of Computer Science, University of Toronto"
+    ],
+    "title": [
+      "FIAT LUX: Light Driven Global Illumination"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "FOURNIER",
+        "given": "A."
+      },
+      {
+        "family": "FUSSELL",
+        "given": "D."
+      },
+      {
+        "family": "CARPENTER",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "85"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1982-06"
+    ],
+    "pages": [
+      "371–384"
+    ],
+    "title": [
+      "Computer Rendering of Stochastic Models"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "25, 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "FOWLER",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "86"
+    ],
+    "container-title": [
+      "Proceedings, Symposium on Interactive 3D Graphics"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "101–108"
+    ],
+    "title": [
+      "Geometric Manipulation of Tensor Product Surfaces"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "GABOR",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "87"
+    ],
+    "container-title": [
+      "J. of the IEEE"
+    ],
+    "date": [
+      "1946"
+    ],
+    "pages": [
+      "429–457"
+    ],
+    "title": [
+      "Theory of Communication"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "93"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GERSHBEIN",
+        "given": "R.S."
+      },
+      {
+        "family": "SCHRODER",
+        "given": "P."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "88"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "note": [
+      "ACM. To appear."
+    ],
+    "title": [
+      "Textures and Radiosity: Controlling Emission and Reflection with Texture Maps"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "GERSHO",
+        "given": "A."
+      },
+      {
+        "family": "GRAY",
+        "given": "R.M."
+      }
+    ],
+    "citation-number": [
+      "89"
+    ],
+    "date": [
+      "1992"
+    ],
+    "publisher": [
+      "Kluwer Academic Publishers"
+    ],
+    "title": [
+      "Vector Quantizing and Signal Compression"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "GLOWINSKI",
+        "given": "R."
+      },
+      {
+        "family": "LAWTON",
+        "given": "W.M."
+      },
+      {
+        "family": "RAVECHOL",
+        "given": "M."
+      },
+      {
+        "family": "TENENBAUM",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "90"
+    ],
+    "container-title": [
+      "Proceedings of the 9th International Conference on Numerical Methods in Applied Sciences and Engineering (1990), SIAM"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "title": [
+      "Wavelet Solution of Linear and Nonlinear Elliptic Parabolic and Hyperbolic Problems in One Space Dimension"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "GORAL",
+        "given": "C.M."
+      },
+      {
+        "family": "TORRANCE",
+        "given": "K.E."
+      },
+      {
+        "family": "GREENBERG",
+        "given": "D.P."
+      },
+      {
+        "family": "BATTAILE",
+        "given": "B."
+      }
+    ],
+    "citation-number": [
+      "91"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1984-07"
+    ],
+    "pages": [
+      "213–222"
+    ],
+    "title": [
+      "Modelling the Interaction of Light between Diffuse Surfaces"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "18, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "GORTLER",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "92"
+    ],
+    "date": [
+      "1993"
+    ],
+    "genre": [
+      "personal communication,"
+    ],
+    "type": "personal_communication"
+  },
+  {
+    "author": [
+      {
+        "family": "GORTLER",
+        "given": "S."
+      },
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      }
+    ],
+    "citation-number": [
+      "93"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "Tech. Rep. Technical Report CS-TR-456-94,"
+    ],
+    "publisher": [
+      "Departmentf of Computer Science, Princeton University"
+    ],
+    "title": [
+      "Variational Modeling with Wavelets"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "GORTLER",
+        "given": "S."
+      },
+      {
+        "family": "SCHRODER",
+        "given": "P."
+      },
+      {
+        "family": "COHEN",
+        "given": "M."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "94"
+    ],
+    "container-title": [
+      "Computer Graphics Annual Conference Series 1993"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 221–230"
+    ],
+    "title": [
+      "Wavelet Radiosity"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "GORTLER",
+        "given": "S.J."
+      }
+    ],
+    "citation-number": [
+      "95"
+    ],
+    "date": [
+      "1995-01"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "publisher": [
+      "Princeton University"
+    ],
+    "title": [
+      "Wavelet Methods for Computer Graphics"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "GORTLER",
+        "given": "S.J."
+      },
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      },
+      {
+        "family": "SLUSALLEK",
+        "given": "P.Radiosity"
+      },
+      {
+        "family": "Methods",
+        "given": "Relaxation"
+      }
+    ],
+    "citation-number": [
+      "96"
+    ],
+    "date": [
+      "1993-02"
+    ],
+    "genre": [
+      "Tech. Rep. CS-TR-408-93,"
+    ],
+    "note": [
+      "To appear in IEEE Computer Graphics and Applications."
+    ],
+    "publisher": [
+      "Department of Computer Science, Princeton University"
+    ],
+    "title": [
+      "Progressive Refinement is Southwell Relaxation"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "GORTLER",
+        "given": "S.J."
+      },
+      {
+        "family": "SCHRODER",
+        "given": "P."
+      },
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "97"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 221–230"
+    ],
+    "title": [
+      "Wavelet Radiosity"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "GREENGARD",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "98"
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "MIT Press"
+    ],
+    "title": [
+      "The Rapid Evaluation of Potential Fields in Particle Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "H.A.A.R."
+      }
+    ],
+    "citation-number": [
+      "99"
+    ],
+    "container-title": [
+      "Math. Annal"
+    ],
+    "date": [
+      "1910"
+    ],
+    "pages": [
+      "331–371"
+    ],
+    "title": [
+      "Zur Theorie der Orthogonalen Funktionensysteme"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "69"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HALSTEAD",
+        "given": "M."
+      },
+      {
+        "family": "KASS",
+        "given": "M."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T.Efficient"
+      }
+    ],
+    "citation-number": [
+      "100"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 35–44"
+    ],
+    "title": [
+      "Fair Interpolation using Catmull-Clark Surfaces"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "HALSTEAD",
+        "given": "M."
+      },
+      {
+        "family": "KASS",
+        "given": "M."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T.Efficient"
+      }
+    ],
+    "citation-number": [
+      "101"
+    ],
+    "container-title": [
+      "Computer Graphics, Annual Conference Series"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "35–43"
+    ],
+    "title": [
+      "Fair Interpolation using Catmull-Clark Surfaces",
+      "Siggraph"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      },
+      {
+        "family": "SALZMAN",
+        "given": "D."
+      },
+      {
+        "family": "AUPPERLE",
+        "given": "L."
+      }
+    ],
+    "citation-number": [
+      "102"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH) 25"
+    ],
+    "date": [
+      "1991-07"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "pages": [
+      "197–206"
+    ],
+    "title": [
+      "A Rapid Hierarchical Radiosity Algorithm"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HECKBERT",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "103"
+    ],
+    "date": [
+      "1991-01"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "publisher": [
+      "University of California at Berkeley"
+    ],
+    "title": [
+      "Simulating Global Illumination Using Adaptive Meshing"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "HECKBERT",
+        "given": "P.S."
+      }
+    ],
+    "citation-number": [
+      "104"
+    ],
+    "container-title": [
+      "Computer Graphics Forum"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "181–192"
+    ],
+    "title": [
+      "Radiosity in Flatland"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HILTON",
+        "given": "M.L."
+      },
+      {
+        "family": "JAWERTH",
+        "given": "B.D."
+      },
+      {
+        "family": "SENGUPTA",
+        "given": "A.N."
+      }
+    ],
+    "citation-number": [
+      "105"
+    ],
+    "container-title": [
+      "Multimedia Systems"
+    ],
+    "date": [
+      "1994"
+    ],
+    "title": [
+      "Compressing Still and Moving Images with Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "HOPPE",
+        "given": "H."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T."
+      },
+      {
+        "family": "DUCHAMP",
+        "given": "T."
+      },
+      {
+        "family": "HALSTEAD",
+        "given": "M."
+      },
+      {
+        "family": "JIN",
+        "given": "H."
+      },
+      {
+        "family": "MCDONALD",
+        "given": "J."
+      },
+      {
+        "family": "SCHWEITZER",
+        "given": "J."
+      },
+      {
+        "family": "STUETZLE",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "106"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "note": [
+      "ACM. To appear."
+    ],
+    "title": [
+      "Piecewise-Smooth Surface Reconstruction"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "JAFFARD",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "107"
+    ],
+    "container-title": [
+      "Comptes Rendus de l’Acad. Sci. Paris"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "308",
+      "79–81"
+    ],
+    "title": [
+      "Exposants de Holder en des Points Donnes et Coefficients d’ondelettes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "JAFFARD",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "108"
+    ],
+    "container-title": [
+      "SIAM J. Numer. Anal"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "965–986"
+    ],
+    "title": [
+      "Wavelet Methods for Fast Resolution of Elliptic Problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "JAFFARD",
+        "given": "S."
+      },
+      {
+        "family": "LAURENCOT",
+        "given": "P.Orthonormal Wavelets"
+      }
+    ],
+    "citation-number": [
+      "109"
+    ],
+    "container-title": [
+      "Wavelets: A Tutorial in Theory and Applications"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "Chui",
+        "given": "C.K."
+      }
+    ],
+    "pages": [
+      "543–602"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Analysis of Operators, and Applications to Numerical Analysis"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "HILTON",
+        "given": "M.L."
+      },
+      {
+        "family": "HUNSTBERGER",
+        "given": "T.L."
+      }
+    ],
+    "citation-number": [
+      "110"
+    ],
+    "container-title": [
+      "J. Math. Imag. Vision"
+    ],
+    "date": [
+      "1993"
+    ],
+    "pages": [
+      "39–49"
+    ],
+    "title": [
+      "Local Enhancement of Compressed Images"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "LIU",
+        "given": "Y."
+      },
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "111"
+    ],
+    "container-title": [
+      "Opt"
+    ],
+    "note": [
+      "Engineering (To appear)."
+    ],
+    "title": [
+      "Signal Compression with Smooth Local Trigonometric Bases"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "112"
+    ],
+    "container-title": [
+      "Sixth Copper Mountain Conference on Multigrid Methods (1993), N",
+      "NASA Conference Publication 3224"
+    ],
+    "editor": [
+      {
+        "family": "Melson",
+        "given": "D."
+      },
+      {
+        "family": "Manteuffel",
+        "given": "T.A."
+      },
+      {
+        "family": "McCormick",
+        "given": "S.F."
+      }
+    ],
+    "pages": [
+      "259–273"
+    ],
+    "title": [
+      "Wavelet Multiresolution Analyses Adapted for the Fast Solution of Boundary Value Ordinary Differential Equations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "JAWERTH",
+        "given": "B."
+      },
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "113"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "note": [
+      "To appear)."
+    ],
+    "title": [
+      "An Overview of Wavelet Based Multiresolution Analyses"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "JIA",
+        "given": "R.-Q."
+      },
+      {
+        "family": "MICCHELLI",
+        "given": "C.A."
+      }
+    ],
+    "citation-number": [
+      "114"
+    ],
+    "date": [
+      "1991"
+    ],
+    "editor": [
+      {
+        "given": "Curves"
+      },
+      {
+        "family": "Surfaces",
+        "given": "P.Laurent"
+      },
+      {
+        "family": "Mehaute",
+        "given": "A.L."
+      },
+      {
+        "family": "Schumaker",
+        "given": "L."
+      }
+    ],
+    "pages": [
+      "209–246"
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "title": [
+      "Using the Refinement Equations for the Construction of Pre-Wavelets II: Powers of Two"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "KAJIYA",
+        "given": "J.T."
+      }
+    ],
+    "citation-number": [
+      "115"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH) 20"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "143–150"
+    ],
+    "title": [
+      "The Rendering Equation"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "KONDO",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "116"
+    ],
+    "collection-title": [
+      "Oxford Applied Mathematics and Computing Science Series"
+    ],
+    "date": [
+      "1991"
+    ],
+    "publisher": [
+      "Kodansha"
+    ],
+    "title": [
+      "Integral Equations"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "LAWTON",
+        "given": "W.M."
+      }
+    ],
+    "citation-number": [
+      "117"
+    ],
+    "container-title": [
+      "J. Math. Phys"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "57–61"
+    ],
+    "title": [
+      "Necessary and Sufficient Conditions for Constructing Orthonormal Wavelets Bases"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LEMARIE",
+        "given": "P.G."
+      }
+    ],
+    "citation-number": [
+      "118"
+    ],
+    "container-title": [
+      "Sci. Paris"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "312",
+      "773–776"
+    ],
+    "title": [
+      "La Propriete de Support Minimal dans les Analyses de Multiresolution. Comptes Rendus de l’Acad"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LEWIS",
+        "given": "A.S."
+      },
+      {
+        "family": "KNOWLES",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "119"
+    ],
+    "container-title": [
+      "Electr. Letters"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "396–397"
+    ],
+    "title": [
+      "Video Compression using 3D Wavelet Transforms"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LEWIS",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "120"
+    ],
+    "container-title": [
+      "ACM Transactions on Graphics"
+    ],
+    "date": [
+      "1987-07"
+    ],
+    "pages": [
+      "167–190"
+    ],
+    "title": [
+      "Generalized stochastic subdivision"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LISCHINSKI",
+        "given": "D."
+      },
+      {
+        "family": "TAMPIERI",
+        "given": "F."
+      },
+      {
+        "family": "GREENBERG",
+        "given": "D.P."
+      }
+    ],
+    "citation-number": [
+      "121"
+    ],
+    "container-title": [
+      "Computer Graphics Annual Conference Series 1993"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 199–208"
+    ],
+    "title": [
+      "Combining Hierarchical Radiosity and Discontinuity Meshing"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LIU",
+        "given": "Z."
+      },
+      {
+        "family": "GORTLER",
+        "given": "S.J."
+      },
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      }
+    ],
+    "citation-number": [
+      "122"
+    ],
+    "container-title": [
+      "Computer Graphics, Annual Conference Series"
+    ],
+    "date": [
+      "1994-08"
+    ],
+    "pages": [
+      "35–42"
+    ],
+    "title": [
+      "Hierarchical Spacetime Control"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "LOOP",
+        "given": "C.T."
+      }
+    ],
+    "citation-number": [
+      "123"
+    ],
+    "date": [
+      "1987-08"
+    ],
+    "genre": [
+      "Master’s thesis,"
+    ],
+    "publisher": [
+      "Department of Mathematics, University of Utah"
+    ],
+    "title": [
+      "Smooth Subdivision Surfaces Based on Triangles"
+    ],
+    "type": "thesis"
+  },
+  {
+    "author": [
+      {
+        "family": "LOUNSBERY",
+        "given": "M."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T."
+      },
+      {
+        "family": "WARREN",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "124"
+    ],
+    "date": [
+      "1993-10"
+    ],
+    "genre": [
+      "Tech. Rep. TR 93-10-05b,"
+    ],
+    "publisher": [
+      "Department of Computer Science and Engineering, Princeton University"
+    ],
+    "title": [
+      "Multiresolution Analysis for Surfaces of Arbitrary Topological Type"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "LOUNSBERY",
+        "given": "M."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T."
+      },
+      {
+        "family": "WARREN",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "125"
+    ],
+    "date": [
+      "1993-10"
+    ],
+    "note": [
+      "Updated version available as 93-10-05b, January, 1994."
+    ],
+    "publisher": [
+      "University of Washington"
+    ],
+    "title": [
+      "Multiresolution Surfaces of Arbitrary Topological Type. Department of Computer Science and Engineering 93-10-05"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LOUNSBERY",
+        "given": "M."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T.D."
+      },
+      {
+        "family": "WARREN",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "126"
+    ],
+    "date": [
+      "1993-10"
+    ],
+    "note": [
+      "Updated version available as 93-10-05b, January, 1994."
+    ],
+    "publisher": [
+      "University of Washington"
+    ],
+    "title": [
+      "Multiresolution Surfaces of Arbitrary Topological Type. Department of Computer Science and Engineering 93-10-05"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "LYCHE",
+        "given": "T."
+      },
+      {
+        "family": "MORKEN",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "127"
+    ],
+    "container-title": [
+      "Numerical Methods of Approximation Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "177–194"
+    ],
+    "title": [
+      "Spline Wavelets of Minimal Support"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "LYCHE",
+        "given": "T."
+      },
+      {
+        "family": "MORKEN",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "128"
+    ],
+    "container-title": [
+      "Numerical Methods in Approximation Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "given": "DBraess"
+      },
+      {
+        "family": "Schumaker",
+        "given": "L.L."
+      }
+    ],
+    "location": [
+      "Basel"
+    ],
+    "pages": [
+      "177–194"
+    ],
+    "publisher": [
+      "Birkhauser Verlag"
+    ],
+    "title": [
+      "Spline Wavelets of Minimal Support"
+    ],
+    "type": "chapter",
+    "volume": [
+      "9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MADAY",
+        "given": "Y."
+      },
+      {
+        "family": "PERRIER",
+        "given": "V."
+      },
+      {
+        "family": "RAVEL",
+        "given": "J.-C."
+      }
+    ],
+    "citation-number": [
+      "129"
+    ],
+    "container-title": [
+      "Comptes Rendus de l’Acad. Sci. Paris I"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "405–410"
+    ],
+    "title": [
+      "Adaptivite dynamique sur bases d’ondelettes pour l’approximation d’equations aux derivees partielles"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "312"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MALLAT",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "130"
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1989-07"
+    ],
+    "pages": [
+      "674–693"
+    ],
+    "title": [
+      "A Theory for Multiresolution Signal Decomposition: the Wavelet Representation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, 7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MALLAT",
+        "given": "S."
+      },
+      {
+        "family": "HWANG",
+        "given": "W.L."
+      }
+    ],
+    "citation-number": [
+      "131"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "617–643"
+    ],
+    "title": [
+      "Singularity Detection and Processing with Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MALLAT",
+        "given": "S."
+      },
+      {
+        "family": "ZHONG",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "132"
+    ],
+    "container-title": [
+      "[164"
+    ],
+    "pages": [
+      "67–104"
+    ],
+    "title": [
+      "Wavelet Transform Maxima and Multiscale Edges"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "MALLAT",
+        "given": "S."
+      },
+      {
+        "family": "ZHONG",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "133"
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1992-07"
+    ],
+    "pages": [
+      "710–732"
+    ],
+    "title": [
+      "Characterization of Signals from Multiscale Edges"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "14, 7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MALLAT",
+        "given": "S.G."
+      }
+    ],
+    "citation-number": [
+      "134"
+    ],
+    "container-title": [
+      "Trans. Amer. Math. Soc"
+    ],
+    "date": [
+      "1989"
+    ],
+    "pages": [
+      "69–87"
+    ],
+    "title": [
+      "Multiresolution Approximations and Wavelet Orthonormal Bases of L2 (RR"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "315, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MALLAT",
+        "given": "S.G."
+      }
+    ],
+    "citation-number": [
+      "135"
+    ],
+    "container-title": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1989-07"
+    ],
+    "pages": [
+      "674–693"
+    ],
+    "title": [
+      "A Theory for Multiresolution Signal Decomposition: The Wavelet Representation"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MALVAR",
+        "given": "H.S."
+      }
+    ],
+    "citation-number": [
+      "136"
+    ],
+    "container-title": [
+      "IEEE Trans. Acoust. Speech Signal Process"
+    ],
+    "date": [
+      "1990"
+    ],
+    "pages": [
+      "969–978"
+    ],
+    "title": [
+      "Lapped Transforms for Efficient Transform/Subband Coding"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "38"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MANDELBROT",
+        "given": "B.B."
+      },
+      {
+        "family": "NESS",
+        "given": "J.W.V."
+      }
+    ],
+    "citation-number": [
+      "137"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1968-10"
+    ],
+    "pages": [
+      "422–437"
+    ],
+    "title": [
+      "Fractional Brownian Motion, Fractional Noises and Applications"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MARR",
+        "given": "D.Vision W."
+      }
+    ],
+    "citation-number": [
+      "138"
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "San Francisco, CA"
+    ],
+    "publisher": [
+      "Freeman Company"
+    ],
+    "title": [
+      "H"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MARR",
+        "given": "D."
+      },
+      {
+        "family": "HILDRETH",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "139"
+    ],
+    "container-title": [
+      "Proc. Royal Society of London B, 207"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "London"
+    ],
+    "pages": [
+      "187–217"
+    ],
+    "title": [
+      "Theory of Edge Detection"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "MAX",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "140"
+    ],
+    "container-title": [
+      "IRE Trans. on Information Theory"
+    ],
+    "date": [
+      "1960"
+    ],
+    "pages": [
+      "7–12"
+    ],
+    "title": [
+      "Quantizing for Minimum Distortion"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MEINGUET",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "141"
+    ],
+    "container-title": [
+      "Journal of Applied Mathematics and Physics (ZAMP"
+    ],
+    "date": [
+      "1979"
+    ],
+    "pages": [
+      "292–304"
+    ],
+    "title": [
+      "Multivariate Interpolation at Arbitrary Points Made Simple"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "30"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MEYER",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "142"
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Paris"
+    ],
+    "note": [
+      "English translation of first volume is published by Cambridge University Press."
+    ],
+    "title": [
+      "Ondelettes et Operateurs, I: Ondelettes, II: Operateurs de Calderon-Zygmund, III"
+    ],
+    "translator": [
+      {
+        "family": "R. Coifman)",
+        "particle": "with"
+      },
+      {
+        "family": "Hermann",
+        "given": "Operateurs",
+        "particle": "multilineaires."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "MEYER",
+        "given": "Y."
+      }
+    ],
+    "citation-number": [
+      "143"
+    ],
+    "container-title": [
+      "Rev. Mat. Iberoamericana"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "115–133"
+    ],
+    "title": [
+      "Ondelettes sur l’intervalle"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MILLER",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "144"
+    ],
+    "editor": [
+      {
+        "family": "Evans",
+        "given": "D.C."
+      },
+      {
+        "family": "Athay",
+        "given": "R.J."
+      }
+    ],
+    "pages": [
+      "39–48"
+    ],
+    "title": [
+      "The Definition and Rendering of Terrain Maps"
+    ],
+    "type": null,
+    "volume": [
+      "20"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MOKHTARIAN",
+        "given": "F."
+      },
+      {
+        "family": "MACKWORTH",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "145"
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "34–43"
+    ],
+    "title": [
+      "Scale-based Description and Recognition of Planer Curves and Two-Dimensional Shapes"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MOON",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "146"
+    ],
+    "date": [
+      "1961",
+      "1936"
+    ],
+    "edition": [],
+    "location": [
+      "Dover"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "The Scientific Basis for Illuminating Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MORETON",
+        "given": "H."
+      },
+      {
+        "family": "SEQUIN",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "147"
+    ],
+    "container-title": [
+      "Computer Graphics"
+    ],
+    "date": [
+      "1992-07"
+    ],
+    "pages": [
+      "167–176"
+    ],
+    "title": [
+      "Functional Optimization for Fair Surface Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MUSGRAVE",
+        "given": "F.K."
+      },
+      {
+        "family": "KOLB",
+        "given": "C.E."
+      },
+      {
+        "family": "MACE",
+        "given": "R.S."
+      }
+    ],
+    "citation-number": [
+      "148"
+    ],
+    "editor": [
+      {
+        "family": "Lane",
+        "given": "J."
+      }
+    ],
+    "pages": [
+      "41–50"
+    ],
+    "title": [
+      "The Synthesis and Rendering of Eroded Fractal Terrains"
+    ],
+    "type": null,
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "NGO",
+        "given": "J.T."
+      },
+      {
+        "family": "MARKS",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "149"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIG-GRAPH"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 343–350"
+    ],
+    "title": [
+      "Spacetime Constraints Revisited"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "NISHITA",
+        "given": "T."
+      },
+      {
+        "family": "NAKAMAE",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "150"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1985-07"
+    ],
+    "pages": [
+      "23–30"
+    ],
+    "title": [
+      "Continuous Tone Representation of Three-Dimensional Objects Taking Account of Shadows and Interreflection"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "19, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PAI",
+        "given": "D."
+      },
+      {
+        "family": "REISSELL",
+        "given": "L.-M."
+      }
+    ],
+    "citation-number": [
+      "151"
+    ],
+    "date": [
+      "1994-05"
+    ],
+    "genre": [
+      "Tech. Rep. Technical Report TR 94–33,"
+    ],
+    "location": [
+      "Vancouver"
+    ],
+    "publisher": [
+      "Department of Computer Science, UBC"
+    ],
+    "title": [
+      "Multiresolution rough terrain motion planning"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "PATTANAIK",
+        "given": "S.N."
+      },
+      {
+        "family": "BOUATOUCH",
+        "given": "K."
+      }
+    ],
+    "citation-number": [
+      "152"
+    ],
+    "container-title": [
+      "Proceedings of Eurographics Conference",
+      "Computer Graphics Forum"
+    ],
+    "date": [
+      "1994-09"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "pages": [
+      "407– 420"
+    ],
+    "title": [
+      "Fast Wavelet Radiosity Method"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PEITGEN",
+        "given": "H.O."
+      },
+      {
+        "family": "SAUPE",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "153"
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "title": [
+      "The Science of Fractal Images"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PENTLAND",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "154"
+    ],
+    "container-title": [
+      "The Visual Computer"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "303–314"
+    ],
+    "title": [
+      "Fast Solutions to Physical Equilibrium and Interpolation Problems"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 5"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PRATT",
+        "given": "W.K."
+      }
+    ],
+    "citation-number": [
+      "155"
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Digital Image Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PRESS",
+        "given": "W.H."
+      },
+      {
+        "family": "FLANNERY",
+        "given": "B.P."
+      },
+      {
+        "family": "TEUKOLSKY",
+        "given": "S.A."
+      },
+      {
+        "family": "VETTERLING",
+        "given": "W.T."
+      }
+    ],
+    "citation-number": [
+      "156"
+    ],
+    "date": [
+      "1986"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipies"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PRESS",
+        "given": "W.H."
+      },
+      {
+        "family": "TEUKOLSKY",
+        "given": "S.A."
+      },
+      {
+        "family": "VETTERLING",
+        "given": "W.T."
+      },
+      {
+        "family": "FLANNERY",
+        "given": "B.P."
+      }
+    ],
+    "citation-number": [
+      "157"
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "Second"
+    ],
+    "publisher": [
+      "Cambridge University Press"
+    ],
+    "title": [
+      "Numerical Recipes in C: The Art of Scientific Computing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "QIAN",
+        "given": "S."
+      },
+      {
+        "family": "WEISS",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "158"
+    ],
+    "container-title": [
+      "Journal of Computational Physics"
+    ],
+    "date": [
+      "1993-05"
+    ],
+    "pages": [
+      "155–175"
+    ],
+    "title": [
+      "Wavelets and the Numerical Solution of Partial Differential Equations"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106, 1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "QUAK",
+        "given": "E."
+      },
+      {
+        "family": "WEYRICH",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "159"
+    ],
+    "date": [
+      "1993-04"
+    ],
+    "genre": [
+      "Tech. Rep. 294,"
+    ],
+    "publisher": [
+      "Department of Mathematics, Texas A&M University"
+    ],
+    "title": [
+      "Decomposition and Reconstruction Algorithms for Spline Wavelets on a Bounded Interval"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "RANDO",
+        "given": "T."
+      },
+      {
+        "family": "ROULIER",
+        "given": "J."
+      }
+    ],
+    "citation-number": [
+      "160"
+    ],
+    "container-title": [
+      "Computer Aided Design"
+    ],
+    "date": [
+      "1991-09"
+    ],
+    "pages": [
+      "492–497"
+    ],
+    "title": [
+      "Designing Faired Parametric Surfaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23, 7"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "REISSELL",
+        "given": "L.M."
+      }
+    ],
+    "citation-number": [
+      "161"
+    ],
+    "date": [
+      "1993-05"
+    ],
+    "genre": [
+      "Tech. Rep. Technical Report 93-17,"
+    ],
+    "location": [
+      "Vancouver"
+    ],
+    "publisher": [
+      "Department of Computer Science, UBC"
+    ],
+    "title": [
+      "Multiresolution Geometric Algorithms Using Wavelets I: Representations for Parametric Curves and Surfaces"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "RIOUL",
+        "given": "O."
+      },
+      {
+        "family": "VETTERLI",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "162"
+    ],
+    "container-title": [
+      "IEEE Signal Processing Magazine"
+    ],
+    "date": [
+      "1991-10"
+    ],
+    "pages": [
+      "14–38"
+    ],
+    "title": [
+      "Wavelets and Signal Processing"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "RUSHMEIER",
+        "given": "H.E."
+      },
+      {
+        "family": "PATTERSON",
+        "given": "C."
+      },
+      {
+        "family": "VEERASAMY",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "163"
+    ],
+    "container-title": [
+      "Proceedings Graphics Interface"
+    ],
+    "date": [
+      "1993-05"
+    ],
+    "pages": [
+      "227–236"
+    ],
+    "title": [
+      "Geometric Simplification for Indirect Illumination Calculations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "RUSKAI",
+        "given": "M.B."
+      },
+      {
+        "family": "BEYLKIN",
+        "given": "G."
+      },
+      {
+        "family": "COIFMAN",
+        "given": "R."
+      },
+      {
+        "given": "D.A.U.B.E.C.H.I.E.S."
+      }
+    ],
+    "citation-number": [
+      "164"
+    ],
+    "date": [
+      "1992"
+    ],
+    "editor": [
+      {
+        "family": "I.",
+        "given": "M.A.L.L.A.T."
+      },
+      {
+        "family": "S.",
+        "given": "M.E.Y.E.R."
+      },
+      {
+        "family": "Y."
+      },
+      {
+        "family": "RAPHAEL",
+        "given": "L."
+      }
+    ],
+    "location": [
+      "Jones and Bartlett"
+    ],
+    "title": [
+      "Wavelets and their Applications"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SAITO",
+        "given": "N."
+      },
+      {
+        "family": "BEYLKIN",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "165"
+    ],
+    "note": [
+      "Preprint University of Colorado at Boulder."
+    ],
+    "title": [
+      "Multiresolution Representations Using the Autocorrelation Functions of Compactly Supported Wavelets"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SCHRODER",
+        "given": "P."
+      },
+      {
+        "family": "GORTLER",
+        "given": "S.J."
+      },
+      {
+        "family": "COHEN",
+        "given": "M.F."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "166"
+    ],
+    "container-title": [
+      "Fourth Eurographics Workshop on Rendering",
+      "Eurographics"
+    ],
+    "date": [
+      "1993-06"
+    ],
+    "pages": [
+      "105–114"
+    ],
+    "title": [
+      "Wavelet Projections For Radiosity"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHRODER",
+        "given": "P."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "167"
+    ],
+    "container-title": [
+      "Proceedings 5th Eurographics Workshop on Rendering"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "title": [
+      "Wavelet Methods for Radiance Computations",
+      "Eurographics"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHRODER",
+        "given": "P."
+      },
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "168"
+    ],
+    "date": [
+      "1995"
+    ],
+    "note": [
+      "Computer Graphics, (SIGGRAPH ’95 Proceedings"
+    ],
+    "title": [
+      "Spherical wavelets: Efficiently Representing Functions on the Sphere"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "169"
+    ],
+    "container-title": [
+      "Recent Advances in Wavelet Analysis"
+    ],
+    "date": [
+      "1993"
+    ],
+    "editor": [
+      {
+        "family": "SCHUMAKER",
+        "given": "L.L."
+      },
+      {
+        "family": "WEBB",
+        "given": "G."
+      }
+    ],
+    "publisher": [
+      "Academic Press"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "SHAPIRO",
+        "given": "J.M."
+      }
+    ],
+    "citation-number": [
+      "170"
+    ],
+    "container-title": [
+      "IEEE Trans. Signal Processing"
+    ],
+    "date": [
+      "1993"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "pages": [
+      "3445–3462"
+    ],
+    "title": [
+      "Embedded Image Coding using Zerotrees of Wavelet Coefficients"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "41, 12"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SIEGEL",
+        "given": "R."
+      },
+      {
+        "family": "HOWELL",
+        "given": "J.R."
+      }
+    ],
+    "citation-number": [
+      "171"
+    ],
+    "date": [
+      "1978"
+    ],
+    "publisher": [
+      "Hemisphere Publishing Corp"
+    ],
+    "title": [
+      "Thermal Radiation Heat Transfer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SILLION",
+        "given": "F."
+      }
+    ],
+    "citation-number": [
+      "172"
+    ],
+    "container-title": [
+      "Proceedings of the 5th Eurographics Workshop on Rendering"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "location": [
+      "Darmstadt"
+    ],
+    "pages": [
+      "105–117"
+    ],
+    "title": [
+      "Clustering and Volume Scattering for Hierarchical Radiosity Calculations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "SMITS",
+        "given": "B."
+      },
+      {
+        "family": "ARVO",
+        "given": "J."
+      },
+      {
+        "family": "GREENBERG",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "173"
+    ],
+    "container-title": [
+      "Computer Graphics Annual Conference Series"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "pages": [
+      "435–442"
+    ],
+    "title": [
+      "A Clustering Algorithm for Radiosity in Complex Environments"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "SMITS",
+        "given": "B.E."
+      },
+      {
+        "family": "ARVO",
+        "given": "J.R."
+      },
+      {
+        "family": "SALESIN",
+        "given": "D.H.An Importance Driven Radiosity Algorithm"
+      }
+    ],
+    "citation-number": [
+      "174"
+    ],
+    "container-title": [
+      "SIGGRAPH"
+    ],
+    "date": [
+      "1992-08"
+    ],
+    "pages": [
+      "273–282"
+    ],
+    "title": [
+      "Computer Graphics (Proc"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STOER",
+        "given": "J."
+      },
+      {
+        "family": "BULIRSCH",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "175"
+    ],
+    "date": [
+      "1980"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Springer Verlag"
+    ],
+    "title": [
+      "Introduction to Numerical Analysis"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "STOLLNITZ",
+        "given": "E.J."
+      },
+      {
+        "family": "DEROSE",
+        "given": "T.D."
+      },
+      {
+        "family": "SALESIN",
+        "given": "D.H."
+      }
+    ],
+    "citation-number": [
+      "176"
+    ],
+    "container-title": [
+      "IEEE Computer Graphics and Applications"
+    ],
+    "date": [
+      "1995-05"
+    ],
+    "pages": [
+      "76–84"
+    ],
+    "title": [
+      "Wavelets for Computer Graphics: A Primer, Part 1"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STRANG",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "177"
+    ],
+    "container-title": [
+      "SIAM Review"
+    ],
+    "date": [
+      "1989-12"
+    ],
+    "pages": [
+      "614–627"
+    ],
+    "title": [
+      "Wavelets and Dilation Equations: A Brief Introduction"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "31, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "STRANG",
+        "given": "G."
+      },
+      {
+        "family": "FIX",
+        "given": "G."
+      }
+    ],
+    "citation-number": [
+      "178"
+    ],
+    "title": [
+      "A Fourier analysis of the finite element variational method"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "179"
+    ],
+    "publisher": [
+      "Department of Mathematics, University of South Carolina"
+    ],
+    "title": [
+      "The lifting scheme: A construction of second generation wavelets"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "180"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "PhD thesis,"
+    ],
+    "location": [
+      "Belgium"
+    ],
+    "publisher": [
+      "Department of Computer Science, Katholieke Universiteit Leuven"
+    ],
+    "title": [
+      "Construction and Applications of Wavelets in Numerical Analysis"
+    ],
+    "type": "thesis"
+  },
+  {
+    "type": null,
+    "url": [
+      "ftp://ftp.math.scarolina.edu/pub/wavelet/varia/thesis/*)."
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SWELDENS",
+        "given": "W."
+      }
+    ],
+    "citation-number": [
+      "181"
+    ],
+    "date": [
+      "1994"
+    ],
+    "genre": [
+      "Tech. Rep. 1994:7,"
+    ],
+    "note": [
+      "ftp://ftp.math.scarolina.edu/pub/imi 94/imi94 7.ps)."
+    ],
+    "publisher": [
+      "Industrial Mathematics Initiative, Department of Mathematics, University of South Carolina"
+    ],
+    "title": [
+      "The lifting scheme: A custom-design construction of biorthogonal wavelets"
+    ],
+    "type": "report"
+  },
+  {
+    "author": [
+      {
+        "family": "SZELISKI",
+        "given": "R."
+      }
+    ],
+    "citation-number": [
+      "182"
+    ],
+    "container-title": [
+      "IEEE Trans. PAMI"
+    ],
+    "date": [
+      "1990-06"
+    ],
+    "pages": [
+      "413–439"
+    ],
+    "title": [
+      "Fast Surface Interpolation Using Hierarchical Basis Functions"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "12, 6"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "SZELISKI",
+        "given": "R."
+      },
+      {
+        "family": "TERZOPOULOS",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "183"
+    ],
+    "editor": [
+      {
+        "family": "Lane",
+        "given": "J."
+      }
+    ],
+    "pages": [
+      "51–60"
+    ],
+    "title": [
+      "From Splines to Fractals"
+    ],
+    "type": null,
+    "volume": [
+      "23"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TELLER",
+        "given": "S."
+      },
+      {
+        "family": "FOWLER",
+        "given": "C."
+      },
+      {
+        "family": "FUNKHOUSER",
+        "given": "T."
+      },
+      {
+        "family": "HANRAHAN",
+        "given": "P."
+      }
+    ],
+    "citation-number": [
+      "184"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1994-07"
+    ],
+    "note": [
+      "ACM. To appear."
+    ],
+    "title": [
+      "Partitioning and Ordering Large Radiosity Computations"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "TERZOPOULOS",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "185"
+    ],
+    "container-title": [
+      "IEEE Trans. Pattern Analysis and Machine Intelligence"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "pages": [
+      "129–139"
+    ],
+    "title": [
+      "Image Analysis using Multigrid Relaxation Methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TERZOPOULOS",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "186"
+    ],
+    "container-title": [
+      "IEEE PAMI"
+    ],
+    "date": [
+      "1986-03"
+    ],
+    "pages": [
+      "129–139"
+    ],
+    "title": [
+      "Image Analysis Using Multigrid Relaxation Methods"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TERZOPOULOS",
+        "given": "D."
+      }
+    ],
+    "citation-number": [
+      "187"
+    ],
+    "container-title": [
+      "IEEE PAMI"
+    ],
+    "date": [
+      "1986-07"
+    ],
+    "pages": [
+      "413–424"
+    ],
+    "title": [
+      "Regularization of Inverse Visual Problems Involving Discontinuities"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "TROUTMAN",
+        "given": "R."
+      },
+      {
+        "family": "MAX",
+        "given": "N."
+      }
+    ],
+    "citation-number": [
+      "188"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH",
+      "ACM"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "note": [
+      "Siggraph ’95 Course Notes: #26 Wavelets"
+    ],
+    "pages": [
+      "209–212"
+    ],
+    "title": [
+      "Radiosity Algorithms Using Higher-order Finite Elements"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "PANNE",
+        "given": "V.A.N.D.E."
+      },
+      {
+        "family": "M."
+      },
+      {
+        "family": "FIUME",
+        "given": "E."
+      }
+    ],
+    "citation-number": [
+      "189"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 335–342"
+    ],
+    "title": [
+      "Sensor-actuator Networks"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "VETTERLI",
+        "given": "M."
+      },
+      {
+        "family": "HERLEY",
+        "given": "C."
+      }
+    ],
+    "citation-number": [
+      "190"
+    ],
+    "container-title": [
+      "IEEE Trans. Acoust. Speech Signal Process"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "2207"
+    ],
+    "title": [
+      "Wavelets and Filter Banks: Theory and Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40, 9"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "VOSS",
+        "given": "R.P."
+      }
+    ],
+    "citation-number": [
+      "191"
+    ],
+    "container-title": [
+      "Fundamental Algorithms for Computer Graphics"
+    ],
+    "date": [
+      "1985"
+    ],
+    "editor": [
+      {
+        "family": "Earnshaw",
+        "given": "R.A."
+      }
+    ],
+    "publisher": [
+      "Springer-Verlag"
+    ],
+    "title": [
+      "Fractal Forgeries"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "WALLACE",
+        "given": "G.K."
+      }
+    ],
+    "citation-number": [
+      "192"
+    ],
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "date": [
+      "1991"
+    ],
+    "pages": [
+      "30–44"
+    ],
+    "title": [
+      "The JPEG Still Picture Compression Standard"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "34, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WARE",
+        "given": "C."
+      },
+      {
+        "family": "ARTHUR",
+        "given": "K."
+      },
+      {
+        "family": "BOOTH",
+        "given": "K.S."
+      }
+    ],
+    "citation-number": [
+      "193"
+    ],
+    "container-title": [
+      "Proc. INTERCHI ’93 Conference on Human Factors in Computing Systems"
+    ],
+    "date": [
+      "1993-04"
+    ],
+    "pages": [
+      "37–42"
+    ],
+    "title": [
+      "Fish Tank Virtual Reality"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "WELCH",
+        "given": "W."
+      },
+      {
+        "family": "WITKIN",
+        "given": "A."
+      }
+    ],
+    "citation-number": [
+      "194"
+    ],
+    "container-title": [
+      "Computer Graphics"
+    ],
+    "date": [
+      "1992-07"
+    ],
+    "pages": [
+      "157–166"
+    ],
+    "title": [
+      "Variational Surface Modeling"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "26, 2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WITKIN",
+        "given": "A."
+      },
+      {
+        "family": "KASS",
+        "given": "M."
+      }
+    ],
+    "citation-number": [
+      "195"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1988-08"
+    ],
+    "pages": [
+      "159–168"
+    ],
+    "title": [
+      "Spacetime Constraints"
+    ],
+    "type": "paper-conference",
+    "volume": [
+      "22, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WORNELL",
+        "given": "G.W."
+      }
+    ],
+    "citation-number": [
+      "196"
+    ],
+    "container-title": [
+      "IEEE Trans. Information Theory"
+    ],
+    "date": [
+      "1990-07"
+    ],
+    "pages": [
+      "859–861"
+    ],
+    "title": [
+      "A Karhunen-Loeve-like Expansion for 1=f Processes via Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "36, 4"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "WORNELL",
+        "given": "G.W."
+      },
+      {
+        "family": "OPPENHEIM",
+        "given": "A.V."
+      }
+    ],
+    "citation-number": [
+      "197"
+    ],
+    "container-title": [
+      "IEEE Trans. Signal Proc"
+    ],
+    "date": [
+      "1992-03"
+    ],
+    "pages": [
+      "611–623"
+    ],
+    "title": [
+      "Estimation of Fractal Signals from Noisy Measurements Using Wavelets"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "40, 3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "YSERENTANT",
+        "given": "H."
+      }
+    ],
+    "citation-number": [
+      "198"
+    ],
+    "container-title": [
+      "Numerische Mathematik"
+    ],
+    "date": [
+      "1986"
+    ],
+    "pages": [
+      "379–412"
+    ],
+    "title": [
+      "On the Multi-level Splitting of Finite Element Spaces"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "49"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "ZATZ",
+        "given": "H.R."
+      }
+    ],
+    "citation-number": [
+      "199"
+    ],
+    "container-title": [
+      "Computer Graphics (Proc. SIGGRAPH"
+    ],
+    "date": [
+      "1993-08"
+    ],
+    "pages": [
+      ", 213–220"
+    ],
+    "title": [
+      "Galerkin Radiosity: A Higher-order Solution Method for Global Illumination"
+    ],
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "ZHANG",
+        "given": "Y."
+      },
+      {
+        "family": "ZAFAR",
+        "given": "S."
+      }
+    ],
+    "citation-number": [
+      "200"
+    ],
+    "container-title": [
+      "IEEE Trans. Circuits Systems Video Tech"
+    ],
+    "date": [
+      "1992"
+    ],
+    "pages": [
+      "285–296"
+    ],
+    "title": [
+      "Motion-compensated Wavelet Transform Coding for Video"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3, 2"
+    ]
+  }
+]
