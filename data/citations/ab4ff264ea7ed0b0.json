@@ -1,0 +1,325 @@
+[
+  {
+    "citation-number": [
+      "32."
+    ],
+    "container-title": [
+      "3-46 UNIT THREE"
+    ],
+    "title": [
+      "Boolean operations include AND, OR, Exclusive OR, and Invert"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "33."
+    ],
+    "container-title": [
+      "Zero AND zero equals zero. B. Zero AND one equals zero. C. One AND zero equals zero. D. One AND one equals one"
+    ],
+    "title": [
+      "The AND operation produces the logical product of two or more binary variables. The possible results are: A"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "34."
+    ],
+    "container-title": [
+      "B. Zero OR one equals one. C. One OR zero equals one. D"
+    ],
+    "note": [
+      "One OR one equals one."
+    ],
+    "title": [
+      "The OR operation produces the logical sum of two or more binary variables. The possible results are: A. Zero OR zero equals zero"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "A.Zero X.O.R.",
+        "particle": "zero equals zero."
+      }
+    ],
+    "container-title": [
+      "C. One XOR zero equals one. D. One XOR one equals zero"
+    ],
+    "title": [
+      "Zero XOR one equals one"
+    ],
+    "type": "chapter"
+  },
+  {
+    "citation-number": [
+      "1."
+    ],
+    "container-title": [
+      "Operand. B. Opcode. C. Address. D. Instruction"
+    ],
+    "title": [
+      "In microprocessor terminology, the number or piece of data that is operated upon is called the: A"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "container-title": [
+      "Operand. B. Opcode. C. Address. D. Mnemonic"
+    ],
+    "title": [
+      "The part of the instruction that tells the microprocessor what opera¬ tion to perform is called the: A"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "D",
+        "given": "A.Opcode B.Operand C.Address"
+      }
+    ],
+    "title": [
+      "All of the above"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "container-title": [
+      "C"
+    ],
+    "note": [
+      "The operand is fetched from memory and is operated upon. D. The program count is fetched from memory."
+    ],
+    "title": [
+      "During the fetch phase: A. The opcode is fetched from memory and is decoded. B. The address of the operand is fetched from memory and is decoded"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "The data register. B. The address register. C"
+    ],
+    "note": [
+      "The arithmetic logic unit (ALU). D. The accumulator."
+    ],
+    "title": [
+      "In what register is the result of an arithmetic operation normally placed? A"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "editor": [
+      {
+        "literal": "A. BEQ instruction. B. BNE instruction. C. BCC instruction. D. BCS instruction."
+      }
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "A.Added",
+        "particle": "using the ADD instruction."
+      }
+    ],
+    "note": [
+      "C. Added using the ADC instruction. D. Decimal adjusted before addition takes place. Unit 5 Examination MICROPROCESSORS."
+    ],
+    "title": [
+      "Added using the DAA instruction"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Relative",
+        "given": "A.Direct B.Extended C.Indexed D."
+      }
+    ],
+    "title": [
+      "178 Examinations"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "B. Approximately"
+    ],
+    "date": [
+      "2050"
+    ],
+    "title": [
+      "Approximately 8 microseconds"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "microseconds. Unit 5 Examination MICROPROCESSORS",
+      "D. Approximately"
+    ],
+    "title": [
+      "Approximately 1538 microseconds"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "B",
+        "given": "A.Accumulator A."
+      },
+      {
+        "family": "D",
+        "given": "C.Accumulator B."
+      }
+    ],
+    "title": [
+      "Memory location 001E",
+      "The index register"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "D. Twice",
+        "given": "A.Four",
+        "particle": "times. B. Five times. C. Twenty times."
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "15."
+    ],
+    "title": [
+      "After the program has been executed, memory location 001E will contain"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "B. Memory location"
+    ],
+    "editor": [
+      {
+        "family": "B",
+        "given": "C.Accumulator A.D.Accumulator"
+      }
+    ],
+    "title": [
+      "Memory location 001E"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "001F"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "A."
+      }
+    ],
+    "container-title": [
+      "B"
+    ],
+    "title": [
+      "0005"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "0030. C. 0035. D. 0016"
+    ]
+  },
+  {
+    "author": [
+      {
+        "literal": "A. 1016 times. B."
+      }
+    ],
+    "container-title": [
+      "C"
+    ],
+    "note": [
+      "3016 times. D. 1516 times. 184 Examinations MICROPROCESSORS MICROPROCESSORS. Unit 6 Examination 185"
+    ],
+    "title": [
+      "0516 times"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "container-title": [
+      "B. An RTS instruction. C. An RTI instruction. D"
+    ],
+    "note": [
+      "A JSR instruction."
+    ],
+    "title": [
+      "The last instruction in a subroutine is generally: A. A JMP instruction"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Examinations"
+      }
+    ],
+    "citation-number": [
+      "186"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "10."
+    ],
+    "container-title": [
+      "An RTI instruction. B. An SWI instruction. C. An RTS instruction. D. An NMI instruction"
+    ],
+    "title": [
+      "Generally, the last instruction in an interrupt service routine will be: A"
+    ],
+    "type": "chapter"
+  }
+]
