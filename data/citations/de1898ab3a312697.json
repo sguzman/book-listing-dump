@@ -1,0 +1,59 @@
+[
+  {
+    "citation-number": [
+      "4."
+    ],
+    "title": [
+      "Replace the square root and PI symbols if necessary"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "5."
+    ],
+    "title": [
+      "Reformat the PRINT and PAUSE statements as appropriate for the target computer"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "6."
+    ],
+    "note": [
+      "For example, rewrite SIN X as SIN (X)."
+    ],
+    "title": [
+      "Put parenthesis around the arguments of built in functions"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "7."
+    ],
+    "title": [
+      "Eliminate the implied multiplication of variables. For example, rewrite X=ABC as X=A*B*C"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Check the evaluation order of statements and insert parenthesis where necessary. For example, rewrite Y = v AB*C as Y=SQR(A*B)*C"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "9."
+    ],
+    "title": [
+      "Try several examples to verify the correct operation of your new"
+    ],
+    "type": null
+  }
+]
