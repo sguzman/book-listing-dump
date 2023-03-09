@@ -1,0 +1,140 @@
+[
+  {
+    "author": [
+      {
+        "family": "name=findViewById",
+        "given": "address=findViewById"
+      },
+      {
+        "family": "notes=findViewById",
+        "given": "types=findViewById"
+      },
+      {
+        "family": "save=findViewById",
+        "given": "Button"
+      },
+      {
+        "family": "save.setOnClickListener",
+        "given": "ListView list=findViewById"
+      },
+      {
+        "family": "RestaurantAdapter",
+        "particle": "adapter=new"
+      },
+      {
+        "given": "listsetAdapter"
+      }
+    ],
+    "note": [
+      "getResources() .getDrawable(R.drawable.list)); getTabHost().addTab(spec); spec=getTabHost().newTabSpec(\"tag2\"); spec.setContent(R.id.details); spec.setIndicator(\"Details\", getResources() .getDrawable(R.drawable.restaurant)); getTabHost().addTab(spec); getTabHost().setCurrentTab(0);"
+    ],
+    "title": [
+      "TabHost.TabSpec spec=getTabHost().newTabSpec(\"tag1\"); spec.setContent(R.id.restaurants); spec.setIndicator(\"List\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "name=findViewById",
+        "given": "address=findViewById"
+      },
+      {
+        "family": "notes=findViewById",
+        "given": "types=findViewById"
+      },
+      {
+        "family": "save=findViewById",
+        "given": "Button"
+      },
+      {
+        "family": "save.setOnClickListener",
+        "given": "ListView list=findViewById"
+      },
+      {
+        "family": "RestaurantAdapter",
+        "particle": "adapter=new"
+      },
+      {
+        "given": "listsetAdapter"
+      }
+    ],
+    "note": [
+      "getResources() .getDrawable(R.drawable.list)); getTabHost().addTab(spec); spec=getTabHost().newTabSpec(\"tag2\"); spec.setContent(R.id.details); spec.setIndicator(\"Details\", getResources() .getDrawable(R.drawable.restaurant)); getTabHost().addTab(spec); getTabHost().setCurrentTab(0);"
+    ],
+    "title": [
+      "TabHost.TabSpec spec=getTabHost().newTabSpec(\"tag1\"); spec.setContent(R.id.restaurants); spec.setIndicator(\"List\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "name=findViewById",
+        "given": "address=findViewById"
+      },
+      {
+        "family": "notes=findViewById",
+        "given": "types=findViewById"
+      },
+      {
+        "family": "save=findViewById",
+        "given": "Button"
+      },
+      {
+        "family": "save.setOnClickListener",
+        "given": "ListView list=findViewById"
+      },
+      {
+        "family": "RestaurantAdapter",
+        "particle": "adapter=new"
+      },
+      {
+        "given": "listsetAdapter"
+      }
+    ],
+    "note": [
+      "getResources() .getDrawable(R.drawable.list)); getTabHost().addTab(spec); spec=getTabHost().newTabSpec(\"tag2\"); spec.setContent(R.id.details); spec.setIndicator(\"Details\", getResources() .getDrawable(R.drawable.restaurant)); getTabHost().addTab(spec); getTabHost().setCurrentTab(0);"
+    ],
+    "title": [
+      "TabHost.TabSpec spec=getTabHost().newTabSpec(\"tag1\"); spec.setContent(R.id.restaurants); spec.setIndicator(\"List\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "list=findViewById",
+        "given": "ListView"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "spec.setContent(R.id.restaurants); spec.setIndicator(\"List\", getResources() .getDrawable(R.drawable.list)); getTabHost().addTab(spec); spec=getTabHost().newTabSpec(\"tag2\"); spec.setContent(R.id.details); spec.setIndicator(\"Details\", getResources() .getDrawable(R.drawable.restaurant)); getTabHost().addTab(spec); getTabHost().setCurrentTab(0);"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "locMgr=(LocationManager)getSystemService(LOCATION_SERVICE); helper=new RestaurantHelper(this); name=(EditText)findViewById(R.id.name); address=(EditText)findViewById(R.id.addr); notes=(EditText)findViewById(R.id.notes); types=(RadioGroup)findViewById(R.id.types); feed=(EditText)findViewById(R.id.feed); location=(TextView)findViewById(R.id.location);"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "item=new OverlayItem(point, name, name"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "marker.setBounds(0,"
+    ],
+    "note": [
+      "0, marker.getIntrinsicWidth(), marker.getIntrinsicHeight());"
+    ],
+    "type": null
+  }
+]
