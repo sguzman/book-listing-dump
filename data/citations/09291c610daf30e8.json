@@ -1,0 +1,614 @@
+[
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "note": [
+      "ThisDay Ada.Calendar.Day (Date => RightNow); ThisYear = Ada.Calendar.Year (Date => RightNow);"
+    ],
+    "title": [
+      "Get the current time value from the computer's clock RightNow :» Ada.Calendar.Clock; — Extract current month, day, and year from the time value ThisMonth = Ada.Calendar.Month(Date => RightNow"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AdaText_IOPut"
+      }
+    ],
+    "note": [
+      "Ada.Text_IO.Put (Item => \"The larger integer is \"); Ada.Integer_Text_IO.Put (Item => Largerint, Width =>1); Ada.Text_IO.New_Line;"
+    ],
+    "title": [
+      "Please enter first integer value > \"); Ada.Integer_Text_IO.Get (Item => Intl); Ada.Text_IO.Put (Item => \"Please enter second integer value > \"); Ada.lnteger_Text_IO.Get (Item => Int2); Largerint := Useful_Functions.Maximura(Valuel=>Intl, Value2=>Int2"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "LargerFlt ;= Useful_Functions.Maximum(Valuel=>Fltl"
+      }
+    ],
+    "publisher": [
+      "Ada.Text_IO.New_Line"
+    ],
+    "title": [
+      "Value2=>Flt2); Ada.Text_IO.Put (Item => \"The larger float is \"); Ada.Float_Text_IO.Put (Item => LargerFlt, Fore => 1, Aft => 2, Exp =>0"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Ada.Text_lO.Put(Item => \"started work in \"); Ada.Integer_Text_IO.Put(Itern => Programmer.StartDate.Year, Width=>4);"
+    ],
+    "title": [
+      "Ada.Text_IO.Put(Item => \"Year started: \"); Ada.Integer_Text__IO.Put(Item => Programmer.StartDate.Year, Width=>4); Ada.Text_IO.Put(Item => \"Month started: \"); Ada.Integer_Text_IO.Put(Item => Progreunmer.StartDate.Month, Width=>4); display two fields of the subrecord Programmer.StartDate.The statements Ada.Text_IO.Put(Item => Programmer.PayData.Name"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "2."
+    ],
+    "note": [
+      "ELSE no carry: 6. Result.Cents is TempCents 7. Result.Dollars is Ql.Dollars + Q2.Dollars"
+    ],
+    "title": [
+      "IF Tempcents >99 THEN we have a carry: 3. Result.Cents is Tempcents — 100 4. Result.Dollars is Ql.Dollars + Q2.Dollars + 1 5"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "4."
+    ],
+    "pages": [
+      "– 2"
+    ],
+    "title": [
+      "Result.Cents is (100 + Ql.Cents"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "IS",
+        "given": "ResultDollars"
+      }
+    ],
+    "citation-number": [
+      "5."
+    ],
+    "note": [
+      "ELSE no borrow: 7. Result.Cents is Ql.Cents - Q2.Cents"
+    ],
+    "pages": [
+      "– 1 – 2 6"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "8."
+    ],
+    "title": [
+      "Result.Dollars is Ql.Dollars - Q2.Dollars"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "I Body of Child Package for Employee Input/Output"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Author",
+        "given": "I."
+      },
+      {
+        "family": "Peldman",
+        "given": "Michael B."
+      }
+    ],
+    "date": [
+      "1998-09"
+    ],
+    "title": [
+      "The George Washington University — I Last Modified"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Ada.Text_IO.Put(Item => \"Gender (Female or Male) > \"); GenderType_IO.Get(Item => Item.Gender); Ada.Text__IO.Put(Item => \"Number of dependents > \"); Ada.Integer__Text__IO.Get(Item => Item.NuinDepend); Ada.Text^IO.Put(Item => \"Salary > \"); Currency.IO.Get(Item => Item.Salary); Ada.Text_lO.Put(Item => \"Starting Date, imwn dd yyyy > \"); Dates.10.Get(Item => Item.StartDate"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998-09"
+    ],
+    "location": [
+      "Author"
+    ],
+    "publisher": [
+      "Michael B. Feldman, The George Washington University Last Modified"
+    ],
+    "title": [
+      "Specification for Payroll, a set of payroll categories derived from Personnel. Each type has a primitive operation Put, which overrides the one inherited from Employee"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "SUBTYPE CommissionPercentage IS Float RANGE 0.00..0.50; TYPE Professional IS NEW Employee WITH PRIVATE; TYPE Sales IS NEW Employee WITH PRIVATE; TYPE Clerical IS NEW Employee WITH PRIVATE"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "IS",
+        "given": "P.A.C.K.A.G.E.Constructors"
+      }
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "682"
+    ],
+    "title": [
+      "Programming with Objects: Tagged Record Types"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "— demonstrates the use of tagged types"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "George"
+      }
+    ],
+    "note": [
+      "ID => 2222, StartDate => Date_Of(1985,Jun,6), MonthSalary => MakeCurrency(50000.00));"
+    ],
+    "title": [
+      "Persons.Constructors.MakePerson( Name => \"George\", Gender => Male, BirthDate => Date_Of(1971,Nov,2)); Mary := Personnel.Constructors.MakeEmployee( Name => \"Mary\", Gender => Female, BirthDate => Date Of(1950,Get,21), ID => 12347 StartDate => Date_Of(1989,Jul,I)); Martha := Payroll.Constructors.MakeProfessional( Ncune => \"Martha\", Gender => Female, BirthDate => Date_Of(1947,Jul,8"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Herman := Payroll.Constructors.MakeClerical( Name => \"Herman\""
+      }
+    ],
+    "container-title": [
+      "HourlyWage"
+    ],
+    "date": [
+      "=> MakeCurrency(7.50"
+    ],
+    "title": [
+      "Gender => Male, BirthDate => Date__Of(1975,May,13), 684 Programming with Objects: Tagged Record Types ID => 1557, StartDate => Date_Of(1991,Jul,l"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "date": [
+      "1971-11-02"
+    ],
+    "title": [
+      "Name: George Gender: male Birth Date"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "I Body of Persons package"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Author",
+        "given": "I."
+      },
+      {
+        "family": "Feldman",
+        "given": "Michael B."
+      }
+    ],
+    "date": [
+      "1998-09"
+    ],
+    "title": [
+      "The George Washington University — I Last Modified"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AdaText_IOPut"
+      }
+    ],
+    "container-title": [
+      "END Put; ~ PACKAGE BODY Constructors IS FUNCTION MakePerson(Name"
+    ],
+    "note": [
+      "String; Gender : Genders; 686 Programming with Objects: Tagged Record Types"
+    ],
+    "title": [
+      "); Gender_IO.Put(Item => Item.Gender, Set => Ada.Text_IO.Lower_Case); Ada.Text_IO.New_Line; Ada.Text_IO.Put(Item => \"Birth Date: \"); Dates.10.Put(Item => Item.BirthDate, Format => Dates.10.Full); Ada.Text_IO.New Line"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "I Body of Personnel package"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Author",
+        "given": "Michael B.Peldman"
+      }
+    ],
+    "date": [
+      "1998-09"
+    ],
+    "title": [
+      "The George Washington University — I Last Modified"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "AdaText_IOPut"
+      }
+    ],
+    "location": [
+      "Ada.Text_lO.New_Line"
+    ],
+    "publisher": [
+      "END Put"
+    ],
+    "title": [
+      "); Ada.Integer_Text_IO.Put(Item => Positive(item.ID), Width => 1); Ada.Text_IO.New_Line; Ada.Text_IO.Put(Item => \"Start Date: \"); Dates.10.Put(Item => Item.StartDate, Format => Dates.10.Full"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "— I Body of Payroll package —j Author: Michael B. Feldman"
+      }
+    ],
+    "date": [
+      "1998-09"
+    ],
+    "title": [
+      "The George Washington University — I Last Modified"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1998-09"
+    ],
+    "publisher": [
+      "Michael B. Feldman, The George Washington University Last Modified"
+    ],
+    "title": [
+      "Demonstrates the use of classwide general access types and dispatching operations Author"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "Mary"
+    ],
+    "location": [
+      "George"
+    ],
+    "publisher": [
+      "ALIASED Person"
+    ],
+    "source": [
+      "Class-Wide Types 693"
+    ],
+    "title": [
+      "ALIASED Employee; 16.4 System Structures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "George"
+      }
+    ],
+    "note": [
+      "ID => 1234, StartDate => Date_Of(1989,Jul,l));"
+    ],
+    "title": [
+      "Persons.Constructors.MakePerson( Name => \"George\", Gender => Male, BirthDate => Date_Of(1971,Nov,2}); Mary := Personnel.Constructors.MakeEmployee( Name => \"Mary\", Gender => Female, BirthDate => Date_Of(1950,Oct,21"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "Virginia := Payroll.Constructors.MakeSales( Name => \"Virginia\""
+      }
+    ],
+    "container-title": [
+      "WeekSalary"
+    ],
+    "date": [
+      "2500"
+    ],
+    "note": [
+      "ID => 1557, StartDate => Date__Of(1991,Jul,1), HourlyWage => MakeCurrency(7.50));"
+    ],
+    "title": [
+      "Gender => Female, BirthDate => Date_Of(1955,Feb,l), ID => 3456, StartDate => Date_Of(1990,Jan,1",
+      "CommRate => 0.25); Herman := Payroll.Constructors.MakeClerical( Name => \"Herman\", Gender => Male, BirthDate => Date_Of(1975,May,13"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "title": [
+      "I Demonstrates the use of a heterogeneous list"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Author",
+        "given": "I."
+      },
+      {
+        "family": "Feldman",
+        "given": "Michael B."
+      }
+    ],
+    "date": [
+      "1998-09"
+    ],
+    "title": [
+      "The George Washington University — I Last Modified"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Temp",
+        "given": "N.E.W."
+      }
+    ],
+    "location": [
+      "Temp"
+    ],
+    "publisher": [
+      "j AddToEnd(Company"
+    ],
+    "title": [
+      "Person'(Persons.Constructors.MakeFerson( Name => \"George\", Gender => Male, BirthDate => Date__Of(1971,Nov,2"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Temp ;= NEW Clerical*(Payroll.Constructors.MakeClerical( Name => \"Herman\""
+      }
+    ],
+    "container-title": [
+      "ID => 1557, StartDate => DatejOf(1991,Jul,1), HourlyWage => MakeCurrency(7.50"
+    ],
+    "location": [
+      "Temp"
+    ],
+    "publisher": [
+      "AddToEnd(Company"
+    ],
+    "title": [
+      "Gender => Male, BirthDate => Date_Of(1975,May,13"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Company",
+        "given": "List"
+      },
+      {
+        "family": "Temp",
+        "given": "PayrollPointer"
+      }
+    ],
+    "note": [
+      "Gender => Male, BirthDate => Date_0f(1975,May,13), ID => 1557, StartDate => Date_0f(1991,Jul,l), HourlyWage => MakeCurrency(7.50))); AddToEnd(Company, Temp);"
+    ],
+    "title": [
+      "Note that the element type in each list node is one of our class-wide pointers. We can now use Temp as a \"holding area\" for a dynamically allocated professional, for example,and then add it to the end of our company list: Temp ;= NEW Clerical*(Payroll.Constructors.MakeClerical( Name => \"Herman\""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "note": [
+      "BEGIN — Protect_Screen Screen.ClearScreen; Task_B.StartRunning; Task_A.StartRunning; Ta3k_C.StartRunning;"
+    ],
+    "title": [
+      "Now we declare three variables of the type Task_A: SimpleTask(Message => 'A', HowMany => 5, Column => 1); Task_B: SimpleTask(Message => 'B', HowMany => 7, Column => 26); Task_C: SimpleTask(Message => 'C, HowMany => 4, Column => 51"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "PROCEDURE Write (Item: IN String; Row: IN Screen.Depth"
+    ],
+    "location": [
+      "Column"
+    ],
+    "publisher": [
+      "IN Screen.Width); END ScreenManagerType"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Feldman",
+        "given": "M.B."
+      }
+    ],
+    "title": [
+      "Draw spiral pattern with spider - use nested loops High-resolution version Author",
+      "The George Washington University Last Modified: November 1998 BEGIN — Spiral Spider_Hires.Start; Spider_Hires.Face(WhichWay => Spider_Hires.RandomDirection); AA Using the High-Resolution Spider Package 739"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "PACKAGE ASCII IS"
+    ],
+    "date": [
+      "see J"
+    ],
+    "publisher": [
+      "END ASCII; —Obsolescent"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "literal": "—"
+      }
+    ],
+    "publisher": [
+      "OF Character; PRAGMA Pack(String"
+    ],
+    "title": [
+      "Predefined string types: TYPE String IS ARRAY(Positive RANGE <>"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wide_Character",
+        "given": "T.Y.P.E.Wide_String I.S.A.R.R.A.Y.O.F."
+      },
+      {
+        "family": "Pack",
+        "given": "P.R.A.G.M.A."
+      }
+    ],
+    "title": [
+      "The predefined operators for this type correspond to — those for String"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "— The predefined exceptions:"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "IS",
+        "given": "T.Y.P.E.File_Mode"
+      },
+      {
+        "family": "RANGE",
+        "given": "T.Y.P.E.Count I.S."
+      }
+    ],
+    "date": [
+      "0"
+    ],
+    "note": [
+      "implementation-defined; SUBTYPE Positive_Count IS Count RANGE 1 .. Count'Last; Unbounded : CONSTANT Count ;= ; ~ line and page length"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Management",
+        "given": "File"
+      }
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "PROCEDURE Close (File : IN out File_Type); PROCEDURE Delete (File : IN out File_Type); PROCEDURE Reset (File : IN out File Type; Mode ; IN File_Mode); PROCEDURE Reset (File : IN out File_Type"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "PROCEDURE Set_Page_Length(File : IN File_Type; To IN Count); PROCEDURE Set_Page_Length(To : IN Count"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "PROCEDURE Put(File : IN File_Type; Item : IN Character); PROCEDURE Put(Item : IN Character"
+    ],
+    "type": "chapter"
+  }
+]
