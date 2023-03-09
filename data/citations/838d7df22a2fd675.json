@@ -1,0 +1,173 @@
+[
+  {
+    "note": [
+      "SELECT product_id, TO_CHAR (quantity_on_hand, ‘9,999,999’) QUANTITY, RANK() OVER (ORDER BY quantity_on_hand) AS quantity_rank FROM oe.toronto_inventory;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SELECT product_id, TO_CHAR (quantity_on_hand, ‘9,999,999’) QUANTITY, RANK() OVER (ORDER BY quantity_on_hand DESC) AS quantity_rank FROM oe.toronto_inventory;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SELECT product_id, TO_CHAR (quantity_on_hand, ‘9,999,999’) QUANTITY, DENSE_RANK() OVER (ORDER BY quantity_on_hand DESC) AS quantity_rank FROM oe.toronto_inventory;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SELECT product_id, TO_CHAR (quantity_on_hand, ‘9,999,999’) QUANTITY, CUME_DIST() OVER (ORDER BY quantity_on_hand) AS quantity_cume_dist FROM oe.toronto_inventory;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "SELECT product_id, TO_CHAR (quantity_on_hand, ‘9,999,999’) QUANTITY, PERCENT_RANK() OVER (ORDER BY quantity_on_hand) AS quantity_percent_rank FROM oe.toronto_inventory;"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "See also intranet Web cumulative aggregate, 675–678 site, vendors’ cumulative distribution function, 673–674 InfoPath cumulative population standard deviation, 274 described, 558–559 current date (CURRENT_DATE), 289 form, creating, 559–563 current session saving content, 572 current, time zone (SESSIONTIMEZONE), 293"
+    ],
+    "title": [
+      "constructor methods, OT, 494–495 CPU management, 667–668 consumption, AQ, 258 CREATE statement containers, J2EE tables, 131–132 CLASSPATH, 413–414 views, 132–133 described, 401, 407 creating content materialized views, 664–665 sample, creating and storing, 568–572 SQL cursors, 352 saving, 572 stored outlines, 722–723 XML schema, 563–568 triggers, 439–440 content management example"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "291 object-oriented options, 66 next (NEXT_DAY(date, day_to_find)), 291 philosophy, 43–45"
+    ],
+    "title": [
+      "interval, converting to second (NUMTODSINTERVAL(n, normalization, 54–61 interval_name"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "PL/SQL"
+    ],
+    "note": [
+      "DBA (database administrator) physical options, miscellaneous, 64–65 data dictionary (DBA_TABLES), 97–98 physical phase, 46–47 design, optimal, 43–44 practical phase, 47–48 memory allocation, 5 process, 53–54 password rules, 71 tables, 62–63 storage responsibilities, handling, 1 tools, 48–49 DBWR (Database Writer), 3 UML, 52–53",
+      "constraint names, 217 declared type, changing, 288 DBA (DBA_TABLES), 97–98 declaring SQL cursors, 354 dynamic SQL, 110–112 defaults execution plan and statistics (V$SQL_PLAN and database constraints, 230–231 V$SQL_PLAN_STATISTICS), 715–716 ID for imported data, 597 fixed tables (V_$FIXED_TABLE), 99–100 NULL value, replacing with (NVL(exp1, exp2)), 306 set of views, determining, 103–107 deleting SQL generating SQL, 108–110 employees, 181–183 structure, 94–95 imported spreadsheet data, 598 synonyms, 253–254 mutating tables, 449–451 table schema (USER_TABLES), 95–96 objects from database (DROP), 134 tables, viewing accessible (ALL_TABLES), 96–97 recycle bin, 250–252 tablespaces, 93, 633 rows, fixing violations caused by (FOREIGN KEY three-column view (TAB), 98–99 constraints), 224–226 triggers, 451–453 triggers, 441–442, 451 updating, 107–108 updated rows with inappropriate values, 171 user account owning (SYS), 93 without log entries (TRUNCATE), 174 views, locating and describing, 101–103 delimiters, PL/SQL, 331 dimension tables, 202–203 denormalization, 63–64 dimensions, business intelligence schema, 650–651, departments, listing employees by, 161 652–653 dependencies, PL/SQL direct path operations package, 382 data block, compressing, 243–244 sample procedure, 346–348 database constraints, 238–239"
+    ],
+    "pages": [
+      "280–281",
+      "386–387"
+    ],
+    "title": [
+      "DDL (data definition language) statements details of user actions (fine-grained), 86–87 ALTER, 133–134 deterministic functions, indexing, 201 COMMIT, invisible, 134 developer CREATE, 131–133 creating from administration page, 591–593 data dictionary, updating, 108 home page, 580–581 described, 19–20, 130–131 RAC, 6 DROP, 134 role, 28, 43 triggers and, 453 The Devil’s DP Dictionary (Kelly-Bottle), 69 decimal places, truncating by specified (TRUNC dictionary, data",
+      "accessing, 94 declaration section"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "n, n2",
+      "328"
+    ]
+  },
+  {
+    "note": [
+      "violations, 225–226 searching POSIX (REGEXP_SUBSTR(source, foreign keys, 61 regex, [pos], [occurrence], form, InfoPath [match])), 285–286 creating, 559–563 sorting (NLSSORT(arg1, [‘NLS_SORT=x’])), 284 saving completed, 571–572 specified, returning (CHR(arg1 [using formatting nchar_cs])), 281 date, 292–293 substring, finding (INSTR(arg1, to_find, pos, SQL trace file (TKPROF), 712–714 occurrence)), 282 truncated date (TRUNC (date, [format])), 295 substring from specified position (SUBSTR(arg1, view with regular expression, 473–474 pos, len)), 287 fragment uppercase (UPPER(arg1)), 288 value of (EXTRACT (XML, XPath, uppercase with multibyte encoding [namespace])), 309–310 (NLS_UPPER(arg1, [‘NLS_SORT=x’])), 284 XML, aggregating (SYS_XMLAGG(exp, [format])), character set 310–311 ID (NLS_CHARSET_ID(charset)), 305"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "FTP (File Transfer Protocol), 527–528 name (NLS_CHARSET_NAME(ID)), 305 function-based index collection caveats, 201–202 column, creating nested table of (COLLECT (column_name)), 303"
+    ],
+    "type": null
+  },
+  {
+    "pages": [
+      "635–637"
+    ],
+    "title": [
+      "high-speed data movement HyperText Markup Language-Database. See HTML-DB described, 629–630 hypothetical ranking, business intelligence analysis, export/import and Data Pump, 630–632 680–682 streams advanced queues, configuring and monitoring"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "276 internal logic, PL/SQL package, 388–389 numeric literals, PL/SQL, 333 International Electrotechnical Commission (IEC), 130 sequential, collection by, 365–366 International Standards Organization (ISO), 130 integrity INTERSECT operator, 168–169 ALTER TABLE command, 233–234 interval day application-side rule checking, 240 converting to second (NUMTODSINTERVAL(n, CHECK, 226–229 interval_name)), 291 concurrent, 30–33 to second (TO_DSINTERVAL(arg1, declaring, 216 [NLS_NUMERIC_CHARACTERS = “dg”])), DEFAULT, 230–231 294–295 deferrable, 238 interval year described, 213, 215 converting to month (NUMTOYMINTERVAL(n, direct path operations, 238–239 interval_name)), 291–292 export/import, 239 to month (TO_YMINTERVAL(arg1)), 295 FOREIGN KEY, 222–226 intranet Web site, vendors’ indexes and, 236–238 HTML, displaying content as, 572–574 naming, 217 InfoPath form, 558–563 NOT NULL, 217–219 information content schema, 563–568 PRIMARY KEY, 219–221 storing content, 568–572 REF, 231–232 inventory snapshot database views and, 37 Java application with ORDBMS, 501–503 states, 234–236 ranking from fewest to most, 672–673 table triggers, mutating, 239 inverse distribution triggers and stored procedures, 215–216 with continuous model (PERCENTILE_CONT(exp two-phase commit, 319–320 ...) WITHIN GROUP (ORDER BY exp)), 272 UNIQUE, 221–222 with discrete model (PERCENTILE_DISC(exp ...) users, multiple, 28–29 WITHIN GROUP (ORDER BY exp)), 273 views, 239–240 invoke intelligence, business Java stored procedures, 432–434 analysis PL/SQL rights, 348–349 cumulative and moving aggregates, 675–678 IOT (index-organized tables), 207 data mining, 686–687 ISO (International Standards Organization), 130"
+    ],
+    "title": [
+      "installing Oracle (continued) installing Oracle (continued) first and last functions, 679–680 process, 117–122 lag and lead functions, 678–679 software, obtaining, 113–116 linear regression, hypothetical ranking, and width system requirements, 116 bucket functions, 680–682 instance OLAP, 682–686 background processes, 3 ranking and percentiles, 672–675 clustering, 6 tools, 671–672 control file, 4 described, 645 illustrated, 2 materialized views, 664–665 initialization files, 3–4 proactive management, complex query workloads, Listener process, 3 659–660 memory used by, 4–5 schema redo log files, 4 described, 646–650 rollback segments, 4 dimensions, 650–651, 652–653 starting, 2–3 hierarchies, 660 Instant Client software, installing, 125–126 SQL Access Advisor, 655–656 INSTEAD OF triggers, 444–447 SQL aggregation (ROLLUP and CUBE), 665–667 integer summary tables, 661–664 next greatest (Ceil(n"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "pool",
+        "given": "K.E.E.P.",
+        "particle": "buffer"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Open DataBase Connectivity), 321–322 described, 702–703 ODBMS (object database management systems) detailed, 704 inheritance, 497–499 example, 704–709 Java class overall, 703–704 described, 501–503 hints instances, creating, 504–506 access path, 717–718 interacting with database objects, 506–510 advantages and disadvantages of, 721–722"
+    ],
+    "title": [
+      "OCI (Oracle Call Interface) data access, 700–701 API software, 124 described, 699–700 Java driver, 409, 415 execution statistics ODBC"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "running, 390–391 POSIX (Portable Operating System Interface runtime memory usage, 382–383 characters, replacing (REGEXP_INSTR(source, scope, 381–382 regex, [pos], [occurrence], specification, 383–384 [return_option], [match])), 284–285 visibility, 381 searching (REGEXP_SUBSTR(source, regex, records, 363, 364 [pos], [occurrence], [match])), 285–286 sample procedure price code, starting, 341 minimum, first/last analysis, 679–680 compiling, 344–345 product change, e-mail alert, 428–434 exception handling, 343–344 primary key logic, adding, 342–343 database constraints, 219–221, 234 purpose, 341 importing data from spreadsheet table, 597–598 running, 345–346 index, 236–237 source code and dependencies, 346–348 source, selecting, 607–608 variables, adding, 342 privacy issues, 67–68 security privileges access, 348 ACL, 534–535 program unit rights, 348–349 auditing user actions, 86"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "431 records, 363–364 methods, 428 REF CURSOR, 362 OracleJVM installation, verifying, 427–428 rows, retrieving group (BULK COLLECT), 369–372 publish, 431–432 variable arrays, 366 process, handling requests from applications. write statements, multiple (FOR ALL), 373–375 See instance uses, 350 Process Monitor (PMON), 3"
+    ],
+    "title": [
+      "SQL objects, isolating, 103 basic within, 351 PL/SQL program, 348–349, 383 collection indexed by sequential integers, 365–366 procedures, stored collections, 366–369 authorizing users, 78 FOR cursor, 359–360 database integrity features, 215–216 cursors, 352–357 described, 259 data indexed by value, 364–365 Java data types, special, 357–358 code, 428–431 dynamic, 375–376 invoke, 432–434 implicit cursors, 360–361 load and resolve"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "specifying (SIGN(n)), 279 (nested tables), 365–366 similar words (LIKE and REGEXP_LIKE), 159–160 collections, 366–369 simple OT (object types), 491 FOR cursor, 359–360 sine cursors, 352–357 arc (ASIN(n)), 275 data indexed by value (associative arrays), 364–365 in radians (SIN(n)), 279 data types, special, 357–358 size, of arg1 argument (VSIZE(arg1)), 309 dynamic, 375–376 smart cards and biometric identification, 70 implicit cursors, 360–361 SMON (System Monitor), 3 records, 363–364 SMTP traffic, Java, 428–434 REF CURSOR, 362 snapshot database views, 37 rows, retrieving group (BULK COLLECT), 369–372 snowflake schema, 656 variable arrays, 366 SOAP Server (Oracle), 577 write statements, multiple (FOR ALL),",
+      "software, obtaining Oracle, 113–116 records, 364 sorting regular expressions, 462 characters (NLSSORT(arg1, [‘NLS_SORT=x’])), 284 removing rows matching criteria (DELETE statement), 155 index order, 191–192 result set values, finding common (IN and EXISTS), optimization, 702 160–164 scalar data types, 495–497 rows, comparing (ANY, SOME, ALL), 164–166 temporary tablespaces, 242 rows, ordering and limiting (ROWNUM), 174–177 space, characters filling specified, 9 similar words (LIKE and REGEXP_LIKE), 159–160 splitting top-level nodes (XMLSEQUENCE(Cursor, standards, 130 XMLFormat) XMLSEQUENCE(XMLType)), 313 statements spreadsheet data, importing, 593–599 auditing user actions, 85 SQL authenticating users (CREATE USER and ALTER access based on, 529–533 USER), 70–73 adding data (INSERT statement), 153–155 automatic tracing (AUTOTRACE), 709 aggregation (ROLLUP and CUBE), 665–667 bind variables performance, 23–25 ALTER statement, 133–134 connecting to database, 16–18 calendar, 619 cursor, establishing, 18 changing data in row (UPDATE statement), 155 grouping, 130–131 CREATE statement, 131–133 histograms, 698–699 data dictionary, 94, 108–110 JPub, 517–518 data, returning from write operations, 183–184 parallel operation performance, 25–26 deleting processing cycle illustrated, 15–16 objects from database (DROP), 134 receiving data, 21 without log entries (TRUNCATE), 174 retrieval performance, 22–23 earlier queries, obtaining (Flashback), 179–183 submitting, 18–21 extended set operations, 166–171 subqueries, 150–153 history, 129 tables, combining (MERGE), 171–174 HTML-DB interface to Oracle database, 626 trace file, formatting and aggregating (TKPROF), 712–714 JDBC execution, 416–418 transaction boundaries, marking (COMMIT, limitations, 46–47 ROLLBACK, and SAVEPOINT), 156 multi-table access, 147–150 values, computing based on groups of rows (analytics), operators and procedural code, 462 177–179 PL/SQL to XML, 554–557 basic within, 351 SQL Access Advisor, 211, 655–656"
+    ],
+    "pages": [
+      "135–147"
+    ],
+    "title": [
+      "sharing data and events sharing data and events. See streams collection indexed by sequential integers sign of the first argument",
+      "373–375 Social Security number, matching. See patterns pool and data buffer, flushing, 186–187 soft parse, 19 reading data (SELECT statement"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "cumulative, square root of (STDDEV_SAMP(exp)), 274 string sample, of exp (STDDEV(exp)), 273 literals, PL/SQL, 333–334 square root of (STDDEV_SAMP(exp)), 274 padded character (,LPAD (arg3)), 283 standards, SQL, 130 searching for pattern (REGEXP_SUBSTR), 466–468 star schema, 654–655, 657 time and date, converting (TO_CHAR (datetime, statement format, [‘NLS_DATE_LANGUAGE = batching, 418 language’])), 294 grouping, 130–131 unbounded XML, 552 terminator, 331 structured storage, 536–537 states, 234–236 style sheet, 313 static methods, OT (object types), 497 submitting SQL statements, 18–21 statistics subqueries, SQL, 150–153 execution substring characters described, 702–703 finding (INSTR(arg1, to_find, pos, example, 704–709 occurrence)), 282 listing (V$SQL_PLAN and V$SQL_PLAN_ from specified position (SUBSTR(arg1, pos, STATISTICS), 715–716 len)), 287 overall, 703–704 summary information, HTML-DB tables, 605 optimization summary tables, business intelligence change and, 694–695 described, 661–664 collecting, 694 SQL Access Advisor, 655–656 cost and, 692 sums. See adding production and test environments, 695 symbols, special PL/SQL, 331–332 types, 693–694 synonyms stock item-line item association, 491 benefits of using, 253 stock market location transparency, preserving illusion of, 318 interests, populating, 478–484 schemas, shared and private, 105–107 PE ratio, returning by, 477–478 working with, 253–254 portfolio application, 476–477 system storage responsibilities, DBAs handling, 1 hardware management, 667–668 stored outlines, 722–723 operating system clock (SYSDATE), 293 stored procedures Oracle requirements, 116, 582 authorizing users, 78 timestamp, 289, 293–294 database integrity features, 215–216"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "alias, 137 TCP/IP (Transmission Control Protocol/Internet building application based on, 600–602 Protocol) encryption, 90 column, assigning attribute set, 479–480 telephone numbers, matching. See patterns combining (MERGE), 171–174 temporary tables, global, 250 CREATE statement,",
+      "Third Normal Form), 60 index, organizing, 207 three-column data dictionary view, 98–99 multiple, accessing time. See date and time functions inner joins, 148–149 time machine. See Flashback insert, 154–155 time zone INSTEAD OF triggers, 444–447 current session (SESSIONTIMEZONE), 293 outer joins, 149–150 database (DBTIMEZONE), 289 selecting, 147–148 offset (TZ_OFFSET(timezone_param)), 295 multiple part key, 59–60 returning specified (NEW_TIME(the_date, tz1, nested tz2)), 290–291 columns, creating from (COLLECT(column_name)), time and date converting to TIMESTAMP with 303 (TO_TIMESTAMP_TZ(string, format, number of records (CARDINALITY(table_name)), [NLS_TIMESTAMP_FORMAT])), 294 303 timestamp with (FROM_TZ(timestamp, SET, converting to (SET(table_name)), 303 timezone)), 289–290 SQL within PL/SQL, 365–366 timestamp organizations or customers, storing (VPD), 81–84 current system (CURRENT_TIMESTAMP separating, linking (UNION), 166–168 ([precision])), 289"
+    ],
+    "pages": [
+      "152–153"
+    ],
+    "title": [
+      "131–132 temporary tablespaces, 242–243 data access, 700 test environments, 695 data dictionary schema (USER_TABLES), 95–96 text database design, 62–63 data, creating from, 389–390 defined, 6 regular expressions, matching, 456, 463–464 direct path loading restrictions, 640 searching string (REGEXP_SUBSTR), 466–468 external, 641–643 spreadsheet data, importing as, 594 fixed, data dictionary (V_$FIXED_TABLE), 99–100 trace file, formatting and aggregating, 712–714 flat files, accessing external, 260 theme, HTML-DB, 609 importing spreadsheet data, 595–596 Thin Driver, 408, 411, 415 index or column"
+    ],
+    "type": null,
+    "volume": [
+      "number associated",
+      "3NF"
+    ]
+  }
+]
