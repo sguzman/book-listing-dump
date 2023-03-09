@@ -1,0 +1,300 @@
+[
+  {
+    "container-title": [
+      "MASM Tutorials Assembly Language Primer for the_JBM PC and XT, by Robert Lafore"
+    ],
+    "date": [
+      "1984"
+    ],
+    "isbn": [
+      "0-452-25711-5"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "publisher": [
+      "New American Library"
+    ],
+    "title": [
+      "The literature on IBM PC-compatible personal computers, the Intel 80x86 microprocessor family, and assembly-language and C programming is vast. The list below contains a selection of those books that I have found to be useful and reliable. The list should not be construed as an endorsement by Microsoft Corporation"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Language",
+        "given": "Assembly"
+      },
+      {
+        "family": "Leo Scanlon",
+        "particle": "by"
+      }
+    ],
+    "citation-number": [
+      "8086/8088/80286"
+    ],
+    "date": [
+      "1988"
+    ],
+    "isbn": [
+      "0-13-246919-7"
+    ],
+    "location": [
+      "New York, NY"
+    ],
+    "note": [
+      "CTutorials Microsoft C Programming for the IBM, by Robert Lafore. Howard K. Sams"
+    ],
+    "title": [
+      "Brady Books, Simon and Schuster"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Co"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "isbn": [
+      "0-672-22515-8"
+    ],
+    "location": [
+      "Indianapolis, IN"
+    ],
+    "title": [
+      ""
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Proficient",
+        "given": "C."
+      },
+      {
+        "family": "Augie Hansen",
+        "particle": "by"
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "isbn": [
+      "1-55615-007-5"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "P.C."
+      },
+      {
+        "family": "Murray Sargent",
+        "particle": "by"
+      },
+      {
+        "family": "Shoemaker",
+        "given": "Richard L."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "edition": [
+      "Revised"
+    ],
+    "isbn": [
+      "0-201-06918-0"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "note": [
+      "Programmer's Guide to PC & PS/2 Video Systems, by Richard Wilton."
+    ],
+    "publisher": [
+      "Addison-Wesley Publishing Company"
+    ],
+    "title": [
+      "PC/AT, and PS/2 Architecture The IBM Personal Computer from the Inside Out"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1987"
+    ],
+    "isbn": [
+      "1-55615-103-9"
+    ],
+    "location": [
+      "Redmond, WA"
+    ],
+    "publisher": [
+      "Microsoft Press"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "IBM Corporation, IBM Technical Directory, P. 0 . Box 2009"
+    ],
+    "issue": [
+      "6322507"
+    ],
+    "location": [
+      "Racine, WI"
+    ],
+    "title": [
+      "Personal Computer Technical Reference"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "author": [
+      {
+        "family": "Corporation",
+        "given": "Personal Computer A.T.Technical Reference I.B.M."
+      },
+      {
+        "family": "Directory",
+        "given": "I.B.M.Technical"
+      },
+      {
+        "given": "P."
+      }
+    ],
+    "container-title": [
+      "Options and Adapters Technical Reference. IBM Corporation, IBM Technical Directory, P. 0 . Box 2009",
+      "WI"
+    ],
+    "date": [
+      "2009"
+    ],
+    "issue": [
+      "6280070",
+      "6322509"
+    ],
+    "location": [
+      "Racine, WI"
+    ],
+    "title": [
+      "Racine"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "IBM Corporation, IBM Technical Directory, P. 0. Box 2009"
+    ],
+    "issue": [
+      "68X2201"
+    ],
+    "location": [
+      "Racine, WI"
+    ],
+    "title": [
+      "Personal System/2 Model 30 Technical Reference"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "IBM Corporation, IBM Technical Directory, P. 0. Box 2009"
+    ],
+    "issue": [
+      "68X2224"
+    ],
+    "location": [
+      "Racine, WI"
+    ],
+    "title": [
+      "Personal System/2 Model 50/60 Technical Reference"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "IBM Corporation, IBM Technical Directory, P. 0. Box 2009"
+    ],
+    "issue": [
+      "68X2256"
+    ],
+    "location": [
+      "Racine, WI"
+    ],
+    "title": [
+      "Personal System/2 Model 80 Technical Reference"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "genre": [
+      "Int 21H 44H IOCTL (I/O control)"
+    ],
+    "pages": [
+      "267–81 411–43",
+      "344 272–73"
+    ],
+    "title": [
+      "function OOH, Driver initialization Int 21H functions, summary 337-38 268-69 (table) function OlH, Media Check 270-71 processing typical I/O request 281-82 function 02H, Build BIOS Parameter Character input without echo 349-50 function 03H, I/O-Control Read Character output"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "continued Console display and keyboard (CON) 12, function 07H, Flush Input Buffers 298-99"
+    ],
+    "title": [
+      "CHDIR (CD) command 167 function 04H, Read 273 Check if block device is remote 423-24 function 05H, Nondestructive Read 274 Check if block device is removable function 06H, Input Status 274 422-23 648 Index command code routines"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Subfunction",
+        "given": "O.O.H."
+      }
+    ],
+    "genre": [
+      "Set relative record 93-94,"
+    ],
+    "note": [
+      "Reserved 393 Subfunction 0AH, IOCTL: check if Function 35H, Get interrupt vector 252, handle is remote 424-25 316, 393-94 Subfunction 0BH, IOCTL: change Function 36H, Get drive allocation sharing retry count 425-26 information 394-95 Subfunction OCH, IOCTL: generic Function 37H, Reserved 395 I/O control for character devices Function 38H, Get or set country 426-29 information 395-98 Function 39H, Create directory"
+    ],
+    "pages": [
+      "411–34",
+      "376",
+      "398–99"
+    ],
+    "title": [
+      "Function 23H, Get file size 132, 375-76 Function 44H, IOCTL (I/O control) 69, Function 24H",
+      "IOCTL: get device Function 25H, Set interrupt vector 147, information 412-13 252,253,316,377-78 Subfunction Olli, IOCTL: set device Function 26H, Create new PSP 378-79 information 414-15 Function 27H, Random block read 132, Subfunction 02H, IOCTL: read 379-80 control data from character device Function 28H, Random block write driver 415-16 132, 381-82 Subfunction 03H, IOCTL: write Function 29H, Parse filename 129, 132, control data to character device 382 driver 416-17 Function 2AH, Get date 384-85 Subfunction 04H, IOCTL: read Function 2BH, Set date 385 control data from block device Function 2CH, Get time 386 driver 418-19 Function 2DH, Set time 386-87 Subfunction 05H, IOCTL: write Function 2EH, Set verify flag 387-88 control data to block device driver Function 2FH, Get DTA address 419-20 388-89 Subfunction 06H, IOCTL: check Function 30H, Get MS-DOS version input status 420-21 number148,319,389 Subfunction 07H, IOCTL: check Function 31H, Terminate and stay output status 421-22 resident 252, 253, 390-91 Subfunction 08H, IOCTL: check if Function 32H, Reserved 392 block device is removable 422-23 Function 33H, Get or set break flag, get Subfunction 09H, IOCTL: check if boot drive 392-93 block device is remote 423-24 Function 34H"
+    ],
+    "type": null,
+    "volume": [
+      "111, 204, 205",
+      "number 132",
+      "167"
+    ]
+  }
+]
