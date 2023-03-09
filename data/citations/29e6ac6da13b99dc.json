@@ -1,0 +1,4367 @@
+[
+  {
+    "citation-number": [
+      "5.3"
+    ],
+    "title": [
+      "Write a VHDL description for an %bit register with a clear input. If clear is low, the register is loaded with 0. On the other hand, if clear is high, an 8-bit data is transferred to the register at the positive edge of the clock. Use behavioral modeling"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "806"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic and Microcomputer Design 5.4 Write a VHDL description for the Status register of Example 6.1 using behavioral modeling"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "repeated addition) using: (a) Hardwired control (Section 7.3.5.2). (b) Microprogramming (Section 7.3.5.3). Fundamentals of Digital Logic andhficrocomputer Design. M. Rafiquzzaman Copyright 02005"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "J.5 Write a VHDL description for the four-bit by four-bit unsigned multiplier"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "M.G."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Verilog Digital Computer Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bhasker",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "edition": [
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "VHDL Primer"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Breeding",
+        "given": "K."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Brown",
+        "given": "S."
+      },
+      {
+        "family": "Vranesic",
+        "given": "Z."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic with VHDL Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Bums",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1985-02",
+      "1985-03"
+    ],
+    "pages": [
+      "103–106,"
+    ],
+    "title": [
+      "Within the 68020, Electronics and Wireless World,pp"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Ciletti",
+        "given": "M.D."
+      }
+    ],
+    "date": [
+      "1999"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Modeling, Synthesis, and Prototyping with the Verilog HDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Daconta",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Java for C/C++ Programmers"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Dewey",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1997"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "PWS Publishing"
+    ],
+    "title": [
+      "Analysis and Design of Digital Systems with VHDL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Feibus",
+        "given": "M."
+      },
+      {
+        "family": "Slater",
+        "given": "M."
+      }
+    ],
+    "container-title": [
+      "PC Magazine"
+    ],
+    "date": [
+      "1993-04-27"
+    ],
+    "title": [
+      "Pentium power"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Hall",
+        "given": "D."
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Microprocessors and Interfacing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hamacher",
+        "given": "V.C."
+      },
+      {
+        "family": "Vranesic",
+        "given": "Z.G."
+      },
+      {
+        "family": "Zaky",
+        "given": "S.G."
+      }
+    ],
+    "date": [
+      "1978",
+      "1984",
+      "1990"
+    ],
+    "edition": [
+      "2nd",
+      "3rd"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Organization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hartman",
+        "given": "B."
+      }
+    ],
+    "date": [
+      "1981-03"
+    ],
+    "pages": [
+      "50–57,"
+    ],
+    "title": [
+      "16-Bit 68000 Microprocessor concepts on 32-bit frontier, MC 68000 Article Reprints, Motorola"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Architecture and Organization"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Digital System Design and Microprocessors"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hayes",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Reading, MA"
+    ],
+    "publisher": [
+      "Addison-Wesley"
+    ],
+    "title": [
+      "Introduction to Digital Logic Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Hwang",
+        "given": "K."
+      },
+      {
+        "family": "Briggs",
+        "given": "F.A."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "McGraw-Hill"
+    ],
+    "title": [
+      "Computer Architecture and Parallel Processing"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "Intel Component Data Catalog, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "Intel 486Microprocessor Family Programmer ‘s ReferenceManual,Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "Intel 486 Microprocessor Hardware Reference Manual, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1978"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Marketing communications, The Semiconductor Memory Book"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "MCS-86 User’s Manual, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "Memory Components Handbook, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Intel",
+        "given": "Microprocessors"
+      },
+      {
+        "family": "Handbook",
+        "given": "Peripheral"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "publisher": [
+      "Microprocessors, Intel Corporation"
+    ],
+    "type": "book",
+    "volume": [
+      "I"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Intel",
+        "given": "Microprocessors"
+      },
+      {
+        "family": "Handbook",
+        "given": "Peripheral"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "publisher": [
+      "Peripheral, Intel Corporation"
+    ],
+    "type": "book",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "Pentium Processor User’s Manual, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "80386 Advance Information, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "80386 Hardware Reference Manual, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Intel"
+      }
+    ],
+    "date": [
+      "1986"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "80386 Programmer’s Reference Manual, Intel Corporation"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "808"
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "publisher": [
+      "Intel Corporation"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic and Microcomputer Design Intel, The 8086 Family User’sFamily"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Johnson"
+      }
+    ],
+    "date": [
+      "1986-09"
+    ],
+    "pages": [
+      "205–218,"
+    ],
+    "title": [
+      "A comparison of MC68000 family processors, BYTE"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Katz",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "BenjarnidCummings, San Francisco"
+    ],
+    "title": [
+      "Contemporary Logic Design"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Lee",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Design of Computers and other Complex Digital Devices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Computer Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1983"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Computer System Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1991",
+      "2002"
+    ],
+    "edition": [
+      "2nd",
+      "3rd"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Mano",
+        "given": "M."
+      },
+      {
+        "family": "Kime",
+        "given": "C."
+      }
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Upper Saddle River"
+    ],
+    "pages": [
+      "200 1"
+    ],
+    "publisher": [
+      "updated, Prentice Hall",
+      "NJ"
+    ],
+    "title": [
+      "Logic and Computer Design Fundamentals"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Miller",
+        "given": "M."
+      },
+      {
+        "family": "Raskin",
+        "given": "R."
+      },
+      {
+        "family": "Rupley",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "PC Magazine"
+    ],
+    "date": [
+      "1995-02-27"
+    ],
+    "title": [
+      "The pentium that stole Christmas"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "title": [
+      "MC68000 16-Bit Microprocessor User’s Manual, Motorola Corporation"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1982"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "note": [
+      "Motorola, MC68000 Supplement Material (Technical Training),"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1979"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "title": [
+      "MC68000 Users Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "MC68020 Course Notes"
+      }
+    ],
+    "container-title": [
+      "MTTA20 Rev"
+    ],
+    "date": [
+      "1987-07"
+    ],
+    "location": [
+      "Motorola Corporation Schaumburg, IL"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "title": [
+      "MC68020 User’s Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Schaumburg"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "title": [
+      "MC68020/68030 Audio Course Notes"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "title": [
+      "MC68040 User’s Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1981"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "title": [
+      "Microprocessor Data Material"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1993"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "title": [
+      "Power PC 601, RISC Microprocessor User’s Manual, Motorola Corporation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Motorola",
+        "given": "Technical Summary"
+      }
+    ],
+    "container-title": [
+      "Rev"
+    ],
+    "date": [
+      "1987"
+    ],
+    "location": [
+      "Schaumburg, IL"
+    ],
+    "publisher": [
+      "Motorola Corporation"
+    ],
+    "title": [
+      "32-Bit Virtual Memory Microprocessor, MC68020 BR2431 D"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "edition": [
+      "4th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "16-Bit Microprocessor: MC68000 User’s Manual"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "Motorola"
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "genre": [
+      "MC68020 UM/AD Rev. 1,"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "68020 User’s Manual"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Semiconductor",
+        "given": "National"
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "CMOS Logic Data Book, National Semiconductor"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Semiconductor",
+        "given": "National"
+      }
+    ],
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "FasP Advanced Schottky TTL Logic Data Book, National Semiconductor"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Semiconductor",
+        "given": "National"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "title": [
+      "LS/S/TTL Logic Data Book, National Semiconductor"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Semiconductor",
+        "given": "National"
+      }
+    ],
+    "date": [
+      "1989"
+    ],
+    "location": [
+      "Santa Clara, CA"
+    ],
+    "publisher": [
+      "National Semiconductor"
+    ],
+    "title": [
+      "Programmable Logic Devices Data Book and Design Guide"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Nelson",
+        "given": "V.P."
+      },
+      {
+        "family": "Nagle",
+        "given": "H.T."
+      },
+      {
+        "family": "Irwin",
+        "given": "J.D."
+      },
+      {
+        "family": "Carroll",
+        "given": "B.D."
+      }
+    ],
+    "date": [
+      "1995"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Logic Circuit Analysis and Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Osborne",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1980",
+      "1982"
+    ],
+    "edition": [
+      "revised",
+      "2nd"
+    ],
+    "location": [
+      "Berkeley, CA"
+    ],
+    "publisher": [
+      "Basic Concepts",
+      "Osborne/McGraw-Hill"
+    ],
+    "title": [
+      "An Introduction to Microprocessors"
+    ],
+    "type": "book",
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Palnitkar",
+        "given": "S."
+      }
+    ],
+    "date": [
+      "1996"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Division of Prentice Hall"
+    ],
+    "title": [
+      "Verilog HDL: A Guide to Digital Design and Synthesis, SunSoft Press"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Pellerin",
+        "given": "D."
+      },
+      {
+        "family": "Holley",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1994"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design Using ABEL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafiquzzaman",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "New York"
+    ],
+    "publisher": [
+      "Harper & Row"
+    ],
+    "title": [
+      "Microprocessors and Microcomputer Development Systems: Designing Microprocessor-Based Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafiquzzaman",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1987"
+    ],
+    "edition": [
+      "SDK-85,2nd"
+    ],
+    "location": [
+      "Hoboken, NJ"
+    ],
+    "publisher": [
+      "Wiley"
+    ],
+    "title": [
+      "Microcomputer Theory and Applications with the INTEL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafiquzzaman",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Microprocessors-Theory and Applications-Intel and Motorola"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafiquzzaman",
+        "given": "M."
+      },
+      {
+        "family": "Chandra",
+        "given": "R."
+      }
+    ],
+    "date": [
+      "1988"
+    ],
+    "location": [
+      "Boston"
+    ],
+    "publisher": [
+      "West I PWS"
+    ],
+    "title": [
+      "Modern Computer Architecture"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Rafiquzzaman",
+        "given": "M."
+      }
+    ],
+    "date": [
+      "1990",
+      "1995"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Boca Raton, FL"
+    ],
+    "publisher": [
+      "CRC Press"
+    ],
+    "title": [
+      "Microprocessors and Microcomputer-Based System Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "D."
+      },
+      {
+        "family": "Franzon",
+        "given": "P."
+      }
+    ],
+    "date": [
+      "2000"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Verilog Styles for Synthesis of Digital Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Smith",
+        "given": "J."
+      },
+      {
+        "family": "Weiss",
+        "given": "S."
+      }
+    ],
+    "container-title": [
+      "IEEE Computer"
+    ],
+    "date": [
+      "1994-06"
+    ],
+    "title": [
+      "Power PC 601 and Alpha 21064: a tale of two RISCs"
+    ],
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanenbaum",
+        "given": "A.S."
+      }
+    ],
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Structured Computer Organization"
+    ],
+    "type": "book"
+  },
+  {
+    "date": [
+      "1990"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Texas Instruments, Linear Circuits Data Book"
+    ],
+    "type": null
+  },
+  {
+    "date": [
+      "1984"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Texas Instruments, The TTL Data Book"
+    ],
+    "type": null,
+    "volume": [
+      "1"
+    ]
+  },
+  {
+    "date": [
+      "1976"
+    ],
+    "edition": [
+      "2nd"
+    ],
+    "location": [
+      "Texas Instruments, Dallas, TX"
+    ],
+    "title": [
+      "Texas Instruments, The TTL Data Book for Design Engineers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Tocci",
+        "given": "R.J."
+      },
+      {
+        "family": "Widmer",
+        "given": "N.S."
+      }
+    ],
+    "date": [
+      "1998"
+    ],
+    "edition": [
+      "7th"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Systems"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Triebel",
+        "given": "W."
+      }
+    ],
+    "date": [
+      "1992"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The 80386 DX Microprocessor"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Triebel",
+        "given": "W."
+      },
+      {
+        "family": "Singh",
+        "given": "A."
+      }
+    ],
+    "date": [
+      "1985"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "The 8086 Microprocessor"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Spiegel",
+        "given": "J.",
+        "particle": "Van der"
+      }
+    ],
+    "date": [
+      "2002-04"
+    ],
+    "location": [
+      "Philadelphia"
+    ],
+    "publisher": [
+      "University of Pennsylvania"
+    ],
+    "title": [
+      "VHDL Tutorial, Department of Electrical Engineering"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Wakerly",
+        "given": "J."
+      }
+    ],
+    "date": [
+      "2001"
+    ],
+    "edition": [
+      "3rd ed. updat"
+    ],
+    "location": [
+      "Upper Saddle River, NJ"
+    ],
+    "publisher": [
+      "Prentice Hall"
+    ],
+    "title": [
+      "Digital Design Principles and Practices"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "White",
+        "given": "R."
+      }
+    ],
+    "container-title": [
+      "DVD FAQs",
+      "Active Windows"
+    ],
+    "date": [
+      "1999",
+      "2000",
+      "2000"
+    ],
+    "edition": [
+      "millennium"
+    ],
+    "publisher": [
+      "Que Corporation",
+      "Active Windows"
+    ],
+    "title": [
+      "How Computers Work",
+      "www.activewin.com, Windows 2000"
+    ],
+    "type": "article-journal",
+    "url": [
+      "www.activewin.com,"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Zorpette",
+        "given": "G."
+      },
+      {
+        "given": "Microprocessors"
+      }
+    ],
+    "container-title": [
+      "IEEE Spectrum",
+      "M. Rafiquzzaman Copyright"
+    ],
+    "date": [
+      "1994-09"
+    ],
+    "issue": [
+      "9"
+    ],
+    "pages": [
+      "65–71,"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc"
+    ],
+    "title": [
+      "The beauty of 32-bits",
+      "Fundamentals of Digital Logic andhficrocomputer Design"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "22",
+      "02005"
+    ]
+  },
+  {
+    "genre": [
+      "M. Rafiquzzaman Copyright 02005"
+    ],
+    "publisher": [
+      "John Wiley & Sons, Inc. Index"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic andhficrocomputer Design"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "ABEL"
+    ],
+    "date": [
+      "PAL16L8. 127"
+    ],
+    "pages": [
+      "127 8288 673",
+      "188–189,218,634"
+    ],
+    "title": [
+      "A A/D converter, 339-341,344345,44&441, 2732, 206,426,434435,453,510-513,529-532, 524526,579,594,634, 674"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1 8255, 429432,434436,675. 8284, 417420,672. 16L8",
+      "128,634. Accumulator"
+    ]
+  },
+  {
+    "citation-number": [
+      "4"
+    ],
+    "container-title": [
+      "Active low"
+    ],
+    "genre": [
+      "look-ahead circuit, 248."
+    ],
+    "pages": [
+      "4–",
+      "106–1 19,244–25 1",
+      "108–109"
+    ],
+    "publisher": [
+      "Adder",
+      "BCD"
+    ],
+    "title": [
+      "Active high, 63"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "63"
+    ]
+  },
+  {
+    "citation-number": [
+      "6"
+    ],
+    "container-title": [
+      "Binary"
+    ],
+    "note": [
+      "Carry look ahead, 247-248."
+    ],
+    "pages": [
+      "119"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "106"
+    ]
+  },
+  {
+    "date": [
+      "Carry save"
+    ],
+    "pages": [
+      "427,434436,453456,510–513,529–531,",
+      "106–107,244,246,250,638"
+    ],
+    "type": null,
+    "volume": [
+      "6116",
+      "250,347. 658460. Full"
+    ]
+  },
+  {
+    "citation-number": [
+      "68000"
+    ],
+    "date": [
+      "Half"
+    ],
+    "issue": [
+      "C000, 3 1"
+    ],
+    "note": [
+      "Ripple c a y adder, 108."
+    ],
+    "pages": [
+      "198,205,218,220–223,",
+      "284286,457–542,576–580,585,649–650"
+    ],
+    "type": null,
+    "volume": [
+      "105-108,244"
+    ]
+  },
+  {
+    "citation-number": [
+      "68008,"
+    ],
+    "editor": [
+      {
+        "family": "Subtractor",
+        "given": "Adder I."
+      }
+    ],
+    "pages": [
+      "119–120"
+    ],
+    "title": [
+      "457458"
+    ],
+    "type": null
+  },
+  {
+    "citation-number": [
+      "68010,"
+    ],
+    "container-title": [
+      "Address"
+    ],
+    "pages": [
+      "189,204–205,",
+      "457458 21 6–2 18,634"
+    ],
+    "title": [
+      "457458"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3, 121, 123, 167, 187",
+      "68012"
+    ]
+  },
+  {
+    "citation-number": [
+      "68020,"
+    ],
+    "container-title": [
+      "Address bus"
+    ],
+    "pages": [
+      "18,285,354,576–577, 550–551,583–587,634",
+      "187,458,"
+    ],
+    "title": [
+      "285,354,576410. Addressing modes, 220,373-376,461466, 68030",
+      "610411"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "168040 168060",
+      "3"
+    ]
+  },
+  {
+    "citation-number": [
+      "6821,"
+    ],
+    "container-title": [
+      "charts. Alphanumeric codes",
+      "See ASM"
+    ],
+    "pages": [
+      "516–520,610,651,",
+      "32–34"
+    ],
+    "title": [
+      "514517,529-530,652457. Algorithmic State Machines (ASM) Chart"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "68230"
+    ]
+  },
+  {
+    "citation-number": [
+      "7"
+    ],
+    "container-title": [
+      "AltiVec"
+    ],
+    "issue": [
+      "C00 174LS00"
+    ],
+    "note": [
+      "Analog to Digital Converter. See AID Converter."
+    ],
+    "pages": [
+      "188–189,254257,349–350,634,",
+      "58–59"
+    ],
+    "title": [
+      "Altera Quartus 11, 129"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "20,619,620. 7447, 102. AltiVec vs. MMX, 620. 7448, 104. ALU, 2,37"
+    ]
+  },
+  {
+    "issue": [
+      "C02 174LS02",
+      "C04 174LS04"
+    ],
+    "pages": [
+      "58–59",
+      "54 100–1 01"
+    ],
+    "title": [
+      "Analysis of a Combinational Logic Circuit"
+    ],
+    "type": null,
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "74HC08"
+    ],
+    "issue": [
+      "C138 l74LSl38"
+    ],
+    "pages": [
+      "113–1",
+      "145–1 47"
+    ],
+    "title": [
+      "174LS08, 57. Analysis of a Synchronous Sequential Circuit"
+    ],
+    "type": null,
+    "volume": [
+      "14, 1 I9"
+    ]
+  },
+  {
+    "citation-number": [
+      "74HC151"
+    ],
+    "pages": [
+      "4,55–58,633"
+    ],
+    "publisher": [
+      "AND"
+    ],
+    "title": [
+      "174LS151, 119"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "See ALU"
+    ],
+    "issue": [
+      "C266 174LS266",
+      "C283 I 74LS283"
+    ],
+    "pages": [
+      "61–62",
+      "119",
+      "252–253"
+    ],
+    "publisher": [
+      "Array multipliers"
+    ],
+    "title": [
+      "Arithmetic and logic unit"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "issue": [
+      "C32 174LS32"
+    ],
+    "pages": [
+      "55–56",
+      "349–35 1"
+    ],
+    "publisher": [
+      "Array processors"
+    ],
+    "type": "book",
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "74HC373"
+    ],
+    "container-title": [
+      "ASCII"
+    ],
+    "issue": [
+      "C86 l74LS86"
+    ],
+    "pages": [
+      "61 597,601,633"
+    ],
+    "title": [
+      "174LS373, 143,423"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "citation-number": [
+      "74HCT244"
+    ],
+    "container-title": [
+      "ASM charts"
+    ],
+    "pages": [
+      "168–176"
+    ],
+    "title": [
+      "I 74HCT245, 15. ASIC, 20-21,634"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "135"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Assemblers"
+      }
+    ],
+    "citation-number": [
+      "8"
+    ],
+    "container-title": [
+      "Assembler Directives"
+    ],
+    "pages": [
+      "396–399"
+    ],
+    "title": [
+      "213-214,223,231,633"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "214-216"
+    ]
+  },
+  {
+    "container-title": [
+      "Assembly Language"
+    ],
+    "pages": [
+      "187,368–369",
+      "492498,559–560,588–601,634"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "80186 180188",
+      "210-223,398,400,402414, 80286, 369"
+    ]
+  },
+  {
+    "container-title": [
+      "Assembly Language Instruction Formats"
+    ],
+    "pages": [
+      "369,545–571",
+      "216–21 8"
+    ],
+    "type": "chapter",
+    "volume": [
+      "80386"
+    ]
+  },
+  {
+    "citation-number": [
+      "80486,"
+    ],
+    "container-title": [
+      "C Language",
+      "Associative cache",
+      "Asynchronous sequential circuit"
+    ],
+    "pages": [
+      "187,200–201,204–205,211–212,341–342,",
+      "367456,671",
+      "176–178,",
+      "368 184,634"
+    ],
+    "title": [
+      "189, 198,369,545,565-571. Assembly Language vs"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "223 8086",
+      "329",
+      "135",
+      "8088"
+    ]
+  },
+  {
+    "citation-number": [
+      "814"
+    ],
+    "container-title": [
+      "Barrel shifter"
+    ],
+    "note": [
+      "RS flip-flop, 142."
+    ],
+    "pages": [
+      "577,634"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic and Microcomputer Design B D flip-flop, 142. JK flip-flop, 142"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "242-245, 354, 547,570"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Registers",
+        "given": "Basic Microprocessor"
+      }
+    ],
+    "note": [
+      "T flip-flop, 142."
+    ],
+    "pages": [
+      "188–1 89"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Adder",
+        "given": "B.C.D."
+      }
+    ],
+    "title": [
+      "108-109. Characteristic equation of D-FF, 144"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Addition",
+        "given": "B.C.D."
+      }
+    ],
+    "container-title": [
+      "BCD to seven-segment decoder, 101-105,441. CISC, 240-241,258-259,545,611,635, BICMOS",
+      "Chip"
+    ],
+    "note": [
+      "Clock, 4,140, 164,187,268,417418,503-504, Big-endian, 461. 635."
+    ],
+    "pages": [
+      "635",
+      "18,251,546,569"
+    ],
+    "title": [
+      "4748,483. Characteristic equation of JK-FF, 144. BCD Arithmetic, 4748,483. Characteristic equation of RS-FF, 144. BCD code, 33,634. Characteristic equation of T-FF, 144. BCD Subtraction, 48,483"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4",
+      "2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Binary"
+      }
+    ],
+    "container-title": [
+      "CMOS"
+    ],
+    "pages": [
+      "143,635"
+    ],
+    "title": [
+      "1,24-33,38,46"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "13-17"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Adders",
+        "given": "Binary"
+      }
+    ],
+    "container-title": [
+      "CMOS Inverter"
+    ],
+    "pages": [
+      "13–14"
+    ],
+    "title": [
+      "See Adders, Binary"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "Binary Arithmetic"
+    ],
+    "pages": [
+      "32–36"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3 8 4 6 . Codes"
+    ]
+  },
+  {
+    "pages": [
+      "24,28–32",
+      "32–34"
+    ],
+    "publisher": [
+      "Alphanumeric"
+    ],
+    "type": "book",
+    "volume": [
+      "Binary number, I"
+    ]
+  },
+  {
+    "container-title": [
+      "Bipolar junction transistor"
+    ],
+    "pages": [
+      "33–34"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4, 6. ASCII"
+    ]
+  },
+  {
+    "container-title": [
+      "Bit"
+    ],
+    "pages": [
+      "634",
+      "33–34"
+    ],
+    "publisher": [
+      "BCD"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "BJT"
+    ],
+    "pages": [
+      "33–34"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4,6. EBCDIC"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DMA",
+        "given": "Block",
+        "particle": "transfer"
+      }
+    ],
+    "pages": [
+      "34–35"
+    ],
+    "type": null,
+    "volume": [
+      "345-346. Excess-3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "algebra",
+        "given": "Boolean"
+      }
+    ],
+    "pages": [
+      "53,64–65",
+      "35–36"
+    ],
+    "publisher": [
+      "Gray Code"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Code Converter"
+    ],
+    "pages": [
+      "101–105"
+    ],
+    "title": [
+      "Boolean function, 64"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Identities",
+        "given": "Boolean"
+      }
+    ],
+    "container-title": [
+      "Combinational logic circuit"
+    ],
+    "pages": [
+      "635"
+    ],
+    "title": [
+      "65"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "99-101"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Breakpoint"
+      }
+    ],
+    "container-title": [
+      "Analysis"
+    ],
+    "title": [
+      "231,437,580,602,634"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "100-101"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Buffer"
+      }
+    ],
+    "container-title": [
+      "Design"
+    ],
+    "pages": [
+      "3,186–187,200,260–263,635",
+      "242–244"
+    ],
+    "publisher": [
+      "Combinational shifter"
+    ],
+    "title": [
+      "6,8, 15,635"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "101. Bus"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Byte"
+      }
+    ],
+    "container-title": [
+      "Combined pagingkegmentation"
+    ],
+    "pages": [
+      "110–1 12"
+    ],
+    "title": [
+      "2"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "305. Comparator"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Compiler",
+        "given": "C."
+      }
+    ],
+    "pages": [
+      "30,32,3840,70–71"
+    ],
+    "publisher": [
+      "Complement"
+    ],
+    "title": [
+      "1,223,635"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Language",
+        "given": "C."
+      }
+    ],
+    "container-title": [
+      "See CMOS. 497. Complement of a Boolean Function, 70-71",
+      "Computer"
+    ],
+    "pages": [
+      "1,222–223,22 227,431432,520–521",
+      "186"
+    ],
+    "title": [
+      "223-226,400,404,41 I, 491,495, Complementary MOS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "C++",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Cache"
+      }
+    ],
+    "pages": [
+      "348–349 605,610",
+      "237–239"
+    ],
+    "publisher": [
+      "Computer Instructions"
+    ],
+    "title": [
+      "326-335,543-546,565-569,578,583,603, Computer Architectures"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "Memory",
+        "given": "Cache"
+      }
+    ],
+    "container-title": [
+      "Consensus Theorem",
+      "Control bus",
+      "Hit Ratio",
+      "Control Unit",
+      "Control Unit Design"
+    ],
+    "date": [
+      "198"
+    ],
+    "issue": [
+      ", 327,33 1"
+    ],
+    "note": [
+      "Hardwired Control, 258,263-270. Set Associative, 329-330. Microprogrammed Control, 258,270-277. Valid bit, 330, 334. Nanomemory, 284-286. Write-back, 330. Counter, 156-161, 164-166,735-740,773-777. Write-through, 330. Design, 156-161."
+    ],
+    "pages": [
+      "33 1",
+      "187,",
+      "330–33 1",
+      "262–264,270–273,275,280,285,636,",
+      "326–335"
+    ],
+    "title": [
+      "326-335,635",
+      "Direct Mapping, 328. Control memory, 201-202,258,271-275,284-286. Efficiency, 330-33 1. Control signals, 198-199",
+      "Motorola 68020 cache, 364,543"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6 8 4 9 . Associative, 329",
+      "3",
+      "327",
+      "257-277. Organization"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Tools",
+        "given": "C.A.D."
+      }
+    ],
+    "container-title": [
+      "Canonical forms"
+    ],
+    "date": [
+      "20, 127"
+    ],
+    "pages": [
+      "– , 164–1 66"
+    ],
+    "title": [
+      "Johnson, 166"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "71"
+    ]
+  },
+  {
+    "container-title": [
+      "Carry flag"
+    ],
+    "note": [
+      "Self-correcting, 159. Carry Look-ahead Adder. See Adder, Carry Look- Verilog, 735-740. ahead. VHDL, 773-777."
+    ],
+    "pages": [
+      "583"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3 8 4 9 , 1977198,379,385,460,474, Ring, 165. 549"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Circuit",
+        "given": "Carry Look-ahead"
+      }
+    ],
+    "container-title": [
+      "CPU"
+    ],
+    "pages": [
+      "185,635"
+    ],
+    "title": [
+      "248. CPLD, 126128,636, Carry Propagate adder, 245,247"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1-2"
+    ]
+  },
+  {
+    "pages": [
+      "277–283"
+    ],
+    "publisher": [
+      "CPU Design"
+    ],
+    "title": [
+      "Cany Save addition, 250"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "C.D.-memories"
+      }
+    ],
+    "container-title": [
+      "ALU",
+      "Control Unit"
+    ],
+    "pages": [
+      "188–189,254–257,349–350,457,",
+      "198,200–204,237, 257–259, 262–264,27 273,275,280"
+    ],
+    "title": [
+      "21,300,635",
+      "Central processing unit. See CPU"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2,37",
+      "2"
+    ]
+  },
+  {
+    "container-title": [
+      "Characteristics table Register"
+    ],
+    "pages": [
+      "162–1 64,242–244"
+    ],
+    "type": "chapter"
+  },
+  {
+    "pages": [
+      "136,138–144,638"
+    ],
+    "publisher": [
+      "Flip-flops"
+    ],
+    "title": [
+      "Design of a Combinational Circuit, 101"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "D flip-flop"
+    ],
+    "pages": [
+      "141–143"
+    ],
+    "title": [
+      "Design of Counters, 156-161"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "139"
+    ]
+  },
+  {
+    "editor": [
+      {
+        "family": "Preset",
+        "given": "See D./A."
+      },
+      {
+        "given": "Clear"
+      }
+    ],
+    "pages": [
+      "141–143"
+    ],
+    "title": [
+      "Design of Synchronous Sequential Circuits, JK flip-flop, 139-140,143-144. 150-156. Master-Slave, 140-141, Digital to Analog converter"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "124,636. RS flip-flop",
+      "Diode"
+    ],
+    "pages": [
+      "11,55–57, 121–122,",
+      "144"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "5,6,9",
+      "138-139, 142"
+    ]
+  },
+  {
+    "container-title": [
+      "DIP"
+    ],
+    "pages": [
+      "143–144"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "16. Summary"
+    ]
+  },
+  {
+    "container-title": [
+      "T flip-flop"
+    ],
+    "pages": [
+      "142–144"
+    ],
+    "title": [
+      "Direct cache mapping, 328"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "140"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "DMA",
+        "given": "Direct Memory Access See"
+      }
+    ],
+    "note": [
+      "Distributive Law, 65-66. Floppy disk, 300."
+    ],
+    "title": [
+      "Floating-point Numbers, 37"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Flowcharts"
+    ],
+    "pages": [
+      "253–254",
+      "304"
+    ],
+    "publisher": [
+      "Foldback"
+    ],
+    "title": [
+      "Division of unsigned and signed numbers, 31,46"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "228"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "D.M.A."
+      }
+    ],
+    "container-title": [
+      "Cycle Stealing"
+    ],
+    "pages": [
+      "306–307"
+    ],
+    "title": [
+      "345-347,440,526,634,636, Four-Variable K-map, 79. Block Transfer, 345-346,634. FPGA, 127,638"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "345-346. Fragmentation"
+    ]
+  },
+  {
+    "citation-number": [
+      "816"
+    ],
+    "container-title": [
+      "Clock generation"
+    ],
+    "issue": [
+      "avioral"
+    ],
+    "note": [
+      "Delay routine, 399400. Dataflow, 128,719. Demultiplexing addreddata bus using 74LS373, Structural, 128,717-719. 423."
+    ],
+    "pages": [
+      "128,719–720"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic and Microcomputer Design Hardware Description Language, 127-129"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "Display Interface"
+    ],
+    "title": [
+      "Hardwired control, 263-270,638"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "446450"
+    ]
+  },
+  {
+    "container-title": [
+      "DMA"
+    ],
+    "date": [
+      "70"
+    ],
+    "location": [
+      "Hazard"
+    ],
+    "note": [
+      "Functional unites, 200-201."
+    ],
+    "title": [
+      "Hard disk, 300"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "440"
+    ]
+  },
+  {
+    "container-title": [
+      "I/O ports, 428432. HCT chips, 14. I/O map, 435436. HDL. See Hardware Description Language. Instruction set",
+      "HCMOS"
+    ],
+    "pages": [
+      "563,638",
+      "376395,701–711"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2, 18,251,457, 504,547"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Numbers",
+        "given": "Hexadecimal"
+      }
+    ],
+    "container-title": [
+      "Interfacing with memories"
+    ],
+    "title": [
+      "25,27-28,638"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "425428"
+    ]
+  },
+  {
+    "container-title": [
+      "Interrupts"
+    ],
+    "title": [
+      "High-level language, 222-227,638"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "436440"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Keyboard",
+        "given": "High-speed C.M.O.S.See H.C.M.O.S."
+      }
+    ],
+    "container-title": [
+      "Display Interface"
+    ],
+    "issue": [
+      "MOS, 18,286,457,638. Memory map"
+    ],
+    "pages": [
+      "434–435",
+      "110 , 434436"
+    ],
+    "publisher": [
+      "Memory &"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "446451"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "schematic",
+        "given": "I.Microcomputer"
+      }
+    ],
+    "note": [
+      "Ready, 420. DMA, 345-347,440,526, Registers, 370-373. Interrupt I/O, 336,340-345,436446,521-526. Reset, 419420. Programmed I/O, 335-346,428432,514521. Stack, 399."
+    ],
+    "pages": [
+      "514–526"
+    ],
+    "title": [
+      "433. Pins and Signals, 414417. VO, 185-186,335-347,428432,436446, Programming examples"
+    ],
+    "type": null,
+    "volume": [
+      "4 0 M 1 4"
+    ]
+  },
+  {
+    "container-title": [
+      "System Design",
+      "IEEE Symbols for Logic Gates"
+    ],
+    "pages": [
+      "4",
+      "418420,672"
+    ],
+    "title": [
+      "I/O summary, 347",
+      "Timing Diagram, 421422"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "434436. IC",
+      "62. Intel 8284"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "I/O",
+        "given": "InpuUOutput See"
+      }
+    ],
+    "container-title": [
+      "Index Register",
+      "Intel Pentium"
+    ],
+    "note": [
+      "Intel Pentium I1 / Celeron / Xeon, 573-574."
+    ],
+    "pages": [
+      "429430,434436,675",
+      "568–572 467487,551–558,587–601,639"
+    ],
+    "title": [
+      "Intel Merced/IA/64, 18,20,575. Instruction, 1,218-219,238-239,376-395"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "194,375,462,464465, Intel 8255",
+      "18, 545"
+    ]
+  },
+  {
+    "container-title": [
+      "Intel Pentium Pro, 572-573. Expanding opcode",
+      "Block code"
+    ],
+    "note": [
+      "Interleaved DMA, 345-346, 639."
+    ],
+    "pages": [
+      "237–239"
+    ],
+    "title": [
+      "Instruction Encoding, 237-239. Intel Pentium 111 / Pentium 4, 574575"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "237"
+    ]
+  },
+  {
+    "container-title": [
+      "Internal interrupts"
+    ],
+    "pages": [
+      "639"
+    ],
+    "title": [
+      "Instruction Fetch Timing Diagram, 206207"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "341-342"
+    ]
+  },
+  {
+    "container-title": [
+      "Interrupt Address Vector"
+    ],
+    "title": [
+      "Instruction format, 216-218"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "342"
+    ]
+  },
+  {
+    "container-title": [
+      "Instruction Register",
+      "Intempt"
+    ],
+    "pages": [
+      "190–193,639",
+      "340–345,436446,521–526,639"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "188",
+      "110"
+    ]
+  },
+  {
+    "pages": [
+      "342–345"
+    ],
+    "publisher": [
+      "Interrupt Priorities"
+    ],
+    "title": [
+      "Instruction Set, See Instruction"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "IC",
+        "given": "Integrated Circuit See"
+      }
+    ],
+    "container-title": [
+      "Interrupt Types",
+      "Inverter",
+      "Intel",
+      "J Intel",
+      "Functional units",
+      "Johnson Counter",
+      "Memory Organization",
+      "Microprocessor"
+    ],
+    "date": [
+      "Java, 227"
+    ],
+    "issue": [
+      "O"
+    ],
+    "note": [
+      "Registers, 549-550 System Design, 562-564. K-map. See Karnaugh Maps. Intel 80386 vs. 80486, 566. Kamaugh Maps, 75-86,639. Intel 80486, 565-568. Intel 8086-based Microcomputer schematic, 433. L Intel 8086, 200,367451, 701-711. Addressing modes, 373-376. LI Cache, 335. Assembler directives, 396399. L2 Cache, 335,573,574. C Programming Example, 400401,404, Latches, 136. 41 1 4 1 2 , 4 3 1 4 3 2 . LED, 7-9,640, Index 817 Light Emitting Diodes. See LED."
+    ],
+    "pages": [
+      "368",
+      "7,53–54",
+      "369",
+      "546565",
+      "550–55 1",
+      "139–1 40",
+      "564–565,639",
+      "560–561",
+      "188–201,641"
+    ],
+    "publisher": [
+      "Addressing Modes"
+    ],
+    "title": [
+      "Interrupt service routine, 340-341,343, Intel 32- and 64-bit microprocessors, 545-546",
+      "Data types, 548-549. JK Flip-Flop, 139-140, 142. Dynamic Bus sizing, 562. Characteristic table, 142",
+      "Excitation table, 142. Instruction Set, 551-558"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "341. Intel 801 86",
+      "4",
+      "80188, 368. Intel 80286",
+      "80386",
+      "547. Description",
+      "I",
+      "166",
+      "548. Pins and Signals",
+      "1,2, 185"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Literal"
+      }
+    ],
+    "container-title": [
+      "Microprocessor registers"
+    ],
+    "pages": [
+      "193–198"
+    ],
+    "title": [
+      "65"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "188-189"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Little-endian"
+      }
+    ],
+    "container-title": [
+      "Locality of reference"
+    ],
+    "pages": [
+      "232–23 3"
+    ],
+    "title": [
+      "370. Microprocessor system development flowchart"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "326"
+    ]
+  },
+  {
+    "container-title": [
+      "Logical shift operation"
+    ],
+    "pages": [
+      "201–204,270–283,641"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "162. Microprogram"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "L.S.-T.T.L."
+      }
+    ],
+    "pages": [
+      "9– 0,14–16,504",
+      "270–283"
+    ],
+    "publisher": [
+      "Microprogrammed Control Unit Design"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "given": "L.S.I."
+      }
+    ],
+    "pages": [
+      "277–283"
+    ],
+    "title": [
+      "15-16,20-21,640, Microprogrammed CPU Design"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Microprogramming",
+        "given": "M."
+      }
+    ],
+    "pages": [
+      "201–204,270–283"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Machine language"
+    ],
+    "pages": [
+      "210–212,640",
+      "71–74"
+    ],
+    "publisher": [
+      "Minterms"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "given": "Macroassembler"
+      }
+    ],
+    "container-title": [
+      "MIPS"
+    ],
+    "title": [
+      "2 13"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "545"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Macroprogram"
+      }
+    ],
+    "container-title": [
+      "Main memory"
+    ],
+    "date": [
+      "202"
+    ],
+    "note": [
+      "644. Modulo-4 Counter, 166."
+    ],
+    "pages": [
+      "573–574,6 19–620"
+    ],
+    "title": [
+      "MMU. See Memory Management Unit"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "187,204-205,299-304,369-370, MMX"
+    ]
+  },
+  {
+    "pages": [
+      "164"
+    ],
+    "publisher": [
+      "Modulo-n Counters"
+    ],
+    "title": [
+      "Main Memory Array Design, 300-304"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Moore circuit, 148."
+    ],
+    "pages": [
+      "227–228 521–526"
+    ],
+    "title": [
+      "Maskable interrupts, 341-342,347,438440, Monitors"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "MOS"
+    ],
+    "pages": [
+      "13–15"
+    ],
+    "title": [
+      "Masking operation, 219,384-385,477478"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "1-2"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Flip-Flop",
+        "given": "Master-Slave"
+      }
+    ],
+    "container-title": [
+      "MOS outputs"
+    ],
+    "title": [
+      "140-141"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Maxterms"
+      }
+    ],
+    "pages": [
+      "576–620"
+    ],
+    "title": [
+      "71, 72,73,74,75,83. MOS switch input, 15. MC6116, 427,433435,510,512-513,658460, Motorola 32- and 64-bit microprocessors"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "MC68000"
+      }
+    ],
+    "pages": [
+      "457–542,576580,585,649450, 528"
+    ],
+    "title": [
+      "31, 198,205,218,220-223,284286, Motorola 68000-based microcomputer schematic"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "MC68008"
+      }
+    ],
+    "container-title": [
+      "MC68010"
+    ],
+    "date": [
+      "See MC6116"
+    ],
+    "note": [
+      "MC6821, 516517,652457, Motorola 68000-based Microcomputer, 529-532."
+    ],
+    "title": [
+      "458. Motorola’s stat-of-the art microprocessors"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "458. 619420. MC68012, 458. Motorola 61 16"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "MC68230"
+      }
+    ],
+    "container-title": [
+      "Motorola"
+    ],
+    "issue": [
+      "C00"
+    ],
+    "pages": [
+      "457–542,696–699"
+    ],
+    "title": [
+      "5 16-520,65 1"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "Addressing Modes",
+      "C Programming Example"
+    ],
+    "pages": [
+      "1,3,121–123,166–168,185,204–209,",
+      "434435,511–514,548,607410,640 520–52 1"
+    ],
+    "title": [
+      "Mealy circuit, 148"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "461466. Memory",
+      "491492,495,497"
+    ]
+  },
+  {
+    "pages": [
+      "504–505"
+    ],
+    "publisher": [
+      "Clock Generation"
+    ],
+    "title": [
+      "Memory Address Register, 189,641"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "DELAY Routine"
+    ],
+    "pages": [
+      "304–307",
+      "526"
+    ],
+    "publisher": [
+      "DMA"
+    ],
+    "title": [
+      "Memory fragmentation, 306,307"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "489490. Memory management"
+    ]
+  },
+  {
+    "genre": [
+      "DTACK delay circuit, 529."
+    ],
+    "title": [
+      "Memory Management Unit, 305-306,641"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "DTACK timing diagram"
+    ],
+    "pages": [
+      "514–521,641",
+      "526–529"
+    ],
+    "publisher": [
+      "Exceptions"
+    ],
+    "title": [
+      "Memory mapped I/O, 337-338,347,428429,456"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "529"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Organization",
+        "given": "Memory"
+      }
+    ],
+    "container-title": [
+      "Programming examples"
+    ],
+    "title": [
+      "209,299"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4 9 W 9 8"
+    ]
+  },
+  {
+    "container-title": [
+      "Cache,32&335. Instruction Set, 467487,696-699. DRAM, 166,206,209. Interfacing with Memories",
+      "Memory Types",
+      "Instruction Execution Times",
+      "EAROM",
+      "Memory map",
+      "RAM",
+      "Multiprocessing",
+      "ROM"
+    ],
+    "date": [
+      "46 1"
+    ],
+    "issue": [
+      "Omap",
+      "nvolatile, 3"
+    ],
+    "note": [
+      "Microcomputer, 528-532. PROM, 123. Microcomputer schematic, 528.",
+      "Pins and Signals, 499-503. SRAM, 166,205. Programmed YO, 5",
+      "Registers, 460."
+    ],
+    "pages": [
+      "205–209,326–335",
+      "661–669",
+      "1–514",
+      "127,206,637",
+      "127,206,637",
+      "121",
+      "166168,205–209",
+      "1–532",
+      "123",
+      "14–52 1",
+      "205"
+    ],
+    "publisher": [
+      "Memory Addressing"
+    ],
+    "title": [
+      "Interrupts, 521-526",
+      "EEPROM, 123,127,206,637"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "I",
+      "51",
+      "E2PROM, 123",
+      "123",
+      "513",
+      "3",
+      "53",
+      "121",
+      "Volatile, 3, 166"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Merced"
+      }
+    ],
+    "pages": [
+      "505–509"
+    ],
+    "type": null,
+    "volume": [
+      "18,20,575. Reset"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Meta-assembler"
+      }
+    ],
+    "date": [
+      "214"
+    ],
+    "note": [
+      "68000-6821 Interface, 515-517."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Metal-Oxide Semiconductor"
+    ],
+    "note": [
+      "6800-68230 Interface, 517-519."
+    ],
+    "pages": [
+      "13"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4"
+    ]
+  },
+  {
+    "container-title": [
+      "1. Microcomputer Development Systems",
+      "Microcomputer",
+      "Timing Diagrams"
+    ],
+    "date": [
+      "641"
+    ],
+    "pages": [
+      "185–189,433,528,",
+      "228–23 1"
+    ],
+    "title": [
+      "Stack, 487489. System Design, 528-532. Microcomputer Bus, See Bus"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2",
+      "508-5 1"
+    ]
+  },
+  {
+    "container-title": [
+      "Microcontrollers",
+      "Microinstruction"
+    ],
+    "date": [
+      "641"
+    ],
+    "pages": [
+      "185–186,",
+      "514–517"
+    ],
+    "title": [
+      "Microcomputer programming languages, 2 10. Motorola MC68008, 458. Motorola MC68010, 458",
+      "Motorola MC68012, 458"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "2",
+      "201,270-277, 641. Motorola MC6821"
+    ]
+  },
+  {
+    "citation-number": [
+      "818"
+    ],
+    "container-title": [
+      "Interfacing with Memories",
+      "Pins and Signals",
+      "Registers"
+    ],
+    "note": [
+      "System Design, 607410. Parallel processing, 347-359."
+    ],
+    "pages": [
+      "305,307–309,311–315,318,643",
+      "126–128,644",
+      "127"
+    ],
+    "title": [
+      "Fundamentals of Digital Logic and Microcomputer Design Motorola MC68020, 576410. Overflow, 4346,250,379,474, Addressing Modes, 583-587. Comparison with 68HC000, 576. P Dynamic Bus Sizing, 604405. I/O, 610. Packed BCD, 33-34,381,383,482483,596597, Instruction Set, 587401, 695499. Paged-segmentation method, 307"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "607-610. Paging",
+      "601404. PAL, 124",
+      "581-583. PAL16L8"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "MC68030",
+        "given": "Motorola"
+      }
+    ],
+    "pages": [
+      "49–50,93–94,643"
+    ],
+    "publisher": [
+      "Parity"
+    ],
+    "title": [
+      "610"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "Motorola MC68040 / MC68060"
+      }
+    ],
+    "pages": [
+      "610–61 1",
+      "127"
+    ],
+    "publisher": [
+      "PEEL"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "MC68230",
+        "given": "Motorola"
+      }
+    ],
+    "pages": [
+      "516–520",
+      "18,545,568–572,644"
+    ],
+    "publisher": [
+      "Pentium"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "family": "PowerPC",
+        "given": "Motorola"
+      }
+    ],
+    "container-title": [
+      "Pentium"
+    ],
+    "pages": [
+      "573–575"
+    ],
+    "title": [
+      "See PowerPC"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "11, Pentium 111, Pentium 4"
+    ]
+  },
+  {
+    "container-title": [
+      "MSI"
+    ],
+    "pages": [
+      "16",
+      "572–573"
+    ],
+    "publisher": [
+      "Pentium Pro"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PGA",
+        "given": "Pin Grid Array See"
+      }
+    ],
+    "container-title": [
+      "Multiple-Output Combinational Circuits"
+    ],
+    "pages": [
+      "116–1 18,641",
+      "351–359,",
+      "46,250–254",
+      "353–354"
+    ],
+    "publisher": [
+      "Arithmetic pipeline"
+    ],
+    "title": [
+      "Multiplication of two unsigned and signed binary Pipelining"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "102, 105. PGA, 16. Multiplexer",
+      "258",
+      "643. numbers"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Multiplexer",
+        "given": "M.U.X.See"
+      }
+    ],
+    "container-title": [
+      "PLA"
+    ],
+    "pages": [
+      "132,644"
+    ],
+    "title": [
+      "Instruction pipeline, 354-359"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "124126"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "PLDs",
+        "given": "N."
+      }
+    ],
+    "container-title": [
+      "PLD Programming Languages"
+    ],
+    "pages": [
+      "127–129"
+    ],
+    "title": [
+      "123-124, 127,644"
+    ],
+    "type": "chapter"
+  },
+  {
+    "container-title": [
+      "NAND"
+    ],
+    "pages": [
+      "16,58–59,63,67,88–91,642",
+      "13"
+    ],
+    "publisher": [
+      "PMOS"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "15"
+    ]
+  },
+  {
+    "note": [
+      "Polled interrupt, 342-344,643."
+    ],
+    "pages": [
+      "88–91"
+    ],
+    "title": [
+      "NAND gate implementation"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Nanomemory"
+      },
+      {
+        "family": "Nanomemory",
+        "given": "Nanoprogram See"
+      }
+    ],
+    "container-title": [
+      "POP",
+      "Nibble"
+    ],
+    "note": [
+      "61 1 4 2 0 . NMOS, 13. Preset and Clear Inputs of Flip-Flops, 141-143."
+    ],
+    "pages": [
+      "39"
+    ],
+    "title": [
+      "286286,642",
+      "Port, 336340,639,643. Negative logic, 63. Positive logic, 63"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "196197,222,399,487489,643",
+      "2,642. PowerPC, 18,37, 189,258,546545,576, Nine’s complement"
+    ]
+  },
+  {
+    "container-title": [
+      "Nonmaskable interrupts"
+    ],
+    "pages": [
+      "642",
+      "81–83"
+    ],
+    "publisher": [
+      "Prime Implicants"
+    ],
+    "title": [
+      "Noise margin, 10. Primary memory, See Main Memory"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "341,437, 521"
+    ]
+  },
+  {
+    "container-title": [
+      "Nonvolatile memory"
+    ],
+    "pages": [
+      "121",
+      "114–1 16"
+    ],
+    "publisher": [
+      "Priority Encoder"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "N.O.R."
+      }
+    ],
+    "pages": [
+      "58,59,91–93,642",
+      "299,644"
+    ],
+    "publisher": [
+      "Processor memory"
+    ],
+    "type": "book"
+  },
+  {
+    "note": [
+      "Product-of-sums, 73-74,."
+    ],
+    "pages": [
+      "91–93,642"
+    ],
+    "title": [
+      "NOR gate implementation"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "NOT",
+      "Program"
+    ],
+    "pages": [
+      "12–13,53–54,642",
+      "189–193,644"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4,6,7",
+      "1"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Systems",
+        "given": "Number"
+      },
+      {
+        "family": "See PAL. Binary",
+        "given": "Programmable",
+        "particle": "array logic."
+      }
+    ],
+    "container-title": [
+      "Octal"
+    ],
+    "note": [
+      "Programmed I/O, 335-346,428432,516521, Signed, 29-32. 644. Unsigned, 28-3 1, Program Counter, 188-191. PROM, 123,644."
+    ],
+    "pages": [
+      "23–52",
+      "25"
+    ],
+    "title": [
+      "24,2628. Programmable logic array. See PLA. Hexadecimal, 25,27-28. Programmable Logic Devices. See PLD"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24"
+    ]
+  },
+  {
+    "citation-number": [
+      "0"
+    ],
+    "container-title": [
+      "Octal Number"
+    ],
+    "title": [
+      "Propagation delay, 9-10. PUSH, 196197,222,399,487489,644, Object codes, 2 1 1,642"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "24,25,642"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Function",
+        "given": "Odd"
+      }
+    ],
+    "container-title": [
+      "Ones complement"
+    ],
+    "note": [
+      "Ones complement arithmetic, 39-40. Op-code encoding, 237-239."
+    ],
+    "pages": [
+      "3940,54,642"
+    ],
+    "title": [
+      "93. Q One-Pass Assembler, 213,642. Quine-McCluskey Method, 86-87"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "29"
+    ]
+  },
+  {
+    "container-title": [
+      "RAM",
+      "Operating systems"
+    ],
+    "note": [
+      "Random Access Memory. See RAM. 643. Race Condition, 70."
+    ],
+    "pages": [
+      "168,205–209,644,",
+      "544,"
+    ],
+    "title": [
+      "Open-collector outputs, 10-1 I"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "3, 1 6 6",
+      "226,300,305, 336,458"
+    ]
+  },
+  {
+    "container-title": [
+      "OR"
+    ],
+    "editor": [
+      {
+        "family": "E",
+        "given": "R.E.A.D.W.T."
+      }
+    ],
+    "pages": [
+      "198–199"
+    ],
+    "title": [
+      "Optical memories, 21,300. Read-only Memory. See ROM"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "4,5456,643"
+    ]
+  },
+  {
+    "container-title": [
+      "ORG, 215. READY, 199. ORIGIN. See ORG. READ and WRITE Operations"
+    ],
+    "pages": [
+      "207–209"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Trigger",
+        "given": "Schmitt"
+      }
+    ],
+    "container-title": [
+      "SDRAM"
+    ],
+    "pages": [
+      "299–300,304–326,645",
+      "543,576–61 1"
+    ],
+    "publisher": [
+      "Thirty-two Bit Microprocessors"
+    ],
+    "title": [
+      "419420,507,645. Excitation table, 142"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "206,645. Ten’s complement, 39. Secondary memory"
+    ]
+  },
+  {
+    "container-title": [
+      "Segmentation"
+    ],
+    "note": [
+      "Three-Variable K-map, 76-77."
+    ],
+    "pages": [
+      "11–3 15"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "305-308, 3"
+    ]
+  },
+  {
+    "container-title": [
+      "Totem-pole outputs"
+    ],
+    "pages": [
+      "1 1"
+    ],
+    "title": [
+      "Segmented memory, 204-205,3 13-3 14,316,369"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10"
+    ]
+  },
+  {
+    "author": [
+      {
+        "given": "Segments"
+      }
+    ],
+    "pages": [
+      "204–205,305–306,311–314",
+      "1,6–7,647"
+    ],
+    "publisher": [
+      "Transistor"
+    ],
+    "type": "book"
+  },
+  {
+    "container-title": [
+      "Cut-off mode",
+      "Saturation mode",
+      "Tristate"
+    ],
+    "issue": [
+      ""
+    ],
+    "pages": [
+      "145–147",
+      "150–1 56",
+      "148–150",
+      "9–1",
+      "17"
+    ],
+    "publisher": [
+      "TTL"
+    ],
+    "title": [
+      "Self-correcting counter, 159. Active mode, 6. Sequential logic circuit, 172, 645"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "6. Design",
+      "10, 1 I . Minimization",
+      "I , 16"
+    ]
+  },
+  {
+    "container-title": [
+      "TTL outputs"
+    ],
+    "pages": [
+      "10–1 1"
+    ],
+    "title": [
+      "Set-associative cache mapping, 329-330"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Displays",
+        "given": "Seven Segment"
+      }
+    ],
+    "container-title": [
+      "Totem-pole output",
+      "Common cathode",
+      "Shift Operations"
+    ],
+    "issue": [
+      "tate, 10"
+    ],
+    "note": [
+      "Two-Pass Assembler, 213."
+    ],
+    "pages": [
+      "11",
+      "11",
+      "386386,479482"
+    ],
+    "title": [
+      "8. Open-collector output, 10, 11. Common anode, 8"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "10",
+      "162-164"
+    ]
+  },
+  {
+    "note": [
+      "Signed addition, 250-25 1. Two-Variable K-map, 76."
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Signed division, 254. Signed multiplication, 253-254. U Signed subtraction, 251."
+    ],
+    "title": [
+      "Signed binary numbers, 29-32. Twos complement, 3946,647"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Sign extension"
+    ],
+    "pages": [
+      "36–37"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "221,383,476. Unicode"
+    ]
+  },
+  {
+    "container-title": [
+      "Unified cache"
+    ],
+    "title": [
+      "Sign-magnitude arithmetic, 38"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "328"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Numbers",
+        "given": "Sign-magnitude"
+      }
+    ],
+    "container-title": [
+      "Unpacked BCD"
+    ],
+    "note": [
+      "Unsigned addition, 38."
+    ],
+    "pages": [
+      "348–349"
+    ],
+    "title": [
+      "29"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "32,34,381,383,405 SIMD"
+    ]
+  },
+  {
+    "pages": [
+      "28–29"
+    ],
+    "title": [
+      "Single-chip microcomputer, 2, 185,645. Unsigned binary numbers"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "family": "Microprocessor",
+        "given": "Single-Chip"
+      }
+    ],
+    "container-title": [
+      "Single-step"
+    ],
+    "note": [
+      "Unsigned multiplication, 46. Sixty-Four Bit Microprocessors, 545,575, 576, USB Flash Memory, 300. 619. Software, 1,228-233,646. V Software breakpoint, 231."
+    ],
+    "pages": [
+      "646"
+    ],
+    "title": [
+      "185, 188,645. Unsigned division, 46"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "23 1,373,437,460"
+    ]
+  },
+  {
+    "container-title": [
+      "Spooling"
+    ],
+    "issue": [
+      "ine"
+    ],
+    "pages": [
+      "349–351"
+    ],
+    "type": "article-journal",
+    "volume": []
+  },
+  {
+    "container-title": [
+      "SRAM"
+    ],
+    "pages": [
+      "127–129,647,713–755"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "166,205. Verilog"
+    ]
+  },
+  {
+    "pages": [
+      "743–745"
+    ],
+    "publisher": [
+      "ALU"
+    ],
+    "title": [
+      "SRAM cell, 167"
+    ],
+    "type": "book"
+  },
+  {
+    "author": [
+      {
+        "literal": "SR Latch"
+      }
+    ],
+    "note": [
+      "always, 714,715."
+    ],
+    "pages": [
+      "136–138"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "S.S.I."
+      }
+    ],
+    "note": [
+      "assign, 719, 729."
+    ],
+    "pages": [
+      "15–16"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "Stack"
+      }
+    ],
+    "date": [
+      "195-197"
+    ],
+    "note": [
+      "begin, 714."
+    ],
+    "pages": [
+      "399,487489,646"
+    ],
+    "type": null,
+    "volume": [
+      "372"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "Pointer",
+        "given": "Stack"
+      }
+    ],
+    "container-title": [
+      "Behavioral"
+    ],
+    "pages": [
+      "129,634,719–721"
+    ],
+    "title": [
+      "195, 197,399,460,646"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "128"
+    ]
+  },
+  {
+    "author": [
+      {
+        "family": "I/O",
+        "given": "Standard"
+      }
+    ],
+    "note": [
+      "Blocking assignment, 730."
+    ],
+    "pages": [
+      "337–338,428,565,646"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "component, 76 1, Concatenate operator, 764. constant, 760. Counter, 773-777. CPU, 785-805. Dataflow, 636,763-765. entity, 758. generate, 778-78 1. generic, 778-781. generic map, 778-781. Hierarchical, 759. IEEE 1164, 758,760. if-else, 762, 763. in, 758. inout, 758. Mixed, 765."
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "CUSTOMER NOTE: IF THIS BOOK IS ACCOMPANIED BY SOFTWARE, PLEASE READ THE FOLLOWING BEFORE OPENING THE PACKAGE"
+    ],
+    "type": "chapter"
+  }
+]
