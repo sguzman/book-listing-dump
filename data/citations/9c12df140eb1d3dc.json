@@ -1,0 +1,110 @@
+[
+  {
+    "note": [
+      "Lignes 11190-13080 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 11280-11330 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 1 1450-1 1580 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 1 1590-11750 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 12050-12210 : Autres sauts (JP, RET, CALL). Lignes 12220-12310 : Instructions de comptage (INC, DEC)."
+    ],
+    "title": [
+      "Lignes 1 1830-11890 : Instructions de manipulation de bits. Lignes 11900-12030 : Sauts relatifs (JR et DJNZ"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 12320-12620 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 300-350 : Sous-programme d’interprétation. Ligne 310 :"
+    ],
+    "title": [
+      "Lignes 230-270 : Sortie formatée. Ligne 280 : Si pas encore fini, alors retour au début de la boucle principale"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Ligne"
+    ],
+    "title": [
+      "Ligne 330 : Saut au traitement des instructions qui commencent par &CB"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "340"
+    ]
+  },
+  {
+    "title": [
+      "Lignes 390/400 : Instructions ari-log Lignes 410-450 : Traitement des instructions qui commencent par le code &CB Ligne 420"
+    ],
+    "type": null
+  },
+  {
+    "container-title": [
+      "Ligne"
+    ],
+    "title": [
+      "Lignes 490-530 : Premier traitement des instructions indexées (de la ligne 310"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "500"
+    ]
+  },
+  {
+    "note": [
+      "Ligne 520 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 540-590 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 700-810 : Si pr$ contient un ”n”, n est ici remplacé par un nombre Lignes 730-760 :"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "Lignes 820-890 :"
+    ],
+    "type": null
+  },
+  {
+    "title": [
+      "Lignes 900-930 : Sous-programme de conversion hexa - dec Lignes 940-980"
+    ],
+    "type": null
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "producer": [
+      {
+        "family": "var_dump)",
+        "given": "var_dump)"
+      },
+      {
+        "family": "var_dump)",
+        "given": "var_dump)"
+      },
+      {
+        "given": "var_dump"
+      }
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "foreach (new APCUIterator($regex) as $entry) { print_r($entry);"
+    ],
+    "title": [
+      "The APCUIterator allows to iterate over entries in the cache: foreach (new APCUIterator() as $entry) { print_r($entry); The iterator can be initialized with an optional regular expression to select only entries with matching keys"
+    ],
+    "type": null
+  }
+]
