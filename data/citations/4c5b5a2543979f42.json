@@ -1,0 +1,93 @@
+[
+  {
+    "author": [
+      {
+        "given": "A.P.P.E.N.D."
+      }
+    ],
+    "container-title": [
+      "uSing LBOUND, UBOUND"
+    ],
+    "pages": [
+      "8–6",
+      "6–8 8–7 , 8–48 – , 8–7"
+    ],
+    "title": [
+      "8-101 concatenation, 8-18 AREA, 8-21 constants, AREAFILL, 8-21 double-precision, 8-7 arrays, flXed-point, 8-6 declaring, 8-48 floating-point, 8-7 declaring in subprograms, 6-8 hexadecimal, 8-7 passing elements in, 6-7 integers, short and long"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "files",
+        "particle": "data"
+      }
+    ],
+    "container-title": [
+      "Enlarge menu, in Object Editor, 7-6 graphics commands, EOF, 8-48 AREA 8-21 EOV, 8-16 AREAFILL 8-21 ERASE. 8-49 CIRCLE 8-32 Erase, in Object Editor Tools menu, 7-6 COLOR 8-37 ERL, 8-49 LINE 8-70 ERR, 8-49 PAINT 8-102 ERROR"
+    ],
+    "note": [
+      "5-5 definition, 6-17 opening, 5-5 setting size, 8-33, 6-16 saving, 5-5 using FRE with, 6-18 files, random, DATES, 8-43 accessing, 5-15 debugging programs, 4-5 creating, 5-13 DECLARE FUNCTION, 8-43 example, 5-16 DEF FN, 8-44 overview, 5-12 DEFDBL, 8-46 files, sequential, DEFINT. 8-46 adding data, 5-11 DEFLNG, 8-46 creating, 5-9 DEFSNG, 8-46 overview, 5-8 DEFSTR, 8-46 reading data from, 5-11 DELETE, 8-47, 8-28 FIX, 8-53 device names, 5-2 fixed-point constants, 8-6 DIM, 8-47 floating-point constants, 8-6 division FOR, 8-54 by zero, 8-14 FRE, integer, 8-13 description, 8-55 double-precision constants, 8-7 in memory management, 6-18 function keys, Amiga, 8-3 Edit menu, 3-9 functions, types, 8-17 editing a program, how to, 4-1, 2-10 ELSE. 8-60 GET, ELSEIF, 8-60 description, 8-56 END, 8-48 for random files, 8-56 END IF, 8-61 for screen data, 8-56 END SUB, 8-145 GOSUB, 8-58 See also subprograms GOTO. 8-59",
+      "PALETTE 8-103 error correction, 2-14 SCREEN 8-132 event trapping, activating, 6-12 heap, See system heap BREAK, 6-14 HEXS, 8-59 COLLISION, 6-14 hexadecimal constants, 8-6 machine language programs, high-resolution, setting, 8-133 See assembly language programs memory management, 6-16 MENU, IF .. GOTO, 8-60 description, 8-78"
+    ],
+    "pages": [
+      "8–50"
+    ],
+    "title": [
+      "See files files, data segment, modes, 8-101 conserving space in, 6-17 naming conventions"
+    ],
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "ELSE",
+        "given": "I.F.T.H.E.N."
+      }
+    ],
+    "note": [
+      "8-60 in event trapping, 6-14 immediate mode, 3-4 See also ON MENU IMP, 8-16 menu bar, displaying, 3-5 INKEY$, 8-63 MENU ON/OFF/STOP, 8-80 INPUT, 8-63, 8-101 menus, INPUT#, 8-65 Edit, 3-9 INPUT$, 8-65 INSTR, 8-66 Project, 3-8 INT, 8-66 Run, 3-9 Windows, 3-11 integers, declaring, 8-9 MERGE, 8-80, 8-28 MID$, 8-81 short and long, 8-6 MKD$, 8-82 MKI$, 8-82 KILL, 8-67 MKL$, 8-82 KYBD:, 5-2 MKS$, 8-82 MOD, 8-12, 8-14 labels, format and rules, 8-5 mode, screen, 8-134 LBOUND, MOUSE, description, 8-67 description, 8-83 using in arrays, 6-8 in event trapping, 6-14 LEFT$, 8-68 See also ON MOUSE LEN, 8-68 MOUSE ON/OFF/STOP, 8-86 LET, 8-69 mouse libraries, position, 8-84 opening, 6-19 status, 8-85 overview, 6-18 LIBRARY, NAME, 8-87 description, 8-70 NEW, 8-87 with CALL, 8-26 New, LINE, 8-70 in File menu, 3-8 Line, in Object Editor Tools menu, 7-5 in Object Editor File menu, 7-5 LINE INPUT, 8-71 NEXT, 8-54, 8-87 LINE INPUT#, 8-72 NOT,8-16 line numbers, 8-3 LIST, 8-73 Object Editor, list key, 8-3"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.E.A.D."
+      }
+    ],
+    "container-title": [
+      "ON MENU, 8-98 GET, 8-56 ON MOUSE, 8-99 PUT, 8-120 ON TIMER, 8-99 RANDOMIZE, 8-121 OPEN",
+      "RESUME"
+    ],
+    "note": [
+      "1-3 Index OBJECT. Y, 8-94 PTAB, 8-119 objects, how to create, 7-7 PUT, OCTS, 8-95 description, 8-120 octal constants, 8-6 for random files, 8-120 ON BREAK, 8-96 for screen data, 8-120 ON COLLISION, 8-96 ON ERROR GOTO, 8-97 Quit, in File menu, 3-8 ON .. GOSUB QUit, in Object Editor File menu, 7-5 description, 8-97 in event trapping, 6-14 random ON .. GOTO, 8-97 files,",
+      "arithmetic, 8-12 RETURN, 8-124, 8-58 functional, 8-17 RIGHTS, 8-125 logical, 8-15 RND, 8-126 relational, 8-14, 8-18 RSET, 8-128 OPTION BASE, 8-101 RUN, 8-127 OR,8-16 Run menu, 3-9 OUTPUT, 8-101, 8-158 Output window, 2-7, 3-6 Oval, in Object Editor Tools menu, 7-5 SADD, 8-128 overflow, 8-14 SAVE, 8-128 Save, PAINT, 8-1'02 in File menu, 3-8 Paint, in Object Editor File menu, 7-5 Save As, in Object Editor Tools menu, 7-5 in File menu, 3-9 PALETTE, 8-103 parity, 5-2 in Object Editor File menu, 7-5 saving a program, 3-3, 2-21 Paste, 3-9 SAY, 8-129 paste key, 8-3 SCREEN, PATTERN, 8-104 PEEK, 8-105 description, 8-132 using system heap, 6-17 PEEKL, 8-105 SCREEN CLOSE, 8-132 PEEKW, 8-106 screen mode, setting, 8-133 Pen, in Object Editor Tools menu, 7-5 SCRN:, 5-2 POINT, 8-106 SCROLL, 8-134 POKE, 8-106 scrolling program listings, 4-4, 2-8 POKEL, 8-107 selecting text, 4-3 POKEW, 8-108 sequential files, 5-7 POS, 8-108 SGN, 8-135 PRESET, 8-109 SHARED, 8-135, 6-4 PRINT, 8-109 Show List, in Windows menu, 3-11 PRINT USING, 8-111 Show Output, in Windows menu, 3-11 PRINT#, 8-116 SIN, 8-136 PRINT# USING, 8-116 single-precision constants, 8-7 printer device names, 5-3 SLEEP, 8-136 printers, using, 5-3 SOUND, program files, 5-7 description, 8-137 program execution mode, 3-4 using system heap. 6-17 Project menu, 3-8 SPACES, 8-139 PSET, 8-119 SPC, 8-140 1-4 Index speech, TAB, 8-148 using SAY, 8-129 TAN, 8-148 creating phonetic, A-23 THEN, 8-60 using TRANSLATES, 8-150 TIMES, 8-149 sprites, defining in Object Editor, 7-6 TIMER, in event trapping, 6-14"
+    ],
+    "pages": [
+      "5–10 – 5–16",
+      "8–100",
+      "8–137"
+    ],
+    "title": [
+      "8-122 Open, Rectangle, in Object\"Editor Tools menu, 7-5 in File menu, 3-8 resolution, screen, 8-134 in Object Editor File menu, 7-5 REM, 8-122 operations, hierarchy, 8-12 RESTORE, 8-124 operators"
+    ],
+    "type": "article-journal",
+    "volume": [
+      "8-124"
+    ]
+  },
+  {
+    "note": [
+      "SQR, 8-141 TIMER ON/OFF/STOP, 8-150 stack, Trace Off, 3-10 conserving space in, 6-16 Trace On, 3-10 definition, 6-16 TRANSLATE$, 8-150 setting size, 8-33, 6-16 TROFF, 8-151 using FRE with, 6-18 TRON, Start, 3-10 description, 8-151 start run key, 8-3 in debugging programs, 4-5 starting Amiga Basic, 3-2 Statement and Function Directory, 8-19 STATIC, 6-5, 8-145 STEP, 8-54, 8-70 Step option, in debugging programs, 4-6, 3-10"
+    ],
+    "type": null
+  },
+  {
+    "note": [
+      "STICK, 8-142 UCASE$, 8-152 Stop, in Run menu, 3-10 STOP, 8-143 VAL, 8-153 STRS, 8-144 variables, STRIG, 8-143 declaring. 8-9 STRINGS, 8-145 in arrays, 8-10 strings, 8-18 VARPTR, 8-153 SUB, 8-145 volume specification, 5-6 See also subprograms subprograms, WAIT, 8-137 advantages, 6-2 WAVE, calling, 6-5, 8-25 description, 8-154 delimiters, 6-3 using system heap, 6-17 referencing arrays in, 6-8 WEND, 8-155 referencing in CALL, 6-5 WHILE .. WEND, 8-155 shared variables in, 6-4 WIDTH, 8-156 static variables in, 6-5 WINDOW, Suspend, in Run menu, 4-6, 3-10 function, 8-158 SWAP, 8-147 statement, 8-158 syntax conventions, 8-19 using system heap, 6-17 SYSTEM, 8-\\47 WINDOW CLOSE/OUTPUT, 8-158 system heap, Windows menu, 3-11 conserving space in.... 6-17 word processor, transferring files, 5-19 definition, 6-17 WRITE, 8-162 setting size, 8-33, 6-16 WRITE#, 8-162 using FRE with, 6-18"
+    ],
+    "type": null
+  }
+]
