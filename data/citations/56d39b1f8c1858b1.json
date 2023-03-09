@@ -1,0 +1,46 @@
+[
+  {
+    "author": [
+      {
+        "family": "Utility",
+        "given": "Mail"
+      }
+    ],
+    "pages": [
+      "4–8 2–5 – 4–4 5–8"
+    ],
+    "title": [
+      "P controlling *2-11 preparing common database *2-15 PAMAXPORT parameter*5-7 MASSBUS disk *4-1 PANUMPOLL parameter *5-6 as cluster-accessible device *4-2, PAPOLLINTERVAL parameter*5-7 4-3 Partitioning of cluster *5-1 dual-pathed •"
+    ],
+    "type": null
+  },
+  {
+    "author": [
+      {
+        "given": "R.M.S."
+      }
+    ],
+    "container-title": [
+      "*4-1 SYSGEN parameters common command procedures *2-9 ALLOCLASS • 5-4 disk quorum *5-4 CLUSTER parameters *5-4 to 5-6 disks *2-8 DISK-QUORUM • 5-3, 5-4 dual-ported disk *2-6 PAMAXPORT • 5-7 heterogeneous environment *2-9 PANUMPOLL* 5-6 initial quorum value *5-4 PAPOLLINTERVAL • 5-7 initial VOTES value *5-6 PASANITY •"
+    ],
+    "note": [
+      "printer queues *3-2 to 3-3 PASTDGBUF • 5-6 cluster-wide generic *3-4 to 3-7 PASTIMOUT • 5-6 queues *2-8 PRCPOLINTERVAL* 5-8 terminal *2-6 QDISKINTERVAL • 5-4 Shared command procedure files *2-6 QDSKVOTES • 5-4 Shared disk volume *4-13 to 4-15 QUORUM *5-2, 5-4 for Job Controller Queue File *3-12 RECNXINTERVAL* 5-5 mounting *4-14 SCS parameters *5-6 to 5-10 Shared file SCSBUFFCNT *5-8 NETUAF.DAT *2-14 SCSCONNCNT *5-8 SYSUAF.DAT *2-14 SCSFLOWCUSH *5-9"
+    ],
+    "pages": [
+      "5–8"
+    ],
+    "title": [
+      "Shared queues *3-1 to 3-19 distributed file system • 1 -5 Sharing cluster resources *5-1 Root directories Show Cluster Utility (SHOW CLUSTER) for system files*2-10 •5-12 Rules Shutting down the cluster *5-13 for allocation classes *4-13 Single-node system booting *2-5 s Software components* 1-5 connection manager* 1-5 SCS SYSGEN parameters *5-6 to 5-10 distributed file system* 1-5 SCSBUFFCNT parameter*5-8 distributed job controller* 1-6 SCSCONNCNT parameter*5-8 distributed lock manager* 1-5 SCSFLOWCUSH parameter*5-9 Star coupler* 1-3 SCSNODE parameter *5-9 START/QUEUE/MANAGER SCSRESPCNT parmeter*5-9 command *3-1 SCSSYSTEMID parameter*5-9 Starting queues SCSSYTEMIDH parameter*5-9 batch *3-8 SET DEVICE/DUAI_PORTED printer *3-3 command *4-5 Startup SET DIRECTORY command node-specific function *2-9 to change directory UIC*A-2 SYLOGIN.COM SET FILE command building common version of *2-9 to change file UIC*A-2 coordinating *2-6 to 2-10 Setting up creating common version of *2-7 batch queues *3-8 to 3-11 defining logical name for *2-7 cluster-wide generic *3-11 SYS$BATCH cluster batch queues *3-8 redefining *3-10 cluster devices *4-15 SYSSPRINT cluster printer queues *3-2 redefining for local generic cluster queues *3-1 queues *3-6 cluster-accessible disks"
+    ],
+    "type": "chapter"
+  },
+  {
+    "note": [
+      "setting up *2-14 sharing *2-11 sharing *2-11 Volume using convert to merge *A-2 shared *4-13 to 4-15 mounting *4-14 T VOTES parameter*5-2, 5-6"
+    ],
+    "title": [
+      "System file VAXCLUSTER parameter*5-5 building common versions *2-11 VAXcluster software coordinating *2-10 to 2-17 connection manager* 1-5, 5-1 to System Generation Utility (SYSGEN) 5-4 how to invoke *C-1 distributed file system* 1-5 running to set SYSGEN parameters* distributed job controller* 1-6 5-10 distributed lock manager* 1-5 SYSUAF.DAT system communication services* building common version of *2-13 1-5 to 2-15 VMSMAIL.DAT defining logical name for *2-14 defining logical name for *2-15 printing listing of*A-1 preparing common version of *2-15"
+    ],
+    "type": null
+  }
+]
